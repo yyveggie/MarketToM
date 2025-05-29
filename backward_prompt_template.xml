@@ -1,0 +1,84 @@
+<MarketBackwardInference>
+  <AgentDescription>
+    You are an AI assistant using a Theory-of-Mind approach, treating the stock market as a collective cognitive entity with mental states. The market mental states and actions follow a Causal Bayesian Network (CBN): Environmental States -> Belief, Belief -> Intention, Intention + Environmental States -> Emotion, Intention + Emotion -> Action.
+
+    Your previous forward inference predicted the market behavior to be [PREDICTED ACTION], whereas the actual observed outcome was [ACTUAL ACTION], indicating a prediction error.
+    Your task is to perform backward inference based on the provided historical reasoning trajectories, including strategies and inferred mental states,
+    in order to identify the sources of error, refine existing inference mechanisms, and generate new strategies where they were previously missing, all in a single-pass response.
+  </AgentDescription>
+
+  <Inputs>
+    <Belief>
+      <Description>[DESCRIPTION OF INFERRED BELIEF]</Description>
+      <Strategy>[BELIEF STRATEGY]</Strategy>
+      <!-- LLM should internally assess belief-based prediction -->
+    </Belief>
+    <Intention>
+      <Description>[DESCRIPTION OF INFERRED INTENTION]</Description>
+      <Strategy>[INTENTION STRATEGY]</Strategy>
+      <!-- LLM should internally assess intention-based prediction -->
+    </Intention>
+    <Emotion>
+      <Description>[DESCRIPTION OF INFERRED EMOTION]</Description>
+      <Strategy>[EMOTION STRATEGY]</Strategy>
+      <!-- LLM should internally assess emotion-based prediction -->
+    </Emotion>
+    <Action>
+      <!-- Using final probability as description proxy -->
+      <Description>[DESCRIPTION OF INFERRED ACTION]</Description>
+      <Strategy>[ACTION STRATEGY]</Strategy>
+      <PredictedAction>[PREDICTED ACTION]</PredictedAction>
+      <ActualAction>[ACTUAL ACTION]</ActualAction>
+    </Action>
+    <EnvironmentalStates>[MARKET CONTEXT INCLUDING PRICING AND TEXTUAL INFORMATION]</EnvironmentalStates>
+  </Inputs>
+
+  <Instructions>
+    <Step1>
+      <Title>Identify Error Sources</Title>
+      <Description>
+        Analyze the strategy (or lack thereof) and prediction associated with each mental state to determine which inference step(s) most likely contributed
+        to the erroneous prediction of [PREDICTED ACTION] instead of the observed [ACTUAL ACTION].
+        Assess how each provided strategy may have misinterpreted causal dependencies or contextual signals. Identify which mental states lacked a guiding strategy if their <Strategy> input contains a placeholder like [NO STRATEGY ID PROVIDED] or [STRATEGY TEXT NOT FOUND...].
+      </Description>
+    </Step1>
+
+    <Step2>
+      <Title>Revise Existing Strategies and Generate New Strategies</Title>
+      <Description>
+        - For mental states with existing but flawed strategies: Propose precise modifications to these flawed strategies to better align future predictions with actual market behaviors.
+        - For mental states identified in Step 1 as lacking an initial strategy (input <Strategy> was a placeholder): Generate a new, suitable strategy based on the inferred mental state description (<Description>), the overall context (<EnvironmentalStates>), and the analysis of the prediction error ([PREDICTED ACTION] vs [ACTUAL ACTION]).
+        - Ensure all revised and generated strategies remain generalizable, avoiding references to specific companies, numerical thresholds, or named entities. Use qualitative descriptors.
+      </Description>
+    </Step2>
+
+    <Step3>
+      <Title>Output</Title>
+      <Description>
+        Provide your response strictly in the XML format defined in the <Output> section below. Include:
+        1. A concise analysis of the error sources.
+        2. A list of revised strategies, each with its original ID (if applicable), revised content, and reasoning.
+        3. A list of newly generated strategies, each with its corresponding mental state level, generated content, and reasoning based on the error analysis.
+      </Description>
+    </Step3>
+  </Instructions>
+
+  <Output>
+    <ErrorAnalysis>[CONCISE ANALYSIS OF ERROR SOURCES]</ErrorAnalysis>
+    <RevisedStrategies>
+      <!-- Repeat this block for each revised strategy -->
+      <Strategy level="[level, e.g., belief]">
+        <OriginalID>[original_strategy_id, if applicable, e.g., belief_strat_123 or the placeholder if ID was missing but text existed]</OriginalID>
+        <RevisedContent>[REFINED VERSION OF THE STRATEGY]</RevisedContent>
+        <Reasoning>[REASONING FOR REVISION]</Reasoning>
+      </Strategy>
+    </RevisedStrategies>
+    <GeneratedStrategies>
+      <!-- Repeat this block for each newly generated strategy -->
+      <Strategy level="[level, e.g., intent]">
+        <GeneratedContent>[NEWLY GENERATED STRATEGY CONTENT]</GeneratedContent>
+        <Reasoning>[REASONING FOR GENERATION BASED ON ERROR ANALYSIS AND CONTEXT]</Reasoning>
+      </Strategy>
+    </GeneratedStrategies>
+  </Output>
+</MarketBackwardInference> 

@@ -1,0 +1,54 @@
+{
+  "api": {
+    "active_llm_provider": "openai",
+    "providers": {
+      "openai": {
+        "api_key": "OPENAI_API_KEY", 
+        "llm_model_default": "gpt-4o"
+      },
+      "grok": {
+        "api_key": "GROK_API_KEY",
+        "base_url": "https://api.x.ai/v1",
+        "llm_model_default": "grok-3-beta"
+      }
+    }
+  },
+  "directories": {
+    "inference_logs": "./inference_logs",
+    "strategy_database": "./strategy_database",
+    "data_base_dir": "./data/StockNet/Train",
+    "prediction_log_path": "./prediction_results.json"
+  },
+  "data_params": {
+    "default_window_size": 5,
+    "default_stocks": ["AAPL"],
+    "skip_backward_inference": false
+  },
+  "templates": {
+    "forward_inference": "forward_prompt_template.xml",
+    "action_probability": "action_prob_prompt_template.xml",
+    "backward_inference": "backward_prompt_template.xml"
+  },
+  "cep_retrieval": {
+    "default_top_k": 1,
+    "similarity_threshold": 0.7,
+    "action_prob_top_k": 1
+  },
+  "forward_inference_params": {
+    "max_retries": 5,
+    "base_delay_seconds": 1
+  },
+  "action_probability_params": {
+    "num_probabilities_to_generate": 10,
+    "max_retries_list": 5,
+    "base_delay_list_seconds": 1,
+    "max_retries_logprobs": 5,
+    "base_delay_logprobs_seconds": 1
+  },
+  "backward_inference_params": {
+    "max_retries": 5,
+    "base_delay_seconds": 2,
+    "llm_temperature": 0.2,
+    "llm_max_tokens": 5000
+  }
+}

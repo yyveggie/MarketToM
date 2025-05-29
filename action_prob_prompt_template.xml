@@ -1,0 +1,50 @@
+<MarketUpwardProbabilityInference>
+  <AgentDescription>
+    You are an AI assistant using a Theory-of-Mind approach, treating the stock market as a collective cognitive entity with mental states. 
+    The market mental states and actions follow a Causal Bayesian Network (CBN): Environmental States -> Belief, Belief -> Intention, Intention + Environmental States -> Emotion, Intention + Emotion -> Action (Upward/Downward Trend).
+  </AgentDescription>
+
+  <Task>
+    Your task is to infer the probability of the market **trending upwards** (P(up)) in the next period, compared to trending downwards (P(down) = 1 - P(up)). Provide {num_probabilities} **diverse** estimates reflecting this assessment, using strategies retrieved from the Cognitive Enhancement Plugin (CEP) and your own knowledge to guide your inference.
+  </Task>
+
+  <Inputs>
+    <PrecedingNodeState>[DESCRIPTION OF THE PRECEDING NODE STATE]</PrecedingNodeState>
+    <CEPStrategy>[STRATEGY RETRIEVED FROM CEP]</CEPStrategy>
+  </Inputs>
+
+  <Instructions>
+    <Step1>
+      <Title>Define Upward Trend</Title>
+      <Description>
+        Explain what an Upward Trend action represents in the context of market behavior.
+      </Description>
+    </Step1>
+
+    <Step2>
+      <Title>Infer Upward Trend Probability Using Maximum A Posteriori</Title>
+      <Substeps>
+        <Prior>
+          Combine your general knowledge of market behavior with the CEP strategy to estimate the prior probability of an Upward Trend under similar historical conditions.
+        </Prior>
+        <Likelihood>
+          Based on the preceding state from the CBN, evaluate the likelihood of an Upward Trend given the current conditions.
+        </Likelihood>
+        <Posterior>
+          Combine the Prior and Likelihood to compute the posterior probability of an Upward Trend, generating {num_probabilities} diverse supporting probability estimates (P(up)). These estimates should reflect uncertainty and potentially include values below 0.5 if a downward trend seems more likely.
+        </Posterior>
+      </Substeps>
+    </Step2>
+
+    <Step3>
+      <Title>Summarize</Title>
+      <Description>
+        Provide the final probability estimates for the market trending upwards (P(up)), listing {num_probabilities} diverse support probabilities.
+      </Description>
+    </Step3>
+  </Instructions>
+
+  <Output>
+    <UpwardProbabilities>[LIST OF {num_probabilities} PROBABILITY VALUES, e.g., 0.71, 0.69, 0.45, 0.38, 0.55, ...]</UpwardProbabilities>
+  </Output>
+</MarketUpwardProbabilityInference> 
