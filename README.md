@@ -1,14 +1,20 @@
 # MarketToM: Stock Trend Prediction via Theory of Mind
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Framework](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/)
+
+> **📄 Paper Status:** This repository contains the official implementation code for the paper *"Actions Speak Louder than Words, Yet Stem from the Mind: Stock Trend Prediction from a Theory-of-Mind Perspective"* (currently under review). The code and documentation provided here support full reproducibility of our experimental results.
+
+---
 
 ## Overview
 
 **MarketToM** is the official implementation of the framework introduced in the paper:
 
 > **"Actions Speak Louder than Words, Yet Stem from the Mind: Stock Trend Prediction from a Theory-of-Mind Perspective"**
+> 
+> *Status: Under Review*
 
 This framework pioneers a novel approach to financial market prediction by modeling the market as a **collective cognitive entity** with mental states. Drawing from Theory of Mind (ToM) principles in cognitive science, MarketToM constructs a **Causal Bayesian Network (CBN)** to explicitly represent and infer the market's:
 
@@ -86,7 +92,7 @@ For more details, see [`web/README.md`](web/README.md).
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-org/MarketToM.git
+git clone https://github.com/yyveggie/MarketToM.git
 cd MarketToM
 ```
 
@@ -154,13 +160,13 @@ Edit `config.json` and add your LLM provider API key:
 Run inference on a single stock:
 
 ```bash
-python run_new.py
+python run.py
 ```
 
 Run with custom configuration:
 
 ```bash
-python run_new.py --config custom_config.json
+python run.py --config custom_config.json
 ```
 
 ### Web Interface
@@ -169,9 +175,7 @@ Launch the interactive visualization dashboard:
 
 ```bash
 cd web
-./start_web.sh    # macOS/Linux
-# or
-start_web.bat     # Windows
+python app.py
 ```
 
 Then navigate to http://localhost:8080 in your browser.
@@ -203,26 +207,25 @@ MarketToM/
 │   ├── backward_prompt_template.xml     # Backward inference template
 │   ├── action_prob_prompt_template.xml  # Action probability template
 │   └── expert_action_prob_template.xml  # Expert action probability template
-├── web/ 🆕                  # Web Visualization Interface
+├── web/                     # Web Visualization Interface
 │   ├── app.py              # Flask backend
-│   ├── templates/          # HTML templates
-│   ├── static/             # CSS, JavaScript, images
-│   ├── start_web.sh        # Startup script (macOS/Linux)
-│   ├── start_web.bat       # Startup script (Windows)
-│   └── README.md           # Web interface documentation
+│   ├── start.sh            # Startup script
+│   ├── templates/          # HTML templates (index.html)
+│   └── static/             # CSS, JavaScript assets
+├── visualization/           # Visualization tools
+│   ├── mental_state_visualizer.py  # Mental state visualization
+│   └── visualize_latest_inference.py # Latest inference visualizer
 ├── evaluation/              # Evaluation modules
-│   ├── evaluate_predictions.py # Evaluate prediction results
-│   └── test.py              # Test scripts
+│   └── evaluate_predictions.py # Evaluate prediction results
 ├── storage/                 # Storage directory
-│   ├── inference_logs/      # Inference logs
-│   └── strategy_database/   # Strategy database
-├── utils/                   # Utility tools
-│   ├── fix_tags.py          # XML tag fixing tool
-│   └── ...                  # Other utility scripts
-├── Data/                    # Raw data
-│   └── ...
-├── config.json              # Configuration file
-├── run_new.py               # Main program (command-line)
+│   ├── inference_logs/      # Inference logs (JSON)
+│   ├── backward_inference_logs/ # Backward inference logs
+│   ├── strategy_database/   # Strategy database (JSON)
+│   └── visualizations/      # Generated visualization images
+├── config.json              # Configuration file (API keys, parameters)
+├── config.example.json      # Configuration template
+├── requirements.txt         # Python dependencies
+├── run.py                   # Main program (command-line)
 └── README.md                # Project documentation
 ```
 
@@ -685,14 +688,15 @@ All visualization features are now fully integrated with extended text display a
 If you use MarketToM in your research, please cite our paper:
 
 ```bibtex
-@article{markettom2024,
+@article{markettom2025,
   title={Actions Speak Louder than Words, Yet Stem from the Mind: Stock Trend Prediction from a Theory-of-Mind Perspective},
-  author={[Author Names]},
-  journal={[Journal/Conference Name]},
-  year={2024},
-  publisher={[Publisher]}
+  author={[Authors]},
+  journal={Under Review},
+  year={2025}
 }
 ```
+
+**Note**: This paper is currently under review. Citation information will be updated upon publication.
 
 ---
 
@@ -743,22 +747,22 @@ We thank the following for their contributions to this research:
 
 For questions, issues, or collaboration inquiries:
 
-- **GitHub Issues**: [https://github.com/your-org/MarketToM/issues](https://github.com/your-org/MarketToM/issues)
-- **Email**: [your-email@institution.edu]
-- **Paper**: [arXiv link or DOI]
+- **GitHub Issues**: [https://github.com/yyveggie/MarketToM/issues](https://github.com/yyveggie/MarketToM/issues)
+- **Paper**: Currently under review (arXiv link will be added upon publication)
 
 ---
 
 ## Changelog
 
-### Version 1.1.0 (2024-10)
-- ✨ Added real-time web visualization interface
+### Version 1.1.0 (January 2025)
+- ✨ Added real-time web visualization interface with English UI
 - 🔧 Improved backward inference strategy updates
 - 📊 Enhanced expert perspective method
 - 🐛 Fixed data loading issues for CMIN datasets
 - 📝 Comprehensive documentation updates
+- 🌐 Repository prepared for public release
 
-### Version 1.0.0 (2024-XX)
+### Version 1.0.0 (2024)
 - 🎉 Initial release
 - 🧠 Core Theory-of-Mind framework implementation
 - 📈 Support for CMIN-CN, CMIN-US, StockNet datasets
@@ -812,6 +816,6 @@ A: Yes! MarketToM primarily uses LLM APIs and doesn't require local GPU resource
 
 **⭐ Star us on GitHub if you find MarketToM useful!**
 
-**📄 Read the full paper:** [Link to paper]
+**📄 Paper:** Currently under review. Links will be added upon publication.
 
-**🎥 Demo video:** [Link to demo]
+**🌐 Repository:** [https://github.com/yyveggie/MarketToM](https://github.com/yyveggie/MarketToM)
