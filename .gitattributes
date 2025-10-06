@@ -1,0 +1,20 @@
+# Text files - ensure consistent line endings
+*.md text
+*.txt text
+*.xml text
+*.py text
+*.js text
+*.css text
+*.html text
+*.json text
+*.sh text eol=lf
+*.bat text eol=crlf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.xlsx binary
+*.zip binary
+*.tar.gz binary

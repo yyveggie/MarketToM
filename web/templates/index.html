@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MarketToM - Theory of Mind for Stock Market Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}?v=3">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Control Panel -->
+            <aside class="control-panel">
+                <h2><i class="fas fa-cog"></i> Control Panel</h2>
+                
+                <!-- Dataset Selection -->
+                <div class="control-group">
+                    <label for="dataset-select">Dataset</label>
+                    <select id="dataset-select" class="control-input">
+                        <option value="">Loading...</option>
+                    </select>
+                </div>
+
+                <!-- Split Selection -->
+                <div class="control-group">
+                    <label for="split-select">Data Split</label>
+                    <select id="split-select" class="control-input">
+                        <option value="">Select dataset first</option>
+                    </select>
+                </div>
+
+                <!-- Stock Selection -->
+                <div class="control-group">
+                    <label for="stock-select">Stock</label>
+                    <select id="stock-select" class="control-input">
+                        <option value="">Select split first</option>
+                    </select>
+                </div>
+
+                <!-- Day Index -->
+                <div class="control-group">
+                    <label for="day-index">Day Index</label>
+                    <input type="number" id="day-index" class="control-input" value="0" min="0">
+                </div>
+
+                <!-- Window Size -->
+                <div class="control-group">
+                    <label for="window-size">Window Size</label>
+                    <input type="number" id="window-size" class="control-input" value="5" min="1" max="30">
+                </div>
+
+                <!-- Run Button -->
+                <button id="run-inference-btn" class="btn btn-primary" disabled>
+                    <i class="fas fa-play"></i> Run Inference
+                </button>
+
+                <!-- Progress Bar -->
+                <div id="progress-container" class="progress-container" style="display: none;">
+                    <div class="progress-bar">
+                        <div id="progress-fill" class="progress-fill"></div>
+                    </div>
+                    <p id="progress-text" class="progress-text">Preparing...</p>
+                </div>
+
+                <!-- Quick Actions -->
+                <div class="quick-actions">
+                    <h3>Quick Actions</h3>
+                    <button class="btn btn-secondary btn-sm" onclick="viewStrategies()">
+                        <i class="fas fa-database"></i> View Strategies
+                    </button>
+                    <button class="btn btn-secondary btn-sm" onclick="viewLogs()">
+                        <i class="fas fa-history"></i> Inference Logs
+                    </button>
+                    <button class="btn btn-secondary btn-sm" onclick="viewConfig()">
+                        <i class="fas fa-wrench"></i> Configuration
+                    </button>
+                </div>
+            </aside>
+
+            <!-- Results Panel -->
+            <main class="results-panel">
+                <!-- Welcome Screen -->
+                <div id="welcome-screen" class="welcome-screen">
+                    <i class="fas fa-brain fa-5x"></i>
+                    <h2>Welcome to MarketToM</h2>
+                    <p>Theory of Mind Framework for Stock Market Prediction</p>
+                    <div class="features">
+                        <div class="feature">
+                            <i class="fas fa-lightbulb"></i>
+                            <h4>Causal Reasoning</h4>
+                            <p>Model market mental states with Causal Bayesian Networks</p>
+                        </div>
+                        <div class="feature">
+                            <i class="fas fa-sync-alt"></i>
+                            <h4>Self-Refining</h4>
+                            <p>Continuously optimize strategy database via backward inference</p>
+                        </div>
+                        <div class="feature">
+                            <i class="fas fa-chart-line"></i>
+                            <h4>Accurate Prediction</h4>
+                            <p>Multi-expert perspective integration for enhanced accuracy</p>
+                        </div>
+                    </div>
+                    <p class="hint">👈 Select dataset and stock on the left, then click "Run Inference"</p>
+                </div>
+
+                <!-- Results Display -->
+                <div id="results-screen" class="results-screen" style="display: none;">
+                    <!-- Basic Information -->
+                    <div class="info-card">
+                        <h3><i class="fas fa-info-circle"></i> Inference Info</h3>
+                        <div class="info-grid">
+                            <div class="info-item">
+                                <span class="info-label">Dataset:</span>
+                                <span id="result-dataset" class="info-value">-</span>
+                            </div>
+                            <div class="info-item">
+                                <span class="info-label">Stock:</span>
+                                <span id="result-stock" class="info-value">-</span>
+                            </div>
+                            <div class="info-item">
+                                <span class="info-label">Date:</span>
+                                <span id="result-day" class="info-value">-</span>
+                            </div>
+                            <div class="info-item">
+                                <span class="info-label">Time:</span>
+                                <span id="result-timestamp" class="info-value">-</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Prediction Results -->
+                    <div class="prediction-card">
+                        <h3><i class="fas fa-bullseye"></i> Prediction Results</h3>
+                        <div class="prediction-grid">
+                            <div class="prediction-item">
+                                <p class="prediction-label">Predicted Action</p>
+                                <div id="predicted-action" class="action-badge">-</div>
+                            </div>
+                            <div class="prediction-item">
+                                <p class="prediction-label">Actual Action</p>
+                                <div id="actual-action" class="action-badge">-</div>
+                            </div>
+                            <div class="prediction-item">
+                                <p class="prediction-label">Accuracy</p>
+                                <div id="accuracy-badge" class="accuracy-badge">-</div>
+                            </div>
+                            <div class="prediction-item">
+                                <p class="prediction-label">Confidence</p>
+                                <div id="confidence-score" class="confidence-score">-</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Expert Judgments -->
+                    <div class="expert-samples-card" id="expert-samples-card" style="display: none;">
+                        <h3><i class="fas fa-users"></i> Expert Judgments</h3>
+                        <div id="expert-samples-content" class="expert-samples-grid">
+                            <!-- Expert judgments will be loaded dynamically -->
+                        </div>
+                    </div>
+
+                    <!-- Mental States -->
+                    <div class="mental-states-card">
+                        <h3><i class="fas fa-brain"></i> Market Mental States</h3>
+                        
+                        <div class="mental-state-item">
+                            <div class="mental-state-header">
+                                <i class="fas fa-eye"></i>
+                                <h4>Belief</h4>
+                            </div>
+                            <div id="belief-content" class="mental-state-content">
+                                Loading...
+                            </div>
+                        </div>
+
+                        <div class="mental-state-item">
+                            <div class="mental-state-header">
+                                <i class="fas fa-crosshairs"></i>
+                                <h4>Intent</h4>
+                            </div>
+                            <div id="intent-content" class="mental-state-content">
+                                Loading...
+                            </div>
+                        </div>
+
+                        <div class="mental-state-item">
+                            <div class="mental-state-header">
+                                <i class="fas fa-heart"></i>
+                                <h4>Emotion</h4>
+                            </div>
+                            <div id="emotion-content" class="mental-state-content">
+                                Loading...
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Retrieved Strategies -->
+                    <div class="strategies-card" id="strategies-card" style="display: none;">
+                        <h3><i class="fas fa-database"></i> Retrieved Strategies</h3>
+                        <div id="retrieved-strategies-content"></div>
+                    </div>
+
+                    <!-- Backward Inference -->
+                    <div class="backward-card" id="backward-card" style="display: none;">
+                        <h3><i class="fas fa-redo-alt"></i> Backward Inference</h3>
+                        <p class="backward-note">Prediction error detected. System is learning and updating strategies...</p>
+                        <div id="backward-content"></div>
+                    </div>
+
+                    <!-- Environment Data -->
+                    <div class="environment-card">
+                        <h3><i class="fas fa-globe"></i> Environment Data</h3>
+                        <div class="environment-content">
+                            <div class="env-section">
+                                <h4>Text Data Samples</h4>
+                                <div id="sample-texts" class="text-samples"></div>
+                            </div>
+                            <div class="env-section">
+                                <h4>Price Data</h4>
+                                <div id="price-data" class="price-data"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <!-- Modal Window -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 id="modal-title">Title</h2>
+            <div id="modal-body">Content</div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/app.js') }}?v=2"></script>
+</body>
+</html>
+

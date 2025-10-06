@@ -1,0 +1,56 @@
+{
+  "api": {
+    "active_llm_provider": "openai",
+    "providers": {
+      "openai": {
+        "api_key": "YOUR_API_KEY_HERE",
+        "base_url": "https://api.openai.com/v1",
+        "llm_model_default": "gpt-4o",
+        "llm_temperature": 0.7
+      }
+    }
+  },
+  "data_params": {
+    "dataset_name": "StockNet",
+    "split": "Test",
+    "stock_name": "AAPL",
+    "default_window_size": 5,
+    "skip_backward_inference": false,
+    "default_stocks": ["AAPL", "FB", "T", "GOOG", "AMZN"]
+  },
+  "directories": {
+    "data_base_dir": "./data",
+    "strategy_database": "./storage/strategy_database",
+    "inference_logs": "./storage/inference_logs",
+    "backward_inference_logs": "./storage/backward_inference_logs"
+  },
+  "templates": {
+    "forward_inference": "./templates/forward_prompt_template.xml",
+    "backward_inference": "./templates/backward_prompt_template.xml",
+    "action_probability": "./templates/action_prob_prompt_template.xml",
+    "expert_action_probability": "./templates/expert_action_prob_template.xml"
+  },
+  "cep_retrieval": {
+    "default_top_k": 1,
+    "similarity_threshold": 0.1,
+    "belief_similarity_threshold": 0.1,
+    "intent_similarity_threshold": 0.1,
+    "emotion_similarity_threshold": 0.1
+  },
+  "forward_inference_params": {
+    "llm_temperature": 0.7,
+    "max_retries": 5,
+    "base_delay_seconds": 1
+  },
+  "action_probability_params": {
+    "use_expert_perspective_method": true,
+    "num_probabilities_to_generate": 10,
+    "llm_temperature": 0.7
+  },
+  "backward_inference_params": {
+    "llm_temperature": 0.7,
+    "llm_max_tokens": 5000,
+    "max_retries": 5
+  }
+}
+

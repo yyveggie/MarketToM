@@ -1,0 +1,27 @@
+#!/bin/bash
+# Quick commands for GitHub setup
+
+echo "📦 MarketToM GitHub 快速命令"
+echo "======================================"
+echo ""
+echo "1️⃣  检查将要提交的文件:"
+echo "   ./check_git_files.sh"
+echo ""
+echo "2️⃣  添加文件到暂存区:"
+echo "   git add ."
+echo ""
+echo "3️⃣  查看暂存状态:"
+echo "   git status"
+echo ""
+echo "4️⃣  创建提交:"
+echo '   git commit -m "Initial commit: MarketToM framework"'
+echo ""
+echo "5️⃣  连接远程仓库:"
+echo "   git remote add origin https://github.com/YOUR_USERNAME/MarketToM.git"
+echo ""
+echo "6️⃣  推送到 GitHub:"
+echo "   git push -u origin main"
+echo ""
+echo "======================================"
+echo "💡 详细说明请查看 GITHUB_SETUP.md"
+echo ""

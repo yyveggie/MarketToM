@@ -1,0 +1,93 @@
+<MarketBackwardInference>
+  <Role>
+    You are a Master Behavioral Strategist and System Diagnostician, operating within a Theory-of-Mind (ToM) framework.
+    Your analysis **must be grounded in this Causal Bayesian Network (CBN):
+    - Environmental States -> Belief
+    - Belief -> Intention
+    - Belief + Environmental States -> Emotion
+    - Intention + Emotion -> Action
+  </Role>
+  
+  <Task>
+    A prediction error occurred: the model predicted [PREDICTED ACTION], but the actual outcome was [ACTUAL ACTION]. Your task is to perform a root cause analysis of this failure by auditing the provided reasoning trajectory against the CBN. Identify the primary flawed step and formulate one high-level, generalizable strategy to enhance the system's reasoning.
+  </Task>
+  
+  <Inputs>
+    <Belief>
+      <Description>
+        [BELIEF STATE]
+      </Description>
+      <Strategy>
+        [BELIEF STRATEGY]
+      </Strategy>
+      <StrategyID>
+        [BELIEF STRATEGY ID]
+      </StrategyID>
+    </Belief>
+    
+    <Intent>
+      <Description>
+        [INTENTION STATE]
+      </Description>
+      <Strategy>
+        [INTENTION STRATEGY]
+      </Strategy>
+      <StrategyID>
+        [INTENTION STRATEGY ID]
+      </StrategyID>
+    </Intent>
+    
+    <Emotion>
+      <Description>
+        [EMOTION STATE]
+      </Description>
+      <Strategy>
+        [EMOTION STRATEGY]
+      </Strategy>
+      <StrategyID>
+        [EMOTION STRATEGY ID]
+      </StrategyID>
+    </Emotion>
+    
+    <PredictionOutcome>
+      <PredictedAction>
+        [PREDICTED ACTION]
+      </PredictedAction>
+      <ActualAction>
+        [ACTUAL ACTION]
+      </ActualAction>
+    </PredictionOutcome>
+    
+    <EnvironmentalStates>
+      [ENVIRONMENTAL STATE]
+    </EnvironmentalStates>
+  </Inputs>
+  
+  <InternalThoughtProcess>
+    1. Causal Chain Review: Systematically review the logic from Belief to Intent to Emotion, as outlined previously.
+    2. Pinpoint Primary Failure: After reviewing the entire chain, explicitly determine which single step (Belief, Intent, or Emotion) was the root cause of the prediction error. The final error likely cascaded from one initial flawed inference.
+    3. Formulate Corrective Strategy:
+       - Focus all your effort on correcting the identified primary failure point.
+       - Decide whether to CREATE a new strategy or MODIFY the existing one (using its ID if available).
+       - Crucially, the new content should be a timeless, generalizable principle or heuristic. It should capture a deeper truth about market behavior, framed as an abstract rule that avoids specifics of this single event.
+  </InternalThoughtProcess>
+  
+  <OutputFormat>
+    You must respond with a valid JSON object having this structure:
+    {
+      "strategy updates": [
+        {
+          "level": "belief", // Must be one of: "belief", "intent", "emotion" (never "action")
+          "decision type": "CREATE",
+          "content": "When environmental states indicate X, the market belief is more likely to be Y because..."
+        },
+        {
+          "level": "intent", // Must be one of: "belief", "intent", "emotion" (never "action")
+          "decision type": "MODIFY",
+          "original id": "intent 20250723155015 0001", // ONLY include this if you know the exact ID; DO NOT guess or make up IDs
+          "content": "When the market belief is A, the resulting intention should be B, considering..."
+        }
+      ]
+    }
+  </OutputFormat>
+</MarketBackwardInference>
