@@ -139,7 +139,7 @@ class BackwardInference:
         self.llm_temperature = llm_temperature
         self.llm_max_tokens = llm_max_tokens
         
-        # 创建反向推理日志目录
+        # Create backward inference log directory
         self.backward_logs_dir = os.path.join(os.path.dirname(inference_logs_abs_path), "backward_inference_logs")
         os.makedirs(self.backward_logs_dir, exist_ok=True)
         
@@ -156,18 +156,18 @@ class BackwardInference:
                                     strategy_updates: List[Dict],
                                     analysis_result: str) -> str:
         """
-        保存反向推理日志
+        Save backward inference log
         
         Args:
-            timestamp: 推理时间戳
-            predicted_action: 预测动作
-            actual_action: 实际动作
-            inference_filename: 原始推理文件名
-            strategy_updates: 策略更新列表
-            analysis_result: LLM分析结果
+            timestamp: Inference timestamp
+            predicted_action: Predicted action
+            actual_action: Actual action
+            inference_filename: Original inference filename
+            strategy_updates: List of strategy updates
+            analysis_result: LLM analysis result
             
         Returns:
-            保存的日志文件路径
+            Path to saved log file
         """
         log_entry = {
             "timestamp": timestamp,
@@ -181,7 +181,7 @@ class BackwardInference:
             "backward_inference_timestamp": datetime.now().isoformat()
         }
         
-        # 生成文件名：backward_YYYYMMDD_HHMMSS.json
+        # Generate filename: backward_YYYYMMDD_HHMMSS.json
         dt = datetime.now()
         filename = f"backward_{dt.strftime('%Y%m%d_%H%M%S')}.json"
         filepath = os.path.join(self.backward_logs_dir, filename)
@@ -313,7 +313,8 @@ class BackwardInference:
                         {"role": "system", "content": formatted_prompt}
                     ],
                     temperature=self.llm_temperature,
-                    max_tokens=self.llm_max_tokens
+                    max_tokens=self.llm_max_tokens,
+                    response_format={"type": "json_object"}
                 )
                 logger.info("LLM call successful")
                 print(f"{COLOR_SUCCESS}✓ Analysis completed{COLOR_RESET}")
@@ -411,6 +412,18 @@ class BackwardInference:
             except Exception as e:
                 logger.warning(f"Error extracting JSON: {str(e)}")
                 return
+            
+            # Normalize keys: replace spaces with underscores (compatible with LLM return format)
+            def normalize_keys(obj):
+                if isinstance(obj, dict):
+                    return {k.replace(' ', '_'): normalize_keys(v) for k, v in obj.items()}
+                elif isinstance(obj, list):
+                    return [normalize_keys(item) for item in obj]
+                else:
+                    return obj
+            
+            json_data = normalize_keys(json_data)
+            logger.debug(f"Normalized keys: {list(json_data.keys())}")
             
             try:
                 if "strategy_updates" in json_data and isinstance(json_data["strategy_updates"], list):
@@ -614,33 +627,37 @@ class BackwardInference:
             if any_changes:
                 print(f"\n{COLOR_SUCCESS}✓ Successfully implemented {success_count} improvements{COLOR_RESET}")
             
-            # 🆕 返回按level分组的策略更新（用于前端显示）
+            # Return grouped strategy updates by level (for frontend display)
             grouped_updates = {}
             for level, actions in modified_strategies.items():
                 level_updates = []
                 
-                # 创建的策略
+                # Created strategies
                 for strategy_id in actions["create"]:
-                    strategy_data = self.cep.retrieve_strategy_by_id(level, strategy_id)
+                    strategy_data = self.cep.get_strategy_by_id(level, strategy_id)
                     if strategy_data and "item" in strategy_data:
                         level_updates.append({
-                            "type": "创建",
+                            "type": "CREATE",
                             "id": strategy_id,
                             "content": strategy_data["item"].get("strategy", "N/A")
                         })
                 
-                # 修改的策略
+                # Modified strategies
                 for strategy_id in actions["modify"]:
-                    strategy_data = self.cep.retrieve_strategy_by_id(level, strategy_id)
+                    strategy_data = self.cep.get_strategy_by_id(level, strategy_id)
                     if strategy_data and "item" in strategy_data:
                         level_updates.append({
-                            "type": "修改",
+                            "type": "MODIFY",
                             "id": strategy_id,
                             "content": strategy_data["item"].get("strategy", "N/A")
                         })
                 
                 if level_updates:
                     grouped_updates[level] = level_updates
+            
+            logger.info(f"Returning {len(grouped_updates)} level(s) of strategy updates")
+            for level, updates in grouped_updates.items():
+                logger.info(f"  {level}: {len(updates)} updates")
             
             return grouped_updates
                     
@@ -649,7 +666,7 @@ class BackwardInference:
             logger.error(traceback.format_exc())
             return []
 
-    def perform_backward_inference(self, filename: str, predicted_action: str, actual_action: str) -> Optional[str]:
+    def perform_backward_inference(self, filename: str, predicted_action: str, actual_action: str) -> Optional[Dict]:
         """Perform backward inference analysis on prediction errors"""
         try:
             print(f"\n{COLOR_TITLE}=== ANALYZING PREDICTION ERROR ==={COLOR_RESET}")
@@ -701,10 +718,10 @@ class BackwardInference:
                  print(f"{COLOR_ERROR}✗ Analysis failed{COLOR_RESET}")
                  return None
 
-            # 处理LLM响应并提取策略更新
+            # Process LLM response and extract strategy updates
             strategy_updates = self._process_llm_backward_response(llm_analysis_text, log_data)
             
-            # 保存反向推理日志
+            # Save backward inference log
             timestamp = log_data.get("timestamp", datetime.now().isoformat())
             self._save_backward_inference_log(
                 timestamp=timestamp,
@@ -715,10 +732,10 @@ class BackwardInference:
                 analysis_result=llm_analysis_text
             )
             
-            # 🆕 返回包含策略更新的完整结果
+            # Return analysis text and strategy updates (dict format, compatible with both run.py and web)
             return {
                 'analysis': llm_analysis_text,
-                '策略库更新': strategy_updates or {}
+                'strategy_updates': strategy_updates
             }
 
         except Exception as e:

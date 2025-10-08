@@ -210,6 +210,31 @@
                         <div id="backward-content"></div>
                     </div>
 
+                    <!-- Inference Flow Visualization -->
+                    <div class="visualization-card" id="visualization-card" style="display: none;">
+                        <h3><i class="fas fa-project-diagram"></i> Inference Flow Visualization</h3>
+                        <p class="visualization-note">Visual representation of the complete inference process including mental states, strategies, and predictions</p>
+                        <div id="visualization-content" class="visualization-content">
+                            <div class="visualization-loading" id="visualization-loading">
+                                <i class="fas fa-spinner fa-spin"></i> Generating visualization...
+                            </div>
+                            <div class="visualization-image" id="visualization-image" style="display: none;">
+                                <img id="visualization-img" src="" alt="Inference Flow Visualization" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+                                <div class="visualization-actions" style="margin-top: 10px;">
+                                    <button class="btn btn-secondary btn-sm" onclick="openVisualizationInNewTab()">
+                                        <i class="fas fa-external-link-alt"></i> Open in New Tab
+                                    </button>
+                                    <button class="btn btn-secondary btn-sm" onclick="regenerateVisualization()">
+                                        <i class="fas fa-sync-alt"></i> Regenerate
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="visualization-error" id="visualization-error" style="display: none; color: #e74c3c;">
+                                <i class="fas fa-exclamation-triangle"></i> <span id="visualization-error-text"></span>
+                            </div>
+                        </div>
+                    </div>
+
                     <!-- Environment Data -->
                     <div class="environment-card">
                         <h3><i class="fas fa-globe"></i> Environment Data</h3>

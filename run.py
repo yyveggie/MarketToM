@@ -275,7 +275,7 @@ def main():
     print(f"\033[90mLoading stock data...\033[0m")
     train_text_data, train_price_data, train_labels = load_stock_data(data_base_dir_abs, default_stocks)
     length = train_price_data.shape[0]
-    num_digits = len(str(length))
+    num_digits = 3  # Fixed to 3 digits to match format_day_number in data_input.py
     print(f"\033[32m✅ Loaded data for {len(default_stocks)} stocks with {length} trading days\033[0m")
     
     prediction_data = load_prediction_log(prediction_log_abs)
@@ -357,16 +357,27 @@ def main():
                             predicted_action_str = 'Buy' if predicted_up else 'Sell'
                             actual_action_str = 'Buy' if label == 1 else 'Sell'
                             
-                            backward_result_text = backward_inference.perform_backward_inference(
+                            backward_result = backward_inference.perform_backward_inference(
                                 filename=generated_filename, 
                                 predicted_action=predicted_action_str,
                                 actual_action=actual_action_str
                             )
-                            if backward_result_text:
-                                analysis_parts = backward_result_text.split("</ErrorAnalysis>", 1)
-                                if len(analysis_parts) > 1:
-                                    error_analysis = analysis_parts[0].split("<ErrorAnalysis>")[-1].strip()
-                                    print(f"\033[33m🔍 Error analysis: {error_analysis[:200]}...\033[0m")
+                            if backward_result:
+                                # New format: dict {'analysis': str, 'strategy_updates': dict}
+                                analysis_text = backward_result.get('analysis', '')
+                                strategy_updates = backward_result.get('strategy_updates', {})
+                                
+                                # Display analysis text
+                                if analysis_text:
+                                    analysis_parts = analysis_text.split("</ErrorAnalysis>", 1)
+                                    if len(analysis_parts) > 1:
+                                        error_analysis = analysis_parts[0].split("<ErrorAnalysis>")[-1].strip()
+                                        print(f"\033[33m🔍 Error analysis: {error_analysis[:200]}...\033[0m")
+                                
+                                # Display strategy update summary
+                                if strategy_updates:
+                                    total_updates = sum(len(updates) for updates in strategy_updates.values())
+                                    print(f"\033[32m✅ Updated {total_updates} strategies\033[0m")
                             else:
                                 print("\033[31m❌ Error analysis failed\033[0m")
                         except Exception as bk_e:

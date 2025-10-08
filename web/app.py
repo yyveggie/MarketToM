@@ -6,7 +6,6 @@ Flask backend service for real-time visualization interface
 import os
 import sys
 import json
-import traceback
 import threading
 from datetime import datetime
 from flask import Flask, render_template, jsonify, request
@@ -25,6 +24,7 @@ from core import (
     ActionProbabilityCalculator,
     BackwardInference
 )
+from visualization import MentalStateVisualizer
 
 app = Flask(__name__)
 CORS(app)
@@ -55,7 +55,8 @@ global_components = {
     'calculator': None,
     'backward_engine': None,
     'llm_client': None,
-    'llm_model': None
+    'llm_model': None,
+    'visualizer': None
 }
 
 # Global variables to store current inference state
@@ -191,6 +192,14 @@ def initialize_components():
         llm_max_tokens=bwd_inf_params.get('llm_max_tokens', 5000)
     )
     
+    # Initialize visualizer - use the same directories as DataLogger and CEP
+    # Extract the parent directory of inference_logs to get the storage directory
+    storage_dir_abs = os.path.dirname(inference_logs_abs)
+    print(f"📁 Visualizer storage directory: {storage_dir_abs}")
+    print(f"📁 Visualizer inference logs: {inference_logs_abs}")
+    global_components['visualizer'] = MentalStateVisualizer(storage_dir=storage_dir_abs)
+    print("✅ Visualizer initialized")
+    
     global_components['initialized'] = True
     print("✅ Components initialization completed")
 
@@ -259,6 +268,21 @@ def get_stocks(dataset, split):
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
+
+def extract_mental_state_description(mental_state_json: str) -> str:
+    """
+    Extract 'mental state description' value from JSON string
+    Returns the description text or the original string if parsing fails
+    """
+    try:
+        # Try to parse as JSON
+        if mental_state_json.strip().startswith('{'):
+            data = json.loads(mental_state_json)
+            if isinstance(data, dict) and 'mental state description' in data:
+                return data['mental state description']
+        return mental_state_json
+    except:
+        return mental_state_json
 
 def run_inference_background(dataset, split, stock, day_index, window_size):
     """Run inference in background thread"""
@@ -348,7 +372,9 @@ def run_inference_background(dataset, split, stock, day_index, window_size):
         
         text_list = []
         for day in window_days:
-            day_tweets = text_data[day]
+            day_tweets = text_data.get(day, {})
+            if not day_tweets:
+                print(f"[INFERENCE] ⚠️ Warning: No tweets found for day {day}")
             for tweet_key in sorted(day_tweets.keys()):
                 tweet_data = day_tweets[tweet_key]
                 if isinstance(tweet_data, dict) and 'content' in tweet_data:
@@ -356,18 +382,24 @@ def run_inference_background(dataset, split, stock, day_index, window_size):
                 elif isinstance(tweet_data, str):
                     text_list.append(tweet_data)
         
-        # Build environment state string
-        env_state_text = f"Stock: {stock}\n"
-        env_state_text += f"Date: {target_day}\n"
-        env_state_text += f"News and Social Media:\n"
-        for i, text in enumerate(text_list[:20], 1):  # Limit to maximum 20 items
-            env_state_text += f"{i}. {text}\n"
+        print(f"[INFERENCE] 📝 Collected {len(text_list)} texts from {len(window_days)} days (day range: {window_days[0] if window_days else 'N/A'} to {window_days[-1] if window_days else 'N/A'})")
         
-        # Add price info
+        # Build environment state string (consistent format with run.py)
+        # Build price conditions string
+        prices_str = ""
         if price_info:
-            env_state_text += f"\nPrice Information:\n"
             for key, value in price_info.items():
-                env_state_text += f"{key}: {value}\n"
+                prices_str += f"{key}={value}, "
+            prices_str = prices_str.rstrip(", ")
+        
+        # Build environment state (matching run.py format)
+        env_state_text = f"""Market State Description:
+            1. Price Conditions:
+            {prices_str}
+
+            2. Social Media Tweets (past {len(window_days)} days):
+            - {", ".join(text_list) if text_list else ""}
+        """
         
         # 🆕 Update complete environment data
         current_inference_state['intermediate_results']['environment'] = {
@@ -391,9 +423,9 @@ def run_inference_background(dataset, split, stock, day_index, window_size):
         
         belief, belief_strategies = inferencer.infer_market_belief(env_state_text)
         
-        # ✨ Update and display belief immediately
+        # ✨ Update and display belief immediately (extract description only)
         belief_time = datetime.now().strftime('%H:%M:%S')
-        current_inference_state['intermediate_results']['belief'] = belief
+        current_inference_state['intermediate_results']['belief'] = extract_mental_state_description(belief)
         current_inference_state['intermediate_results']['belief_strategies'] = belief_strategies
         current_inference_state['intermediate_results']['belief_time'] = belief_time
         current_inference_state['progress'] = 50
@@ -408,9 +440,9 @@ def run_inference_background(dataset, split, stock, day_index, window_size):
         
         intent, intent_strategies = inferencer.infer_market_intent(belief)
         
-        # ✨ Update and display intent immediately
+        # ✨ Update and display intent immediately (extract description only)
         intent_time = datetime.now().strftime('%H:%M:%S')
-        current_inference_state['intermediate_results']['intent'] = intent
+        current_inference_state['intermediate_results']['intent'] = extract_mental_state_description(intent)
         current_inference_state['intermediate_results']['intent_strategies'] = intent_strategies
         current_inference_state['intermediate_results']['intent_time'] = intent_time
         current_inference_state['progress'] = 60
@@ -425,9 +457,9 @@ def run_inference_background(dataset, split, stock, day_index, window_size):
         
         emotion, emotion_strategies = inferencer.infer_market_emotion(belief, env_state_text)
         
-        # ✨ Update and display emotion immediately
+        # ✨ Update and display emotion immediately (extract description only)
         emotion_time = datetime.now().strftime('%H:%M:%S')
-        current_inference_state['intermediate_results']['emotion'] = emotion
+        current_inference_state['intermediate_results']['emotion'] = extract_mental_state_description(emotion)
         current_inference_state['intermediate_results']['emotion_strategies'] = emotion_strategies
         current_inference_state['intermediate_results']['emotion_time'] = emotion_time
         current_inference_state['progress'] = 65
@@ -440,11 +472,12 @@ def run_inference_background(dataset, split, stock, day_index, window_size):
         timestamp = datetime.now()
         data_logger.save_inference(
             timestamp=timestamp,
-            env_state=env_state_text[:500],  # Limit length
+            env_state=env_state_text,  # 保存完整的环境状态，不要截断！
             mental_states={'belief': belief, 'intent': intent, 'emotion': emotion},
             strategies_used={'belief': belief_strategies, 'intent': intent_strategies, 'emotion': emotion_strategies}
         )
         generated_filename = f"inference_{timestamp.strftime('%Y%m%d_%H%M%S')}.json"
+        print(f"[INFERENCE] 💾 Saved inference log: {generated_filename} (env_state length: {len(env_state_text)} chars, texts: {len(text_list)})")
         
         # Update progress
         current_inference_state['progress'] = 70
@@ -517,7 +550,7 @@ def run_inference_background(dataset, split, stock, day_index, window_size):
         if not is_correct and not config['data_params'].get('skip_backward_inference', False):
             current_inference_state['progress'] = 90
             current_inference_state['current_step'] = '⚠️ Prediction error, executing backward inference...'
-            print(f"[INFERENCE] ⚠️ Prediction error, starting backward inference...")
+            print(f"[INFERENCE] ⚠️ Prediction error detected! Starting backward inference...")
             
             backward_engine = global_components['backward_engine']
             backward_result = backward_engine.perform_backward_inference(
@@ -526,24 +559,75 @@ def run_inference_background(dataset, split, stock, day_index, window_size):
                 actual_action=actual_label
             )
             if backward_result:
-                backward_updates = {'result': backward_result}
-                # 🆕 Real-time updatebackward inferenceresult
-                current_inference_state['intermediate_results']['backward_result'] = backward_result
+                # 新格式：字典 {'analysis': str, 'strategy_updates': dict}
+                analysis_text = backward_result.get('analysis', '')
+                strategy_updates = backward_result.get('strategy_updates', {})
                 
-                # Safely getstrategy updatescount
-                if isinstance(backward_result, dict):
-                    num_updates = len(backward_result.get('strategy updates', {}))
-                    print(f"[INFERENCE] backward inferencecompleted，updated {num_updates} strategy databases")
+                # 🆕 Real-time update backward inference result (frontend expects 'backward_result')
+                current_inference_state['intermediate_results']['backward_result'] = {
+                    'analysis': analysis_text,
+                    'strategy_updates': strategy_updates
+                }
+                current_inference_state['intermediate_results']['backward_analysis'] = analysis_text
+                current_inference_state['intermediate_results']['strategy_updates'] = strategy_updates
+                
+                # 打印策略更新详情
+                print(f"\n{'='*60}")
+                print(f"[INFERENCE] ✅ Backward inference completed")
+                
+                if strategy_updates:
+                    total_updates = sum(len(updates) for updates in strategy_updates.values())
+                    print(f"[INFERENCE] 📊 Updated {total_updates} strategies:")
+                    
+                    for level, updates in strategy_updates.items():
+                        if updates:
+                            print(f"\n[INFERENCE]   🔹 {level.upper()} ({len(updates)} updates):")
+                            for update in updates:
+                                update_type = update.get('type', 'N/A')
+                                update_id = update.get('id', 'N/A')
+                                content_preview = update.get('content', 'N/A')[:100]
+                                print(f"[INFERENCE]     - {update_type} [{update_id}]")
+                                print(f"[INFERENCE]       {content_preview}...")
                 else:
-                    print(f"[INFERENCE] backward inferencecompleted: {str(backward_result)[:200]}")
+                    print(f"[INFERENCE] ℹ️  No strategy updates needed")
                 
-                current_inference_state['current_step'] = '✓ backward inferencecompleted，Strategy database updated'
+                print(f"[INFERENCE] 📝 Analysis preview: {str(analysis_text)[:200]}...")
+                print(f"{'='*60}\n")
+                
+                current_inference_state['current_step'] = '✓ Backward inference completed, Strategy database updated'
+        else:
+            # Prediction was correct or backward inference disabled
+            if is_correct:
+                print(f"[INFERENCE] ✅ Prediction correct! No strategy updates needed")
+            else:
+                print(f"[INFERENCE] ℹ️  Backward inference disabled in configuration")
         
         # Update progress
+        current_inference_state['progress'] = 95
+        current_inference_state['current_step'] = 'Generating visualization...'
+        print(f"[INFERENCE] ✅ Inference completed! Prediction: {predicted_action}, actual: {actual_label}, correct: {is_correct}")
+        
+        # Generate visualization
+        try:
+            visualizer = global_components['visualizer']
+            if visualizer:
+                print(f"[INFERENCE] 🎨 Generating inference flow visualization...")
+                viz_path = visualizer.create_latest_complete_inference_graph()
+                if viz_path:
+                    # Store visualization filename in state
+                    viz_filename = os.path.basename(viz_path)
+                    current_inference_state['intermediate_results']['visualization'] = viz_filename
+                    print(f"[INFERENCE] ✅ Visualization generated: {viz_filename}")
+                else:
+                    print(f"[INFERENCE] ⚠️ Visualization generation returned None")
+        except Exception as viz_error:
+            print(f"[INFERENCE] ⚠️ Visualization generation failed: {str(viz_error)}")
+            import traceback
+            traceback.print_exc()
+        
         current_inference_state['progress'] = 100
         current_inference_state['current_step'] = 'Completed!'
         current_inference_state['status'] = 'completed'
-        print(f"[INFERENCE] ✅ Inference completed! Prediction: {predicted_action}, actual: {actual_label}, correct: {is_correct}")
         
         # Build result
         results = {
@@ -717,6 +801,59 @@ def get_config():
         return jsonify({'config': safe_config})
     except Exception as e:
         return jsonify({'error': str(e)}), 500
+
+
+@app.route('/api/generate_visualization', methods=['POST'])
+def generate_visualization():
+    """Generate visualization for the latest inference"""
+    try:
+        if not global_components['initialized']:
+            initialize_components()
+        
+        visualizer = global_components['visualizer']
+        if not visualizer:
+            return jsonify({
+                'success': False,
+                'error': 'Visualizer not initialized'
+            }), 500
+        
+        print("[API] Generating visualization...")
+        viz_path = visualizer.create_latest_complete_inference_graph()
+        
+        if viz_path:
+            viz_filename = os.path.basename(viz_path)
+            print(f"[API] ✅ Visualization generated: {viz_filename}")
+            return jsonify({
+                'success': True,
+                'filename': viz_filename,
+                'path': f'/visualizations/{viz_filename}'
+            })
+        else:
+            return jsonify({
+                'success': False,
+                'error': 'Failed to generate visualization'
+            }), 500
+            
+    except Exception as e:
+        print(f"[API] ❌ Visualization generation error: {str(e)}")
+        import traceback
+        traceback.print_exc()
+        return jsonify({
+            'success': False,
+            'error': str(e)
+        }), 500
+
+
+@app.route('/visualizations/<path:filename>')
+def serve_visualization(filename):
+    """Serve visualization images"""
+    try:
+        viz_dir = os.path.join(project_root, 'storage', 'visualizations')
+        from flask import send_from_directory
+        return send_from_directory(viz_dir, filename)
+    except Exception as e:
+        print(f"[API] ❌ Failed to serve visualization: {str(e)}")
+        return jsonify({'error': str(e)}), 404
 
 
 if __name__ == '__main__':

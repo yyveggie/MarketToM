@@ -360,7 +360,6 @@ class ActionProbabilityCalculator:
                 strategy_ids=[]
             )
         
-        print(f"\n{COLOR_PHASE}STEP 2: CALCULATING EXPERT CONSENSUS{COLOR_RESET}")
         log_confidences = [sample.log_confidence for sample in valid_samples]
         probabilities = [sample.value for sample in valid_samples]
         
@@ -384,38 +383,6 @@ class ActionProbabilityCalculator:
             valid_samples[i].normalized_weight = weight
             if i < len(expert_infos):
                 expert_infos[i].probability_sample.normalized_weight = weight
-        
-        print(f"\n{COLOR_PHASE}EXPERT ANALYSES:{COLOR_RESET}")
-        for i, expert_info in enumerate(expert_infos):
-            prob_value = expert_info.probability_sample.value
-            weight = expert_info.probability_sample.normalized_weight
-            
-            role_name = expert_info.role.split(':', 1)[0] if ':' in expert_info.role else expert_info.role
-            role_name = role_name.strip()
-            
-            if prob_value > 0.5:
-                trend_icon = "📈"
-                trend_color = COLOR_SUCCESS
-                trend_text = "UP"
-            else:
-                trend_icon = "📉"
-                trend_color = COLOR_ERROR
-                trend_text = "DOWN"
-            
-            print(f"\n{COLOR_TITLE}┌───────────────────────────────────────────────────{COLOR_RESET}")
-            print(f"{COLOR_TITLE}│ {COLOR_EXPERT}Expert #{i+1}: {role_name}{COLOR_RESET} ({weight*100:.1f}% weight)")
-            print(f"{COLOR_TITLE}│ {trend_color}Forecast: {trend_text} {trend_icon} {prob_value:.2f}{COLOR_RESET}")
-            print(f"{COLOR_TITLE}└───────────────────────────────────────────────────{COLOR_RESET}")
-            
-            analysis_text = expert_info.reasoning
-            formatted_analysis = ""
-            for j in range(0, len(analysis_text), 80):
-                if j == 0:
-                    formatted_analysis += analysis_text[j:j+80]
-                else:
-                    formatted_analysis += f"\n   {analysis_text[j:j+80]}"
-            
-            print(f"{COLOR_REASONING}{formatted_analysis}{COLOR_RESET}")
         
         # 🆕 构建专家详细信息列表
         expert_details_list = [
@@ -636,27 +603,7 @@ class ActionProbabilityCalculator:
                     log_confidence=log_confidence_sum,
                     normalized_weight=0.0
                 )
-                
-                role_name = expert_role.split(':', 1)[0] if ':' in expert_role else expert_role
-                role_name = role_name.strip()
-            
-                prob_value = expert_response.probability
 
-                if prob_value > 0.5:
-                    trend_icon = "📈"
-                    trend_color = COLOR_SUCCESS
-                    trend_text = "UP"
-                else:
-                    trend_icon = "📉"
-                    trend_color = COLOR_ERROR
-                    trend_text = "DOWN"
-                
-                print(f"\n{COLOR_EXPERT}▶ EXPERT ANALYSIS:{COLOR_RESET}")
-                print(f"{COLOR_EXPERT}Expert role: {role_name}{COLOR_RESET}")
-                print(f"{trend_color}Forecast: {trend_text} {trend_icon} {prob_value:.2f}{COLOR_RESET}")
-                print(f"{COLOR_REASONING}Analysis: {expert_response.reasoning}{COLOR_RESET}")
-                print(f"{COLOR_DEBUG}────────────────────────────────────────{COLOR_RESET}")
-                
                 return sample, expert_response.reasoning
                 
             except Exception as e:

@@ -320,7 +320,6 @@ class MentalStateInference:
                     strategy_ids.append(s_obj['item']['id'])
         return response, strategy_ids
 
-    @rate_limit_api_call
     def _get_llm_response(self, user_prompt: str, state_type: str, preceding_state: str, strategies: str) -> str:
         """Get LLM response with Pydantic validation, returns mental state description"""
         try:
@@ -353,27 +352,30 @@ class MentalStateInference:
                         {"role": "system", "content": system_content},
                         {"role": "user", "content": user_prompt}
                     ],
-                    temperature=self.llm_temperature
+                    temperature=self.llm_temperature,
+                    response_format={"type": "json_object"}
                 )
                 
                 llm_content = response.choices[0].message.content.strip()
                 logger.info(f"Successfully received LLM response ({len(llm_content)} characters)")
                 
+                # Parse JSON (guaranteed by response_format)
+                response_json = json.loads(llm_content)
+                
+                # Validate with Pydantic
                 try:
-                    response_json = json.loads(llm_content)
                     validated_response = MentalStateResponse.model_validate(response_json)
-
                     return validated_response.mental_state_description
-                    
-                except json.JSONDecodeError as e:
-                    logger.warning(f"Could not parse LLM response as JSON: {str(e)[:100]}")
-                    return llm_content
-                    
                 except Exception as e:
                     logger.warning(f"Pydantic validation failed: {str(e)[:100]}")
-                    if isinstance(response_json, dict) and "mental_state_description" in response_json:
+                    # Fallback: try both possible key names
+                    if "mental_state_description" in response_json:
                         return response_json["mental_state_description"]
-                    return llm_content
+                    elif "mental state description" in response_json:
+                        return response_json["mental state description"]
+                    else:
+                        logger.error(f"No description field found in response: {list(response_json.keys())}")
+                        raise ValueError(f"Invalid response format: missing description field")
 
             except openai.RateLimitError as e:
                 wait_time = base_delay * (2 ** attempt) + random.uniform(0, 1)

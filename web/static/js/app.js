@@ -228,6 +228,23 @@ async function runInference() {
     }
 }
 
+// Extract mental state description from JSON or return as is
+function extractMentalStateDescription(state) {
+    if (!state) return 'No data';
+    if (typeof state === 'string') {
+        try {
+            // Try to parse as JSON
+            const parsed = JSON.parse(state);
+            if (parsed['mental state description']) {
+                return parsed['mental state description'];
+            }
+        } catch (e) {
+            // Not JSON, return as is
+        }
+    }
+    return state;
+}
+
 // Display results
 function displayResults(results) {
     console.log('Results:', results);
@@ -263,13 +280,10 @@ function displayResults(results) {
     
     document.getElementById('confidence-score').textContent = confidence + '%';
     
-    // Mental states
-    document.getElementById('belief-content').textContent = 
-        results.mental_states.belief || 'No data';
-    document.getElementById('intent-content').textContent = 
-        results.mental_states.intent || 'No data';
-    document.getElementById('emotion-content').textContent = 
-        results.mental_states.emotion || 'No data';
+    // Mental states - extract description from JSON if needed
+    document.getElementById('belief-content').textContent = extractMentalStateDescription(results.mental_states.belief);
+    document.getElementById('intent-content').textContent = extractMentalStateDescription(results.mental_states.intent);
+    document.getElementById('emotion-content').textContent = extractMentalStateDescription(results.mental_states.emotion);
     
     // Retrieved strategies
     if (results.retrieved_strategies && Object.keys(results.retrieved_strategies).length > 0) {
@@ -289,6 +303,9 @@ function displayResults(results) {
     
     // Environment data
     displayEnvironmentData(results.environment_state);
+    
+    // Visualization - will be displayed when available via intermediate results
+    // (Already handled in displayIntermediateResults)
 }
 
 // Display retrieved strategies
@@ -559,13 +576,14 @@ function displayIntermediateResults(intermediate) {
     if (intermediate.belief && intermediate.belief !== 'N/A') {
         const now = new Date().toLocaleTimeString('en-US');
         const backendTime = intermediate.belief_time || 'unknown';
-        console.log(`✅ [${now}] Frontend received belief (backend generated at: ${backendTime}):`, intermediate.belief.substring(0, 50) + '...');
+        const beliefText = extractMentalStateDescription(intermediate.belief);
+        console.log(`✅ [${now}] Frontend received belief (backend generated at: ${backendTime}):`, beliefText.substring(0, 50) + '...');
         
         const beliefEl = document.getElementById('belief-content');
         beliefEl.innerHTML = `
             <strong style="color: #10b981;">✓ Completed</strong>
             <small style="color: #64748b;"> (backend: ${backendTime}, frontend received: ${now})</small>
-            <br>${intermediate.belief}
+            <br>${beliefText}
         `;
         
         // Update hint text
@@ -577,13 +595,14 @@ function displayIntermediateResults(intermediate) {
     if (intermediate.intent && intermediate.intent !== 'N/A') {
         const now = new Date().toLocaleTimeString('en-US');
         const backendTime = intermediate.intent_time || 'unknown';
-        console.log(`✅ [${now}] Frontend received intent (backend generated at: ${backendTime}):`, intermediate.intent.substring(0, 50) + '...');
+        const intentText = extractMentalStateDescription(intermediate.intent);
+        console.log(`✅ [${now}] Frontend received intent (backend generated at: ${backendTime}):`, intentText.substring(0, 50) + '...');
         
         const intentEl = document.getElementById('intent-content');
         intentEl.innerHTML = `
             <strong style="color: #10b981;">✓ Completed</strong>
             <small style="color: #64748b;"> (backend: ${backendTime}, frontend received: ${now})</small>
-            <br>${intermediate.intent}
+            <br>${intentText}
         `;
         
         // Update hint text
@@ -595,13 +614,14 @@ function displayIntermediateResults(intermediate) {
     if (intermediate.emotion && intermediate.emotion !== 'N/A') {
         const now = new Date().toLocaleTimeString('en-US');
         const backendTime = intermediate.emotion_time || 'unknown';
-        console.log(`✅ [${now}] Frontend received emotion (backend generated at: ${backendTime}):`, intermediate.emotion.substring(0, 50) + '...');
+        const emotionText = extractMentalStateDescription(intermediate.emotion);
+        console.log(`✅ [${now}] Frontend received emotion (backend generated at: ${backendTime}):`, emotionText.substring(0, 50) + '...');
         
         const emotionEl = document.getElementById('emotion-content');
         emotionEl.innerHTML = `
             <strong style="color: #10b981;">✓ Completed</strong>
             <small style="color: #64748b;"> (backend: ${backendTime}, frontend received: ${now})</small>
-            <br>${intermediate.emotion}
+            <br>${emotionText}
         `;
     }
     
@@ -686,8 +706,12 @@ function displayIntermediateResults(intermediate) {
     }
     
     // Display backward inference results
+    console.log('🔍 Checking for backward_result in intermediate:', 'backward_result' in intermediate, intermediate.backward_result);
+    
     if (intermediate.backward_result) {
         console.log('✅ Updating backward inference results:', intermediate.backward_result);
+        console.log('📊 Type:', typeof intermediate.backward_result);
+        console.log('📊 Keys:', Object.keys(intermediate.backward_result));
         
         const backwardCard = document.getElementById('backward-card');
         const backwardContent = document.getElementById('backward-content');
@@ -701,6 +725,8 @@ function displayIntermediateResults(intermediate) {
             const updates = intermediate.backward_result['strategy_updates'] || intermediate.backward_result || {};
             
             console.log('📋 Strategy database update content:', updates);
+            console.log('📋 Update keys:', Object.keys(updates));
+            console.log('📋 Update entries:', Object.entries(updates));
             
             if (Object.keys(updates).length > 0) {
                 resultHTML += '<div style="margin-top: 12px;">';
@@ -751,5 +777,93 @@ function displayIntermediateResults(intermediate) {
         }
         
         backwardContent.innerHTML = resultHTML;
+    }
+    
+    // Display visualization if available
+    if (intermediate.visualization) {
+        console.log('🎨 Visualization available:', intermediate.visualization);
+        displayVisualization(intermediate.visualization);
+    }
+}
+
+// Display visualization
+function displayVisualization(filename) {
+    const vizCard = document.getElementById('visualization-card');
+    const vizLoading = document.getElementById('visualization-loading');
+    const vizImage = document.getElementById('visualization-image');
+    const vizError = document.getElementById('visualization-error');
+    const vizImg = document.getElementById('visualization-img');
+    
+    // Show visualization card
+    vizCard.style.display = 'block';
+    
+    // Hide error if any
+    vizError.style.display = 'none';
+    
+    // Show loading
+    vizLoading.style.display = 'block';
+    vizImage.style.display = 'none';
+    
+    // Load image with cache-busting timestamp
+    const timestamp = new Date().getTime();
+    const imgUrl = `/visualizations/${filename}?t=${timestamp}`;
+    
+    // Create a new image to test loading
+    const testImg = new Image();
+    testImg.onload = function() {
+        console.log('✅ Visualization image loaded successfully');
+        vizImg.src = imgUrl;
+        vizLoading.style.display = 'none';
+        vizImage.style.display = 'block';
+    };
+    testImg.onerror = function() {
+        console.error('❌ Failed to load visualization image');
+        vizLoading.style.display = 'none';
+        vizError.style.display = 'block';
+        document.getElementById('visualization-error-text').textContent = 
+            'Failed to load visualization image. Please try regenerating.';
+    };
+    testImg.src = imgUrl;
+}
+
+// Open visualization in new tab
+function openVisualizationInNewTab() {
+    const vizImg = document.getElementById('visualization-img');
+    if (vizImg && vizImg.src) {
+        window.open(vizImg.src, '_blank');
+    }
+}
+
+// Regenerate visualization
+async function regenerateVisualization() {
+    const vizLoading = document.getElementById('visualization-loading');
+    const vizImage = document.getElementById('visualization-image');
+    const vizError = document.getElementById('visualization-error');
+    
+    vizImage.style.display = 'none';
+    vizError.style.display = 'none';
+    vizLoading.style.display = 'block';
+    
+    try {
+        console.log('[API] Requesting visualization regeneration...');
+        const response = await fetch(`${API_BASE}/api/generate_visualization`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' }
+        });
+        
+        const data = await response.json();
+        
+        if (data.success && data.filename) {
+            console.log('[API] ✅ Visualization regenerated:', data.filename);
+            displayVisualization(data.filename);
+        } else {
+            throw new Error(data.error || 'Failed to generate visualization');
+        }
+    } catch (error) {
+        console.error('[API] ❌ Visualization regeneration failed:', error);
+        vizLoading.style.display = 'none';
+        vizError.style.display = 'block';
+        document.getElementById('visualization-error-text').textContent = 
+            'Failed to regenerate visualization: ' + error.message;
     }
 }

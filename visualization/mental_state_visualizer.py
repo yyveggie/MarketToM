@@ -77,6 +77,21 @@ class MentalStateVisualizer:
         if not GRAPHVIZ_AVAILABLE:
             self.logger.warning("Graphviz unavailable, will skip graph generation")
 
+    def _extract_mental_state_description(self, mental_state_json: str) -> str:
+        """
+        Extract 'mental state description' value from JSON string
+        Returns the description text or the original string if parsing fails
+        """
+        try:
+            # Try to parse as JSON
+            if isinstance(mental_state_json, str) and mental_state_json.strip().startswith('{'):
+                data = json.loads(mental_state_json)
+                if isinstance(data, dict) and 'mental state description' in data:
+                    return data['mental state description']
+            return mental_state_json
+        except:
+            return mental_state_json
+    
     def load_inference_log(self, log_file: str) -> Optional[InferenceStep]:
         """
         Load inference log file
@@ -91,11 +106,11 @@ class MentalStateVisualizer:
             with open(log_file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
             
-            # Parse mental states
+            # Parse mental states and extract descriptions
             mental_states = MentalState(
-                belief=data['mental_states']['belief'],
-                intent=data['mental_states']['intent'],
-                emotion=data['mental_states']['emotion'],
+                belief=self._extract_mental_state_description(data['mental_states']['belief']),
+                intent=self._extract_mental_state_description(data['mental_states']['intent']),
+                emotion=self._extract_mental_state_description(data['mental_states']['emotion']),
                 timestamp=data['timestamp']
             )
             
@@ -118,7 +133,7 @@ class MentalStateVisualizer:
         Load all inference logs
         
         Returns:
-            List of inference steps
+            List of inference steps sorted by actual timestamp
         """
         steps = []
         
@@ -129,15 +144,19 @@ class MentalStateVisualizer:
         # Get all JSON files
         log_files = [f for f in os.listdir(self.inference_logs_dir) 
                     if f.endswith('.json')]
-        log_files.sort()  # Sort by timestamp
         
         self.logger.info(f"Found {len(log_files)} inference log files")
         
+        # Load all steps first
         for log_file in log_files:
             file_path = os.path.join(self.inference_logs_dir, log_file)
             step = self.load_inference_log(file_path)
             if step:
                 steps.append(step)
+        
+        # Sort by actual timestamp (not filename) to handle test files correctly
+        # Parse ISO format timestamp like "2025-10-08T00:11:48.377068"
+        steps.sort(key=lambda s: s.timestamp)
         
         return steps
 
@@ -865,12 +884,15 @@ Recommendations:
                         dot.edge('backward_analysis', update_id, 'Update', 
                                 style='dashed')
         
-        # Generate file
-        output_path = os.path.join(self.output_dir, 'latest_complete_inference')
+        # Generate file with unique timestamp-based name
+        # Use timestamp from the inference log to ensure uniqueness
+        timestamp_str = latest_step.timestamp.replace(':', '').replace('-', '').replace('.', '_')
+        filename = f'inference_flow_{timestamp_str}'
+        output_path = os.path.join(self.output_dir, filename)
         
         try:
             dot.render(output_path, cleanup=True)
-            self.logger.info(f"Generated latest complete inference graph: {output_path}.png")
+            self.logger.info(f"Generated inference graph: {output_path}.png")
             return f"{output_path}.png"
         except Exception as e:
             self.logger.error(f"Failed to generate graph: {e}")
