@@ -1003,7 +1003,21 @@ Recommendations:
                         continue
             
             if best_match and min_time_diff is not None and min_time_diff < 3600:  # Match within 1 hour
-                strategy_updates = best_match.get('strategy_updates', [])
+                strategy_updates = best_match.get('strategy_updates', {})
+                if isinstance(strategy_updates, dict):
+                    # Convert dict to list by adding 'level' field to each update
+                    updates_list = []
+                    for level, updates in strategy_updates.items():
+                        for update in updates:
+                            # Add level field if not present
+                            if 'level' not in update:
+                                update['level'] = level
+                            # Ensure decision_type exists (alias for type)
+                            if 'decision_type' not in update and 'type' in update:
+                                update['decision_type'] = update['type']
+                            updates_list.append(update)
+                    strategy_updates = updates_list
+                
                 self.logger.info(f"Found {len(strategy_updates)} backward inference updates for timestamp {timestamp}")
                 return strategy_updates
             else:

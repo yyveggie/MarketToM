@@ -7,6 +7,7 @@ import os
 import sys
 import json
 import threading
+import traceback
 from datetime import datetime
 from flask import Flask, render_template, jsonify, request
 from flask_cors import CORS
@@ -622,7 +623,6 @@ def run_inference_background(dataset, split, stock, day_index, window_size):
                     print(f"[INFERENCE] ⚠️ Visualization generation returned None")
         except Exception as viz_error:
             print(f"[INFERENCE] ⚠️ Visualization generation failed: {str(viz_error)}")
-            import traceback
             traceback.print_exc()
         
         current_inference_state['progress'] = 100
