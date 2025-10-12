@@ -40,7 +40,6 @@ Unlike traditional approaches that directly map market signals to price predicti
 - [Advanced Usage](#advanced-usage)
 - [Evaluation](#evaluation)
 - [Visualization](#visualization)
-- [Citation](#citation)
 - [License](#license)
 
 ---
@@ -680,44 +679,6 @@ All visualizations are saved to `./storage/visualizations/`:
 - **Optimized readability**: Different content types use appropriate line widths (35-60 characters per line)
 
 All visualization features are now fully integrated with extended text display and English interface.
-
----
-
-## Citation
-
-If you use MarketToM in your research, please cite our paper:
-
-```bibtex
-@article{markettom2025,
-  title={Actions Speak Louder than Words, Yet Stem from the Mind: Stock Trend Prediction from a Theory-of-Mind Perspective},
-  author={[Authors]},
-  journal={Under Review},
-  year={2025}
-}
-```
-
-**Note**: This paper is currently under review. Citation information will be updated upon publication.
-
----
-
-## Contributing
-
-We welcome contributions! Please follow these guidelines:
-
-1. **Fork the repository** and create a feature branch
-2. **Follow PEP 8** style guidelines for Python code
-3. **Add docstrings** to all public functions and classes
-4. **Test your changes** thoroughly before submitting
-5. **Submit a pull request** with a clear description
-
-### Areas for Contribution
-
-- 🐛 Bug fixes and performance improvements
-- 📊 Support for additional datasets
-- 🧪 New evaluation metrics
-- 🎨 Visualization enhancements
-- 📝 Documentation improvements
-- 🌐 Multi-language support
 
 ---
 
