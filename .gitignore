@@ -102,8 +102,12 @@ data/StockNet/Validation/*
 !data/StockNet/Validation/AMZN/
 !data/StockNet/Validation/AMZN/**
 
-# Perturbed datasets
-data/StockNet_SemPerturb/
+# Perturbed datasets - Include semantic perturbation dataset for reproducibility
+# data/StockNet_SemPerturb/  # Commented out - this dataset should be included in the repo
+
+# Allow StockNet_SemPerturb to be tracked
+!data/StockNet_SemPerturb/
+!data/StockNet_SemPerturb/**
 
 # Strategy Database - Keep only initialization
 storage/strategy_database/*.json

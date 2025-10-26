@@ -90,7 +90,6 @@ def main():
         print(f"F1 Score: {metrics['f1']:.4f}")
         print(f"MCC:     {metrics['mcc']:.4f}")
         
-        # Calculate moving window metrics for every 50 samples
         if len(predictions) >= 50:
             window_size = 50
             print("\n" + "-"*50)

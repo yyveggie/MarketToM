@@ -1,5 +1,3 @@
-# coding=utf-8
-
 from typing import List, Dict, Any, Tuple, Optional
 import json
 import os
