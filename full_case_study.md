@@ -1,13 +1,10 @@
 # MarketToM Case Study: Reasoning and Adaptation
 
-**Source:** AAAI 2026 Supplementary Material  
-**Purpose:** Demonstrate the framework's interpretable reasoning and adaptive learning capabilities
-
 This case study illustrates the complete cycle from initial forward inference to backward adaptation, showcasing how the model self-corrects its internal strategies after an incorrect prediction.
 
 ---
 
-## Step 1: Environmental Observation
+## Step 1: Environmental State
 
 The process begins with observing the environmental state for the target stock, consisting of a 5-day window of historical price data and relevant tweets.
 
@@ -164,55 +161,4 @@ The final prediction aggregates outputs from multiple expert personas using **Lo
 >
 > **Price-Volume Divergence Interpretation:**
 > This signals weakening underlying momentum. Market belief should NOT be classified as "high-intensity confirmation," but rather as a **"potential trend exhaustion" phase**. This often indicates early entrants offloading to newly entering retail investors, raising near-term reversal risk.
-
----
-
-## Analysis of Strategy Evolution
-
-### Evidence-Grounded Learning Process
-
-The backward inference demonstrates rigorous causal attribution:
-
-1. **Precise Error Localization:** Pinpoints failure at Belief inference stage
-2. **Causal Rationale:** Subsequent inferences (Intention, Emotion) were logically sound but built on "faulty foundation"
-3. **Evidence Tracing:** Correctly identifies overlooked price-volume divergence
-
-### Sophistication Evolution
-
-**From:** Naive heuristic over-relying on confirmation bias  
-**To:** Robust, multi-conditional rule with verification requirements
-
-**Key Improvements:**
-- Assumption to Verification paradigm shift
-- Qualitative belief requires quantitative validation
-- Explicit distinction: volume-confirmed trend vs. deceptive rally
-- New classification: "potential trend exhaustion"
-
-### Learning Cycle Achievement
-
-By codifying a **timeless market principle** into the CEP, the framework:
-- Moves beyond fixing single error
-- Structurally enhances knowledge base
-- Demonstrates capacity for meaningful, adaptive learning
-- Evolves from simple heuristic to evidence-aware, multi-faceted rule
-
----
-
-## Key Takeaways
-
-1. **Interpretable Reasoning:** Complete transparency from environmental observation through mental states to final prediction
-
-2. **Error-Driven Learning:** Prediction failures trigger systematic root cause analysis
-
-3. **Causal Attribution:** Traces errors back to specific nodes in reasoning chain
-
-4. **Knowledge Evolution:** Strategies become more sophisticated through experience
-
-5. **Quantitative Validation:** Integrates technical indicators (volume) with qualitative reasoning
-
-6. **Generalizable Principles:** Learns timeless market truths, not instance-specific fixes
-
----
-
-*This case study exemplifies MarketToM's core innovation: modeling markets as cognitive entities with beliefs, intentions, and emotions, while maintaining the ability to learn from mistakes through structured introspection.*
 
