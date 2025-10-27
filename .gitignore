@@ -47,6 +47,9 @@ experiment_results_comparison.png
 ~$*.xlsx
 *.png
 !storage/visualizations/.gitkeep
+!web/user_interface_1.png
+!web/user_interface_2.png
+!web/user_interface_3.png
 prediction_results.json
 
 # Experiment Scripts (DO NOT UPLOAD)
