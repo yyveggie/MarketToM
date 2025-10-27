@@ -53,6 +53,19 @@ python app.py
 # Open http://localhost:8080
 ```
 
+## Web Interface
+
+The framework includes a user-friendly web interface for interactive experimentation and visualization.
+
+### Homepage
+![MarketToM Homepage](web/user_interface_1.png)
+
+### Multi-Expert Prediction Analysis
+![Expert Judgments](web/user_interface_2.png)
+
+### Complete Inference Flow Visualization
+![Inference Flow](web/user_interface_3.png)
+
 ## Project Structure
 
 ```
