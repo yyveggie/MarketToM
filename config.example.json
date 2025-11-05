@@ -27,7 +27,6 @@
   "templates": {
     "forward_inference": "./templates/forward_prompt_template.xml",
     "backward_inference": "./templates/backward_prompt_template.xml",
-    "action_probability": "./templates/action_prob_prompt_template.xml",
     "expert_action_probability": "./templates/expert_action_prob_template.xml"
   },
   "cep_retrieval": {
@@ -43,7 +42,6 @@
     "base_delay_seconds": 1
   },
   "action_probability_params": {
-    "use_expert_perspective_method": true,
     "num_probabilities_to_generate": 10,
     "llm_temperature": 0.7
   },

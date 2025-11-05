@@ -31,7 +31,7 @@
   <OutputFormat>
     You must respond with a valid JSON object having this structure:
     {
-      "mental state description": "Your detailed description of the inferred market [STATE TYPE]"
+      "mental_state_description": "Your detailed description of the inferred market [STATE TYPE]"
     }
     The mental state description should be comprehensive but concise, focusing on the most probable [STATE TYPE] given all available information.
   </OutputFormat>

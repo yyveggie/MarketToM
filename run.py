@@ -6,6 +6,7 @@ os.environ["TQDM_DISABLE"] = "true"
 import json
 import logging
 from datetime import datetime
+import traceback
 
 import openai
 
@@ -154,17 +155,10 @@ def main():
     if not os.path.isfile(fwd_template_abs):
         raise FileNotFoundError(f"Forward inference template not found at: {fwd_template_abs}")
 
-    act_prob_template_rel = templates_config.get('action_probability', 'action_prob_prompt_template.xml')
-    act_prob_template_abs = os.path.normpath(os.path.abspath(os.path.join(script_dir, act_prob_template_rel)))
-    if not os.path.isfile(act_prob_template_abs):
-        raise FileNotFoundError(f"Action probability template not found at: {act_prob_template_abs}")
-
     expert_prob_template_rel = templates_config.get('expert_action_probability', 'expert_action_prob_template.xml')
     expert_prob_template_abs = os.path.normpath(os.path.abspath(os.path.join(script_dir, expert_prob_template_rel)))
     if not os.path.isfile(expert_prob_template_abs):
-        print(f"\033[33m⚠️ Expert perspective template not found, using default method instead\033[0m")
-        logger.warning(f"Expert perspective template not found: {expert_prob_template_abs}")
-        expert_prob_template_abs = None
+        raise FileNotFoundError(f"Expert perspective template not found at: {expert_prob_template_abs}")
 
     bwd_template_rel = templates_config.get('backward_inference', 'backward_prompt_template.xml')
     bwd_template_abs = os.path.normpath(os.path.abspath(os.path.join(script_dir, bwd_template_rel)))
@@ -190,22 +184,11 @@ def main():
     act_prob_params = config.get('action_probability_params', {})
     bwd_inf_params = config.get('backward_inference_params', {})
 
-    # Get probability calculation method configuration
-    use_expert_method = act_prob_params.get('use_expert_perspective_method', False)
-    prob_method_name = "Expert perspective" if use_expert_method else "Standard"
-    print(f"\033[94mAction probability method: {prob_method_name}\033[0m")
+    print(f"\033[94mAction probability method: Expert perspective (forced)\033[0m")
+    print(f"\033[94mExpert template path: {expert_prob_template_abs}\033[0m")
+    logger.info("Action probability calculator initialized in expert perspective mode")
 
-    if use_expert_method and expert_prob_template_abs is None:
-        print(f"\033[91mWARNING: Expert perspective method selected but template file not found!\033[0m")
-        print(f"\033[91mFalling back to standard probability method\033[0m")
-        use_expert_method = False
-        prob_method_name = "Standard (fallback)"
-    elif use_expert_method:
-        print(f"\033[94mExpert template path: {expert_prob_template_abs}\033[0m")
-
-    print(f"\033[32m✓ Using {prob_method_name} probability calculation method\033[0m")
-    if use_expert_method:
-        logger.info("Expert perspective method uses logarithmic confidence weighting")
+    print(f"\033[32m✓ Using Expert perspective probability calculation method\033[0m")
 
     os.makedirs(inference_logs_abs, exist_ok=True)
     os.makedirs(os.path.dirname(prediction_log_abs), exist_ok=True)
@@ -235,24 +218,22 @@ def main():
         intent_similarity_threshold=intent_similarity_threshold,
         llm_temperature=fwd_inf_params.get('llm_temperature', 0.7)
     )
-    print(f"\033[32m✅ Market psychology analyzer ready\033[0m")
+    print(f"\033[32m✅ Market mental state analyzer ready\033[0m")
     
     print(f"\033[90mInitializing action probability calculator...\033[0m")
     calculator = ActionProbabilityCalculator(
         cep=cep,
         llm_client=llm_client,
         llm_model=llm_model_to_use,
-        action_prob_template_abs_path=act_prob_template_abs,
-        inference_logs_abs_path=inference_logs_abs, 
-        action_prob_top_k=cep_retrieval_config.get('action_prob_top_k', 2), 
+        inference_logs_abs_path=inference_logs_abs,
+        action_prob_top_k=cep_retrieval_config.get('action_prob_top_k', 2),
         num_probs_to_generate=act_prob_params.get('num_probabilities_to_generate', 10),
         max_retries_list=act_prob_params.get('max_retries_list', 5),
-        base_delay_list_seconds=act_prob_params.get('base_delay_list_seconds', 1.0), 
+        base_delay_list_seconds=act_prob_params.get('base_delay_list_seconds', 1.0),
         llm_temperature=act_prob_params.get('llm_temperature', 0.7),
-        expert_prob_method=use_expert_method,
-        expert_template_abs_path=expert_prob_template_abs if use_expert_method else None,
-        kde_bandwidth_rule=act_prob_params.get('kde_bandwidth_rule', 'silverman'), 
-        kde_min_bandwidth=act_prob_params.get('kde_min_bandwidth', 0.01) 
+        expert_template_abs_path=expert_prob_template_abs,
+        kde_bandwidth_rule=act_prob_params.get('kde_bandwidth_rule', 'silverman'),
+        kde_min_bandwidth=act_prob_params.get('kde_min_bandwidth', 0.01)
     )
     print(f"\033[32m✅ Market prediction system ready\033[0m")
     
@@ -316,10 +297,10 @@ def main():
             - {", ".join(window_texts)}
         """
 
-        print("\n\033[1;34m▶ Analyzing market psychology...\033[0m")
+        print("\n\033[1;34m▶ Analyzing Market mental state...\033[0m")
         try:
             inference_result, generated_filename = inferencer.forward_inference(env_state)
-            print(f"\033[32m✅ Market psychology analysis complete\033[0m")
+            print(f"\033[32m✅ Market mental state analysis complete\033[0m")
             logger.info(f"Forward inference completed, log file: {generated_filename}")
             
             full_generated_filepath = os.path.join(inference_logs_abs, generated_filename)
@@ -339,7 +320,7 @@ def main():
                     logger.error(f"Directory does not exist: {inference_logs_abs}")
 
             if file_accessible:
-                prob_method_text = "expert" if use_expert_method else "standard"
+                prob_method_text = "expert"
                 print(f"\n\033[1;34m▶ Calculating market movement probability...\033[0m")
                 try:
                     probability_result = calculator.calculate_probability_from_file(generated_filename) 
@@ -390,7 +371,7 @@ def main():
                         "predicted_up": predicted_up,
                         "label": int(label),
                         "correct": is_correct,
-                        "method": "expert" if use_expert_method else "default",
+                        "method": "expert",
                         "timestamp": datetime.now().isoformat()
                     })
                     save_prediction_log(prediction_log_abs, prediction_data)
@@ -409,9 +390,12 @@ def main():
                 continue
 
         except Exception as e:
+            error_trace = traceback.format_exc()
             logger.error(f"Forward inference failed: {str(e)}")
-            print(f"\033[31m❌ Market psychology analysis failed\033[0m")
-            continue
+            logger.error(error_trace)
+            print(f"\033[31m❌ Market mental state analysis failed: {str(e)}\033[0m")
+            print(error_trace)
+            raise
             
     print("\n\033[1;32m=== ANALYSIS COMPLETE ===\033[0m")
 

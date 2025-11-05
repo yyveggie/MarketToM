@@ -121,11 +121,10 @@ def initialize_components():
     fwd_template_rel = templates_config.get('forward_inference', './templates/forward_prompt_template.xml')
     fwd_template_abs = os.path.normpath(os.path.abspath(os.path.join(project_root, fwd_template_rel)))
     
-    act_prob_template_rel = templates_config.get('action_probability', './templates/action_prob_prompt_template.xml')
-    act_prob_template_abs = os.path.normpath(os.path.abspath(os.path.join(project_root, act_prob_template_rel)))
-    
     expert_prob_template_rel = templates_config.get('expert_action_probability', './templates/expert_action_prob_template.xml')
     expert_prob_template_abs = os.path.normpath(os.path.abspath(os.path.join(project_root, expert_prob_template_rel)))
+    if not os.path.isfile(expert_prob_template_abs):
+        raise FileNotFoundError(f"Expert perspective template not found at: {expert_prob_template_abs}")
     
     bwd_template_rel = templates_config.get('backward_inference', './templates/backward_prompt_template.xml')
     bwd_template_abs = os.path.normpath(os.path.abspath(os.path.join(project_root, bwd_template_rel)))
@@ -160,13 +159,10 @@ def initialize_components():
         llm_temperature=fwd_inf_params.get('llm_temperature', 0.7)
     )
     
-    use_expert_method = act_prob_params.get('use_expert_perspective_method', False)
-    
     global_components['calculator'] = ActionProbabilityCalculator(
         cep=global_components['cep'],
         llm_client=global_components['llm_client'],
         llm_model=global_components['llm_model'],
-        action_prob_template_abs_path=act_prob_template_abs,
         inference_logs_abs_path=inference_logs_abs,
         action_prob_top_k=cep_retrieval_config.get('action_prob_top_k', 2),
         num_probs_to_generate=act_prob_params.get('num_probabilities_to_generate', 10),
@@ -174,12 +170,11 @@ def initialize_components():
         max_retries_logprobs=act_prob_params.get('max_retries_logprobs', 5),
         base_delay_list_seconds=act_prob_params.get('base_delay_list_seconds', 1),
         base_delay_logprobs_seconds=act_prob_params.get('base_delay_logprobs_seconds', 1),
-        expert_prob_method=use_expert_method,
-        expert_template_abs_path=expert_prob_template_abs if use_expert_method else None,
+        expert_template_abs_path=expert_prob_template_abs,
         llm_temperature=act_prob_params.get('llm_temperature', 0.7)
     )
     
-    print(f"✅ ActionProbabilityCalculator initialized, expert mode: {'enabled' if use_expert_method else 'disabled'}")
+    print("✅ ActionProbabilityCalculator initialized in expert perspective mode")
     
     global_components['backward_engine'] = BackwardInference(
         cep=global_components['cep'],

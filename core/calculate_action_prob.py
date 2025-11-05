@@ -5,7 +5,6 @@ import numpy as np
 from pydantic import BaseModel, Field, field_validator
 import openai
 import time
-import re
 import logging
 from core.cep import CognitiveEnhancementPlugin
 from datetime import datetime, timedelta
@@ -86,25 +85,6 @@ class ProbabilityResult(BaseModel):
     environmental_state: str = Field("", description="Environmental state")
     expert_details: List[dict] = Field(default_factory=list, description="Expert roles and reasoning")
 
-class ProbabilityResponse(BaseModel):
-    """Pydantic model for parsing probability value list from LLM response"""
-    probabilities: List[float] = Field(..., description="List of probability estimates, each representing the probability of market going up")
-    
-    @field_validator('probabilities')
-    def validate_probabilities(cls, v):
-        for prob in v:
-            if not (0 <= prob <= 1):
-                raise ValueError(f"Probability values must be between 0-1, got: {prob}")
-        return v
-    
-    model_config = {
-        "json_schema_extra": {
-            "examples": [
-                {"probabilities": [0.65, 0.72, 0.58, 0.61, 0.69]}
-            ]
-        }
-    }
-
 class ExpertProbabilityResponse(BaseModel):
     """Single expert's probability assessment and reasoning"""
     reasoning: str = Field(..., description="Expert's analysis and reasoning")
@@ -140,52 +120,41 @@ class ActionProbabilityCalculator:
                  cep: CognitiveEnhancementPlugin,
                  llm_client: openai.OpenAI,
                  llm_model: str,
-                 action_prob_template_abs_path: str,
                  inference_logs_abs_path: str,
                  action_prob_top_k: int,
                  num_probs_to_generate: int,
                  max_retries_list: int,
                  base_delay_list_seconds: float,
                  llm_temperature: float = 0.7,
-                 expert_prob_method: bool = False,
                  expert_template_abs_path: str = None,
                  **kwargs):
         """Initialize the market action probability calculator"""
         self.cep = cep
         self.llm_client = llm_client
         self.llm_model = llm_model
-        self.action_prob_template_abs_path = action_prob_template_abs_path
         self.inference_logs_abs_path = inference_logs_abs_path
         self.action_prob_top_k = action_prob_top_k
         self.num_probs_to_generate = num_probs_to_generate
         self.max_retries = max_retries_list
         self.base_delay = base_delay_list_seconds
         self.llm_temperature = llm_temperature
-        self.expert_prob_method = expert_prob_method
         self.expert_template_abs_path = expert_template_abs_path
         
-        method_name = "Expert Perspective" if self.expert_prob_method else "Log-Confidence Weighting"
-        print(f"{COLOR_INFO}Probability calculator initialized with {COLOR_VALUE}{method_name}{COLOR_RESET} algorithm")
-        logger.info(f"Initialized with {method_name} algorithm")
-        
-        if self.expert_prob_method and not self.expert_template_abs_path:
-            print(f"{COLOR_WARNING}Warning: Expert method enabled but no expert template path provided!{COLOR_RESET}")
-            logger.warning("Expert method enabled but no expert template path provided")
+        if not self.expert_template_abs_path:
+            raise ValueError("Expert template path must be provided when expert mode is enforced.")
+
+        print(f"{COLOR_INFO}Probability calculator initialized with {COLOR_VALUE}Expert Perspective{COLOR_RESET} algorithm")
+        logger.info("Initialized with Expert Perspective algorithm")
 
     def _load_prompt_template(self) -> str:
         """Load action probability prompt template from absolute path"""
-        template_path = self.expert_template_abs_path if self.expert_prob_method else self.action_prob_template_abs_path
-        
-        if self.expert_prob_method:
-            logger.debug(f"Loading expert template from: {template_path}")
-            if not os.path.exists(template_path):
-                print(f"{COLOR_ERROR}ERROR: Expert template file not found!{COLOR_RESET}")
-                if os.path.exists(self.action_prob_template_abs_path):
-                    print(f"{COLOR_WARNING}Falling back to standard template{COLOR_RESET}")
-                    template_path = self.action_prob_template_abs_path
-        else:
-            logger.debug(f"Loading standard template from: {template_path}")
-            
+        template_path = self.expert_template_abs_path
+
+        logger.debug(f"Loading expert template from: {template_path}")
+        if not os.path.exists(template_path):
+            logger.error(f"Expert template file not found: {template_path}")
+            raise FileNotFoundError(f"Expert template file not found: {template_path}")
+
         try:
             with open(template_path, 'r', encoding='utf-8') as f:
                 template_content = f.read()
@@ -218,9 +187,9 @@ class ActionProbabilityCalculator:
         """Calculate action probability from inference log file"""
         print(f"\n{COLOR_TITLE}=== CALCULATING MARKET MOVEMENT PROBABILITY ===={COLOR_RESET}")
         logger.info(f"Calculating probability from file: {filename}")
-        
-        print(f"{COLOR_DEBUG}Using {'Expert Perspective' if self.expert_prob_method else 'Log-Confidence Weighting'} method{COLOR_RESET}")
-        
+
+        print(f"{COLOR_DEBUG}Using Expert Perspective method{COLOR_RESET}")
+
         try:
             data = self.load_inference_log(filename)
             mental_states = data.get('mental_states', {})
@@ -228,21 +197,9 @@ class ActionProbabilityCalculator:
             emotion_desc = mental_states.get('emotion', '')
             env_state = data.get('environmental_state', '')
 
-            strategy_objects = []
-            logger.info("Calculating probability directly from intent and emotion, no strategy retrieval")
-            
-            strategy_ids = []
-            
-            strategies_text = "Based on the market's current intent and emotion, determine the probability of an upward trend."
-            
-            if self.expert_prob_method:
-                print(f"{COLOR_DEBUG}Entering expert perspective method{COLOR_RESET}")
-                result = self._calculate_probability_expert(intent_desc, emotion_desc)
-                print(f"{COLOR_DEBUG}Completed expert perspective method{COLOR_RESET}")
-            else:
-                print(f"{COLOR_DEBUG}Entering log-confidence weighting method{COLOR_RESET}")
-                result = self._calculate_probability(intent_desc, emotion_desc, strategies_text, strategy_ids)
-                print(f"{COLOR_DEBUG}Completed log-confidence weighting method{COLOR_RESET}")
+            print(f"{COLOR_DEBUG}Entering expert perspective method{COLOR_RESET}")
+            result = self._calculate_probability_expert(intent_desc, emotion_desc)
+            print(f"{COLOR_DEBUG}Completed expert perspective method{COLOR_RESET}")
 
             result.inference_id = filename.replace('.json', '')
             result.timestamp = data.get('timestamp', datetime.now().isoformat())
@@ -272,64 +229,7 @@ class ActionProbabilityCalculator:
                 
         return "\n\n".join(strategy_texts)
 
-    def _calculate_probability(self, intent_desc: str, emotion_desc: str, strategies_text: str, strategy_ids: List[str]) -> ProbabilityResult:
-        """Implement Log-Confidence Weighting algorithm"""
-        print(f"\n{COLOR_PHASE}STEP 1: GATHERING MULTIPLE PROBABILITY ESTIMATES{COLOR_RESET}")
-        logger.info(f"Generating {self.num_probs_to_generate} probability samples")
-        probability_samples = self._generate_probability_samples(intent_desc, emotion_desc, strategies_text)
-        
-        if not probability_samples:
-            logger.warning("No valid probability samples generated, returning default value 0.5")
-            print(f"{COLOR_WARNING}Unable to generate valid estimates, using default value.{COLOR_RESET}")
-            return ProbabilityResult(
-                probability=0.5,
-                samples=[ProbabilitySample(value=0.5, log_confidence=-100.0, normalized_weight=1.0)],
-                strategy_ids=strategy_ids
-            )
-        
-        print(f"\n{COLOR_PHASE}STEP 2: CALCULATING WEIGHTED PROBABILITY{COLOR_RESET}")
-        log_confidences = [sample.log_confidence for sample in probability_samples]
-        probabilities = [sample.value for sample in probability_samples]
-        
-        logger.debug(f"Raw probability values: {probabilities}")
-        logger.debug(f"Raw log-confidence values: {log_confidences}")
-        
-        weights = self._softmax(log_confidences)
-        
-        logger.debug(f"Softmax weights: {[f'{w:.4f}' for w in weights]}")
-        
-        weighted_contributions = []
-        for i, (prob, weight) in enumerate(zip(probabilities, weights)):
-            contribution = prob * weight
-            weighted_contributions.append(contribution)
-            logger.debug(f"Sample {i+1}: Probability={prob:.4f} × Weight={weight:.4f} = Contribution {contribution:.4f}")
-        
-        weighted_sum = sum(weighted_contributions)
-        logger.info(f"Weighted probability sum: {weighted_sum:.4f}")
-        
-        for i, weight in enumerate(weights):
-            probability_samples[i].normalized_weight = weight
-            
-        result = ProbabilityResult(
-            probability=weighted_sum,
-            samples=probability_samples,
-            strategy_ids=strategy_ids
-        )
-        
-        print(f"\n{COLOR_SUCCESS}Market movement probability: {COLOR_VALUE}{weighted_sum:.4f}{COLOR_RESET}")
-        
-        if weighted_sum > 0.5:
-            trend = "UP 📈"
-            trend_color = COLOR_SUCCESS
-        else:
-            trend = "DOWN 📉" 
-            trend_color = COLOR_ERROR
-        print(f"{COLOR_INFO}Prediction: {trend_color}{trend}{COLOR_RESET} (confidence: {COLOR_VALUE}{abs(weighted_sum-0.5)*2:.2f}{COLOR_RESET})")
-        
-        return result
-    
     def _calculate_probability_expert(self, intent_desc: str, emotion_desc: str) -> ProbabilityResult:
-        """Use multi-expert perspectives to calculate market action probability"""
         print(f"\n{COLOR_PHASE}STEP 1: CONSULTING MARKET EXPERTS{COLOR_RESET}")
         logger.info(f"Gathering predictions from {self.num_probs_to_generate} expert perspectives")
         
@@ -338,7 +238,6 @@ class ActionProbabilityCalculator:
         valid_samples = []
         expert_infos = []
         print(f"{COLOR_INFO}Consulting {self.num_probs_to_generate} market experts...{COLOR_RESET}")
-        
         for i, role in enumerate(expert_roles, 1):
             print(f"{COLOR_EXPERT}• Expert {i}/{self.num_probs_to_generate} analyzing...{COLOR_RESET}")
             sample, reasoning = self._generate_expert_probability(intent_desc, emotion_desc, role)
@@ -382,7 +281,6 @@ class ActionProbabilityCalculator:
             if i < len(expert_infos):
                 expert_infos[i].probability_sample.normalized_weight = weight
         
-        # 🆕 构建专家详细信息列表
         expert_details_list = [
             {
                 'role': expert_info.role,
@@ -410,66 +308,22 @@ class ActionProbabilityCalculator:
             trend = "UP 📈"
             trend_color = COLOR_SUCCESS
         else:
-            trend = "DOWN 📉" 
+            trend = "DOWN 📉"
             trend_color = COLOR_ERROR
         print(f"{COLOR_INFO}Market direction: {trend_color}{trend}{COLOR_RESET} (confidence: {COLOR_VALUE}{abs(weighted_sum-0.5)*2:.2f}{COLOR_RESET})")
         
         return result
-    
+
     @staticmethod
     def _softmax(x: List[float]) -> List[float]:
-        """Calculate softmax function"""
         x_array = np.array(x)
         x_shifted = x_array - np.max(x_array)
         exp_x = np.exp(x_shifted)
         return exp_x / np.sum(exp_x)
 
-    def _parse_probability_text(self, text: str) -> List[float]:
-        """Parse probability value list from text"""
-        if not text:
-            return []
-            
-        match = re.search(r"<ProbabilityValues>\s*(.*?)\s*</ProbabilityValues>", text, re.DOTALL)
-        if match:
-            content = match.group(1).strip()
-            content = content.strip('[]')
-            values = []
-            for item in re.split(r'[,\s\n]+', content):
-                item = item.strip()
-                if item:
-                    try:
-                        value = float(item)
-                        if 0 <= value <= 1:
-                            values.append(value)
-                    except ValueError:
-                        pass
-            return values
-        
-        values = []
-        for match in re.finditer(r"0?\.\d+|0(?!\d)|1(?!\d)", text):
-            try:
-                value = float(match.group())
-                if 0 <= value <= 1:
-                    values.append(value)
-            except ValueError:
-                pass
-        
-        return values
-
     def _find_probability_tokens(self, completion_text: str, probability_value: float, logprobs_content) -> List[dict]:
-        """
-        Precisely find tokens and their logprobs corresponding to a probability value
-        
-        Args:
-            completion_text: Complete response text
-            probability_value: Probability value to find
-            logprobs_content: List containing token and logprob information
-            
-        Returns:
-            List of token information dictionaries matching the probability value
-        """
         prob_str = str(probability_value)
-        
+
         positions = []
         start_idx = 0
         while True:
@@ -478,7 +332,7 @@ class ActionProbabilityCalculator:
                 break
             positions.append((pos, pos + len(prob_str)))
             start_idx = pos + 1
-        
+
         if not positions and '.' in prob_str:
             base, decimal = prob_str.split('.')
             if decimal.endswith('0'):
@@ -499,11 +353,11 @@ class ActionProbabilityCalculator:
                         positions = alt_positions
                         prob_str = alt_prob
                         break
-        
+
         if not positions:
             logger.warning(f"Unable to find probability value {probability_value} in text")
             return []
-        
+
         relevant_tokens = []
         for start_pos, end_pos in positions:
             tokens_with_positions = []
@@ -530,11 +384,10 @@ class ActionProbabilityCalculator:
             pos_key = f"{token_info['start']}:{token_info['end']}"
             if pos_key not in unique_tokens:
                 unique_tokens[pos_key] = token_info
-        
+
         return list(unique_tokens.values())
 
     def _generate_expert_probability_samples(self, intent_desc: str, emotion_desc: str) -> Tuple[List[ProbabilitySample], List[ExpertInfo]]:
-        """Get probability samples from multiple expert perspectives"""
         expert_roles = get_random_perspectives(self.num_probs_to_generate)
 
         valid_samples = []
@@ -545,14 +398,13 @@ class ActionProbabilityCalculator:
             if sample:
                 valid_samples.append(sample)
                 expert_infos.append(ExpertInfo(role, reasoning, sample))
-        
+
         logger.info(f"Successfully obtained {len(valid_samples)}/{self.num_probs_to_generate} expert predictions")
         print(f"{COLOR_SUCCESS}✓ Analysis complete: {len(valid_samples)} expert opinions gathered{COLOR_RESET}")
         return valid_samples, expert_infos
 
     @rate_limit_api_call
     def _generate_expert_probability(self, intent_desc: str, emotion_desc: str, expert_role: str) -> Tuple[Optional[ProbabilitySample], str]:
-        """Generate a single expert's probability prediction and reasoning"""
         logger.info(f"Consulting expert: {expert_role[:50]}...")
 
         template = self._load_prompt_template()
@@ -560,7 +412,7 @@ class ActionProbabilityCalculator:
         template = template.replace('[EXPERT_ROLE_DESCRIPTION]', expert_role)
         template = template.replace('[DESCRIPTION OF THE INFERRED MARKET INTENTION]', intent_desc)
         template = template.replace('[DESCRIPTION OF THE INFERRED MARKET EMOTION]', emotion_desc)
-        
+
         user_prompt = "According to the system prompt word output the probability of market rise."
         try:
             response = self.llm_client.chat.completions.create(
@@ -575,21 +427,20 @@ class ActionProbabilityCalculator:
                 logprobs=True,
                 top_logprobs=1
             )
-            
+
             completion_text = response.choices[0].message.content.strip()
             logprobs_content = response.choices[0].logprobs.content
 
             try:
                 json_data = json.loads(completion_text)
                 expert_response = ExpertProbabilityResponse.model_validate(json_data)
-                
-                # Calculate log confidence
+
                 probability_tokens = self._find_probability_tokens(
-                    completion_text, 
-                    expert_response.probability, 
+                    completion_text,
+                    expert_response.probability,
                     logprobs_content
                 )
-                
+
                 if probability_tokens:
                     log_confidence_sum = sum(token['logprob'] for token in probability_tokens)
                 else:
@@ -603,125 +454,14 @@ class ActionProbabilityCalculator:
                 )
 
                 return sample, expert_response.reasoning
-                
+
             except Exception as e:
                 logger.warning(f"JSON parsing failed: {str(e)}")
                 print(f"{COLOR_WARNING}Failed to parse expert response: {str(e)}{COLOR_RESET}")
                 return None, ""
-                
+
         except Exception as e:
             logger.error(f"Error generating expert probability: {str(e)}")
             logger.error(traceback.format_exc())
             print(f"{COLOR_ERROR}Error consulting expert: {str(e)}{COLOR_RESET}")
             return None, ""
-    
-    @rate_limit_api_call
-    def _generate_probability_samples(self, intent_desc: str, emotion_desc: str, strategies_text: str) -> List[ProbabilitySample]:
-        """Generate multiple probability samples with confidence values"""
-        print(f"{COLOR_INFO}Generating {self.num_probs_to_generate} probability estimates...{COLOR_RESET}")
-                
-        template = self._load_prompt_template()
-        template = template.replace('{num_probabilities}', str(self.num_probs_to_generate))
-        template = template.replace('[DESCRIPTION OF THE INFERRED MARKET INTENTION]', intent_desc)
-        template = template.replace('[DESCRIPTION OF THE INFERRED MARKET EMOTION]', emotion_desc)
-        
-        user_prompt = f"Please provide {self.num_probs_to_generate} independent market upward probability estimates. Return as JSON."
-        
-        try:
-            response = self.llm_client.chat.completions.create(
-                model=self.llm_model,
-                messages=[
-                    {"role": "system", "content": template},
-                    {"role": "user", "content": user_prompt}
-                ],
-                temperature=self.llm_temperature,
-                max_tokens=300,
-                response_format={"type": "json_object"},
-                logprobs=True,
-                top_logprobs=1
-            )
-            
-            completion_text = response.choices[0].message.content.strip()
-            logprobs_content = response.choices[0].logprobs.content
-            
-            logger.debug(f"LLM response text: {completion_text[:100]}...")
-            logger.debug(f"Received logprobs for {len(logprobs_content)} tokens")
-
-            try:
-                json_data = json.loads(completion_text)
-                probability_response = ProbabilityResponse.model_validate(json_data)
-                probability_values = probability_response.probabilities
-
-                if len(probability_values) < self.num_probs_to_generate:
-                    logger.warning(f"Not enough probability values in JSON ({len(probability_values)}/{self.num_probs_to_generate}), trying text parsing")
-                    backup_values = self._parse_probability_text(completion_text)
-                    if len(backup_values) > len(probability_values):
-                        probability_values = backup_values[:self.num_probs_to_generate]
-            except Exception as e:
-                logger.warning(f"JSON parsing failed: {str(e)}, trying text parsing")
-                probability_values = self._parse_probability_text(completion_text)
-
-            if probability_values and len(probability_values) > 0:
-                if len(probability_values) > self.num_probs_to_generate:
-                    probability_values = probability_values[:self.num_probs_to_generate]
-                
-                logger.info(f"Parsed probability values: {probability_values}")
-
-                valid_samples = []
-                for value in probability_values:
-                    probability_tokens = self._find_probability_tokens(
-                        completion_text, 
-                        value, 
-                        logprobs_content
-                    )
-
-                    if probability_tokens:
-                        log_confidence_sum = sum(token['logprob'] for token in probability_tokens)
-                        logger.debug(f"Probability {value}: found {len(probability_tokens)} relevant tokens, log confidence: {log_confidence_sum:.4f}")
-                    else:
-                        log_confidence_sum = -100.0
-                        logger.warning(f"Unable to find tokens for probability {value}")
-
-                    valid_samples.append(ProbabilitySample(
-                        value=value,
-                        log_confidence=log_confidence_sum,
-                        normalized_weight=0.0
-                    ))
-                
-                print(f"{COLOR_SUCCESS}✓ Generated {len(valid_samples)} probability estimates{COLOR_RESET}")
-                return valid_samples
-            else:
-                logger.error("Unable to parse valid probability values")
-                return []
-        except Exception as e:
-            logger.error(f"Error generating probability samples: {str(e)}")
-            logger.error(traceback.format_exc())
-            return []
-    
-    def _find_probability_positions(self, text: str, prob_str: str) -> List[Tuple[int, int]]:
-        """Find all positions of a probability value in text"""
-        positions = []
-        current_pos = 0
-
-        pattern = r'\b' + re.escape(prob_str) + r'\b'
-        for match in re.finditer(pattern, text):
-            start, end = match.span()
-            positions.append((start, end))
-
-        if not positions and '.' in prob_str:
-            base, decimal = prob_str.split('.')
-            # Handle trailing zeros
-            if decimal.endswith('0'):
-                alt_prob = f"{base}.{decimal.rstrip('0')}"
-                alt_pattern = r'\b' + re.escape(alt_prob) + r'\b'
-                for match in re.finditer(alt_pattern, text):
-                    start, end = match.span()
-                    positions.append((start, end))
-            else:
-                alt_prob = f"{base}.{decimal}0"
-                alt_pattern = r'\b' + re.escape(alt_prob) + r'\b'
-                for match in re.finditer(alt_pattern, text):
-                    start, end = match.span()
-                    positions.append((start, end))
-        
-        return positions

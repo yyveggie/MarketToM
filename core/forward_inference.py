@@ -359,21 +359,32 @@ class MentalStateInference:
                 llm_content = response.choices[0].message.content.strip()
                 logger.info(f"Successfully received LLM response ({len(llm_content)} characters)")
                 
-                # Parse JSON (guaranteed by response_format)
-                response_json = json.loads(llm_content)
+                try:
+                    response_json = json.loads(llm_content)
+                except json.JSONDecodeError as json_err:
+                    print(f"{COLOR_ERROR}LLM {state_type} raw response (non-JSON):{COLOR_RESET} {llm_content}")
+                    logger.error(f"Could not parse LLM response as JSON: {json_err}")
+                    raise
                 
                 # Validate with Pydantic
                 try:
                     validated_response = MentalStateResponse.model_validate(response_json)
-                    return validated_response.mental_state_description
+                    description = validated_response.mental_state_description
+                    print(f"{COLOR_INFO}LLM {state_type} mental state:{COLOR_RESET} {COLOR_VALUE}{description}{COLOR_RESET}")
+                    return description
                 except Exception as e:
                     logger.warning(f"Pydantic validation failed: {str(e)[:100]}")
                     # Fallback: try both possible key names
                     if "mental_state_description" in response_json:
-                        return response_json["mental_state_description"]
+                        description = response_json["mental_state_description"]
+                        print(f"{COLOR_INFO}LLM {state_type} mental state:{COLOR_RESET} {COLOR_VALUE}{description}{COLOR_RESET}")
+                        return description
                     elif "mental state description" in response_json:
-                        return response_json["mental state description"]
+                        description = response_json["mental state description"]
+                        print(f"{COLOR_INFO}LLM {state_type} mental state:{COLOR_RESET} {COLOR_VALUE}{description}{COLOR_RESET}")
+                        return description
                     else:
+                        print(f"{COLOR_ERROR}LLM {state_type} raw response (missing description field):{COLOR_RESET} {response_json}")
                         logger.error(f"No description field found in response: {list(response_json.keys())}")
                         raise ValueError(f"Invalid response format: missing description field")
 
@@ -414,7 +425,7 @@ class MentalStateInference:
 
     def forward_inference(self, env_state: str) -> Tuple[Dict, str]:
         """Execute the full forward inference process."""
-        print(f"\n{COLOR_TITLE}=== ANALYZING MARKET PSYCHOLOGY ===={COLOR_RESET}")
+        print(f"\n{COLOR_TITLE}=== ANALYZING Market mental state ===={COLOR_RESET}")
         
         logger.info("Checking strategy database counts")
         for level in ["belief", "intent", "emotion"]:
