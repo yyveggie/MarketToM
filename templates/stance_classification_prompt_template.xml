@@ -1,0 +1,60 @@
+<StanceClassification>
+  <Role>
+    You are an expert financial market analyst specializing in interpreting market mental states and their collective impact on next-day market movement.
+  </Role>
+
+  <Task>
+    Analyze the following market {state_type} from a third-party observer perspective. Determine how this mental state, if widely shared among market participants (retail + institutions), would influence the overall market direction on the next trading day.
+  </Task>
+
+  <Input>
+    <StateType>{state_type}</StateType>
+    <Description>
+{description}
+    </Description>
+  </Input>
+
+  <AnalysisGuidelines>
+    <Perspective>
+      You are predicting the MARKET's collective behavior, NOT making a personal trading recommendation.
+      
+      Key questions:
+      - What is the net directional force (UP or DOWN) implied by this mental state?
+      - Would the aggregate of all participants' actions push prices up or down on the next trading day?
+    </Perspective>
+
+    <StateTypeRules>
+      <Belief>
+        Focus on market expectations about future performance.
+        Positive expectations → Buying pressure → UP
+        Negative expectations → Selling pressure → DOWN
+      </Belief>
+
+      <Intention>
+        Focus on collective action tendency (buy/sell signals).
+        Accumulation/buying intentions → UP
+        Distribution/selling intentions → DOWN
+      </Intention>
+
+      <Emotion>
+        Focus on affective response and behavioral consequences.
+        Fear, panic, pessimism → Selling → DOWN
+        Optimism, confidence, greed → Buying → UP
+      </Emotion>
+    </StateTypeRules>
+  </AnalysisGuidelines>
+
+  <OutputFormat>
+    Respond with a valid JSON object:
+    {{
+      "stance": "UP" or "DOWN",
+      "confidence": 0.0 to 1.0,
+      "reasoning": "Brief explanation (max 200 characters)"
+    }}
+    
+    Where:
+    - stance: Market direction on next trading day
+    - confidence: Your certainty level (0.9-1.0=very strong, 0.7-0.9=clear, 0.5-0.7=moderate)
+    - reasoning: Why this mental state drives the market in this direction
+  </OutputFormat>
+</StanceClassification>

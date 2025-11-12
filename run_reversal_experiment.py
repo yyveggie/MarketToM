@@ -283,7 +283,7 @@ def main():
                        help='Path to inference logs directory')
     parser.add_argument('--predictions', type=str,
                        help='Path to predictions log file')
-    parser.add_argument('--output', type=str, default='./analysis_results',
+    parser.add_argument('--output', type=str, default='./reversal_reports',
                        help='Output directory for reports')
     parser.add_argument('--force-reclassify', action='store_true',
                        help='Force reclassify existing stances')

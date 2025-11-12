@@ -1,17 +1,19 @@
 # -*- coding: utf-8 -*-
 """
-Stance Classifier: 心智状态姿态分类器
-使用LLM探针判断每个心智状态的市场姿态 (上涨/下跌)
+Stance Classifier: Market mental state stance classifier
+Uses LLM probe to determine market stance (UP/DOWN) for each mental state
 """
 
+import os
 import json
 import logging
 import time
 import random
-from typing import Tuple, Optional
+from typing import Tuple
 from datetime import datetime, timedelta
 import openai
 from pydantic import BaseModel, Field
+import xml.etree.ElementTree as ET
 
 logging.basicConfig(
     level=logging.INFO,
@@ -30,7 +32,6 @@ COLOR_VALUE = "\033[1;35m"
 COLOR_DEBUG = "\033[0;90m"
 COLOR_RESET = "\033[0m"
 
-# 速率限制
 last_api_request_time = datetime.now() - timedelta(seconds=10)
 MIN_REQUEST_INTERVAL = 15.0
 DEFAULT_COOLDOWN = 15.0
@@ -38,20 +39,19 @@ MAX_JITTER = 1.0
 
 
 class StanceResponse(BaseModel):
-    """LLM姿态判断响应模型"""
+    """LLM stance classification response model"""
     stance: str = Field(..., description="Market stance: UP or DOWN")
     confidence: float = Field(..., description="Confidence level (0-1)")
     reasoning: str = Field(..., description="Brief reasoning for the stance")
     
     def validate_stance(self):
-        """验证姿态值"""
         if self.stance.upper() not in ['UP', 'DOWN']:
             raise ValueError(f"Invalid stance: {self.stance}, must be UP or DOWN")
         self.stance = self.stance.upper()
 
 
 def rate_limit_api_call(func):
-    """API速率限制装饰器"""
+    """API rate limiting decorator"""
     def wrapper(*args, **kwargs):
         global last_api_request_time
         now = datetime.now()
@@ -74,65 +74,59 @@ def rate_limit_api_call(func):
 
 
 class StanceClassifier:
-    """心智状态姿态分类器"""
-    
-    STANCE_PROMPT_TEMPLATE = """You are an expert financial market analyst specializing in interpreting market mental states.
-
-Your task is to analyze the following market {state_type} description and determine its implicit strategic stance toward the market direction.
-
-Market {state_type} Description:
-{description}
-
-Based on this {state_type}, determine:
-1. The implicit market stance: Does this {state_type} suggest the market will go UP or DOWN?
-2. Your confidence level (0-1): How confident are you in this judgment?
-3. Brief reasoning: Why did you make this judgment?
-
-Important guidelines:
-- For BELIEF: Focus on market participants' expectations about future performance
-- For INTENTION: Focus on the collective goal or action tendency (buy/sell)
-- FOR EMOTION: Focus on the affective response (fear suggests DOWN, optimism suggests UP)
-
-Output your analysis in JSON format:
-{{
-    "stance": "UP" or "DOWN",
-    "confidence": 0.0 to 1.0,
-    "reasoning": "Your brief explanation (max 200 characters)"
-}}
-"""
+    """Mental state stance classifier"""
     
     def __init__(self, llm_client: openai.OpenAI, llm_model: str, temperature: float = 0.3):
-        """
-        初始化姿态分类器
-        
-        Args:
-            llm_client: OpenAI客户端
-            llm_model: 使用的LLM模型
-            temperature: LLM温度参数（分类任务建议低温度）
-        """
         self.llm_client = llm_client
         self.llm_model = llm_model
         self.temperature = temperature
+        
+        template_path = os.path.join(
+            os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+            'templates',
+            'stance_classification_prompt_template.xml'
+        )
+        
+        with open(template_path, 'r', encoding='utf-8') as f:
+            xml_content = f.read()
+        
+        tree = ET.fromstring(xml_content)
+        
+        role = tree.find('Role').text.strip()
+        task = tree.find('Task').text.strip()
+        
+        perspective = tree.find('.//Perspective').text.strip()
+        belief_rule = tree.find('.//Belief').text.strip()
+        intention_rule = tree.find('.//Intention').text.strip()
+        emotion_rule = tree.find('.//Emotion').text.strip()
+        
+        output_format = tree.find('OutputFormat').text.strip()
+        
+        self.STANCE_PROMPT_TEMPLATE = f"""{role}
+
+{task}
+
+Market {{state_type}} Description:
+{{description}}
+
+ANALYSIS PERSPECTIVE:
+{perspective}
+
+RULES:
+- BELIEF: {belief_rule}
+- INTENTION: {intention_rule}  
+- EMOTION: {emotion_rule}
+
+{output_format}
+"""
+            
         logger.info(f"StanceClassifier initialized with model {llm_model}, temperature {temperature}")
-    
+        logger.info(f"Loaded prompt template from {template_path}")
+
     @rate_limit_api_call
     def classify_stance(self, description: str, state_type: str) -> Tuple[str, float, str]:
-        """
-        分类心智状态的市场姿态
-        
-        Args:
-            description: 心智状态描述
-            state_type: 状态类型 (belief/intent/emotion)
-        
-        Returns:
-            Tuple[stance, confidence, reasoning]
-            - stance: "UP" 或 "DOWN"
-            - confidence: 置信度 (0-1)
-            - reasoning: 推理说明
-        """
         logger.info(f"Classifying stance for {state_type}")
         
-        # 构建提示词
         prompt = self.STANCE_PROMPT_TEMPLATE.format(
             state_type=state_type.upper(),
             description=description
@@ -155,7 +149,6 @@ Output your analysis in JSON format:
                 content = response.choices[0].message.content.strip()
                 logger.debug(f"LLM response: {content[:100]}...")
                 
-                # 解析响应
                 data = json.loads(content)
                 stance_obj = StanceResponse.model_validate(data)
                 stance_obj.validate_stance()
@@ -167,23 +160,12 @@ Output your analysis in JSON format:
                 logger.warning(f"Attempt {attempt+1}/{max_retries} failed: {str(e)}")
                 if attempt == max_retries - 1:
                     logger.error(f"Failed to classify stance after {max_retries} attempts")
-                    # 返回默认值
                     return "UNKNOWN", 0.5, "Classification failed"
                 time.sleep(2 ** attempt)
         
         return "UNKNOWN", 0.5, "Classification failed"
     
     def classify_all_states(self, mental_states: dict, verbose: bool = False) -> dict:
-        """
-        分类所有心智状态的姿态
-        
-        Args:
-            mental_states: 包含 belief, intent, emotion 的字典
-            verbose: 是否显示详细输出（包括心智状态描述）
-        
-        Returns:
-            姿态分类结果字典
-        """
         if verbose:
             print(f"\n{COLOR_TITLE}┌─ MENTAL STATE STANCE CLASSIFICATION ─────────────────┐{COLOR_RESET}")
         
@@ -204,10 +186,9 @@ Output your analysis in JSON format:
             
             if verbose:
                 print(f"\n{COLOR_INFO}{state_icons[state_type]} [{idx}/3] Analyzing {state_type.upper()}:{COLOR_RESET}")
-                # 显示心智状态描述
                 print(f"{COLOR_DEBUG}├─ Description:{COLOR_RESET}")
                 desc_lines = description.split('\n')
-                for line in desc_lines[:3]:  # 最多显示3行
+                for line in desc_lines[:3]:
                     print(f"{COLOR_DEBUG}│  {line[:70]}{COLOR_RESET}")
                 if len(desc_lines) > 3:
                     print(f"{COLOR_DEBUG}│  ... ({len(desc_lines)-3} more lines){COLOR_RESET}")
@@ -215,7 +196,6 @@ Output your analysis in JSON format:
             else:
                 print(f"{COLOR_INFO}📊 Analyzing {state_type.upper()} stance...{COLOR_RESET}")
             
-            # 调用分类
             stance, confidence, reasoning = self.classify_stance(description, state_type)
             
             stances[state_type] = {
@@ -225,7 +205,6 @@ Output your analysis in JSON format:
                 "description": description
             }
             
-            # 显示结果
             if verbose:
                 stance_color = COLOR_SUCCESS if stance == "UP" else COLOR_ERROR
                 stance_arrow = "↗" if stance == "UP" else "↘"
@@ -247,18 +226,10 @@ Output your analysis in JSON format:
 
 
 def add_stances_to_inference_log(log_filepath: str, stances: dict) -> None:
-    """
-    将姿态分类结果添加到推理日志
-    
-    Args:
-        log_filepath: 推理日志文件路径
-        stances: 姿态分类结果
-    """
     try:
         with open(log_filepath, 'r', encoding='utf-8') as f:
             log_data = json.load(f)
         
-        # 添加姿态字段
         log_data['mental_state_stances'] = stances
         log_data['stance_classification_timestamp'] = datetime.now().isoformat()
         
