@@ -49,6 +49,27 @@
     "llm_temperature": 0.7,
     "llm_max_tokens": 5000,
     "max_retries": 5
+  },
+  "stance_classification": {
+    "enabled": true,
+    "temperature": 0.3,
+    "max_retries": 3,
+    "min_confidence_threshold": 0.5,
+    "auto_classify_on_inference": false,
+    "save_reasoning": true
+  },
+  "reversal_analysis": {
+    "enabled": true,
+    "min_samples_for_pattern": 5,
+    "coherence_threshold": 0.8,
+    "export_format": ["json", "csv"],
+    "generate_plots": true
+  },
+  "experiment_settings": {
+    "baseline_comparison": true,
+    "e2_prime_validation": true,
+    "pattern_analysis_depth": "detailed",
+    "confidence_weighting": true
   }
 }
 

@@ -239,11 +239,18 @@ class ActionProbabilityCalculator:
         expert_infos = []
         print(f"{COLOR_INFO}Consulting {self.num_probs_to_generate} market experts...{COLOR_RESET}")
         for i, role in enumerate(expert_roles, 1):
-            print(f"{COLOR_EXPERT}• Expert {i}/{self.num_probs_to_generate} analyzing...{COLOR_RESET}")
+            print(f"\n{COLOR_EXPERT}• Expert {i}/{self.num_probs_to_generate}: {COLOR_VALUE}{role[:60]}{COLOR_RESET}")
             sample, reasoning = self._generate_expert_probability(intent_desc, emotion_desc, role)
             if sample:
                 valid_samples.append(sample)
                 expert_infos.append(ExpertInfo(role, reasoning, sample))
+                
+                print(f"{COLOR_REASONING}  📊 Probability: {COLOR_VALUE}{sample.value:.4f}{COLOR_RESET}")
+                print(f"{COLOR_REASONING}  🔍 Confidence: {COLOR_VALUE}{sample.log_confidence:.2f}{COLOR_RESET}")
+                reasoning_preview = reasoning[:200] + "..." if len(reasoning) > 200 else reasoning
+                print(f"{COLOR_REASONING}  💭 Reasoning: {COLOR_INFO}{reasoning_preview}{COLOR_RESET}")
+            else:
+                print(f"{COLOR_WARNING}  ✗ Analysis failed for this expert{COLOR_RESET}")
         
         logger.info(f"Successfully obtained {len(valid_samples)}/{self.num_probs_to_generate} expert predictions")
         print(f"{COLOR_SUCCESS}✓ Analysis complete: {len(valid_samples)} expert opinions considered{COLOR_RESET}")
@@ -311,6 +318,14 @@ class ActionProbabilityCalculator:
             trend = "DOWN 📉"
             trend_color = COLOR_ERROR
         print(f"{COLOR_INFO}Market direction: {trend_color}{trend}{COLOR_RESET} (confidence: {COLOR_VALUE}{abs(weighted_sum-0.5)*2:.2f}{COLOR_RESET})")
+        
+        # 打印专家汇总表
+        print(f"\n{COLOR_TITLE}┌─ EXPERT SUMMARY ──────────────────────────────────{COLOR_RESET}")
+        for i, expert_info in enumerate(expert_infos, 1):
+            weight_percent = expert_info.probability_sample.normalized_weight * 100
+            contribution = expert_info.probability_sample.value * expert_info.probability_sample.normalized_weight
+            print(f"{COLOR_DEBUG}Expert {i}: {COLOR_VALUE}P={expert_info.probability_sample.value:.4f}{COLOR_RESET} × {COLOR_VALUE}W={weight_percent:.1f}%{COLOR_RESET} = {COLOR_INFO}C={contribution:.4f}{COLOR_RESET}")
+        print(f"{COLOR_TITLE}└───────────────────────────────────────────────────{COLOR_RESET}")
         
         return result
 
