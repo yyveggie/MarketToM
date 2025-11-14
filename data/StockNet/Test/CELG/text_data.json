@@ -1,0 +1,715 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "$ tril $ COMPANY_X AT_USER the next macro ( phage ) thing in io reports AT_USER URL"
+    },
+    "tweet2": {
+      "content": "cco.to celgene corp . filings URL $ cco.to $ COMPANY_X $ bis $ spxl cco.to invest share"
+    },
+    "tweet3": {
+      "content": "aap advance auto parts inc . 52wk high URL $ aap $ jnj $ COMPANY_X $ tna aap stockmarket stockmarket"
+    },
+    "tweet4": {
+      "content": "rt AT_USER celgene $ COMPANY_X too cheap to ignore : jpmorgan ; rating raised to overweight URL"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "imsc implant sciences corp . day low URL $ imsc $ rpg $ COMPANY_X $ jnug imsc pennystocks stock"
+    },
+    "tweet2": {
+      "content": "rt AT_USER buyout chatter spreading throughout the rumor mill w $ pfe $ bmy $ COMPANY_X $ gild among names in the mix"
+    },
+    "tweet3": {
+      "content": "celgene lifted to buy at zacks $ COMPANY_X URL"
+    },
+    "tweet4": {
+      "content": "rt AT_USER $ COMPANY_X [ update ] working on 4th day , inside / up some r 113.88 ( pivot , 9/24 close ) a / d nice bounces off tl top tl = 50sma URL"
+    },
+    "tweet5": {
+      "content": "wfc wells fargo & co . shares URL $ wfc $ COMPANY_X $ twtr $ hyg wfc share stock"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "ihposts 2 : bidu baidu , inc . tick URL $ bidu $ ibb $ COMPANY_X $ uvxy bidu i … URL URL"
+    },
+    "tweet2": {
+      "content": "$ infy percent change updated monday , october 5 , 2015 11:10 : 57 am $ COMPANY_X $ mtw $ lvs $ hd URL"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X : news effects on stocks : new residential investment corp . ( nyse … : URL"
+    },
+    "tweet4": {
+      "content": "ge general electric co . change URL $ ge $ xle $ gld $ COMPANY_X ge stocks pennystocks"
+    },
+    "tweet5": {
+      "content": "right now COMPANY_X is number 152 for the largest percentage gain out of 250 stocks . $ COMPANY_X COMPANY_X is up +11.69 % in th URL"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "uup proshares ultra vix short-term futures etf tick URL $ uup $ xlv $ gld $ COMPANY_X uup stocks tradeideas"
+    },
+    "tweet2": {
+      "content": "COMPANY_X celgene corp . company info URL $ COMPANY_X $ lmt $ sco $ sh COMPANY_X nasdaq tradeideas"
+    },
+    "tweet3": {
+      "content": "rt AT_USER $ COMPANY_X $ rcpt ozanimod ph2 touchstone 32wk maintenance data in acg 2015 abstract URL"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "uup powershares db us dollar index bullish fund prev close URL $ uup $ COMPANY_X $ jnk $ uwti uup investing stocks"
+    },
+    "tweet2": {
+      "content": "rt AT_USER today's biggest movers across the large and small of biotech - URL $ amgn $ COMPANY_X $ gnca $ ctrv biotec …"
+    },
+    "tweet3": {
+      "content": "rdsh roadships holdings , inc . ideas URL $ rdsh $ nok $ COMPANY_X $ fcx rdsh finance stocks"
+    },
+    "tweet4": {
+      "content": "owoo petroleo brasileiro ( petrobras ) tick URL $ owoo $ COMPANY_X $ tza $ mru.to owoo share share"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "rad rite aid corp . ask size URL $ rad $ uvv $ jnj $ COMPANY_X rad finance share"
+    },
+    "tweet2": {
+      "content": "URL <-- new profitly guru ! - this guy is awesome va ; ue for money ! stocks trading $ blue $ tril $ COMPANY_X"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X nice and might run more"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "eog eog resources , inc . stock message board URL $ eog $ grcu $ drys $ COMPANY_X eog pennystocks finance"
+    },
+    "tweet2": {
+      "content": "COMPANY_X celgene corp . filings URL $ COMPANY_X $ dhi $ cvx $ tza COMPANY_X tradeideas stock"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "rt AT_USER $ COMPANY_X improvements in pasi scores and disease-related quality of life maintained at week 52 - otezla URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet3": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet4": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet5": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet6": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet7": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet8": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet9": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet10": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet11": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet12": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet13": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet14": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet15": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet16": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet17": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet18": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet19": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet20": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet21": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet22": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet23": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet24": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet25": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet26": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet27": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet28": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet29": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet30": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet31": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet32": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet33": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet34": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet35": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet36": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet37": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet38": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet39": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet40": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet41": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet42": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet43": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet44": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet45": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    },
+    "tweet46": {
+      "content": "rt AT_USER dr zeldis cmo of $ COMPANY_X sits on $ bsgm board w david weild ex chairman nasdaq . should we be looking @ $ bsgm technology htt …"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "jbem picks . $ $ $ gains.ongoing play cala rxii.read here : URL $ COMPANY_X $ wx $ cent $ masi $ clbs $ biol $ pmd $ ccu $ woof $ rmti"
+    },
+    "tweet2": {
+      "content": "AT_USER seriously doubt $ COMPANY_X would do it open market . it owned enough shares unless it wants to acquire it now . but that's unlikely ."
+    },
+    "tweet3": {
+      "content": "$ gg filings updated monday , october 12 , 2015 8: 07:18 pm $ COMPANY_X $ pcln $ tlt $ fb URL"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "rt AT_USER $ cpxx $ 1.72 has buy rating w / $ 18 price target at roth capital URL $ amgn $ aegr $ dgx $ epzm $ lly $ biib $ COMPANY_X …"
+    },
+    "tweet2": {
+      "content": "ssri st . jude medical inc . last trade URL $ ssri $ rwm $ COMPANY_X $ trip ssri finance invest"
+    },
+    "tweet3": {
+      "content": "COMPANY_X celgene corp . ideas URL $ COMPANY_X $ td.to $ nvda $ psun COMPANY_X stockmarket stockmarket"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "baba bank of america corp . stock forum URL $ baba $ aapl $ mcd $ COMPANY_X baba pennystocks nasdaq"
+    },
+    "tweet2": {
+      "content": "the first cancer immunotherapy etf URL $ ziop $ kite $ COMPANY_X $ pfe $ bmy $ cncr"
+    },
+    "tweet3": {
+      "content": "expe extra space storage inc . filings URL $ expe $ xle $ bmo.to $ COMPANY_X expe stockmarket share"
+    },
+    "tweet4": {
+      "content": "rt AT_USER celator pharmaceuticals nasdaq $ cpxx $ 1.78 pps with $ 18 price target URL $ gild $ COMPANY_X $ pfe $ biib $ asco $ r …"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "$ amgn $ COMPANY_X $ gild news : \" cowen : in biotech earnings we trust $ aegr $ alxn $ amgn … \" URL analyze : URL"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "is large cap biotech one of the few market sectors with an attractive valuation ? URL $ abbv $ amgn $ biib $ COMPANY_X $ ibb $ ibm"
+    },
+    "tweet2": {
+      "content": "rt AT_USER recap 10/19 unusual call activity ( 1/2 ): $ tmus jan 43 c $ gsk feb 45 c $ COMPANY_X oct 23 122 c $ vxx oct 23 22.5 c $ cx nov 9 c $ pf …"
+    },
+    "tweet3": {
+      "content": "is large cap biotech one of the few market sectors with an attractive valuation ? URL $ abbv $ amgn $ biib $ COMPANY_X $ ibb $ ibm"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "COMPANY_X celgene corp . investor opinions URL $ COMPANY_X $ spxs $ frc.to $ uwti COMPANY_X invest share"
+    },
+    "tweet2": {
+      "content": "mittelfristiges signal ! $ COMPANY_X : ein trendkanal wurde bei 114.96 usd nach unten durchbrochen : URL"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "eum proshares short msci emerging markets volume URL $ eum $ goog $ COMPANY_X $ tbev eum stockmarket investing"
+    },
+    "tweet2": {
+      "content": "$ amzn percent change updated thursday , october 22 , 2015 09:11 : 12 am $ ebay $ elnk $ COMPANY_X $ aa URL"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "long $ ibb weekly $ 320 calls $ 3.70 - stop is ibb 312 . taking with $ gild $ regn $ COMPANY_X leading"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "dumped $ gild $ COMPANY_X $ slca .. getting short into the close long $ sqqq $ spxs $ bac $ wfc $ pypl and lots of $ cash . see you in november bwahahaha"
+    },
+    "tweet2": {
+      "content": "$ pfe recently decided not to advance xeljanz for crohn ’ s disease and ankylosing spondylitis . $ COMPANY_X $ glpg $ incy $ lly $ abbv"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "$ COMPANY_X active , relative volume : 3.96 , 1h , 11:00 am , nasdaq $ ndx $ spy"
+    },
+    "tweet2": {
+      "content": "nugt direxion daily gold miners bull 3x shares 52wk high URL $ nugt $ vti $ bidu $ COMPANY_X nugt stock stocks"
+    },
+    "tweet3": {
+      "content": "right now COMPANY_X is number 182 for the largest percentage gain out of 244 stocks . $ COMPANY_X COMPANY_X is up +7.78 % in the URL"
+    },
+    "tweet4": {
+      "content": "$ vale filings updated wednesday , october 28 , 2015 04:07 : 26 am $ upro $ fcx $ COMPANY_X $ sco URL"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": ". AT_USER according to finviz only 4.4 % of biotechnology companies are within 10 % of their 52 week high . notable : $ COMPANY_X $ regn $ incy"
+    },
+    "tweet2": {
+      "content": "san banco santander sa last price URL $ san $ xbi $ upro $ COMPANY_X san stockmarket share"
+    },
+    "tweet3": {
+      "content": "our platinum members have been seeing massive gains on our penny stock picks ! subscribe today : URL $ fb $ mdlz $ COMPANY_X"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "COMPANY_X top news - oct 30th , 2015 $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER $ COMPANY_X vidaza approved by the european commission as new treatment for elderly patients with acute myeloid leukaemia URL"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "gdx market vectors gold miners ask URL $ gdx $ swks $ COMPANY_X $ biib gdx stocks stock"
+    },
+    "tweet2": {
+      "content": "rt AT_USER URL china mfg pmi , japan mfg pmi , macau october casino rev . $ ibb catalyst $ alny $ isis $ blue $ COMPANY_X $ reg …"
+    },
+    "tweet3": {
+      "content": "AT_USER $ COMPANY_X is reporting earnings for q3 2015 on 11/05 / 15 – URL"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "pcln URL inc . eod data URL $ pcln $ COMPANY_X $ wmt $ ief pcln tradeideas share"
+    },
+    "tweet2": {
+      "content": "intc intel corp . bid size URL $ intc $ etrm $ vxx $ COMPANY_X intc investing tradeideas"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X celgene is simply the best biotech in the world URL URL"
+    },
+    "tweet4": {
+      "content": "jd URL inc . open URL $ jd $ idti $ COMPANY_X $ idti jd stock pennystocks"
+    },
+    "tweet5": {
+      "content": "COMPANY_X celgene corp . exchange URL $ COMPANY_X $ v $ slw $ goog COMPANY_X pennystocks invest"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "interactive chart -> URL $ COMPANY_X revenue is rising . URL"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "rt AT_USER $ COMPANY_X celgene reports third quarter 2015 operating and financial results URL"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X : celgene ( COMPANY_X ) to report q3 earnings : what to expect ? : URL"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "our stock alerts have been seeing record gains ! our new pick will be massive : URL $ fb $ mdlz $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "$ gt stock message board updated friday , november 6 , 2015 07:07 : 19 am $ rig $ COMPANY_X $ kmi $ nxpi URL"
+    },
+    "tweet3": {
+      "content": "premium alerts ranked 1 for gains 2834 % last week URL .. $ fb $ mdlz $ COMPANY_X"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "COMPANY_X celgene corp . bid URL $ COMPANY_X $ ibm $ lb $ cmg COMPANY_X share investing"
+    },
+    "tweet2": {
+      "content": "ea electronic arts , inc . exchange URL $ ea $ COMPANY_X $ wynn $ xlv ea nasdaq share"
+    },
+    "tweet3": {
+      "content": "gs goldman sachs group , inc . ask size URL $ gs $ dia $ hal $ COMPANY_X gs invest stock"
+    },
+    "tweet4": {
+      "content": "rt AT_USER here's r & d at valeant vs . everyone else . alarming share by AT_USER URL $ vrx $ gild $ COMPANY_X URL"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "tna direxion daily small cap bull 3x shares % change URL $ tna $ tlt $ COMPANY_X $ dust tna stockmarket sharetqqq …"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X : large cap stocks intraday alert : celgene ( COMPANY_X ) , caterpillar ( cat … : URL"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "tgt target corp . p / e ratio URL $ tgt $ gm $ hog $ COMPANY_X tgt stock invest"
+    },
+    "tweet2": {
+      "content": "rt AT_USER $ amgn $ biib $ COMPANY_X $ gild $ alxn short sellers run for cover from major biotechs ( 11/11 / 15 ) URL URL"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "elon musk is set to bounce | momentum trading with ragincajun URL $ scty $ tsla $ COMPANY_X $ ibb"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "rt AT_USER 3 oversold stocks to watch | momentum trading with ragincajun URL $ COMPANY_X $ jblu $ kbh"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X received a new alert . find out why at URL stocks daytrading trading mkt nyse nasdaq markets 278"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "rt AT_USER sentishiftdown $ uup $ COMPANY_X $ baba $ atvi $ vxx fintech finserv URL 2015111 9-09 : 25"
+    },
+    "tweet2": {
+      "content": "tbev high performance beverage co . volume URL $ tbev $ COMPANY_X $ c $ csco tbev investing investing"
+    },
+    "tweet3": {
+      "content": "$ xlv recent news updated thursday , november 19 , 2015 10:10 : 48 am $ COMPANY_X $ cop $ eem $ xlk URL"
+    },
+    "tweet4": {
+      "content": "amzn URL inc . shares URL $ amzn $ dust $ expe $ COMPANY_X amzn stocks stocks"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "COMPANY_X celgene corp . current price URL $ COMPANY_X $ sphs $ xlu $ iyr COMPANY_X stocks stockmarket"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "binarytrading 13 : rt URL davidmoble : billgunderson disruptive stocks $ aapl $ tsla $ ua $ gild $ nflx $ crm $ amzn $ COMPANY_X $ w …"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "takeda's ' breakthrough ' velcade heir wins early fda approval in myeloma URL $ jnj $ nvs $ amgn $ COMPANY_X via AT_USER"
+    },
+    "tweet2": {
+      "content": "rt AT_USER watch the AT_USER daily recap hosted by contributor and mentor AT_USER URL $ sune $ kbio $ gil $ COMPANY_X $ jun …"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "$ xbi company info updated sunday , november 29 , 2015 7:59 : 20 pm $ COMPANY_X $ gdx $ gdx $ cldn URL"
+    },
+    "tweet2": {
+      "content": "pbi pitney bowes , inc . financials URL $ pbi $ iyr $ COMPANY_X $ nvda pbi stockmarket nasdaq"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "AT_USER $ fate URL is applicable to broad range of immuno diseases a broad partnership w $ COMPANY_X may be valuable"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "learn to read sec filings dvd : URL this dvd is pure gold ! $ slv $ twtr $ spy $ googl $ ibb $ tsla $ pcln $ COMPANY_X $ lnkd"
+    },
+    "tweet2": {
+      "content": "AT_USER erase $ COMPANY_X get otcbb : acnv"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "tip 4 how to identify a hot sector ? URL $ COMPANY_X $ cdw $ sfy $ amba $ bk"
+    },
+    "tweet2": {
+      "content": "rt AT_USER afsi alamos gold inc . day high URL $ afsi $ dfs $ COMPANY_X $ xiv afsi invest stocks"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "rt AT_USER nhod , 10:45 $ ibb $ bib $ xbi $ biib $ juno $ kite $ icpt $ rdus $ vrx $ ilmn $ COMPANY_X $ bxlt $ gild $ cldx $ alxn $ clvs $ lbio $ zfgn URL"
+    },
+    "tweet2": {
+      "content": "txmd therapeuticsmd , inc . open URL $ txmd $ nbggy $ scie $ COMPANY_X txmd stockmarket finance"
+    },
+    "tweet3": {
+      "content": "AT_USER hey now jack what are your thoughts on $ COMPANY_X and their pipeline"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "rt sbcs abstracts $ COMPANY_X abraxane as potential backbone therapy in neoadjuvant & amp ; triple-negative-breast cancer URL"
+    },
+    "tweet2": {
+      "content": "3,500 % gains on stock picks in 5 months and an amazing new pick is coming soon ! get it early : URL $ fb $ mdlz $ COMPANY_X"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "behavioral finance & the surprising role of psychology in the stock market URL $ nke $ ko $ twtr $ gild $ tyl $ stz $ COMPANY_X $ hd"
+    },
+    "tweet2": {
+      "content": "smh market vectors semiconductor last price URL $ smh $ wmt $ COMPANY_X $ avgo smh share stocksspxs direxion daily s & p …"
+    },
+    "tweet3": {
+      "content": "ebay ebay , inc . open URL $ ebay $ ge $ kbio $ COMPANY_X ebay tradeideas share"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "celgene co . $ COMPANY_X coverage initiated by analysts at atlantic securities URL"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "$ COMPANY_X celgene settles revlimid & 174 ; patent litigation URL"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X yikes . margin calls cometh ."
+    },
+    "tweet3": {
+      "content": "rt AT_USER $ COMPANY_X settles patent with natco - up $ 10 to $ 122 ."
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "not sure what to do with $ COMPANY_X ? explore our fundamental pros and cons . URL"
+    },
+    "tweet2": {
+      "content": "here ’ s why celgene corporation is surging - URL - $ COMPANY_X via AT_USER URL"
+    },
+    "tweet3": {
+      "content": "save now with a $ 49 / month membership or $ 1,500 off our bundle pro ! URL $ aapl $ nke $ mu $ COMPANY_X $ ua URL"
+    },
+    "tweet4": {
+      "content": "rt AT_USER early movers : $ nke $ mu $ COMPANY_X $ rio $ dis $ sny $ amzn $ googl $ tmus $ aapl $ bbby $ bhp $ chd & more URL"
+    },
+    "tweet5": {
+      "content": "rt AT_USER $ COMPANY_X jingle bells ... overhang removed and big pipeline ... 18-20 x is $ 140-150 in time URL"
+    },
+    "tweet6": {
+      "content": "celgene $ COMPANY_X revlimid settlement adds financial visibility , to thwart other generics - cowen URL"
+    },
+    "tweet7": {
+      "content": "optionstrading : $ nke earnings , $ amd 5x normal volume , $ ua , $ COMPANY_X patent settlement URL URL"
+    },
+    "tweet8": {
+      "content": "rt AT_USER $ COMPANY_X : celgene settles its natco pharma litigation , relating to patents for revlimid URL"
+    },
+    "tweet9": {
+      "content": "$ nke $ tpac $ aapl $ COMPANY_X 94.5 % avg gain 100 % unbiased family-run wall street experienced URL URL"
+    },
+    "tweet10": {
+      "content": "rt AT_USER actives on open @ cboe : $ aapl $ mu $ fcx $ nke $ COMPANY_X $ xom $ aa $ fb $ bac $ twtr $ rig $ sune"
+    },
+    "tweet11": {
+      "content": "rt AT_USER actives on open @ cboe : $ aapl $ mu $ fcx $ nke $ COMPANY_X $ xom $ aa $ fb $ bac $ twtr $ rig $ sune"
+    },
+    "tweet12": {
+      "content": "celgene co . $ COMPANY_X receives buy rating from jpmorgan chase & co . URL"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "$ biib more selling : 12h chart $ spy $ rhhby $ abbv $ sny $ COMPANY_X $ pfe $ esaly $ sgmo $ mdco $ nvs $ otsky $ lly $ epzm $ mrk $ spx URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER grcu green cures & botanical distribution inc . 52wk low URL $ grcu $ pemgx $ swks $ COMPANY_X grcu nasdaq trade …"
+    },
+    "tweet3": {
+      "content": "nasdaq 100 stocks performance $ COMPANY_X $ stx $ fast $ pcar $ mat $ payx $ vod $ txn $ mdlz $ wynn $ csco $ ca $ amat $ hsic more @ URL"
+    },
+    "tweet4": {
+      "content": "canaccord genuity reaffirms “ buy ” rating for celgene co . $ COMPANY_X URL acn"
+    },
+    "tweet5": {
+      "content": "rt AT_USER COMPANY_X celgene corp . 52wk low URL $ COMPANY_X $ xlf $ dia $ kite COMPANY_X tradeideas pennystocks"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "$ bbby , $ COMPANY_X , $ dgi , $ mu , $ payx wall street analysts upgrades , downgrades and initiations URL"
+    },
+    "tweet2": {
+      "content": "COMPANY_X celgene corp . dividend URL $ COMPANY_X $ fnma $ aapl $ xle COMPANY_X finance nasdaq URL"
+    },
+    "tweet3": {
+      "content": "nasdaq 100 stocks trend $ ilmn $ biib $ grmn $ csco $ amzn $ googl $ hsic $ alxn $ symc $ fast $ mdlz $ COMPANY_X $ adp $ isrg @ URL"
+    },
+    "tweet4": {
+      "content": "vti vanguard total stock market etf day low URL $ vti $ dal $ sh $ COMPANY_X vti stockmarket tradeideas"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "celgene co . $ COMPANY_X given average recommendation of “ buy ” by brokerages URL"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X this may simply be the best biotech in the world URL URL"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "COMPANY_X chesapeake energy corp . bid size URL $ COMPANY_X $ ibm $ ibm $ amzn COMPANY_X stock pennystocks"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "trimtabs asset management acquires new stake in celgene co . $ COMPANY_X URL acn"
+    },
+    "tweet2": {
+      "content": "t at & t , inc . ask URL $ t $ COMPANY_X $ ilmn $ upro t stockmarket pennystocks"
+    }
+  }
+}

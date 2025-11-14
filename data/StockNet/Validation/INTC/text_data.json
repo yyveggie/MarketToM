@@ -1,0 +1,550 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "$ aig company info updated sunday , august 2 , 2015 12:10 : 48 pm $ COMPANY_X $ cri $ bac $ xlp URL"
+    },
+    "tweet2": {
+      "content": "havells.in havells india ltd . last trade URL $ havells.in $ bpcl.in $ COMPANY_X $ ewz havells.in share invest"
+    },
+    "tweet3": {
+      "content": "COMPANY_X intel corp . tick URL $ COMPANY_X $ dug $ fb $ cat COMPANY_X stocks stockmarketiwm russell 2000 ishares volume …"
+    },
+    "tweet4": {
+      "content": "lvs las vegas sands corp . day low URL $ lvs $ cnc $ COMPANY_X $ pbr / a lvs tradeideas stocks"
+    },
+    "tweet5": {
+      "content": "COMPANY_X intel corp . 52wk high URL $ COMPANY_X $ cvc $ wmt $ cybr COMPANY_X nasdaq investing"
+    },
+    "tweet6": {
+      "content": "ctrp URL intl ltd . bid URL $ ctrp $ COMPANY_X $ dmo $ centurytex.in ctrp tradeideas nasdaq"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "eog eog resources , inc . dividend URL $ eog $ COMPANY_X $ tna $ mu eog stocks shareerx direxion daily energy bull 3x …"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "$ COMPANY_X intel corporation skylake pricing revealed ; gets high benchmark scores URL"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X short sales updated wednesday , august 5 , 2015 09:10 : 34 am $ fxi $ fb $ bax $ dia URL"
+    },
+    "tweet3": {
+      "content": "3 reasons advanced micro devices is a buy URL $ COMPANY_X briankrzanich intel $ msft $ amd"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "avxl anavex life sciences corp . market cap URL $ avxl $ twx $ COMPANY_X $ fslr avxl investing stockmarket"
+    },
+    "tweet2": {
+      "content": "tips and tricks to choose a laptop for school or college students - URL $ aapl $ goog $ msft $ amd $ nvda $ COMPANY_X"
+    },
+    "tweet3": {
+      "content": "COMPANY_X intel corp . last trade URL $ COMPANY_X $ mbly $ ashr $ oil COMPANY_X tradeideas finance"
+    },
+    "tweet4": {
+      "content": "polgarstocks : fb facebook , inc . current price URL $ fb $ COMPANY_X $ ctix $ … URL URL"
+    },
+    "tweet5": {
+      "content": "scty seadrill ltd . day low URL $ scty $ COMPANY_X $ fv $ fxi scty finance pennystocks"
+    },
+    "tweet6": {
+      "content": "volume alert - COMPANY_X 29.01 intel corp $ COMPANY_X hit a high today of 29.23 closing the day 10:30 at 29.01 -0.11 -0.3 URL"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "dwti velocityshares 3x inverse crude etn market cap URL $ dwti $ rsp $ c $ COMPANY_X dwti nasdaq investing"
+    },
+    "tweet2": {
+      "content": "arwr arrowhead p / e ratio URL $ arwr $ ibm $ jblu $ COMPANY_X arwr investing tradeideas"
+    },
+    "tweet3": {
+      "content": "intel $ COMPANY_X stock downgraded at drexel hamilton URL"
+    },
+    "tweet4": {
+      "content": "COMPANY_X intel corp . chart URL $ COMPANY_X $ scty $ uco $ vdrm COMPANY_X share pennystocks"
+    },
+    "tweet5": {
+      "content": "$ COMPANY_X \" hbm 2 is quite clearly set to completely replace gddr 5 as the standard graphics memory for both amd and nvidia in 2016 . \" - wccf tech"
+    },
+    "tweet6": {
+      "content": "nvda nvidia corp . p / e ratio URL $ nvda $ bbep $ COMPANY_X $ nugt nvda invest share"
+    },
+    "tweet7": {
+      "content": "COMPANY_X intel corp . stock forum URL $ COMPANY_X $ kbe $ xlv $ nem COMPANY_X stock share"
+    },
+    "tweet8": {
+      "content": "lng cheniere energy , inc . financials URL $ lng $ sbux $ tso $ COMPANY_X lng stock finance"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "URL < <-- this guy has some great free info on some hot stocks and he has a stellar track record ! $ COMPANY_X $ ohrp $ altr"
+    },
+    "tweet2": {
+      "content": "researchers discover rootkit exploit in intel cpus that scanning software are unable to detect - $ COMPANY_X infosec URL"
+    },
+    "tweet3": {
+      "content": "want to learn to short sell pennystocks ? here is my review of shortstocking dvd ! URL $ krft $ altr $ qunr $ COMPANY_X"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X another big semi name starting to move"
+    },
+    "tweet5": {
+      "content": "rt AT_USER long $ f $ idra short $ COMPANY_X $ fit $ wing"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "s & p100 stocks performance $ hal $ cat $ aapl $ apc $ oxy $ dvn $ hpq $ cop $ slb $ COMPANY_X $ met $ cvx $ twx $ dow $ xom more @ URL"
+    },
+    "tweet2": {
+      "content": "intel long $ COMPANY_X URL"
+    },
+    "tweet3": {
+      "content": "analysts cut targets on micron but remain upbeat on 2016 $ mu $ sndk $ COMPANY_X $ msft : full story URL"
+    },
+    "tweet4": {
+      "content": "AT_USER $ COMPANY_X , $ aapl lead dow components in sales exposure to china"
+    },
+    "tweet5": {
+      "content": "rt AT_USER enter a symbol . be an expert . own the information . $ COMPANY_X trade card URL URL"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "new mod brings AT_USER 3 online multiplayer to pc $ msft , $ goog , $ amd , $ COMPANY_X , $ nvda URL URL"
+    },
+    "tweet2": {
+      "content": "nasdaq 100 stocks performance $ symc $ tsla $ COMPANY_X $ sbac $ mu $ fast $ ctrx $ sial $ disca $ aapl $ lmca $ viab $ ffiv more @ URL"
+    },
+    "tweet3": {
+      "content": "s & p100 stocks performance $ hal $ cat $ aapl $ apc $ oxy $ dvn $ hpq $ cop $ slb $ COMPANY_X $ met $ cvx $ twx $ dow $ xom more @ URL"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "intel ’ s “ hold ” rating reiterated at northland securities $ COMPANY_X URL"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "COMPANY_X intel corp . day high URL $ COMPANY_X $ slv $ ge $ hpq COMPANY_X pennystocks stockmarketitb ishares dow jones u . s . home …"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "rt AT_USER top drops in nasdaq shorts : $ ebay $ wen $ COMPANY_X $ esrx $ hmsy $ mpel $ sbux $ mdrx $ ea $ hznp $ gild $ aapl $ aria $ etsy $ has URL"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "large outflow of money witnessed in intel corporation $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "cheaper copper and gold mean what for chip and electronics manufacturers ? rhodium uranium platinum palladium $ gld $ slv $ nugt $ fcx $ COMPANY_X"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "mkt update $ aapl $ spy $ COMPANY_X $ gild $ gme $ tso $ vlo $ tbt $ gld $ t $ sbux $ wmt $ ntap $ nflx $ v $ amzn $ celg macrolordofwar URL"
+    },
+    "tweet2": {
+      "content": "intel , google admit the oem system has broken down $ COMPANY_X URL"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "$ COMPANY_X chart : COMPANY_X at critical level on weekly . URL"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X ventures into reality television ... late ? shares been dropping > 22 % ytd ... URL tech business news watch"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "$ COMPANY_X $ baba : the 52 - week low club for friday : URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER $ COMPANY_X - COMPANY_X at critical level on weekly - URL"
+    },
+    "tweet3": {
+      "content": "AT_USER closing these $ COMPANY_X puts out for $ 0.50 / sh , 78 % profit ."
+    },
+    "tweet4": {
+      "content": "rt AT_USER $ mu $ COMPANY_X a value play or value trap from here ? URL"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "rt AT_USER dow stocks recover 90 % of opening loss URL $ aapl $ COMPANY_X $ ba $ unh $ jnj"
+    },
+    "tweet2": {
+      "content": "alert : new social signal created on $ COMPANY_X - low at 27.37 - time : 16:39 - strength : 10 . powered by URL"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "intel rating reiterated by susquehanna $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "intel given average recommendation of “ hold ” by brokerages $ COMPANY_X URL acn"
+    },
+    "tweet3": {
+      "content": "rt AT_USER apple : buy before earnings , not before product releases - a statistical study on apple prod ... URL $ COMPANY_X …"
+    },
+    "tweet4": {
+      "content": "slv ishares silver trust exchange URL $ slv $ rai $ crox $ COMPANY_X slv investing stockssmn proshares ultrashort basic …"
+    },
+    "tweet5": {
+      "content": "bidu baidu , inc . ask URL $ bidu $ dewm $ spxu $ COMPANY_X bidu investing stockmarket"
+    },
+    "tweet6": {
+      "content": "zacks short term rating on intel corporation ( nasdaq : COMPANY_X ) $ COMPANY_X URL"
+    },
+    "tweet7": {
+      "content": "ibdinvestors : there's an elephant in the mobile room . and intel doesn't want to talk about it . URL $ COMPANY_X $ aapl"
+    },
+    "tweet8": {
+      "content": "can new intel tech revolutionize application security ? [ video ] URL via AT_USER AT_USER $ COMPANY_X"
+    },
+    "tweet9": {
+      "content": "COMPANY_X intel corp . financials URL $ COMPANY_X $ lmt $ uwti $ aapl COMPANY_X stocks financeitb ishares dow jones u . s . home …"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "cvx chevron corp . dividend URL $ cvx $ COMPANY_X $ bib $ smn cvx stockmarket share"
+    },
+    "tweet2": {
+      "content": "nati national instruments corp . prev close URL $ nati $ aezs $ rdsh $ COMPANY_X nati stock stocks"
+    },
+    "tweet3": {
+      "content": "bis peabody energy corp . 52wk low URL $ bis $ COMPANY_X $ hear $ mo bis nasdaq investing"
+    },
+    "tweet4": {
+      "content": "COMPANY_X intel corp . message board posts URL $ COMPANY_X $ hawk $ fnma $ eros COMPANY_X stockmarket tradeideasitb ishares dow …"
+    },
+    "tweet5": {
+      "content": "COMPANY_X intel corp . ask URL $ COMPANY_X $ nke $ xly $ rsx COMPANY_X stockmarket tradeideasitb ishares dow jones u . s . home …"
+    },
+    "tweet6": {
+      "content": "regn regeneron pharmaceuticals , inc . ex-div date URL $ regn $ googl $ COMPANY_X $ hznp regn pennystocks stockmarket"
+    },
+    "tweet7": {
+      "content": "swks skyworks solutions inc . ex-div date URL $ swks $ COMPANY_X $ ewh $ dog swks nasdaq stockmarket"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "following $ qcom , meidatek , now $ COMPANY_X is also in the drone biz to take a bite of the market share ."
+    },
+    "tweet2": {
+      "content": "intel invests more than $ 60 million in drone maker $ COMPANY_X URL via AT_USER"
+    },
+    "tweet3": {
+      "content": "cure direxion daily healthcare bull 3x shares e . p . s . URL $ cure $ COMPANY_X $ itc $ skx cure investing investing"
+    },
+    "tweet4": {
+      "content": "COMPANY_X intel corp . company info URL $ COMPANY_X $ itb $ cat $ ewy COMPANY_X tradeideas stockmarket"
+    },
+    "tweet5": {
+      "content": "jnug direxion daily junior gold miners index bull 3x shares current price URL $ jnug $ rcl $ COMPANY_X $ celg jnug …"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "jnk spdr barclays high yield bond etf last price URL $ jnk $ COMPANY_X $ utx $ plnt jnk investing nasdaqjnug direxion …"
+    },
+    "tweet2": {
+      "content": "micron : 3d xpoint in imdb URL $ COMPANY_X briankrzanich intel $ mu"
+    },
+    "tweet3": {
+      "content": "weekly nasdaq 100 stocks performance $ avgo $ nflx $ swks $ mu $ nxpi $ gmcr $ tsla $ atvi $ aapl $ COMPANY_X $ brcm $ vrtx more @ URL"
+    },
+    "tweet4": {
+      "content": "s & p100 stocks performance $ gm $ ms $ low $ googl $ gs $ mdt $ lly $ COMPANY_X $ abt $ hon $ wmt $ all $ jpm $ nke $ jnj $ agn more @ URL"
+    },
+    "tweet5": {
+      "content": "$ COMPANY_X breakout over $ 28.46 res ; big test is 50 day sma @ $ 29.25 ( hasn't closed above it since june 3 , 2015 ; URL"
+    },
+    "tweet6": {
+      "content": "$ COMPANY_X : stock in focus – intel corporation ( nasdaq : COMPANY_X ): URL"
+    },
+    "tweet7": {
+      "content": "ewd sweden ishares ask URL $ ewd $ COMPANY_X $ t $ snss ewd pennystocks finance"
+    },
+    "tweet8": {
+      "content": "COMPANY_X intel corp . change URL $ COMPANY_X $ sirgq $ cvs $ aci COMPANY_X nasdaq stocks"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": ". AT_USER will be pushing edram into its iris and iris pro graphics $ COMPANY_X URL URL"
+    },
+    "tweet2": {
+      "content": "technology leader intel $ COMPANY_X up 2.43 % today , ready to close at $ 28.50 usd an increase of $ 0.68 for the day ."
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X - former intel gadget specialist to head silver spring networks URL"
+    },
+    "tweet4": {
+      "content": "in-depth daily technical analysis on markets , $ fb , $ yhoo , $ COMPANY_X , $ ge can be viewed now at URL"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": ". AT_USER unveils a AT_USER 10 - powered pc-on-a-stick with the new vivostick $ msft , $ COMPANY_X URL URL"
+    },
+    "tweet2": {
+      "content": "$ amzn $ csco $ googl $ COMPANY_X : digits : news diges : URL URL"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "m & a daily : jeff bezos's head is in the cloud URL $ altr $ avol $ cam $ dis $ exosf $ imos $ COMPANY_X $ jaso $ mgm $ odp $ pnk $ pre"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "s & p100 stocks performance $ amgn $ cl $ wmt $ dow $ txn $ COMPANY_X $ msft $ unp $ aapl $ amzn $ ms $ gm $ rtn $ orcl $ ba more @ … URL"
+    },
+    "tweet2": {
+      "content": "eem ishares msci emerging markets p / e ratio URL $ eem $ COMPANY_X $ eem $ cvc eem finance stock"
+    },
+    "tweet3": {
+      "content": "weekly nasdaq 100 stocks performance $ gmcr $ viab $ mu $ aal $ sndk $ altr $ akam $ chtr $ chrw $ COMPANY_X $ lvnta $ srcl more @ URL"
+    },
+    "tweet4": {
+      "content": "gld spdr gold trust shares ask URL $ gld $ sso $ COMPANY_X $ cost gld stock share"
+    },
+    "tweet5": {
+      "content": "hd home depot , inc . bid URL $ hd $ nugt $ COMPANY_X $ xiv hd share finance"
+    },
+    "tweet6": {
+      "content": "rth market vectors retail current price URL $ rth $ COMPANY_X $ phm . v $ gequ rth stockmarket tradeideas"
+    },
+    "tweet7": {
+      "content": "bidu baidu , inc . p / e ratio URL $ bidu $ tbev $ googl $ COMPANY_X bidu invest share URL"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "eum proshares short msci emerging markets day low URL $ eum $ sti $ COMPANY_X $ vti eum nasdaq pennystocks"
+    },
+    "tweet2": {
+      "content": "ewj japan ishares yield URL $ ewj $ eltp $ COMPANY_X $ tlt ewj invest tradeideas"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X news : \" intel : samsung is working on a tablet with an atom x5 processor and … \" analyze :"
+    },
+    "tweet4": {
+      "content": "xgd.to ishares cdn s & p / tsx global gold index fund stock message board URL $ xgd.to $ ema.to $ COMPANY_X $ eum xgd.to …"
+    },
+    "tweet5": {
+      "content": "rt AT_USER pr : AT_USER announces zbox magnus en970 compact gaming desktop $ msft , $ COMPANY_X , $ nvda URL URL"
+    },
+    "tweet6": {
+      "content": "s & p100 stocks trend $ amzn $ pcln $ rtn $ COMPANY_X $ googl $ fb $ gd $ lmt $ ups $ nke $ sbux $ celg $ cop $ hal $ gm $ v $ mo @ URL"
+    },
+    "tweet7": {
+      "content": "COMPANY_X intel corp . summary URL $ COMPANY_X $ ctle $ dxd $ xlv COMPANY_X stocks stocks"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "dow stocks trend $ COMPANY_X $ trv $ v $ axp $ unh $ ba $ mcd $ utx $ nke $ gs $ vz $ csco $ ge $ pfe $ mmm $ hd $ wmt $ aapl $ dis @ URL"
+    },
+    "tweet2": {
+      "content": "nightcap - sept 9 bitcoin bagile $ COMPANY_X online URL URL"
+    },
+    "tweet3": {
+      "content": "COMPANY_X intel corp . 52wk low URL $ COMPANY_X $ crgp $ scco $ nat COMPANY_X stock share"
+    },
+    "tweet4": {
+      "content": "our stock alerts are seeing huge gains ! get special early access to new picks : URL $ cmcsa $ COMPANY_X $ amgn"
+    },
+    "tweet5": {
+      "content": "s & p100 stocks trend $ pcln $ googl $ mo $ amzn $ sbux $ v $ lmt $ celg $ rtn $ fb $ COMPANY_X $ nsc $ so $ orcl $ unp $ axp $ cost @ URL"
+    },
+    "tweet6": {
+      "content": "is cisco a good long-term investment opportunity ? URL $ aapl $ alu $ hpq $ COMPANY_X $ csco"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "googl google inc . - class a chart URL $ googl $ amzn $ tlt $ COMPANY_X googl finance tradeideas"
+    },
+    "tweet2": {
+      "content": "xlb materials select sector spdr investor opinions URL $ xlb $ nugt $ COMPANY_X $ brzu xlb stockmarket investing"
+    },
+    "tweet3": {
+      "content": "xbi spdr s & p biotech index etf bid size URL $ xbi $ brwc $ dust $ COMPANY_X xbi tradeideas nasdaq"
+    },
+    "tweet4": {
+      "content": "tbev high performance beverage co . dividend URL $ tbev $ iyt $ itb $ COMPANY_X tbev nasdaq share"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "COMPANY_X top news - sep 14th , 2015 $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "our stock picks have gained over 1,000 % in 2 months ! see our new picks : URL $ cmcsa $ COMPANY_X $ amgn"
+    },
+    "tweet3": {
+      "content": "why another amd buyout makes sense , but is unlikely URL $ COMPANY_X briankrzanich intel $ nvda $ amd $ msft"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "$ COMPANY_X : us intel downgraded to hold at vetr inc . ( COMPANY_X ) intel corp URL sp500"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "what are the most popular hashtags to tweet ? URL … $ aapl $ googl $ cvx $ mck $ COMPANY_X $ hpq … URL"
+    },
+    "tweet2": {
+      "content": "intel corp . reiterated rating by deutsche bank ( ranked 21st ) to buy $ COMPANY_X COMPANY_X URL"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "intel never said it cannot compete with the iphone URL $ aapl $ msft $ qcom $ COMPANY_X"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "ssds are also a problem for intel and microsoft URL $ COMPANY_X $ msft"
+    },
+    "tweet2": {
+      "content": "vlkay volkswagen ag ask URL $ vlkay $ COMPANY_X $ mfcfx $ xiu.to vlkay share pennystocks"
+    },
+    "tweet3": {
+      "content": "hedge fund sentiment suggests you should bet on only one of these 3 upgraded stocks $ COMPANY_X , $ bidu , $ rtn URL"
+    },
+    "tweet4": {
+      "content": "early movers : $ ctsx , $ COMPANY_X , $ csco , $ fb , $ jcp & more URL"
+    },
+    "tweet5": {
+      "content": "bernstein upgrades $ COMPANY_X from underperform to mkt perform URL"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "rt AT_USER $ ibm provides insight at its business analytics conference ( includes : $ orcl $ msft $ COMPANY_X $ amd ) URL"
+    },
+    "tweet2": {
+      "content": "URL leahanne : volume alert - COMPANY_X 28.85 intel corp $ COMPANY_X hit a : leahanne URL URL"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "rt wrigleytom : early movers : $ bbry $ finl $ spls $ googl $ aapl $ pypl $ box $ mmm $ odp $ ko $ big $ COMPANY_X $ nke $ pir $ bbby … URL"
+    },
+    "tweet2": {
+      "content": "for an easy way to follow the stocks you are interested in like $ COMPANY_X , try marketscan for ios : URL"
+    },
+    "tweet3": {
+      "content": "saluting the other great norcal tech cos including : $ aapl $ goog $ tsla $ crm $ fb $ COMPANY_X $ twtr $ adbe $ adsk $ csco $ nflx $ ebay $ dna $ hpq $ orcl ."
+    },
+    "tweet4": {
+      "content": "nem newmont mining corp . day high URL $ nem $ kmph $ vz $ COMPANY_X nem tradeideas nasdaq"
+    },
+    "tweet5": {
+      "content": "sh proshares short s & p 500 fund investor opinions URL $ sh $ COMPANY_X $ bhp $ tap sh investing tradeideas"
+    },
+    "tweet6": {
+      "content": "COMPANY_X intel corp . 52wk high URL $ COMPANY_X $ agc . v $ googl $ ete COMPANY_X stock stocks URL"
+    },
+    "tweet7": {
+      "content": "pfe pfizer , inc . p / e ratio URL $ pfe $ gdxj $ t $ COMPANY_X pfe pennystocks invest"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "COMPANY_X russell 2000 ishares summary URL $ COMPANY_X $ swks $ cpst $ xlv COMPANY_X stockmarket share"
+    },
+    "tweet2": {
+      "content": "COMPANY_X intel corp . prev close URL $ COMPANY_X $ imuc $ pvsp $ aa COMPANY_X nasdaq stocks"
+    },
+    "tweet3": {
+      "content": "hd home depot , inc . news URL $ hd $ swks $ COMPANY_X $ xly hd share investing"
+    },
+    "tweet4": {
+      "content": "$ panw , $ goog , $ COMPANY_X and $ nflx all looking good . possible long candidates . in $ panw ."
+    },
+    "tweet5": {
+      "content": "COMPANY_X intel corp . shares URL $ COMPANY_X $ orly $ sber . l $ jcp COMPANY_X tradeideas stockmarket"
+    },
+    "tweet6": {
+      "content": "ewz brazil ishares change URL $ ewz $ COMPANY_X $ baba $ salt ewz share invest"
+    },
+    "tweet7": {
+      "content": "jnp coca cola co . last trade URL $ jnp $ COMPANY_X $ mbc.to $ drn jnp nasdaq invest"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "ssri silver standard resources , inc . eod data URL $ ssri $ axp $ COMPANY_X $ espr ssri tradeideas stocksune sunedison , …"
+    },
+    "tweet2": {
+      "content": "ssri silver standard resources , inc . eod data URL $ ssri $ axp $ COMPANY_X $ espr ssri tradeideas stocksune sunedison , …"
+    },
+    "tweet3": {
+      "content": "td.to toronto-dominion bank filings URL $ td.to $ googl $ COMPANY_X $ iev td.to stockmarket stockmarket"
+    },
+    "tweet4": {
+      "content": "rt AT_USER $ mu micron upgraded to outperform by $ wfc URL $ spy $ xlk $ qqq $ xli $ COMPANY_X $ aapl AT_USER"
+    },
+    "tweet5": {
+      "content": "rt AT_USER $ mu micron upgraded to outperform by $ wfc URL $ spy $ xlk $ qqq $ xli $ COMPANY_X $ aapl AT_USER"
+    },
+    "tweet6": {
+      "content": "nke nike inc . last trade URL $ nke $ amzn $ COMPANY_X $ twtr nke tradeideas share"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "rt AT_USER 🏆 today's top sweepers : URL $ asna $ cvx $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "while everyone's ( 65 % bulls ) watching the short-term head and shoulders bottom in $ COMPANY_X : URL"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

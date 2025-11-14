@@ -1,0 +1,871 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "$ COMPANY_X money center $ msl regional URL"
+    },
+    "tweet2": {
+      "content": "abx barrick gold corp . % change URL $ abx $ uwti $ COMPANY_X $ tmf abx pennystocks stocks"
+    },
+    "tweet3": {
+      "content": "u . s . dollar cost of funds index widens to 1.423 % at 5 years on $ 890 million volume $ COMPANY_X $ c $ jpm URL via AT_USER"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "nasty chart action in $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "$ blta news updated friday , october 2 , 2015 10:59 : 23 am $ jnk $ rdus $ COMPANY_X $ vht URL"
+    },
+    "tweet3": {
+      "content": "wallstreet shrugs off jobs report . dow + 200 . $ wmt trims 450 jobs . $ COMPANY_X trims smaller clients . AT_USER aims for $ 2b in ipo . wbz"
+    },
+    "tweet4": {
+      "content": "amgn amgen , inc . bid URL $ amgn $ dhi $ COMPANY_X $ xbi amgn pennystocks stocks"
+    },
+    "tweet5": {
+      "content": "goldman sachs trims bank of america target price to $ 19.00 $ COMPANY_X URL"
+    },
+    "tweet6": {
+      "content": "tvix velocityshares daily 2x vix short term etn chart URL $ tvix $ avxl $ COMPANY_X $ xlf tvix tradeideas share"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "smh proshares ultrashort basic materials summary URL $ smh $ vz $ cpg.to $ COMPANY_X smh nasdaq finance"
+    },
+    "tweet2": {
+      "content": "cat caterpillar , inc . chart URL $ cat $ sirg $ COMPANY_X $ fv cat share investing"
+    },
+    "tweet3": {
+      "content": "tvix twitter , inc . ask size URL $ tvix $ glncy $ COMPANY_X $ mnkd tvix finance stockmarket"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "bank of america's road to value URL $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "mro marathon oil ex-div date URL $ mro $ COMPANY_X $ nvda $ dhi mro share stocks"
+    },
+    "tweet3": {
+      "content": "wynn wynn resorts ltd day high URL $ wynn $ COMPANY_X $ gs $ cpg.to wynn finance nasdaq"
+    },
+    "tweet4": {
+      "content": "COMPANY_X bank of america corp . investor opinions URL $ COMPANY_X $ hack $ gss $ fcu.to COMPANY_X pennystocks sharebtu peabody energy …"
+    },
+    "tweet5": {
+      "content": "has the fed accidentally ruined bank stocks as an investment ? URL $ COMPANY_X $ c $ jpm $ wfc"
+    },
+    "tweet6": {
+      "content": "sa seabridge gold , inc . change URL $ sa $ auy $ goog $ COMPANY_X sa stock share"
+    },
+    "tweet7": {
+      "content": "sndk sandisk corp . bid URL $ sndk $ hpq $ COMPANY_X $ nuv sndk stockmarket finance"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "COMPANY_X bank of america corp . 52wk high URL $ COMPANY_X $ cybr $ gld $ pfe COMPANY_X stock stock"
+    },
+    "tweet2": {
+      "content": "eca encana corp . tick URL $ eca $ mdxg $ aapl $ COMPANY_X eca finance investing"
+    },
+    "tweet3": {
+      "content": "new trend detected on $ COMPANY_X when price was 15,545 URL tradingsystem randomwalk"
+    },
+    "tweet4": {
+      "content": "COMPANY_X bank of america corp . ask URL $ COMPANY_X $ bldp $ sbux $ f COMPANY_X share stockmarket"
+    },
+    "tweet5": {
+      "content": "nugt direxion daily gold miners bull 3x shares % change URL $ nugt $ gdx $ lmt $ COMPANY_X nugt pennystocks nasdaq"
+    },
+    "tweet6": {
+      "content": "$ COMPANY_X : analyst action by oppenheimer on bank of america : URL URL"
+    },
+    "tweet7": {
+      "content": "analyst 9348 gave $ COMPANY_X a buy rating - risingrates longtermgrowth URL"
+    },
+    "tweet8": {
+      "content": "COMPANY_X bank of america corp . last price URL $ COMPANY_X $ snc.to $ yum $ tasr COMPANY_X stock share"
+    },
+    "tweet9": {
+      "content": "lmt lockheed martin corp . last price URL $ lmt $ COMPANY_X $ sndk $ itb lmt invest finance"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "trv the travelers cos . , inc . summary URL $ trv $ ews $ COMPANY_X $ ewj trv stocks invest"
+    },
+    "tweet2": {
+      "content": "rt AT_USER today ’ s rm guest-view , a brilliant set of potential trades : $ gild , $ COMPANY_X , $ eog and $ spy by AT_USER at : URL"
+    },
+    "tweet3": {
+      "content": "see why these assets are trending in 1 watchlist $ COMPANY_X $ cien $ glen $ goog $ lse URL URL"
+    },
+    "tweet4": {
+      "content": "ea electronic arts , inc . company info URL $ ea $ mdxg $ COMPANY_X $ xgd.to ea pennystocks stock"
+    },
+    "tweet5": {
+      "content": "zuckerberg's china kowtow hits new lows with baby request : [ at forbes ] - bottom line : mar ... URL $ fb $ twtr $ lnkd $ COMPANY_X"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "$ lmt reviews updated monday , october 12 , 2015 07:10 : 37 am $ ibb $ gild $ emc $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "$ aapl $ nflx $ ilmn $ jpm $ COMPANY_X $ googl $ amzn $ lnkd $ bidu & more . earning schedule for month of october URL"
+    },
+    "tweet3": {
+      "content": "$ jpm $ COMPANY_X $ wfc $ c $ gs $ pnc $ . spx $ met $ ms $ sbny $ sti $ zion $ . bkx : why us banks soon will be singing the blues : URL"
+    },
+    "tweet4": {
+      "content": "rt AT_USER $ infy $ jnj $ dfrg $ fast $ intc $ hawk $ csx $ jpm $ COMPANY_X $ blk $ wfc $ dal $ c $ nflx $ xlnx $ gs $ bx $ fcs $ unh $ mat $ slb $ ge $ hon URL"
+    },
+    "tweet5": {
+      "content": "i think the buzzword with banks this earnings season is ' credit quality . ' \" AT_USER on URL $ jpm $ gs $ c $ COMPANY_X"
+    },
+    "tweet6": {
+      "content": "rt AT_USER ubs cites the best banks to own lol . $ COMPANY_X $ fitb $ ms & $ ctg"
+    },
+    "tweet7": {
+      "content": "rt AT_USER rt AT_USER earnings week : tue - $ intc $ jpm $ jnj wed - $ COMPANY_X $ nflx $ dal $ wfc thur - $ c $ gs $ mat fri - $ pgr $ gww $ ge URL"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "rt AT_USER . AT_USER is watching $ wfc and $ COMPANY_X earnings wednesday - - but he's got a message for you URL URL"
+    },
+    "tweet2": {
+      "content": "why i am buying bank of america this week ( again ) URL $ COMPANY_X"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "AT_USER $ COMPANY_X bank of america higher after earnings beat URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER bank of america swings to quarterly profit . shares edged up 0.8 % to $ 15.63 premarket . URL $ COMPANY_X"
+    },
+    "tweet3": {
+      "content": "uup powershares db us dollar index bullish fund stock forum URL $ uup $ aa $ spxu $ COMPANY_X uup invest finance"
+    },
+    "tweet4": {
+      "content": "can this bank squeeze out a win despite low interest rates ? $ COMPANY_X URL"
+    },
+    "tweet5": {
+      "content": "bank earnings to impact dollar sentiment URL dollar $ wfc $ jpm $ COMPANY_X"
+    },
+    "tweet6": {
+      "content": "rt AT_USER here's how the big banks are trading , so far , after earnings $ COMPANY_X +2.1 % $ wfc +0.4 % $ jpm -1.5 % top trending ticker : URL"
+    },
+    "tweet7": {
+      "content": "AT_USER AT_USER AT_USER AT_USER AT_USER believe in $ COMPANY_X ! ! solid eps & revenue numbers . bullish cnbc"
+    },
+    "tweet8": {
+      "content": "rt AT_USER $ COMPANY_X beats on top and bottom lines . eps $ 0.37 vs $ 0.33 est . sales $ 20.91 b vs $ 20.84 b est . banks spxearnings"
+    },
+    "tweet9": {
+      "content": "$ COMPANY_X URL pot . resume uptrend in a consolid intraweek 60m - 15m - 4m combo chart trading stocks URL"
+    },
+    "tweet10": {
+      "content": "for an easy way to follow the stocks you are interested in like $ COMPANY_X , try marketscan for ios : URL"
+    },
+    "tweet11": {
+      "content": "twm under armour , inc . short sales URL $ twm $ rgld $ vti $ COMPANY_X twm invest stocks"
+    },
+    "tweet12": {
+      "content": "rt URL bis proshares ultrashort nasdaq biotechnology bid URL $ bis $ lvs $ COMPANY_X $ orcl bis stocks …"
+    },
+    "tweet13": {
+      "content": "gg goldcorp , inc . financials URL $ gg $ COMPANY_X $ aezs $ xle gg nasdaq sharegild gilead sciences , inc . dividend …"
+    },
+    "tweet14": {
+      "content": "gild gilead sciences , inc . 52wk low URL $ gild $ COMPANY_X $ hmy $ cytx gild share share"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "freeze tag announces launch of new facebook game : [ at noodls ] - kitty pawp : bubble shoote ... URL $ fb $ twtr $ lnkd $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "COMPANY_X bank of america corp . % change URL $ COMPANY_X $ amba $ ego $ gt COMPANY_X investing finance"
+    },
+    "tweet3": {
+      "content": "uup powershares db us dollar index bullish fund exchange URL $ uup $ jdst $ COMPANY_X $ nem uup finance tradeideasuve …"
+    },
+    "tweet4": {
+      "content": "3q eps slightly above consensus ; strong loan growth & stable credit quality davidhilder $ COMPANY_X"
+    },
+    "tweet5": {
+      "content": "COMPANY_X bank of america corp . yield URL $ COMPANY_X $ dust $ eog $ mck COMPANY_X investing stockmarket"
+    },
+    "tweet6": {
+      "content": "nflx netflix , inc . financials URL $ nflx $ COMPANY_X $ nflx $ zeel.in nflx stocks finance"
+    },
+    "tweet7": {
+      "content": "$ gequ has increased almost 20 times in value , for our subscribers ! huge news : URL $ aapl $ COMPANY_X $ cbis"
+    },
+    "tweet8": {
+      "content": "earnings season picks up pace as results for well-tracked names come in : $ COMPANY_X , $ wfc , $ nflx URL URL"
+    },
+    "tweet9": {
+      "content": "bank of america corp lower price target by keefe bruyette ( ranked 6th ) to outperform with 19 pt $ COMPANY_X COMPANY_X URL"
+    },
+    "tweet10": {
+      "content": "mmm mannkind corp . last price URL $ mmm $ COMPANY_X $ ebay $ nxpi mmm finance nasdaq"
+    },
+    "tweet11": {
+      "content": "rt AT_USER wells fargo attractive after earnings URL $ COMPANY_X $ c $ jpm $ mtu $ wfc"
+    },
+    "tweet12": {
+      "content": "$ fslr stock message board updated thursday , october 15 , 2015 10:59 : 22 am $ kmi $ COMPANY_X $ f $ dis URL"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "gbsn great basin scientific , inc . bid URL $ gbsn $ COMPANY_X $ tvix $ f gbsn share pennystocks"
+    },
+    "tweet2": {
+      "content": "over bollinger $ COMPANY_X $ rsx $ viab $ yndx $ ashr $ ctl $ ttm $ idti $ gsk $ ewh $ nyrt $ spil $ nee $ trv $ bsmx $ ctic $ ttwo $ sny URL"
+    },
+    "tweet3": {
+      "content": "aapl apple , inc . p / e ratio URL $ aapl $ bby $ iyr $ COMPANY_X aapl pennystocks stocks"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "what will push bank of america higher ? URL $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "rt AT_USER live : morgan stanley announces earnings $ ms $ gs $ COMPANY_X $ c $ wfc URL URL"
+    },
+    "tweet3": {
+      "content": "AT_USER AT_USER AT_USER out of $ ms n into $ COMPANY_X n $ jpm"
+    },
+    "tweet4": {
+      "content": "who's hiring / firing on wall st ? $ gs is adding . $ COMPANY_X shrinking . URL"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "bank of america a warrants : return expectations URL $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "rt AT_USER notable opening imbalances : $ wtw + 262k , $ COMPANY_X - 260k , $ ge - 345k , $ ko - 141k , $ lly - 28k , $ aa + 75k , $ mcd - 42k"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "$ COMPANY_X - judge declines to dismiss claims against goldman related to tibco sale URL"
+    },
+    "tweet2": {
+      "content": "COMPANY_X bank of america corp . % change URL $ COMPANY_X $ fxe $ mu $ v COMPANY_X share tradeideas"
+    },
+    "tweet3": {
+      "content": "URL supertrades for massive stock trading profits ! $ COMPANY_X $ amwd $ bb.ca $ meip"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X active stocks to observe : bank of america corp ( nyse : COMPANY_X ) , banco bradesco sa ... : active stocks to obser ... URL"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "crm URL inc . stock message board URL $ crm $ COMPANY_X $ aem.to $ iyt crm stocks stocks"
+    },
+    "tweet2": {
+      "content": "trump gm sold 7.2 million vehicles in the first nine months of 2015 $ gs , $ COMPANY_X , $ c URL"
+    },
+    "tweet3": {
+      "content": "trump uk car registrations up in sept , diesel sales strong - smmt $ gs , $ COMPANY_X , $ c URL"
+    },
+    "tweet4": {
+      "content": "$ flo company info updated thursday , october 22 , 2015 5:11 : 14 pm $ uso $ erx $ xly $ COMPANY_X URL"
+    },
+    "tweet5": {
+      "content": "AT_USER $ COMPANY_X bank of america declares $ 0.05 dividend URL"
+    },
+    "tweet6": {
+      "content": "AT_USER $ COMPANY_X bank of america declares $ 0.05 dividend URL"
+    },
+    "tweet7": {
+      "content": "$ COMPANY_X - merrill lynch study on giving in retirement reveals $ 8 trillion longevity bonus URL"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "COMPANY_X top news - oct 23rd , 2015 $ COMPANY_X URL"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "xlk consumer staples select sector spdr 52wk high URL $ xlk $ mntm $ COMPANY_X $ tsla xlk investing stocks"
+    },
+    "tweet2": {
+      "content": "ty ! finsents_sp 500 : $ COMPANY_X : us bank of america upgrades realty income corp to buy ( o ) bank of america corp URL sp500"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "dumped $ gild $ celg $ slca .. getting short into the close long $ sqqq $ spxs $ COMPANY_X $ wfc $ pypl and lots of $ cash . see you in november bwahahaha"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X , the largest bank in the tampabay area , has one less branch here , closing an office in south stpetersburg URL"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "$ COMPANY_X is always a great trade after the fed decision ... made a little from 16.80 to 17.05"
+    },
+    "tweet2": {
+      "content": "rt AT_USER shorted $ spy , $ qqq , reestablished $ lnc / $ met shorts , sold off some $ COMPANY_X $ c and $ jpm longs on fomc announcement ."
+    },
+    "tweet3": {
+      "content": "rt AT_USER qtmm quantum materials corp . change URL $ qtmm $ COMPANY_X $ clf $ qtmm qtmm nasdaq stocks"
+    },
+    "tweet4": {
+      "content": "rt AT_USER $ fb investor opinions updated wednesday , october 28 , 2015 04:07 : 26 am $ ha $ goog $ mdy $ COMPANY_X URL"
+    },
+    "tweet5": {
+      "content": "$ COMPANY_X finally broke thru the 16.48 res level"
+    },
+    "tweet6": {
+      "content": "iwm russell 2000 ishares eod data URL $ iwm $ COMPANY_X $ xgd.to $ flo iwm share stockmarket"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "deutsche bank retreat follows jpmorgan , bofa , citi URL ibdnews via AT_USER $ db $ COMPANY_X $ jpm $ c"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X incredible flow after fomc . huge move , banks don't like being this far off the 8d ... but gap to finish . URL"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "ea electronic arts , inc . stock forum URL $ ea $ svxy $ COMPANY_X $ spxl ea finance finance"
+    },
+    "tweet2": {
+      "content": "COMPANY_X bank of america corp . last price URL $ COMPANY_X $ hxd.to $ gild $ bib COMPANY_X tradeideas finance"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "$ COMPANY_X - prospectus filed pursuant to rule 424 ( b ) ( 2 ) ( 424b2 ) URL"
+    },
+    "tweet2": {
+      "content": "gg goldcorp , inc . change URL $ gg $ COMPANY_X $ jnj $ hpq gg finance stock"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "new trend detected on $ COMPANY_X when price was 17,16 URL tradingsystem randomwalk"
+    },
+    "tweet2": {
+      "content": "bank of america corporation , $ COMPANY_X , target : 23.81 ( +39.57 % ) . URL bank of"
+    },
+    "tweet3": {
+      "content": "pg procter & gamble co . company info URL $ pg $ COMPANY_X $ tso $ ibm pg investing nasdaqplug plug power , inc . day low …"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X : will bank of america ( COMPANY_X ) stock be helped by money market fund … : URL"
+    },
+    "tweet5": {
+      "content": "rt AT_USER notable opening imbalances : $ COMPANY_X - 280k , $ baba - 82k , $ twtr - 55k , $ pfe - 43k , $ ge - 205k , $ jwn + 74k , $ kors + 79k , $ v + 53k , $ h …"
+    },
+    "tweet6": {
+      "content": "sh proshares short s & p 500 fund p / e ratio URL $ sh $ COMPANY_X $ bsv $ bp sh pennystocks nasdaq"
+    },
+    "tweet7": {
+      "content": "jblu jetblue airways corp . tick URL $ jblu $ cod . l $ angi $ COMPANY_X jblu invest investing"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "rt AT_USER year-over-year revenue growth : $ fb : 38 % $ ge : - 1 % $ pfe : - 2 % $ COMPANY_X : - 3 % $ ko : - 4 % $ jpm : - 6 % $ jnj : - 7 % $ pg : - 12 % $ xom : - 30 % t …"
+    },
+    "tweet2": {
+      "content": "$ . klse $ COMPANY_X : why malaysia may have hit bottom : URL"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "$ COMPANY_X is back — let's get these rates up ."
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X bank of america corp . ( COMPANY_X ) pops 3.87 % for november 06 : bank of america corp . ( COMPANY_X ) pops 3.87 % for novem ... URL"
+    },
+    "tweet3": {
+      "content": "bank of america lifted to “ buy ” at vetr inc . $ COMPANY_X URL"
+    },
+    "tweet4": {
+      "content": "rt AT_USER big deal for $ COMPANY_X here at this 17.9 region - has been resistance for years - breach over and hold of 18.4 will signific …"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "dia spdr dj industrial average etf trust exchange URL $ dia $ ung $ COMPANY_X $ csiq dia stock tradeideas"
+    },
+    "tweet2": {
+      "content": "with interest rates going up , net interest rates could do well . going into ... bank-of-america URL stocks $ COMPANY_X-n"
+    },
+    "tweet3": {
+      "content": "$ slw stock price updated tuesday , november 10 , 2015 06:10 : 58 am $ skx $ ogxi $ COMPANY_X $ v URL"
+    },
+    "tweet4": {
+      "content": "COMPANY_X bank of america corp . tick URL $ COMPANY_X $ avgo $ panw $ bidu COMPANY_X finance share"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "commented on : \" retirement strategy : hate the stock market ? you still can retire ra ... URL $ COMPANY_X $ bgcp $ cvx $ ed"
+    },
+    "tweet2": {
+      "content": "facebook vs . google : which is the best mad scientist ? $ fb $ twtr $ lnkd $ COMPANY_X wlst URL URL"
+    },
+    "tweet3": {
+      "content": "jim 50 : COMPANY_X gapped up +0.02 $ COMPANY_X last price 17.96 day URL"
+    },
+    "tweet4": {
+      "content": "rt AT_USER $ sune $ COMPANY_X $ aapl : most active stocks : sunedison , ( nyse : sune ) , bank of america … : URL"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "elnk earthlink , inc . stock forum URL $ elnk $ kbe $ COMPANY_X $ ecig elnk stocks stocks"
+    },
+    "tweet2": {
+      "content": "COMPANY_X bank of america corp . e . p . s . URL $ COMPANY_X $ smn $ ko $ xle COMPANY_X tradeideas pennystocks"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "short interest in bank of america decreases by 28.6 % $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "atvi avago technologies ltd . 52wk high URL $ atvi $ COMPANY_X $ dxj $ aa atvi pennystocks share"
+    },
+    "tweet3": {
+      "content": "slv ishares silver trust chart URL $ slv $ bidu $ COMPANY_X $ nav slv finance finance"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X - chris rokos picks deutsche bank , bank of america as prime brokers for $ 1.5 billion hedge fund URL"
+    },
+    "tweet5": {
+      "content": "$ COMPANY_X - chris rokos picks deutsche bank , bank of america as prime brokers for $ 1.5 billion hedge fund URL"
+    },
+    "tweet6": {
+      "content": "$ COMPANY_X - rokos picks prime brokers for $ 1.5 billion hedge fund rokos picks prime brokers for $ 1.5 billion hedge URL"
+    },
+    "tweet7": {
+      "content": "$ COMPANY_X - rokos picks prime brokers for $ 1.5 billion hedge fund rokos picks prime brokers for $ 1.5 billion hedge URL"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "$ COMPANY_X - merrill brokers managing $ 500 million depart - - street moves URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER u . s . dollar cost of funds index narrows to 1.196 % at 5 years on $ 667 million volume $ COMPANY_X $ c $ jpm URL vi …"
+    },
+    "tweet3": {
+      "content": "COMPANY_X bank of america corp . stock forum URL $ COMPANY_X $ mdr $ uvxy $ gdx COMPANY_X stocks stocks"
+    },
+    "tweet4": {
+      "content": "AT_USER AT_USER AT_USER buying more $ twtr , $ skx , $ COMPANY_X and $ gild . :-)"
+    },
+    "tweet5": {
+      "content": "el viernes comentaba que los 2.030 ptos del sp500 eran buenos para aumentar exposición a usa $ COMPANY_X + 1 % $ rcl -1,2 % $ ba +1,1 % $ v +0,5 % $ f +0,6 %"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "beer , credit card debt and other positives for bank of america URL $ COMPANY_X , $ sbmry , $ bnpqy , $ wfc , $ c , $ jpm"
+    },
+    "tweet2": {
+      "content": "rt AT_USER beer , credit card debt and other positives for bank of america URL $ sbmry $ bnpqy $ wfc $ c $ jpm $ COMPANY_X"
+    },
+    "tweet3": {
+      "content": "bank of america ranks last ( again ) in customer satisfaction ; soros discloses stake URL premarket $ COMPANY_X"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "facebook says it froze user named isis by mistake : [ reuters ] - facebook inc ( fb . o ) said i ... URL $ fb $ twtr $ lnkd $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "veritas carlyle $ 5.6 b debt to be absorbed by $ COMPANY_X $ ms . a few levfin bonuses to be suspended with the deal URL"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X - what's apple's new strategy for mobile payments ? URL"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "COMPANY_X bank of america corp . exchange URL $ COMPANY_X $ jblu $ fxi $ f COMPANY_X investing stocks"
+    },
+    "tweet2": {
+      "content": "islamic state makes telegram messaging app a major marketing tool : [ reuters ] - a new feat ... URL $ fb $ twtr $ lnkd $ COMPANY_X"
+    },
+    "tweet3": {
+      "content": "facebook , apple supplier among 5 top big cap leaders : [ at investor's business daily ] - as ... URL $ fb $ twtr $ lnkd $ COMPANY_X"
+    },
+    "tweet4": {
+      "content": "is stubhub back on track ? $ fb $ twtr $ lnkd $ COMPANY_X eventticketing stubhub ticketmaster wlst URL URL"
+    },
+    "tweet5": {
+      "content": "rt AT_USER you just got $ 1 million . now what ? URL $ COMPANY_X $ dis $ gs $ jpm $ rai $ spy"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "bank of america raised to “ buy ” at vetr inc . $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X why hasn't one obama cabinet resigned over jugears vast ineptness ?"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "$ COMPANY_X - fed's tarullo to biggest banks : stress tests likely will get harder URL"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X news : \" actives on open @ cboe : $ aapl $ fb $ COMPANY_X $ msft $ pfe $ amzn $ dis $ ge … \" URL analyze : URL"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "up on realmoneypro now : why bank stocks might falter over the near term . $ COMPANY_X $ jpm $ c"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X - prospectus filed pursuant to rule 424 ( b ) ( 2 ) ( 424b2 ) URL"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "agg ishares barclays aggregate bond fund change URL $ agg $ COMPANY_X $ cnr.to $ nk agg finance stockmarketagn allergan …"
+    },
+    "tweet2": {
+      "content": "new sec filing for $ COMPANY_X filed a moment ago : URL URL"
+    },
+    "tweet3": {
+      "content": "added $ COMPANY_X dec 4th 18 ' s @ . 06"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X - prospectus filed pursuant to rule 424 ( b ) ( 2 ) ( 424b2 ) URL"
+    },
+    "tweet5": {
+      "content": "largest open interest increases among single stock options for 11/25 include $ fb , $ chk , $ COMPANY_X , $ sune , and $ aapl ."
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "great gift ! christmas holiday green cast iron infuser teapot & holiday teas URL xmas $ msft $ goog $ m $ COMPANY_X $ c $ cake"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "$ COMPANY_X reversal so far . test of prior trend line ( top of the pattern ) as support … . ⚠ ️ URL"
+    },
+    "tweet2": {
+      "content": "$ yhoo $ COMPANY_X $ kmi are generating big volume as seen on speculatingstocks stock buzz , URL stocks"
+    },
+    "tweet3": {
+      "content": "$ lgih recent news updated wednesday , december 2 , 2015 06:11 : 26 am $ xli $ COMPANY_X $ dust $ ms URL"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "$ COMPANY_X investor opinions updated wednesday , december 2 , 2015 7:11 : 03 pm $ bp $ rsx $ paas $ dnrg URL"
+    },
+    "tweet2": {
+      "content": "wall street breakfast : the great monetary divergence URL $ spy $ qqq $ aet $ antm $ avgo $ COMPANY_X $ bcs $ bk $ brgyy $ bud $ c $ ci"
+    },
+    "tweet3": {
+      "content": "actionable options for dec , 3 $ nflx $ COMPANY_X URL"
+    },
+    "tweet4": {
+      "content": "gdxj market vectors junior gold miners message board posts URL $ gdxj $ COMPANY_X $ fslr $ chkp gdxj pennystocks …"
+    },
+    "tweet5": {
+      "content": "rt AT_USER lehman brothers and the treatment of derivatives in bankruptcy - derivatives , 3 URL $ COMPANY_X $ bcs $ c $ cme …"
+    },
+    "tweet6": {
+      "content": "platinum members have seen incredible gains on our top stock picks ! see our new picks early : URL $ aapl $ COMPANY_X $ cbis"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "optionstrading : $ nflx , $ fmi , $ fb live video streaming , $ COMPANY_X s & p credit downgrade , $ aapl URL URL"
+    },
+    "tweet2": {
+      "content": "endless supply at $ 17.80+ . gonna take a big push to break through . $ COMPANY_X"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X stocksnoway : i would be shocked if they didn't raise ! ccar : stocksnoway URL"
+    },
+    "tweet4": {
+      "content": "china ’ s propaganda mouthpieces are the latest additions to facebook ’ s instant articles : URL $ fb $ twtr $ lnkd $ COMPANY_X"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "$ COMPANY_X news : \" actives on open @ cboe : $ aapl $ nflx $ fb $ hog $ COMPANY_X $ jd $ kmi $ gmcr … \" URL analyze : … URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER how to make money from home URL $ dia $ spy $ qqq $ kmi $ uwti $ COMPANY_X $ ge $ fcx $ cmg $ blue $ dust $ swhc https …"
+    },
+    "tweet3": {
+      "content": "the trading tech bomb from hell : exchange winners and losers , 2 ; and derivatives , 4 URL $ COMPANY_X $ bk $ c $ cme $ fmcc $ fnma"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X bank of america merrill lynch named institutional investor magazine ’ s “ top global research firm of 2015 ” URL"
+    },
+    "tweet5": {
+      "content": "rt AT_USER how to make money from home URL $ dia $ spy $ qqq $ kmi $ uwti $ COMPANY_X $ ge $ fcx $ cmg $ blue $ dust $ swhc https …"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "rt URL COMPANY_X bank of america corp . 52wk low URL $ COMPANY_X $ dol.to $ wmih $ ko COMPANY_X stocks investing"
+    },
+    "tweet2": {
+      "content": "rt AT_USER how to make money from home URL $ dia $ spy $ qqq $ kmi $ uwti $ COMPANY_X $ ge $ fcx $ cmg $ blue $ dust $ swhc https …"
+    },
+    "tweet3": {
+      "content": "rt AT_USER how to make money from home URL $ dia $ spy $ qqq $ kmi $ uwti $ COMPANY_X $ ge $ fcx $ cmg $ blue $ dust $ swhc https …"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X bank of america corp : what happens after the hike ? : bank of america corp : what happens after the hike ? b ... URL"
+    },
+    "tweet5": {
+      "content": "$ COMPANY_X $ vxx $ sune are generating big volume as seen on speculatingstocks stock buzz , URL stocks"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "$ fb stock price updated thursday , december 10 , 2015 09:11 : 03 am $ COMPANY_X $ pbr $ vxx $ upro URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER kbw ’ s favorite bank stocks for 2016 include $ c , $ jpm and $ COMPANY_X plus lots of smaller names URL via AT_USER"
+    },
+    "tweet3": {
+      "content": "COMPANY_X bank of america corp . ex-div date URL $ COMPANY_X $ panw $ auy $ scie COMPANY_X finance pennystocks"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X news : \" fed has no objection to bofa's resubmitted capital plan premarket … \" URL analyze : URL"
+    },
+    "tweet5": {
+      "content": "fed approves bank of america's resubmitted stress test URL $ COMPANY_X"
+    },
+    "tweet6": {
+      "content": "all my targets getting hit . $ v79 $ spy 207 $ COMPANY_X 17.5 $ uvxy 27"
+    },
+    "tweet7": {
+      "content": "COMPANY_X bank of america corp . 52wk high URL $ COMPANY_X $ xli $ ewj $ ery COMPANY_X stockmarket pennystocks"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "$ COMPANY_X bank of america corp set to bag further gains : bank of america corp set to bag further gains business fi ... URL"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X - estados unidos : índice dow jones fecha em baixa nesta sexta-feira , 11 de dezembro de 2015 URL"
+    },
+    "tweet3": {
+      "content": "COMPANY_X blackberry filings URL $ COMPANY_X $ hvu.to $ spxu $ scty COMPANY_X stock investing"
+    },
+    "tweet4": {
+      "content": "baker avenue asset management sells 264,785 shares of bank of america $ COMPANY_X URL acn"
+    },
+    "tweet5": {
+      "content": "rt AT_USER bank of america : ready for takeoff after fed approves capital plan ? URL $ COMPANY_X"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "AT_USER - $ COMPANY_X @ $ 16.50 winner winner chicken dinner ."
+    },
+    "tweet2": {
+      "content": "baird : three bank names to buy on the dip ahead of the fed URL $ COMPANY_X $ bbt $ jpm"
+    },
+    "tweet3": {
+      "content": "are u ready for the next bear market ? $ tvix $ vix $ uvxy $ vxx stocks daytrading nyse $ goog $ msft $ COMPANY_X $ c $ jpm $ wmt $ fb $ twt $ ko $ mcd $ spx"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "tqqq proshares ultrapro qqq bid size URL $ tqqq $ COMPANY_X $ scif $ nvda tqqq share investing"
+    },
+    "tweet2": {
+      "content": "AT_USER : going to book profits in $ v $ COMPANY_X $ spy $ slv $ fb soon .."
+    },
+    "tweet3": {
+      "content": "rt AT_USER $ spx not a good sign , lower highs & lower lows stocks stockmarket nyse $ tvix $ vix $ uvxy $ vxx trading $ spy $ COMPANY_X http …"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "googl gopro , inc . last trade URL $ googl $ ede $ COMPANY_X $ eum googl tradeideas tradeideas"
+    },
+    "tweet2": {
+      "content": "COMPANY_X bank of america corp . ask size URL $ COMPANY_X $ spxl $ goog $ qid COMPANY_X investing stockmarket"
+    },
+    "tweet3": {
+      "content": "cnr.to canadian national railway co . dividend URL $ cnr.to $ cop $ panw $ COMPANY_X cnr.to investing finance"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "rt AT_USER . AT_USER is my hero . writes about how $ COMPANY_X got twitter to delete two of his tweets : URL URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER actives on open @ cboe : $ aapl $ mu $ fcx $ nke $ celg $ xom $ aa $ fb $ COMPANY_X $ twtr $ rig $ sune"
+    },
+    "tweet3": {
+      "content": "rt AT_USER actives on open @ cboe : $ aapl $ mu $ fcx $ nke $ celg $ xom $ aa $ fb $ COMPANY_X $ twtr $ rig $ sune"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "rt URL uvxy proshares ultra vix short-term futures etf short sales URL $ uvxy $ sune $ COMPANY_X $ fve uv …"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "bank of america pressured by low oil prices - sell now $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER financial regulators on $ gs $ jpm $ COMPANY_X $ c URL"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X $ ge $ kmi options have the highest open interest . free options screener . URL"
+    },
+    "tweet4": {
+      "content": "watch financial services etfs this week URL etf financials banks $ xlf $ wfc $ jpm $ COMPANY_X"
+    },
+    "tweet5": {
+      "content": "COMPANY_X bank of america corp . market cap URL $ COMPANY_X $ md $ tap $ xly COMPANY_X stocks finance"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "$ tbt recent news updated monday , december 28 , 2015 7:10 : 49 pm $ COMPANY_X $ veu $ fxcm $ dcac URL"
+    },
+    "tweet2": {
+      "content": "we know the ceos of $ jpm , $ c , $ COMPANY_X , $ wfc , $ gs , $ aig all had prayer cubicles in their office w / tiny statues of greenspan , bernanke & a printing press"
+    },
+    "tweet3": {
+      "content": "aria ariad pharmaceuticals , inc . eod data URL $ aria $ skx $ COMPANY_X $ cat aria stocks finance"
+    },
+    "tweet4": {
+      "content": "dal velocityshares 3x inverse natural gas etn ideas URL $ dal $ oclr $ COMPANY_X $ googl dal stock pennystocks"
+    },
+    "tweet5": {
+      "content": "$ COMPANY_X percent change updated tuesday , december 29 , 2015 2:59 : 23 pm $ chk $ tip $ brcm $ hd URL"
+    },
+    "tweet6": {
+      "content": "$ gpro recent news updated tuesday , december 29 , 2015 10:59 : 23 am $ aa $ xly $ iwm $ COMPANY_X URL"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "scty proshares ultra short s & p 500 day high URL $ scty $ COMPANY_X $ cldx $ hou.to scty finance stock"
+    },
+    "tweet2": {
+      "content": "hes hess corp . short sales URL $ hes $ COMPANY_X $ gmcr $ scty hes investing finance"
+    },
+    "tweet3": {
+      "content": "why access a ticker when you can access a group of tickers $ bbry $ gpro $ COMPANY_X URL"
+    },
+    "tweet4": {
+      "content": "nem netflix , inc . ask URL $ nem $ COMPANY_X $ amgn $ tqqq nem finance share"
+    },
+    "tweet5": {
+      "content": "mo altria group inc . last price URL $ mo $ COMPANY_X $ hsy $ fnma mo tradeideas pennystocks"
+    },
+    "tweet6": {
+      "content": "these were the five most dominant tech companies of 2015 $ fb $ twtr $ lnkd $ COMPANY_X wlst URL … URL"
+    },
+    "tweet7": {
+      "content": "when will bank of america monetize all those deposits ? URL $ COMPANY_X"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "nat norbord inc . volume URL $ nat $ sblk $ tqqq $ COMPANY_X nat stockmarket pennystocks"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X 17.01 i was telling this will touch 17 from wednesday easy 200 % gains who took this trade $ COMPANY_X 17 p"
+    },
+    "tweet3": {
+      "content": "chartguy 89 : COMPANY_X -0.06 % stock charts $ COMPANY_X bank of america URL"
+    },
+    "tweet4": {
+      "content": "symc symantec corp . dividend URL $ symc $ kgi.to $ COMPANY_X $ bidu symc stockmarket stocks"
+    },
+    "tweet5": {
+      "content": "rt AT_USER current market screenshot $ aapl $ amzn $ jnj $ fb $ ge $ COMPANY_X $ dd $ c $ dis $ t $ vz $ nke $ ko $ pep URL"
+    },
+    "tweet6": {
+      "content": "my 2 top stock picks for 2016 URL $ f $ COMPANY_X"
+    },
+    "tweet7": {
+      "content": "rt AT_USER vet.to vermilion energy inc . e . p . s . URL $ vet.to $ COMPANY_X $ labu $ qrvo vet.to finance stockmarket"
+    },
+    "tweet8": {
+      "content": "traders buy bank of america $ COMPANY_X on weakness URL"
+    }
+  }
+}

@@ -1,0 +1,559 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "our stock alerts gained over 550 % in 5 weeks ! see our massive new pick coming tomorrow : URL $ COMPANY_X $ orcl $ vod"
+    },
+    "tweet2": {
+      "content": "windows 10 records every single move you make . URL f u $ COMPANY_X is there not one honest software maker out there ? ?"
+    },
+    "tweet3": {
+      "content": "rt AT_USER 8 top stocks to buy in august URL $ COMPANY_X $ aapl $ sbux $ dis $ amzn $ mat $ llnw $ qsr stocks investing"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "$ shak shake shack URL $ fslr $ bidu $ dis $ mcd $ COMPANY_X $ fb $ ebay $ ea $ aapl $ avgo $ goog $ ecig $ swks $ fslr goog stockmarket"
+    },
+    "tweet2": {
+      "content": "our penny stock alerts gained 550 % in less than 6 weeks ! check out our new plan : URL $ ntek $ COMPANY_X $ mwip"
+    },
+    "tweet3": {
+      "content": "icymi : new trade – $ COMPANY_X : tick in a xbox URL"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "3 reasons advanced micro devices is a buy URL $ intc briankrzanich intel $ COMPANY_X $ amd"
+    },
+    "tweet2": {
+      "content": "microsoft lumia 640xl is bestselling smartphone in hongkong $ COMPANY_X $ nok $ bbry URL AT_USER URL"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "tips and tricks to choose a laptop for school or college students - URL $ aapl $ goog $ COMPANY_X $ amd $ nvda $ intc"
+    },
+    "tweet2": {
+      "content": "$ shak shake shack URL $ mcd $ COMPANY_X $ fb $ ebay $ ea $ aapl $ avgo $ sco $ myec $ grek $ tck sco tradeideas finance trump 2016"
+    },
+    "tweet3": {
+      "content": "rt AT_USER windows 10 could lift microsoft URL $ COMPANY_X microsoft windows"
+    },
+    "tweet4": {
+      "content": "active stocks highlights : URL $ COMPANY_X $ pypl $ hca"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "$ COMPANY_X received a new alert . find out why at URL stocks daytrading trading mkt nyse nasdaq markets 183"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "microsoft gives new moms and dads more paid leave URL $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "$ goog $ ibm $ COMPANY_X $ twtr $ yhoo $ googl news : \" the artificial intelligence market … \" URL analyze : … URL"
+    },
+    "tweet3": {
+      "content": "icharttop : icharttop is the latest mobile trading app $ COMPANY_X $ agtc $ sqbk $ tnet $ hive $ evdy $ scyx $ rubi $ cori $ te … URL"
+    },
+    "tweet4": {
+      "content": "the artificial intelligence market will only continue to grow URL $ goog google $ ibm $ COMPANY_X $ sap $ twtr $ yhoo $ googl"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "stock news why yodlee inc . jumped and envestnet inc . fell today : bull versus bear , an i ... URL $ mu $ COMPANY_X $ tsla $ amd"
+    },
+    "tweet2": {
+      "content": "you may be paying much higher spreads for us tech giants URL $ aapl $ googl $ COMPANY_X $ fb $ twtr spreadbetting cfd"
+    },
+    "tweet3": {
+      "content": "access curated tweets - high relevancy , less spam - us tech giants URL $ aapl $ googl $ COMPANY_X $ fb $ twtr"
+    },
+    "tweet4": {
+      "content": "analysts cut targets on micron but remain upbeat on 2016 $ mu $ sndk $ intc $ COMPANY_X : full story URL"
+    },
+    "tweet5": {
+      "content": "rt stifel upgrades $ goog to buy , p / t 850.00 quant $ baba $ bidu $ gpro $ amzn $ nflx $ COMPANY_X $ orcl $ fb $ tsla $ aapl $ qqq URL"
+    },
+    "tweet6": {
+      "content": "five easy ways to improve your website seo URL $ goog $ COMPANY_X"
+    },
+    "tweet7": {
+      "content": "it's nice to see companies aren't just picking old bald-headed white guys to run companies anymore ! $ googl $ COMPANY_X $ orcl"
+    },
+    "tweet8": {
+      "content": "windows 10 shaping up to be a disaster for microsoft shareholders $ COMPANY_X ... URL"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "new mod brings AT_USER 3 online multiplayer to pc $ COMPANY_X , $ goog , $ amd , $ intc , $ nvda URL URL"
+    },
+    "tweet2": {
+      "content": "platinum subscribers saw our stock picks gain 4,000 % in 10 months ! see our new pick : URL $ ntek $ COMPANY_X $ mwip"
+    },
+    "tweet3": {
+      "content": "massive growth is attracting investors to uber . $ fb $ COMPANY_X $ amzn $ googl $ bidu $ blk $ gs URL … … URL"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "here's how microsoft plans to own the internet of things - - the motley fool URL - very cool . $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "AT_USER $ COMPANY_X stifel upgrades microsoft to buy , expects solid profit / dividend growth URL"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "our members saw their stock picks gain over 550 % in 5 weeks ! see the major new pick for tomorrow : URL $ ntek $ COMPANY_X $ mwip"
+    },
+    "tweet2": {
+      "content": "our penny stock alerts gained over 550 % in 5 weeks ! see see how to get our new picks early : URL $ COMPANY_X $ orcl $ vod"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "$ COMPANY_X : us microsoft developing app that can read out news microsoft corp URL sp500"
+    },
+    "tweet2": {
+      "content": "rt AT_USER microsoft under fire for windows 10 update fail AT_USER itbw $ COMPANY_X URL URL"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "windows 10 quickly takes 4.95 percent of os market share URL $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "technology sector movers : microsoft corporation ( COMPANY_X ) , intel corporation ( intc ) , at & t … URL $ COMPANY_X"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "weekly dow stocks trend $ hd $ mcd $ trv $ COMPANY_X $ unh $ axp $ nke $ mrk $ ba $ jpm $ ko $ cat $ v $ pfe $ vz $ jnj $ ge $ dd $ utx @ URL"
+    },
+    "tweet2": {
+      "content": "microsoft corporation ( COMPANY_X ) xbox one vs ps4 : propaganda time ! $ COMPANY_X $ sne sony microsoft $ xboxonevsps 4 URL"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "rt AT_USER bloodbath : major index component heat map into the close . $ aapl $ goog $ vix $ spy $ COMPANY_X $ jnj $ mmm $ pg $ tsla $ mnkd $ vz ht …"
+    },
+    "tweet2": {
+      "content": "subscribers saw a 525 % gain on $ gequ & a new pick is out ! see it early : URL $ xlf $ f $ fn $ COMPANY_X"
+    },
+    "tweet3": {
+      "content": "options news : $ vix , $ xom , $ hpq , $ crm , $ gps AT_USER AT_USER john : $ cop , $ aapl , $ COMPANY_X URL URL"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "$ omer analyst upgrades to $ 70 - $ 75 targets ; 200 % + upside $ COMPANY_X $ wag $ lvs investors read URL and URL"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "microsoft windows 95 was launched 20 years ago today – feel old yet ? URL $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER 20 dow components hit 52 - week lows , including $ aapl , $ ba , $ mcd , $ COMPANY_X and $ ibm • live blog » URL URL"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "$ twtr $ crm $ COMPANY_X $ aet $ ba if it breathes , sell it !"
+    },
+    "tweet2": {
+      "content": "this guy is making millions ! watch this video proof here at URL .. $ ntek $ COMPANY_X $ mwip"
+    },
+    "tweet3": {
+      "content": "rt AT_USER surface pro 4 coming soon ? microsoft slashes price of surface pro 3 by as … URL microsoft • $ COMPANY_X htt …"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X held that long term trend line - nice . URL"
+    },
+    "tweet5": {
+      "content": "for an easy way to follow the stocks you are interested in like $ COMPANY_X , try marketscan for ios : URL"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "does facebook have a better answer to apple's siri ? URL $ fb $ aapl $ googl $ COMPANY_X siri URL"
+    },
+    "tweet2": {
+      "content": "i'm now getting scalped from AT_USER ; better him then selling the market short today ! nice move in $ COMPANY_X & mro ! !"
+    },
+    "tweet3": {
+      "content": "acer aspire notebook review - - can windows 10 help the pc industry ? $ COMPANY_X URL URL"
+    },
+    "tweet4": {
+      "content": "rt AT_USER windows 10 already on 75 million devices URL windows 10 microsoft $ COMPANY_X URL"
+    },
+    "tweet5": {
+      "content": "$ amzn $ bbry $ aapl $ COMPANY_X $ fb $ tsla $ goog $ googl $ nflx hope of a snap in the downtrend . markets this morning . … URL"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "rt AT_USER microsoft is suddenly dangerous to apple and google URL $ COMPANY_X $ aapl $ googl URL"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "rt AT_USER microsoft believes the future of wearables is the workplace - iot $ COMPANY_X URL"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "rt AT_USER $ yhoo $ baba $ COMPANY_X $ bby $ fit $ mu $ mgm $ expr fib charts URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER apple has team exploring augmented reality , says piper's munster $ aapl $ COMPANY_X $ fb : full story URL"
+    },
+    "tweet3": {
+      "content": "is microsoft approach toward the cloud with xbox one correct ? URL $ COMPANY_X $ sne URL"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "microsoft ( $ COMPANY_X ) win 10 will bring fortune but 1st fix the attachment issue in edge browser with outlook . URL AT_USER"
+    },
+    "tweet2": {
+      "content": "our stock alert on $ gequ more than quintupled in 2 months ! see our next big pick : URL $ xlf $ f $ fn $ COMPANY_X"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "$ COMPANY_X - statement of changes in beneficial ownership ( 4 ) URL"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X microsoft corporation ( COMPANY_X ) cortana for windows 10 is available in india URL"
+    },
+    "tweet3": {
+      "content": "watching closely : $ spy , $ qqq , $ sqqq , $ xle , $ xlf , $ aapl , $ COMPANY_X , $ chk , $ hal , $ jcp"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": ". AT_USER unveils a AT_USER 10 - powered pc-on-a-stick with the new vivostick $ COMPANY_X , $ intc URL URL"
+    },
+    "tweet2": {
+      "content": "say what you want about $ COMPANY_X , but saving pc settings online when i have to do system recovery keeping my sanity . all to verify hw is broken"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "rt $ nflx hft algos broke 98.00 in sigma-x , crossfinder , ats , lx @ 11:12 p / t 90.00 quant $ COMPANY_X $ fb $ gpro $ amzn $ fb $ goog $ tsla $ aapl $ qqq"
+    },
+    "tweet2": {
+      "content": "rt $ qqq hft algos broke 101.85 in sigma-x , crossfinder , ats , lx @ 13:59 . p / t 100.00 quant $ COMPANY_X $ fb $ gpro $ amzn $ fb $ goog $ tsla $ nflx $ aapl"
+    },
+    "tweet3": {
+      "content": "AT_USER $ COMPANY_X bloomberg : microsoft weighing multi-billion dollar hq overhaul URL"
+    },
+    "tweet4": {
+      "content": "rt $ nflx hft algos broke 98.00 in sigma-x , crossfinder , ats , lx @ 11:10 p / t 90.00 quant $ COMPANY_X $ fb $ gpro $ amzn $ fb … URL"
+    },
+    "tweet5": {
+      "content": "rt $ nflx hft algos broke 98.00 in sigma-x , crossfinder , ats , lx @ 09:59 p / t 90.00 quant $ COMPANY_X $ fb $ gpro $ amzn $ fb $ goog $ tsla $ aapl $ qqq"
+    },
+    "tweet6": {
+      "content": "5 blue chips set to weaken $ bac $ COMPANY_X $ aapl $ jnj $ wfc URL URL URL"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "s & p100 stocks performance $ amgn $ cl $ wmt $ dow $ txn $ intc $ COMPANY_X $ unp $ aapl $ amzn $ ms $ gm $ rtn $ orcl $ ba more @ … URL"
+    },
+    "tweet2": {
+      "content": "volume alert - COMPANY_X 43.88 microsoft corp $ COMPANY_X hit a high today of 44.00 closing the day 10:30 at 43.88 +1.27 URL"
+    },
+    "tweet3": {
+      "content": "we're ready for this pattern . URL $ COMPANY_X URL"
+    },
+    "tweet4": {
+      "content": "you could be paying 5x higher spreads for us tech giants URL $ aapl $ goog $ COMPANY_X $ fb $ twtr spreadbetting cfd"
+    },
+    "tweet5": {
+      "content": "rt AT_USER first $ aapl then bmw alphabet , abctv abc , lenovo e , and now $ COMPANY_X ? URL AT_USER $ googl google"
+    },
+    "tweet6": {
+      "content": "AT_USER wonder no more my friend . what an opening ? ! $ appl $ COMPANY_X $ fb 📈 🚀 perfect ! 👍 🏼 👍 🏼"
+    },
+    "tweet7": {
+      "content": "apple : m , cortana and now are putting pressure on siri URL $ fb $ ibm $ goog $ googl $ aapl $ COMPANY_X URL"
+    },
+    "tweet8": {
+      "content": "early movers : $ yum , $ aet , $ stz , $ dis , $ pg , $ COMPANY_X & more URL"
+    },
+    "tweet9": {
+      "content": "$ COMPANY_X $ crm : microsoft said to pay $ 250 million for security vendor adallom : URL"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "$ yhoo $ fb $ COMPANY_X $ twtr news : \" volume leaders @ cboe : $ aapl $ nflx $ bac $ yhoo $ fb … \" URL analyze : URL"
+    },
+    "tweet2": {
+      "content": "$ fcx news : \" volume leaders @ cboe : $ aapl $ nflx $ bac $ yhoo $ fb $ nrf $ COMPANY_X $ fcx … \" URL analyze : URL"
+    },
+    "tweet3": {
+      "content": "$ aapl news : \" volume leaders @ cboe : $ aapl $ nflx $ bac $ yhoo $ fb $ nrf $ COMPANY_X $ fcx … \" URL analyze : URL"
+    },
+    "tweet4": {
+      "content": "microsoft corporation ( nasdaq : COMPANY_X ) risks own security with purchase of ... $ COMPANY_X URL"
+    },
+    "tweet5": {
+      "content": "stock news 4 picks from top 15 zacks ranked industries assure gains : after tottering on ... URL $ mu $ COMPANY_X $ tsla $ amd"
+    },
+    "tweet6": {
+      "content": "rt AT_USER pr : AT_USER announces zbox magnus en970 compact gaming desktop $ COMPANY_X , $ intc , $ nvda URL URL"
+    },
+    "tweet7": {
+      "content": "between $ adbe demo and $ COMPANY_X demo , it's clear ipadpro is a big leap forward in tablet productivity for $ aapl . appleevent"
+    },
+    "tweet8": {
+      "content": "$ aapl $ COMPANY_X $ googl $ goog playing apple's big announcement today . URL URL"
+    },
+    "tweet9": {
+      "content": "you could be paying 5x higher spreads for us tech giants URL $ aapl $ goog $ COMPANY_X $ fb $ twtr spreadbetting cfd"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "surprise-free apple event disappoints investors – aapl COMPANY_X URL $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "surprise-free apple event disappoints investors - aapl COMPANY_X - tickerlens $ COMPANY_X COMPANY_X URL URL"
+    },
+    "tweet3": {
+      "content": "rt AT_USER good to have AT_USER in sf for a spell . means i can call him more frequently w / questions about $ aapl $ COMPANY_X URL"
+    },
+    "tweet4": {
+      "content": "rt AT_USER microsoft launching office 2016 on sep . 22 ; office ipad apps updated URL $ COMPANY_X"
+    },
+    "tweet5": {
+      "content": "happy birthday ! sony's playstation turns 20 URL playstationnation $ sne $ aapl $ nflx $ goog $ COMPANY_X"
+    },
+    "tweet6": {
+      "content": "apple : m , cortana and now are putting pressure on siri $ fb $ ibm $ goog $ googl $ aapl $ COMPANY_X URL URL"
+    },
+    "tweet7": {
+      "content": "the $ aapl ipadpro event : a good , sad day for $ COMPANY_X URL apple microsoft"
+    },
+    "tweet8": {
+      "content": "save 75 % by finding the cheapest broker to trade us tech giants URL $ aapl $ goog $ COMPANY_X $ fb $ twtr spreadbetting cfd"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "rt AT_USER nfl kicks off 2015 season as wall street watches $ yhoo $ cbs $ zbra $ COMPANY_X $ cmcsa $ cmcsk $ twc $ cvc $ aapl $ t $ vz $ ... URL"
+    },
+    "tweet2": {
+      "content": "our stock alerts are seeing huge gains ! get special early access to new picks : URL $ xlf $ f $ fn $ COMPANY_X"
+    },
+    "tweet3": {
+      "content": "sony playstation 4 outsold microsoft xbox one in august - URL $ sne $ COMPANY_X $ ntdoy URL"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X nfor $ amd really ... come on why ? wintel"
+    },
+    "tweet5": {
+      "content": "rant-on AT_USER ! the obscenity of uncertainty getting old ! ! $ twtr $ goog $ aapl $ fb $ COMPANY_X cnbc AT_USER"
+    },
+    "tweet6": {
+      "content": "microsoft : 3 takeaways from the citi global tech conference URL $ box $ COMPANY_X"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "microsoft corporation promotes brad smith to president - tickerlens $ COMPANY_X COMPANY_X URL URL"
+    },
+    "tweet2": {
+      "content": "one more sign microsoft cloud services are on the right track $ COMPANY_X also $ amzn URL"
+    },
+    "tweet3": {
+      "content": "rt AT_USER market cap in billions dec 2000 / jun 2012 $ COMPANY_X : $ 510 / $ 249 $ aapl : $ 4.8 / $ 541 ( technology moves on , as do fortu …"
+    },
+    "tweet4": {
+      "content": "why another amd buyout makes sense , but is unlikely URL $ intc briankrzanich intel $ nvda $ amd $ COMPANY_X"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "AT_USER $ COMPANY_X microsoft declares $ 0.36 dividend URL"
+    },
+    "tweet2": {
+      "content": "microsoft hold windows 10 hardware event - URL $ COMPANY_X $ aapl URL"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "$ COMPANY_X - microsoft raises quarterly dividend by 5 cents URL"
+    },
+    "tweet2": {
+      "content": "rt $ nflx hft algos triggered buy in sigma-x , crossfinder , ats , lx @ 08:33 p / t 105.00 quant $ COMPANY_X $ fb $ gpro $ amzn $ fb $ goog $ tsla $ aapl $ qqq"
+    },
+    "tweet3": {
+      "content": "why latin american students want to work at AT_USER instead of google URL $ COMPANY_X $ googl URL"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "edge can give microsoft the edge on phones $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "rt $ nflx hft algos triggered sell in sigma-x , crossfinder , ats , lx @ 07:20 p / t 98.00 quant $ COMPANY_X $ fb $ gpro $ amzn $ fb $ goog $ tsla $ aapl $ qqq"
+    },
+    "tweet3": {
+      "content": "$ gequ is up 1,128 . 57 % for our subscribers ! become a platinum member , to get new picks early : URL $ ntek $ COMPANY_X $ mwip"
+    },
+    "tweet4": {
+      "content": "our penny stock picks have been seeing incredible gains ! see our new pick early : URL $ xlf $ f $ fn $ COMPANY_X"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "intel never said it cannot compete with the iphone URL $ aapl $ COMPANY_X $ qcom $ intc"
+    },
+    "tweet2": {
+      "content": "disney invests in virtual reality start-up jaunt $ dis $ fb $ goog $ COMPANY_X $ gpro URL"
+    },
+    "tweet3": {
+      "content": "$ adbe $ COMPANY_X $ orcl adobe : the poster boy of cloud transitions . URL"
+    },
+    "tweet4": {
+      "content": "what makes $ any sphere 3d unique . no hypervisor , no desktop , no host os installed on server . gw containers $ COMPANY_X URL"
+    },
+    "tweet5": {
+      "content": "9/22 / 15 tuesday movers & news : $ COMPANY_X $ dri $ gis $ azo $ jnj $ dd $ bac discussion boards at --> URL URL"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "ssds are also a problem for intel and microsoft URL $ intc $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X - wunderlich reiterates neutral rating for microsoft COMPANY_X URL"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X - usa : les ventes d'e-books en baisse de plus de 10 % depuis début 2015 URL"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "$ bidu $ COMPANY_X : microsoft signs search pact with baidu in china : URL"
+    },
+    "tweet2": {
+      "content": "$ ntdoy $ sne $ COMPANY_X : can super mario save nintendo from itself ? : URL"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X 3 questions microsoft corporation must answer on oct . 6 URL"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X - microsoft signs search pact with baidu in china URL"
+    },
+    "tweet5": {
+      "content": "rt AT_USER $ ibm provides insight at its business analytics conference ( includes : $ orcl $ COMPANY_X $ intc $ amd ) URL"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "$ googl $ COMPANY_X $ aapl : regulatory scrutiny threatens google ’ s global android domination : URL"
+    },
+    "tweet2": {
+      "content": "$ aapl not the cash king ? when looking just at short-term securities , $ COMPANY_X has lead , apple just no . 6 URL"
+    },
+    "tweet3": {
+      "content": "$ fb $ COMPANY_X $ adbe $ twtr $ csco $ qcom : which high-tech heavy hitters are meeting with modi in silicon … : URL"
+    },
+    "tweet4": {
+      "content": "URL <-- exciting new AT_USER guru ! this guy is goina be huge ! $ vltc $ vggl $ amzn $ COMPANY_X"
+    },
+    "tweet5": {
+      "content": "access curated tweets - high relevancy , less spam - us tech giants URL $ aapl $ googl $ COMPANY_X $ fb … URL"
+    },
+    "tweet6": {
+      "content": "rt racernic : here is where it got better . look at $ aapl and its homies ( $ COMPANY_X $ fb etc ) . am v . now $ spx $ spy $ ndx … URL"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "$ gequ is now up 864.28 % for our subscribers ! get early access to our new pick : URL $ ntek $ COMPANY_X $ mwip"
+    },
+    "tweet2": {
+      "content": "red dead redemption was to be console exclusive only , says former lead multiplayer … URL $ COMPANY_X"
+    },
+    "tweet3": {
+      "content": "$ aapl $ COMPANY_X $ googl : is tim cook predicting tablet takeover in homes ? : URL"
+    },
+    "tweet4": {
+      "content": "yay ! let's make it confusing rt AT_USER microsoft $ COMPANY_X announces financial reporting structure changes $ $ URL"
+    },
+    "tweet5": {
+      "content": "AT_USER AT_USER that's hard , it's a valuation short - $ rax is completing with $ amzn $ COMPANY_X $ goog who can afford to make hosting cost zero"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "microsoft fined for antitrust violation in xbox business in china URL $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "ejecutado 39 venta stop de $ COMPANY_X a 40 , 2015-08- 24 13:30 : 13utc , id375107 ... URL"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X $ rjet $ key : investor ’ s alert on notable stocks – microsoft corporation ( nasdaq … : URL"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "rt $ aapl hft algos broke 109.80 in sigma-x , crossfinder , ats , lx @ 09:34 , p / t 108.00 quant $ COMPANY_X $ fb $ gpro $ amzn $ goog $ tsla $ nflx $ qqq"
+    },
+    "tweet2": {
+      "content": "rt yahoofinance : early movers : $ yhoo , $ mcd , $ aapl , $ COMPANY_X , $ lly & more URL URL"
+    },
+    "tweet3": {
+      "content": "ichimoku red URL $ xiv $ xlf $ rad $ COMPANY_X $ xlv $ wfc $ hban $ schw $ vod $ abbv $ rf $ jnj $ gpro $ fitb $ endp $ rds / a $ usb $ xly"
+    },
+    "tweet4": {
+      "content": "rt fv_stupid : add * moore $ micro's $ ua $ fb $ nvda $ avgo annnd $ tsla and nfl package $ fl $ COMPANY_X $ nke $ ua $ ua $ ua ! ! ! $ … URL"
+    },
+    "tweet5": {
+      "content": "rt $ aapl hft algos triggered sell in sigma-x , crossfinder , ats , lx @ 09:22 , p / t 108.00 quant $ COMPANY_X $ fb $ gpro $ amzn $ goog $ tsla $ nflx $ qqq"
+    },
+    "tweet6": {
+      "content": "access curated tweets - high relevancy , less spam - us tech giants URL $ aapl $ googl $ COMPANY_X $ fb … URL"
+    },
+    "tweet7": {
+      "content": "rt $ aapl hft algos triggered sell in sigma-x , crossfinder , ats , lx @ 09:50 , p / t 108.00 quant $ COMPANY_X $ fb $ gpro $ amzn $ goog $ tsla $ nflx $ qqq"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "early movers : $ mkc $ cag $ gps $ googl $ COMPANY_X $ vrsk $ joy $ dmnd $ wmt $ noc $ de $ fcau $ mac $ ge $ wfc $ ups … URL"
+    },
+    "tweet2": {
+      "content": "AT_USER ( $ COMPANY_X ) , AT_USER tout storage systems for bigdata URL"
+    },
+    "tweet3": {
+      "content": "mediasentiment : $ COMPANY_X received a new alert . find out why at URL stocks daytrading trading … URL"
+    },
+    "tweet4": {
+      "content": "over ichimoku URL $ qqq $ xlf $ COMPANY_X $ csco $ siri $ nok $ bsx $ xlk $ tsm $ xlp $ xly $ dal $ ivv $ luv $ brcm $ bee $ fv $ psec"
+    }
+  }
+}

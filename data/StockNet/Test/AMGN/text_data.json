@@ -1,0 +1,538 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "amgen $ COMPANY_X showing bearish technicals with support at $ 134.42 ( URL )"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "$ jnk stock forum updated thursday , october 1 , 2015 7:11 : 36 pm $ sds $ csco $ ea $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "COMPANY_X amgen , inc . bid URL $ COMPANY_X $ dhi $ bac $ xbi COMPANY_X pennystocks stocks"
+    },
+    "tweet3": {
+      "content": "fcx freeport-mcmoran , inc . volume URL $ fcx $ COMPANY_X $ rwm $ pg fcx pennystocks nasdaq"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "rt AT_USER abbv abbvie inc . ideas URL $ abbv $ baba $ xlk $ COMPANY_X abbv invest nasdaq"
+    },
+    "tweet2": {
+      "content": "upro united technologies corp . market cap URL $ upro $ sune $ COMPANY_X $ crm upro invest investing"
+    },
+    "tweet3": {
+      "content": "COMPANY_X amgen , inc . p / e ratio URL $ COMPANY_X $ cldx $ csiq $ fv COMPANY_X stock stockmarket"
+    },
+    "tweet4": {
+      "content": "ctle nano labs , corp . eod data URL $ ctle $ COMPANY_X $ ng $ gvpix ctle stock share"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "the case for a biotech-bonds barbell strategy : focus on several junior biotech stocks URL $ aapl $ alny $ alxn $ COMPANY_X"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "rt AT_USER bte baytex energy corp . volume URL $ bte $ intc $ COMPANY_X $ mas bte invest stocksbtu peabody energy corp . 52wk …"
+    },
+    "tweet2": {
+      "content": "rt AT_USER today's biggest movers across the large and small of biotech - URL $ COMPANY_X $ celg $ gnca $ ctrv biotec …"
+    },
+    "tweet3": {
+      "content": "bte baytex energy corp . volume URL $ bte $ intc $ COMPANY_X $ mas bte invest stocksbtu peabody energy corp . 52wk low …"
+    },
+    "tweet4": {
+      "content": "rt matthewherper : if someone tells you $ esrx deal signals big market for $ regn $ COMPANY_X , don't believe it : URL via forbes"
+    },
+    "tweet5": {
+      "content": "rt AT_USER hypothetical $ jnj $ COMPANY_X deal > 25 % stock , 25 % premium URL"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "$ COMPANY_X $ gild news : \" biotech sell-off : temporary , or here to stay ? $ COMPANY_X $ axon … \" URL analyze : URL"
+    },
+    "tweet2": {
+      "content": "ry royal bank of canada day low URL $ ry $ hznp $ COMPANY_X $ amrn ry nasdaq finance"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "rt AT_USER calm cal-maine foods , inc . % change URL $ calm $ edc $ COMPANY_X $ sglb calm stocks finance"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "rt AT_USER $ COMPANY_X new data show greater bone mineral density gains with prolia ® ( denosumab ) URL via AT_USER"
+    },
+    "tweet2": {
+      "content": "COMPANY_X amgen , inc . quotes URL $ COMPANY_X $ tbev $ esp.to $ caas COMPANY_X stock share"
+    },
+    "tweet3": {
+      "content": "cny market vectors renminbi / usd etn volume URL $ cny $ gs $ vxx $ COMPANY_X cny invest stocks"
+    },
+    "tweet4": {
+      "content": "rt AT_USER % movers $ canf + 20 $ biod + 18 $ espr + 17 $ amda + 12 $ pstg + 10 $ orex + 6 $ regn + 4 $ emc + 3 $ COMPANY_X + 3 $ mhr - 39 $ capn - 14 $ unxl - 1 …"
+    },
+    "tweet5": {
+      "content": "$ COMPANY_X - new data show greater bone mineral density gains with prolia ® ( denosumab ) compared with zoledronic acid URL"
+    },
+    "tweet6": {
+      "content": "gs goldman sachs group , inc . last trade URL $ gs $ upro $ jdst $ COMPANY_X gs pennystocks finance"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "rt AT_USER biotech digest : superbugs , acadia's upside , eli lilly's setback URL $ abt $ acur $ aezs $ akao $ COMPANY_X $ bi …"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "rt AT_USER $ cpxx $ 1.72 has buy rating w / $ 18 price target at roth capital URL $ COMPANY_X $ aegr $ dgx $ epzm $ lly $ biib $ celg …"
+    },
+    "tweet2": {
+      "content": "COMPANY_X amgen , inc . exchange URL $ COMPANY_X $ amba $ kors $ fxi COMPANY_X invest stocks"
+    },
+    "tweet3": {
+      "content": "tlt tesla motors inc . ask URL $ tlt $ rsg $ uup $ COMPANY_X tlt share finance"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "uvxy proshares ultra vix short-term futures etf investor opinions URL $ uvxy $ COMPANY_X $ tza $ tbev uvxy stock finance"
+    },
+    "tweet2": {
+      "content": "COMPANY_X amgen , inc . financials URL $ COMPANY_X $ nugt $ ge $ nke COMPANY_X pennystocks nasdaq"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "our platinum members have been seeing massive gains on our penny stock picks ! subscribe today : URL $ cmcsa $ intc $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "jbem bio picks . make $ $ $ . join / read here : URL $ COMPANY_X.mx $ amgn34.sa $ amgn34f.sa $ ampe"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "rt AT_USER amgen ’ s blincyto likely to get ema nod in relapsed / refractory ph-b - all , but label may be more restrictive $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "follow nasdaq 100 traders & track their tweets under one watchlist $ COMPANY_X $ qcom URL URL"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X $ celg $ gild news : \" cowen : in biotech earnings we trust $ aegr $ alxn $ COMPANY_X … \" URL analyze : URL"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "is large cap biotech one of the few market sectors with an attractive valuation ? URL $ abbv $ COMPANY_X $ biib $ celg $ ibb $ ibm"
+    },
+    "tweet2": {
+      "content": "is large cap biotech one of the few market sectors with an attractive valuation ? URL $ abbv $ COMPANY_X $ biib $ celg $ ibb $ ibm"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X high open interest range is 140.00 to 155.00 for option expiration 10/23 / 2015 . URL URL"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "rt AT_USER amgen : apotex lost bet ; biosimilar should be blocked URL $ COMPANY_X biosimilars biosimilar pharma bio …"
+    },
+    "tweet2": {
+      "content": "jblu jetblue airways corp . p / e ratio URL $ jblu $ uwti $ rgld $ COMPANY_X jblu stocks share"
+    },
+    "tweet3": {
+      "content": "rt AT_USER icymi : amgen : apotex lost bet ; biosimilar should be blocked URL $ COMPANY_X pharma biotech biosimilar …"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "our ' dividend house ' dgi portfolio review : time for renovations ? URL $ abt $ alu $ COMPANY_X $ bax $ bxlt $ cbrl $ ccp $ d $ gild"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "COMPANY_X amgen , inc . 52wk high URL $ COMPANY_X $ crm $ cxr.to $ qld COMPANY_X stockmarket stocks"
+    },
+    "tweet2": {
+      "content": "$ gequ has increased almost 20 times in value , for our subscribers ! huge news : URL $ cmcsa $ intc $ COMPANY_X"
+    },
+    "tweet3": {
+      "content": "rt AT_USER us earnings highlights next week : tues $ aapl , $ pfe , $ gild , $ ups , $ twtr wed $ COMPANY_X , $ mdlz , $ wba thurs $ ma , $ sbux fri $ xom , $ cv …"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "rt AT_USER $ baba jblu $ twtr $ aapl $ lnkd $ pnra $ gild $ COMPANY_X $ gpro nxpi $ bwld $ ffiv $ yelp $ fslr $ deck $ crus $ sbux $ bidu scty $ expe URL"
+    },
+    "tweet2": {
+      "content": "amgen breaks above 200 - day moving average - bullish for $ COMPANY_X $ bbh dividends URL"
+    },
+    "tweet3": {
+      "content": "follow nasdaq 100 traders & track their tweets under one watchlist $ COMPANY_X $ qcom URL URL"
+    },
+    "tweet4": {
+      "content": "rt AT_USER $ baba jblu $ twtr $ aapl $ lnkd $ pnra $ gild $ COMPANY_X $ gpro nxpi $ bwld $ ffiv $ yelp $ fslr $ deck $ crus $ sbux $ bidu scty $ expe URL"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "rt AT_USER $ COMPANY_X fda approves imlygic URL"
+    },
+    "tweet2": {
+      "content": "googl alphabet inc . ex-div date URL $ googl $ COMPANY_X $ xlu $ srpt googl stockmarket pennystocks URL"
+    },
+    "tweet3": {
+      "content": "gnk genco shipping & trading ltd . day high URL $ gnk $ COMPANY_X $ panw $ goog gnk tradeideas tradeideas"
+    },
+    "tweet4": {
+      "content": "AT_USER even more so for $ COMPANY_X . strategic to position against immunotherapy combos ?"
+    },
+    "tweet5": {
+      "content": "watch it live valeant stock crash with world best trader URL $ vrx $ acad $ ibb $ biib $ COMPANY_X $ apol URL"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "$ COMPANY_X is reporting today amc , and is a potential signal for today AT_USER eps est $ 2.37 rev est $ 5.32 b"
+    },
+    "tweet2": {
+      "content": "amgen $ COMPANY_X trading near $ 164.93 resistance level ( URL )"
+    },
+    "tweet3": {
+      "content": "rt AT_USER upcoming earnings $ gpro $ COMPANY_X $ ma $ nxpi $ yelp $ bwld $ orly $ nok $ cop $ aet $ alxn $ crus $ shw URL URL"
+    },
+    "tweet4": {
+      "content": "fb facebook , inc . market cap URL $ fb $ eem $ COMPANY_X $ dis fb share share"
+    },
+    "tweet5": {
+      "content": "$ COMPANY_X huge beat top and bottom"
+    },
+    "tweet6": {
+      "content": "rt AT_USER top earnings wed 10/28 after the bell : $ abx $ aem $ COMPANY_X $ atml $ cavm $ crus $ elli $ ffiv $ fmc $ gpro $ hbi $ imax $ invn $ ks $ lnc …"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "$ COMPANY_X active , relative volume : 6.37 , 1h , 5:00 pm , nasdaq $ ndx $ spy URL URL"
+    },
+    "tweet2": {
+      "content": "amgen : q3 review ; comments on repatha and corlanor launches and on the pipeline URL $ gild $ nvs $ regn $ COMPANY_X"
+    },
+    "tweet3": {
+      "content": "how did amgen transform herpes virus into a treatment for melanoma ? it was far from easy via AT_USER URL $ COMPANY_X"
+    },
+    "tweet4": {
+      "content": "we might to start to have lift off $ agn $ pfe $ myl $ prgo $ teva $ lly $ jnj $ bax $ gild $ COMPANY_X"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "$ COMPANY_X active , relative volume : 18.44 , 1h , 6:00 pm , nasdaq $ ndx $ spy URL URL"
+    },
+    "tweet2": {
+      "content": "$ dynv . 01 on the offer , wow $ COMPANY_X $ drnk $ pzoo $ fzro $ tsts $ apdn $ colm $ expe $ lnkd $ bidu"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X sentiment rise to : 0.67 , change : +0.68 , sdr : 1.32 , 1h , 7:00 pm , nasdaq $ ndx $ spy"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "$ COMPANY_X this biotech eyes one goal : cure . cancer . now . URL URL"
+    },
+    "tweet2": {
+      "content": "☪ 😡 ntr 🔵 l $ ovas 14 ⁂ 31 + 0 ✡ 31 + 2 🔥 21 % $ COMPANY_X 162.63 + 0 . ³² + 0 ✌ 20 % 🔻 $ gild 109 ☯ 40 -0.20 -0.1 ∞ % URL"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X : noteworthy biotech stocks to watch for : amgen , inc . ( COMPANY_X ) , ariad … : URL"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "$ gequ has increased almost 20 times in value , for our subscribers ! huge news : URL $ cmcsa $ intc $ COMPANY_X"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "$ gequ has increased almost 20 times in value , for our subscribers ! huge news : URL $ cmcsa $ intc $ COMPANY_X"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "$ COMPANY_X active , relative volume : 4.61 , 1h , 9:00 am , nasdaq $ ndx $ spy melbourne URL melbourne URL"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "interesting move over at AT_USER pay for performance deal with $ COMPANY_X's repatha : URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER divergence in the drug biz : pharma & biotech URL AT_USER $ pfe $ agn $ jnj $ biib $ COMPANY_X URL"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "$ COMPANY_X ’ s humira biosimilar advances in phase iii clinical trials URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER $ COMPANY_X $ biib $ celg $ gild $ alxn short sellers run for cover from major biotechs ( 11/11 / 15 ) URL URL"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "gilmo members : ss target $ COMPANY_X is now just below its 50 - dma - that now becomes your trailing stop ..."
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "rt AT_USER my 30 stocks for 30 years : q4 2015 buys URL $ adp $ COMPANY_X $ bdx $ chd $ cl $ cmcsa $ cop $ cost $ csx $ cvs $ dis …"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X sentiment rise to : 0.63 , change : +0.62 , sdr : 1.01 , 1h , 7:00 am , nasdaq $ ndx $ spy melbourne … … … … URL"
+    },
+    "tweet3": {
+      "content": "fxf currency shares swiss franc trust e . p . s . URL $ fxf $ bhel.in $ fxi $ COMPANY_X fxf finance share"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "$ COMPANY_X company info updated monday , november 16 , 2015 7:07 : 12 pm $ hyg $ sune $ smn $ xly URL"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "smn proshares ultrashort basic materials bid URL $ smn $ uco $ COMPANY_X $ dfs smn investing investing"
+    },
+    "tweet2": {
+      "content": "rgld royal gold , inc . quotes URL $ rgld $ ddd $ COMPANY_X $ rsp rgld invest stock"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "$ hcp $ COMPANY_X $ thc : • these stocks are too expensive now : hcp , inc . ( nyse : hcp … : URL"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "$ pfe $ esrx $ abbv $ gild $ regn $ COMPANY_X : cvs makes exclusive deal to cover amgen ’ s cholesterol drug : URL"
+    },
+    "tweet2": {
+      "content": "$ gme news updated sunday , november 22 , 2015 8: 06:48 pm $ uup $ calm $ COMPANY_X $ fmc URL"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "stockwebtrading : $ aapl $ amat $ COMPANY_X $ amtd $ amzn $ atvi trade long and short positions from the nasdaq , up to 190 % since 2011 . …"
+    },
+    "tweet2": {
+      "content": "takeda's ' breakthrough ' velcade heir wins early fda approval in myeloma URL $ jnj $ nvs $ COMPANY_X $ celg via AT_USER"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "rbc $ COMPANY_X further subgroup analysis of phase iii kyprolis endeavor and hosting event on 12/7 evening kyprolis is clearly superior to velcade"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X $ clvs hearing unconfirmed market chatter of potential amgen interest in clovis URL"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "the abbvie-amgen fight is huge for drug costs AT_USER $ abbv $ COMPANY_X URL via AT_USER"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "COMPANY_X amgen , inc . 52wk low URL $ COMPANY_X $ uvxy $ dia $ ugaz COMPANY_X pennystocks investing"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "rt AT_USER $ COMPANY_X and $ mrk announce cancer immunotherapy collaboration for patients with non-hodgkin lymphoma"
+    },
+    "tweet2": {
+      "content": "top sentiment for sp1500 stocks at market open : $ kr $ dis $ mdt $ zumz $ COMPANY_X ( 2015/12 / 04 ) stocktrading predictiveanalytics bigdata"
+    },
+    "tweet3": {
+      "content": "option millionaires : nlightn : $ COMPANY_X , ... amgen and merck team up two cancer studies URL"
+    },
+    "tweet4": {
+      "content": "$ spy $ ndx top weighted 30 on both indices - not exactly bearish at the moment . the_generals lead $ COMPANY_X + 3 % nice ! URL"
+    },
+    "tweet5": {
+      "content": "britain's nhs advisor thumbs down on high cost of alexion's strensiq $ alxn $ COMPANY_X URL"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "$ COMPANY_X percent change updated sunday , december 6 , 2015 10:59 : 19 pm $ igv $ luv $ epd $ bmy URL"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "follow nasdaq 100 traders & track their tweets under one watchlist $ COMPANY_X $ qcom URL URL"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "why $ COMPANY_X can acquire $ glpg URL URL"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X : us apotex biosimilar notice to amgen is mandatory , judge says amgen inc URL sp500"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "premarket biotech digest : opko health's upside , raptor's rp103 , eli lilly-merck URL $ aaap $ acor $ COMPANY_X $ anik $ axon $ azn"
+    },
+    "tweet2": {
+      "content": "ing groep lowers position in amgen , inc . $ COMPANY_X URL"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X : wall street analysts bullish on COMPANY_X's earnings growth : URL URL"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "$ COMPANY_X : us saturna capital has $ 74,777 , 000 position in amgen , inc . ( COMPANY_X ) amgen inc URL nasdaq"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "$ bmy $ COMPANY_X : market movers : philip morris international , inc . ( nyse :p m ) , bristol … : URL"
+    },
+    "tweet2": {
+      "content": "AT_USER indeed - best we could expect for that asset in the short-term with $ COMPANY_X recent eu + us approvals - no waiting 4 clinical"
+    },
+    "tweet3": {
+      "content": "rt AT_USER first sell-side response and defense to pcsk 9 wknd rumors $ COMPANY_X $ regn $ pfe URL"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "amgen $ COMPANY_X – analysts ’ weekly ratings changes URL"
+    },
+    "tweet2": {
+      "content": "trading strategies partners : URL $ aapl $ nflx $ qqq $ spy $ djia $ vz $ gs $ intc $ aa $ intc $ nflx $ gs $ jpm $ t $ mmm $ COMPANY_X"
+    },
+    "tweet3": {
+      "content": "$ pkkff up 95 % on progress of $ 100m annual rev deal . $ 0.20 target $ aapl $ COMPANY_X $ xlk $ spxu $ oih $ sqqq investors read URL"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "the biosimilars are coming . but how long will it be till they can make their mark ? : URL $ sny $ nvs $ COMPANY_X $ abbv pharma"
+    },
+    "tweet2": {
+      "content": "COMPANY_X amgen , inc . short sales URL $ COMPANY_X $ xlb $ calm $ xhb COMPANY_X stock pennystocks"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "trading strategies partners : URL $ aapl $ nflx $ qqq $ spy $ djia $ vz $ gs $ intc $ aa $ intc $ nflx $ gs $ jpm $ t $ mmm $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "rt AT_USER $ fxp reviews updated sunday , december 27 , 2015 7:10 : 43 pm $ atvi $ ura $ COMPANY_X $ tsla URL"
+    },
+    "tweet3": {
+      "content": "rt AT_USER include these biotech stocks in your retirement portfolio URL $ COMPANY_X $ gild $ regn"
+    },
+    "tweet4": {
+      "content": "rt AT_USER indian patents controller grants patent to amgen for its anti-gm-csf mab ( namilumab ) india pharma $ COMPANY_X URL"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "COMPANY_X amgen , inc . tick URL $ COMPANY_X $ itci $ efa $ ilmn COMPANY_X stocks share"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "AT_USER maybe you missed this $ COMPANY_X $ mdgef small but important buyout in oncolytic virus immunotherapies URL"
+    },
+    "tweet2": {
+      "content": "nem netflix , inc . ask URL $ nem $ bac $ COMPANY_X $ tqqq nem finance share"
+    },
+    "tweet3": {
+      "content": "mtsi micron technology , inc . open URL $ mtsi $ cmg $ COMPANY_X $ uup mtsi stock invest"
+    },
+    "tweet4": {
+      "content": "follow nasdaq 100 traders & track their tweets under one watchlist $ COMPANY_X $ qcom URL URL"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "$ COMPANY_X stock price updated wednesday , december 30 , 2015 9:11 : 04 pm $ COMPANY_X $ cmrx $ eltp $ sds URL"
+    }
+  }
+}

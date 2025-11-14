@@ -1,0 +1,532 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "amba ambarella , inc . e . p . s . URL $ amba $ COMPANY_X $ hyg $ spxl amba investing investing"
+    },
+    "tweet2": {
+      "content": "jnug direxion daily junior gold miners index bull 3x shares market cap URL $ jnug $ erx $ COMPANY_X $ xiv jnug stockmarket …"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "dust direxion daily gold miners bear 3x shares ideas URL $ dust $ COMPANY_X $ _aapl $ nugt dust share tradeideas"
+    },
+    "tweet2": {
+      "content": "spending the most on home improvement … ever : an august report from home depot inc . ( $ COMPANY_X ) , the world's largest h ... URL"
+    },
+    "tweet3": {
+      "content": "tlt direxion daily small cap bull 3x shares bid URL $ tlt $ dgaz $ fxi $ COMPANY_X tlt nasdaq nasdaq"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X : home depot receives average recommendation of “ hold ” from … : URL"
+    },
+    "tweet5": {
+      "content": "lock lifelock , inc . exchange URL $ lock $ COMPANY_X $ sh $ xle lock nasdaq finance"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "$ infy percent change updated monday , october 5 , 2015 11:10 : 57 am $ celg $ mtw $ lvs $ COMPANY_X URL"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "COMPANY_X home depot , inc . short sales URL $ COMPANY_X $ COMPANY_X $ dwti $ flo COMPANY_X tradeideas share"
+    },
+    "tweet2": {
+      "content": "cop conocophillips bid URL $ cop $ nbd.to $ COMPANY_X $ adbe cop stock share"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "uso proshares ultra vix short-term futures etf financials URL $ uso $ COMPANY_X $ itek $ cef uso invest stockmarket"
+    },
+    "tweet2": {
+      "content": "googl alphabet inc . ideas URL $ googl $ COMPANY_X $ ivv $ tbt googl invest invest URL"
+    },
+    "tweet3": {
+      "content": "ssri constellation brands , inc . quotes URL $ ssri $ jnug $ COMPANY_X $ mu ssri invest nasdaq"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "btu peabody energy corp . change URL $ btu $ t $ nem $ COMPANY_X btu pennystocks finance"
+    },
+    "tweet2": {
+      "content": "fxi ishares ftse china 25 index fund news URL $ fxi $ COMPANY_X $ rwm $ v fxi pennystocks pennystocks"
+    },
+    "tweet3": {
+      "content": "COMPANY_X home depot , inc . bid URL $ COMPANY_X $ mdco $ nem $ dag COMPANY_X finance pennystocks"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X company info updated friday , october 9 , 2015 12:59 : 22 pm $ t $ iyr $ tza $ ibm URL"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "mu micron technology , inc . quotes URL $ mu $ COMPANY_X $ cvx $ clsn mu stocks stock"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "weekly market overview for the week of oct 12 , 2015 URL $ qqq $ spy $ nke $ vrsn $ p $ asna $ fb $ jaso $ uso $ aapl $ COMPANY_X"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "$ cat stock message board updated wednesday , october 14 , 2015 03:07 : 09 am $ xlu $ fnma $ xle $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "COMPANY_X hwi global , inc . investor opinions URL $ COMPANY_X $ gnk $ iwm $ bery COMPANY_X finance nasdaq"
+    },
+    "tweet3": {
+      "content": "idra infinera corp . bid size URL $ idra $ COMPANY_X $ gld $ xbi idra pennystocks nasdaq"
+    },
+    "tweet4": {
+      "content": "ief ishares barclays 7-10 year treasury bond fund stock forum URL $ ief $ v $ myec $ COMPANY_X ief pennystocks pennystocks"
+    },
+    "tweet5": {
+      "content": "nssc napco security technologies , inc . news URL $ nssc $ COMPANY_X $ bns.to $ aal nssc stock invest"
+    },
+    "tweet6": {
+      "content": "COMPANY_X home depot , inc . 52wk low URL $ COMPANY_X $ kndi $ googl $ aem COMPANY_X invest stockmarket URL"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "nflx netflix , inc . financials URL $ nflx $ COMPANY_X $ spxs $ fdn nflx tradeideas stock"
+    },
+    "tweet2": {
+      "content": "fxi great basin scientific , inc . volume URL $ fxi $ COMPANY_X $ vrx $ nem fxi finance stock"
+    },
+    "tweet3": {
+      "content": "uctt ultra clean holdings inc . investor opinions URL $ uctt $ ewj $ COMPANY_X $ xbi uctt tradeideas share"
+    },
+    "tweet4": {
+      "content": "tza direxion daily small cap bear 3x shares ask URL $ tza $ COMPANY_X $ blta $ hpq tza invest stockua under armour , inc . …"
+    },
+    "tweet5": {
+      "content": "COMPANY_X home depot , inc . yield URL $ COMPANY_X $ wsti $ gs $ xli COMPANY_X pennystocks investinghgu.to horizons betapro s & p / tsx global …"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "cop conocophillips day low URL $ cop $ pfe $ fxi $ COMPANY_X cop finance stock"
+    },
+    "tweet2": {
+      "content": "COMPANY_X home depot , inc . stock forum URL $ COMPANY_X $ aapl $ owoo $ vti COMPANY_X stocks share"
+    },
+    "tweet3": {
+      "content": "COMPANY_X home depot , inc . stock forum URL $ COMPANY_X $ tcl / a.to $ efa $ ewj COMPANY_X stocks stock"
+    },
+    "tweet4": {
+      "content": "nat nordic american tanker shipping ltd . change URL $ nat $ sso.to $ nke $ COMPANY_X nat stock nasdaq"
+    },
+    "tweet5": {
+      "content": "COMPANY_X top news - oct 16th , 2015 $ COMPANY_X URL"
+    },
+    "tweet6": {
+      "content": "twtr texas instruments , inc . filings URL $ twtr $ COMPANY_X $ xlb $ ief twtr share stock"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "feye fireeye inc . filings URL $ feye $ gs $ iyr $ COMPANY_X feye stockmarket sharefit fitbit , inc . ask …"
+    },
+    "tweet2": {
+      "content": "COMPANY_X home depot , inc . day low URL $ COMPANY_X $ tlt $ eem $ xiv COMPANY_X investing pennystocks"
+    },
+    "tweet3": {
+      "content": "ctsh cognizant technology solutions corp . short sales URL $ ctsh $ ewi $ COMPANY_X $ aal ctsh stocks stocks"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "URL congratulatulations to AT_USER on his 157k trade on $ cybr amazing really ! $ COMPANY_X $ ohrp $ pva $ syn $ eox"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "slv ishares silver trust last price URL $ slv $ COMPANY_X $ t $ dh.to slv invest tradeideas"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "free video w / setups october 28 \" off the beaten path \" $ dal $ COMPANY_X $ nke $ nflx URL"
+    },
+    "tweet2": {
+      "content": "tvix velocityshares daily 2x vix short term etn e . p . s . URL $ tvix $ COMPANY_X $ mcd $ uso tvix invest pennystockstwtr …"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "hznp biotech ishares ask size URL $ hznp $ gdxj $ xlv $ COMPANY_X hznp investing tradeideas"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "xop yrc worldwide inc . ideas URL $ xop $ hgd.to $ cxr.to $ COMPANY_X xop tradeideas nasdaq"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "picked up some $ cmg on panic selling , same way i got $ COMPANY_X on the hacking selloff . in a couple of weeks , the news fades , the stock recover $ ."
+    },
+    "tweet2": {
+      "content": "COMPANY_X home depot , inc . market cap URL $ COMPANY_X $ bks $ nxpi $ efav COMPANY_X investing finance"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "$ xly vs $ xlp spread continues to rip ! $ amzn $ dis $ COMPANY_X $ mcd URL URL"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "googl alphabet inc . open URL $ googl $ fb $ shw $ COMPANY_X googl stocks stock"
+    },
+    "tweet2": {
+      "content": "iwo russell 2000 growth ishares company info URL $ iwo $ f $ nflx $ COMPANY_X iwo share pennystocksiwp russell mid-cap …"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "$ COMPANY_X $ COMPANY_X could end the day with a ' key reversal ' given a close < $ 124.82 today . URL URL"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "$ COMPANY_X last price updated wednesday , november 11 , 2015 05:59 : 23 am $ cybr $ ebay $ ge $ imgn URL"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "COMPANY_X home depot , inc . short sales URL $ COMPANY_X $ jwn $ mu $ gm COMPANY_X stocks share"
+    },
+    "tweet2": {
+      "content": "lvs las vegas sands corp . day high URL $ lvs $ ma $ xop $ COMPANY_X lvs share share"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "rt AT_USER $ COMPANY_X sentiment rise to : 0.57 , change : +0.6 , sdr : 1.1 , 1h , 3:00 pm , nyse $ dji $ spy URL URL"
+    },
+    "tweet2": {
+      "content": "brzu canopy growth corporation exchange URL $ brzu $ aiz $ COMPANY_X $ fxs brzu tradeideas finance"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "fb facebook , inc . % change URL $ fb $ COMPANY_X $ mbly $ fdn fb share stocks"
+    },
+    "tweet2": {
+      "content": "privatetrader monday's outcomes $ wmt $ intc $ viab $ COMPANY_X URL"
+    },
+    "tweet3": {
+      "content": "website -> URL $ COMPANY_X reports tuesday , consensus est . rev : $ 21752.9 m , eps : $ 1.32 URL"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X home depot reports 3rd quarter earnings tuesday , november 17th URL via sharethis"
+    },
+    "tweet5": {
+      "content": "home depot to release q315 earnings on tuesday . analysts expect 1.32 eps . $ COMPANY_X URL"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "rt AT_USER all merchandising departments posted positive comps with growth in both pro and diy categories . $ COMPANY_X hdearnings URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER our q3 2015 earnings press release is now available : URL $ COMPANY_X hdearnings"
+    },
+    "tweet3": {
+      "content": "rt AT_USER we released our q3 earnings this morning . see our infographic : URL $ COMPANY_X hdearnings bfs URL"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X $ m $ urbn $ low : home depot earnings top expectations : URL"
+    },
+    "tweet5": {
+      "content": "premarket top % gainers : $ ocrx 18 % 100 vol $ 4.00 , $ clls 10 % 3.2 k $ 38.00 , $ cmcm $ jaso $ dwti $ vips $ dgaz $ fit $ rusl $ fogo $ dust $ COMPANY_X $ my $ wmt"
+    },
+    "tweet6": {
+      "content": "closing out our $ COMPANY_X $ 121 calls for $ 4.85 / sh and a 234 % profit . still holding the $ 125s for upside tail . URL"
+    },
+    "tweet7": {
+      "content": "$ COMPANY_X received a new alert . find out why at URL stocks daytrading trading mkt nyse nasdaq markets 535"
+    },
+    "tweet8": {
+      "content": "also , basing the entire article on dino-tech companies like $ hpq & $ ibm muddies the argument . what about $ COMPANY_X , or $ shw , or $ ttc , or $ gww ?"
+    },
+    "tweet9": {
+      "content": "via AT_USER shoppers won't spend on apparel , but they will open their wallets for home improvement . URL $ COMPANY_X …"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "rt AT_USER biib biogen inc . ask URL $ biib $ COMPANY_X $ expe $ xlb biib investing finance"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X bigger american trends drive home depot . homedepot earningsanalysis amigobulls URL URL"
+    },
+    "tweet3": {
+      "content": "sfm sprouts farmers market inc . financials URL $ sfm $ COMPANY_X $ iwf $ ijr sfm pennystocks pennystocks"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "$ nugt reviews updated thursday , november 19 , 2015 07:10 : 49 am $ a $ xom $ gdxj $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "home depot given new $ 135.00 price target at credit suisse $ COMPANY_X URL"
+    },
+    "tweet3": {
+      "content": "uve universal insurance holdings inc . eod data URL $ uve $ m $ COMPANY_X $ aem uve tradeideas pennystocks"
+    },
+    "tweet4": {
+      "content": "adsk autodesk , inc . short sales URL $ adsk $ itci $ COMPANY_X $ avxl adsk finance invest"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "dozenstocks : dow stocks trend $ ko $ ba $ dis $ trv $ COMPANY_X $ jnj $ v $ intc $ jpm $ pg $ mcd $ mrk $ msft $ utx $ ge $ aapl $ gs $ wm … URL"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "large cap stocks investor ’ s watch list : $ slb $ sbux $ atvi $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "cheap call option upside : $ altr calls cheaper than 99 % of history , $ cci 98 % , $ COMPANY_X 97 % , $ crm 96 % , $ tso 96 % , $ dal 93 % , $ mas 93 %"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "sign up for a free stock alert for $ COMPANY_X URL $ $ stock investing"
+    },
+    "tweet2": {
+      "content": "COMPANY_X year to date has changed +26.23 % percent . +6.33 % in the last 30 days . $ COMPANY_X home depot full breakdown last pr URL"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "rt seekingalpha : the schwab u . s . dividend equity etf is better than social security URL $ cvx $ COMPANY_X $ jnj $ ko $ msft $ pfe $ …"
+    },
+    "tweet2": {
+      "content": "AT_USER $ COMPANY_X doing its best $ kbio impression right now , unreal !"
+    },
+    "tweet3": {
+      "content": "charting the strongest stock in the dow right now ( breakout ) $ COMPANY_X $ djia URL $ $"
+    },
+    "tweet4": {
+      "content": "4 words for home depot : are you kidding me ? ! $ COMPANY_X = ^ . ^ ="
+    },
+    "tweet5": {
+      "content": "rt AT_USER rt AT_USER the best performing stock for the past 34 years will surprise you URL $ COMPANY_X"
+    },
+    "tweet6": {
+      "content": "weekly s & p500 stocks trend $ rost $ tdc $ tsn $ jec $ grmn $ cpb $ low $ a $ COMPANY_X $ hrl $ mpc $ leg $ xec $ mnst $ mro $ vlo @ URL"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "rt AT_USER homedepot reaches settlement agreement with mastercard over databreach URL $ COMPANY_X URL"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "ibm international business machines ask size URL $ ibm $ dks $ nbg $ COMPANY_X ibm finance finance"
+    },
+    "tweet2": {
+      "content": "nvda nvidia corp . day low URL $ nvda $ COMPANY_X $ reliance.in $ emes nvda investing investing"
+    },
+    "tweet3": {
+      "content": "nke nike inc . open URL $ nke $ qld $ emes $ COMPANY_X nke investing stocks"
+    },
+    "tweet4": {
+      "content": "$ cmg reviews updated thursday , december 3 , 2015 3:07 : 14 pm $ COMPANY_X $ atvi $ slw $ gg URL"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "$ amzn reviews updated sunday , december 6 , 2015 8: 59:20 pm $ azo $ gild $ COMPANY_X $ ko URL"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "vrx valeant pharmaceuticals intl , inc . short sales URL $ vrx $ t $ COMPANY_X $ hyg vrx share tradeideas"
+    },
+    "tweet2": {
+      "content": "bright stocks in review : URL $ kmi $ emc $ COMPANY_X"
+    },
+    "tweet3": {
+      "content": "lly eli lilly & co . ex-div date URL $ lly $ uco $ nke $ COMPANY_X lly stockmarket stock"
+    },
+    "tweet4": {
+      "content": "home depot backs guidance , sets long-term targets $ COMPANY_X URL via wsj"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "home depot director just picked up 380 shares URL $ COMPANY_X"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "behavioral finance & the surprising role of psychology in the stock market URL $ nke $ ko $ twtr $ gild $ tyl $ stz $ celg $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "COMPANY_X home depot , inc . 52wk high URL $ COMPANY_X $ bhp $ pff $ bb.to COMPANY_X stockmarket share"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "i am bullish on $ COMPANY_X with a target price of $ 142.41 in 6 mos . on vetr ! URL"
+    },
+    "tweet2": {
+      "content": "amazon did more in ecommerce sales 11/1- 12/6 than next 21 retailers combined including $ wmt , $ tgt , $ bby , $ m , $ COMPANY_X , jwn , $ cost AT_USER"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "rt AT_USER $ COMPANY_X short full neurotrading , AT_USER un lenguajerentable compartiendotrades etrading trading URL"
+    },
+    "tweet2": {
+      "content": "1of3 madmoneyespresso 12/20 / 15 $ googl $ fb $ expe $ ge $ COMPANY_X $ nke $ kr $ mcd $ dri $ nflx $ dis $ crm $ atvi $ ea $ ttwo — 👍 $ yhoo $ twtr $ yelp $ … URL"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "$ COMPANY_X investor opinions updated tuesday , december 22 , 2015 9:07 : 24 pm $ fxi $ ctix $ tna $ oih URL"
+    },
+    "tweet2": {
+      "content": "rwm short russell 2000 fund company info URL $ rwm $ COMPANY_X $ ge $ xbi rwm stockmarket sharesbux starbucks corp . open …"
+    },
+    "tweet3": {
+      "content": "rwm short russell 2000 fund company info URL $ rwm $ COMPANY_X $ ge $ xbi rwm stockmarket sharesbux starbucks corp . open …"
+    },
+    "tweet4": {
+      "content": "bcb.to cott corp . tick URL $ bcb.to $ COMPANY_X $ rsx $ utx bcb.to invest share"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "$ COMPANY_X stock message board updated thursday , december 24 , 2015 1:07 : 08 pm $ uso $ vxx $ fnfg $ slv URL"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "$ bac percent change updated tuesday , december 29 , 2015 2:59 : 23 pm $ chk $ tip $ brcm $ COMPANY_X URL"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "$ qld news updated wednesday , december 30 , 2015 03:59 : 20 am $ fb $ goog $ sse $ COMPANY_X URL"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "$ blta reviews updated wednesday , december 30 , 2015 9:59 : 21 pm $ iyt $ COMPANY_X $ x $ fxi URL"
+    },
+    "tweet2": {
+      "content": "COMPANY_X home depot , inc . tick URL $ COMPANY_X $ aa $ chk $ goog COMPANY_X nasdaq invest"
+    },
+    "tweet3": {
+      "content": "$ v $ msft $ nke $ mcd $ COMPANY_X $ ge $ dis URL"
+    }
+  }
+}

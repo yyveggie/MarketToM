@@ -1,0 +1,757 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "rt AT_USER bristol-myers squibb co surges on fda approval for cancer drug - URL $ bmy $ COMPANY_X $ azn $ mrk URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER buyout chatter spreading throughout the rumor mill w $ COMPANY_X $ bmy $ celg $ gild among names in the mix"
+    },
+    "tweet3": {
+      "content": "vxx ipath s & p 500 vix short-term futures etn open URL $ vxx $ brwc $ ibb $ COMPANY_X vxx share nasdaq"
+    },
+    "tweet4": {
+      "content": "x usx-us steel group , inc . 52wk low URL $ x $ COMPANY_X $ wmt $ slw x tradeideas tradeideas"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "clayton : COMPANY_X 33.46 pfizer inc $ COMPANY_X added to my watch list . URL"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "rt AT_USER trans pacific trade pact finally agreed $ biib $ COMPANY_X $ ups URL"
+    },
+    "tweet2": {
+      "content": "pfizer upgraded to “ overweight ” at morgan stanley - URL $ COMPANY_X $ agn $ myl URL"
+    },
+    "tweet3": {
+      "content": "my favorite dividend equities : $ cop $ cvx $ dlr $ dsl $ ge $ gsk $ hcn $ hcp $ hp $ ibm $ jnj $ kmi $ ko $ mcd $ mo $ nnn $ nov $ o $ ohi $ oke $ pci $ pdi $ COMPANY_X"
+    },
+    "tweet4": {
+      "content": "rt AT_USER pfizer adding jobs to ireland plant that had been slated to close URL $ COMPANY_X pharma manufacturing by AT_USER"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "goog alphabet inc . - class c news URL $ goog $ swks $ iyt $ COMPANY_X goog stocks pennystocks"
+    },
+    "tweet2": {
+      "content": "tna proshares ultrapro qqq news URL $ tna $ smn $ itb $ COMPANY_X tna tradeideas finance"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "bac bank of america corp . 52wk high URL $ bac $ cybr $ gld $ COMPANY_X bac stock stock"
+    },
+    "tweet2": {
+      "content": "rt AT_USER pfizer completes acquisition of two gsk meningitis vaccines URL $ COMPANY_X $ gsk vaccines by AT_USER"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "myec myecheck , inc . 52wk low URL $ myec $ xli $ COMPANY_X $ amd myec tradeideas invest"
+    },
+    "tweet2": {
+      "content": "COMPANY_X pfizer , inc . chart URL $ COMPANY_X $ dis $ dxj $ tza COMPANY_X stocks stocks"
+    },
+    "tweet3": {
+      "content": "skx skechers usa , inc . e . p . s . URL $ skx $ xom $ COMPANY_X $ logm skx stocks finance"
+    },
+    "tweet4": {
+      "content": "$ ea short sales updated thursday , october 8 , 2015 10:07 : 22 pm $ eum $ spxs $ qld $ COMPANY_X URL"
+    },
+    "tweet5": {
+      "content": "gg goldcorp , inc . financials URL $ gg $ cvx $ ttt $ COMPANY_X gg stock nasdaq"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "rt AT_USER in three years , $ COMPANY_X has increased the net price of viagra by 57 % , of lyrica by 51 % and premarin by 41 % . URL"
+    },
+    "tweet2": {
+      "content": "i own $ agn and like $ COMPANY_X . would provide good synergies . however this rumor is on its 50th leg . own whichever fits your strategy ."
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "COMPANY_X pfizer , inc . dividend URL $ COMPANY_X $ cvx $ ctb $ sndk COMPANY_X share finance"
+    },
+    "tweet2": {
+      "content": "amag amag pharmaceuticals , inc . ask size URL $ amag $ tsla $ COMPANY_X $ jpm amag stockmarket stock"
+    },
+    "tweet3": {
+      "content": "COMPANY_X pfizer , inc . bid size URL $ COMPANY_X $ twtr $ uwti $ dis COMPANY_X stocks stock"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "COMPANY_X pfizer , inc . company info URL $ COMPANY_X $ gll $ cbli $ gild COMPANY_X share stocks"
+    },
+    "tweet2": {
+      "content": "kmi kinder morgan inc . ideas URL $ kmi $ COMPANY_X $ xom $ tbt kmi stockmarket investing"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X $ fold : recent insider buying news : sprint corporation ( nyse : s ) , pfizer inc … : URL"
+    },
+    "tweet4": {
+      "content": "mittelfristiges signal ! $ COMPANY_X : ein trendkanal wurde bei 33.28 usd nach unten durchbrochen : URL"
+    },
+    "tweet5": {
+      "content": "jnug direxion daily junior gold miners index bull 3x shares ex-div date URL $ jnug $ lvs $ COMPANY_X $ cde jnug stock …"
+    },
+    "tweet6": {
+      "content": "xbi ishares cdn s & p / tsx global gold index fund dividend URL $ xbi $ COMPANY_X $ csx $ tso xbi stockmarket tradeideas"
+    },
+    "tweet7": {
+      "content": "$ COMPANY_X over 200sma and recent highs"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "cop conocophillips day low URL $ cop $ COMPANY_X $ fxi $ hd cop finance stock"
+    },
+    "tweet2": {
+      "content": "COMPANY_X pfizer , inc . 52wk low URL $ COMPANY_X $ gcc $ cop $ ashr COMPANY_X invest tradeideas"
+    },
+    "tweet3": {
+      "content": "xle financials select sector spdr last price URL $ xle $ crm $ ag $ COMPANY_X xle pennystocks tradeideas"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X - valeant probe reprises federal focus on drug pricing URL"
+    },
+    "tweet5": {
+      "content": "COMPANY_X pfizer , inc . short sales URL $ COMPANY_X $ ctc / a.to $ joy $ p COMPANY_X finance tradeideas"
+    },
+    "tweet6": {
+      "content": "the first cancer immunotherapy etf URL $ ziop $ kite $ celg $ COMPANY_X $ bmy $ cncr"
+    },
+    "tweet7": {
+      "content": "rt AT_USER celator pharmaceuticals nasdaq $ cpxx $ 1.78 pps with $ 18 price target URL $ gild $ celg $ COMPANY_X $ biib $ asco $ r …"
+    },
+    "tweet8": {
+      "content": "$ COMPANY_X news updated thursday , october 15 , 2015 9:11 : 08 pm $ bis $ tbev $ yum $ ung URL"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "$ COMPANY_X 2015112 0 951 trade . ~ $ 3.3 mm notional value ."
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "$ COMPANY_X $ bax $ rdus : biotech movers update : pfizer inc . ( nyse :p fe ) , baxter international … : URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER AT_USER URL $ COMPANY_X $ pg $ trv $ utx $ unh $ vz $ wmt döngüdalgadenge $ djia $ brent $ spx syg . http …"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "ashr db x-trackers harvest csi 300 china a-shares fund p / e ratio URL $ ashr $ dhi $ kors $ COMPANY_X ashr nasdaq …"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "rt AT_USER $ COMPANY_X needs to do a deal ; bradford needs to focus URL"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "rt AT_USER us earnings highlights next week : tues $ aapl , $ COMPANY_X , $ gild , $ ups , $ twtr wed $ amgn , $ mdlz , $ wba thurs $ ma , $ sbux fri $ xom , $ cv …"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "rt AT_USER oh hey guys . remember these other drug companies $ mrk $ COMPANY_X $ bmy $ gild ? they all report earnings tomorrow ."
+    },
+    "tweet2": {
+      "content": "rt AT_USER big earnings watch day tomorrow for hedgies . many of their top favorite to repport bmo : $ baba $ hca $ COMPANY_X $ tmus $ bmy URL"
+    },
+    "tweet3": {
+      "content": "rt AT_USER top upcoming earnings $ baba $ f $ jblu $ ups $ COMPANY_X bp $ glw $ save $ cmcsa $ grub $ coh $ mrk $ cake URL URL"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "$ COMPANY_X - senators seek ftc probe of saline shortage URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER $ bmy $ 0.39 and $ 4.1 b also beats top and bottom - trifecta w / $ COMPANY_X $ mrk"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X pfizer reports third-quarter 2015 results URL"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X pops 1.8 % to 34.79 in early prem trading on posting q3 eps 0.60 vs estimate 0.51 , revenue 12.1 b vs consensus estimate 11.56 b"
+    },
+    "tweet5": {
+      "content": "$ COMPANY_X ceo : \" there has been an adjustment in price in some specialty cos ... but not sure their expectations have adjusted \" for where to sell"
+    },
+    "tweet6": {
+      "content": "rt AT_USER took $ COMPANY_X and $ shpg off this morning , wouldn't mind returning to the latter . holding $ bax yet , quarter looked strong"
+    },
+    "tweet7": {
+      "content": "$ COMPANY_X - senators urge ftc probe into saline solution price inflation URL"
+    },
+    "tweet8": {
+      "content": "rt AT_USER breaking : pfizer $ COMPANY_X q3 revenue , $ 12.09 b vs . $ 11.56 b expected breaking"
+    },
+    "tweet9": {
+      "content": "[ correction ] $ COMPANY_X returns rights to biosimilar rituximab ( ct-p 10 ) and trastuzumab ( ct-p 6 ) back to celltrion ; URL"
+    },
+    "tweet10": {
+      "content": "rt AT_USER eps beats across the board for pharma this am : $ mrk 96c vs 91c est $ COMPANY_X 60c vs 51c est $ bmy 39c vs 35c est COMPANY_X bmy both up …"
+    },
+    "tweet11": {
+      "content": "$ COMPANY_X recently decided not to advance xeljanz for crohn ’ s disease and ankylosing spondylitis . $ celg $ glpg $ incy $ lly $ abbv"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "$ cf financials updated wednesday , october 28 , 2015 06:11 : 29 am $ rai $ vz $ COMPANY_X $ ctl URL"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X : healthcare stocks in spotlight : pfizer inc . ( nyse :p fe ) , medtronic … : URL"
+    },
+    "tweet3": {
+      "content": "$ kors stock forum updated wednesday , october 28 , 2015 3:07 : 27 pm $ spxs $ spxs $ calm $ COMPANY_X URL"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "why allergan is a cure for what ails pfizer : URL via AT_USER $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "rt AT_USER $ COMPANY_X $ agn breaking : pfizer and allergan are considering a combination ; allergan has market value of $ 112b via AT_USER"
+    },
+    "tweet3": {
+      "content": "rt AT_USER $ agn : rumors about would-be merger with $ COMPANY_X are true , discussions under way URL"
+    },
+    "tweet4": {
+      "content": "wsj : pfizer , allergan considering mega-tie-up $ COMPANY_X $ agn URL"
+    },
+    "tweet5": {
+      "content": "rt AT_USER AT_USER i find m & a btw ( $ act + $ agn ) + $ COMPANY_X is mostly benefit deal makers . what about organic growth and being lean and …"
+    },
+    "tweet6": {
+      "content": "rt AT_USER some thoughts on $ COMPANY_X - $ agn based on my earlier conversations with ian read and brent AT_USER URL"
+    },
+    "tweet7": {
+      "content": "$ COMPANY_X - pfizer announcement regarding allergan plc URL"
+    },
+    "tweet8": {
+      "content": "rt AT_USER breaking : pfizer also confirms talks with allergan ; shares of $ agn and $ COMPANY_X remain halted for trading . URL"
+    },
+    "tweet9": {
+      "content": "rt AT_USER the other upbeat aspect of a pfizer / allergan merger ? allergan doesn't have a huge r & d organization for $ COMPANY_X to destroy . t …"
+    },
+    "tweet10": {
+      "content": "$ agn confirms discussions regarding potential business combination transaction with $ COMPANY_X"
+    },
+    "tweet11": {
+      "content": "rt AT_USER drugmakers pfizer , allergan considering a combination : wsj URL via AT_USER $ COMPANY_X $ agn"
+    },
+    "tweet12": {
+      "content": "we might to start to have lift off $ agn $ COMPANY_X $ myl $ prgo $ teva $ lly $ jnj $ bax $ gild $ amgn"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "pfizer deal may trigger biggest tax hit from inversion URL $ COMPANY_X $ agn"
+    },
+    "tweet2": {
+      "content": ". AT_USER daily agenda : liquidity keeps fueling m & a boom ; pfizer's allergan bid would be the year's biggest URL $ COMPANY_X $ agn"
+    },
+    "tweet3": {
+      "content": "smn direxion daily s & p 500 bull 3x shares quotes URL $ smn $ COMPANY_X $ adbe $ yndx smn invest stock"
+    },
+    "tweet4": {
+      "content": "top sentiment for sp1500 stocks at midday : $ tso $ sbux $ aet $ cme $ COMPANY_X ( 2015/10 / 30 ) sentiment stock alexandria"
+    },
+    "tweet5": {
+      "content": "$ COMPANY_X active , relative volume : 10.0 , 1h , 9:00 am , nasdaq $ dji $ spy"
+    },
+    "tweet6": {
+      "content": "rt AT_USER allergan ( $ agn + 8 % ) , pfizer ( $ COMPANY_X - 1 % ) resume trading . mna stocks"
+    },
+    "tweet7": {
+      "content": "myec myecheck , inc . message board posts URL $ myec $ cf $ uwti $ COMPANY_X myec nasdaq investing"
+    },
+    "tweet8": {
+      "content": "another megadeal in already hot 2015 ? potential pfizer / #allergan deal would easily pass inbev / sab to be largest of the year . $ COMPANY_X $ act"
+    },
+    "tweet9": {
+      "content": "$ COMPANY_X - taxes drive big drug deal URL"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "will acquiring $ agn impact $ COMPANY_X r & d ? URL \" ... pay close attention to any changes in the pfizer executive suite ."
+    },
+    "tweet2": {
+      "content": "pfizer , in early talks to acquire ireland ’ s fast-growing allergan plc $ COMPANY_X $ agn URL"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X news : \" ubs : the bull market is ending , just not yet $ agn $ COMPANY_X $ rbs \" URL analyze : URL"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X news : \" ubs : the bull market is ending , just not yet $ agn $ COMPANY_X $ rbs \" URL analyze : URL"
+    },
+    "tweet5": {
+      "content": "a pharmacist's ' dirty socks ' are key to cutting pfizer tax bill URL $ COMPANY_X"
+    },
+    "tweet6": {
+      "content": "COMPANY_X pfizer , inc . company info URL $ COMPANY_X $ aal $ amba $ cgc . v COMPANY_X nasdaq stockmarket"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "rt AT_USER here's why these three biotech giants just gained strength - URL $ vrx $ abbv $ COMPANY_X biotech stocks"
+    },
+    "tweet2": {
+      "content": "rt AT_USER here's why these three biotech giants just gained strength - URL $ vrx $ abbv $ COMPANY_X biotech stocks"
+    },
+    "tweet3": {
+      "content": "rt AT_USER notable opening imbalances : $ bac - 280k , $ baba - 82k , $ twtr - 55k , $ COMPANY_X - 43k , $ ge - 205k , $ jwn + 74k , $ kors + 79k , $ v + 53k , $ h …"
+    },
+    "tweet4": {
+      "content": "pfizer downgraded by zacks to hold . URL $ COMPANY_X COMPANY_X"
+    },
+    "tweet5": {
+      "content": "rt seekingalpha : big boys hurting : activist investing daily URL $ scty $ sune $ vrx $ COMPANY_X"
+    },
+    "tweet6": {
+      "content": "rt AT_USER the generation portfolio : reinvesting URL $ abr $ baba $ cys $ dis $ kmi $ ko $ COMPANY_X $ pg"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "rt AT_USER year-over-year revenue growth : $ fb : 38 % $ ge : - 1 % $ COMPANY_X : - 2 % $ bac : - 3 % $ ko : - 4 % $ jpm : - 6 % $ jnj : - 7 % $ pg : - 12 % $ xom : - 30 % t …"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X - allergan sales soar , topping expectations - - update URL"
+    },
+    "tweet3": {
+      "content": "$ fb $ agn $ COMPANY_X : vw ’ s new horror and facebook 3q – 5 things to know today : URL"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "pfizer expands its patient assistance program , doubling the income … URL $ COMPANY_X pharmaceutical"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X - pfizer expands its patient assistance program , doubling the income eligibility limit to benefit even URL"
+    },
+    "tweet3": {
+      "content": "sell $ mur 31.00 , sell $ payx 52.54 , sell $ COMPANY_X 34.15 , short $ qcom 51.07 . more stock tips & details at : URL"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "rt AT_USER gld spdr gold trust shares stock forum URL $ gld $ COMPANY_X $ ashs $ dnrg gld pennystocks nasdaq"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "rt AT_USER divergence in the drug biz : pharma & biotech URL AT_USER $ COMPANY_X $ agn $ jnj $ biib $ amgn URL"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "volume alert - COMPANY_X 33.84 pfizer inc $ COMPANY_X hit a high today of 34.21 closing the day 10:30 at 33.84 +0.05 +0.15 % URL"
+    },
+    "tweet2": {
+      "content": "mcd mcdonalds corp . news URL $ mcd $ COMPANY_X $ googl $ cybr mcd tradeideas stockmarket … … … … URL"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "AT_USER AT_USER medco that was bought by $ esrx ... this sadly going on throughout industry $ vrx $ COMPANY_X $ hznp a korn at bunch of places"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "rt AT_USER pfizer-allergan merger could mean more deals , fewer drugs AT_USER $ COMPANY_X $ agn URL URL"
+    },
+    "tweet2": {
+      "content": "$ aep $ se $ COMPANY_X : investors pouring money into these stocks : american electric power … : URL"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "$ COMPANY_X - statement of changes in beneficial ownership ( 4 ) URL"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "ebix URL inc . exchange URL $ ebix $ nflx $ COMPANY_X $ elnk ebix stock pennystocks"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "$ COMPANY_X prepared to risk a 3 % breakup fee for chance at $ agn , sources tell reuters URL pharma"
+    },
+    "tweet2": {
+      "content": "rt thestreet : deal talk ! pfizer $ COMPANY_X is in advanced talks to buy allergan $ agn URL"
+    },
+    "tweet3": {
+      "content": "my scenario for the $ agn $ COMPANY_X deal will be jack lew will scare everyone out before deal , then a deal , then an offer from another company ."
+    },
+    "tweet4": {
+      "content": "rt AT_USER pfizer nears $ 150b - ish deal to buy allergan . $ COMPANY_X $ agn URL"
+    },
+    "tweet5": {
+      "content": "rt AT_USER $ COMPANY_X said to near acquisition of $ agn in biggest drug deal URL via AT_USER AT_USER AT_USER"
+    },
+    "tweet6": {
+      "content": "pfizer and allergan negotiating break-up fee as high as $ 4.5 b , shrugging off regulatory risk of potenti ... URL $ COMPANY_X $ agn"
+    },
+    "tweet7": {
+      "content": "deals of the day : $ COMPANY_X , $ agn in final innings of all-stock deal URL URL"
+    },
+    "tweet8": {
+      "content": "$ COMPANY_X URL"
+    },
+    "tweet9": {
+      "content": "abx barrick gold corp . ideas URL $ abx $ amba $ COMPANY_X $ xlp abx stocks pennystocks"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "$ COMPANY_X $ agn $ unh $ antm $ moh $ xlv : trading health care on pfizer , unitedhealth news : URL"
+    },
+    "tweet2": {
+      "content": "$ ge $ COMPANY_X are among tom lee of fundstrat's picks as equities become ‘ the new bonds ’ in 2016 URL"
+    },
+    "tweet3": {
+      "content": "financial review : sideways $ COMPANY_X $ myl $ abbv $ agn $ f $ vlkay $ mtch $ sq URL"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X has a big plan to slash its u . s . tax bill URL"
+    },
+    "tweet5": {
+      "content": "rt cnbc \" rt cnbcnow : $ COMPANY_X & $ agn deal talks progressing , discussing price that would now be valued at ~ $ 354 / share … URL"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "these assets are seeing a jump in tweets greekdebt $ agn $ djia $ nok $ COMPANY_X URL URL"
+    },
+    "tweet2": {
+      "content": "favs : $ mnk over 66 , $ srpt over 35.50 , $ canf over 3.80 , $ cldx over 17.50 , $ tsl under 9.00 , $ COMPANY_X under 31.20 , $ mcur over 2.20 !"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X $ esrx $ abbv $ gild $ regn $ amgn : cvs makes exclusive deal to cover amgen ’ s cholesterol drug : URL"
+    },
+    "tweet4": {
+      "content": "COMPANY_X pfizer , inc . quotes URL $ COMPANY_X $ xlf $ sbux $ qld COMPANY_X tradeideas invest"
+    },
+    "tweet5": {
+      "content": "rt AT_USER some facts and figures on what the combined $ COMPANY_X - $ agn will look like URL"
+    },
+    "tweet6": {
+      "content": "“ allowing a merger like this is like giving jesse james a much bigger gun , ” said david balto , former policy director at the ftc $ COMPANY_X $ agn"
+    },
+    "tweet7": {
+      "content": "pfizer & allergan combining in $ 160b deal URL $ COMPANY_X $ ag URL"
+    },
+    "tweet8": {
+      "content": "$ bac news : \" actives on open @ cboe : $ aapl $ fb $ bac $ msft $ COMPANY_X $ amzn $ dis $ ge … \" URL analyze : URL"
+    },
+    "tweet9": {
+      "content": "$ COMPANY_X $ myl : pfizer-allergan won ’ t be the last inversion : URL"
+    },
+    "tweet10": {
+      "content": "AT_USER AT_USER $ rog $ nvs $ sny $ bayn $ gsk $ azn $ shpg $ COMPANY_X $ agn $ nvo ..."
+    },
+    "tweet11": {
+      "content": "serge_poznanski : yahoofinance : early movers : $ agn , $ COMPANY_X , $ mnk , $ tsn , $ mtch , $ fb & more URL"
+    },
+    "tweet12": {
+      "content": "$ COMPANY_X pfizer to buy allergan in $ 160 billion deal URL pfizer"
+    },
+    "tweet13": {
+      "content": "rt AT_USER $ COMPANY_X and $ agn nearing > $ 150bn deal , 11.3 COMPANY_X shares per agn share . story coming to AT_USER w / AT_USER"
+    },
+    "tweet14": {
+      "content": "rt AT_USER . AT_USER . AT_USER . AT_USER . AT_USER $ COMPANY_X / $ agn = dumbest deal ever proposed . market agrees . URL"
+    },
+    "tweet15": {
+      "content": "here come the layoff announcements in 2016 ... pfizer / allergan $ COMPANY_X walgreen's / rite aid $ wba staples / office depot $ spls"
+    },
+    "tweet16": {
+      "content": "trade idea – $ COMPANY_X : yield injection.URL"
+    },
+    "tweet17": {
+      "content": "rt AT_USER what us companies are doing to cut their tax bills URL AT_USER explains $ COMPANY_X $ agn URL"
+    },
+    "tweet18": {
+      "content": "popular : $ agn , $ COMPANY_X , $ gme , $ dwti , $ cldx , $ mnk , $ bx , $ cmtl , $ tour , $ pnra , $ pep , $ tsl , $ ba , $ dwre , $ pg"
+    },
+    "tweet19": {
+      "content": "rt AT_USER pfizer being grilled on $ 2bn synergies being on the low side $ COMPANY_X $ agn"
+    },
+    "tweet20": {
+      "content": "$ ooil 0.032 x 0.0075 +30.61 % ! load & behold target $ 0.050+ ! signal stay long URL pennystocks $ kbio $ spy $ COMPANY_X $ uso"
+    },
+    "tweet21": {
+      "content": "rt AT_USER pfizer shares open lower after $ 160bn merger deal with allergan $ COMPANY_X URL"
+    },
+    "tweet22": {
+      "content": "qld proshares ultra qqq fund 52wk low URL $ qld $ mcd $ COMPANY_X $ lfe.to qld investing pennystocks"
+    },
+    "tweet23": {
+      "content": "$ agn and $ COMPANY_X close in on a merger agreement tonite URL"
+    },
+    "tweet24": {
+      "content": "kthirum 1 : investhuddle : update cierre stocks major news $ agn -3.17 % $ COMPANY_X -2.71 % $ aapl -1.27 % $ amzn +1.51 % $ gme -4.04 % $ cmg +4.34 % $ wmt + 0 …"
+    },
+    "tweet25": {
+      "content": "$ aapl $ COMPANY_X : pfizer ’ s viagra tax dollars head to dublin as u . s . loses again : URL"
+    },
+    "tweet26": {
+      "content": "toptickertweets $ dax $ spy $ agn $ COMPANY_X $ aapl fintech finserv URL 2015112 3-08 : 00"
+    },
+    "tweet27": {
+      "content": "AT_USER hi james you might be interested to look at real time $ COMPANY_X $ agn talks at URL"
+    },
+    "tweet28": {
+      "content": "rt AT_USER pfizer , allergan expected to approve $ 150 - billion merger as soon as november 23 : sources URL $ COMPANY_X $ agn p …"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "rt AT_USER here's a video of me talking about the $ COMPANY_X - $ agn deal . the sweater is comfy . URL"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X - filing of certain prospectuses and communications in connection with business combination transactions URL"
+    },
+    "tweet3": {
+      "content": "pfizer-allergan deal grabs headlines in short week $ agn $ COMPANY_X URL"
+    },
+    "tweet4": {
+      "content": "nice $ COMPANY_X reversal ."
+    },
+    "tweet5": {
+      "content": "treasury is trying to hold back the tide with a broom . \" $ agn $ COMPANY_X URL"
+    },
+    "tweet6": {
+      "content": ". AT_USER talks about the pfizer-allergan tax inversion deal in his latest trending stocks video ! $ COMPANY_X $ agn URL"
+    },
+    "tweet7": {
+      "content": "stocks go nowhere : here's what you need to know | markets $ spy $ dji $ ixic $ COMPANY_X $ agn URL URL"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "stochastic buy URL $ COMPANY_X $ lgf $ rexx $ uwti $ nbr $ wynn $ nrz $ clne $ uco $ hun $ fch $ crc $ apc $ ddd $ sfun $ sm $ joy"
+    },
+    "tweet2": {
+      "content": "rt seekingalpha : the schwab u . s . dividend equity etf is better than social security URL $ cvx $ hd $ jnj $ ko $ msft $ COMPANY_X $ …"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X - can pfizer live without television ? URL"
+    },
+    "tweet4": {
+      "content": "$ eem stock price updated wednesday , november 25 , 2015 09:59 : 20 am $ dltr $ uso $ COMPANY_X $ csco URL"
+    },
+    "tweet5": {
+      "content": "avelumab tagged an orphan drug in the eu for rare skin cancer URL premarket $ COMPANY_X $ mkgaf $ mkgay"
+    },
+    "tweet6": {
+      "content": "rt AT_USER bofaml $ clls model updated for servier exercising option for ucart 19 ; $ COMPANY_X also joining the party servier ( cont ) URL"
+    },
+    "tweet7": {
+      "content": "rt AT_USER the merger that was promised : pfizer & allergan URL $ COMPANY_X $ agn"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "weekly s & p100 stocks performance $ COMPANY_X $ agn $ hal $ cvs $ dvn $ cat $ oxy $ ms $ xom $ cvx $ cop $ txn $ aig $ gd $ dd more @ URL"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "AT_USER true ! it's what regular people don't understand . the game is over . if you invested before in $ COMPANY_X and $ agn fine , don't buy now"
+    },
+    "tweet2": {
+      "content": "nj considering ban on contracts or financial aid , like the $ 9.2 m it gave $ COMPANY_X to bring 225 jobs to the state . URL"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "if pfizer's consumer health unit goes up for grabs , reckitt's interested , ceo says URL $ COMPANY_X pharma by AT_USER"
+    },
+    "tweet2": {
+      "content": "rt AT_USER brace yourself for the next pfizer / allergan marketing scandal . $ COMPANY_X $ agn URL URL"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "wmih wmi holdings corp . % change URL $ wmih $ nem $ COMPANY_X $ gdxj wmih pennystocks stockmarket"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "COMPANY_X pfizer , inc . p / e ratio URL $ COMPANY_X $ t $ tpac $ aal . l COMPANY_X stockmarket finance"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "pfizer : announces fda acceptance of ibrance ® ( palbociclib ) supplemental new ... URL $ COMPANY_X"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "fda clears roche's alectinib for second line treatment of lung cancer URL $ rhhby $ COMPANY_X $ chgcf $ chgcy"
+    },
+    "tweet2": {
+      "content": "traveler's leads the dow jones industrials $ ba $ gs $ ibm $ jpm $ COMPANY_X $ trv $ vz $ aapl $ csco URL"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "rt AT_USER pfizer $ COMPANY_X raises quarterly dividend 7.1 % to $ 0.30 ; 3.7 % yield URL"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "rt AT_USER first sell-side response and defense to pcsk 9 wknd rumors $ amgn $ regn $ COMPANY_X URL"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "rt AT_USER 2015 - the year in money : $ aapl $ nflx $ jnk $ COMPANY_X $ amzn - - URL URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER 2015 - the year in money : $ aapl $ nflx $ jnk $ COMPANY_X $ amzn - - URL URL"
+    },
+    "tweet3": {
+      "content": "dow stocks $ COMPANY_X pfizer daily : 1.47 % weekly : 0.87 % ytd : 5.12 % trend : 61 / 100 URL"
+    },
+    "tweet4": {
+      "content": "rt AT_USER 2015 - the year in money : $ aapl $ nflx $ jnk $ COMPANY_X $ amzn - - URL URL"
+    },
+    "tweet5": {
+      "content": "rt AT_USER 2015 - the year in money : $ aapl $ nflx $ jnk $ COMPANY_X $ amzn - - URL URL"
+    },
+    "tweet6": {
+      "content": "rt AT_USER 2015 - the year in money : $ aapl $ nflx $ jnk $ COMPANY_X $ amzn - - URL URL"
+    },
+    "tweet7": {
+      "content": "rt AT_USER 2015 - the year in money : $ aapl $ nflx $ jnk $ COMPANY_X $ amzn - - URL URL"
+    },
+    "tweet8": {
+      "content": "rt AT_USER 2015 - the year in money : $ aapl $ nflx $ jnk $ COMPANY_X $ amzn - - URL URL"
+    },
+    "tweet9": {
+      "content": "rt AT_USER 2015 - the year in money : $ aapl $ nflx $ jnk $ COMPANY_X $ amzn - - URL URL"
+    },
+    "tweet10": {
+      "content": "rt AT_USER 2015 - the year in money : $ aapl $ nflx $ jnk $ COMPANY_X $ amzn - - URL URL"
+    },
+    "tweet11": {
+      "content": "pfizer inc . $ COMPANY_X coverage initiated at atlantic securities URL"
+    },
+    "tweet12": {
+      "content": "rt AT_USER 2015 - the year in money : $ aapl $ nflx $ jnk $ COMPANY_X $ amzn - - URL URL"
+    },
+    "tweet13": {
+      "content": "rt AT_USER 2015 - the year in money : $ aapl $ nflx $ jnk $ COMPANY_X $ amzn - - URL URL"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "$ biib more selling : 12h chart $ spy $ rhhby $ abbv $ sny $ celg $ COMPANY_X $ esaly $ sgmo $ mdco $ nvs $ otsky $ lly $ epzm $ mrk $ spx URL"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "today's hot whisper $ gdx $ abx $ eem $ bp $ COMPANY_X URL"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "rt AT_USER $ aapl $ msft $ ebay $ c $ COMPANY_X five undervalued stocks billionaire investors like URL"
+    },
+    "tweet2": {
+      "content": "$ twtr stock message board updated wednesday , december 30 , 2015 2:07 : 13 pm $ nugt $ COMPANY_X $ sse $ sbux URL"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

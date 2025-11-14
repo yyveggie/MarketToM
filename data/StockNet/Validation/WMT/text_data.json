@@ -1,0 +1,544 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "rt AT_USER holding all positions here : $ nke $ bidu $ fb $ hd $ dis $ COMPANY_X $ ebay $ sbux calls , $ bidu strangle ..."
+    },
+    "tweet2": {
+      "content": "COMPANY_X top news - aug 3rd , 2015 $ COMPANY_X URL"
+    },
+    "tweet3": {
+      "content": "COMPANY_X western union co . eod data URL $ COMPANY_X $ jpm $ lmt $ fv COMPANY_X tradeideas nasdaq"
+    },
+    "tweet4": {
+      "content": "intc intel corp . 52wk high URL $ intc $ cvc $ COMPANY_X $ cybr intc nasdaq investing"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "even shitty $ COMPANY_X is running . if we can get over 20 & 50sma ' s we might be on to something cc : AT_USER"
+    },
+    "tweet2": {
+      "content": "rt AT_USER detwiler very strong note out on macy's $ m - drawing alot of comparisons to $ COMPANY_X and invading on amazons same day del …"
+    },
+    "tweet3": {
+      "content": "$ shak shake shack URL $ kmi $ COMPANY_X $ cemp $ nat kmi pennystocks $ myec $ sgyp $ aria $ nvax myec $ fb $ nflx $ amzn $ jblu $ cemex"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "COMPANY_X wal-mart stores , inc . filings URL $ COMPANY_X $ cmcsa $ v $ rsx COMPANY_X share pennystocks"
+    },
+    "tweet2": {
+      "content": "COMPANY_X wal-mart stores , inc . bid size URL $ COMPANY_X $ dxj $ cvx $ fxp COMPANY_X share stockwtw weight watchers intl inc . chart …"
+    },
+    "tweet3": {
+      "content": "rt AT_USER everyone will look back in october and be like damn why didn't i listen to cbc and load those $ mcd $ COMPANY_X calls in august ! …"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X : us alibaba borrows bigger brand to crack us market wal-mart stores inc URL sp500"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "dig proshares ultra oil and gas 52wk high URL $ dig $ xlb $ COMPANY_X $ slv dig stocks stockdis walt disney co . last price …"
+    },
+    "tweet2": {
+      "content": "ihsi intelligent highway solutions , inc . eod data URL $ ihsi $ COMPANY_X $ ea $ rig ihsi tradeideas stocks"
+    },
+    "tweet3": {
+      "content": "hed.to horizons betapro s & p / tsx capped energy bear plus etf shares URL $ hed.to $ COMPANY_X $ goog $ ugaz hed.to invest …"
+    },
+    "tweet4": {
+      "content": "biib biogen inc . eod data URL $ biib $ lqd $ COMPANY_X $ biib biib investing nasdaq"
+    },
+    "tweet5": {
+      "content": "nat nordic american tanker shipping ltd . 52wk low URL $ nat $ nti $ COMPANY_X $ slw nat stock financenem newmont mining …"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "$ COMPANY_X only 36 pages of equities ' only ' 3 % of their 52w low - - do we tell them to grunt harder ? URL URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER 20 dividend growth stocks URL $ jnj $ COMPANY_X $ csco $ ibm $ pg $ ry $ cmi $ qcom $ adm $ afl AT_USER URL"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "$ pg $ t $ trv $ unh $ utx $ vz $ v $ COMPANY_X $ xom long and short positions from the $ djia , up to 1800 % since 2008 . URL $ dia"
+    },
+    "tweet2": {
+      "content": "note : if china devalues its currency that will lower the largest cost of $ COMPANY_X ... ☺ ☺ ☺ URL"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "COMPANY_X ishares cdn s & p / tsx global gold index fund investor opinions URL $ COMPANY_X $ ^ gcz 15 $ gnca $ amba COMPANY_X investing …"
+    },
+    "tweet2": {
+      "content": "COMPANY_X wal-mart stores , inc . exchange URL $ COMPANY_X $ c $ himx $ t COMPANY_X investing finance"
+    },
+    "tweet3": {
+      "content": "COMPANY_X wal-mart stores , inc . quotes URL $ COMPANY_X $ hnu.to $ twtr $ cvx COMPANY_X pennystocks investing"
+    },
+    "tweet4": {
+      "content": "ibb biotech ishares news URL $ ibb $ COMPANY_X $ mfc.to $ ctix ibb stock pennystocks"
+    },
+    "tweet5": {
+      "content": "rt AT_USER $ eem investor opinions updated tuesday , august 11 , 2015 05:59 : 20 am $ COMPANY_X $ celg $ aria $ orcl URL"
+    },
+    "tweet6": {
+      "content": "nbd.to norbord inc . yield URL $ nbd.to $ gmcr $ COMPANY_X $ hnu.to nbd.to finance finance"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "spxs direxion daily s & p 500 bear 3x shares ask size URL $ spxs $ azo $ COMPANY_X $ uup spxs stock share"
+    },
+    "tweet2": {
+      "content": "uso united states oil fund , lp open URL $ uso $ dia $ nflx $ COMPANY_X uso stock stocks"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "rt AT_USER notable companies reporting before tomorrow's open $ COMPANY_X $ hd $ tjx $ hain $ dks $ tsl : full story URL"
+    },
+    "tweet2": {
+      "content": "my latest going over top funds ' activity in q2 2015 : URL $ spx $ ibm $ COMPANY_X $ pgnx $ baba $ amzn $ goog URL"
+    },
+    "tweet3": {
+      "content": "rt AT_USER all $ COMPANY_X trades URL euthenia investing education"
+    },
+    "tweet4": {
+      "content": "rt AT_USER notable companies reporting before tomorrow's open $ COMPANY_X $ hd $ tjx $ hain $ dks $ tsl : full story URL"
+    },
+    "tweet5": {
+      "content": "AT_USER wants go more upscale , but has hard time shaking bentonville ’ s AT_USER influence URL AT_USER $ COMPANY_X retail"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "$ COMPANY_X active , relative volume : 5.03 , 1h , 12:00 pm , nyse $ dji $ spy"
+    },
+    "tweet2": {
+      "content": "is it coincidence the day before $ COMPANY_X announced poor guidance that poor news comes out about $ amzn ? i think not ."
+    },
+    "tweet3": {
+      "content": "AT_USER AT_USER $ COMPANY_X trades on earnings & competing with $ amzn on price will hit earnings hard"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X misses expectations , lowers guidance ; $ hd reports today . have a great day folks ! URL"
+    },
+    "tweet5": {
+      "content": "rt AT_USER $ COMPANY_X earnings | morning news URL via AT_USER"
+    },
+    "tweet6": {
+      "content": "everyday lower prices . guaranteed . $ COMPANY_X URL"
+    },
+    "tweet7": {
+      "content": "walmart transitioned into a stage 4 back in march $ COMPANY_X - URL URL stockcharts"
+    },
+    "tweet8": {
+      "content": "$ COMPANY_X active , relative volume : 15.62 , 1h , 9:00 am , nyse $ dji $ spy"
+    },
+    "tweet9": {
+      "content": "wal-mart lowers full-year profit guidance URL premarket $ COMPANY_X"
+    },
+    "tweet10": {
+      "content": "$ COMPANY_X walmart reports q2 fy 16 eps of $ 1.08 , updates guidance URL"
+    },
+    "tweet11": {
+      "content": "$ COMPANY_X no bulls just bears $ shak $ ttwo $ vips $ frsh $ xon $ rrgb $ cybr $ fosl $ cree $ frpt $ baba $ m $ w $ csco $ juno $ v $ spy URL"
+    },
+    "tweet12": {
+      "content": "$ COMPANY_X : wal mart stores inc filed a form 8 - k . URL"
+    },
+    "tweet13": {
+      "content": "rt AT_USER $ COMPANY_X down 2 % in pre-market trade after a miss on headline q2 eps and a cut to their q3 eps outlook . they also see further cu …"
+    },
+    "tweet14": {
+      "content": "wal mart stores inc q2 net sales usd 73.96 bln $ COMPANY_X URL"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "nicohof 1 : am_alerts : $ COMPANY_X active , relative volume : 4.68 , 1h , 5:00 pm , nyse $ dji $ spyURL"
+    },
+    "tweet2": {
+      "content": "mkt update $ aapl $ spy $ intc $ gild $ gme $ tso $ vlo $ tbt $ gld $ t $ sbux $ COMPANY_X $ ntap $ nflx $ v $ amzn $ celg macrolordofwar URL"
+    },
+    "tweet3": {
+      "content": "wal-mart stores pt lowered to $ 72.00 at mkm partners $ COMPANY_X URL"
+    },
+    "tweet4": {
+      "content": "jpmorgan chase & co . lowers wal-mart stores price target to $ 72.00 $ COMPANY_X URL acn"
+    },
+    "tweet5": {
+      "content": "$ COMPANY_X $ jcp news : \" so , buy wal-mart or j . c . penney ? $ COMPANY_X $ jcp \" URL analyze : URL"
+    },
+    "tweet6": {
+      "content": "wal-mart earnings update $ COMPANY_X URL"
+    },
+    "tweet7": {
+      "content": "$ COMPANY_X never bullish when u see sell vol like this URL"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "rt AT_USER $ spy s & p 500 down 17 points , our put options still paying love it $ aapl $ fb $ tsla $ gm $ bbry $ COMPANY_X trading AT_USER"
+    },
+    "tweet2": {
+      "content": "rt AT_USER $ spy s & p 500 down 17 points , our put options still paying love it $ aapl $ fb $ tsla $ gm $ bbry $ COMPANY_X trading AT_USER"
+    },
+    "tweet3": {
+      "content": "took the losses on my $ COMPANY_X $ 70 calls ..."
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "dow stocks $ COMPANY_X wal-mart stores daily : -0.20 % weekly : -5.1 % ytd : -19.84 % trend : 0 / 100 URL"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "wal-mart stores raised to “ strong-buy ” at vetr inc . $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "$ cost $ COMPANY_X : where will warren buffett put money as markets collapse ? : URL"
+    },
+    "tweet3": {
+      "content": "in $ COMPANY_X oct 70 calls . 69"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X : us nomura lowers wal-mart stores price target to $ 82.00 ( COMPANY_X ) wal-mart stores inc URL sp500"
+    },
+    "tweet5": {
+      "content": "dividend investing URL dividendinvesting stockmarket $ axp $ gs $ mco $ COMPANY_X $ usb $ wfc $ pg $ ibm $ ko $ xom investment money"
+    },
+    "tweet6": {
+      "content": "rt AT_USER trades done on aug 24 2015 – $ mcd $ COMPANY_X assignment URL"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "walmart stores $ COMPANY_X trading near $ 68.53 resistance level ( URL )"
+    },
+    "tweet2": {
+      "content": "osk oshkosh corp . filings URL $ osk $ wfm $ ceu.to $ COMPANY_X osk stock shareowoo one world holdings inc . news …"
+    },
+    "tweet3": {
+      "content": "uan cvr partners lp open URL $ uan $ snmx $ tmf $ COMPANY_X uan tradeideas finance"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "upro proshares ultrapro s & p 500 filings URL $ upro $ hlf $ ohi $ COMPANY_X upro tradeideas tradeideas"
+    },
+    "tweet2": {
+      "content": "finding value in the dividend aristocrats list redux URL $ afl $ ben $ cinf $ cvx $ dov $ emr $ jnj $ nobl $ COMPANY_X $ xom"
+    },
+    "tweet3": {
+      "content": "qrvo rite aid corp . exchange URL $ qrvo $ gpro $ drys $ COMPANY_X qrvo pennystocks investing"
+    },
+    "tweet4": {
+      "content": "xom direxion daily china bull 3x shares yield URL $ xom $ rsp $ COMPANY_X $ ge xom stock investing"
+    },
+    "tweet5": {
+      "content": "$ COMPANY_X opinions updated wednesday , august 26 , 2015 10:07 : 25 am $ jnj $ dlph $ xli $ dxj URL"
+    },
+    "tweet6": {
+      "content": "ttnp titan pharmaceuticals , inc . change URL $ ttnp $ COMPANY_X $ fxy $ xiv ttnp invest stockmarkettvix velocityshares …"
+    },
+    "tweet7": {
+      "content": "ttnp titan pharmaceuticals , inc . change URL $ ttnp $ COMPANY_X $ fxy $ xiv ttnp invest stockmarkettvix velocityshares …"
+    },
+    "tweet8": {
+      "content": "ge general electric co . bid URL $ ge $ COMPANY_X $ mine $ xlv ge share pennystocks"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "xlk technology select sector spdr filings URL $ xlk $ COMPANY_X $ tsla $ baba xlk finance tradeideas"
+    },
+    "tweet2": {
+      "content": "rt AT_USER . AT_USER to stop selling ar - 15s and similar guns : URL $ COMPANY_X"
+    },
+    "tweet3": {
+      "content": "COMPANY_X wal-mart stores , inc . filings URL $ COMPANY_X $ asr.to $ itc $ kdx.to COMPANY_X nasdaq invest"
+    },
+    "tweet4": {
+      "content": "ibb biotech ishares yield URL $ ibb $ isis $ COMPANY_X $ uga ibb finance nasdaqibm international business machines ask …"
+    },
+    "tweet5": {
+      "content": "COMPANY_X wal-mart stores , inc . bid URL $ COMPANY_X $ fcx $ amba $ pcln COMPANY_X tradeideas pennystocks"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "COMPANY_X ishares cdn s & p / tsx 60 index fund 52wk low URL $ COMPANY_X $ mmm $ dwti $ vgk COMPANY_X stockmarket pennystocks"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "exploring a payout ratio of a payout ratio URL $ cmg $ ko $ COMPANY_X $ jnj"
+    },
+    "tweet2": {
+      "content": "walmart $ COMPANY_X increases workers pay but cuts hours . part time employees are not required to be given health insurance . business investing"
+    },
+    "tweet3": {
+      "content": "s & p100 stocks performance $ gm $ ms $ low $ googl $ gs $ mdt $ lly $ intc $ abt $ hon $ COMPANY_X $ all $ jpm $ nke $ jnj $ agn more @ URL"
+    },
+    "tweet4": {
+      "content": "iran plans ‘ any cost ’ oil output rise to defend market share URL $ dwti $ uso $ uwti $ xom $ COMPANY_X $ cop $ bp $ bac $ c $ aapl $ fb"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "AT_USER AT_USER AT_USER just bought more $ COMPANY_X . you long jared still ?"
+    },
+    "tweet2": {
+      "content": "fed rate hike is already priced in - cramer's mad money (8 / 31/15 ) URL $ pg $ COMPANY_X $ anf $ wfm $ yhoo $ aa $ eca $ fosl $ clf"
+    },
+    "tweet3": {
+      "content": "dow jones descendió 2.84 % colocándose en 16,058 unidades presionado por $ COMPANY_X y $ ko como las más afectadas . URL"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "wal-mart to appease nlrb with plan to reopen stores URL $ COMPANY_X"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "s & p100 stocks performance $ amgn $ cl $ COMPANY_X $ dow $ txn $ intc $ msft $ unp $ aapl $ amzn $ ms $ gm $ rtn $ orcl $ ba more @ … URL"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "xle energy select sector spdr short sales URL $ xle $ tsro $ COMPANY_X $ dis xle finance stocks"
+    },
+    "tweet2": {
+      "content": "ceu.to canadian energy services & technology corp . current price URL $ ceu.to $ dltr $ jnj $ COMPANY_X ceu.to stock finance"
+    },
+    "tweet3": {
+      "content": "avgo avago technologies ltd . e . p . s . URL $ avgo $ tjx $ COMPANY_X $ capn avgo nasdaq stock"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "dow stocks trend $ intc $ trv $ v $ axp $ unh $ ba $ mcd $ utx $ nke $ gs $ vz $ csco $ ge $ pfe $ mmm $ hd $ COMPANY_X $ aapl $ dis @ URL"
+    },
+    "tweet2": {
+      "content": "fit fitbit , inc . last price URL $ fit $ vxx $ COMPANY_X $ sh fit pennystocks share"
+    },
+    "tweet3": {
+      "content": "tpac trans-pacific aerospace co . inc . 52wk high URL $ tpac $ agio $ jnug $ COMPANY_X tpac pennystocks tradeideas"
+    },
+    "tweet4": {
+      "content": "tza direxion daily small cap bear 3x shares e . p . s . URL $ tza $ mro $ upro $ COMPANY_X tza stock share"
+    },
+    "tweet5": {
+      "content": "rt AT_USER 2 of warren buffett's big investments team up . walmart's sam's club will take amex . good for $ axp . $ COMPANY_X deal lessens stin …"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "uco proshares ultra dj-ubs crude oil exchange URL $ uco $ COMPANY_X $ COMPANY_X $ tlt uco pennystocks share"
+    },
+    "tweet2": {
+      "content": "cvx chevron corp . exchange URL $ cvx $ COMPANY_X $ hvu.to $ vnth cvx stock investing"
+    },
+    "tweet3": {
+      "content": "_spy current price URL $ _spy $ ewz $ COMPANY_X $ tbev _spy finance nasdaq"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "amzn URL inc . exchange URL $ amzn $ cxr.to $ xli $ COMPANY_X amzn stockmarket finance"
+    },
+    "tweet2": {
+      "content": "COMPANY_X wal-mart stores , inc . exchange URL $ COMPANY_X $ osk $ uvxy $ tsla COMPANY_X stock stock"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "rt AT_USER wages are killing this country : thefed oecd fomc $ COMPANY_X raisetheminimumwage $ ewj $ fxi - - URL URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER wages are killing this country : thefed oecd fomc $ COMPANY_X raisetheminimumwage $ ewj $ fxi - - URL URL"
+    },
+    "tweet3": {
+      "content": "rt AT_USER wages are killing this country : thefed oecd fomc $ COMPANY_X raisetheminimumwage $ ewj $ fxi - - URL URL"
+    },
+    "tweet4": {
+      "content": "rt AT_USER wages are killing this country : thefed oecd fomc $ COMPANY_X raisetheminimumwage $ ewj $ fxi - - URL URL"
+    },
+    "tweet5": {
+      "content": "rt AT_USER wages are killing this country : thefed oecd fomc $ COMPANY_X raisetheminimumwage $ ewj $ fxi - - URL URL"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "reflections on plug power : past , present and future URL … $ COMPANY_X $ plug"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "AT_USER great steady upward sloping trend in $ COMPANY_X today ..."
+    },
+    "tweet2": {
+      "content": "AT_USER AT_USER i'm a buyer of $ COMPANY_X here ."
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "dividend investing URL dividendinvesting stockmarket $ axp $ gs $ mco $ COMPANY_X $ usb $ wfc $ pg $ ibm $ ko $ xom investment money"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "discount , variety stores : wal-mart stores inc . ( nyse : COMPANY_X ) , dollar tree , inc ... $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "baba alibaba group holding ltd . prev close URL $ baba $ mu $ tsla $ COMPANY_X baba share investing"
+    },
+    "tweet3": {
+      "content": "rt AT_USER his message speaks for itself ☺ $ plug power growth fuelcell venture investment AT_USER leadership $ COMPANY_X kr htt …"
+    },
+    "tweet4": {
+      "content": "xiv energy select sector spdr company info URL $ xiv $ cdti $ agnc $ COMPANY_X xiv stock pennystocks"
+    },
+    "tweet5": {
+      "content": "COMPANY_X wal-mart stores , inc . stock message board URL $ COMPANY_X $ g.to $ xom $ hnu.to COMPANY_X tradeideas nasdaq"
+    },
+    "tweet6": {
+      "content": "uup powershares db us dollar index bullish fund exchange URL $ uup $ idra $ COMPANY_X $ vrp . l uup finance stocks"
+    },
+    "tweet7": {
+      "content": "sndk sandisk corp . p / e ratio URL $ sndk $ owoo $ COMPANY_X $ xlf sndk nasdaq invest"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "rt AT_USER haven't done it in a while . trade post-mortem 3 - $ pm $ dis $ mdlz $ COMPANY_X - URL - looking into some of th …"
+    },
+    "tweet2": {
+      "content": "db deutsche bank ag dividend URL $ db $ totl $ COMPANY_X $ hxd.to db invest stockmarket"
+    },
+    "tweet3": {
+      "content": "$ brwc percent change updated friday , september 25 , 2015 10:07 : 15 am $ bmy $ tcel $ wynn $ COMPANY_X URL"
+    },
+    "tweet4": {
+      "content": "dgaz velocityshares 3x inverse natural gas etn message board posts URL $ dgaz $ wmih $ vnm $ COMPANY_X dgaz stockmarket …"
+    },
+    "tweet5": {
+      "content": "$ COMPANY_X reviews updated thursday , september 24 , 2015 8: 59:22 pm $ ewg $ tqqq $ owoo $ ewu URL"
+    },
+    "tweet6": {
+      "content": "pfe pfizer , inc . last trade URL $ pfe $ fdx $ tna $ COMPANY_X pfe investing stock"
+    },
+    "tweet7": {
+      "content": "regn regeneron pharmaceuticals , inc . chart URL $ regn $ aria $ c $ COMPANY_X regn stockmarket tradeideas"
+    },
+    "tweet8": {
+      "content": "ihsi intelligent highway solutions , inc . market cap URL $ ihsi $ jju $ COMPANY_X $ aet ihsi finance pennystocks"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "COMPANY_X wal-mart stores , inc . financials URL $ COMPANY_X $ ctb $ tlt $ ibm COMPANY_X finance nasdaq"
+    },
+    "tweet2": {
+      "content": "biib biogen inc . dividend URL $ biib $ COMPANY_X $ celg $ tlt biib stocks investing"
+    },
+    "tweet3": {
+      "content": "COMPANY_X wal-mart stores , inc . open URL $ COMPANY_X $ kdx.to $ ge $ brwc COMPANY_X invest stockmarket"
+    },
+    "tweet4": {
+      "content": "wmih wmi holdings corp . 52wk high URL $ wmih $ xli $ COMPANY_X $ myec wmih investing pennystocks"
+    },
+    "tweet5": {
+      "content": "fold canyon services group , inc . ask size URL $ fold $ eum $ abx $ COMPANY_X fold tradeideas stockmarket"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "$ COMPANY_X expands online grocery / free pick-up to more markets , incl atlanta , charlotte , slc and more . retail URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER xli technology select sector spdr exchange URL $ xli $ COMPANY_X $ jnj $ fcx xli stocks invest"
+    },
+    "tweet3": {
+      "content": "COMPANY_X wynn resorts ltd news URL $ COMPANY_X $ bax $ uso $ jnug COMPANY_X stocks stock"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "( $ nxtd ) announces former ceo of ( $ COMPANY_X ) helps national retail roll out of wocketwallet URL"
+    },
+    "tweet2": {
+      "content": "( $ nxtd ) announces former ceo of ( $ COMPANY_X ) helps national retail roll out of wocketwallet URL"
+    },
+    "tweet3": {
+      "content": "ewz brazil ishares last trade URL $ ewz $ ibm $ fcel $ COMPANY_X ewz investing sharef ford motor co . chart …"
+    },
+    "tweet4": {
+      "content": "ewz brazil ishares last trade URL $ ewz $ ibm $ fcel $ COMPANY_X ewz investing sharef ford motor co . chart …"
+    },
+    "tweet5": {
+      "content": "$ tgt $ COMPANY_X news : \" kroger : do you prefer share repurchases or more dividends ? $ tgt … \" URL analyze : URL"
+    },
+    "tweet6": {
+      "content": "update on active moving stocks : wal-mart stores , inc ( nyse : COMPANY_X ) , cbs ... $ COMPANY_X URL"
+    },
+    "tweet7": {
+      "content": "why rate cuts and moderating house prices impact the indicators $ xlp $ kmb $ mo $ COMPANY_X URL"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "wal-mart and the competitive advantage of free grocery pickup URL $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "early movers : $ mkc $ cag $ gps $ googl $ msft $ vrsk $ joy $ dmnd $ COMPANY_X $ noc $ de $ fcau $ mac $ ge $ wfc $ ups … URL"
+    },
+    "tweet3": {
+      "content": "panw palo alto networks inc . news URL $ panw $ COMPANY_X $ baba $ regn panw investing nasdaq"
+    }
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "boeing co ( nyse : COMPANY_X ) rating in focus $ COMPANY_X URL"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "rt AT_USER wall street breakfast : cf industries , oci announce nitrogen mega-merger URL $ spy $ qqq $ COMPANY_X $ csco $ emc …"
+    },
+    "tweet2": {
+      "content": "five minute trades - $ spy $ qqq $ dia $ iwm $ aapl $ tsla $ gpro $ gld $ uso $ nflx $ googl $ goog $ gdx $ dust $ jdst $ xlf $ COMPANY_X … URL"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "bae systems plc rating reiterated by sanford c . bernstein $ COMPANY_X URL"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "alert : new rsi signal created on $ COMPANY_X - sell at 144.48 - time : 17:18 - strength : 5 . powered by URL"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X boeing chairman jim mcnerney announced today that the company's board of directors has elected lynn good as a new member ."
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "update on delays to boeing kc46 tanker's first flight . URL $ COMPANY_X aerospace"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "AT_USER $ COMPANY_X more problems hit boeing's aerial tanker program URL"
+    },
+    "tweet2": {
+      "content": "boeing : retard pour un test en vol de son nouvel avion ravitailleur militaire URL $ COMPANY_X"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "$ COMPANY_X more star wars-themed boeing jets on the way URL"
+    },
+    "tweet2": {
+      "content": "weekly dow stocks trend $ hd $ mcd $ trv $ msft $ unh $ axp $ nke $ mrk $ COMPANY_X $ jpm $ ko $ cat $ v $ pfe $ vz $ jnj $ ge $ dd $ utx @ URL"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "rt AT_USER dow stocks recover 90 % of opening loss URL $ aapl $ intc $ COMPANY_X $ unh $ jnj"
+    },
+    "tweet2": {
+      "content": "rt AT_USER 20 dow components hit 52 - week lows , including $ aapl , $ COMPANY_X , $ mcd , $ msft and $ ibm • live blog » URL URL"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "spdr ® dow jones industrial average etf $ dia -8.6 % year to date return , top ten holdings $ gs $ ibm $ mmm $ COMPANY_X $ unh $ aapl $ dis $ hd $ nke $ trv"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X , $ COMPANY_X boeing , korean air celebrate the delivery of airline's first 747-8 intercontinental - URL ~ via AT_USER"
+    },
+    "tweet3": {
+      "content": "rt AT_USER boeing raises long-term forecast on chinese aircraft demand URL $ COMPANY_X"
+    },
+    "tweet4": {
+      "content": "$ twtr $ crm $ msft $ aet $ COMPANY_X if it breathes , sell it !"
+    },
+    "tweet5": {
+      "content": "$ COMPANY_X : active stocks watch list : advanced micro devices , inc . ( nasdaq … : URL"
+    },
+    "tweet6": {
+      "content": "AT_USER $ COMPANY_X boeing raises long-term forecast on chinese aircraft demand URL"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "$ COMPANY_X boeing co to cut jobs in satellite unit URL"
+    },
+    "tweet2": {
+      "content": "cost estimates on new air force bomber draw questions from congress URL $ COMPANY_X $ lmt $ noc"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "boeing $ COMPANY_X showing bearish technicals with resistance at $ 132.64 ( URL )"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "AT_USER $ COMPANY_X boeing wins $ 1.5 b deal for navy jets URL"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "air force's secretive stealth bomber taking shape URL ibdnews via AT_USER $ noc $ COMPANY_X $ lmt"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "rt insiderbull : look the the shareholders . famous people on a tiny float . $ twtr $ dakt $ enph $ terp $ p $ mnkd $ fb $ COMPANY_X … URL"
+    },
+    "tweet2": {
+      "content": "recent analysts ’ ratings updates for boeing $ COMPANY_X URL"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "s & p100 stocks performance $ amgn $ cl $ wmt $ dow $ txn $ intc $ msft $ unp $ aapl $ amzn $ ms $ gm $ rtn $ orcl $ COMPANY_X more @ … URL"
+    },
+    "tweet2": {
+      "content": "stock market scams : cnbc , gartman , fast money and jim cramer URL $ yhoo $ baba $ twtr $ COMPANY_X $ gpro $ amba"
+    },
+    "tweet3": {
+      "content": "rt AT_USER is it worth watching donald trump's stock portfolio ? $ jpm $ t $ COMPANY_X $ aapl $ bmy $ cat $ ibm URL"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "boeing's new 777x plane is on track . here's why that's so important for investors : URL $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "rt AT_USER there goes $ 300 million britishairways 777 $ COMPANY_X URL"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "dow stocks trend $ intc $ trv $ v $ axp $ unh $ COMPANY_X $ mcd $ utx $ nke $ gs $ vz $ csco $ ge $ pfe $ mmm $ hd $ wmt $ aapl $ dis @ URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER alibaba continues to get pummeled . it dropped 5 % today and that means it's down 41 % this year : URL $ COMPANY_X …"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "boeing cut to “ buy ” at vetr inc . $ COMPANY_X URL acn"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "$ spy bull rush 11:30- 12pm $ usdjpy $ fb $ googl $ amzn $ nflx $ dpz $ aapl $ csco $ sbux $ yelp $ clb $ bac $ COMPANY_X $ uso $ goog $ tm … URL"
+    },
+    "tweet2": {
+      "content": "will boeing $ COMPANY_X stock be lifted by china aircraft deal ? URL"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "bae systems plc given consensus recommendation of “ hold ” by brokerages $ COMPANY_X URL"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "how much is left for boeing in the indian single-aisle market ? URL $ eadsf $ COMPANY_X"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "us AT_USER loss jeopardizes boeing ( $ COMPANY_X ) orders - URL $ $"
+    }
+  }
+}

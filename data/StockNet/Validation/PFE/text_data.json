@@ -1,0 +1,364 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "for an easy way to follow the stocks you are interested in like $ COMPANY_X , try marketscan for ios : URL"
+    },
+    "tweet2": {
+      "content": "COMPANY_X pfizer , inc . investor opinions URL $ COMPANY_X $ imgn $ gpro $ tsn COMPANY_X share tradeideas"
+    },
+    "tweet3": {
+      "content": "fb facebook , inc . e . p . s . URL $ fb $ googl $ COMPANY_X $ fisv fb stockmarket tradeideas"
+    },
+    "tweet4": {
+      "content": "aal american airlines group inc . e . p . s . URL $ aal $ COMPANY_X $ osk $ agn aal share financeaapl apple , inc . 52wk high …"
+    },
+    "tweet5": {
+      "content": "COMPANY_X pfizer , inc . change URL $ COMPANY_X $ ashr $ dwti $ tlt COMPANY_X pennystocks share"
+    },
+    "tweet6": {
+      "content": "amba ambarella , inc . current price URL $ amba $ COMPANY_X $ opk $ neot amba pennystocks stocks"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "$ z stock forum updated wednesday , august 5 , 2015 11:06 : 46 am $ COMPANY_X $ ctrp $ goog $ hyg URL"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "dia spdr dj industrial average etf trust eod data URL $ dia $ ctrp $ spxu $ COMPANY_X dia tradeideas finance"
+    },
+    "tweet2": {
+      "content": "ihnasdaqomx : gmcr keurig green mountain , inc . yield URL $ gmcr $ crh.to $ xlu $ COMPANY_X gmcr finan … URL"
+    },
+    "tweet3": {
+      "content": "COMPANY_X pfizer , inc . chart URL $ COMPANY_X $ celg $ tna $ amba COMPANY_X share stockmarket"
+    },
+    "tweet4": {
+      "content": "pfizer inc . ( COMPANY_X ) closes 0.03 % down on the day for august 05 $ COMPANY_X URL"
+    },
+    "tweet5": {
+      "content": "rsp guggenheim s & p 500 equal weight etf change URL $ rsp $ fxp $ COMPANY_X $ avxl rsp stockmarket stockmarket"
+    },
+    "tweet6": {
+      "content": "cree calissio resources group , inc . day low URL $ cree $ COMPANY_X $ mei $ x cree stocks investingcrgp canadian solar inc . …"
+    },
+    "tweet7": {
+      "content": "biib proshares ultrashort nasdaq biotechnology prev close URL $ biib $ ko $ bcei $ COMPANY_X biib tradeideas …"
+    },
+    "tweet8": {
+      "content": "uk regulator raises concerns over prices charged by pfizer , flynn pharma for epilepsy drug URL $ COMPANY_X pharma"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "$ unis - did you miss that ? probably . plus griffin's change to neutral URL $ COMPANY_X $ azn $ sny $ biod $ podd $ mrk $ amgn"
+    },
+    "tweet2": {
+      "content": "COMPANY_X pfizer , inc . change URL $ COMPANY_X $ psti $ yinn $ mnk COMPANY_X investing invest"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "$ dxj news updated wednesday , august 12 , 2015 07:07 : 03 am $ dewm $ COMPANY_X $ dust $ amgn URL"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "rt AT_USER at 14:13 : 03 , a sudden disturbance in many large cap nyse stocks : $ kr $ abc $ hca $ COMPANY_X $ whr"
+    },
+    "tweet2": {
+      "content": "pfizer inc . ( COMPANY_X ) closes 0.71 % up on the day for august 12 $ COMPANY_X URL"
+    },
+    "tweet3": {
+      "content": "hifibio sas achieves milestone in antibody research collaboration with pfizer inc . $ COMPANY_X URL"
+    },
+    "tweet4": {
+      "content": "rt AT_USER $ COMPANY_X reviews updated wednesday , august 12 , 2015 5:11 : 14 pm $ ziop $ xlv $ ua $ spxs URL"
+    },
+    "tweet5": {
+      "content": "rt AT_USER pfizer joins $ jnj in dumping $ aqxp . sec filing shows 17 separate sales from $ COMPANY_X monday . prices ranged from $ 20 to $ 41.46 …"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "rt AT_USER most phase iii trials ➞ URL - 1 $ COMPANY_X 5 $ celg 5 $ amgn 8 $ gild 9 $ regn 10 $ biib 17 $ jazz URL"
+    },
+    "tweet2": {
+      "content": "$ espr is a clear example of mispricing that occurs in the market URL … … $ regn $ sny $ amgn $ COMPANY_X"
+    },
+    "tweet3": {
+      "content": "sentishiftup $ cop $ feye $ COMPANY_X $ luv $ xlu $ itb $ spx $ uvxy $ cvx $ ndx sentiquant fintech 2015081 8 15:00 : 07:343"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "provectus awarded patent covering use of pv - 10 in certain cancers URL $ pvct $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "weekly dow stocks trend $ hd $ mcd $ trv $ msft $ unh $ axp $ nke $ mrk $ ba $ jpm $ ko $ cat $ v $ COMPANY_X $ vz $ jnj $ ge $ dd $ utx @ URL"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "notable opening imbalances : $ baba - 263k , $ twtr - 95k , $ bac - 377k , $ c - 118k , $ dis - 135k , $ COMPANY_X - 136k , $ ge _157k , $ s - 334k , $ abx + 221k"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "active stocks news buzz : pfizer inc . ( nyse :p fe ) , opko health , inc . ( nyse :op k ... $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X - pfizer announces positive topline results of two phase 3 studies of trumenba ® ( meningococcal group b URL"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "$ COMPANY_X receives clearance from u . s . federal trade commission for hospira acquisition URL"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "$ COMPANY_X active movers - pfizer inc . ( nyse :p fe ) , avon products inc . ( nyse : avp ) , the ... URL"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "$ . spx $ cam $ gas $ slb $ so $ hsp $ COMPANY_X $ bby $ gmcr : what it takes to survive the selloff : URL"
+    },
+    "tweet2": {
+      "content": "axp american express co . % change URL $ axp $ amzgq $ ung $ COMPANY_X axp nasdaq finance"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X 2015091 8 595 trade . ~ $ 1.9 mm notional value ."
+    },
+    "tweet4": {
+      "content": "COMPANY_X pfizer , inc . e . p . s . URL $ COMPANY_X $ hal $ cew $ pep COMPANY_X invest investing"
+    },
+    "tweet5": {
+      "content": "COMPANY_X pfizer , inc . quotes URL $ COMPANY_X $ vb $ amgn $ dhi COMPANY_X stocks sharephm . v patient home monitoring corp . ask size …"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "ewp spain ishares financials URL $ ewp $ xlu $ COMPANY_X $ ayi ewp share investing"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "googl google inc . - class a prev close URL $ googl $ xlu $ COMPANY_X $ tasr googl stock sharegpro gopro , inc . current …"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "investor's alert - pfizer inc . ( nyse :p fe ) american airlines group inc . ( nasdaq ... $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X news : \" chinese tcm : regulated cures or regulated quackery ? $ mrk $ COMPANY_X $ rhhby \" URL analyze : URL"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "rt AT_USER biotech 101 : drug development and the fda - URL biotech education clinicaltrials $ azn $ biib $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "COMPANY_X top news - sep 1st , 2015 $ COMPANY_X URL"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "$ unis - million syringe march URL $ COMPANY_X $ mrk $ dskx $ ambs $ sny $ bdx $ cov $ biib $ biod $ regn $ bmrn $ blue"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "vz wells fargo & co . stock forum URL $ vz $ cost $ bac $ COMPANY_X vz stockmarket stocks"
+    },
+    "tweet2": {
+      "content": "rt AT_USER back to school grades for 24 pharma giants URL $ regn , $ biib , $ gild , $ celg , $ jnj , $ COMPANY_X ..."
+    },
+    "tweet3": {
+      "content": "market movers : pfizer inc ( nyse :p fe ) , suntrust banks , inc ( nyse : sti ) , motorola ... $ COMPANY_X URL"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "COMPANY_X pfizer , inc . news URL $ COMPANY_X $ ac.to $ ea $ jcp COMPANY_X investing stock"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "dow stocks trend $ intc $ trv $ v $ axp $ unh $ ba $ mcd $ utx $ nke $ gs $ vz $ csco $ ge $ COMPANY_X $ mmm $ hd $ wmt $ aapl $ dis @ URL"
+    },
+    "tweet2": {
+      "content": "dhi dr horton inc . news URL $ dhi $ sbux $ jnug $ COMPANY_X dhi finance stockmarket"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "pfizer earns aa - credit rating $ COMPANY_X URL acn"
+    },
+    "tweet2": {
+      "content": "COMPANY_X pfizer , inc . prev close URL $ COMPANY_X $ cos.to $ fit $ eem COMPANY_X share stocks"
+    },
+    "tweet3": {
+      "content": "xom exxon mobil corp . yield URL $ xom $ COMPANY_X $ tqqq $ eem xom share stocks"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "for an easy way to follow the stocks you are interested in like $ COMPANY_X , try marketscan for ios : URL"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "rt AT_USER AT_USER AT_USER AT_USER $ gild been trading similar to $ bmy , $ COMPANY_X , $ mrk , and $ abbv past month . its trading like …"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X - quarterly earnings analysis - report on pfizer URL"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "URL is watching these big pharma names $ lly , $ bmy , $ COMPANY_X - great cash flow doesn't go out of style URL"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "rt AT_USER should biosimilars makers be allowed to stop patent dance mid-song ? URL $ amgn $ COMPANY_X biosimilar bio …"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "pfizer given consensus rating of “ buy ” by brokerages $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "AT_USER $ COMPANY_X ... giddy up !"
+    },
+    "tweet3": {
+      "content": "$ unis - getting the bum's rush URL $ amgn $ bdx $ biib $ biod $ cov $ dskx $ goog $ bmy $ jnj $ pg $ imnp $ mrk $ rtrx $ rvp $ sny $ COMPANY_X"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "barclays on $ halo pathway for enhanze-formulated therapies shorter than expected $ celg $ gild $ COMPANY_X $ rhhby $ nvs $ ibb $ xbi"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "sblk star bulk carriers corp . message board posts URL $ sblk $ COMPANY_X $ tap $ celg sblk stock pennystocks"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X - merck kgaa , darmstadt , germany , & pfizer announce fda orphan drug designation for investigational URL"
+    },
+    "tweet3": {
+      "content": "canf can-fite biopharma ltd . financials URL $ canf $ COMPANY_X $ v $ nugt canf share share"
+    },
+    "tweet4": {
+      "content": "COMPANY_X pfizer , inc . last trade URL $ COMPANY_X $ fdx $ tna $ wmt COMPANY_X investing stock"
+    },
+    "tweet5": {
+      "content": "aapl apple , inc . chart URL $ aapl $ xle $ COMPANY_X $ unp aapl nasdaq nasdaq"
+    },
+    "tweet6": {
+      "content": "COMPANY_X pfizer , inc . p / e ratio URL $ COMPANY_X $ gdxj $ t $ intc COMPANY_X pennystocks invest"
+    },
+    "tweet7": {
+      "content": "pfizer declares 28 - cent fourth-quarter 2015 dividend $ COMPANY_X URL"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "pfizer ’ s “ outperform ” rating reaffirmed at bmo capital markets $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "tna direxion daily small cap bull 3x shares stock forum URL $ tna $ avxl $ f $ COMPANY_X tna finance nasdaq"
+    },
+    "tweet3": {
+      "content": "for an easy way to follow the stocks you are interested in like $ COMPANY_X , try marketscan for ios : URL"
+    },
+    "tweet4": {
+      "content": "dhi dr horton inc . dividend URL $ dhi $ COMPANY_X $ caty $ cew dhi share nasdaq"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "volume alert - COMPANY_X 31.34 pfizer inc $ COMPANY_X hit a high today of 31.44 closing the day 10:30 at 31.34 +0.52 +1.69 % URL"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "aep american elec pwr co . , inc . ask size URL $ aep $ COMPANY_X $ hac.to $ owoo aep stocks invest"
+    },
+    "tweet2": {
+      "content": "pfizer inc . updates fy15 guidance to $ 2.04- 2.10 eps & revenue guidance to $ 46.5- 47.5 billion . URL $ COMPANY_X COMPANY_X"
+    },
+    "tweet3": {
+      "content": "rt AT_USER vlo valero energy corp e . p . s . URL $ vlo $ uvxy $ COMPANY_X $ ua vlo nasdaq investvrx valeant pharmaceuticals …"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X updates 2015 guidance post $ hsp : lowers eps 9 cents raises adj eps 3 cents raises rev $ 1.5 b URL"
+    },
+    "tweet5": {
+      "content": "rt AT_USER pfizer boosts full-year forecast following hospira acquisition URL $ COMPANY_X pharma"
+    },
+    "tweet6": {
+      "content": "dako to develop companion diagnostic for pfizer and merck kgaa's joint cancer candidate : URL $ COMPANY_X by AT_USER"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

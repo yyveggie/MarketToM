@@ -1,0 +1,502 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "our stock alerts have been seeing record gains ! our new pick will be massive : URL $ gm $ kss $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "for an easy way to follow the stocks you are interested in like $ COMPANY_X , try marketscan for ios : URL"
+    },
+    "tweet3": {
+      "content": "expe expedia , inc stock forum URL $ expe $ gs $ COMPANY_X $ pbr expe nasdaq invest"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "rt AT_USER ewy south korea ishares shares URL $ ewy $ mcd $ COMPANY_X $ acad ewy nasdaq pennystocks"
+    },
+    "tweet2": {
+      "content": "cablevision , verizon settle on lengthy ad / legal battle $ cvc $ COMPANY_X URL"
+    },
+    "tweet3": {
+      "content": "nugt direxion daily gold miners bull 3x shares 52wk low URL $ nugt $ rem $ COMPANY_X $ mro nugt finance investing"
+    },
+    "tweet4": {
+      "content": "investors buy shares of verizon communications on weakness on analyst downgrade $ COMPANY_X URL"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "few setups for monday URL other stocks to watch today $ sune $ pegi $ jnpr $ sqnm $ wynn $ bsx $ tol $ blue $ once $ t $ COMPANY_X $ otic"
+    },
+    "tweet2": {
+      "content": "jim 50 : COMPANY_X gapped up +0.30 $ COMPANY_X last price 43.24 day high URL"
+    },
+    "tweet3": {
+      "content": "paas palo alto networks inc . stock message board URL $ paas $ ea $ COMPANY_X $ gbsn paas stocks investing"
+    },
+    "tweet4": {
+      "content": "smh proshares ultrashort basic materials summary URL $ smh $ COMPANY_X $ cpg.to $ bac smh nasdaq finance"
+    },
+    "tweet5": {
+      "content": "hedj wisdomtree europe hedged equity etf p / e ratio URL $ hedj $ infy.in $ COMPANY_X $ tqqq hedj share stocks"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "URL stock trader turned a few thousand dollars into $ URL million in 4 yrs ! ! $ gpro $ f $ fcx $ nugt $ COMPANY_X"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "hse.to husky energy , inc . tick URL $ hse.to $ ilns $ COMPANY_X $ sco hse.to investing stockmarket"
+    },
+    "tweet2": {
+      "content": "rt AT_USER new AT_USER report out on nyc : $ tmus fastest $ t slowest $ COMPANY_X < 13 mbps URL URL"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X : us verizon beats whistleblower's overbilling suit again verizon communications inc URL sp500"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "20 dogs of dividend achievers with yields up to 8.52 % - URL - $ apu $ cmi $ ibm $ ori $ son $ COMPANY_X $ qcom $ ibm $ nue $ cmi $ cmp $ gps"
+    },
+    "tweet2": {
+      "content": "ief ishares barclays 7-10 year treasury bond fund e . p . s . URL $ ief $ cmg $ vvus $ COMPANY_X ief tradeideas stockmarket"
+    },
+    "tweet3": {
+      "content": "i'm in all out sell mode at $ spy 2040-2060 . not that i made much with $ COMPANY_X $ jpm $ aapl $ vig $ vug . $ x already sold to cover $ gpro loss ."
+    },
+    "tweet4": {
+      "content": "hyg ishares iboxx high yield corporate bond fund summary URL $ hyg $ emc $ COMPANY_X $ amzn hyg stock stock"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "stz constellation brands , inc . stock message board URL $ stz $ eum $ COMPANY_X $ nem stz invest stocks"
+    },
+    "tweet2": {
+      "content": "COMPANY_X verizon communications financials URL $ COMPANY_X $ ibb $ pzza $ brcm COMPANY_X pennystocks tradeideas"
+    },
+    "tweet3": {
+      "content": "COMPANY_X top news - oct 9th , 2015 $ COMPANY_X URL"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "verizon communications $ COMPANY_X showing bearish technicals with support at $ 43.70 ( URL )"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "$ COMPANY_X - statement of changes in beneficial ownership ( 4 ) URL"
+    },
+    "tweet2": {
+      "content": "verizon communications $ COMPANY_X trading near $ 44.51 resistance level ( URL )"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "t-mobile revives popular promo , at & t seen ' passive ' URL ibdnews via AT_USER $ tmus $ COMPANY_X $ t $ aapl"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "xbi ishares cdn s & p / tsx capped energy index fund message board posts URL $ xbi $ slv $ baa $ COMPANY_X xbi finance share"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "COMPANY_X verizon communications % change URL $ COMPANY_X $ fb $ ea $ dug COMPANY_X tradeideas stock"
+    },
+    "tweet2": {
+      "content": "$ xli stock price updated friday , october 16 , 2015 02:07 : 15 am $ fdn $ iev $ COMPANY_X $ bas URL"
+    },
+    "tweet3": {
+      "content": "nomura rates verizon communications inc . $ COMPANY_X at neutral URL"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "$ COMPANY_X $ ko $ amzn : what to watch in the stock market this week : URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER earnings are picking up : $ amzn $ googl $ ibm $ aal $ biib $ ua $ luv $ msft $ gm $ COMPANY_X $ cmg $ ba $ skx URL URL"
+    },
+    "tweet3": {
+      "content": "popular : $ wtw , $ ms , $ ino , $ ibm , $ ko , $ lii , $ urbn , $ mtb , $ russ , $ COMPANY_X , $ anf , $ ufcs , $ csiq , $ db"
+    },
+    "tweet4": {
+      "content": "dy dycom industries , inc . summary URL $ dy $ atvi $ pg $ COMPANY_X dy nasdaq stockmarket"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "AT_USER $ COMPANY_X verizon beats by $ 0.02 , beats on revenue URL"
+    },
+    "tweet2": {
+      "content": "verizon communications inc . edges out earnings estimates $ COMPANY_X URL"
+    },
+    "tweet3": {
+      "content": "rt AT_USER breaking : verizon communications inc . $ COMPANY_X q3 revenues , $ 33.16 b vs . $ 32.87 b expected breaking"
+    },
+    "tweet4": {
+      "content": "rt AT_USER breaking : verizon communications inc . $ COMPANY_X q3 revenues , $ 33.16 b vs . $ 32.87 b expected breaking"
+    },
+    "tweet5": {
+      "content": "rt AT_USER breaking : verizon communications inc . $ COMPANY_X q3 earnings per share ( eps ) , $ 0.99 vs . $ 1.03 expected breaking"
+    },
+    "tweet6": {
+      "content": "rt AT_USER AT_USER URL $ pfe $ pg $ trv $ utx $ unh $ COMPANY_X $ wmt döngüdalgadenge $ djia $ brent $ spx syg . http …"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "verizon q3 earnings and revenues beat estimates $ ctl $ usm $ COMPANY_X $ tmus URL"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X : verizon communications price target lowered to $ 54.00 at fbr … : URL"
+    },
+    "tweet3": {
+      "content": "top sentiment for sp1500 stocks at midday : $ COMPANY_X $ pld $ ipg $ fitb $ adm ( 2015/10 / 21 ) sentiment stock alexandria"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "verizon communications inc . , $ COMPANY_X , target : 44.49 ( -0.82 % ) . calculated at : URL trading daytrading stock premarket"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X - what does my portfolio income growth look like ? URL"
+    },
+    "tweet3": {
+      "content": "itci intra-cellular therapies inc . short sales URL $ itci $ COMPANY_X $ xeg.to $ dow itci invest stock"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "AT_USER AT_USER stop stealing my iphone 6 URL $ COMPANY_X $ aapl"
+    },
+    "tweet2": {
+      "content": "$ jnpr stock price updated friday , october 23 , 2015 11:07 : 08 am $ pvg $ feye $ ctix $ COMPANY_X URL"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "$ cf financials updated wednesday , october 28 , 2015 06:11 : 29 am $ rai $ COMPANY_X $ pfe $ ctl URL"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "level 3 ' s 3q15 earnings meet with positive market reaction $ lvlt $ ctl $ t $ COMPANY_X URL"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "AT_USER AT_USER stop stealing my iphone 6 URL $ COMPANY_X $ aapl"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "jks jinkosolar holding co . ltd . yield URL $ jks $ COMPANY_X $ tbev $ blta jks investing stock"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X opinions updated monday , november 2 , 2015 06:59 : 24 am $ nvda $ titxf $ hov $ mu URL"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "AT_USER AT_USER stop stealing my iphone 6 URL $ COMPANY_X $ aapl"
+    },
+    "tweet2": {
+      "content": "$ ctrp recent news updated monday , november 2 , 2015 9:59 : 25 pm $ wmt $ mjna $ spxu $ COMPANY_X URL"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X - verizon's exclusive droid turbo 2 could challenge samsung's galaxy note 5 URL"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "$ COMPANY_X millions use this company , but , do we all need to go back to snail mail with wax seals & rfi linings ?"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "verizon communications reiterated rating by cowen & co ( ranked 62nd ) to market perform with 48 pt $ COMPANY_X COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "here's their kill shot : make any change and they subject you to an entirely new pricing regime $ COMPANY_X URL"
+    },
+    "tweet3": {
+      "content": "sprint earnings miss q2 2015 estimates , but all is not lost $ s also $ t $ tmus $ COMPANY_X URL"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "$ COMPANY_X : verizon secures latest go90 content deal , becomes official … : URL"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X - verizon considering sales of up to $ 10 billion of enterprise assets - reuters URL"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "rt AT_USER $ tmus ceo AT_USER mocked $ COMPANY_X ceo lowell mcadam as a millennials expert . URL"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "$ COMPANY_X received a new alert . find out why at URL stocks daytrading trading mkt nyse nasdaq markets 440"
+    },
+    "tweet2": {
+      "content": "COMPANY_X verizon communications investor opinions URL $ COMPANY_X $ cmg $ xlp $ vxx COMPANY_X pennystocks finance"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X $ cmcsa $ googl : the ad-blocking threat is real : linkedin exec : URL … … … URL"
+    },
+    "tweet4": {
+      "content": "new to trading and need to build your trading account fast ? try my new amazon ebook URL $ twtr $ COMPANY_X"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "AT_USER AT_USER stop stealing my iphone 6 URL $ COMPANY_X $ aapl"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "AT_USER AT_USER stop stealing my iphone 6 URL $ COMPANY_X $ aapl"
+    },
+    "tweet2": {
+      "content": "rt AT_USER phone payment activation fees $ s $ 36 $ COMPANY_X $ 20 $ t $ 15 $ tmus $ 0 h / t AT_USER URL"
+    },
+    "tweet3": {
+      "content": "rt AT_USER phone payment activation fees $ s $ 36 $ COMPANY_X $ 20 $ t $ 15 $ tmus $ 0 h / t AT_USER URL"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "URL stock trader who turned few thousand dollars into $ URL million in 4 yrs ! $ gpro $ f $ fcx $ nugt $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "verizon with a possible 3 % dividend yield URL $ COMPANY_X"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "$ ibm stock message board updated tuesday , november 17 , 2015 4:07 : 17 pm $ orcl $ COMPANY_X $ sltd $ v URL"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "edv vanguard extended duration etf bid size URL $ edv $ fdn $ c $ COMPANY_X edv tradeideas finance"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "$ COMPANY_X news : \" pennsylvania high court rules against verizon in multimillion-dollar … \" URL analyze : URL"
+    },
+    "tweet2": {
+      "content": "aol's tim armstrong says that verizon is building the largest internet company east of silicon valley go90 $ COMPANY_X AT_USER"
+    },
+    "tweet3": {
+      "content": "one more nail in pots coffin deathofpots AT_USER gets AT_USER waiver permitting wi-fi calling URL … $ COMPANY_X"
+    },
+    "tweet4": {
+      "content": "AT_USER AT_USER stop stealing my iphone 6 URL $ COMPANY_X $ aapl"
+    },
+    "tweet5": {
+      "content": "rt AT_USER investors : data center asset sales reflect telco troubles , not colo trends . $ ctl $ COMPANY_X $ win URL imnevents"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "intel's data center group positioned strongly for the future URL $ chl $ t $ tef $ vod $ COMPANY_X $ intc"
+    },
+    "tweet2": {
+      "content": "xlk consumer staples select sector spdr day high URL $ xlk $ dis $ COMPANY_X $ mdxg xlk invest stockxlp utilities select …"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "AT_USER AT_USER stop stealing my iphone 6 URL $ COMPANY_X $ aapl"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X does have an edge on certain fundies over $ t ; but overall , i like t's chart set up and dividend right now ( over verizon ) ."
+    },
+    "tweet3": {
+      "content": "if $ yhoo core goes pe expect AT_USER opposite — managed expenses , growing cash flow $ baba $ COMPANY_X $ fb $ goog $ iaci URL"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": ". att plans its own mobile entertainment service URL $ COMPANY_X $ t $ s"
+    },
+    "tweet2": {
+      "content": "verizon-yahoo tie-up ? URL $ bee $ bmr $ c $ cp $ ctl $ eluxy $ fcs $ ge $ gmcr $ gs $ issi $ jah $ nsc $ nwl $ pby $ slh $ yhoo $ COMPANY_X"
+    },
+    "tweet3": {
+      "content": "dozens of california governments sue the wireless carriers URL $ t $ COMPANY_X $ tmus $ s"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "trending u . s stocks : URL $ COMPANY_X $ epe $ ete"
+    },
+    "tweet2": {
+      "content": "tlt ishares barclays 20 + year treasury bond fund filings URL $ tlt $ pot $ COMPANY_X $ goog tlt share invest"
+    },
+    "tweet3": {
+      "content": "verizon ceo : we are interested if yahoo is in play - URL - $ COMPANY_X $ yhoo URL"
+    },
+    "tweet4": {
+      "content": "uvxy proshares ultra vix short-term futures etf ideas URL $ uvxy $ efa $ COMPANY_X $ efa uvxy stocks stockmarket"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "rt seekingalpha : dropping kinder morgan for a stock with quality URL $ jnj $ kmi $ aapl $ pg $ t $ COMPANY_X"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "traveler's leads the dow jones industrials $ ba $ gs $ ibm $ jpm $ pfe $ trv $ COMPANY_X $ aapl $ csco URL"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "rt AT_USER verizon exec in charge of tv services admits she cut the cord | techdirt URL $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "$ t $ COMPANY_X $ tmus : sprint short interest continues to skyrocket : URL"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "about that carrier settings update on your iphone $ aapl $ t $ tmus $ s $ COMPANY_X $ googl $ msft wlst … URL"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "over ichimoku URL $ jpm $ COMPANY_X $ avp $ iyr $ xlv $ symc $ pypl $ gis $ esrx $ syy $ rmbs $ sti $ grmn $ flot $ lpx $ splv $ xlnx $ usmv"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "trading strategies partners : URL $ aapl $ nflx $ qqq $ spy $ djia $ COMPANY_X $ gs $ intc $ aa $ intc $ nflx $ gs $ jpm $ t $ mmm $ amgn"
+    },
+    "tweet2": {
+      "content": "i was actually shocked to see more customers in $ COMPANY_X than $ aapl store at mall on saturday and more workers URL"
+    },
+    "tweet3": {
+      "content": "elder green URL $ eem $ ewj $ msft $ vwo $ csco $ baba $ ko $ key $ COMPANY_X $ cvx $ amj $ abbv $ iemg $ oke $ aig $ xlp $ cog"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "$ feye reviews updated thursday , december 24 , 2015 06:07 : 08 am $ nflx $ abbv $ hrl $ COMPANY_X URL"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "trading strategies partners : URL $ aapl $ nflx $ qqq $ spy $ djia $ COMPANY_X $ gs $ intc $ aa $ intc $ nflx $ gs $ jpm $ t $ mmm $ amgn"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "$ COMPANY_X verizon dividend stock analysis - URL via AT_USER dividend stocks investing"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "amazon has the fastest-growing web properties in 2015 $ amzn $ googl $ goog $ COMPANY_X $ fb $ msft URL URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER current market screenshot $ aapl $ amzn $ jnj $ fb $ ge $ bac $ dd $ c $ dis $ t $ COMPANY_X $ nke $ ko $ pep URL"
+    }
+  }
+}

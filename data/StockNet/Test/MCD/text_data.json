@@ -1,0 +1,826 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "$ COMPANY_X is in a pickle and the stock looks expensive . URL"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "rt AT_USER ewy south korea ishares shares URL $ ewy $ COMPANY_X $ vz $ acad ewy nasdaq pennystocks"
+    },
+    "tweet2": {
+      "content": "rt AT_USER 10 defensive stock ideas from bank of america $ bby $ dis $ exr $ lly $ so $ wmt $ vrsk $ rtn $ rai $ COMPANY_X URL"
+    },
+    "tweet3": {
+      "content": "tnk teekay tankers ltd . stock message board URL $ tnk $ nat $ dia $ COMPANY_X tnk tradeideas investing"
+    },
+    "tweet4": {
+      "content": "jnug direxion daily junior gold miners index bull 3x shares last trade URL $ jnug $ googl $ COMPANY_X $ sune jnug investing …"
+    },
+    "tweet5": {
+      "content": "mcdonald's : standing on the shoulders of alibaba URL $ baba $ COMPANY_X"
+    },
+    "tweet6": {
+      "content": "rt AT_USER breaking : mcdonald's $ COMPANY_X joins coca-cola $ ko is calling for immediate resignation of fifa chief sepp blatter"
+    },
+    "tweet7": {
+      "content": "$ COMPANY_X : bullish analyst action by credit suisse on mcdonald's : URL URL"
+    },
+    "tweet8": {
+      "content": "COMPANY_X mcdonalds corp . tick URL $ COMPANY_X $ xlv $ efa $ csu.to COMPANY_X investing nasdaq"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "erx direxion daily energy bull 3x shares shares URL $ erx $ flo $ tbev $ COMPANY_X erx pennystocks pennystocks"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "$ COMPANY_X shares boosted thanks to alldaybreakfast . on a related note , check out our marijuana-themed podcast from june URL"
+    },
+    "tweet2": {
+      "content": "AT_USER indeed . it's not like $ COMPANY_X is going to get more business . people are just going to get hash-browns instead of french fries ."
+    },
+    "tweet3": {
+      "content": "hands up if you eat breakfast all day ? scrambled eggs at 4pm ? $ COMPANY_X"
+    },
+    "tweet4": {
+      "content": "AT_USER $ COMPANY_X the 2:00 p . m . egg mcmuffin is here URL"
+    },
+    "tweet5": {
+      "content": "boo . how did hash browns get left behind in mcdonald's all-day breakfast ? - buzzfeed URL thanks AT_USER $ COMPANY_X"
+    },
+    "tweet6": {
+      "content": "the ad campaign for alldaybreakfast is pretty interesting . $ COMPANY_X ( via AT_USER URL URL"
+    },
+    "tweet7": {
+      "content": "$ COMPANY_X URL pot . cont . uptrend : intraweek 60m - 15m - 4m combo chart trading stocks URL"
+    },
+    "tweet8": {
+      "content": "rt AT_USER . AT_USER declares chick-fil-a the gold standard of chicken sandwiches after a blind taste test $ COMPANY_X $ shak"
+    },
+    "tweet9": {
+      "content": "my favorite dividend equities : $ cop $ cvx $ dlr $ dsl $ ge $ gsk $ hcn $ hcp $ hp $ ibm $ jnj $ kmi $ ko $ COMPANY_X $ mo $ nnn $ nov $ o $ ohi $ oke $ pci $ pdi $ pfe"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "gdxj market vectors junior gold miners tick URL $ gdxj $ ge $ COMPANY_X $ ewa gdxj finance share"
+    },
+    "tweet2": {
+      "content": "COMPANY_X mcdonalds corp . prev close URL $ COMPANY_X $ xli $ len $ ashr COMPANY_X stocks nasdaq"
+    },
+    "tweet3": {
+      "content": "COMPANY_X mcdonalds corp . current price URL $ COMPANY_X $ mmm $ xlb $ qld COMPANY_X share invest"
+    },
+    "tweet4": {
+      "content": "COMPANY_X mcdonalds corp . e . p . s . URL $ COMPANY_X $ drt.to $ drt.to $ tqqq COMPANY_X nasdaq nasdaq"
+    },
+    "tweet5": {
+      "content": "regn regeneron pharmaceuticals , inc . ex-div date URL $ regn $ iyr $ COMPANY_X $ cnq.to regn stockmarket finance"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "cmg chipotle mexican grill inc . news URL $ cmg $ fnma $ goog $ COMPANY_X cmg tradeideas nasdaq"
+    },
+    "tweet2": {
+      "content": "COMPANY_X mcdonalds corp . company info URL $ COMPANY_X $ auy $ salt $ xlk COMPANY_X invest invest"
+    },
+    "tweet3": {
+      "content": "mcdonald's making \" super-size \" move back to test all time high territory last couple wks , 104 strong resistance $ COMPANY_X URL"
+    },
+    "tweet4": {
+      "content": "history won't be kind to those who bought into the idea that $ shak would crush $ COMPANY_X URL"
+    },
+    "tweet5": {
+      "content": "blue bluebird bio inc . 52wk high URL $ blue $ hal $ googl $ COMPANY_X blue stock invest URL"
+    },
+    "tweet6": {
+      "content": "raisethewage URL welfare mcdonalds $ wmt $ COMPANY_X"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "rt AT_USER is your & x27 ; safe & #x27 ; income stream really all that safe ? URL $ dnkn $ hon $ jnj $ maa $ COMPANY_X $ pg $ se $ t"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "COMPANY_X mcdonalds corp . bid URL $ COMPANY_X $ rdsh $ tna $ aa COMPANY_X stocks tradeideas"
+    },
+    "tweet2": {
+      "content": "eog eog resources , inc . open URL $ eog $ qld $ COMPANY_X $ slv eog invest finance"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X : mcdonald ’ s corporation ( nyse : COMPANY_X ) given a crowd sourced … : URL"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "AT_USER AT_USER AT_USER AT_USER AT_USER stealth move in $ crm as well . should have held $ COMPANY_X longer , went for $ sbux"
+    },
+    "tweet2": {
+      "content": "rt AT_USER the tailwind of the $ COMPANY_X long thesis only gets stronger with lower beef prices ..."
+    },
+    "tweet3": {
+      "content": "$ bidu last price updated tuesday , october 13 , 2015 02:59 : 23 am $ inmg $ tvix $ fxy $ COMPANY_X URL"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "rt AT_USER mcdonald's all-day breakfast rollout went well , value coming next , company says $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "ewz brazil ishares p / e ratio URL $ ewz $ kgc $ xlf $ COMPANY_X ewz stocks nasdaqexel exelixis , inc . prev close …"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "$ slv investor opinions updated wednesday , october 14 , 2015 11:59 : 21 pm $ chk $ COMPANY_X $ idra $ fxe URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER lg cap all-time high list falls to 5 stocks : $ COMPANY_X $ ecl $ atvi $ awk $ ctas URL"
+    },
+    "tweet3": {
+      "content": "COMPANY_X mcdonalds corp . quotes URL $ COMPANY_X $ googl $ ewt $ pnow COMPANY_X investing financemo altria group inc . exchange …"
+    },
+    "tweet4": {
+      "content": "spxs direxion daily s & p 500 bear 3x shares last price URL $ spxs $ googl $ biol $ COMPANY_X spxs inv … URL"
+    },
+    "tweet5": {
+      "content": "$ COMPANY_X - wall street breakfast : earnings season kicks into high gear URL"
+    },
+    "tweet6": {
+      "content": "$ COMPANY_X news : \" mcdonald's closes +0.8 % , ' close ' to decision on real estate structure … \" URL analyze : URL"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "rt AT_USER mcdonald's franchisees say all-day breakfast is a nightmare URL $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "baba bank of america corp . stock forum URL $ baba $ aapl $ COMPANY_X $ celg baba pennystocks nasdaq"
+    },
+    "tweet3": {
+      "content": "ng nike inc . exchange URL $ ng $ img.to $ COMPANY_X $ swi ng tradeideas nasdaq"
+    },
+    "tweet4": {
+      "content": "nke direxion daily gold miners bull 3x shares ex-div date URL $ nke $ COMPANY_X $ dvy $ fit nke nasdaq stock"
+    },
+    "tweet5": {
+      "content": "flo federal national mortgage ask size URL $ flo $ iyt $ snc.to $ COMPANY_X flo investing finance"
+    },
+    "tweet6": {
+      "content": "$ COMPANY_X mcdonald : près de décider sur son immobilier ... URL"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "this is good but $ COMPANY_X wastes a time & effort on many diff initiatives that could be re-directed into operations URL"
+    },
+    "tweet2": {
+      "content": "undersize me ? mcdonald's franchise owners admit fast food giant \" facing its final days \" $ COMPANY_X URL"
+    },
+    "tweet3": {
+      "content": "mcdonald's a top investment idea at credit suisse URL premarket $ COMPANY_X"
+    },
+    "tweet4": {
+      "content": "rt AT_USER $ ibm $ sonc $ cmg $ cree $ vmw $ yhoo $ biib $ ebay $ mlnx $ sndk $ now $ cat $ fcx $ dnkn $ COMPANY_X $ p $ googl $ msft $ ftnt $ amzn $ ua URL"
+    },
+    "tweet5": {
+      "content": "COMPANY_X mcdonalds corp . exchange URL $ COMPANY_X $ intc $ aem $ eyes COMPANY_X investing tradeideas"
+    },
+    "tweet6": {
+      "content": "mcdonald's co . ' s buy rating reiterated at rbc capital . URL $ COMPANY_X COMPANY_X"
+    },
+    "tweet7": {
+      "content": "ashs deutsche x-trackers harvest csi 500 china a-shares small cap etf day low URL $ ashs $ dis $ aciw $ COMPANY_X ashs …"
+    },
+    "tweet8": {
+      "content": "rt AT_USER credit suisse says the real news on $ COMPANY_X : the us is turning . goes \" conviction buy \" URL"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "mcdonald's is starting to look like the restaurant world's comeback kid . $ COMPANY_X + 11 % this yr … URL URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER notable opening imbalances : $ wtw + 262k , $ bac - 260k , $ ge - 345k , $ ko - 141k , $ lly - 28k , $ aa + 75k , $ COMPANY_X - 42k"
+    },
+    "tweet3": {
+      "content": "mcdonald's is an interesting earnings play $ COMPANY_X URL"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "grab an egg mc big mac for the mcdonald ’ s earnings preview - dragonfly capital $ COMPANY_X URL URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER why mcdonald ’ s stock will never trade below $ 100 again via AT_USER URL $ COMPANY_X"
+    },
+    "tweet3": {
+      "content": "AT_USER $ COMPANY_X mcdonald's confirms monster test URL"
+    },
+    "tweet4": {
+      "content": "AT_USER $ COMPANY_X mcdonald's confirms monster test URL"
+    },
+    "tweet5": {
+      "content": "most anticipated earnings $ ua $ luv $ COMPANY_X $ cat $ lvs $ fcx $ ebay $ kmi $ siri $ lly $ mmm $ axp $ ual URL URL"
+    },
+    "tweet6": {
+      "content": "rt AT_USER here's the next step in mcdonald's turnaround plan . hint : it's about value . URL via AT_USER $ COMPANY_X"
+    },
+    "tweet7": {
+      "content": "rt AT_USER who follows the stocks i tweet about most ? $ googl $ aapl $ COMPANY_X $ tsla $ cop $ spy $ djia - are there any i don't post you follow ?"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "rt AT_USER mcdonald's stock hits record high as turnaround takes hold : URL $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "could cat's q3 be next driver for stuck shares ? earnings continue URL … $ amzn $ cat $ cmg $ ebay $ gm $ googl $ lly $ COMPANY_X $ pypl"
+    },
+    "tweet3": {
+      "content": "rt AT_USER early trend in these earnings moves , the traditional big co's , small movers , are making big moves $ txn $ COMPANY_X"
+    },
+    "tweet4": {
+      "content": "$ amzn $ cmg $ ebay $ COMPANY_X news : \" could cat's q3 be next driver for stuck shares ? … \" URL analyze : URL"
+    },
+    "tweet5": {
+      "content": "rt AT_USER draghi fever thursday – are you fed up with the bs yet ? $ fxi china ecb $ COMPANY_X $ spy $ dia - - URL http …"
+    },
+    "tweet6": {
+      "content": "rt AT_USER draghi fever thursday – are you fed up with the bs yet ? $ fxi china ecb $ COMPANY_X $ spy $ dia - - URL http …"
+    },
+    "tweet7": {
+      "content": "rt AT_USER foursquare says mcdonalds foot-traffic is up 9 % since co launched alldaybreakfast , on AT_USER $ COMPANY_X URL"
+    },
+    "tweet8": {
+      "content": "$ COMPANY_X short this"
+    },
+    "tweet9": {
+      "content": "website -> URL $ COMPANY_X reports thursday , consensus est . rev : $ 6440.22 m , eps : $ 1.27 URL"
+    },
+    "tweet10": {
+      "content": "$ COMPANY_X $ ebay : 10 stocks you should be watching today : URL"
+    },
+    "tweet11": {
+      "content": "rt AT_USER $ amzn news : \" 10 stocks you should be watching today $ amzn $ axp $ cat $ COMPANY_X $ msft … \" URL analyze : URL"
+    },
+    "tweet12": {
+      "content": "rt AT_USER draghi fever thursday – are you fed up with the bs yet ? $ fxi china ecb $ COMPANY_X $ spy $ dia - - URL http …"
+    },
+    "tweet13": {
+      "content": "rt AT_USER draghi fever thursday – are you fed up with the bs yet ? $ fxi china ecb $ COMPANY_X $ spy $ dia - - URL http …"
+    },
+    "tweet14": {
+      "content": "rt AT_USER dear AT_USER perfect case study as to why AT_USER failing can begin at williston , nd , outpost - - $ COMPANY_X"
+    },
+    "tweet15": {
+      "content": "rt AT_USER draghi fever thursday – are you fed up with the bs yet ? $ fxi china ecb $ COMPANY_X $ spy $ dia - - URL http …"
+    },
+    "tweet16": {
+      "content": "rt AT_USER draghi fever thursday – are you fed up with the bs yet ? $ fxi china ecb $ COMPANY_X $ spy $ dia - - URL http …"
+    },
+    "tweet17": {
+      "content": "rt AT_USER draghi fever thursday – are you fed up with the bs yet ? $ fxi china ecb $ COMPANY_X $ spy $ dia - - URL http …"
+    },
+    "tweet18": {
+      "content": "mcdonald's hits a home run URL $ COMPANY_X"
+    },
+    "tweet19": {
+      "content": "mcdonald's $ COMPANY_X q3 earnings per share ( eps ) beats estimates , $ 1.4 vs . $ 1.28 expected"
+    },
+    "tweet20": {
+      "content": "rt AT_USER mcdonald's $ COMPANY_X tops q3 eps by 12c URL"
+    },
+    "tweet21": {
+      "content": "$ COMPANY_X \" in the u . s . , third quarter comparable sales increased 0.9 % , the segment's first quarterly comparable sales increase in two years"
+    },
+    "tweet22": {
+      "content": "rt AT_USER $ COMPANY_X \" as we begin q4 , comparable sales are expected to be positive in all segments \" AT_USER"
+    },
+    "tweet23": {
+      "content": "it's been a long time since mcdonalds has hit a fresh record high . but it likely will at the open . $ COMPANY_X URL"
+    },
+    "tweet24": {
+      "content": "alldaybreakfast seems working .. $ COMPANY_X URL"
+    },
+    "tweet25": {
+      "content": "luv southwest airlines co . ideas URL $ luv $ COMPANY_X $ qid $ jnj luv share pennystocks"
+    },
+    "tweet26": {
+      "content": "stock alert : $ COMPANY_X surges to new all-time high ."
+    },
+    "tweet27": {
+      "content": "huge beat from mcdonalds could = huge rally : after 4 yrs of consolidation , no overhead resistance for $ COMPANY_X here URL"
+    },
+    "tweet28": {
+      "content": "rt AT_USER draghi fever thursday – are you fed up with the bs yet ? $ fxi china ecb $ COMPANY_X $ spy $ dia - - URL http …"
+    },
+    "tweet29": {
+      "content": "rt AT_USER draghi fever thursday – are you fed up with the bs yet ? $ fxi china ecb $ COMPANY_X $ spy $ dia - - URL http …"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "$ COMPANY_X $ gild : analyst recommendations on these stocks : mcdonald ’ s … : URL"
+    },
+    "tweet2": {
+      "content": "1 strike + 17 singles = 1 big home run for retirees URL $ arcc $ cop $ ctl $ cyh $ dow $ ed $ epr $ gmcr $ gov $ main $ COMPANY_X $ mo"
+    },
+    "tweet3": {
+      "content": "mcdonald ’ s shares hit all-time high as results beat forecasts URL $ COMPANY_X mcdonald's global 6013 AT_USER"
+    },
+    "tweet4": {
+      "content": "rt AT_USER edc direxion daily emerging markets bull 3x shares last price URL $ edc $ COMPANY_X $ rci / b.to $ fb edc trad …"
+    },
+    "tweet5": {
+      "content": "closing bell happyhour 10/22 stocks soar $ djia | earnings galore $ COMPANY_X $ cat | james cheers AT_USER in world series URL"
+    },
+    "tweet6": {
+      "content": "$ COMPANY_X : COMPANY_X stock – sales bump confirms that mcdonald ’ s is a buy for 2016 : URL"
+    },
+    "tweet7": {
+      "content": "AT_USER sir do u think \" the turnaroundking \" AT_USER could be next years ceo of the year ? disrupter imlovinit $ COMPANY_X"
+    },
+    "tweet8": {
+      "content": "$ COMPANY_X : mcdonald ’ s upgraded at piper jaffray ; firm sees $ 130 upside : URL"
+    },
+    "tweet9": {
+      "content": "sold $ luv 2 bags in $ athn $ COMPANY_X $ nflx $ fb"
+    },
+    "tweet10": {
+      "content": "rt scottrade : earnings expected thurs : $ googl $ msft $ amzn $ t $ COMPANY_X - 5 largest u . s . companies by market cap . resea … URL"
+    },
+    "tweet11": {
+      "content": "holy s ... $ COMPANY_X chinese sss were up over 26 % this quarter . monster number ."
+    },
+    "tweet12": {
+      "content": "$ COMPANY_X : mcdonald ’ s tops 3q earnings and revenue expectations : URL"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "$ COMPANY_X - is now the right time to buy mcdonald's corporation ? URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER $ COMPANY_X news : \" mcdonald ’ s to allow proxy access for major investors $ COMPANY_X \" URL analyze : URL"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X $ msft : the case for selling mcdonald ’ s corporation ( COMPANY_X ) and microsoft … : URL"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "rt AT_USER mcdonald's is testing out a new kind of fry : URL $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "dividend aristocrats part 15 of 52 : mcdonald's URL $ COMPANY_X"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "will cal-maine gain from mcdonald's menu strategy ? URL ibdnews via AT_USER $ calm $ COMPANY_X $ wmt $ sbux $ armk $ cost"
+    },
+    "tweet2": {
+      "content": "tvix velocityshares daily 2x vix short term etn e . p . s . URL $ tvix $ hd $ COMPANY_X $ uso tvix invest pennystockstwtr …"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "$ vrx percent change updated wednesday , october 28 , 2015 11:07 : 16 pm $ COMPANY_X $ vrx $ mo $ ewy URL"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "rt AT_USER global dividend top 10 dogs averaged 8.7 % yields on oct . 28 URL $ cig $ e $ ec $ elp $ fly $ hsbc $ COMPANY_X $ mil …"
+    },
+    "tweet2": {
+      "content": "AT_USER AT_USER people used to bemoan how bad $ COMPANY_X breakfast is , but when you make it all-day , then it becomes awesome ... ?"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "uso united states oil fund , lp e . p . s . URL $ uso $ dis $ COMPANY_X $ unp uso nasdaq finance"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "$ xly vs $ xlp spread continues to rip ! $ amzn $ dis $ hd $ COMPANY_X URL URL"
+    },
+    "tweet2": {
+      "content": "what to expect from a mcdonald's domestic reit URL $ COMPANY_X"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "bespokeinvest : rt 34bps : interesting $ COMPANY_X visit data from bespokeinvest trend plus any add on from breakfast cou … URL"
+    },
+    "tweet2": {
+      "content": "$ nflx $ COMPANY_X : significant services movers : netflix , inc . ( nasdaq : nflx … : URL"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "fxi ishares ftse china 25 index fund open URL $ fxi $ eght $ spxs $ COMPANY_X fxi stocks nasdaq"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X active , relative volume : 15.29 , 1h , 1:00 am , nyse $ dji $ spy URL … … … … … URL"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "americans like eating out , we like bite URL $ arco $ kona $ COMPANY_X $ sbux $ cmg $ ruth $ bite"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "$ COMPANY_X received a new alert . find out why at URL stocks daytrading trading mkt nyse nasdaq markets 455"
+    },
+    "tweet2": {
+      "content": "inside snapchat : the best upcoming tech ipo ? $ m $ COMPANY_X $ cmcsa $ yhoo $ baba $ fb URL … … … URL"
+    },
+    "tweet3": {
+      "content": "rt AT_USER tomorrow at 9a on AT_USER mcdonalds ceo AT_USER $ COMPANY_X URL"
+    },
+    "tweet4": {
+      "content": "rt AT_USER tomorrow at 9a on AT_USER mcdonalds ceo AT_USER $ COMPANY_X URL"
+    },
+    "tweet5": {
+      "content": "rt AT_USER in other words , our real estate is the only reason funds on this stock . we ’ re not ( that ) stupid . $ COMPANY_X URL"
+    },
+    "tweet6": {
+      "content": "rt AT_USER breaking : shares of $ COMPANY_X reopen for trading ; shares down 1.6 % after announcing it will not pursue reit , raises dividend ."
+    },
+    "tweet7": {
+      "content": "rt AT_USER more than 15 % of purchases outside of breakfast time now include breakfast food , $ COMPANY_X u . s . prez andres says ."
+    },
+    "tweet8": {
+      "content": "$ COMPANY_X halted"
+    },
+    "tweet9": {
+      "content": "$ COMPANY_X halted ... maybe they are laying off everyone at the rallies ! URL URL"
+    },
+    "tweet10": {
+      "content": "why wal-mart is no longer a good investment - - the motley fool $ COMPANY_X URL URL URL"
+    },
+    "tweet11": {
+      "content": "mcdonald's won't pursue reit URL $ COMPANY_X"
+    },
+    "tweet12": {
+      "content": "vti vanguard total stock market etf bid size URL $ vti $ COMPANY_X $ jcom $ fxe vti stockmarket stockmarket"
+    },
+    "tweet13": {
+      "content": "rt AT_USER $ COMPANY_X 2015 investor meeting , today URL - what should you look for ? ( ibd ) URL URL"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "analysts ’ recent ratings updates for mcdonald's co . $ COMPANY_X URL acn"
+    },
+    "tweet2": {
+      "content": "kate kate spade & co . company info URL $ kate $ xli $ vrx $ COMPANY_X kate investing investingkite kite pharma , inc . …"
+    },
+    "tweet3": {
+      "content": "COMPANY_X mcdonalds corp . news URL $ COMPANY_X $ pfe $ googl $ cybr COMPANY_X tradeideas stockmarket … … … … URL"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "emh . v emerald health therapeutics inc . short sales URL $ emh . v $ hot $ COMPANY_X $ myec emh . v stocks stock"
+    },
+    "tweet2": {
+      "content": "dividend growth stocks as of wednesday , november 11 , 2015 - URL - $ adp $ dct $ dhi $ COMPANY_X $ pru $ pfk $ rok $ rgld"
+    },
+    "tweet3": {
+      "content": "COMPANY_X mcdonalds corp . investor opinions URL $ COMPANY_X $ jnug $ ilmn $ smn COMPANY_X investing tradeideas"
+    },
+    "tweet4": {
+      "content": "rt AT_USER $ COMPANY_X's ceo : customers are telling us that we are running better restaurants than we were a year ago . URL"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "nugt direxion daily gold miners bull 3x shares bid size URL $ nugt $ xiv $ COMPANY_X $ sgy.to nugt finance pennystocks"
+    },
+    "tweet2": {
+      "content": "mcdonald's co . evp david ogden fairhurst sells $ 358,541 . 76 in $ COMPANY_X URL"
+    },
+    "tweet3": {
+      "content": "elli ellie mae inc . current price URL $ elli $ gequ $ f $ COMPANY_X elli nasdaq nasdaq"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "rt AT_USER in 2013 when $ COMPANY_X spoke to wall street analysts \" coffee \" or \" mccafe \" was mentioned 92 times ! at the 2015 mtg they were ment …"
+    },
+    "tweet2": {
+      "content": "ranks 1 with over 80 % in alert gains today . click here URL .. $ mca $ mcc $ COMPANY_X"
+    },
+    "tweet3": {
+      "content": "rt nrnonline : $ COMPANY_X to offer ‘ mcpick ’ 2 for $ 2 menu jonathanmaze URL URL"
+    },
+    "tweet4": {
+      "content": "mu micron technology , inc . shares URL $ mu $ xlb $ COMPANY_X $ cgc . v mu nasdaq stocks"
+    },
+    "tweet5": {
+      "content": "$ gdsi investor opinions updated monday , november 16 , 2015 07:59 : 21 am $ nati $ myec $ COMPANY_X $ tsla URL"
+    },
+    "tweet6": {
+      "content": "dow stocks trend $ dd $ ge $ dis $ gs $ v $ jpm $ jnj $ mmm $ msft $ trv $ utx $ mrk $ ko $ xom $ pg $ ba $ intc $ COMPANY_X $ cvx $ csco @ URL"
+    },
+    "tweet7": {
+      "content": "$ COMPANY_X active , relative volume : 12.78 , 1h , 11:00 pm , nyse $ dji $ spy URL … … … URL"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "ibb biotech ishares 52wk high URL $ ibb $ trvn $ goog $ COMPANY_X ibb stocks tradeideas"
+    },
+    "tweet2": {
+      "content": "tsla tesla motors inc . ask size URL $ tsla $ COMPANY_X $ mo $ biib tsla pennystocks nasdaq"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "rt AT_USER investing basics class tonight around 8: 00pm . restaurant stocks as our example . $ COMPANY_X $ sbux $ cmg"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X received a new alert . find out why at URL stocks daytrading trading mkt nyse nasdaq markets 590"
+    },
+    "tweet3": {
+      "content": "rt AT_USER when popeye's wants a big mac 😂 $ COMPANY_X URL"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "mathiaspau : rt kthirum 1 : mathiaspau : rt cabot_andre : as we frequently say \" the company is not the stock \" URL $ COMPANY_X $ aap …"
+    },
+    "tweet2": {
+      "content": "sgy.to surge energy inc . short sales URL $ sgy.to $ COMPANY_X $ baba $ zts sgy.to stockmarket stocks"
+    },
+    "tweet3": {
+      "content": "URL < <-- checkout super trades service it is truly amazing ! ! $ capn $ kbio $ crm $ COMPANY_X stocks"
+    },
+    "tweet4": {
+      "content": "commented on : \" income inequality is coming , are you prepared ? \" URL $ ezpw $ COMPANY_X $ mo $ umh"
+    },
+    "tweet5": {
+      "content": "rt AT_USER mcdonald's : protection from the downside URL $ COMPANY_X"
+    },
+    "tweet6": {
+      "content": "COMPANY_X mcdonalds corp . day high URL $ COMPANY_X $ sq $ xly $ gild COMPANY_X finance nasdaq"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "tvix canopy growth corp . last price URL $ tvix $ ctix $ vg $ COMPANY_X tvix finance stockmarket"
+    },
+    "tweet2": {
+      "content": "dozenstocks : dow stocks trend $ ko $ ba $ dis $ trv $ hd $ jnj $ v $ intc $ jpm $ pg $ COMPANY_X $ mrk $ msft $ utx $ ge $ aapl $ gs $ wm … URL"
+    },
+    "tweet3": {
+      "content": "fold amicus therapeutics , inc . investor opinions URL $ fold $ axpw $ aapl $ COMPANY_X fold tradeideas pennystocksfree …"
+    },
+    "tweet4": {
+      "content": "xbi spdr s & p biotech index etf news URL $ xbi $ qld $ COMPANY_X $ eem xbi stockmarket stockxiv velocityshares daily …"
+    },
+    "tweet5": {
+      "content": "$ COMPANY_X URL pot . intermed top in uptrend longerterm wly-dly-hly combo chart mcdonalds stocks URL"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "rost guggenheim s & p 500 pure growth etf news URL $ rost $ lmat $ COMPANY_X $ kold rost share investing"
+    },
+    "tweet2": {
+      "content": "qld proshares ultra qqq fund 52wk low URL $ qld $ COMPANY_X $ pfe $ lfe.to qld investing pennystocks"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "rt AT_USER mcdonald's breakfast burger mash-ups are now a reality $ COMPANY_X : URL URL"
+    },
+    "tweet2": {
+      "content": "tc.to teck resources ltd . ex-div date URL $ tc.to $ COMPANY_X $ efa $ vlo tc.to invest share"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "avxl alibaba group holding ltd . current price URL $ avxl $ gm $ sune $ COMPANY_X avxl finance share"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "xlb materials select sector spdr shares URL $ xlb $ uup $ ewz $ COMPANY_X xlb nasdaq share"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "$ COMPANY_X - can under armour inc shareholders find a blueprint in nike inc ? URL"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "chipotle mexican grill : the story behind the tumbling stock URL by trefis team $ cmg $ COMPANY_X $ sbux"
+    },
+    "tweet2": {
+      "content": "aria ariad pharmaceuticals , inc . market cap URL $ aria $ aapl $ COMPANY_X $ aapl aria stockmarket investatvi activision …"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "rt AT_USER mcdonald ’ s all-day breakfast is luring in customers , study finds URL $ COMPANY_X alldaybreakfast"
+    },
+    "tweet2": {
+      "content": "see why these assets are trending in 1 watchlist $ aria $ COMPANY_X $ txn $ vale $ wynn URL URL"
+    },
+    "tweet3": {
+      "content": "rt AT_USER $ shak $ COMPANY_X $ kkd shake shack or mcdonalds ? which should you buy ? URL"
+    },
+    "tweet4": {
+      "content": "bidu baidu , inc . ideas URL $ bidu $ gg $ cmg $ COMPANY_X bidu stockmarket stockmarket"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "investors sell shares of mcdonald's co . $ COMPANY_X on strength $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "COMPANY_X top news - dec 10th , 2015 $ COMPANY_X URL"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "URL < <-- checkout super trades service it is truly amazing ! ! $ capn $ kbio $ crm $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "are u ready for the next bear market ? $ tvix $ vix $ uvxy $ vxx stocks daytrading nyse $ goog $ msft $ bac $ c $ jpm $ wmt $ fb $ twt $ ko $ COMPANY_X $ spx"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "skx skechers usa , inc . ask URL $ skx $ COMPANY_X $ lnkd $ p.to skx stockmarket invest"
+    },
+    "tweet2": {
+      "content": "remember in early 2015 , when everyone said to sell $ COMPANY_X ? mcdonalds has had an amazing year ."
+    },
+    "tweet3": {
+      "content": "kbio kalobios pharmaceuticals , inc . e . p . s . URL $ kbio $ COMPANY_X $ nati $ sds kbio nasdaq investing"
+    },
+    "tweet4": {
+      "content": "ongoing play ' tnxp ' . full dd here : URL $ mcbk $ mcc $ COMPANY_X $ mcep $ mcf $ mcft $ mchi $ mchp"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "1of3 madmoneyespresso 12/20 / 15 $ googl $ fb $ expe $ ge $ hd $ nke $ kr $ COMPANY_X $ dri $ nflx $ dis $ crm $ atvi $ ea $ ttwo — 👍 $ yhoo $ twtr $ yelp $ … URL"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X : us mcdonald's exploring sale of stake in japanese arm mcdonald's corp URL sp500"
+    },
+    "tweet3": {
+      "content": "fcx freeport-mcmoran , inc . news URL $ fcx $ COMPANY_X $ dwti $ wmih fcx stock tradeideas"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "$ COMPANY_X you want highs with that ? URL"
+    },
+    "tweet2": {
+      "content": "baba alibaba group holding ltd . e . p . s . URL $ baba $ psk.to $ COMPANY_X $ rig baba stockmarket stockmarket"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "$ cmg midtown nyc chipotle at 1:21 pm . they asked me not to take more pics claiming policy . $ COMPANY_X across street busier URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER jeez - mcdonald's suddenly not looking so dumb for selling chipotle $ cmg $ COMPANY_X URL"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "rt URL COMPANY_X mcdonalds corp . e . p . s . URL $ COMPANY_X $ cslt $ expe $ xom COMPANY_X finance stocks"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "aapl apple , inc . bid size URL $ aapl $ uso $ COMPANY_X $ ccl.in aapl stock stock"
+    },
+    "tweet2": {
+      "content": "rt AT_USER stocks hitting all-time highs today : $ goog & $ googl $ COMPANY_X $ amzn $ rcl $ dps $ sjm URL"
+    },
+    "tweet3": {
+      "content": "rt AT_USER stocks hitting all-time highs today : $ goog & $ googl $ COMPANY_X $ amzn $ rcl $ dps $ sjm URL"
+    },
+    "tweet4": {
+      "content": "rt AT_USER stocks that set new record closing highs today : $ goog , $ googl , $ amzn , $ rcl , $ k , $ COMPANY_X , $ dps , $ kmb , $ tmo . URL"
+    },
+    "tweet5": {
+      "content": "AT_USER AT_USER those taxdodgers made $ 4 billion last year ! coughup ! leaners auspol $ COMPANY_X"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "$ aa recent news updated wednesday , december 30 , 2015 07:11 : 04 am $ nflx $ ko $ brcm $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER stocks that set new record closing highs today : $ goog , $ googl , $ amzn , $ rcl , $ k , $ COMPANY_X , $ dps , $ kmb , $ tmo . URL"
+    },
+    "tweet3": {
+      "content": "$ xly reviews updated tuesday , december 29 , 2015 7:07 : 08 pm $ COMPANY_X $ xbi $ vwo $ gdp URL"
+    },
+    "tweet4": {
+      "content": "gld spdr gold trust shares e . p . s . URL $ gld $ bax $ COMPANY_X $ tlt gld share invest"
+    },
+    "tweet5": {
+      "content": "rt AT_USER stocks hitting all-time highs today : $ goog & $ googl $ COMPANY_X $ amzn $ rcl $ dps $ sjm URL"
+    },
+    "tweet6": {
+      "content": "$ pacb investor opinions updated wednesday , december 30 , 2015 06:07 : 13 am $ COMPANY_X $ tsla $ nflx $ gpro URL"
+    },
+    "tweet7": {
+      "content": "ongoing play ' tnxp ' ' qure ' . full dd here : URL $ eqix $ mchp $ COMPANY_X $ mkc $ mck $ mdu $ mdt $ mcy"
+    },
+    "tweet8": {
+      "content": "wall street breakfast : the year stocks went nowhere URL $ spy $ qqq $ amzn $ dd $ dow $ fb $ iep $ jbaxy $ kbio $ COMPANY_X $ pby $ seas"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "COMPANY_X mcdonalds corp . ask size URL $ COMPANY_X $ nat $ axp $ slv COMPANY_X tradeideas stock"
+    },
+    "tweet2": {
+      "content": "zacks investment research downgrades mcdonald's co . $ COMPANY_X to hold URL"
+    },
+    "tweet3": {
+      "content": "$ v $ msft $ nke $ COMPANY_X $ hd $ ge $ dis URL"
+    },
+    "tweet4": {
+      "content": "if $ cmg drops 11 % to $ 432 it'll have the same trail p / e as $ COMPANY_X . $ cmg has more pricing power to inc . margins and likely better future growth"
+    },
+    "tweet5": {
+      "content": "3 best performing dow stocks of 2015 $ ge $ COMPANY_X $ nke also $ v $ dis $ unh $ msft URL"
+    }
+  }
+}

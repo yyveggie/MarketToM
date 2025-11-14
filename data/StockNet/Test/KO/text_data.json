@@ -1,0 +1,667 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "rt AT_USER why i don't think baron rothschild would be buying stocks today : URL $ ed $ COMPANY_X $ sanp dividendaristocra …"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "rt AT_USER xlp consumer staples select sector spdr 52wk low URL $ xlp $ ppch $ baba $ COMPANY_X xlp tradeideas share"
+    },
+    "tweet2": {
+      "content": "rt AT_USER breaking : mcdonald's $ mcd joins coca-cola $ COMPANY_X is calling for immediate resignation of fifa chief sepp blatter"
+    },
+    "tweet3": {
+      "content": "ibb biotech ishares 52wk low URL $ ibb $ tna $ myec $ COMPANY_X ibb tradeideas nasdaq"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "my favorite dividend equities : $ cop $ cvx $ dlr $ dsl $ ge $ gsk $ hcn $ hcp $ hp $ ibm $ jnj $ kmi $ COMPANY_X $ mcd $ mo $ nnn $ nov $ o $ ohi $ oke $ pci $ pdi $ pfe"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "brazil ’ s richest man dreams of taking over AT_USER jokes 200 people could run it URL $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "dia spdr dj industrial average etf trust market cap URL $ dia $ v $ COMPANY_X $ rdus dia stocks nasdaq"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "ibb biotech ishares dividend URL $ ibb $ COMPANY_X $ cybr $ tlt ibb pennystocks invest"
+    },
+    "tweet2": {
+      "content": "$ 1 million is not what it used to be in retirement URL $ jnj $ COMPANY_X $ lly $ syy $ t $ wmt"
+    },
+    "tweet3": {
+      "content": "COMPANY_X coca cola co . financials URL $ COMPANY_X $ f $ gnca $ bk COMPANY_X pennystocks investing"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "URL & URL see video and website for 20 free trades and ideas $ cms $ cl $ cma $ bk $ brk . b $ brk . a $ ba $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "our pick on $ hcti more than tripled for our members , in 3 weeks ! subscribe for our new picks : URL $ two $ COMPANY_X $ emr"
+    },
+    "tweet3": {
+      "content": "fslr first solar inc . ideas URL $ fslr $ iwm $ nke $ COMPANY_X fslr stock stocks"
+    },
+    "tweet4": {
+      "content": "COMPANY_X coca cola co . investor opinions URL $ COMPANY_X $ bcb.to $ acn $ sbux COMPANY_X stocks stock"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "COMPANY_X coca cola co . news URL $ COMPANY_X $ smh $ iwm $ au COMPANY_X share investing"
+    },
+    "tweet2": {
+      "content": "jpnl direxion daily japan bull 3x etf chart URL $ jpnl $ COMPANY_X $ dy $ amba jpnl invest finance"
+    },
+    "tweet3": {
+      "content": "our special stock pick on $ hcti , gained 500 % in 5 weeks ! big news : URL $ two $ COMPANY_X $ emr"
+    },
+    "tweet4": {
+      "content": "are paranoid income investors better income investors ? URL $ brk . b $ cost $ ibm $ COMPANY_X $ o $ pg"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "beverage giants pepsico and coca-cola fight for a stake in chobani $ COMPANY_X $ pep $ mnst $ gmcr URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER $ gmcr hearing more $ COMPANY_X to buy the rest chatter , careful we have this all the time"
+    },
+    "tweet3": {
+      "content": "news rt foxbusiness : coca-cola and kellogg respond to tom brady ’ s jabs : URL $ COMPANY_X $ k URL"
+    },
+    "tweet4": {
+      "content": "rt AT_USER coca-cola and kellogg respond to tom brady ’ s jabs : URL $ COMPANY_X $ k URL"
+    },
+    "tweet5": {
+      "content": "suja will be a billion-dollar brand for coca-cola $ COMPANY_X URL"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "$ ivv recent news updated tuesday , october 13 , 2015 11:11 : 01 pm $ sh $ baba $ svxy $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "rt AT_USER . AT_USER qb tom brady says AT_USER ‘ poison for kids ’ URL $ COMPANY_X AT_USER URL"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "AT_USER $ COMPANY_X coca-cola declares $ 0.33 dividend URL"
+    },
+    "tweet2": {
+      "content": "COMPANY_X coca cola co . bid size URL $ COMPANY_X $ tza $ td.to $ eem COMPANY_X nasdaq stock"
+    },
+    "tweet3": {
+      "content": "blta citigroup , inc . tick URL $ blta $ gdx $ COMPANY_X $ alfa blta investing stock"
+    },
+    "tweet4": {
+      "content": "COMPANY_X coca cola co . shares URL $ COMPANY_X $ hon $ feye $ spxl COMPANY_X stockmarket stocks"
+    },
+    "tweet5": {
+      "content": "coca-cola evp ahmet c . bozer sells 75,660 shares $ COMPANY_X URL acn"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "$ vz $ COMPANY_X $ amzn : what to watch in the stock market this week : URL"
+    },
+    "tweet2": {
+      "content": "dividend investing URL"
+    },
+    "tweet3": {
+      "content": "popular : $ wtw , $ ms , $ ino , $ ibm , $ COMPANY_X , $ lii , $ urbn , $ mtb , $ russ , $ vz , $ anf , $ ufcs , $ csiq , $ db"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "rt AT_USER notable opening imbalances : $ wtw + 262k , $ bac - 260k , $ ge - 345k , $ COMPANY_X - 141k , $ lly - 28k , $ aa + 75k , $ mcd - 42k"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "rt AT_USER coke volume : * soda up 2 % * non-carbonated up 6 % * water up 11 % $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "time to update the watchlist URL $ COMPANY_X $ spy $ dia $ qqq URL"
+    },
+    "tweet3": {
+      "content": "rt AT_USER $ COMPANY_X q3 2015 comparable eps $ 0.51 and reported eps $ 0.33 URL earnings"
+    },
+    "tweet4": {
+      "content": "rt AT_USER $ COMPANY_X organic net revenue grew 3 % and company gained global value share in nartd beverages in the quarter : URL"
+    },
+    "tweet5": {
+      "content": "+ 13 % pricing in lat am helped coke as it did all staples & faster growth in bottling ; but impressively pricing + 3 % in the us $ COMPANY_X $ pep"
+    },
+    "tweet6": {
+      "content": "oct 21 : spy map ; most active chatter $ biib $ cmg $ yhoo $ vmw $ mu $ ugaz $ klac $ gm $ twtr $ ba $ armh $ COMPANY_X $ isrg $ sndk --> URL"
+    },
+    "tweet7": {
+      "content": "staples proving real port in storm . despite em macro fears , many seeing accelerating trends $ COMPANY_X $ pep $ pm $ kmb $ ul reckitt sabmiller"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "coca-cola earnings : you can't turn a battleship on a dime $ COMPANY_X URL URL"
+    },
+    "tweet2": {
+      "content": "who would have guessed that $ COMPANY_X would be $ brka best performing stock this year"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "coca-cola receives sell rating from susquehanna $ COMPANY_X URL"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "$ aal $ COMPANY_X : active stocks to observe : american airlines group inc ( nasdaq … : URL"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X - j . p . morgan to consider adopting proxy access URL"
+    },
+    "tweet3": {
+      "content": "ahmet kent muhtar chairman & ceo sells $ 3,242 , 761 worth of $ COMPANY_X coca-cola company ( the ) common - form 4 ... - URL"
+    },
+    "tweet4": {
+      "content": "URL 7 free lessons from multimillionaire trader tim sykes ! $ COMPANY_X $ xom $ wmt"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "value added = negative \" heuermann lecture : howard g . buffett and howard w . buffett \" URL $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "fxe currency shares euro trust tick URL $ fxe $ COMPANY_X $ xlu $ jjc fxe invest pennystocks"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "coca-cola is a top-notch dividend stock URL $ COMPANY_X"
+    },
+    "tweet2": {
+      "content": "what every american needs to know about china's economy $ aapl $ brcm $ ge $ gs $ intc $ COMPANY_X $ qcom $ txn $ wynn $ yum : i ... URL"
+    },
+    "tweet3": {
+      "content": "$ COMPANY_X percent change updated thursday , october 29 , 2015 03:11 : 11 am $ ea $ wfc $ rxmd $ mfc URL"
+    },
+    "tweet4": {
+      "content": "$ COMPANY_X - coca-cola is a top-notch dividend stock URL"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet2": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet3": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet4": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet5": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet6": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet7": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet8": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet9": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet10": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet11": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet12": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet13": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet14": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet15": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet16": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet17": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet18": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet19": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet20": {
+      "content": "$ COMPANY_X - statement of changes in beneficial ownership ( 4 ) URL"
+    },
+    "tweet21": {
+      "content": "rt AT_USER . AT_USER fails sniff test . young $ COMPANY_X ? $ hsy 121 yr old . div payout ratio over 100 % . peg 2.5 . great brand over value …"
+    },
+    "tweet22": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet23": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet24": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet25": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet26": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet27": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet28": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet29": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet30": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet31": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet32": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet33": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet34": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet35": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet36": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet37": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet38": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet39": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet40": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet41": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet42": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet43": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet44": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet45": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet46": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet47": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet48": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet49": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet50": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet51": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet52": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet53": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet54": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet55": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet56": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet57": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet58": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet59": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet60": {
+      "content": "rt AT_USER $ ngcg AT_USER AT_USER it's go time local and national retail chains ~ URL $ tile $ nxpi $ COMPANY_X $ …"
+    },
+    "tweet61": {
+      "content": "jpm j . p . morgan chase & co . ideas URL $ jpm $ COMPANY_X $ googl $ joe jpm finance stockmarket URL"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "rt AT_USER AT_USER should be categorized as a vice stock and dropped by mutual funds . $ COMPANY_X might be worse than $ mo ."
+    },
+    "tweet2": {
+      "content": "wtr aqua america , inc . investor opinions URL $ wtr $ nok $ COMPANY_X $ aria wtr tradeideas finance"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "rt AT_USER the generation portfolio : reinvesting URL $ abr $ baba $ cys $ dis $ kmi $ COMPANY_X $ pfe $ pg"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "rt AT_USER year-over-year revenue growth : $ fb : 38 % $ ge : - 1 % $ pfe : - 2 % $ bac : - 3 % $ COMPANY_X : - 4 % $ jpm : - 6 % $ jnj : - 7 % $ pg : - 12 % $ xom : - 30 % t …"
+    },
+    "tweet2": {
+      "content": "for what's worth - never yrs have i seen / heard $ soda shorts more bitter than message heard today from mgt / / $ pep $ COMPANY_X $ dps shortsqueeze"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "COMPANY_X coca cola co . market cap URL $ COMPANY_X $ cm.to $ xlk $ smh COMPANY_X investing invest"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "$ ung last price updated tuesday , november 10 , 2015 4:10 : 59 pm $ slw $ COMPANY_X $ lng $ slv URL"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "rt AT_USER warren buffett vs . david einhorn : who is better at picking stocks ? URL $ aapl apple $ axp $ COMPANY_X $ msft $ mu …"
+    },
+    "tweet2": {
+      "content": "rt AT_USER that makes it interesting that instead of fighting munger by disproving his thesis , ackman hits with the unrelated $ COMPANY_X inves …"
+    },
+    "tweet3": {
+      "content": "$ brk . a $ COMPANY_X : the latest billionaire battle : ackman v buffett : URL"
+    },
+    "tweet4": {
+      "content": "AT_USER you could read about ackman's opinion on why $ COMPANY_X is evil to replace one hell with another ."
+    },
+    "tweet5": {
+      "content": "AT_USER AT_USER AT_USER AT_USER waiting for $ COMPANY_X to say something ."
+    },
+    "tweet6": {
+      "content": "rt AT_USER ackman to beat up munger in schoolyard . story developing . $ vrx $ COMPANY_X URL"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "hedge fund billionaire bill ackman has beef with warren buffett's investment in coke URL $ COMPANY_X URL …"
+    },
+    "tweet2": {
+      "content": "bac bank of america corp . e . p . s . URL $ bac $ smn $ COMPANY_X $ xle bac tradeideas pennystocks"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "COMPANY_X coca cola co . change URL $ COMPANY_X $ f $ td.to $ smn COMPANY_X invest stocks"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "dow stocks trend $ dd $ ge $ dis $ gs $ v $ jpm $ jnj $ mmm $ msft $ trv $ utx $ mrk $ COMPANY_X $ xom $ pg $ ba $ intc $ mcd $ cvx $ csco @ URL"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "biei premier biomedical , inc . ideas URL $ biei $ COMPANY_X $ smh $ googl biei invest stock … URL"
+    },
+    "tweet2": {
+      "content": "uwti velocityshares 3x long crude etn stock message board URL $ uwti $ xsb.to $ COMPANY_X $ pcln uwti investing share"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "gdx market vectors gold miners current price URL $ gdx $ tlt $ ua $ COMPANY_X gdx finance nasdaq"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "dozenstocks : dow stocks trend $ COMPANY_X $ ba $ dis $ trv $ hd $ jnj $ v $ intc $ jpm $ pg $ mcd $ mrk $ msft $ utx $ ge $ aapl $ gs $ wm … URL"
+    },
+    "tweet2": {
+      "content": "$ COMPANY_X URL"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "rt AT_USER sentishiftup $ skx $ kmi $ vscp $ mxl $ COMPANY_X fintech finserv URL 2015111 9-18 : 00"
+    },
+    "tweet2": {
+      "content": "recent investment analysts ’ ratings updates for coca-cola $ COMPANY_X URL"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "rt seekingalpha : the schwab u . s . dividend equity etf is better than social security URL $ cvx $ hd $ jnj $ COMPANY_X $ msft $ pfe $ …"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "unh unitedhealth group , inc . stock forum URL $ unh $ xlb $ gdxj $ COMPANY_X unh investing nasdaq"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "coca-cola : what's the 2016 dividend raise ? URL … $ COMPANY_X"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "ttcm roadships holdings , inc . stock message board URL $ ttcm $ cnq.to $ abx $ COMPANY_X ttcm investing share"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "$ amzn reviews updated sunday , december 6 , 2015 8: 59:20 pm $ azo $ gild $ hd $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "$ goog filings updated sunday , december 6 , 2015 9:06 : 40 pm $ amat $ euo $ COMPANY_X $ mu URL"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "coca-cola promotes three company veterans , including steckhan to president of u . s . ops URL via AT_USER $ COMPANY_X"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "rt URL bac bank of america corp . 52wk low URL $ bac $ dol.to $ wmih $ COMPANY_X bac stocks investing"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "URL 7 free lessons from multimillionaire trader tim sykes ! $ COMPANY_X $ xom $ wmt"
+    },
+    "tweet2": {
+      "content": "COMPANY_X coca cola co . 52wk low URL $ COMPANY_X $ cube $ xiu.to $ xle COMPANY_X stocks stocks"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "dow stocks $ COMPANY_X coca-cola daily : -1.15 % weekly : -2.36 % ytd : 0.96 % trend : 44 / 100 URL"
+    },
+    "tweet2": {
+      "content": "behavioral finance & the surprising role of psychology in the stock market URL $ nke $ COMPANY_X $ twtr $ gild $ tyl $ stz $ celg $ hd"
+    },
+    "tweet3": {
+      "content": "emergingmarkets : tangentially greek > > URL greece $ COMPANY_X $ pep $ grek"
+    },
+    "tweet4": {
+      "content": "are u ready for the next bear market ? $ tvix $ vix $ uvxy $ vxx stocks daytrading nyse $ goog $ msft $ bac $ c $ jpm $ wmt $ fb $ twt $ COMPANY_X $ mcd $ spx"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "URL learn the exact trading strategy that has allowed many people to trade for a living . $ COMPANY_X $ xom $ wmt $ tril"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "retirement strategy : it is time for a break , for real URL $ bgcp $ ed $ f $ fsp $ gm $ hcp $ jnj $ COMPANY_X $ main $ mat $ mo $ msft"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "trending stocks $ spy , $ ge , $ ewj , $ msft , $ qqq , $ t , $ intc , $ fb , $ baba , $ COMPANY_X URL"
+    },
+    "tweet2": {
+      "content": "elder green URL $ eem $ ewj $ msft $ vwo $ csco $ baba $ COMPANY_X $ key $ vz $ cvx $ amj $ abbv $ iemg $ oke $ aig $ xlp $ cog"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "$ cien short sales updated sunday , december 27 , 2015 9:10 : 44 pm $ csco $ COMPANY_X $ ntes $ aapl URL URL"
+    },
+    "tweet2": {
+      "content": "$ avgo stock price updated monday , december 28 , 2015 05:59 : 22 am $ fdn $ smn $ hway $ COMPANY_X URL"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "$ aa recent news updated wednesday , december 30 , 2015 07:11 : 04 am $ nflx $ COMPANY_X $ brcm $ mcd URL"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "vale companhia vale do rio doce sa bid size URL $ vale $ intc $ COMPANY_X $ cvs vale invest share"
+    },
+    "tweet2": {
+      "content": "rt AT_USER current market screenshot $ aapl $ amzn $ jnj $ fb $ ge $ bac $ dd $ c $ dis $ t $ vz $ nke $ COMPANY_X $ pep URL"
+    }
+  }
+}
