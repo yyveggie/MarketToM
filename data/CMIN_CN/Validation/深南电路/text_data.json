@@ -1,0 +1,313 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "通信跟踪周报：本周专题 Q2机构超配IDC、光模块以及物联网板块 持续看好科技新基建板块的绩优个股"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "国务院出手：3万亿芯片板块迎超重磅利好，细分龙头全梳理"
+    },
+    "tweet2": {
+      "content": "国务院出手 3万亿芯片板块迎超重磅利好"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "协和电子拟IPO：去年上半年人员离职率超过15%实力弱毛利率高 员工变动"
+    },
+    "tweet2": {
+      "content": "机械设备行业2020年8月月报：继续关注航空航天军工板块和中报恢复超预期标的"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "COMPANY_X(002916.SZ)控股股东因可转债转股导致权益被动稀释达到1%"
+    },
+    "tweet2": {
+      "content": "协和电子IPO：多项数据“打脸”，还曾卷入商业贿赂"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "【固收专题】电子产业链梳理与个券整理——可转债研究大图谱系列之五"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "下周35股分红实施，三角度寻找潜力股"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "科翔电子：业绩相比行业十强差距较大 板块涉热点估值偏高"
+    },
+    "tweet2": {
+      "content": "先进制造行业周报：选股回归业绩主线 概念继续关注航空航天军工和智能制造"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "【兴证固收·转债】内资PCB领先企业——景20转债投资价值分析"
+    },
+    "tweet2": {
+      "content": "好消息！COMPANY_X：2020年半年度净利润约7.24亿元，同比增加53.77%"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：上半年净利润同比增长53.77%"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(002916.SZ)：“深南转债”8月20日起停止交易"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(002916.SZ)拟向中航国际借款不超3亿元"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：“深南转债”停止交易日为8月20日"
+    },
+    "tweet7": {
+      "content": "COMPANY_X(002916.SZ)：上半年净利升53.77%至7.24亿元"
+    },
+    "tweet8": {
+      "content": "A股共发生119宗大宗交易成交27.99亿元（8月19日）"
+    },
+    "tweet9": {
+      "content": "深南电路今日大宗交易成交2万股，成交价141.9元溢价0.0%"
+    },
+    "tweet10": {
+      "content": "【朝闻国盛0824】苹果产业链持续超预期"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "【招商电子】COMPANY_X：业绩符合预期，通信/IDC需求景气叠加新产能释放"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(002916)：Q2业绩维持高增长 通信、数据中心、医疗等需求提升"
+    },
+    "tweet3": {
+      "content": "【华西电子孙远峰团队-持续推荐深南电路】封装基板快速增长，数通项目进展顺利"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(002916)：中报业绩维持高增 新增产能持续爬坡"
+    },
+    "tweet5": {
+      "content": "景20转债投资价值分析：内资PCB领先企业"
+    },
+    "tweet6": {
+      "content": "拆财报丨深南电路印刷电路板收入增速放缓，下半年将遭遇高基数考验 盈利能力下降"
+    },
+    "tweet7": {
+      "content": "COMPANY_X(002916)半年报点评：上半年业绩高增 通信PCB与载板起飞"
+    },
+    "tweet8": {
+      "content": "COMPANY_X(002916)：受益5G基建和数据中心建设 业绩高速增长"
+    },
+    "tweet9": {
+      "content": "【面包财报】COMPANY_X：2020年上半年归母净利润7.24亿元，同比增长53.77%"
+    },
+    "tweet10": {
+      "content": "【财报智读】COMPANY_X：2020年上半年归母净利润7.24亿元，同比增长53.77%"
+    },
+    "tweet11": {
+      "content": "安信证券：深南电路业绩符合预期 产品结构改善推动盈利能力显著提升"
+    },
+    "tweet12": {
+      "content": "COMPANY_X(002916)半年报点评：封装基板快速增长 数通项目进展顺利"
+    },
+    "tweet13": {
+      "content": "【安信电子|中报点评】COMPANY_X：业绩符合预期，新产能新业务注入长期发展动能"
+    },
+    "tweet14": {
+      "content": "【国金电子】COMPANY_X：业绩居上限，载板业务爬坡顺利有望释放弹性"
+    },
+    "tweet15": {
+      "content": "【兴业证券晨会聚焦0820】电子-深南电路中报点评；农业-温氏股份：养猪大量盈利养鸡承压；海外-思考乐教育走出大湾区能力逐步提升"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "广东PCB企业上半年增收更增利 紧锣密鼓备战下半年"
+    },
+    "tweet2": {
+      "content": "QFII持股曝光：举牌透景生命，青睐小盘绩优"
+    },
+    "tweet3": {
+      "content": "【国金晨讯】上调天味食品、长电科技、宝信软件盈利预测"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "214股获券商买入评级，金宏气体目标涨幅达93.90%"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "国内PCB龙头深南电路上半年营收净利双增，半导体国产化+5G时代大背景下乘风破浪丨领航100"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "拆财报丨沪电股份收入结构持续优化，公司谨慎对待产能投资"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "策略专题报告：“核心资产50、100”组合标的调整"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "电子行业周报：苹果产业链持续向好 半导体韧性依旧"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "COMPANY_X(002916.SZ)：控股股东持股比例被动稀释至67.04%"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：控股股东因可转换公司债券转股导致权益被动稀释达到1%"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "COMPANY_X：产能利用率略有回落 但仍处于较高水平"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "先进制造行业周报：适度配置前期超跌品种 关注业绩和订单超预期标的"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "通信行业本周专题：20H1通信设备商业绩明显改善 继续关注5G高景气领域"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "通信行业动态分析：Q2反弹带动H1业绩复苏 5G和流量主线短期扰动长期趋势不变"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "COMPANY_X：“深南转债”将在深交所摘牌"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(002916.SZ)：9月11日起“深南转债”将在深交所摘牌"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "信用负面周度回顾20200907-20200911"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "COMPANY_X：库存较大系因部分客户采用VMI合作模式"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "电路板指数猛涨，沪电股份率先涨停"
+    },
+    "tweet2": {
+      "content": "PCB板块大幅异动，沪电股份直线涨停"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "COMPANY_X：公司PCB产品主要以通信为主，汽车电子占较小"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "通信本周专题：阿里云进入2.0时代 云计算产业链加速推进 持续重点关注IDC、光模块、物联网等机会"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "《周观点》系列：电子周报：华为芯片供应迎转机助力预期改善 PCB预期修复毛正"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "技术依赖的重灾区-PCB产业链"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "COMPANY_X：公司为华为提供PCB等各类产品"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "通信行业：运营商加速布局“G+工业互联网”"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "COMPANY_X(002916)：通讯PCB维持增长 IC载板打造成长新核心"
+    }
+  }
+}

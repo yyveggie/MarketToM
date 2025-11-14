@@ -1,0 +1,349 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "人福医药关于股份回购进展情况的公告"
+    },
+    "tweet2": {
+      "content": "人福医药关于资产重组进展公告"
+    },
+    "tweet3": {
+      "content": "Wind快讯 每日医药行业动态（2020-8-3）"
+    },
+    "tweet4": {
+      "content": "积极推进！COMPANY_X：重组涉及的标的资产加期审计、评估工作已基本完成"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(600079.SH)：截至7月底累计耗资2亿元回购1.08%股份"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "“归核聚焦”：人福医药出售四川人福70%股权 资产异常"
+    },
+    "tweet2": {
+      "content": "晚间重要公告2020年8月5日星期三"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(600079.SH)拟3.62亿元向重药集团转让四川人福70%股权 资产异常"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：拟以3.62亿元将四川人福70%股权转让给重药集团 资产异常"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "知名药企子公司宣告破产，多家药企被并！ 减资破产"
+    },
+    "tweet2": {
+      "content": "人民金融·创新药指数来了！7月涨3.4%，COMPANY_X、华北制药、百济神州等重磅创新药取得积极进展"
+    },
+    "tweet3": {
+      "content": "知名药企3.6亿被出售 资产异常"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "又一明星药企剥离非核心业务，重药控股“史上最大规模并购”后再布局！医药行业并购重组潮或已来临？"
+    },
+    "tweet2": {
+      "content": "人福医药3.62亿出售四川人福70%股权 将减少有息债务约10亿优化负债结构 资产异常"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "A股早报2020年8月10日星期一"
+    },
+    "tweet2": {
+      "content": "推进“归核化”战略人福医药拟收购宜昌人福13%股权"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "聚焦核心业务 人福医药拟24亿元购3高管持有的宜昌人福13%股权"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "他达拉非片上市多元板块呈现 辗转杰士邦的国际化之路"
+    },
+    "tweet2": {
+      "content": "A股并购人气回暖，案例有增无减，名单新鲜出炉"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "人福医药关于控股股东股份质押的公告"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：控股股东当代科技质押约1265万股"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(600079.SH)半年度净利润升16.56%至3.92亿元"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：上半年净利润同比增长16.56%"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "800亿生意！中国人一年消费百亿只安全套，仅一家A股公司涉足"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "COMPANY_X(600079.SH)：定增并购案通过股东大会审核"
+    },
+    "tweet2": {
+      "content": "[路演]COMPANY_X：海外业务已覆盖欧美成熟市场以及南美等新兴市场"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "人福医药关于控股股东部分股份解除质押及再质押的公告"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(600079.SH)：坚定归核战略聚焦核心业务"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "12张图纵览外资A股持仓，高盛、小摩、领航重仓名单全披露"
+    },
+    "tweet2": {
+      "content": "业绩亏损严重，多家知名药企卖产业“瘦身”！ 亏损"
+    },
+    "tweet3": {
+      "content": "邓晓峰、王亚伟等私募大佬们最新A股持仓来了！"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "人福医药关于控股股东股份质押的公告"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(600079.SH)：已累计回购约2亿元的股份后续根据市况继续实施回购计划"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(600079.SH)控股股东质押150万股"
+    },
+    "tweet4": {
+      "content": "上市公司创新药8月报告：第一梯队在研品种近百个，抗肿瘤药占半壁江山"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "『医药头条君』女性抵抗阿尔茨海默病的能力更强"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：控股股东当代科技质押股数150万股，用于生产经营"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：总裁邓霞飞配偶等短线交易公司股票"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "晚间重要公告2020年9月3日星期四"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：重组事项近日上会 股票将于当日停牌 重大事项停牌"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(600079.SH)：资产重组事项近日上会当天停牌"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(600079.SH)：发行股份购买资产的申请获中证监受理"
+    },
+    "tweet5": {
+      "content": "人福医药董事、监事亲属短线交易公司股票，违反《证券法》相关规定 其他违规处罚"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "证监会：人福医药发行股份购买资产事项将于9月10日上会"
+    },
+    "tweet2": {
+      "content": "医药生物行业2020年中报业绩综述：上半年营收个位数下滑 Q2业绩好于Q1"
+    },
+    "tweet3": {
+      "content": "上市公司正负面新闻2020年9月4日星期五"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "17家百亿级私募二季度新进55只个股，9只遭减持"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "龙头落幕，新秀登场！2020年中国医药上市公司竞争力20强重磅公布"
+    },
+    "tweet2": {
+      "content": "晚间重要公告2020年9月9日星期三"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：重组事项9月10日上会，股票停牌"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：并购重组9月10日上会，股票当日停牌 重大事项停牌"
+    },
+    "tweet5": {
+      "content": "人福医药跌5.12%报32.22元，成交额4.58亿元"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "证监会：人福医药发行股份购买资产事项获有条件通过"
+    },
+    "tweet2": {
+      "content": "3亿人民币转让4家药企无人问津，上市药企出售资产成风背后的逻辑是什么？ 资产异常"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：重组事项获通过，明日复牌"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：重组事项获通过 明日复牌"
+    },
+    "tweet5": {
+      "content": "上市公司正负面新闻2020年9月10日星期四"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "业绩压力大，药企纷纷出售资产“瘦身” 资产异常"
+    },
+    "tweet2": {
+      "content": "A股早报2020年9月11日星期五"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "社保基金近10年赚了超万亿，连续8年持有24股"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "得润电子|是冯柳的菜，但不一定是你的"
+    },
+    "tweet2": {
+      "content": "人福医药关于中国证监会上市公司并购重组审核委员会审核意见回复的公告"
+    },
+    "tweet3": {
+      "content": "人气回升，并购案例突增，概念股持续走牛"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "诺思兰德闯关精选层：净利连续亏损 主打产品前景待考 亏损"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "医药行业投资策略：寻找“隐形”冠军"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "富时罗素指数调整今生效，北上资金买买买，这些股票尾盘异动"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "人福医药现1笔大宗交易 共成交11,368.00万元"
+    },
+    "tweet2": {
+      "content": "万亿巨头火速过会将登陆科创板 外资抢筹净买入近百亿"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "人福医药现2笔大宗交易 共成交5,504.60万元"
+    },
+    "tweet2": {
+      "content": "又一上市企业注销子公司 为求发展 药企纷纷走上“瘦身”路 减资破产"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "提升发展天际线，服务国家经济发展"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "人福医药现1笔大宗交易 共成交4,278.11万元"
+    },
+    "tweet2": {
+      "content": "人福医药杜文涛：创新驱动业绩提速 树立药企国际化发展样板"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "人福医药大涨5.31%，报32.90元"
+    }
+  }
+}

@@ -1,0 +1,659 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "COMPANY_X(002600.SZ)：控股股东解除质押合计1.1074亿股"
+    },
+    "tweet2": {
+      "content": "外资扫货136亿！4000亿大牛股却崩了"
+    },
+    "tweet3": {
+      "content": "苹果概念股强势反弹，电子ETF大涨3.5%"
+    },
+    "tweet4": {
+      "content": "苹果板块涨约4.5%，比亚迪涨超7%再创新高"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：受10月iPhone 12发布影响，股价或将有所波动"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "电子设备、仪器和元件行业周报：旺季来临蓄势待发 电子行业振翅跃飞"
+    },
+    "tweet2": {
+      "content": "600亿“果链”巨头闪崩！三大传闻突袭这家券商被拱上风口浪尖！"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "电子行业点评：IPHONE12系列新机发布 覆盖低中高价位市场"
+    },
+    "tweet2": {
+      "content": "电子行业2020年10月13日苹果发布会点评：IPHONE12进入5G新纪元"
+    },
+    "tweet3": {
+      "content": "iPhone12发布 领益智造等战略供应商业绩或迎增长"
+    },
+    "tweet4": {
+      "content": "电子行业重大事项点评-聚焦苹果发布会：首款5G手机落地 关注光学和无线化趋势"
+    },
+    "tweet5": {
+      "content": "揭秘苹果30家A股核心供应商：部分战略供应商业绩或迎增长"
+    },
+    "tweet6": {
+      "content": "iPhone 12终于亮相，券商最新观点汇总"
+    },
+    "tweet7": {
+      "content": "天地板闪崩又来了！A股“起风”，机构建议把握四条主线"
+    },
+    "tweet8": {
+      "content": "沪指午后下行跌逾0.7% 深圳国资改革板块走低"
+    },
+    "tweet9": {
+      "content": "A股午盘综述：上证指数半日下滑0.54%，苹果、半导体、猪肉板块领跌"
+    },
+    "tweet10": {
+      "content": "沪指跌逾0.5% 北向资金净流出超36亿元"
+    },
+    "tweet11": {
+      "content": "券商晨会观点速递"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "COMPANY_X(002600.SZ)：544.24万股限制性股票10月21日解禁 解禁"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：544万股限售股10月21日上市流通 解禁"
+    },
+    "tweet3": {
+      "content": "科技硬件行业动态：IPHONE12创新符合预期 5G及外观变化是主要亮点"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "电子设备、仪器和元件行业：IPHONE12预定量火爆 板块成长值得期待"
+    },
+    "tweet2": {
+      "content": "再创新纪录！刚刚 小米80W无线充电曝光 19分钟充满！概念股又要狂欢？"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "iPhone12首批卖断货，蓝思科技等消费电子核心标的获券商看好"
+    },
+    "tweet2": {
+      "content": "市场份额提升，接下来关注这一确定性机会"
+    },
+    "tweet3": {
+      "content": "苹果板块涨势不停，歌尔股份涨近5%"
+    },
+    "tweet4": {
+      "content": "银河证券每日晨报"
+    },
+    "tweet5": {
+      "content": "电子行业：IPHONE进入5G时代 看好新机未来销量"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "COMPANY_X(002600)：平台型供应商雏成 精密龙头上下游延伸再腾飞"
+    },
+    "tweet2": {
+      "content": "电子元件行业：IPHONE12系列预售火爆 销量提振值得期待"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "31股筹码连续3期集中"
+    },
+    "tweet2": {
+      "content": "苹果板块拉升，歌尔股份等涨幅靠前"
+    },
+    "tweet3": {
+      "content": "A股融资融券日报：两融余额增加6.01亿元（10月22日）"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "电子行业研究：Q4消费电子将迎较高出货动能 产业基金持续加码CIS存储等高端方向"
+    },
+    "tweet2": {
+      "content": "35股筹码连续3期集中"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "【国金电子】COMPANY_X：领益科技稳健增长，赛尔康整合超预期"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(002600.SZ)拟发行不超20亿元中期票据及不超20亿元超短期融资券"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：第三季度净利润8.11亿元同比减少17.73% 盈利能力下降"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(002600.SZ)第三季度归母净利润同比下降17.73%至8.11亿元 盈利能力下降"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(002600.SZ)：前三季净利降31.34%至14.42亿元 盈利能力下降"
+    },
+    "tweet6": {
+      "content": "电子行业周报：IPHONE新机加单 供应链迎来新一轮成长周期"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "光弘科技(300735.SZ)为子公司光弘投资引进新投资者领益智造"
+    },
+    "tweet2": {
+      "content": "【安信电子|季报点评】COMPANY_X：业绩符合预期，发挥协同效应长期成长可期"
+    },
+    "tweet3": {
+      "content": "【天风电子】COMPANY_X：毛利新高，成品业务开始发力"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(002600)：三季度扣非高增长 结构件、充电器业务扭亏为盈"
+    },
+    "tweet5": {
+      "content": "领益智造Q3业绩超市场预期 公司市值正式突破千亿"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：2020年前三季度归母净利同比减少31.34% 业务垂直整合加速 盈利能力下降"
+    },
+    "tweet7": {
+      "content": "39股筹码连续3期集中"
+    },
+    "tweet8": {
+      "content": "A股收盘综述：上证指数录升0.46%收复五日线未果，创业板、中小板连涨三日"
+    },
+    "tweet9": {
+      "content": "快讯：消费电子板块午后持续走强 领益智造触及涨停"
+    },
+    "tweet10": {
+      "content": "消费电子板块持续拉升 领益智造触及涨停"
+    },
+    "tweet11": {
+      "content": "【行情】消费电子板块午后持续走强，领益智造触及涨停，蓝思科技涨超8%，歌尔股份、奥海科技、漫步者等个股全线大涨"
+    },
+    "tweet12": {
+      "content": "苹果板块涨幅继续扩大，COMPANY_X、歌尔股份均创新高"
+    },
+    "tweet13": {
+      "content": "苹果概念大涨！多只龙头业绩超预期 重磅消息不断"
+    },
+    "tweet14": {
+      "content": "【行情】苹果产业链午后持续拉升，蓝思科技、领益智造大涨超7%，电子ETF上涨1.65%，成交近亿元"
+    },
+    "tweet15": {
+      "content": "苹果概念股全线拉升，电子ETF涨1.65%"
+    },
+    "tweet16": {
+      "content": "【财报智读】COMPANY_X：第三季度归母净利润8.11亿元，同比下降17.71% 盈利能力下降"
+    },
+    "tweet17": {
+      "content": "【面包财报】COMPANY_X：第三季度归母净利润8.11亿元，同比下降17.71% 盈利能力下降"
+    },
+    "tweet18": {
+      "content": "明星基金经理最新持仓大曝光！"
+    },
+    "tweet19": {
+      "content": "COMPANY_X：前三季度净利润同比减少31.34%"
+    },
+    "tweet20": {
+      "content": "【行情】苹果概念大涨，蓝思科技涨6%，欧菲光、歌尔股份、横店东磁、COMPANY_X、环旭电子纷纷拉升"
+    },
+    "tweet21": {
+      "content": "苹果概念股逆市活跃，蓝思科技升超5%"
+    },
+    "tweet22": {
+      "content": "筹码连续集中股名单 领益智造较上期降20%"
+    },
+    "tweet23": {
+      "content": "COMPANY_X：跻身千亿俱乐部，长期布局初见成效"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "COMPANY_X：李晓青合计减持0.0053%公司股份 减持股份"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(002600.SZ)股东李晓青已减持合计37.5万股 减持计划已完成 拟减持股份"
+    },
+    "tweet3": {
+      "content": "三季度五大机构持仓路径曝光！"
+    },
+    "tweet4": {
+      "content": "43股股东户数连续下降（附股）"
+    },
+    "tweet5": {
+      "content": "光弘科技携手华勤技术、领益智造布局越南 推进全球化战略"
+    },
+    "tweet6": {
+      "content": "苹果概念股走势分化，立讯精密、蓝思科技、鹏鼎控股、领益智造逆市下跌"
+    },
+    "tweet7": {
+      "content": "【财报智读】COMPANY_X：第三季度归母净利润同比下降17.73% 盈利能力下降"
+    },
+    "tweet8": {
+      "content": "融资客青睐15股，冠豪高新买入占比高达48.47%"
+    },
+    "tweet9": {
+      "content": "COMPANY_X：受让光弘投资24.5%股权各方共同出资设立越南子公司"
+    },
+    "tweet10": {
+      "content": "COMPANY_X：拟通过光弘投资共同出资12000万美元设立越南子公司"
+    },
+    "tweet11": {
+      "content": "COMPANY_X(002600.SZ)：携手光弘、华勤在越南投资拓展组装制程及深化海外业务"
+    },
+    "tweet12": {
+      "content": "光弘科技等三方拟共同出资1.2亿美元设立越南子公司"
+    },
+    "tweet13": {
+      "content": "北向资金回流，积极加仓银行板块，超12亿资金杀入特斯拉概念股（附名单）"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "苹果板块午后拉升，立讯精密、京东方A、歌尔股份、蓝思科技、鹏鼎控股普涨"
+    },
+    "tweet2": {
+      "content": "北上资金调仓！抢筹回购王，连续八个月加仓3股"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "2020年11月金股组合：兴证策略&多行业"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "苹果概念股继续活跃，立讯精密、歌尔股份、蓝思科技、COMPANY_X、长电科技普涨"
+    },
+    "tweet2": {
+      "content": "电子行业周报：IPHONE销量继续火爆 半导体基本面改善"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "销售靠中介 研发靠大专?"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "电子行业研究：电子行业景气度上行 看好苹果产业链Q4 业绩"
+    },
+    "tweet2": {
+      "content": "电子行业：苹果季报及产业链跟踪：正向解读CQ3 把握苹果链大趋势"
+    },
+    "tweet3": {
+      "content": "44股获券商买入评级，胜宏科技目标涨幅达57.06%"
+    },
+    "tweet4": {
+      "content": "【国金电子】Q3总结：电子行业景气度上行，看好苹果产业链Q4业绩"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "45股股东户数连降 筹码持续集中"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "最新股东户数揭秘：这46股股东户数连降三期"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "2020年年末主要宽基指数样本股调整预测：电子和医药行业个股升档较多"
+    },
+    "tweet2": {
+      "content": "量化｜电子和医药行业个股升档较多：2020年年末主要宽基指数样本股调整预测"
+    },
+    "tweet3": {
+      "content": "“抢筹”A股定增，外资机构投资路线图浮现"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "科技产业2021年投资策略：科技进步与中美再平衡下的新机遇"
+    },
+    "tweet2": {
+      "content": "中信证券：A股科技板块估值回调后配置价值进一步凸显"
+    },
+    "tweet3": {
+      "content": "电子行业2021年度策略报告：深练内功 厚积薄发"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "外资私募加速布局中国市场，年内调研聚焦三行业"
+    },
+    "tweet2": {
+      "content": "TMT一周谈之电子行业：LCD缺货依旧 家庭教育数字化加速"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "华泰证券：“数字+科技”的化学变化正发生 2021年看好四条主线（附股）"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "苹果隐瞒真相曝光！赔付7.4亿，承认iPhone12有缺陷"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "电子制造行业专题研究：未来三年谁会胜出？"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "消费电子行业研究：苹果强周期延续 重申看好产业链投资机会"
+    },
+    "tweet2": {
+      "content": "主力资金今日延续金融股偏好 白酒股遭大幅净卖出"
+    },
+    "tweet3": {
+      "content": "A股收盘综述：上证指数冲高回落跌0.49%，当月仍录升超5%"
+    },
+    "tweet4": {
+      "content": "A股午盘综述：上证指数半日涨超1%，金融股推升大盘"
+    },
+    "tweet5": {
+      "content": "苹果板块拉升，COMPANY_X、鹏鼎控股接近涨停"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "11月金股组合盈利1.33% 12月荐股名单出炉"
+    },
+    "tweet2": {
+      "content": "兴业证券：11月金股组合盈利2.69% 12月荐股名单出炉"
+    },
+    "tweet3": {
+      "content": "天风证券：电子制造未来三年谁会胜出？"
+    },
+    "tweet4": {
+      "content": "电子行业周报：IPHONE供应链迎来新一轮成长周期 功率半导体有望迎来涨价潮"
+    },
+    "tweet5": {
+      "content": "【兴业证券晨会聚焦1201】宏观-11月PMI数据点评；策略-12月A股金股组合；海外-12月港股金股组合"
+    },
+    "tweet6": {
+      "content": "“魔咒”再现，北向资金最后一分钟净流入超200亿元！增持个股一览"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "千亿市值股票冲上涨停，幕后推手是谁？"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "两融透析：大盘冲高震荡, 领益智造融资盘小幅流入"
+    },
+    "tweet2": {
+      "content": "北向资金显著回流科技股，两面板龙头股价水涨船高"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "深交所：对连续多日涨幅异常的“中水渔业”持续进行重点监控"
+    },
+    "tweet2": {
+      "content": "领益智造原实控人汪南东被谴责 未履行限售承诺等违规 其他违规处罚"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "COMPANY_X：前实控人汪南东被深交所谴责与公司无关"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "电子投资新机遇：新时代、新格局"
+    },
+    "tweet2": {
+      "content": "TMT一周谈之电子行业：被动件高景气延续 3C创新仍可期"
+    },
+    "tweet3": {
+      "content": "电子行业周报：IPHONE、面板产业链持续高景气 继续看好汽车电子"
+    },
+    "tweet4": {
+      "content": "【银河电子】2021年度策略：新时代、新格局、电子投资新机遇"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "苹果计划明年提高iPhone产量，相关产业链将持续受益丨牛熊眼"
+    },
+    "tweet2": {
+      "content": "电子周报：部分芯片缺货影响镜头放量 半导体芯芯向荣"
+    },
+    "tweet3": {
+      "content": "中信建投TMT团队最新研究观点"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "【行情】苹果概念跳水，领益智造跌5%，闻泰科技跌4%，海能实业、长信科技小幅下挫"
+    },
+    "tweet2": {
+      "content": "盘前情报丨全球巨头争抢镍资源；苹果计划提升30% iPhone产量，产业链或受益（附股）"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "A股持续“醉酒”，北向资金大幅增持酿酒板块，机构坚定看好头部白酒龙头（附股）"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "COMPANY_X(002600.SZ)拟推2020年股票期权与限制性股票激励计划"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "【天风电子】COMPANY_X：股权激励绑定核心团队，看好公司未来发展"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(002600.SZ)拟收购珠海伟创力作为粤港澳大湾区重要生产基地"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：拟通过全资子公司收购珠海伟创力100%股权"
+    },
+    "tweet4": {
+      "content": "27股今日获机构买入评级"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(002600)：股权激励彰显公司信心 打造消费电子一站式平台"
+    },
+    "tweet6": {
+      "content": "COMPANY_X(002600)：股权激励绑定员工利益 行权条件显高增信心"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "31股今日获机构买入评级"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(002600)：股权激励彰显发展信心 垂直化整合贡献核心增长点"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(002600)重大事项点评：收购伟创力珠海加码组装 股权激励彰显信心"
+    },
+    "tweet4": {
+      "content": "因生产基地需要，领益智造拟收购珠海伟创力100%股份"
+    },
+    "tweet5": {
+      "content": "周三机构一致看好的七大金股（12.23）"
+    },
+    "tweet6": {
+      "content": "24股获券商买入评级 豪能股份目标涨幅达126%"
+    },
+    "tweet7": {
+      "content": "5股获买入评级 最新:COMPANY_X"
+    },
+    "tweet8": {
+      "content": "【招商电子】COMPANY_X：收购珠海伟创力加码成品布局，股权激励彰显信心"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "与华为“分手”一年多，年收入仅百万，资产总额急剧下降 伟创力实业将被领益智造收购 盈利能力下降"
+    },
+    "tweet2": {
+      "content": "去年宣布“停止为华为代工”的伟创力子公司，被领益智造收购"
+    },
+    "tweet3": {
+      "content": "“捅刀”华为后一直停工，伟创力无奈变卖珠海工厂 经营问题"
+    },
+    "tweet4": {
+      "content": "28股获券商买入评级，创世纪目标涨幅达64.11%"
+    },
+    "tweet5": {
+      "content": "与华为“闹掰”一年多，伟创力实业年收入仅百万，终被卖给领益制造"
+    },
+    "tweet6": {
+      "content": "领益智造接盘伟创力实业100%股权 后者被剔出华为供应链后停工已一年多 经营问题"
+    },
+    "tweet7": {
+      "content": "与华为“闹掰”一年多，伟创力实业年收入仅百万，终被卖给领益智造"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "电子行业2021年投资策略报告：经济复苏创新驱动 电子行业景气上行"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(002600)：收购珠海伟创力 拓展组装业务布局"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "电子周报：快充和激光雷达步入快车道 半导体景气度高昂"
+    },
+    "tweet2": {
+      "content": "电子行业周报：小米11取消标配充电头 关注快充投资机遇"
+    },
+    "tweet3": {
+      "content": "苹果板块下挫逾2%，立讯精密、工业富联、COMPANY_X、欧菲光等普跌"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "COMPANY_X(002600.SZ)：约3.22亿股限售股1月6日解禁 解禁"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：占总股本4.5748%限售股将于2021年1月6日上市流通 解禁"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "领益智造拟为土耳其赛尔康提供最高不超5000万美元担保 大额借贷担保"
+    },
+    "tweet2": {
+      "content": "领益智造拟为旗下4家公司提供最高8.1亿元担保 大额借贷担保"
+    },
+    "tweet3": {
+      "content": "领益智造为苏州领裕2亿元授信提供担保 大额借贷担保"
+    },
+    "tweet4": {
+      "content": "领益智造为成都领益提供担保，额度提高至8.24亿元 大额借贷担保"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：拟为子公司的融资或其他履约义务提供不超过313.24万元担保 担保风险"
+    },
+    "tweet6": {
+      "content": "A股融资融券日报：两融余额增加73.97亿元（12月30日）"
+    }
+  }
+}

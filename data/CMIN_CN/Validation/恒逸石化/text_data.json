@@ -1,0 +1,403 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "石油化工／基础化工行业周报(第三十一周)"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "石油天然气行业：炼化板块投资热度快速升温；建议关注滞涨标的补涨机会"
+    },
+    "tweet2": {
+      "content": "透视大宗交易：8月5日共成交71笔，COMPANY_X、卫宁健康成交额居前"
+    },
+    "tweet3": {
+      "content": "恒逸石化现5笔大宗交易 共成交18,920.00万元"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "A股早报2020年8月6日星期四"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "石油加工行业每周炼化：聚酯市场“至暗时刻”已过？"
+    },
+    "tweet2": {
+      "content": "石油石化行业周报：国际原油价格上涨 PTA-PX价差扩大"
+    },
+    "tweet3": {
+      "content": "石油化工/基础化工行业周报(第三十二周)"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "中国短期融资券及中期票据信用分析周报"
+    },
+    "tweet2": {
+      "content": "深度*行业*化工行业2020半年报前瞻：产品价格重心整体下移 公司业绩承压 盈利能力下降"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "能源行业日报：中海油发半年报 资本支出维持较高水平"
+    },
+    "tweet2": {
+      "content": "A股午盘综述：上证指数午盘下滑0.3%，疫苗板块跌6%"
+    },
+    "tweet3": {
+      "content": "石油化工板块连续拉升，荣盛石化涨近6%、恒逸石化涨3%"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "恒逸石化现1笔大宗交易 共成交1,006.48万元"
+    },
+    "tweet2": {
+      "content": "A股早报2020年8月21日星期五"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "石油化工／基础化工行业周报(第三十四周)"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "【重磅|深度，开源煤炭&石化】桐昆股份：长丝龙头受益需求复苏，参股浙石化布局一体化"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "恒逸石化中报业绩大增 5-10亿回购股份彰显信心"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000703.SZ)：拟回购5亿元-10亿元公司股份 回购价不超15元/股"
+    },
+    "tweet3": {
+      "content": "【华安化工】COMPANY_X：文莱项目投产带动业绩增长，股份回购彰显信心"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：拟回购股份"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：前三季度预计净利润同比增长35.52%~53.59%"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：拟5亿元至10亿元回购股份"
+    },
+    "tweet7": {
+      "content": "COMPANY_X(000703.SZ)：上半年净利升48.99%至19.02亿元"
+    },
+    "tweet8": {
+      "content": "COMPANY_X：拟以5亿元-10亿元回购公司股份"
+    },
+    "tweet9": {
+      "content": "COMPANY_X：上半年净利润同比增长48.99%"
+    },
+    "tweet10": {
+      "content": "恒逸石化2020中报点评：文莱项目抗风险能力强，回购彰显对未来发展的信心"
+    },
+    "tweet11": {
+      "content": "融资客青睐10股，新华传媒买入占比高达40.31%"
+    },
+    "tweet12": {
+      "content": "【方正化工】化工周报：万华 MDI 挂牌价持续上调，万华玲珑等公司上价值榜"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "COMPANY_X(000703)：文莱项目带动业绩增长 回购股份彰显发展信心"
+    },
+    "tweet2": {
+      "content": "石油化工行业周报：渐行渐近的石化周期 飓风影响美国炼化产能或致短期供给紧张"
+    },
+    "tweet3": {
+      "content": "A股收盘综述：上证指数8月涨2.59%月线5连阳，白酒指数连续4月涨超10%"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(000703)：经营有望持续改善 回购计划彰显信心"
+    },
+    "tweet5": {
+      "content": "基础化工行业周报：油价上涨 聚合MDI、液氯、PVC糊树脂、纯碱、DMF等产品价格上升"
+    },
+    "tweet6": {
+      "content": "股王茅台冲破1800元！A股全面开花挑战新高"
+    },
+    "tweet7": {
+      "content": "快讯：恒逸石化涨停 报于12.71元"
+    },
+    "tweet8": {
+      "content": "恒逸石化上半年净利润大增49% 三季报预增36%-54%"
+    },
+    "tweet9": {
+      "content": "A股午盘综述：上证指数半日升0.8%，贵州茅台股价突破1800元创新高"
+    },
+    "tweet10": {
+      "content": "恒逸石化封住涨停提振石油化工板块，齐翔腾达、恒力石化、中油工程均大涨"
+    },
+    "tweet11": {
+      "content": "COMPANY_X(000703)：上半年净利润同比增长49%"
+    },
+    "tweet12": {
+      "content": "COMPANY_X(000703)2020年半年报点评报告：长丝毛利率提升、文莱项目投产 净利增49%"
+    },
+    "tweet13": {
+      "content": "受疫情影响，恒逸石化2020年上半年营收同比减少5.55% 盈利能力下降"
+    },
+    "tweet14": {
+      "content": "A股早报2020年8月31日星期一"
+    },
+    "tweet15": {
+      "content": "COMPANY_X(000703)：2Q20业绩符合预期；聚酯龙头逆周期稳增长 文莱炼厂渐入佳境"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "每周炼化：坯布小幅去库存？"
+    },
+    "tweet2": {
+      "content": "全产业链优势凸显 多家民营石化上市公司业绩爆发"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "中报出炉 萧企A股上市公司营收1600亿"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000703)：业绩环比持续增长，产业链均衡一体"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(000703)半年报点评报告：文莱项目平稳推进 助力公司业绩持续增长"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(000703)2020中报：聚酯主业好于预期 文莱炼化贡献增量"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "行业解读之石油化工"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "化工行业周报：看好优质赛道成长标的 关注维生素及周期白马龙头"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "石油加工行业每周炼化：织机开工率回升！"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "【方正化工】化工周报：万华化学BC装置复产，恒逸石化拟建文莱炼化二期"
+    },
+    "tweet2": {
+      "content": "石油化工-“炼化-化纤”产业链周报：油价大跌9% 美国十多年来首次新增PP产能"
+    },
+    "tweet3": {
+      "content": "恒逸石化现1笔大宗交易 共成交12,222.00万元"
+    },
+    "tweet4": {
+      "content": "石油化工行业周报：炼厂开工率降低影响原油需求 海外石化供给受损、国内需求向好"
+    },
+    "tweet5": {
+      "content": "中小盘增发并购双周报：市场回调 但新政以来定增胜率依旧超95%"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "晚间重要公告2020年9月15日星期二"
+    },
+    "tweet2": {
+      "content": "恒逸石化股份：董事，监事，总裁发生变动 董监高成员变化"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(000703.SZ)：拟聘任邱奕博为公司总裁、毛应为财务总监"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(000703.SZ)：子公司拟136.54亿美元投建文莱炼化二期项目"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：子公司拟逾136亿美元投建文莱炼化二期项目"
+    },
+    "tweet6": {
+      "content": "恒逸石化现1笔大宗交易 共成交9,408.00万元"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "【方正化工】恒逸石化事件点评：拟建文莱炼化二期，化工品占比进一步提升"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000703)：拟建设文莱二期项目 进一步打开成长空间"
+    },
+    "tweet3": {
+      "content": "中国在文莱最大投资项目拟投建二期工程"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(000703)：文莱炼化二期项目规划公布 一体化优势继续加强"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "恒逸石化现1笔大宗交易 共成交1,470.87万元"
+    },
+    "tweet2": {
+      "content": "恒逸又有大动作！投资924亿出海赴文莱投建石化大项目"
+    },
+    "tweet3": {
+      "content": "26股获券商买入评级，雅克科技目标涨幅达83.90%"
+    },
+    "tweet4": {
+      "content": "【晨观方正】房地产8月统计局数据点评/特斯拉产业链强者恒强/比亚迪/卫星石化/恒逸石化20200917"
+    },
+    "tweet5": {
+      "content": "中信证券股份有限公司关于恒逸石化股份有限公司公司债券重大事项受托管理事务临时报告"
+    },
+    "tweet6": {
+      "content": "信达能源开采左前明团队 | 立足产业、深度研究！"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "A股共发生162宗大宗交易成交51.67亿元（9月18日）"
+    },
+    "tweet2": {
+      "content": "恒逸石化现1笔大宗交易 共成交59,000.00万元"
+    },
+    "tweet3": {
+      "content": "疫情之下的涤纶长丝\"2020上半场\" 前三企业已占近半壁江山"
+    },
+    "tweet4": {
+      "content": "恒逸石化文莱二期项目正式官宣拟投资逾136亿美元"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "石油化工行业周报：炼厂开工率降低影响原油需求 海外石化供给受损、国内需求向好"
+    },
+    "tweet2": {
+      "content": "石油化工／基础化工行业周报(第三十八周)"
+    },
+    "tweet3": {
+      "content": "A股早报2020年9月21日星期一"
+    },
+    "tweet4": {
+      "content": "15股获券商买入评级 凯文教育目标涨幅达56.74%"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "化工行业：PO-聚醚、DMC价格齐创新高 新增推荐瑞联新材"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "化工行业周报：调整不改中长期方向 继续看好化工高成长公司"
+    },
+    "tweet2": {
+      "content": "每周炼化：长丝利润全面回升！"
+    },
+    "tweet3": {
+      "content": "“炼化-化纤”产业链周报：宁波规划6000万吨炼油产能 海利得越南基地工业长丝陆续投产"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "【方正化工】化工周报：内外需回暖，化工龙头迎来投资良机"
+    }
+  }
+}

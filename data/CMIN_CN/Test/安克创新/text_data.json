@@ -1,0 +1,479 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "【中金科技】COMPANY_X（300866.SZ）：专注于消费电子配件和AIoT的跨境电商第一品牌"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "小熊电器||前三季度业绩高速增长，Q4电商旺季有望再创佳绩"
+    },
+    "tweet2": {
+      "content": "科技行业日报：苹果将发布IPHONE12 小米公布UWB技术"
+    },
+    "tweet3": {
+      "content": "新宝股份||2020Q3业绩超预期，自主品牌拉动内销高速增长"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "开润股份∣∣与阿里战略合作，打造C2M闭环"
+    },
+    "tweet2": {
+      "content": "再创新纪录！刚刚 小米80W无线充电曝光 19分钟充满！概念股又要狂欢？"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "前9月294家企业A股上市募资3557亿 江苏广东浙江领先"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "湖南省进出口逐季回升 民营企业成“稳定器”"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "【安信研究】最强“双十一”狂欢节解读会议纪要"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "COMPANY_X(300866.SZ)第三季度归母净利润同比增长24.91%至2.56亿元"
+    },
+    "tweet2": {
+      "content": "顾家家居||2020Q3业绩超出预期，下游需求有望继续回暖"
+    },
+    "tweet3": {
+      "content": "安克创新公布三季报 前三季净利增加15.68%"
+    },
+    "tweet4": {
+      "content": "安克创新前三季度财报：营收60.19亿元 同比增长32.45%"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(300866.SZ)：前三季净利同比增15.68%至5.33亿元"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：前三季度净利润同比增长15.68%"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "公牛集团||Q3业绩强势复苏，继续看好全年表现"
+    },
+    "tweet2": {
+      "content": "欣旺达(300207)：业绩符合预期 经营逐季转好"
+    },
+    "tweet3": {
+      "content": "三季度五大机构持仓路径曝光！"
+    },
+    "tweet4": {
+      "content": "消费复苏！马太效应显著，家电龙头再创新高"
+    },
+    "tweet5": {
+      "content": "晨会聚焦201029重点关注宝钛股份、中新赛克、COMPANY_X、苏试试验、凯利泰、广和通、广州酒家、宁波银行、绿的谐波、宋城演艺"
+    },
+    "tweet6": {
+      "content": "COMPANY_X(300866)：苹果取消盒内配件及推出MAGSAFE 看好公司长期业务发展"
+    },
+    "tweet7": {
+      "content": "【国金电子】COMPANY_X：Q3收入增长超预期，Q4有望保持快速增长"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "思摩尔国际||盈利能力继续提升，2020Q3扣非后利润再超预期"
+    },
+    "tweet2": {
+      "content": "寻找下一个安客"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "健盛集团||疫情影响前三季度业绩承压，订单回流期待业绩回弹"
+    },
+    "tweet2": {
+      "content": "裕同科技||业绩短期波动不改长期趋势，多元布局稳步发展"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(300866)2020年三季度报告点评：海外疫情影响减弱 Q3业绩超预期"
+    },
+    "tweet4": {
+      "content": "白手起家赚到20亿，他们是最会赚钱的80后！湖南这些人上榜"
+    },
+    "tweet5": {
+      "content": "三季报亮眼，注册制次新股强势上涨，大涨之后还能追么？"
+    },
+    "tweet6": {
+      "content": "中国最成功的80后:每天净涨2个亿！张一鸣只能排第2"
+    },
+    "tweet7": {
+      "content": "刚刚公布！中国最成功的80后：身家2200亿，每天净涨2个亿！张一鸣只能排第二"
+    },
+    "tweet8": {
+      "content": "注册制公司三季报业绩喜人 多只个股获机构高比例配置"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "博力威隐瞒关联关系、暗藏利益输送，财务数据真实性存疑 欺诈造假"
+    },
+    "tweet2": {
+      "content": "110家消费电子产业链公司前三季盈利"
+    },
+    "tweet3": {
+      "content": "创投日报 |「玩物得志」完成8000万美元C轮融资；「小睿智洗」获数千万元pre-A轮融资 ；以及今天值得关注的早期项目"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "家电股持续拉涨，美的市值突破6000亿元"
+    },
+    "tweet2": {
+      "content": "欣旺达(300207)20年三季报点评：业绩超预期 有望迎来盈利向上拐点"
+    },
+    "tweet3": {
+      "content": "券商首次关注2股并给予买入评级（11月4日）"
+    },
+    "tweet4": {
+      "content": "83股获券商买入评级，东宏股份目标涨幅达112.01%"
+    },
+    "tweet5": {
+      "content": "【朝闻国盛1104】聚焦5G全新边际机遇，重视轻工低估值洼地"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "【读财报】41家创业板注册制公司三季度全盈利，业绩优于全板均值"
+    },
+    "tweet2": {
+      "content": "【读财报】41家创业板注册制公司前三季度“成绩单” ：全部实现盈利 均值高于全板平均水平"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "COMPANY_X(300866.SZ)主要股东赵东平质押15万股"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(300866.SZ)：5%以上股东赵东平质押15万股"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "商业贸易行业报告：复苏预期+疫苗预期+低基数 助推可选消费发力"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "跨境电商行业点评报告：RCEP签署、全球规模最大自贸协定再度催化跨境电商全产业链"
+    },
+    "tweet2": {
+      "content": "全球最大自贸区诞生！对A股有何影响？RCEP最纯正概念股曝光"
+    },
+    "tweet3": {
+      "content": "全球最大自贸区诞生！对A股有何影响？RCEP最纯正概念股曝光（名单）"
+    },
+    "tweet4": {
+      "content": "全球最大自贸区诞生！对A股有何影响？(附概念股)"
+    },
+    "tweet5": {
+      "content": "全球最大自贸区诞生，A股这四大板块将率先受益！最纯正概念股梳理好了（名单）"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "COMPANY_X(300866)：电子行业跨境出口龙头 弘扬“中国智造”之美"
+    },
+    "tweet2": {
+      "content": "商业贸易行业点评报告：RCEP正式签署 跨境电商有望直接受益"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "计算机行业事件点评：RCEP有望推动国内电子商务、网络安全等相关产业发展"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(300866)跟踪点评：长期政策利好+短期催化剂凸显 建议关注"
+    },
+    "tweet3": {
+      "content": "23股获券商买入评级，涪陵榨菜目标涨幅达47.14%"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "安克创新下跌开始了，安信证券研报刚喊买入"
+    },
+    "tweet2": {
+      "content": "家用电器行业周报：Q4小家电外销增长可期 白电出口景气度持续提升"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "踩雷比克动力，拟上市的创益通才计提损失17%，或虚增利润近千万 欺诈造假"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "COMPANY_X：关于公司财务负责人辞职的公告 董监高成员变化"
+    },
+    "tweet2": {
+      "content": "孙刚辞任安克创新(300866.SZ)财务负责人职务 董监高成员变化"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(300866.SZ)：财务负责人孙刚因个人原因辞职 董监高成员变化"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：财务负责人辞职 董监高成员变化"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "稳健医疗||发布股权激励计划彰显信心，扩产能巩固领先地位"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(300866.SZ)：拟开展外汇套期保值业务"
+    },
+    "tweet3": {
+      "content": "商业贸易行业：亚马逊的流量运营分配机制为何利好优质产品／品牌商发展？"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "裕同科技||业绩预告符合预期，短期扰动带来长期布局机会"
+    },
+    "tweet2": {
+      "content": "安克创新科技股份有限公司电子产品热销海外市场"
+    },
+    "tweet3": {
+      "content": "盯着“浅海”市场做爆款"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "长沙机场改扩建工程启动 “湘品出口”“好货入湘”迎机遇"
+    },
+    "tweet2": {
+      "content": "可选消费行业2021年策略报告（1）：顺应渠道变革方向"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "商业贸易行业：关注可选复苏主线 拥抱消费新模式与新趋势"
+    },
+    "tweet2": {
+      "content": "商贸零售行业2021年投资策略：市场下沉、渠道效率升级 新品牌新业态乘风而起"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "科技与消费交汇处的传媒互联网行业：新用户、新内容与新消费"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "星徽精密(300464)：精品跨境电商代表 高速成长"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(300866)：龙头出海乘风破浪 营收持续高增"
+    },
+    "tweet3": {
+      "content": "26股今日获机构买入评级8股上涨空间超20%"
+    },
+    "tweet4": {
+      "content": "独家丨IDG连盟对话安克CEO阳萌：IPO三个月市值破700亿，意味着什么"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "森马服饰||高管增持彰显公司长远发展信心，业绩持续复苏"
+    },
+    "tweet2": {
+      "content": "海能实业(300787)：快充低估值标的 股权激励彰显高增长信心"
+    },
+    "tweet3": {
+      "content": "研发不足2% 患“亚马逊依赖症”的傲基科技二闯科创板"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "23股获券商买入评级，精工钢构目标涨幅达94.66%"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "COMPANY_X(300866)：数据和智能教科书式运用"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "海能实业(300787)：股权激励彰显信心 公司业绩高增长可期"
+    },
+    "tweet2": {
+      "content": "【中泰传媒-周观点】《使命召唤手游》即将上线，分众传媒年度业绩预告超预期"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "商业贸易行业：11月社零增速环比提升 化妆品增速领先"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "纺织与服装行业周报：11月服装零售延续改善趋势，维持“优于大市”评级"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "COMPANY_X(300866.SZ)主要股东吴文龙质押50万股"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(300866.SZ)：持股5%以上股东吴文龙质押50万股"
+    },
+    "tweet3": {
+      "content": "电子行业周报：小米11取消标配充电头 关注快充投资机遇"
+    },
+    "tweet4": {
+      "content": "【中泰传媒-周观点】2020全球游戏市场规模同比增长19.6%，《明侦6》开播"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "市场风格快速切换：新能源急刹车，科技股抢反弹"
+    },
+    "tweet2": {
+      "content": "【机会挖掘】小米十年首款高端旗舰正式发布 关注小米集团及产业链（附股）"
+    },
+    "tweet3": {
+      "content": "浙商证券年度策略会重磅回顾：大消费首席观点"
+    },
+    "tweet4": {
+      "content": "安信证券：预计家电出口仍将受疫情影响保持快速增长"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

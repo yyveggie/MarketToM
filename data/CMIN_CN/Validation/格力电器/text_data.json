@@ -1,0 +1,2350 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "COMPANY_X：健康生活家的远望"
+    },
+    "tweet2": {
+      "content": "晚间要闻2020年8月3日星期一"
+    },
+    "tweet3": {
+      "content": "家用电器行业研究周报：8月空调排产延续增长趋势 地产后周期个股好转"
+    },
+    "tweet4": {
+      "content": "助力中国品牌腾飞 8月国美国潮日当道"
+    },
+    "tweet5": {
+      "content": "8月3日北向资金成交活跃股名单"
+    },
+    "tweet6": {
+      "content": "COMPANY_X市值“悬停”，3年仍在3000亿，都因PERSON_CEO没有接班人？"
+    },
+    "tweet7": {
+      "content": "PERSON_CEO：举债投资银隆，是为扩大COMPANY_X产业"
+    },
+    "tweet8": {
+      "content": "PERSON_CEO：COMPANY_X1.5万研发人员没有外国人 也没海归派"
+    },
+    "tweet9": {
+      "content": "北向资金连续三日净卖出，外资持续减配免税龙头"
+    },
+    "tweet10": {
+      "content": "机构重仓股跟踪周报"
+    },
+    "tweet11": {
+      "content": "PEER_COMPANY(600690)：一个更纯粹高效的PEER_COMPANY"
+    },
+    "tweet12": {
+      "content": "带货再破百亿，PERSON_CEO台前“风风光光”，经销商台后“瑟瑟发抖”"
+    },
+    "tweet13": {
+      "content": "洛阳COMPANY_X投产加速PERSON_CEO基地直播展示中国制造业实力"
+    },
+    "tweet14": {
+      "content": "线下“COMPANY_XPERSON_CEO店”开业COMPANY_X“新零售”展开新跑道"
+    },
+    "tweet15": {
+      "content": "每日精选 | 暴风冯鑫被公诉；PERSON_CEO称“一晚一度电”是骗人的"
+    },
+    "tweet16": {
+      "content": "PERSON_CEO直播销售再破百亿元 COMPANY_X“牵手”洛阳坚守匠心中国造"
+    },
+    "tweet17": {
+      "content": "PERSON_CEO谈制造业高质量发展：中国有能力培养自己的团队"
+    },
+    "tweet18": {
+      "content": "京东数科斩获营销界“奥斯卡”金奖，数字营销助力COMPANY_X销量提升"
+    },
+    "tweet19": {
+      "content": "101.2亿！PERSON_CEO全国巡回直播第二站 “中国风”吹进洛阳城"
+    },
+    "tweet20": {
+      "content": "直播销售额再破百亿背后：COMPANY_X与专卖店是如何配合带货的？"
+    },
+    "tweet21": {
+      "content": "PERSON_CEO：COMPANY_X生活电器、智能制造提速 当下处于推动制造业转型升级的关键时期"
+    },
+    "tweet22": {
+      "content": "新能效标准实施 空调价格会越来越高吗？"
+    },
+    "tweet23": {
+      "content": "A股融资融券日报 ：两融余额增加78.75亿元（7月31日）"
+    },
+    "tweet24": {
+      "content": "PERSON_CEO：仍在还个人投资银隆的借债 但COMPANY_X得到了真实惠"
+    },
+    "tweet25": {
+      "content": "家用电器行业：空调销售复苏明显 基金持股小幅回升"
+    },
+    "tweet26": {
+      "content": "对话PERSON_CEO：做二把手时挡子弹都是我 很遗憾没有这样的副手"
+    },
+    "tweet27": {
+      "content": "最新中报业绩翻倍股出炉！"
+    },
+    "tweet28": {
+      "content": "泰旸资产刘天君：希望能笑到最后"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "晚间要闻2020年8月4日星期二"
+    },
+    "tweet2": {
+      "content": "陆股通月报第10期：北上大进大出 消费板块遭抛售 股票卖空"
+    },
+    "tweet3": {
+      "content": "A股画风突变！疫苗板块大降温，银行保险崛起！一天成交1.37万亿，北上资金加仓这些白马股"
+    },
+    "tweet4": {
+      "content": "一、PEER_COMPANY：私有化"
+    },
+    "tweet5": {
+      "content": "PERSON_CEO：COMPANY_X专利技术全国第一，天天被偷技术"
+    },
+    "tweet6": {
+      "content": "北向资金今日净买入21.37亿元，贵州茅台净买入近8亿元"
+    },
+    "tweet7": {
+      "content": "COMPANY_X现1笔大宗交易 共成交6,640.30万元"
+    },
+    "tweet8": {
+      "content": "盛视早参：行情或再度开启 随风起舞！"
+    },
+    "tweet9": {
+      "content": "集成灶生产商帅丰电器IPO：曾向违规供应商大举采购 产品、渠道单一遭疫情冲击严重"
+    },
+    "tweet10": {
+      "content": "李德林：PERSON_CEO没有接班人"
+    },
+    "tweet11": {
+      "content": "COMPANY_X直播卖货再破百亿 PERSON_CEO称为经销商探路"
+    },
+    "tweet12": {
+      "content": "促销成常态 新营销、新技术手段获广泛应用"
+    },
+    "tweet13": {
+      "content": "电商起到中流砥柱作用，线上线下加速融合"
+    },
+    "tweet14": {
+      "content": "新国标使空调市场淘汰率达45% 线下数据同比增长"
+    },
+    "tweet15": {
+      "content": "一手打破经销商护城河PERSON_CEO又直播了"
+    },
+    "tweet16": {
+      "content": "郭施亮：PEER_COMPANY私有化PEER_COMPANY电器 估值将重估吗？将为投资者带来什么？"
+    },
+    "tweet17": {
+      "content": "A股融资融券日报：两融余额增加245.57亿元（8月3日）"
+    },
+    "tweet18": {
+      "content": "COMPANY_X洛阳直播销售破百亿元"
+    },
+    "tweet19": {
+      "content": "芯朋微(688508)首次覆盖报告：电源芯片细分赛道一枝独秀永续经营长坡厚雪"
+    },
+    "tweet20": {
+      "content": "白电巨头资本腾挪提振业绩 PEER_COMPANY电器私有化告别双平台内耗"
+    },
+    "tweet21": {
+      "content": "“PEER_COMPANY兄弟”合体，435 亿私有化能否帮张瑞敏打赢家电业务翻身仗？"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "家电巨头的秘密基地：解码4224场直播背后的变局"
+    },
+    "tweet2": {
+      "content": "晚间要闻2020年8月5日星期三"
+    },
+    "tweet3": {
+      "content": "PEER_COMPANY电器(01169)私有化迎重大进展，业务统筹之后投资价值将提升"
+    },
+    "tweet4": {
+      "content": "PEER_COMPANY(600690)深度跟踪报告：长算远略花开结果 机制优化降本增效"
+    },
+    "tweet5": {
+      "content": "空调新国标来袭 COMPANY_X掉队 PERSON_CEO赶场忙"
+    },
+    "tweet6": {
+      "content": "首批标准化票据透露了哪些信息？"
+    },
+    "tweet7": {
+      "content": "PERSON_CEO：COMPANY_X天天被人偷人偷技术"
+    },
+    "tweet8": {
+      "content": "北上资金今日净流出19.81亿元，金融板块遭一日游行情"
+    },
+    "tweet9": {
+      "content": "PEER_COMPANY私有化之后还有多大想象空间？"
+    },
+    "tweet10": {
+      "content": "雷军透露十周年演讲内容会说与PERSON_CEO打赌的事"
+    },
+    "tweet11": {
+      "content": "PERSON_CEO点赞“温柔洛阳”，传授直播带货101.2亿的秘密"
+    },
+    "tweet12": {
+      "content": "【申港家电】空调新能效实施七月跟踪 技术升级推动仍待释放 ——家用电器行业周报W32"
+    },
+    "tweet13": {
+      "content": "PERSON_CEO称天天被偷人偷技术好委屈，网友：COMPANY_X能撑到现在真是奇迹"
+    },
+    "tweet14": {
+      "content": "公募基金月报：战略求稳 战术进攻"
+    },
+    "tweet15": {
+      "content": "今明两年坚持不买房，会造成什么“后果”？PERSON_CEO、冯仑看法一致"
+    },
+    "tweet16": {
+      "content": "巨丰数据赢｜北上资金回流 主力低位增持这一股"
+    },
+    "tweet17": {
+      "content": "银隆的“棋局”：PERSON_CEO首次透露为什么个人举债“造车”"
+    },
+    "tweet18": {
+      "content": "A股融资融券日报：两融余额增加42.15亿元（8月4日）"
+    },
+    "tweet19": {
+      "content": "家电行业2020年8月报：中报业绩迎来密集发布 关注边际改善型公司"
+    },
+    "tweet20": {
+      "content": "家电清洗藏猫腻 收费多少“随口定”"
+    },
+    "tweet21": {
+      "content": "业绩稳健一汽富维再领涨 茅台COMPANY_X获北向资金加仓"
+    },
+    "tweet22": {
+      "content": "合体的 “PEER_COMPANY兄弟”要讲什么新故事？"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "COMPANY_X(COMPANY_X)：PERSON_EXEC不再担任公司财务负责人 PERSON_EXEC继任"
+    },
+    "tweet2": {
+      "content": "四连涨！PEER_COMPANY这波私有化还有多大想象空间？"
+    },
+    "tweet3": {
+      "content": "家电行业7月月报及8月投资策略：景气回暖确定 估值有望共振"
+    },
+    "tweet4": {
+      "content": "A股融资融券日报：两融余额增加126.72亿元（8月5日）"
+    },
+    "tweet5": {
+      "content": "巨丰数据赢｜北上资金持续波动 一股近期被主力明显增持"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "市场巨变，COMPANY_X四面出击能否解围？"
+    },
+    "tweet2": {
+      "content": "8月7日北向资金成交活跃股名单抢先看"
+    },
+    "tweet3": {
+      "content": "资金面研究系列报告三：近期北向资金出现明显净流出"
+    },
+    "tweet4": {
+      "content": "PEER_COMPANY、PEER_COMPANY电器合体战PEER_COMPANY、COMPANY_X"
+    },
+    "tweet5": {
+      "content": "拆解高瓴千亿资金投资逻辑：重仓中国，押注医药赛道"
+    },
+    "tweet6": {
+      "content": "刘姝威担任柔宇科技的独立董事"
+    },
+    "tweet7": {
+      "content": "818购物节袭来，“悟空”榜单价值再现"
+    },
+    "tweet8": {
+      "content": "私有化推进“PEER_COMPANY兄弟”能否抗衡PEER_COMPANYCOMPANY_X"
+    },
+    "tweet9": {
+      "content": "空调：市场逐渐复苏 健康节能产品走红"
+    },
+    "tweet10": {
+      "content": "开源晨会0807丨新能源行业点评；PEER_COMPANY置业(03990.HK)、富祥药业(300497.SZ)、COMPANY_X(COMPANY_X)"
+    },
+    "tweet11": {
+      "content": "COMPANY_X解聘财务负责人PERSON_EXEC 由PERSON_EXEC接任"
+    },
+    "tweet12": {
+      "content": "PEER_COMPANY热水器电晕高中生，昔日行业领军者质量却令人失望"
+    },
+    "tweet13": {
+      "content": "COMPANY_X解聘财务负责人PERSON_EXEC PERSON_EXEC接任"
+    },
+    "tweet14": {
+      "content": "【SMM专题】二季度家电行业强力修复 线上销售为强心剂！"
+    },
+    "tweet15": {
+      "content": "COMPANY_X(COMPANY_X)：渠道变革、行业回暖 空调龙头业绩反转可期"
+    },
+    "tweet16": {
+      "content": "杭萧钢构逆势涨停 北向资金加仓伊利、COMPANY_X"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "市场震荡加剧，融资盘、北上资金谁更聪明？"
+    },
+    "tweet2": {
+      "content": "从7到21，解码世界500强上榜湾区企业造富史"
+    },
+    "tweet3": {
+      "content": "一张图看懂家电估值：市盈率、股息率和现金价值比较"
+    },
+    "tweet4": {
+      "content": "PEER_COMPANY、PEER_COMPANY、COMPANY_X上榜2020年《财富》世界500强，COMPANY_X较上一年排名后退8位"
+    },
+    "tweet5": {
+      "content": "家电行业周报：厨电改善明显 小家电延续高景气"
+    },
+    "tweet6": {
+      "content": "中报盈利榜来了，21股中报业绩预增超10倍"
+    },
+    "tweet7": {
+      "content": "家用电器行业周报：关注家电和厨电销售回暖"
+    },
+    "tweet8": {
+      "content": "818家电零售看苏宁，苏宁COMPANY_X升级合作"
+    },
+    "tweet9": {
+      "content": "A股融资融券日报：两融余额减少84.42亿元（8月7日）"
+    },
+    "tweet10": {
+      "content": "COMPANY_X危机，PERSON_CEO直播带货到底是为经销商探路还是断路？"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "小米十年 雷军的坦陈与无奈"
+    },
+    "tweet2": {
+      "content": "一往无前！小米十周年，雷军公开演讲全文"
+    },
+    "tweet3": {
+      "content": "雷军演讲全文来了！创业艰辛、和PERSON_CEO打赌……能说的都说了"
+    },
+    "tweet4": {
+      "content": "雷军再谈与PERSON_CEO赌局：跟COMPANY_X比是我们膨胀了，要求同事向COMPANY_X学习"
+    },
+    "tweet5": {
+      "content": "小米雷军：危机是你想不到的机会"
+    },
+    "tweet6": {
+      "content": "今年世界500强中国家电企业再分化：PEER_COMPANYPEER_COMPANYCOMPANY_X有喜有忧！"
+    },
+    "tweet7": {
+      "content": "真实剧情是这样？雷军首谈和PERSON_CEO赌约背后：台后说好赌1元变台前10个亿，很后悔打赌"
+    },
+    "tweet8": {
+      "content": "晚间要闻2020年8月11日星期二"
+    },
+    "tweet9": {
+      "content": "雷军回应与PERSON_CEO赌约：后悔和董大姐打赌"
+    },
+    "tweet10": {
+      "content": "雷军谈与PERSON_CEO5年赌约认输：后悔招惹董大姐，最近才想清楚"
+    },
+    "tweet11": {
+      "content": "雷军回忆和PERSON_CEO打赌：赌金从后台的1块涨到台前的10亿，“我们的确输了”"
+    },
+    "tweet12": {
+      "content": "小米雷军公开谈与COMPANY_XPERSON_CEO “10 亿赌约”：其实有剧本，1 块临时变 10 亿"
+    },
+    "tweet13": {
+      "content": "雷军公开承认跟PERSON_CEO的赌约输了 跟PERSON_CEO打赌很后悔"
+    },
+    "tweet14": {
+      "content": "雷军：与PERSON_CEO打赌确实输了 认真向COMPANY_X学习"
+    },
+    "tweet15": {
+      "content": "雷军首谈与PERSON_CEO赌约：小米的确输了"
+    },
+    "tweet16": {
+      "content": "雷军首次回应与PERSON_CEO赌约"
+    },
+    "tweet17": {
+      "content": "雷军首次回应与PERSON_CEO赌约：五年内的赌注是输了，但是第六年我们赢了"
+    },
+    "tweet18": {
+      "content": "江苏雷利(300660)：家用电器微特电机领跑者 多领域布局打开成长空间"
+    },
+    "tweet19": {
+      "content": "北向资金净流入39.48亿元，海康威视获净买入6.99亿元居首"
+    },
+    "tweet20": {
+      "content": "PEER_COMPANY、PEER_COMPANY、COMPANY_X上榜2020年《财富》世界500强，COMPANY_X较上一年排名后退22位"
+    },
+    "tweet21": {
+      "content": "A股融资融券日报：两融余额增加64.09亿元（8月10日）"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "上海市市场监管局抽检75批次饼干 3批次不合格 产品问题"
+    },
+    "tweet2": {
+      "content": "雷军首度回应与PERSON_CEO赌约 小米成立十年开启“二次创业”"
+    },
+    "tweet3": {
+      "content": "不想冒任何风险，是很难成功的——道达投资手记"
+    },
+    "tweet4": {
+      "content": "PERSON_CEO真的赢了吗？COMPANY_X年内下跌超16%，市值比PEER_COMPANY低1538亿元"
+    },
+    "tweet5": {
+      "content": "小米十年雷军演讲，还是为了带货"
+    },
+    "tweet6": {
+      "content": "【钛媒体视频】雷军：敢跟PERSON_CEO打赌，是小米膨胀了"
+    },
+    "tweet7": {
+      "content": "雷军复盘小米十年 下一个十年如何走？"
+    },
+    "tweet8": {
+      "content": "家电巨头三足鼎立 纷纷发力智能家居"
+    },
+    "tweet9": {
+      "content": "20个创业故事，雷军讲述小米十年"
+    },
+    "tweet10": {
+      "content": "雷军回应与PERSON_CEO赌约：后来很后悔，也更加了解制造业"
+    },
+    "tweet11": {
+      "content": "雷军首谈10亿赌约背后：PERSON_CEO不按剧本走"
+    },
+    "tweet12": {
+      "content": "“后悔跟PERSON_CEO赌 当时膨胀了！”小米10周年 雷军深度拆解“终极三问”"
+    },
+    "tweet13": {
+      "content": "亮点太多！回到2010年，雷军做了什么？"
+    },
+    "tweet14": {
+      "content": "雷军十周年演讲：与PERSON_CEO打赌确实输了、澎湃芯片还在做"
+    },
+    "tweet15": {
+      "content": "A股融资融券日报：两融余额减少63.28亿元（8月11日）"
+    },
+    "tweet16": {
+      "content": "雷军承认小米不如苹果三星华为，后悔与PERSON_CEO打赌：膨胀干了件蠢事"
+    },
+    "tweet17": {
+      "content": "早知道·财讯热搜榜TOP10（8月12日）"
+    },
+    "tweet18": {
+      "content": "【钛晨报】小米十周年雷军公开演讲；特斯拉宣布1:5股票分割计划；高通赢得关键反垄断诉讼"
+    },
+    "tweet19": {
+      "content": "后悔跟PERSON_CEO赌！芯片会继续 雷军拆解\"终极三问\""
+    },
+    "tweet20": {
+      "content": "雷军首次揭秘与PERSON_CEO“赌局”后透露：小米信仰互联网 将深度参与制造业"
+    },
+    "tweet21": {
+      "content": "“店小二”打擂“第三方”裁判"
+    },
+    "tweet22": {
+      "content": "雷军回应与COMPANY_X“赌约” 承认不如苹果、三星和华为"
+    },
+    "tweet23": {
+      "content": "“后悔跟PERSON_CEO赌 当时膨胀了！”、芯片遇阻但会继续、每天走10公里缓解焦虑……小米10周年 雷军深度"
+    },
+    "tweet24": {
+      "content": "雷军后悔与PERSON_CEO下10亿赌注？其实心里乐开了花，营收增近十倍"
+    },
+    "tweet25": {
+      "content": "雷军十周年演讲：后悔跟PERSON_CEO赌 每天走10公里缓解焦虑"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "“控烟协会批天眼香烟商标”背后：多家公司已注册，涉金融等行业"
+    },
+    "tweet2": {
+      "content": "PERSON_CEO直言小米是轻资产，产品都靠贴牌？"
+    },
+    "tweet3": {
+      "content": "PERSON_CEO向雷军提出新赌约……赌的是这个！网友：10亿元打款没？"
+    },
+    "tweet4": {
+      "content": "PERSON_CEO再喊话：COMPANY_X空调地位领先请雷军提出行业目标"
+    },
+    "tweet5": {
+      "content": "新赌约来了！PERSON_CEO和雷军这次赌了啥？"
+    },
+    "tweet6": {
+      "content": "PERSON_CEO向雷军发起新赌约：请雷军提出自己行业的目标"
+    },
+    "tweet7": {
+      "content": "PERSON_CEO向雷军发起新赌约"
+    },
+    "tweet8": {
+      "content": "PERSON_CEO回应雷军认输：战胜自己才是成功者"
+    },
+    "tweet9": {
+      "content": "PERSON_CEO回应雷军赌约：你终究是五年内输了"
+    },
+    "tweet10": {
+      "content": "雷军不甘心赌局输给PERSON_CEO？PERSON_CEO：没怎么研究过小米"
+    },
+    "tweet11": {
+      "content": "COMPANY_X在江西超百亿投资，几大巨头纷至沓来"
+    },
+    "tweet12": {
+      "content": "赚了钱就跑？1.5万名富豪移民，PERSON_CEO发声，国家也出手了"
+    },
+    "tweet13": {
+      "content": "“削藩”，投PEER_COMPANY，COMPANY_X经销商动荡将至？"
+    },
+    "tweet14": {
+      "content": "涨价潮遇“冰点”！空调旺季“价格战”越烧越旺 高端产品碰撞一触即发"
+    },
+    "tweet15": {
+      "content": "A股融资融券日报：两融余额减少34.17亿元（8月12日）"
+    },
+    "tweet16": {
+      "content": "6000亿小家电赛道 能否杀出下一个PEER_COMPANY与COMPANY_X？"
+    },
+    "tweet17": {
+      "content": "“那个时候，我们的确膨胀了。”回首10年，雷军“服软”"
+    },
+    "tweet18": {
+      "content": "雷军首次回应10亿赌局，为什么说雷军认输但小米却赢了？"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "站在这个时间点 物管股还有机会吗？"
+    },
+    "tweet2": {
+      "content": "芯朋微(688508)：深耕优势赛道 PMIC国产替代高增长"
+    },
+    "tweet3": {
+      "content": "再登《财富》世界500强！COMPANY_X双轮驱动显综合实力"
+    },
+    "tweet4": {
+      "content": "PERSON_CEO回应雷军认输，网友：输赢不重要，不被老美卡脖子更重要"
+    },
+    "tweet5": {
+      "content": "PERSON_CEO称今年减税力度大，有实力的企业应该多交税"
+    },
+    "tweet6": {
+      "content": "“10亿赌约”之后，PERSON_CEO又新开了个赌局，雷军尚未正式应战"
+    },
+    "tweet7": {
+      "content": "明年市场规模将达4369亿 家电巨头发力智能家居"
+    },
+    "tweet8": {
+      "content": "赢了十亿赌约，PERSON_CEO再次向雷军发起新挑战"
+    },
+    "tweet9": {
+      "content": "PERSON_CEO鼓励有实力的企业多交税"
+    },
+    "tweet10": {
+      "content": "COMPANY_XPERSON_CEO要将装备卖向全球？然其主业的海外收入占比却太落后"
+    },
+    "tweet11": {
+      "content": "空调行业马太效应，头部企业加码布局中高端产品"
+    },
+    "tweet12": {
+      "content": "A股融资融券日报：两融余额增加24.24亿元（8月13日）"
+    },
+    "tweet13": {
+      "content": "空调旺季打响价格战高端产品成“主战场”"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "COMPANY_X“老人”PERSON_EXEC辞职 高瓴资本或有望补位董事会"
+    },
+    "tweet2": {
+      "content": "18年“老将”PERSON_EXEC离开COMPANY_X 称因个人原因辞职 董监高成员变化"
+    },
+    "tweet3": {
+      "content": "18年“老将”PERSON_EXEC离开COMPANY_X 称因个人原因辞职"
+    },
+    "tweet4": {
+      "content": "PERSON_EXEC全退：因个人原因辞任COMPANY_X董事、副总裁、董秘职务 董监高成员变化"
+    },
+    "tweet5": {
+      "content": "又是内幕交易！不仅被罚没368万，还把COMPANY_X11年资深董秘给拖下水！ 金融监管处罚"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：副总裁、董秘PERSON_EXEC辞职 董监高成员变化"
+    },
+    "tweet7": {
+      "content": "COMPANY_X：PERSON_EXEC辞去公司董事等职务 董监高成员变化"
+    },
+    "tweet8": {
+      "content": "京东：二季度归属于普通股股东净利润为164亿元"
+    },
+    "tweet9": {
+      "content": "家电先行指标“房屋交付量”跟踪(2020年7月)：疫情影响减弱 中期展望积极"
+    },
+    "tweet10": {
+      "content": "一张图看懂家电估值W33：市盈率、股息率和现金价值比较"
+    },
+    "tweet11": {
+      "content": "被狂砸400亿后，COMPANY_X在家电三强中仍倒数第一，和它相差1600亿！"
+    },
+    "tweet12": {
+      "content": "家电行业动态分析：取消“停止减免税” 对家电行业有多大影响？"
+    },
+    "tweet13": {
+      "content": "家用电器W32周观点：线上大家电销额增速表现良好 北向资金再现回流"
+    },
+    "tweet14": {
+      "content": "小米是小偷？PERSON_CEO：雷军搞的是贴牌货，没核心技术"
+    },
+    "tweet15": {
+      "content": "每日精选｜PERSON_CEO认为雷军基本是贴牌生产；百度高管称百度是国内最佳搜索引擎"
+    },
+    "tweet16": {
+      "content": "处罚下来了！COMPANY_X前董秘裸辞谜题解开 董监高成员变化"
+    },
+    "tweet17": {
+      "content": "雷军直播首秀销售额破2亿这次超过PERSON_CEO罗永浩了吗"
+    },
+    "tweet18": {
+      "content": "COMPANY_X：PERSON_CEO直播救场 赢了线上输了线下"
+    },
+    "tweet19": {
+      "content": "“泥中茅台”：年赚300亿，超越COMPANY_X万科，任何时候买都赚钱？"
+    },
+    "tweet20": {
+      "content": "A股融资融券日报：两融余额减少67.88亿元（8月14日）"
+    },
+    "tweet21": {
+      "content": "被PERSON_CEO吐槽贴牌生产 雷军晒小米黑灯工厂"
+    },
+    "tweet22": {
+      "content": "中小品牌危机：空调行业利基群体恐迎来至暗时刻"
+    },
+    "tweet23": {
+      "content": "京东业绩来了！市值飙升，盘中突破1000亿美元大关"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "COMPANY_X人事大变动？干了18年的老臣突然辞职，年薪360万，持股市值近5000万"
+    },
+    "tweet2": {
+      "content": "消费行业日报：818购物狂欢 百亿补贴专区一小时增长350％"
+    },
+    "tweet3": {
+      "content": "晚间重要公告2020年8月18日星期二"
+    },
+    "tweet4": {
+      "content": "COMPANY_X董秘突然辞职！曾为PERSON_CEO接班人选，是COMPANY_X18年“老臣” 董监高成员变化"
+    },
+    "tweet5": {
+      "content": "三安光电：上半年净利同比下降28.11%COMPANY_X新进前十大股东 盈利能力下降"
+    },
+    "tweet6": {
+      "content": "空间打开家电巨头聚力智能家居"
+    },
+    "tweet7": {
+      "content": "京东屏蔽申通；PERSON_CEO接班人辞职；LG退出家电卖场|要闻"
+    },
+    "tweet8": {
+      "content": "董秘离职 利润减半 “薄冰”上的COMPANY_X如何突围 董监高成员变化"
+    },
+    "tweet9": {
+      "content": "PERSON_CEO潜在接班人PERSON_EXEC突然“裸辞” 背后有何隐情 董监高成员变化"
+    },
+    "tweet10": {
+      "content": "PERSON_EXEC辞职 COMPANY_X股价下挫1.37% 董监高成员变化"
+    },
+    "tweet11": {
+      "content": "COMPANY_X副总裁PERSON_EXEC辞职PERSON_CEO：走掉的人不能再回来 董监高成员变化"
+    },
+    "tweet12": {
+      "content": "空调市场逐渐复苏 健康节能产品走红"
+    },
+    "tweet13": {
+      "content": "COMPANY_X副总裁PERSON_EXEC辞职 一度被视为PERSON_CEO的接班人 2020年空调行业品牌竞争格局分析 董监高成员变化"
+    },
+    "tweet14": {
+      "content": "供职18年！COMPANY_X副总裁PERSON_EXEC辞职，曾被外界视为PERSON_CEO潜在接班人选 董监高成员变化"
+    },
+    "tweet15": {
+      "content": "PERSON_CEO潜在接班人裸辞，任财务总负责超12年突遭解聘 董监高成员变化"
+    },
+    "tweet16": {
+      "content": "PEER_COMPANY掉队 市场份额进一步下滑 经营问题"
+    },
+    "tweet17": {
+      "content": "PERSON_CEO潜在接班人选PERSON_EXEC告别18年COMPANY_X生涯 高瓴尚未进入董事会"
+    },
+    "tweet18": {
+      "content": "深度掘金“大件快递” 德邦快递的第二曲线"
+    },
+    "tweet19": {
+      "content": "PERSON_CEO接班候选人“裸辞”，COMPANY_X今后该怎么走？"
+    },
+    "tweet20": {
+      "content": "COMPANY_X董秘称因个人原因辞职 持股市值超5000万 董监高成员变化"
+    },
+    "tweet21": {
+      "content": "COMPANY_X董秘PERSON_EXEC辞职 将不再担任COMPANY_X任何职务 董监高成员变化"
+    },
+    "tweet22": {
+      "content": "快手联手荣耀、京东打造双超级品牌日：单场销售额超3.5亿"
+    },
+    "tweet23": {
+      "content": "COMPANY_X副总裁PERSON_EXEC辞职 为新股东派CFO腾空间？ 董监高成员变化"
+    },
+    "tweet24": {
+      "content": "价格战愈烈，“旺季”为何没能拯救空调销量？"
+    },
+    "tweet25": {
+      "content": "PERSON_CEO寄语：中国品牌走出去 不是简单意义上量的变化"
+    },
+    "tweet26": {
+      "content": "COMPANY_X董秘PERSON_EXEC申请辞职 为公司核心高管之一 董监高成员变化"
+    },
+    "tweet27": {
+      "content": "COMPANY_X财务负责人PERSON_EXEC辞职 曾任职超12年 董监高成员变化"
+    },
+    "tweet28": {
+      "content": "家电“大佬”齐为芯片发声 鼓励政策将助上游瓶颈突破"
+    },
+    "tweet29": {
+      "content": "COMPANY_X18年财务老臣\"诡异\"离职后续：昨夜闪辞所有职务 董监高成员变化"
+    },
+    "tweet30": {
+      "content": "COMPANY_X董秘PERSON_EXEC裸辞 曾执掌公司财务12年 董监高成员变化"
+    },
+    "tweet31": {
+      "content": "A股融资融券日报：两融余额增加183.96亿元（8月17日）"
+    },
+    "tweet32": {
+      "content": "千亿家电巨头，半个月飙涨460亿，发生了啥？"
+    },
+    "tweet33": {
+      "content": "财经早茶｜美商务部加码华为限制措施；国产操作系统重磅产品发布"
+    },
+    "tweet34": {
+      "content": "COMPANY_X董事会秘书PERSON_EXEC辞职(图|简历) 董监高成员变化"
+    },
+    "tweet35": {
+      "content": "突发！PERSON_CEO接班人选之一PERSON_EXEC辞去COMPANY_X所有职务 董监高成员变化"
+    },
+    "tweet36": {
+      "content": "COMPANY_X董秘突然“裸辞” 18年元老持股市值超5000万 董监高成员变化"
+    },
+    "tweet37": {
+      "content": "PERSON_CEO麾下最年轻高管，COMPANY_XPERSON_EXEC“裸辞”，为高瓴资本“让坑”"
+    },
+    "tweet38": {
+      "content": "后来居上！PEER_COMPANY空调精准洞察，抢占新能效风口高地"
+    },
+    "tweet39": {
+      "content": "诉讼缠身、销售滑坡 PEER_COMPANY低价策略失灵 诉讼纠纷"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "【兴证家电】2020冷年超预期收官，7月空调内销双位数正增长——7月空调行业数据点评"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：董秘离职、经销商减持、净利预腰斩 减持股份"
+    },
+    "tweet3": {
+      "content": "A股混改方案接踵而至，哪个是你的菜？"
+    },
+    "tweet4": {
+      "content": "如果雷军和PERSON_CEO“斗直播”"
+    },
+    "tweet5": {
+      "content": "惨淡中报披露前 12年财务负责人出局：PERSON_CEO的COMPANY_X“人事劫”"
+    },
+    "tweet6": {
+      "content": "COMPANY_X董秘裸辞背后:去年降薪90万,十天前解聘财务负责人本人未现身"
+    },
+    "tweet7": {
+      "content": "空调行业加速升级，健康节能产品走红"
+    },
+    "tweet8": {
+      "content": "A股融资融券日报：两融余额增加73.58亿元（8月18日）"
+    },
+    "tweet9": {
+      "content": "空调行业上半年“低速慢行”，下半年迎来恢复性增长"
+    },
+    "tweet10": {
+      "content": "董秘离职、经销商减持、净利润预腰斩，COMPANY_X利空不断 减持股份"
+    },
+    "tweet11": {
+      "content": "COMPANY_X的混改阵痛"
+    },
+    "tweet12": {
+      "content": "移动用户流失未止 运营商转型艰难"
+    },
+    "tweet13": {
+      "content": "PERSON_CEO备选“接班人”闪辞 高瓴资本进入COMPANY_X董事会前兆？"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "2020空调业冷年收官月，PEER_COMPANYCOMPANY_X上演线上双寡头格局"
+    },
+    "tweet2": {
+      "content": "8月21日上市公司重要公告集锦：长电科技拟定增募资不超50亿元"
+    },
+    "tweet3": {
+      "content": "维业股份“牵手”COMPANY_X 装修和买家电时彼此拥有优先权"
+    },
+    "tweet4": {
+      "content": "北向资金这次突袭怎么受挫了，可能是“集火”不够"
+    },
+    "tweet5": {
+      "content": "晚间重要公告2020年8月20日星期四"
+    },
+    "tweet6": {
+      "content": "维业股份：与COMPANY_X签署战略合作框架协议"
+    },
+    "tweet7": {
+      "content": "【申港家电】 按摩器具产业发展 海外市场需求庞大——家用电器行业周报W34"
+    },
+    "tweet8": {
+      "content": "犀牛财经视频：COMPANY_X18年元老为何突然辞职？"
+    },
+    "tweet9": {
+      "content": "COMPANY_X三连跌！公司董秘辞职 曾被视为COMPANY_X接班人选 董监高成员变化"
+    },
+    "tweet10": {
+      "content": "海康威视走向平庸？"
+    },
+    "tweet11": {
+      "content": "7月产业在线空调数据点评：7月空调内销／出口同比+11.1%／+24.5%"
+    },
+    "tweet12": {
+      "content": "A股融资融券日报：两融余额减少2.78亿元（8月19日）"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "晚间要闻2020年8月21日星期五"
+    },
+    "tweet2": {
+      "content": "北向资金净流入超11亿，外资持续流入苹果产业链龙头"
+    },
+    "tweet3": {
+      "content": "COMPANY_X获颁亚太首张净化器实验室卫星计划证书"
+    },
+    "tweet4": {
+      "content": "空调才是经销商定心丸 其它品类多是锦上添花"
+    },
+    "tweet5": {
+      "content": "盛视早参：短期低估值滞涨型个股或强于成长"
+    },
+    "tweet6": {
+      "content": "A股融资融券日报：两融余额减少19.27亿元（8月20日）"
+    },
+    "tweet7": {
+      "content": "A股早报2020年8月21日星期五"
+    },
+    "tweet8": {
+      "content": "7月空调行业产业在线数据点评：内外销需求均延续双位数高景气度复苏"
+    },
+    "tweet9": {
+      "content": "11年“老董秘”辞职 COMPANY_X市值三天缩水161亿 董监高成员变化"
+    },
+    "tweet10": {
+      "content": "维业股份牵手COMPANY_X产业链合作风气渐盛"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "2020年中国空调行业双龙头竞争格局分析 未来PEER_COMPANY有望抢先一步夺得“王冠”的可能"
+    },
+    "tweet2": {
+      "content": "商业贸易行业周报(第三十四周)"
+    },
+    "tweet3": {
+      "content": "PERSON_CEO需要练好平衡术。"
+    },
+    "tweet4": {
+      "content": "净利下降超过600%，四川PEER_COMPANY为何再次失去光彩? 盈利能力下降"
+    },
+    "tweet5": {
+      "content": "家电行业每周观点：中报还有哪些预期改善的方向"
+    },
+    "tweet6": {
+      "content": "空调下半年向好趋势不改，内外销呈双位数增长"
+    },
+    "tweet7": {
+      "content": "A股融资融券日报：两融余额减少10.67亿元（8月21日）"
+    },
+    "tweet8": {
+      "content": "从杂货铺到万亿物联网帝国？雷军是如何用一个生态链打天下的？"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "折价要约收购61%股份 格兰仕入主PEER_PRODUCT迎进展"
+    },
+    "tweet2": {
+      "content": "PEER_COMPANY和COMPANY_X中间，差了一个“PEER_COMPANY”"
+    },
+    "tweet3": {
+      "content": "PEER_COMPANY视像(600060)：视像产业全球化加速 海外业务超预期"
+    },
+    "tweet4": {
+      "content": "利润同比下降53%，COMPANY_X仍现金分红60亿，底气何来？ 盈利能力下降"
+    },
+    "tweet5": {
+      "content": "COMPANY_X“元老”辞职市值“蒸发”百亿元 董监高成员变化"
+    },
+    "tweet6": {
+      "content": "A股融资融券日报：两融余额增加76.78亿元（8月24日）"
+    },
+    "tweet7": {
+      "content": "家电行业周报：空调产销两旺 厨电需求回暖"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "自由吹风随意控温 828国美空调福利日助你纵享清爽夏末"
+    },
+    "tweet2": {
+      "content": "空调“续命” 夏末燥热就靠这四款“良药”啦"
+    },
+    "tweet3": {
+      "content": "[凤凰网]经济特区走过40年征程，税收“探路式”改革提供强劲...[08-26]"
+    },
+    "tweet4": {
+      "content": "A股融资融券日报：两融余额减少7.68亿元（8月25日）"
+    },
+    "tweet5": {
+      "content": "A股最励志芯片股：17亿撬动379亿并购，市值飙50倍"
+    },
+    "tweet6": {
+      "content": "【兴证固收·转债】高定位的历史、成因和逻辑 ——可转债定位体系研究一"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "COMPANY_XPEER_COMPANY“伤痕累累”、小熊电器却逆势增长！上半年净利润同比增九成 券商：小家电潜力并不小"
+    },
+    "tweet2": {
+      "content": "北向资金今日净卖出10.05亿元，白酒股遭抛售"
+    },
+    "tweet3": {
+      "content": "视频丨对话PERSON_CEO：好的制造企业每天都在转型"
+    },
+    "tweet4": {
+      "content": "核准制新股申购策略报告：本轮建议持续关注立昂微等"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "晚间要闻2020年8月28日星期五"
+    },
+    "tweet2": {
+      "content": "家电周观点||家电中报总结：Q2业绩触底反弹，小家电表现亮眼"
+    },
+    "tweet3": {
+      "content": "北向资金今日净买入64.43亿元，京东方A净买入近10亿元居首"
+    },
+    "tweet4": {
+      "content": "涨停复盘 | 业绩增长成涨停板主线，PEER_PRODUCT4连板"
+    },
+    "tweet5": {
+      "content": "“金牛私募”源乐晟曾晓洁：头部企业股权价值将呈现长时间慢牛；股市可能低估了其盈利的可持续性，而高估了它的周期性"
+    },
+    "tweet6": {
+      "content": "天风证券：空调行业年中复盘与展望"
+    },
+    "tweet7": {
+      "content": "江苏雷利(300660)：H1业绩短期承压 医疗领域布局打开成长空间"
+    },
+    "tweet8": {
+      "content": "A股融资融券日报：两融余额增加32.37亿元（8月27日）"
+    },
+    "tweet9": {
+      "content": "北向资金动向盘点：“换子”电动汽车"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "【申港家电】PEER_COMPANY半年报点评：Q2修复优势强化，效率改革开启新章"
+    },
+    "tweet2": {
+      "content": "净利遭腰斩！空调被反超，PERSON_CEO的COMPANY_X还香吗？ 盈利能力下降"
+    },
+    "tweet3": {
+      "content": "COMPANY_X发布2020上半年财报：新晋大股东高瓴多方面赋能创新发展"
+    },
+    "tweet4": {
+      "content": "COMPANY_X半年财报：新零售模式效果显著，新晋股东高瓴赋能多元化转型"
+    },
+    "tweet5": {
+      "content": "COMPANY_X上半年营收706.02亿元 净利润较上年同期下降近50% 盈利能力下降"
+    },
+    "tweet6": {
+      "content": "COMPANY_X上半年净利同比降近54% PERSON_CEO撂话\"不纠结短期数据\" 盈利能力下降"
+    },
+    "tweet7": {
+      "content": "PEER_COMPANY、COMPANY_X、PEER_COMPANY业绩集体滑坡 白电三巨头各寻出路 盈利能力下降"
+    },
+    "tweet8": {
+      "content": "COMPANY_X不敌PEER_COMPANY，失去保持24年的空调老大地位"
+    },
+    "tweet9": {
+      "content": "中考发榜，COMPANY_XPEER_COMPANYPEER_COMPANY哪家强？"
+    },
+    "tweet10": {
+      "content": "Costco华南总部落户深圳；PERSON_CEO：大家对我的期望太高了；“义乌小商品城”开进天猫；深圳盒马21家门店全部复业。"
+    },
+    "tweet11": {
+      "content": "北向资金本月现净卖出，终结连续4个月净买入格局，50股上榜成交活跃股名单"
+    },
+    "tweet12": {
+      "content": "6000亿目标承压，COMPANY_X多元化不顺？PERSON_CEO：对我期望太高了"
+    },
+    "tweet13": {
+      "content": "COMPANY_X空调业务首次输给PEER_COMPANYPERSON_CEO2500亿目标能完成吗"
+    },
+    "tweet14": {
+      "content": "北向资金午后狂卖逾100亿，发生了什么？"
+    },
+    "tweet15": {
+      "content": "白电“三巨头”年中PK，PEER_COMPANY营收约2个COMPANY_X"
+    },
+    "tweet16": {
+      "content": "COMPANY_X(COMPANY_X)：疫情+去库存业绩承压 中报维持高分红率"
+    },
+    "tweet17": {
+      "content": "COMPANY_X(COMPANY_X)：经营最坏阶段已经过去 分红与回购情况超预期"
+    },
+    "tweet18": {
+      "content": "海外可助PEER_COMPANY，空调难救COMPANY_X"
+    },
+    "tweet19": {
+      "content": "北向资金净流出80.26亿元，面板龙头获外资大幅加仓"
+    },
+    "tweet20": {
+      "content": "白电三巨头上半年业绩齐降，PEER_COMPANY营收、净利润已是COMPANY_X两倍 盈利能力下降"
+    },
+    "tweet21": {
+      "content": "两空调巨头半年报：疫情影响下毛利率普降 PEER_COMPANY空调收入赶上COMPANY_X 盈利能力下降"
+    },
+    "tweet22": {
+      "content": "A股中报出炉，5大主力资金重仓名单全披露"
+    },
+    "tweet23": {
+      "content": "PERSON_CEO带货不管用，COMPANY_X空调首次输给PEER_COMPANY"
+    },
+    "tweet24": {
+      "content": "PEER_COMPANY空调营收首超COMPANY_X；PERSON_CEO：我们不作假，如实向社会公布"
+    },
+    "tweet25": {
+      "content": "疫情下的白电：上半年PEER_COMPANY空调收入首超COMPANY_X，三巨头业绩差距拉大"
+    },
+    "tweet26": {
+      "content": "2020上半年中国中央空空调市场呈大幅下跌趋势 未来中央空调行业前景规模分析"
+    },
+    "tweet27": {
+      "content": "梁宝俊：联通推八大行动，以场景应用推动5G+工业互联网“新基建”"
+    },
+    "tweet28": {
+      "content": "COMPANY_X2020年上半年财报发布：营业总收入706.02亿元"
+    },
+    "tweet29": {
+      "content": "COMPANY_X上半年总营收大幅下降，PERSON_CEO：大家对我的期望太高了 盈利能力下降"
+    },
+    "tweet30": {
+      "content": "COMPANY_X转型之路坎坷？PERSON_CEO：我觉得很好，大家对我期望太高了"
+    },
+    "tweet31": {
+      "content": "42公司获得增持评级-更新中"
+    },
+    "tweet32": {
+      "content": "COMPANY_XPEER_COMPANY疫情下的半年报：COMPANY_X优势指标失守"
+    },
+    "tweet33": {
+      "content": "PERSON_CEO“失算”？ 董秘离职 净利暴跌53% 流动负债1645亿 COMPANY_X怎么了 盈利能力下降"
+    },
+    "tweet34": {
+      "content": "COMPANY_X“新零售”成果显著二季度强势复苏 继续大额分红传统"
+    },
+    "tweet35": {
+      "content": "COMPANY_X上半年净利下滑53.7%，拟每10股派发现金红利10元 盈利能力下降"
+    },
+    "tweet36": {
+      "content": "COMPANY_X上半年营收同比下降29% 空调营收413亿元 低于PEER_COMPANY 盈利能力下降"
+    },
+    "tweet37": {
+      "content": "半年报来了 空调大战“疫”发激烈！"
+    },
+    "tweet38": {
+      "content": "COMPANY_XPEER_COMPANY疫情下的半年报：COMPANY_X优势指标失守"
+    },
+    "tweet39": {
+      "content": "【财报智读】COMPANY_X：2020年上半年归母净利润63.62亿元，同比下降53.73% 盈利能力下降"
+    },
+    "tweet40": {
+      "content": "【面包财报】COMPANY_X：2020年上半年归母净利润63.62亿元，同比下降53.73% 盈利能力下降"
+    },
+    "tweet41": {
+      "content": "PERSON_CEO回应COMPANY_X半年报业绩下滑：大家对我的期望太高了 盈利能力下降"
+    },
+    "tweet42": {
+      "content": "北上资金强势回流主力增持一消费龙头"
+    },
+    "tweet43": {
+      "content": "COMPANY_X净利暴降54% 主要原因疫情期间终端消费需求减弱 盈利能力下降"
+    },
+    "tweet44": {
+      "content": "COMPANY_X2020上半年营收下降28.21% 2020年中国家电市场规模格局分析"
+    },
+    "tweet45": {
+      "content": "COMPANY_X净利暴降54% 未来制冷空调设备市场发展趋势 盈利能力下降"
+    },
+    "tweet46": {
+      "content": "COMPANY_X上半年营业总收入706.02亿元 同比下降28.21% 盈利能力下降"
+    },
+    "tweet47": {
+      "content": "家电双雄半年报PK：PERSON_CEO带货难挽，COMPANY_X业绩腰斩不及PEER_COMPANY一半 盈利能力下降"
+    },
+    "tweet48": {
+      "content": "COMPANY_X上半年净利同比降近54%PERSON_CEO撂话\"不纠结短期数据\" 盈利能力下降"
+    },
+    "tweet49": {
+      "content": "融资客青睐10股，美好置业买入占比高达41.33%"
+    },
+    "tweet50": {
+      "content": "31日公司新闻聚焦：“家电双雄”中报同日交卷 全棉时代母公司回A股"
+    },
+    "tweet51": {
+      "content": "三大报精华摘要：疫情冲击正缓解，八成A股上半年盈利"
+    },
+    "tweet52": {
+      "content": "A股融资融券日报：两融余额增加31.43亿元（8月28日）"
+    },
+    "tweet53": {
+      "content": "【华创家电】COMPANY_X：经营表现迎来边际改善，中期分红提振发展信心"
+    },
+    "tweet54": {
+      "content": "上市公司正负面新闻2020年8月31日星期一"
+    },
+    "tweet55": {
+      "content": "晚间公告热点追踪：闻泰科技净利增逾7倍 四大行上半年净利均下降"
+    },
+    "tweet56": {
+      "content": "“家电双雄”中报同日交卷PEER_COMPANY空调营收首超COMPANY_X"
+    },
+    "tweet57": {
+      "content": "业绩集体滑坡 白电三巨头各寻出路 盈利能力下降"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "PEER_PRODUCT股价为何连续多日涨停？"
+    },
+    "tweet2": {
+      "content": "【招商策略】北上资金延续波动，主板配比止跌回升——2020年8月陆股通持股分析"
+    },
+    "tweet3": {
+      "content": "6只股获北向资金连续净买入"
+    },
+    "tweet4": {
+      "content": "雷军创下全国第一，COMPANY_X业绩却大幅下滑，PERSON_CEO还觉得不错？ 盈利能力下降"
+    },
+    "tweet5": {
+      "content": "“空调老大”被PEER_COMPANY夺走 COMPANY_X上半年净利润腰斩 空调毛利率下滑 盈利能力下降"
+    },
+    "tweet6": {
+      "content": "PERSON_CEO带货难救COMPANY_X业绩:直播销售178亿,占二季度营收36%;净利减半,库存增80亿 盈利能力下降"
+    },
+    "tweet7": {
+      "content": "联商头条：达芙妮称未退出实体零售 大润发首开中型超市"
+    },
+    "tweet8": {
+      "content": "联商头条：大润发首开中型超市 达芙妮称未退出实体零售"
+    },
+    "tweet9": {
+      "content": "家电三巨头中期业绩集体滑坡 转战线上渠道谁更胜一筹？ 盈利能力下降"
+    },
+    "tweet10": {
+      "content": "COMPANY_X“空调老大”地位被PEER_COMPANY取代，PERSON_CEO坦言：大家对我的期望太高了|钛快讯"
+    },
+    "tweet11": {
+      "content": "二季度外资配置股曝光：QFII、陆股通共同加仓29股"
+    },
+    "tweet12": {
+      "content": "COMPANY_X(COMPANY_X)：业绩改善 分红有望回归常态"
+    },
+    "tweet13": {
+      "content": "拟收购PEER_PRODUCT中国 格兰仕欲圆梦大白电"
+    },
+    "tweet14": {
+      "content": "午报 | 苹果iPhone12海报曝光；马云称开学第一课应该给家长上"
+    },
+    "tweet15": {
+      "content": "PERSON_CEO回应COMPANY_X半年报业绩下滑 2020家电行业份额及发展趋势分析 盈利能力下降"
+    },
+    "tweet16": {
+      "content": "巨丰数据赢｜北上资金谨慎情绪提升 主力逆势增持一细分龙头"
+    },
+    "tweet17": {
+      "content": "半年报“一波三折”，白电三巨头正和博弈"
+    },
+    "tweet18": {
+      "content": "PERSON_CEO决策失误？COMPANY_X业绩遭遇“滑铁卢”，与雷军赌约或成空话"
+    },
+    "tweet19": {
+      "content": "如果没有PERSON_CEO直播带货，COMPANY_X上半年财报会更难看"
+    },
+    "tweet20": {
+      "content": "上半年公募基金调仓路径曝光"
+    },
+    "tweet21": {
+      "content": "疫情对国内空调行业线下零售市场带来较大的冲击"
+    },
+    "tweet22": {
+      "content": "PEER_COMPANYCOMPANY_X同日发布中报，营收净利均双降 盈利能力下降"
+    },
+    "tweet23": {
+      "content": "COMPANY_X空调业务被PEER_COMPANY超越，PERSON_CEO可能“有点烦”"
+    },
+    "tweet24": {
+      "content": "上调评级至买入策略选股（9月1日）"
+    },
+    "tweet25": {
+      "content": "A股融资融券日报：两融余额增加106.79亿元（8月31日）"
+    },
+    "tweet26": {
+      "content": "白电三巨头半年报：PEER_COMPANY优势凸显 COMPANY_X、PEER_COMPANY以改革赌明天"
+    },
+    "tweet27": {
+      "content": "港股盘前必读：北向资金净卖出80.26亿元创7月24日以来新高"
+    },
+    "tweet28": {
+      "content": "北向资金动向盘点：减仓80亿，“食、药”是重点"
+    },
+    "tweet29": {
+      "content": "PEER_COMPANYCOMPANY_X大战胜负初显，PEER_COMPANY市场份额大涨但打败COMPANY_X就真是胜利？"
+    },
+    "tweet30": {
+      "content": "白电双雄记：COMPANY_X减速 营收仅为PEER_COMPANY一半 盈利能力下降"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "连续5日净买入COMPANY_X获深股通净买入20.04亿元"
+    },
+    "tweet2": {
+      "content": "炎热夏季空调行业遇冷 消费者究竟想要什么？"
+    },
+    "tweet3": {
+      "content": "晚间重要公告2020年9月2日星期三"
+    },
+    "tweet4": {
+      "content": "利润腰斩让位PEER_COMPANY，极力推动COMPANY_X多元化的PERSON_CEO再次折戟于单一化 盈利能力下降"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：已耗资26.3亿元回购股份"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：已累计耗资26.3亿元回购公司股份"
+    },
+    "tweet7": {
+      "content": "COMPANY_X：已耗资26.3亿元回购股份"
+    },
+    "tweet8": {
+      "content": "COMPANY_X(COMPANY_X)截至8月底累计回购约26.3亿元的股份"
+    },
+    "tweet9": {
+      "content": "马静芬：PERSON_CEO性格像个男子汉 一般女人做不到"
+    },
+    "tweet10": {
+      "content": "炎热夏季空调行业遇冷：整体销量下滑 盈利能力下降"
+    },
+    "tweet11": {
+      "content": "小熊电器股东首次拟减持上市前所持股份 李一峰家族持股市值目前已超127亿元 拟减持股份"
+    },
+    "tweet12": {
+      "content": "2分钟读财报|COMPANY_X净利腰斩跑输PEER_COMPANY PERSON_CEO放言不纠结短期数据"
+    },
+    "tweet13": {
+      "content": "永泰县市场监督管理局关于永泰县城峰镇和晟家用电器店行政处罚 其他违规处罚"
+    },
+    "tweet14": {
+      "content": "COMPANY_X与PEER_COMPANY距离 差的不仅是四个“PERSON_CEO带货”"
+    },
+    "tweet15": {
+      "content": "白电“三巨头”半年报：PEER_COMPANY稳健、PEER_COMPANY走强 、COMPANY_X失意"
+    },
+    "tweet16": {
+      "content": "COMPANY_X(COMPANY_X)：Q2经营改善 期待渠道改革"
+    },
+    "tweet17": {
+      "content": "海立股份(600619)：Q2单季收入降幅缩窄 期待经营改善 盈利能力下降"
+    },
+    "tweet18": {
+      "content": "A股融资融券日报：两融余额增加35.99亿元（9月1日）"
+    },
+    "tweet19": {
+      "content": "深度*公司*索菲亚(002572)：Q2业绩环比改善 零售接单明显好转"
+    },
+    "tweet20": {
+      "content": "PEER_COMPANY(000333)2020年中报点评：综合市占率稳步提升 业绩符合预期"
+    },
+    "tweet21": {
+      "content": "9月开门红难掩热点涣散，看“聪明钱”如何投资A股"
+    },
+    "tweet22": {
+      "content": "6股获北向资金连续净买入 COMPANY_X连续4天获净买入"
+    },
+    "tweet23": {
+      "content": "民族品牌指数跌0.38%，多只成分股获券商青睐"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "COMPANY_X(COMPANY_X)：渠道稳步变革 Q2环比增长"
+    },
+    "tweet2": {
+      "content": "格兰仕距离世界五百强和千亿营收，还差几个PEER_PRODUCT？"
+    },
+    "tweet3": {
+      "content": "围城里的PERSON_CEO | 艾问人物"
+    },
+    "tweet4": {
+      "content": "COMPANY_X申请汽车相关专利"
+    },
+    "tweet5": {
+      "content": "核级压缩机实现国产化 技术指标达到“国际先进”水平"
+    },
+    "tweet6": {
+      "content": "PERSON_CEO又双叒要准备直播吗？26.3亿回购股份是为这"
+    },
+    "tweet7": {
+      "content": "COMPANY_X：回购用于股权激励 正推进销售渠道改革|公司问答"
+    },
+    "tweet8": {
+      "content": "徐涛：家电行业PEER_COMPANY和COMPANY_X差距在缩小 但COMPANY_X技术储备基础仍在"
+    },
+    "tweet9": {
+      "content": "COMPANY_X申请汽车相关专利"
+    },
+    "tweet10": {
+      "content": "PERSON_CEO造车梦不死？COMPANY_X汽车专利曝光"
+    },
+    "tweet11": {
+      "content": "PEER_COMPANY李东生“乌龙指”会如何处罚？ 捋一捋法理就有答案了"
+    },
+    "tweet12": {
+      "content": "白电谁最赚钱谁在掉队？三巨头座次之争没完"
+    },
+    "tweet13": {
+      "content": "COMPANY_X：未接到有“COMPANY_X去年双11卖问题空调给消费者”相关投诉"
+    },
+    "tweet14": {
+      "content": "【申港家电】Q2疫情影响消退 业绩持续复苏回暖——家用电器行业周报W36"
+    },
+    "tweet15": {
+      "content": "COMPANY_X新增驱动制动装置、及具有该装置的汽车专利"
+    },
+    "tweet16": {
+      "content": "COMPANY_X新增驱动制动装置、及具有该装置的汽车专利"
+    },
+    "tweet17": {
+      "content": "PEER_COMPANYCOMPANY_X营收双双下滑，近年来两大家电巨头商业布局盘点 盈利能力下降"
+    },
+    "tweet18": {
+      "content": "COMPANY_X(COMPANY_X)2020年半年报点评：期待渠道变革和多元化突破"
+    },
+    "tweet19": {
+      "content": "主编时氪 | COMPANY_X空调败给PEER_COMPANY：产品单一、渠道受冲击，2500亿目标难实现"
+    },
+    "tweet20": {
+      "content": "财报发布后 COMPANY_X再砸26.3亿回购股份"
+    },
+    "tweet21": {
+      "content": "最猛拟减持18%，40+份减持公告来了 拟减持股份"
+    },
+    "tweet22": {
+      "content": "PEER_COMPANYCOMPANY_X发布半年报，天眼查盘点近年来PEER_COMPANY和COMPANY_X两大家电巨头的商业布局"
+    },
+    "tweet23": {
+      "content": "PEER_COMPANY、COMPANY_X近年来商业布局盘点：PEER_COMPANY多元、COMPANY_X集中"
+    },
+    "tweet24": {
+      "content": "巨丰数据赢｜北上资金谨慎情绪依在 该股被资金逢低买入"
+    },
+    "tweet25": {
+      "content": "PEER_COMPANY和COMPANY_X两大家电巨头近年在哪些领域有所布局？"
+    },
+    "tweet26": {
+      "content": "平煤神马集团董事长与COMPANY_XPERSON_CEO洽谈合作开发储能、钛酸锂电池等业务"
+    },
+    "tweet27": {
+      "content": "A股融资融券日报：两融余额增加98.95亿元（9月2日）"
+    },
+    "tweet28": {
+      "content": "闻泰科技(600745)20H1财报点评：智能机ODM业务业绩弹性较大 功率业务晶圆和封测扩产抢占本土市场"
+    },
+    "tweet29": {
+      "content": "5股获北向资金连续净买入 COMPANY_X连续5天获净买入"
+    },
+    "tweet30": {
+      "content": "民族品牌指数涨0.41% 片仔癀市值突破1600亿元"
+    },
+    "tweet31": {
+      "content": "平煤神马集团董事长与PERSON_CEO会谈：在光伏、储能、装备等领域探索合作路径"
+    },
+    "tweet32": {
+      "content": "上市公司正负面新闻2020年9月3星期四"
+    },
+    "tweet33": {
+      "content": "10年22倍！超级品牌概念股来了6股站在下个风口"
+    },
+    "tweet34": {
+      "content": "一大波产业龙头闪电回购 多数用于激励核心骨干"
+    },
+    "tweet35": {
+      "content": "COMPANY_X核级冷水机组 护航“华龙一号”三代核电"
+    },
+    "tweet36": {
+      "content": "一大波产业龙头闪电回购多数用于激励核心骨干"
+    },
+    "tweet37": {
+      "content": "PERSON_CEO放大招！COMPANY_X已砸26亿回购，更有2000亿面板巨头出手，1天回购超10亿！"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "让出COMPANY_X大股东位置、投资小米产业基金 COMPANY_X这波操作释放了啥信号？"
+    },
+    "tweet2": {
+      "content": "COMPANY_X和小米“联手”了？注意：此COMPANY_X非彼COMPANY_X"
+    },
+    "tweet3": {
+      "content": "COMPANY_X出资35.4亿与小米合作，雷军和PERSON_CEO要牵手合作了？"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：自研“华龙一号”核级冷水机组诞生"
+    },
+    "tweet5": {
+      "content": "华为遭殃小米躺赢？雷军终于战胜PERSON_CEO 6000亿小米等于2个COMPANY_X"
+    },
+    "tweet6": {
+      "content": "小米COMPANY_X官宣“在一起” PERSON_CEO：雨我无瓜"
+    },
+    "tweet7": {
+      "content": "中国股市策略-陆股通：五个月以来首次录得净流出"
+    },
+    "tweet8": {
+      "content": "【业界】COMPANY_X/小米达成战略合作雷军PERSON_CEO联手共同打造生态？"
+    },
+    "tweet9": {
+      "content": "“COMPANY_X”与小米战略合作，董小姐和雷军“牵手”了？不是这么简单"
+    },
+    "tweet10": {
+      "content": "新国标实施！空调行业面临洗牌：行业要变天"
+    },
+    "tweet11": {
+      "content": "PEER_COMPANY空调营收超过COMPANY_X，看看PERSON_CEO怎么说"
+    },
+    "tweet12": {
+      "content": "空调一哥易主，COMPANY_X遭遇业绩寒冬，PERSON_CEO带货能否扭转乾坤？"
+    },
+    "tweet13": {
+      "content": "COMPANY_X接入小米生态链！别慌，此COMPANY_X非彼COMPANY_X"
+    },
+    "tweet14": {
+      "content": "PEER_COMPANY(000333)：疫情之下韧性强劲 2H20稳步增长可期"
+    },
+    "tweet15": {
+      "content": "COMPANY_X与小米达成战略合作 2020智能家电市场发展规模前景预测"
+    },
+    "tweet16": {
+      "content": "小米(1810.HK)逆势上涨 COMPANY_X出资35.45亿元参投小米产业基金"
+    },
+    "tweet17": {
+      "content": "COMPANY_X官宣将和小米合作 这回不打赌 要在一起了！"
+    },
+    "tweet18": {
+      "content": "发生了什么？5000亿PEER_COMPANY连续两日惊现大宗交易"
+    },
+    "tweet19": {
+      "content": "“大妖股”大跌14%，竟然翻红了……"
+    },
+    "tweet20": {
+      "content": "官宣！小米COMPANY_X在一起了 PERSON_CEO35亿牵手成功"
+    },
+    "tweet21": {
+      "content": "35亿牵手成功！COMPANY_X与小米达成战略合作"
+    },
+    "tweet22": {
+      "content": "COMPANY_X牵手小米：出资35.45亿元参投小米产业基金 多方面开展深度合作"
+    },
+    "tweet23": {
+      "content": "白电企业上半年营收微降 盈利能力下降"
+    },
+    "tweet24": {
+      "content": "COMPANY_X与小米集团、中信银行达成战略合作，深入对接和引进小米生态链企业"
+    },
+    "tweet25": {
+      "content": "政策跟踪+案例详解 总结潜力股的三个共同特征：《三年计划》落地在即 国企改革风云再起"
+    },
+    "tweet26": {
+      "content": "COMPANY_X等44股获北向资金连续5天增持"
+    },
+    "tweet27": {
+      "content": "用5G“新基建” 引领洛阳制造业高质量发展"
+    },
+    "tweet28": {
+      "content": "白电“双雄”半年业绩跌入十年低谷 盈利能力下降"
+    },
+    "tweet29": {
+      "content": "巨丰数据赢｜北上资金保持观望 一股被主力在低位增持"
+    },
+    "tweet30": {
+      "content": "每日理财观察：家族信托需求井喷，存续规模突破1000亿"
+    },
+    "tweet31": {
+      "content": "A股融资融券日报：两融余额增加7.94亿元（9月3日）"
+    },
+    "tweet32": {
+      "content": "家电企业半年报：大家电业绩分化明显 小家电潜力十足"
+    },
+    "tweet33": {
+      "content": "“天花板”下PEER_COMPANYCOMPANY_X争霸战"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "家电行业8月月报及9月投资策略：改善再度确认 积极布局复苏板块"
+    },
+    "tweet2": {
+      "content": "空调霸主地位动摇 COMPANY_X上半年净利猛降54% 盈利能力下降"
+    },
+    "tweet3": {
+      "content": "家电三强争霸战浮现新格局 PEER_COMPANY何以领先一个身位？"
+    },
+    "tweet4": {
+      "content": "空调老大易主 PERSON_CEO有啥反应"
+    },
+    "tweet5": {
+      "content": "北上资金活跃股名单(9月7日)"
+    },
+    "tweet6": {
+      "content": "【聚焦增减持】中期业绩失守小家电反攻PEER_COMPANY突遭股东减持31亿！ 减持股份"
+    },
+    "tweet7": {
+      "content": "主力动向｜22股主力买入超亿元！COMPANY_X、泸州老窖、晶盛机电居前！"
+    },
+    "tweet8": {
+      "content": "套现13亿！PEER_COMPANY董事长回应：个人资产配置需要"
+    },
+    "tweet9": {
+      "content": "PEER_COMPANY董事长方洪波减持套现13亿元，PEER_COMPANY市值四交易日蒸发300亿 减持股份"
+    },
+    "tweet10": {
+      "content": "董事长高位套现13亿元PEER_COMPANY股价三连跌，后市如何？ 减持股份"
+    },
+    "tweet11": {
+      "content": "PEER_COMPANY方洪波减持，COMPANY_XPERSON_CEO增持，空调价格战一触即发？"
+    },
+    "tweet12": {
+      "content": "PEER_COMPANY刚成为空调老大董事长立刻套现13亿，PERSON_CEO悄悄在增持，空调价格战会一触即发么？"
+    },
+    "tweet13": {
+      "content": "多只千亿大白马杀跌，机构抱团松动？外资减仓近30亿"
+    },
+    "tweet14": {
+      "content": "COMPANY_X创新实践，建造更好的城市"
+    },
+    "tweet15": {
+      "content": "突遭董事长套现近14亿，5000亿家电龙头股价震荡，最新回应来了！"
+    },
+    "tweet16": {
+      "content": "神策数据王乾：微信生态与小程序发展趋势洞察"
+    },
+    "tweet17": {
+      "content": "无风不空调？COMPANY_X和PERSON_CEO玩“变脸”"
+    },
+    "tweet18": {
+      "content": "空凋有风没风？COMPANY_X公开与PERSON_CEO唱“反调”"
+    },
+    "tweet19": {
+      "content": "巨丰数据赢｜北上资金上周净流出 主力逢低增持一股"
+    },
+    "tweet20": {
+      "content": "PEER_COMPANY董事长减持套现近14亿 回应来了 减持股份"
+    },
+    "tweet21": {
+      "content": "A股融资融券日报：两融余额减少32.45亿元（9月4日）"
+    },
+    "tweet22": {
+      "content": "【家电&农业&纺织服装&轻工】彩电行业开启涨价趋势"
+    },
+    "tweet23": {
+      "content": "博敏电子(603936)重大事件快评：深耕PCB行业20年余载 厚积薄发正当时"
+    },
+    "tweet24": {
+      "content": "PEER_COMPANY“二号”罕见巨额套现，COMPANY_X回购加分红，家电双雄市值差1500亿"
+    },
+    "tweet25": {
+      "content": "“减持”小熊电器 减持股份"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "COMPANY_X闯入三亚 一场免税牌照的生意？"
+    },
+    "tweet2": {
+      "content": "深度*行业*家用电器行业中报总结：沉舟侧畔千帆过 病树前头万木春"
+    },
+    "tweet3": {
+      "content": "深股通连续3日净卖出COMPANY_X累计净卖出2.58亿元"
+    },
+    "tweet4": {
+      "content": "家电双周报||行业数据持续改善，新推荐跨境电商龙头安克创新"
+    },
+    "tweet5": {
+      "content": "地产竣工大年，三大逻辑成为家电行业下半年后市支撑"
+    },
+    "tweet6": {
+      "content": "拟收购PEER_PRODUCT中国 格兰仕欲圆梦大白电"
+    },
+    "tweet7": {
+      "content": "COMPANY_X：目前公司生产烤机暂无自洁功能"
+    },
+    "tweet8": {
+      "content": "深度*行业*家用电器行业周报：白电终端零售持续回暖 扫地机终端需求提升"
+    },
+    "tweet9": {
+      "content": "COMPANY_X“无风非空调”广告争议 网友质疑：PERSON_CEO曾多次称已制造出无风空调"
+    },
+    "tweet10": {
+      "content": "方洪波套现后PEER_COMPANY市值蒸发297亿元 机器人板块存商誉风险 减持股份"
+    },
+    "tweet11": {
+      "content": "刚刚战胜COMPANY_X就套现，PEER_COMPANY让你信心不足吗"
+    },
+    "tweet12": {
+      "content": "巨头支配下的空调行业，谁能突出重围？"
+    },
+    "tweet13": {
+      "content": "A股融资融券日报：两融余额减少28.1亿元（9月7日）"
+    },
+    "tweet14": {
+      "content": "PEER_COMPANY市值超COMPANY_X1300多亿，PERSON_CEO输在哪里？"
+    },
+    "tweet15": {
+      "content": "【摄氏零度】高库存积聚产销矛盾（“解锁史上最冷空调冷年”系列报道一）"
+    },
+    "tweet16": {
+      "content": "11款电饭煲对比测评：PEER_PRODUCT内胆刮划状态下“超标”"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "CAXA代理招募 国产替代刻不容缓，自主可控创业无忧"
+    },
+    "tweet2": {
+      "content": "COMPANY_X牵手小米集团，注意：不是COMPANY_X"
+    },
+    "tweet3": {
+      "content": "广州推家电“以旧换新”最高补贴800元！国美PEER_COMPANYCOMPANY_X执行落地"
+    },
+    "tweet4": {
+      "content": "空调到底应不应该有风？PERSON_CEO自己也懵"
+    },
+    "tweet5": {
+      "content": "国庆“价”提前放，京东五星“中央空调一口价”包安装"
+    },
+    "tweet6": {
+      "content": "PEER_COMPANY半年报空调业务收入超COMPANY_X 家电巨头发力线上求转型"
+    },
+    "tweet7": {
+      "content": "COMPANY_X空调为什么卖不动了？"
+    },
+    "tweet8": {
+      "content": "上峰水泥要投资芯片、还是个炒股高手 A股跨界半导体公司还有这些"
+    },
+    "tweet9": {
+      "content": "这家水泥企业也要投资芯片 还是个“炒股”高手！"
+    },
+    "tweet10": {
+      "content": "COMPANY_X闯入三亚 一场免税牌照的生意？"
+    },
+    "tweet11": {
+      "content": "京东方A两天砸20亿元回购 上市20余年首次实施股权激励"
+    },
+    "tweet12": {
+      "content": "COMPANY_X被PEER_COMPANY反超，PERSON_CEO彻底输了？"
+    },
+    "tweet13": {
+      "content": "A股融资融券日报：两融余额减少8.54亿元（9月8日）"
+    },
+    "tweet14": {
+      "content": "家用电器行业：沉舟侧畔千帆过 病树前头万木春"
+    },
+    "tweet15": {
+      "content": "空调行业格局之变：PEER_COMPANY制热？COMPANY_X制冷？"
+    },
+    "tweet16": {
+      "content": "【读财报】家电行业半年报：二季度业绩回暖小家电逆势走强"
+    },
+    "tweet17": {
+      "content": "COMPANY_X无风非空调广告引发争议：PERSON_CEO前后矛盾？"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "传九阳、COMPANY_X考虑竞购PEER_PRODUCT家电业务"
+    },
+    "tweet2": {
+      "content": "九阳、COMPANY_X考虑竞购PEER_PRODUCT家电业务"
+    },
+    "tweet3": {
+      "content": "卓宝科技入选省建筑防水新材料企业重点实验室建设项目，业内唯一"
+    },
+    "tweet4": {
+      "content": "A股异动|索菲亚(002572.SZ)涨逾7%和COMPANY_X互动频频"
+    },
+    "tweet5": {
+      "content": "白电市场上半年整体低迷，下半年还有哪些“掘金点”"
+    },
+    "tweet6": {
+      "content": "巨丰数据赢｜北上资金态度转变 近期主力增持一基建龙头"
+    },
+    "tweet7": {
+      "content": "上半年市场“萎靡” 白电企业下半年怎么玩"
+    },
+    "tweet8": {
+      "content": "A股融资融券日报：两融余额减少55.94亿元（9月9日）"
+    },
+    "tweet9": {
+      "content": "投资界24h|百胜中国今日港股IPO；蚂蚁集团9月18日首发上会；美团回应外卖骑手问题"
+    },
+    "tweet10": {
+      "content": "家电巨头转型之惑：方洪波巨额套现 COMPANY_X结盟小米"
+    },
+    "tweet11": {
+      "content": "平安下周分红127亿，COMPANY_X拟分60亿，PERSON_CEO两次分到现金近亿元"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "COMPANY_X已耗资37亿元回购"
+    },
+    "tweet2": {
+      "content": "侃财丨有的公司死了，但他还扣你的钱"
+    },
+    "tweet3": {
+      "content": "携手PEER_COMPANY起诉京东？COMPANY_X紧急回应 诉讼纠纷"
+    },
+    "tweet4": {
+      "content": "PEER_COMPANY正在透支未来？市值迅速蒸发 爆炸门事件愈演愈烈"
+    },
+    "tweet5": {
+      "content": "COMPANY_X联合PEER_COMPANY起诉京东？乌龙！是COMPANY_X告PEER_COMPANY！ 诉讼纠纷"
+    },
+    "tweet6": {
+      "content": "COMPANY_X(COMPANY_X)：COMPANY_X财务公司注册资本变更为30亿元 增资的工商变更手续已完成"
+    },
+    "tweet7": {
+      "content": "COMPANY_X：累计耗资37.16亿元回购1.1131%公司股份"
+    },
+    "tweet8": {
+      "content": "COMPANY_X(COMPANY_X)：累计耗资37.16亿元回购1.1131%股份"
+    },
+    "tweet9": {
+      "content": "最剧烈的洗牌 解锁史上最冷空调冷年"
+    },
+    "tweet10": {
+      "content": "PEER_COMPANY或赴港上市 “PEER_COMPANY兄弟合体”能否解决短板问题"
+    },
+    "tweet11": {
+      "content": "18条开庭公告！COMPANY_X联手PEER_COMPANY把京东告了 PEER_COMPANY去年曾被COMPANY_X实名举报，遭行政处罚10万元"
+    },
+    "tweet12": {
+      "content": "20Q2家电行业资金仓位变动研究：二季度机构资金更偏好厨小家电"
+    },
+    "tweet13": {
+      "content": "COMPANY_X与PEER_COMPANY状告京东侵害发明专利权 今日开庭 诉讼纠纷"
+    },
+    "tweet14": {
+      "content": "北上资金试探性进场 一游戏龙头业绩持续增长获增持"
+    },
+    "tweet15": {
+      "content": "招商家电｜9月观点:藏器于身 待时而动"
+    },
+    "tweet16": {
+      "content": "【兴证家电】COMPANY_X渠道改革近况更新，空调板块持续复苏 ——家电周报（20200907-20200913）"
+    },
+    "tweet17": {
+      "content": "引COMPANY_XPEER_COMPANY等众多“大佬”争抢 PEER_PRODUCT家电业务到底哪里“香”"
+    },
+    "tweet18": {
+      "content": "科技早闻：LG推出163英寸Micro LED巨型电视，摩托罗拉razr刀锋5G折叠手机发布"
+    },
+    "tweet19": {
+      "content": "PEER_PRODUCT出售家电业务，COMPANY_X、九阳都成了绯闻对象"
+    },
+    "tweet20": {
+      "content": "疫情期间火了空调产品直播带货，还能火多久？"
+    },
+    "tweet21": {
+      "content": "半年报“一波三折” 白电三巨头正和博弈"
+    },
+    "tweet22": {
+      "content": "犀牛财经早报：天山生物受起诉 ST藏格被证监会立案调查"
+    },
+    "tweet23": {
+      "content": "丢掉空调老大 PERSON_CEO能否反败为胜？"
+    },
+    "tweet24": {
+      "content": "交出半年报后遭遇“减持劫” PEER_COMPANY正在透支未来？ 减持股份"
+    },
+    "tweet25": {
+      "content": "PEER_COMPANY市值迅速蒸发 业内：充满挑战，难以预测"
+    },
+    "tweet26": {
+      "content": "PEER_COMPANY的镰刀"
+    },
+    "tweet27": {
+      "content": "COMPANY_X“掉队”PEER_COMPANY领先1300亿市值差距直面两大疑问"
+    },
+    "tweet28": {
+      "content": "新董事长亲自代言 上海家化坐不住了"
+    },
+    "tweet29": {
+      "content": "空调双雄战初见分晓！PERSON_CEO能否带领COMPANY_X反转"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "PERSON_CEO中国企业要有责任心"
+    },
+    "tweet2": {
+      "content": "COMPANY_X新增一项AI相关专利"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：现金流负增长40亿元系因疫情影响和应付票据到期承兑"
+    },
+    "tweet4": {
+      "content": "深度*行业*家用电器行业周报：行业线上维持较好水平 持续建议关注疫情“顺周期”主线"
+    },
+    "tweet5": {
+      "content": "COMPANY_X联手PEER_COMPANY？COMPANY_X回应：不实报道"
+    },
+    "tweet6": {
+      "content": "COMPANY_X联手PEER_COMPANY？PERSON_CEO：纯属不实报道"
+    },
+    "tweet7": {
+      "content": "这只5倍妖股彻底凉了？本周还有哪些大事值得关注？"
+    },
+    "tweet8": {
+      "content": "【摄氏零度】空调渠道变革 疾如旋踵（“解锁史上最冷空调冷年”系列报道四）"
+    },
+    "tweet9": {
+      "content": "A股融资融券日报：两融余额减少19.68亿元（9月11日）"
+    },
+    "tweet10": {
+      "content": "家电行业周报：政企联合促进消费 有望带动终端销售"
+    },
+    "tweet11": {
+      "content": "与COMPANY_X相比，感觉PEER_COMPANY更美了"
+    },
+    "tweet12": {
+      "content": "粉笔网 CEO 怒骂千万广告费仅 10 秒出镜上热搜；美国对华为新禁令将于 9 月 15 日正式生效；PEER_COMPANY科技公司股票于9月17日停牌｜Do早报"
+    },
+    "tweet13": {
+      "content": "财富早知道 | 是否要大规模接种新冠疫苗？"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "“COMPANY_X”接入小米生态链！"
+    },
+    "tweet2": {
+      "content": "2020年，空调市场“冷风吹过”"
+    },
+    "tweet3": {
+      "content": "COMPANY_X现1笔大宗交易 共成交1,226.94万元"
+    },
+    "tweet4": {
+      "content": "家用电器行业行业专题研究：从PEER_COMPANY自我进化看COMPANY_X渠道变革：顺势而变，行稳致远"
+    },
+    "tweet5": {
+      "content": "家电行业8月家电行业电商数据报告：8月线上销售全面复苏，空调实现量价齐升，维持“推荐”评级"
+    },
+    "tweet6": {
+      "content": "东华测试：电路板测试产品已在COMPANY_X、PEER_COMPANY、华为等厂家配套使用"
+    },
+    "tweet7": {
+      "content": "A股融资融券日报：两融余额增加37.47亿元（9月14日）"
+    },
+    "tweet8": {
+      "content": "COMPANY_X计划发行不超过20亿元公司债"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "PERSON_CEO输了，中国最大空调集团诞生：超越COMPANY_X，半年入账1397亿！"
+    },
+    "tweet2": {
+      "content": "业绩滑坡白电企业比拼进入新赛道 盈利能力下降"
+    },
+    "tweet3": {
+      "content": "COMPANY_X现1笔大宗交易 共成交2,835.63万元"
+    },
+    "tweet4": {
+      "content": "别人狂喷PERSON_CEO时我送她花儿"
+    },
+    "tweet5": {
+      "content": "京东成被告真相原来如此 COMPANY_X否认与PEER_COMPANY联手"
+    },
+    "tweet6": {
+      "content": "\"东北茅台\"又暴跌 9月蒸发455亿!金磊到底违规没? 其他违规处罚"
+    },
+    "tweet7": {
+      "content": "低位竞价持续，空调市场的回暖势头会被打断吗？"
+    },
+    "tweet8": {
+      "content": "PEER_COMPANY赴港IPO，白电巨头们的资本博弈"
+    },
+    "tweet9": {
+      "content": "A股融资融券日报：两融余额增加29.0亿元（9月15日）"
+    },
+    "tweet10": {
+      "content": "净利润腰斩，经销商倒戈，COMPANY_X赢了线上输了全局？ 盈利能力下降"
+    },
+    "tweet11": {
+      "content": "行业老大被反超，空调“新冷年”不冷"
+    },
+    "tweet12": {
+      "content": "正式超越COMPANY_X，中国最大空调集团诞生，半年时间营收1390亿！"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "COMPANY_X(COMPANY_X)：大破大立 凤凰涅盘"
+    },
+    "tweet2": {
+      "content": "空调人为何不盼十一，只怕双十一？"
+    },
+    "tweet3": {
+      "content": "COMPANY_X现1笔大宗交易 共成交6,579.60万元"
+    },
+    "tweet4": {
+      "content": "零跑C11草图曝光，计划2021年正式上市"
+    },
+    "tweet5": {
+      "content": "广电运通(002152)：公司定增获国资委批复 加快“AI+”战略升级"
+    },
+    "tweet6": {
+      "content": "巨丰数据赢｜北上资金逆势回流 主力增持这一股"
+    },
+    "tweet7": {
+      "content": "引多家企业争抢 PEER_PRODUCT家电业务究竟“香”在哪儿"
+    },
+    "tweet8": {
+      "content": "业绩黯淡的COMPANY_X"
+    },
+    "tweet9": {
+      "content": "PEER_COMPANY港交所递表，场景品牌“三翼鸟”战略落地"
+    },
+    "tweet10": {
+      "content": "A股融资融券日报：两融余额增加1.73亿元（9月16日）"
+    },
+    "tweet11": {
+      "content": "大额减持后立马提高回购价PEER_COMPANY“平衡”了谁的利益? 减持股份"
+    },
+    "tweet12": {
+      "content": "华翔股份：中国铸造迈向高质量发展台阶，主板上市助力企业转型升级"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "【兴证家电】解读9/19桂林直播收官，COMPANY_X渠道改革更新 ——家电周报（20200914-20200920）"
+    },
+    "tweet2": {
+      "content": "老大位置被抢，利润腰斩，PERSON_CEO承诺的一人一套房，还能实现吗？ 盈利能力下降"
+    },
+    "tweet3": {
+      "content": "COMPANY_X现3笔大宗交易 共成交4,785.90万元"
+    },
+    "tweet4": {
+      "content": "PERSON_CEO谈今年招五千多名大学生：要给他们出路 公司研发无止境"
+    },
+    "tweet5": {
+      "content": "鸿蒙登场 跨品牌的智能家居系统来了"
+    },
+    "tweet6": {
+      "content": "PERSON_CEO桂林直播销售额为11.8亿，八场直播累计销售达341.8亿"
+    },
+    "tweet7": {
+      "content": "空调市场格局悄然重塑，行业老大被反超"
+    },
+    "tweet8": {
+      "content": "A股融资融券日报：两融余额增加36.6亿元（9月17日）"
+    },
+    "tweet9": {
+      "content": "住房福利哪家强？华为花62亿拿地建员工房，阿里腾讯给购房贷款"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "为什么不找另一半？PERSON_CEO：也没人敢找我"
+    },
+    "tweet2": {
+      "content": "【广证恒生家电】点评报告-COMPANY_X（COMPANY_X）-直播带货推动渠道改革，关注公司原材料集采销售大幅增长"
+    },
+    "tweet3": {
+      "content": "【兴证家电】8月COMPANY_X内销市占率重回第一--8月空调行业数据点评"
+    },
+    "tweet4": {
+      "content": "北上资金活跃股名单(9月21日)"
+    },
+    "tweet5": {
+      "content": "PERSON_CEO“风”吹桂林"
+    },
+    "tweet6": {
+      "content": "PERSON_CEO心中“男神”的标准是怎样的？"
+    },
+    "tweet7": {
+      "content": "PERSON_CEO首谈选儿媳妇标准"
+    },
+    "tweet8": {
+      "content": "PERSON_CEO称只为赚钱的企业目光短浅，优秀企业的生命与国家一体"
+    },
+    "tweet9": {
+      "content": "PERSON_CEO：仅纯粹考虑赚钱是目光短浅，企业发展离不开研发创新"
+    },
+    "tweet10": {
+      "content": "PERSON_CEO桂林直播说了什么？COMPANY_X“中国风”又是哪股风？"
+    },
+    "tweet11": {
+      "content": "8场直播带货341亿，整个COMPANY_X，可能只有PERSON_CEO一人笑了"
+    },
+    "tweet12": {
+      "content": "PEER_COMPANY“爆炸门”引发质量危机 转型科技集团仍处于投入期 产品问题"
+    },
+    "tweet13": {
+      "content": "北向资金净流出64.96亿元，白酒龙头再遭外资减仓"
+    },
+    "tweet14": {
+      "content": "COMPANY_X现1笔大宗交易 共成交502.90万元"
+    },
+    "tweet15": {
+      "content": "8月产业在线空调数据点评：8月空调内销／出口同比+0.9%／+7.5%"
+    },
+    "tweet16": {
+      "content": "家用电器行业：8月空调PEER_COMPANY、PEER_COMPANY内外销亮眼 社零、地产回暖"
+    },
+    "tweet17": {
+      "content": "PERSON_CEO：今后COMPANY_XPERSON_CEO微店将与三万家线下专卖店结合"
+    },
+    "tweet18": {
+      "content": "A股融资融券日报：两融余额增加37.75亿元（9月18日）"
+    },
+    "tweet19": {
+      "content": "盈利不敌COMPANY_XPEER_COMPANY “PEER_COMPANY兄弟”赴港上市能否走上智能化之路？"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "PERSON_CEO回应与雷军十亿赌约：我没要他也没给"
+    },
+    "tweet2": {
+      "content": "PERSON_CEO独家回应“无风空调”争议：我们研究了差不多快十年"
+    },
+    "tweet3": {
+      "content": "PERSON_CEO：PEER_COMPANY无风感空调是伪技术"
+    },
+    "tweet4": {
+      "content": "PERSON_CEO谈方洪波：接触不多难有评价"
+    },
+    "tweet5": {
+      "content": "PERSON_CEO首夸PEER_COMPANY：今年疫情竟然也增长这么好"
+    },
+    "tweet6": {
+      "content": "暂失空调老大地位！PERSON_CEO：纯粹考虑赚钱是目光短浅"
+    },
+    "tweet7": {
+      "content": "靠实力！PERSON_CEO称只为赚钱的企业目光短浅：要创造国际领先的技术"
+    },
+    "tweet8": {
+      "content": "PERSON_CEO： 制造业不能只考虑赚钱"
+    },
+    "tweet9": {
+      "content": "家电企业半年报出炉：大家电业绩分化明显 小家电行情火爆 盈利能力下降"
+    },
+    "tweet10": {
+      "content": "PERSON_CEO：我们14亿人口大国为什么要依赖别人的技术？"
+    },
+    "tweet11": {
+      "content": "COMPANY_X转型阵痛：定增方减持与高负债压力并存 减持股份"
+    },
+    "tweet12": {
+      "content": "2020年，空调市场“冷风吹过”"
+    },
+    "tweet13": {
+      "content": "巨头身影在造车势力中显现 这一风口会否再为阿里和腾讯左右？"
+    },
+    "tweet14": {
+      "content": "8月空调行业产业在线数据点评：新冷年开盘销量同比+2.8％ 内外销表现均稳健"
+    },
+    "tweet15": {
+      "content": "2020年清科研究中心私募通数据周报：本周投资、上市和并购共109起事件 涉及总金额253.01亿元人民币"
+    },
+    "tweet16": {
+      "content": "COMPANY_X等17股获北向资金增持额超亿元"
+    },
+    "tweet17": {
+      "content": "A股融资融券日报：两融余额增加19.59亿元（9月21日）"
+    },
+    "tweet18": {
+      "content": "盘前情报丨首批科创50ETF来了！天山生物等三大妖股今日复牌"
+    },
+    "tweet19": {
+      "content": "海澜之家回应成立半导体设备新公司；PERSON_CEO称只为赚钱的企业目光短浅；京东证实将分拆京东健康赴港上市"
+    },
+    "tweet20": {
+      "content": "北向资金动向盘点：净卖65亿，源自买入“地量”"
+    },
+    "tweet21": {
+      "content": "相对优势削弱，机构坚守消费股"
+    },
+    "tweet22": {
+      "content": "民族品牌指数跌1.03% 北向资金逆势买COMPANY_X"
+    },
+    "tweet23": {
+      "content": "联通唐雄燕：5G+ABCDE，让垂直行业转型“梦想照进现实”"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "【招商证券大消费组-消费的方向】09月大消费八大行业电话会议行业观点。"
+    },
+    "tweet2": {
+      "content": "PERSON_CEO：经济下行一点不是问题 但信心非常重要"
+    },
+    "tweet3": {
+      "content": "家电研究周报：借力顺周期+低估值"
+    },
+    "tweet4": {
+      "content": "关注函、警示函、监管函一个不差！深陷子公司原法人私刻印章案，4.6亿信披违规，欧比特超17亿非公开发行股票预案搁浅？\n金融监管处罚"
+    },
+    "tweet5": {
+      "content": "COMPANY_X获得一项手机外观设计专利授权"
+    },
+    "tweet6": {
+      "content": "澳门有望全面通关 COMPANY_X“大消费”迎来新契机"
+    },
+    "tweet7": {
+      "content": "“不斗中国制造怎么进步？”PERSON_CEO桂林直播11.8亿，实力证明“中国风”"
+    },
+    "tweet8": {
+      "content": "曝iPhone12于10月13日发布；PERSON_CEO再回应雷军赌约"
+    },
+    "tweet9": {
+      "content": "COMPANY_X桂林直播销售额达到11.8亿元"
+    },
+    "tweet10": {
+      "content": "A股融资融券日报：两融余额增加4.49亿元（9月22日）"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "名创优品IPO来袭！高瓴资本布局了哪些消费大牛股？"
+    },
+    "tweet2": {
+      "content": "COMPANY_X“投”小米：35亿布局集成电路、人工智能等领域，上半年营收下滑99% 盈利能力下降"
+    },
+    "tweet3": {
+      "content": "COMPANY_X\"弃\"PERSON_CEO\"投\"小米:套现400亿后营收降99%，密集投资成4家公司大股东 盈利能力下降"
+    },
+    "tweet4": {
+      "content": "PERSON_CEO称COMPANY_X手机业务没有失败，别人怎么看不重要"
+    },
+    "tweet5": {
+      "content": "COMPANY_X拥抱小米？李闻捷：地方国资平台转型是中国经济结构转型的缩影"
+    },
+    "tweet6": {
+      "content": "家用电器行业2020Q4策略：业绩修复确认、守望价值龙头"
+    },
+    "tweet7": {
+      "content": "国内将迎来今年第一个旅游高峰，COMPANY_X\"大消费\"再上新风口"
+    },
+    "tweet8": {
+      "content": "COMPANY_X设备中标深圳地铁12号线 助力深圳两区一港跑起来"
+    },
+    "tweet9": {
+      "content": "真正的战略配售基金，场内折价不香吗？"
+    },
+    "tweet10": {
+      "content": "空调卖场直击：新旧能标产品混搭，健康、舒适成主流"
+    },
+    "tweet11": {
+      "content": "万万想不到！COMPANY_X昔日大股东套现400亿，转身拥抱“死对头”小米……还布局这些上市公司！"
+    },
+    "tweet12": {
+      "content": "增速利润承压、PEER_COMPANYCOMPANY_X赶超：PEER_COMPANY身陷5大挑战"
+    },
+    "tweet13": {
+      "content": "COMPANY_X全国巡回直播第四站！“中国风”开启德州之旅"
+    },
+    "tweet14": {
+      "content": "A股融资融券日报：两融余额增加47.28亿元（9月23日）"
+    },
+    "tweet15": {
+      "content": "COMPANY_X生态重构：手握400亿现金 五大产业雏形已显"
+    },
+    "tweet16": {
+      "content": "PERSON_CEO自评直播带货：我觉得做得不够好"
+    },
+    "tweet17": {
+      "content": "PERSON_CEO谈直播带货：根本不存在挤压经销商利润空间"
+    },
+    "tweet18": {
+      "content": "PERSON_CEO谈家电行业：不择手段 胡说八道"
+    },
+    "tweet19": {
+      "content": "PERSON_CEO谈COMPANY_X手机：我觉得我没有失败"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "PERSON_CEO：COMPANY_X几乎零库存 发力几百亿不是问题"
+    },
+    "tweet2": {
+      "content": "PERSON_CEO谈PERSON_EXEC：原来也不是他接班"
+    },
+    "tweet3": {
+      "content": "PERSON_CEO：我不希望PEER_COMPANY倒掉"
+    },
+    "tweet4": {
+      "content": "高瓴投COMPANY_X，错了吗？"
+    },
+    "tweet5": {
+      "content": "核心公募基金公司持仓分析"
+    },
+    "tweet6": {
+      "content": "COMPANY_X投资小米产业基金35亿 布局集成电路 AI等领域"
+    },
+    "tweet7": {
+      "content": "活久见？COMPANY_X35亿投资小米，深度布局小米产业链"
+    },
+    "tweet8": {
+      "content": "房产市场传来新消息，涉及1.49亿人，“房奴”们不用惊慌了！"
+    },
+    "tweet9": {
+      "content": "转让COMPANY_X套现400多亿后，COMPANY_X35亿“拥抱”小米"
+    },
+    "tweet10": {
+      "content": "国庆、中秋假期激发“假日效应”，免税概念持续走强"
+    },
+    "tweet11": {
+      "content": "PERSON_CEO说直播带货不挤压经销商利润：垄断是不存在的"
+    },
+    "tweet12": {
+      "content": "A股融资融券日报：两融余额减少21.84亿元（9月24日）"
+    },
+    "tweet13": {
+      "content": "【银河家电】四季度策略：业绩修复确认、守望价值龙头"
+    },
+    "tweet14": {
+      "content": "国内家电企业频频收购外资家电"
+    },
+    "tweet15": {
+      "content": "COMPANY_X昔日大股东拟35亿投资小米"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "COMPANY_X遭深股通连续5日净卖出合计净卖出10.98亿元"
+    },
+    "tweet2": {
+      "content": "凉了，只有5400多亿！A股去散户化成功，机构镰刀将割机构"
+    },
+    "tweet3": {
+      "content": "数据解盘|今日北向资金合计净流入5.42亿元 医药制造板块遭主力资金抛售 股票卖空"
+    },
+    "tweet4": {
+      "content": "北向资金连续6日净流出，立讯精密、通威股份获外资加仓"
+    },
+    "tweet5": {
+      "content": "家用电器行业8月数据月报：空调均价持续改善 冰箱外销增长强劲"
+    },
+    "tweet6": {
+      "content": "男人的衣柜里，到底有什么秘密？"
+    },
+    "tweet7": {
+      "content": "COMPANY_X直播敲开山东“双黄蛋” 28/30日晚八点德州、临沂不见不散"
+    },
+    "tweet8": {
+      "content": "当“中国造”遇“物流之都” 临沂刮起极速“中国风”"
+    },
+    "tweet9": {
+      "content": "2020中企500强：工商银行赚得最多 PEER_COMPANY收入超PEER_COMPANY、COMPANY_X"
+    },
+    "tweet10": {
+      "content": "深度*行业*家用电器行业周报：线上市场有加速趋势 建议关注风险收益比较高标的"
+    },
+    "tweet11": {
+      "content": "COMPANY_X向小米抛绣球说明了什么？"
+    },
+    "tweet12": {
+      "content": "资色·深度丨一场地产与白酒的联姻：COMPANY_X携手茅台意欲何为？"
+    },
+    "tweet13": {
+      "content": "家电行业持续数年的较量，这一外资巨头，走向了“卖身”的道路！"
+    },
+    "tweet14": {
+      "content": "大资金有望加速流入！QFII新进重仓股曝光"
+    },
+    "tweet15": {
+      "content": "空调新冷年启动 新看点有哪些？"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "COMPANY_X“中国风”走进德州 直播销售额达22.2亿元"
+    },
+    "tweet2": {
+      "content": "9次直播收割364亿元?COMPANY_X加速打造新零售模式"
+    },
+    "tweet3": {
+      "content": "COMPANY_X德州直播销售22.2亿元 新零售模式加速建成"
+    },
+    "tweet4": {
+      "content": "PERSON_CEO全国巡回直播带货 山东“德”到22.2亿元"
+    },
+    "tweet5": {
+      "content": "家电行业2020年中报总结：空调厨电可选复苏 小家电高景气继续"
+    },
+    "tweet6": {
+      "content": "【观点集锦】中国银河证券2020年四季度策略报告会制造专场"
+    },
+    "tweet7": {
+      "content": "PERSON_CEO德州直播完成销售额22.2亿"
+    },
+    "tweet8": {
+      "content": "COMPANY_X35亿投小米？PERSON_CEO不想承认，但为啥前母公司说真香？"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "起底长安投资私募债接力迷局 COMPANY_X“暗度陈仓”输血银隆"
+    },
+    "tweet2": {
+      "content": "PERSON_CEO直播带货、方洪波会面陈明永家电大佬节前都在做什么？"
+    },
+    "tweet3": {
+      "content": "A股融资融券日报：两融余额减少40.71亿元（9月29日）"
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "COMPANY_X：前三季度商运发电量同比增长8.24%"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(601985.SH)前三季累计商运发电量增8.24%至1096.41亿千瓦时"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "中核集团14台核电机组WANO综合指数满分 并列世界第一"
+    },
+    "tweet2": {
+      "content": "田湾核电6号机组冷态功能试验一次成功，由安装阶段全面转入调试阶段"
+    },
+    "tweet3": {
+      "content": "2020海博会集聚海洋资源开发新动能"
+    },
+    "tweet4": {
+      "content": "中核集团14台机组获世界核电运营者协会第三季度考核综合指数满分－国务院国有资产监督管理委员会"
+    },
+    "tweet5": {
+      "content": "专主业、勇创新、讲诚信、补短板 沪市公司书写高质量发展“答卷”"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "公用事业2020年三季报业绩前瞻：火电继续强势修复 水电汛期发力逻辑兑现"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "国家电投发布三代核电自主化标志性成果“国和一号”－国务院国有资产监督管理委员会"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "A股头条之上市公司（10.20）"
+    },
+    "tweet2": {
+      "content": "中国核电非公开发行股票申请获审核通过"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：非公开发行申请获证监会审核通过"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(601985.SH)：定增申请获证监会发审委审核通过"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：非公开发行申请获证监会审核通过"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "公用事业及环保行业报告：生物质发电迎后补贴时代"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "晚间公告热点追踪：深交所出手 生物质发电第一股彻底凉凉"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：前三季度净利润同比增长33.23%"
+    },
+    "tweet3": {
+      "content": "中国核电公布三季报 前三季净利增加33.23%"
+    },
+    "tweet4": {
+      "content": "【研报掘金】年底前用电需求料持续修复 低估值高股息率下板块配置吸引力凸显"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(601985.SH)：前三季净利同比增33.23%至49.08亿元"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：前三季净利同比增长33.23%"
+    },
+    "tweet7": {
+      "content": "中国广核前三季度净利81.85亿元 同比小幅下滑 盈利能力下降"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "COMPANY_X(601985)：业绩同比高增 碳中和下打开成长空间"
+    },
+    "tweet2": {
+      "content": "中国核电2020年三季报：各项指标表现亮眼 企业发展未来可期"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "A股公司的三季报：超八成企业在盈利 海航控股新晋“亏损王” 亏损"
+    },
+    "tweet2": {
+      "content": "A股2020年三季报盘点：超八成公司盈利 航空公司遭重创"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "公用事业及环保行业报告：多地提醒告诫转供电主体严格落实降电价政策"
+    },
+    "tweet2": {
+      "content": "东方电气加大提质增效工作 销售、管理费用显著下降"
+    },
+    "tweet3": {
+      "content": "金融股“霸榜”A股净利前十"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "两大核电上市公司三季报出炉： 利润一涨一降 产能持续扩张 盈利能力下降"
+    },
+    "tweet2": {
+      "content": "COMPANY_X ：电量增长费用下降 Q3业绩超预期"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "COMPANY_X：三季度业绩超预期"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "【读财报】上市公司定增动态（2020年10月）：再融资市场降温"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "【国君公用】800MW！国内单体容量最大海上风电项目进入风机吊装阶段"
+    },
+    "tweet2": {
+      "content": "中国核电非公开发行股票申请获核准批复"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(601985.SH)获核准非公开发行不超约46.70亿股新股"
+    },
+    "tweet4": {
+      "content": "【国信金工】沪深核心指数成分股调整预测"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "公用事业及环保行业报告：江苏发布设计寿命期满燃煤机组延续运行条件"
+    },
+    "tweet2": {
+      "content": "题材 | 顺周期电力板块仍然值得关注！"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "电力行业周报：能源局公示首批储能示范项目 引领储能发展"
+    },
+    "tweet2": {
+      "content": "COMPANY_X、国投电力等入股北京电力交易中心有限公司"
+    },
+    "tweet3": {
+      "content": "COMPANY_X、国投电力等入股北京电力交易中心有限公司"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "数说电力：2020年11月刊"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "【机会挖掘】山东编制核能中长期发展规划 未来核电装机规模将达3000万千瓦以上（附股）"
+    },
+    "tweet2": {
+      "content": "国君煤炭公用 | 公用事业2021年投资策略：水电喜迎投产盛宴，碳中和承诺下风光大有可为"
+    },
+    "tweet3": {
+      "content": "国君煤炭公用 | 公用事业2021年投资策略：碳中和承诺下风光大有可为、水电喜迎投产盛宴"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "公用事业及环保行业报告：浙江省出台水泥行业超低排放改造实施方案"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：未来15年是我国核电大有作为的重要战略机遇期"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "【天风公用环保 | 日报】浙江、湖北、甘肃公布2020-2022年电价表"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(601985.SH)拟收购三门核电5%股权及辽宁核电4%股权"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "我国自主三代核电华龙一号成功并网 2021年我国核电发电量将达3840亿千瓦时"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "为什么说买沪深300不如买中证100"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "2021年电力行业年度投资策略报告：火电估值见底 水电防御价值突出"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "智慧能源旗下安缆如何成为行业领先？"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "公用事业及环保行业：十二部门发文进一步推进生活垃圾分类工作"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "【国君公用】河南省确定水电标杆上网电价标准0.32元/千瓦时 2021年1月1日起执行"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：拟21.11亿元收购中核汇能有限公司100%股权"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(601985.SH)拟以5亿元增资中国铀业持股比例4.23%"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(601985.SH)拟向控股股东收购中核汇能100%股权"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "中国核电又有大动作！集团资源整合，核能、新能源双发力"
+    },
+    "tweet2": {
+      "content": "继日本之后，中国也考虑退出英国1732亿核电项目！发生了什么？"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "政策措施推动可再生能源产业发展 未来新能源产业将成为核心产业"
+    },
+    "tweet2": {
+      "content": "2020上海国际电力电工展上海隆重开幕 推动电力行业发展 线上线下双轨联动"
+    },
+    "tweet3": {
+      "content": "2020年央企助力贵州发展大会召开"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "中国核电15台机组WANO综合指数满分"
+    },
+    "tweet2": {
+      "content": "A股融资融券日报：两融余额增加53.73亿元（12月17日）"
+    },
+    "tweet3": {
+      "content": "3410加速，一类股迎建仓良机"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "电力行业动态跟踪报告：数说电力(2020年12月刊)"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "公用事业2021年投资策略：碳中和承诺下风光大有可为 水电喜迎投产盛宴"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "COMPANY_X：福清5号机组预计近期投入商业运行"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：公司今年发电量预计将高于计划发电量"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "又一台核电机组开工，报告预测“十四五”每年有望上马6台"
+    },
+    "tweet2": {
+      "content": "华龙一号堆内构件不锈钢锻件成功研制 国产化再进一步"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "【金财富决策参考】2020-12-30"
+    },
+    "tweet2": {
+      "content": "中欧投资协定即将达成 相关公司有望受益"
+    },
+    "tweet3": {
+      "content": "拼搏2020|发出第一度电！今年“华龙一号”全球首堆并网成功"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "COMPANY_X(601985.SH)：中核集团及其一致行动人持股比例降至64.54%"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

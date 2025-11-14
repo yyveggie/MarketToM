@@ -1,0 +1,36 @@
+{
+  "labels": [
+    {
+      "day": "day1",
+      "label": 0
+    },
+    {
+      "day": "day2",
+      "label": 1
+    },
+    {
+      "day": "day3",
+      "label": 0
+    },
+    {
+      "day": "day4",
+      "label": 1
+    },
+    {
+      "day": "day5",
+      "label": 1
+    },
+    {
+      "day": "day6",
+      "label": 0
+    },
+    {
+      "day": "day7",
+      "label": 1
+    },
+    {
+      "day": "day8",
+      "label": 1
+    }
+  ]
+}

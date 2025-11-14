@@ -1,0 +1,367 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "公牛集团股份有限公司关于使用"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "晚间重要公告2020年8月17日星期一"
+    },
+    "tweet2": {
+      "content": "公牛集团2020年上半年营收净利双下滑 盈利能力下降"
+    },
+    "tweet3": {
+      "content": "下滑！COMPANY_X：2020年半年度净利润约8.04亿元，同比下降24.62% 盈利能力下降"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：上半年净利同比下降24.62% 盈利能力下降"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：上半年净利润同比减少24.62%"
+    },
+    "tweet6": {
+      "content": "COMPANY_X(603195.SH)半年度净利润降24.62%至8.04亿元 盈利能力下降"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "“插座一哥”不行了？公牛净利下滑24％，曾豪气分红22亿 盈利能力下降"
+    },
+    "tweet2": {
+      "content": "公牛集团半年报：增长遇阻 资金闲置"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(603195)：Q2环比改善明显 修炼内功等待腾飞"
+    },
+    "tweet4": {
+      "content": "COMPANY_X||Q2业绩环比改善，看好扩品类、工程渠道双轮驱动"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(603195)：20H1业绩超预期 产品渠道优势不断夯实"
+    },
+    "tweet6": {
+      "content": "COMPANY_X(603195)：复苏途中 坚守远路"
+    },
+    "tweet7": {
+      "content": "【面包财报】COMPANY_X：2020年上半年营业总收入41.09亿元，归母净利润8.04亿元"
+    },
+    "tweet8": {
+      "content": "【财报智读】COMPANY_X：2020年上半年营业总收入41.09亿元，归母净利润8.04亿元"
+    },
+    "tweet9": {
+      "content": "公牛集团经营现金流下滑23%，铜价大涨或引发成本上升"
+    },
+    "tweet10": {
+      "content": "47股获机构买入型评级 公牛集团关注度最高"
+    },
+    "tweet11": {
+      "content": "COMPANY_X(603195)：疫情后再扬帆 龙头致远"
+    },
+    "tweet12": {
+      "content": "COMPANY_X(603195)：二季度收入、利润环比回暖 产品、渠道布局拓展加速"
+    },
+    "tweet13": {
+      "content": "COMPANY_X(603195)：业绩承压 品类创新&渠道拓展强化竞争力"
+    },
+    "tweet14": {
+      "content": "公牛集团上半年营收与净利润双双下滑 分别下降17.35%与24.62% 盈利能力下降"
+    },
+    "tweet15": {
+      "content": "公牛集团上半年业绩下滑，Q2营收和净利润已较快恢复"
+    },
+    "tweet16": {
+      "content": "COMPANY_X(603195)：二季度业绩环比改善 民用电工巨头砥砺前行"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "【东吴电新】公牛集团20Q3点评：单季恢复增长，毛利环比改善"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(603195)：Q2加速恢复 逆势巩固渠道、丰富产品线"
+    },
+    "tweet3": {
+      "content": "公牛集团发布上市后首份中报 第二季度业绩实现较快恢复"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(603195)：需求复苏业绩回暖 多渠道协同孕育新机遇"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(603195)：修内功 走远路 二季度营收环比改善明显"
+    },
+    "tweet6": {
+      "content": "31公司获得增持评级-更新中"
+    },
+    "tweet7": {
+      "content": "COMPANY_X(603195)：公司环比改善明显 产品端持续创新"
+    },
+    "tweet8": {
+      "content": "COMPANY_X(603195)半年报点评：业绩符合预期 公司具备长期成长性"
+    },
+    "tweet9": {
+      "content": "【国金晨讯】上调中国飞鹤、汇川技术盈利预测，持续推荐美诺华"
+    },
+    "tweet10": {
+      "content": "开源晨会0819丨通信主设备产业壁垒凸显；精达转债申购价值分析；COMPANY_X、西山煤电、中科曙光、爱婴室等"
+    },
+    "tweet11": {
+      "content": "COMPANY_X(603195)：夯实产品与渠道优势 Q2营收改善"
+    },
+    "tweet12": {
+      "content": "COMPANY_X(603195)2020年中报点评：业绩快速修复 产品、渠道与生产优化共筑强大护城河"
+    },
+    "tweet13": {
+      "content": "招商家电｜COMPANY_X 603195-二季度快速恢复,长期增长基础夯实"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "科沃斯||2020Q2收入改善显著，净利率如期继续提升"
+    },
+    "tweet2": {
+      "content": "“排插一哥”公牛集团增长乏力 上半年净利润降至8.04亿元 盈利能力下降"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "公牛集团B端业务大突破 第二季营收环比劲增97.78%"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "思摩尔国际||盈利能力持续快速提升，2020H2维持高增长可期"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "新宝股份||2020Q2业绩超市场预期，摩飞内销持续高增长"
+    },
+    "tweet2": {
+      "content": "九阳股份||2020Q2业绩超市场预期，新产品新渠道拉动增长"
+    },
+    "tweet3": {
+      "content": "安踏体育||2020 H1 上半年业绩超预期， DTC 转型有望持续提升 收入规模及盈利能力"
+    },
+    "tweet4": {
+      "content": "申洲国际||上半年业绩超预期，全球OEM龙头的抗压性凸显"
+    },
+    "tweet5": {
+      "content": "公牛集团携手上上签 电子签约赋能新零售时代"
+    },
+    "tweet6": {
+      "content": "251股获券商买入评级 中国核电目标涨幅达71.12%"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "开润股份||上半年疫情影响业绩，2C端扩品类、扩品牌是亮点"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "家电周观点||家电中报总结：Q2业绩触底反弹，小家电表现亮眼"
+    },
+    "tweet2": {
+      "content": "老板电器||2020Q2业绩改善显著，新兴厨电品类增速较好"
+    },
+    "tweet3": {
+      "content": "小熊电器||业绩接近预告上限，看好渠道、品类、产能扩张"
+    },
+    "tweet4": {
+      "content": "裕同科技||2020H1业绩超出预期，继续看好“1+N”业务布局"
+    },
+    "tweet5": {
+      "content": "公牛集团募资只为存银行？关联交易或涉嫌“美化”报表"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "北鼎股份||高端养生小家电领军者，自主品牌内销表现亮眼"
+    },
+    "tweet2": {
+      "content": "核心产品营收增速趋缓！“插座一哥”公牛集团能否重回巅峰？"
+    },
+    "tweet3": {
+      "content": "公募基金持股集中度大幅提升"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "COMPANY_X(603195)：全面进击 公牛升级"
+    },
+    "tweet2": {
+      "content": "公牛还“牛”吗？|品质公司"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "十大基金公司 “最爱个股”曝光：易方达和交银、富国争抢科创板"
+    },
+    "tweet2": {
+      "content": "【华创轻工】轻工制造行业2020年中报总结：上半年整体经营承压，单二季度环比改善"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "家电双周报||行业数据持续改善，新推荐跨境电商龙头安克创新"
+    },
+    "tweet2": {
+      "content": "轻工行业2020年中报总结：家居复苏 造纸新周期 笔纸烟成长 电工恒强"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "轻工制造行业投资周报：后疫情时代消费回暖 关注低估值、业绩修复超预期标的"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "合集|【华创轻工纺服】公牛集团个股+行业深度研究合集（持续研究，不断更新）"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "中小券商谋突围：民生以量取胜，东莞国元发力创业板"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "COMPANY_X：特别人才持股计划成交5000.4万元"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(603195.SH)：2020年特别人才持股计划完成股票购买"
+    },
+    "tweet3": {
+      "content": "开润股份||参股优衣库核心供应商，2B业务剑指A股小申洲"
+    },
+    "tweet4": {
+      "content": "中泰证券：8月家电行业稳健复苏 建议把握两条投资主线（附股）"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

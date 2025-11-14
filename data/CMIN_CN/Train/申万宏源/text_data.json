@@ -1,0 +1,3505 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "COMPANY_X：将光大银行评级调高为\"买入\""
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "【申万宏源金融】平安银行业绩快报点评：不良逾期缺口补齐超预期，重申拐点组合首选"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "中国证券业协会在隰县开展系列扶贫活动"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "2018券商资管规模缩水两成，资管正从逐量到提质转变"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "COMPANY_X：发行H股申请材料获证监会受理"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：发行H股申请材料获证监会受理"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "麦肯锡：券商行业寒冬已至，已有小券商股东在主动谋求退出"
+    },
+    "tweet2": {
+      "content": "申万宏源今日大宗交易成交30万股，成交价4.8元折价-10.85%"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "34家上市券商2018年成绩单抢先看！中信国君海通净利前三，九成券商净利下滑，仅申万宏源与方正营收净利双增长"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "新疆首支纾困基金落地 部分项目已进入实质性操作阶段"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "2018年12月执业质量情况评价出炉 申万宏源排名第一"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：ST新梅资产置换转型光伏 潮宏基及福瑞股份撤回重组预案"
+    },
+    "tweet3": {
+      "content": "证券行业1月投资策略:业绩分化,龙头保持优势"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "12月券商评测结果出炉！COMPANY_X、中信建投、上海证券分列前三"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "申万宏源在港交所披露招股说明书，或成第12家A+H券商"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：关注韩城城投信托逾期兑付事项"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：将宁德时代评级调低为\"增持\""
+    },
+    "tweet4": {
+      "content": "券商寒冬:34家中仅2家净利增长 西南证券曝裁撤投行"
+    },
+    "tweet5": {
+      "content": "券商密集上市“补血” AH券商股开年受捧"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "申万宏源在港交所披露招股书 或成第12家A+H上市券商"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000166.SZ)赴港IPO 望成为第12家\"A+H\"券商"
+    },
+    "tweet3": {
+      "content": "申万宏源拟公开发行H股并在联交所主板上市"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "今日资金抢入六只强势股一览（2019年1月22日）"
+    },
+    "tweet2": {
+      "content": "申万宏源披露H股上市资料 加码打造具有国际影响力大型投行"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "COMPANY_X：两项目发行价下调逾三成 中兴拟募资超百亿加码5G"
+    },
+    "tweet2": {
+      "content": "130亿定增惹的祸？中信建投证券昨日股价大跌7%"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "“冷周期”下券商新三板业务调查： 做市全面收缩 督导谨慎维持"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "新股速递 | COMPANY_X，声名显赫、历史悠久的著名券商"
+    },
+    "tweet2": {
+      "content": "【申万宏源有色】寒锐钴业2018年报业绩预告点评"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "COMPANY_X：央行核定申万宏源证券待偿还短期融资券最高余额为191亿元"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：央行核定申万宏源证券待偿还短期融资券最高余额为191亿元"
+    },
+    "tweet3": {
+      "content": "下周323亿市值限售股解禁，环比增加11.59% 解禁"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "申万宏源点评标普正式获批进入中国信用评级市场"
+    },
+    "tweet2": {
+      "content": "申万宏源赴港上市 手续费及佣金收入萎缩拖累业绩"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "美联储不加息预期升温 黄金类资产或再添亮色"
+    },
+    "tweet2": {
+      "content": "马太效应加剧 两券商获逾百只基金增持"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "申万宏源金倩婧：注册制改革将带来市场估值体系的重构"
+    },
+    "tweet2": {
+      "content": "代销金融产品清单(非公募基金类)2019年2月更新"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "申万宏源计提资产减值准备6.67亿元 减少去年净利润5亿元 资产异常"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：2018年净利润同比减8.99%（快报） 盈利能力下降"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(000166.SZ)2018年度净利润降8.99%至41.86亿元 盈利能力下降"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：踩雷股权质押 资产减值计提6.67亿 股票质押异常"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：2018年实现净利润41.86亿元 同比下降8.99%"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "COMPANY_X：资产荒再度来袭 关注春节效应带来的景气幻觉"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：十大金股组合"
+    },
+    "tweet3": {
+      "content": "[快讯]申万宏源250629万限售股2月14日解禁"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：25.06亿股限售股2月14日起上市流通"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(000166.SZ)约25.06亿限售股份2月14日上市流通"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：万邦德股价下调超四成 向日葵并购重组被否"
+    },
+    "tweet7": {
+      "content": "【申万宏源轻工】索菲亚（002572）——赋能渠道终端，共渡行业低谷，Q4利润率承压"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "【申万宏源有色】紫金矿业卡莫阿项目点评"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "45家券商1月业绩大比拼！中信证券赚逾7亿元坐定头把交椅"
+    },
+    "tweet2": {
+      "content": "44家券商1月实现净利润56.31亿元 中信证券盈利居首"
+    },
+    "tweet3": {
+      "content": "申万宏源证券1月净利3.3亿元 同比大幅增长"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "券商1月财报密集出炉：业绩表现不一 中信证券赚7.4亿同增17%"
+    },
+    "tweet2": {
+      "content": "1月份众多券商净利大滑坡 背后究竟是何原因？"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：将中工国际评级调低为\"增持\""
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "COMPANY_X：连续两周零上会 14家公司中止审查"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "COMPANY_X：保险板块估值处于历史底部 推荐平安、太保"
+    },
+    "tweet2": {
+      "content": "近半数上市券商1月净利同比增加"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "港股IPO待审企业盘点：未盈利生物科技公司有6家"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "12家券商计提资产减值合计损失逾51亿元"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "2月22日A股龙虎榜揭秘，机构最青睐4股"
+    },
+    "tweet2": {
+      "content": "后悔吗？券商股今天火了 此前却被这些上市公司集体减持"
+    },
+    "tweet3": {
+      "content": "涨停板解密：券商股全面爆发！（2月22日）"
+    },
+    "tweet4": {
+      "content": "申万宏源龙虎榜数据（2月22日）"
+    },
+    "tweet5": {
+      "content": "券商股今日大批量涨停，机构、深股通积极参与炒作"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：龙头券商业务模式将率先转型，衍生品一定会成为券商最主要业务之一"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "50家公司本周将披露2018年年报 逾10亿大单抢筹8股"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "COMPANY_X：2018年净利润同比降9.55%，拟10派0.5元"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "申万宏源净利润41.6亿减少9.6% 董事长储晓明年薪230万 盈利能力下降"
+    },
+    "tweet2": {
+      "content": "收入上涨净利下滑 搭建A+H架构申万宏源布局国际化 盈利能力下降"
+    },
+    "tweet3": {
+      "content": "【申万宏源轻工】索菲亚（002572）2018年业绩快报点评——赋能经销商对费用率形成拖累，司米全年扭亏为盈"
+    },
+    "tweet4": {
+      "content": "【申万宏源轻工】合兴包装（002228）2018年业绩快报点评——收入超百亿，主业延续高增长，龙头持续整合"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：将南极电商评级调高为\"买入\""
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "COMPANY_X：将顺络电子评级调高为\"增持\""
+    },
+    "tweet2": {
+      "content": "报告| 2019年1月新疆省A股上市公司市值TOP50"
+    },
+    "tweet3": {
+      "content": "申万宏源业绩下滑股权质押踩三雷 四高管年薪超200万 盈利能力下降"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "COMPANY_X：上海金融法院判定江阴中南重工集团向公司支付5000万元本金及利息 诉讼纠纷"
+    },
+    "tweet2": {
+      "content": "合计赚超19亿！三家大中型基金公司净利润大曝光"
+    },
+    "tweet3": {
+      "content": "首席论市： 券商2月推荐金股排名曝光 平安证券靠中信建投夺冠"
+    },
+    "tweet4": {
+      "content": "被申万宏源告上法庭，东方海洋危局何时得解？"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "公告汇总：银之杰提示投资者 市盈率已高达366倍"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000166.SZ)2月母公司净利润升768.99%至4.54亿元"
+    },
+    "tweet3": {
+      "content": "申万宏源证券2月净利4.54亿元 同比增逾7倍"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：社融向上预期逐步形成 寻找下一个边际变化最大的变量"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：过审获批节奏加快 可转债定增再添一例"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：节后3周IPO批文均在深市 新大正预披露更新"
+    },
+    "tweet7": {
+      "content": "跟着机构买牛股！最新持股名单曝光，扎堆医药非银食品饮料，社保险资外资还重仓这些股"
+    },
+    "tweet8": {
+      "content": "MSCI扩容纳入6只券商股，超七成券商股“入摩”"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "公募基金还是朝阳行业吗？"
+    },
+    "tweet2": {
+      "content": "新疆上市公司2018年业绩预告盘点：申万宏源最赚钱 利润42亿"
+    },
+    "tweet3": {
+      "content": "【申万宏源金融】券商：上市券商2019年2月经营数据点评"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "融资客青睐63股，城投控股买入占比高达43.46%"
+    },
+    "tweet2": {
+      "content": "证券行业月报:业绩如期大幅改善,券商迎戴维斯双击"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "申万宏源子公司胜诉！曾卷入证券回购纠纷案"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "卖方研报“挖坑”岷江水电 月翻三倍仍“强推”"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：将上海家化评级调高为\"增持\""
+    },
+    "tweet3": {
+      "content": "【申万宏源金融】中国平安年报点评：结构优化带动业绩与价值稳健增长"
+    },
+    "tweet4": {
+      "content": "【申万宏源金融】招商证券点评：股权激励维系核心骨干，配股夯实多元化业务布局"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "又见股权质押业务维权案 但券商“最难熬的日子”已成过去"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "主办券商2月执业质量评价结果来了：11家得分超100点 这家负面行为记录竟超100条！"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(00218.HK)拟更名为“申万宏源香港”"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "中证监核准申万宏源(000166.SZ)新发行不超过约64.79亿股境外上市外资股"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：发行境外上市外资股获得中国证监会批复"
+    },
+    "tweet3": {
+      "content": "华友钴业(603799.SH)第二大股东3250万股质押延期购回"
+    },
+    "tweet4": {
+      "content": "【申万宏源轻工】合兴包装（002228）2018年年报点评——收入超百亿，龙头持续整合，协同效应将逐步显现"
+    },
+    "tweet5": {
+      "content": "中信证券推近300亿元员工持股计划 应付职工薪酬超净利润48亿"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "COMPANY_X：董事冯戎、屈艳萍辞职 董监高成员变化"
+    },
+    "tweet2": {
+      "content": "军工变奏：采购订单高峰季启幕 证券化浪潮在途"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "申万宏源赴港上市获核准 或成第12家A+H券商"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "COMPANY_X：将世茂股份评级调高为\"买入\""
+    },
+    "tweet2": {
+      "content": "COMPANY_X：将马钢股份评级调低为\"增持\" 投资评级恶化"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：出口春节调整边际改善已现 3月出口同比或反弹至+16％"
+    },
+    "tweet4": {
+      "content": "5家上市券商去年净利润小幅下滑 强者恒强格局料延续 盈利能力下降"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "COMPANY_X：容百科技三元正极材料占率达到12％ 立志2023年成为全球第一"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：将全聚德评级调低为\"中性\" 投资评级恶化"
+    },
+    "tweet3": {
+      "content": "科创板上市审核问答 影子股名单"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "COMPANY_X：时钟难倒转"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "COMPANY_X：将“16申宏01”票面利率上调至3.70%"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：北新路桥拟发可转债并购 新宙邦拟募资额上调三成"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "22家上市券商年报出炉：净利润集体缩水，仅8家营收超百亿"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：将中国国航评级调高为\"买入\""
+    },
+    "tweet3": {
+      "content": "【申万宏源金融】光大证券年报点评：关注大幅减值计提，利空出尽后业绩反转可期"
+    },
+    "tweet4": {
+      "content": "【申万宏源金融】海通证券年报点评：融资类业务贡献提升，主动资管规模快速增长"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：将牧原股份评级调高为\"买入\""
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "COMPANY_X：将海格通信评级调高为\"买入\""
+    },
+    "tweet2": {
+      "content": "COMPANY_X：港交所已于3月28日审议公司发行H股申请"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：将华菱钢铁评级调低为\"增持\""
+    },
+    "tweet4": {
+      "content": "COMPANY_X：将鄂尔多斯评级调低为\"增持\""
+    },
+    "tweet5": {
+      "content": "申万宏源诉弘高中太 获1311万股弘高创意优先受偿权"
+    },
+    "tweet6": {
+      "content": "申万宏源将于下周进行香港IPO前期推介"
+    },
+    "tweet7": {
+      "content": "【申万宏源金融】东方证券年报点评：资管业务再创佳绩，静待19年业绩弹性显现"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "申万宏源拟港交所上市 已进行聆讯"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "券商“A+H”阵营添新兵 两地因何股价悬殊"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：晶晨股份盈利性好 警惕OTT市场增速下滑"
+    },
+    "tweet3": {
+      "content": "申万宏源通过港交所聆讯，截至去年三季度经营数据已排全国券商前十"
+    },
+    "tweet4": {
+      "content": "【申万宏源有色】黄金行业深度：资产运行趋势重归2018年四季度，看好后市金价小幅走高"
+    },
+    "tweet5": {
+      "content": "地产景气后周期直接受益龙头，营收体量是前十大同行之和，18年增收部分再造一家友商，细分市场3倍空间，分析师保守测算股价要涨近40%【4月2日头条研报】"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：将雅克科技评级调低为\"增持\""
+    },
+    "tweet7": {
+      "content": "净资产受损 券商再融资窗口料开启"
+    },
+    "tweet8": {
+      "content": "申万宏源承销保荐屠正锋：投行比拼协同能力"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "COMPANY_X：十大金股组合"
+    },
+    "tweet2": {
+      "content": "第12家A+H券商即将登场！申万宏源通过港交所上市聆讯，从启动到通过聆讯仅不足5个月"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "果然降薪！八成上市券商薪酬缩水，5家降幅超20%"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "COMPANY_X(000166.SZ)：申万宏源证券3月净利润达6.98亿元"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：3月实现合并营收18.45亿元 净利润7.85亿"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：母公司3月净利润6.98亿元"
+    },
+    "tweet4": {
+      "content": "【申万宏源有色】有色金属2019年一季报业绩前瞻——供给寡头化加工企业利润稳定增长，看好铝、镁、硅和黄金"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "果然全面飙升！券商业绩集体爆发，21家券商排名抢先看，4家头部单月净利超10亿，\"赚钱王\"是这家"
+    },
+    "tweet2": {
+      "content": "【申万宏源有色】20190404周报：周期向好情绪高昂，短期看好云铝、云铜，钴价超跌反弹"
+    },
+    "tweet3": {
+      "content": "净利润增长同比翻番 部分券商股一季度业绩“鱼跃龙门”"
+    },
+    "tweet4": {
+      "content": "5家券商先报喜！牛市猝不及防，一季度必须“开门红”"
+    },
+    "tweet5": {
+      "content": "国泰君安一季度净利27亿 五家上市券商前三月累计净利均增长"
+    }
+  },
+  "day65": {
+    "tweet1": {
+      "content": "COMPANY_X：Q1定增完成项目数同比降三成 定向可转债再添两例"
+    }
+  },
+  "day66": {
+    "tweet1": {
+      "content": "券业正进行这样一场人才大战！去年行业流失逾11000人，这些条线却大力扩张"
+    },
+    "tweet2": {
+      "content": "申万宏源有望成为今年以来港股市场最大IPO"
+    },
+    "tweet3": {
+      "content": "申万宏源拟于港交所发行H股 筹资12.5亿美元"
+    }
+  },
+  "day67": {
+    "tweet1": {
+      "content": "2019.4.12|养老金16年后结余将耗尽；五大上市险企投资性房地产近850亿元"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：将粤电力A评级调低为\"增持\""
+    },
+    "tweet3": {
+      "content": "申万宏源H股今日起公开招股 将成为第12家A+H券商"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：每股定价3.93港元，全球发售25.04亿股H股"
+    },
+    "tweet5": {
+      "content": "港股IPO窗口再现 申万宏源发行H股集资近百亿港元“补血”"
+    }
+  },
+  "day68": {
+    "tweet1": {
+      "content": "一图看懂申万宏源（6806.HK）IPO"
+    },
+    "tweet2": {
+      "content": "1%净利增长拜税费下调所赐 民生银行高分红褒贬不一"
+    }
+  },
+  "day69": {
+    "tweet1": {
+      "content": "券商薪水比拼 中信证券人均年薪69.78万"
+    }
+  },
+  "day70": {
+    "tweet1": {
+      "content": "【申万宏源金融】券商：《上海证券交易所科创板股票发行与承销业务指引》点评"
+    },
+    "tweet2": {
+      "content": "牛市来了，券商急筹千亿资金补血"
+    },
+    "tweet3": {
+      "content": "绞肉机申万宏源募资凶猛 15个月发行股份募200亿"
+    }
+  },
+  "day71": {
+    "tweet1": {
+      "content": "第12家A+H上市券商来了：申万宏源下周将正式登陆港交所"
+    },
+    "tweet2": {
+      "content": "公告精选：视觉中国遭天津网信办罚款30万元；中国人寿一季度净利增逾八成；两公司大幅下修年报业绩预期"
+    },
+    "tweet3": {
+      "content": "申万宏源H 股发行价敲定！每股3.63港元拟募资90.9亿港元"
+    },
+    "tweet4": {
+      "content": "2019年一季度券商研究实力排行榜新鲜出炉！最强研究机构 花落谁家？"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：H股发行价每股3.63港元，4月26日上市交易"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：H股发行价格为每股3.63港元 预计4月26日上市交易"
+    }
+  },
+  "day72": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day73": {
+    "tweet1": {
+      "content": "COMPANY_X：2019年养老行业深度研究（附下载）"
+    }
+  },
+  "day74": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day75": {
+    "tweet1": {
+      "content": "美凯龙控股股东约1.07亿股公司股质押解除"
+    }
+  },
+  "day76": {
+    "tweet1": {
+      "content": "【申万宏源金融】招商证券一季报点评：子公司投资收益超预期，未来投行业务空间可期"
+    },
+    "tweet2": {
+      "content": "【申万宏源金融】中国人寿一季报点评：新业务价值高增28%，投资收益大幅改善"
+    },
+    "tweet3": {
+      "content": "【申万宏源金融】海通证券一季报点评：业绩大超预期，大自营弹性显现，上调全年业绩预测"
+    },
+    "tweet4": {
+      "content": "【申万宏源轻工】劲嘉股份（002191）2019年一季报点评——2019Q1开门红，彩盒翻倍增长超预期"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(06806-HK)每股H股的发售价定为3.63元"
+    }
+  },
+  "day77": {
+    "tweet1": {
+      "content": "17家券商业绩出炉，谁人欢喜谁人忧？丨亿欧观点"
+    },
+    "tweet2": {
+      "content": "第12家A+H股券商来了 申万宏源香港上市首日快速破发 连续下跌"
+    },
+    "tweet3": {
+      "content": "收评：港股恒指涨0.19% 券商龙头申万宏源大跌12%"
+    },
+    "tweet4": {
+      "content": "恒指午盘震荡收涨0.11% 申万宏源H股跌逾11%"
+    },
+    "tweet5": {
+      "content": "上市首日即破发，申万宏源港股一度大跌逾10% 连续下跌"
+    },
+    "tweet6": {
+      "content": "COMPANY_X(6806.HK)首日上市破发 大跌近13% 连续下跌"
+    },
+    "tweet7": {
+      "content": "【IPO追踪】COMPANY_X(06806-HK):国內证券业迎拐点 未来前景光明"
+    },
+    "tweet8": {
+      "content": "【IPO追踪】COMPANY_X（06806-HK）首挂平开报3.63港元"
+    },
+    "tweet9": {
+      "content": "申万宏源在港上市首日破发 现跌逾6% 连续下跌"
+    },
+    "tweet10": {
+      "content": "申万宏源在港上市首日破发 现跌超7％ 连续下跌"
+    },
+    "tweet11": {
+      "content": "【个股异动】申万宏源港股跌幅超7%"
+    },
+    "tweet12": {
+      "content": "申万宏源集团今日H股上市 发行价每股 3.63 港元"
+    },
+    "tweet13": {
+      "content": "申万宏源26日登陆港交所"
+    },
+    "tweet14": {
+      "content": "COMPANY_X：中国头部券商在港上市 H/A溢价高隐含价值优势"
+    },
+    "tweet15": {
+      "content": "【申万宏源金融】常熟银行年报暨一季报点评"
+    },
+    "tweet16": {
+      "content": "早间公告：锦富技术实控人自愿退还推定来源于公司的资金9900万元"
+    }
+  },
+  "day78": {
+    "tweet1": {
+      "content": "【申万宏源轻工】山鹰纸业（600567）——受让云印股权并增资，包装产业互联网持续推进！"
+    },
+    "tweet2": {
+      "content": "【申万宏源轻工】新型烟草行业点评——美国FDA批准iQOS在美销售，新型烟草行业发展大势所趋"
+    },
+    "tweet3": {
+      "content": "中国人寿举牌申万宏源H股 持股比例达到6.9%"
+    },
+    "tweet4": {
+      "content": "申万宏源一季度净利18.6亿同比增长88% 现金流量净额163.6亿"
+    }
+  },
+  "day79": {
+    "tweet1": {
+      "content": "【申万宏源化工】每日信息速递20190507"
+    },
+    "tweet2": {
+      "content": "【申万宏源金融】保险：2019年3月保险行业经营数据点评：健康险增速达39%，股基配置比例提升至12.4%"
+    }
+  },
+  "day80": {
+    "tweet1": {
+      "content": "COMPANY_X(06806.HK)4月母公司净利润4.14亿元"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：母公司4月净利润4.1亿元，3月净利6.98亿元"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：4月净利润4.71亿元 环比下滑四成"
+    }
+  },
+  "day81": {
+    "tweet1": {
+      "content": "【申万宏源化工】每日信息速递20190509"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000166.SZ)A股年报推10派0.5元 股权登记日5月16日"
+    },
+    "tweet3": {
+      "content": "申万宏源集团股份有限公司关于申万宏源证券有限公司2019年4月财务数据简报的公告"
+    },
+    "tweet4": {
+      "content": "【申万宏源金融】上市券商2019年4月经营数据点评"
+    },
+    "tweet5": {
+      "content": "火炼真金时刻 券商本月点了哪些“金股”？"
+    }
+  },
+  "day82": {
+    "tweet1": {
+      "content": "【申万宏源化工】每日信息速递20190510"
+    }
+  },
+  "day83": {
+    "tweet1": {
+      "content": "【申万宏源化工】每日信息速递20190513"
+    },
+    "tweet2": {
+      "content": "【申万宏源轻工】周观点：厦门9家龙头公司纪要及观点汇总；继续看好内销需求为主的包装与轻工消费公司"
+    }
+  },
+  "day84": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day85": {
+    "tweet1": {
+      "content": "COMPANY_X(06806.HK)获基石投资者中国赛特(00153.HK)认购3000万美元"
+    }
+  },
+  "day86": {
+    "tweet1": {
+      "content": "ST银亿(000981.SZ)：银亿控股及其一致行动人可能被动减持4027.99万股"
+    },
+    "tweet2": {
+      "content": "关于公布2019年第一次浙江辖区证券经营机构现场检查随机抽查结果的通知"
+    },
+    "tweet3": {
+      "content": "港股异动 | 申万宏源涨近4% 获基石投资者中国赛特认购3000万美元"
+    },
+    "tweet4": {
+      "content": "首期参与“投资者教育进百校”活动证券公司的名单"
+    }
+  },
+  "day87": {
+    "tweet1": {
+      "content": "【增减持】COMPANY_X(06806.HK)获The Goldman Sachs Group增持1388.88万股H股"
+    },
+    "tweet2": {
+      "content": "新三板发布4月主办券商执业质量评价结果"
+    },
+    "tweet3": {
+      "content": "【港股异动 | 次新股申万宏源涨逾4% 近五日累升17.92%】"
+    },
+    "tweet4": {
+      "content": "4月份金融类APP用户表现依旧活跃 券业马太效应已“传导”至券商APP"
+    }
+  },
+  "day88": {
+    "tweet1": {
+      "content": "【申万宏源化工】每日信息速递20190520"
+    },
+    "tweet2": {
+      "content": "高盛增持申万宏源(06806)3733万股，每股作价3.43港元"
+    },
+    "tweet3": {
+      "content": "【增减持】COMPANY_X(06806.HK)获The Goldman Sachs Group增持3733.04万股H股"
+    },
+    "tweet4": {
+      "content": "【权益变动】COMPANY_X(06806-HK)获高盛增持1388.88万股"
+    },
+    "tweet5": {
+      "content": "券商私募资管规模前20名出炉，中信证券稳居第一"
+    },
+    "tweet6": {
+      "content": "深交所：将申万宏源调入港股通股票名单"
+    }
+  },
+  "day89": {
+    "tweet1": {
+      "content": "【权益变动】COMPANY_X(06806-HK)获高盛增持3733.04万股"
+    },
+    "tweet2": {
+      "content": "券商资管规模排名来了！中信证券还是老大，但比去年少了2500多亿"
+    }
+  },
+  "day90": {
+    "tweet1": {
+      "content": "高盛增持申万宏源(06806)4723万股，每股作价约3.6港元"
+    },
+    "tweet2": {
+      "content": "【权益变动】COMPANY_X(06806-HK)获高盛增持2812.48万股"
+    }
+  },
+  "day91": {
+    "tweet1": {
+      "content": "【申万宏源化工】每日信息速递20190523"
+    },
+    "tweet2": {
+      "content": "以轻资本撬动高估值，越来越多券商行动！财富管理组织架构调整“高发期”，三大类型调整护航产业链"
+    }
+  },
+  "day92": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day93": {
+    "tweet1": {
+      "content": "汇金系统内部调动：中国银河证券新总裁将是一位申万宏源的25年“老将”！"
+    },
+    "tweet2": {
+      "content": "银河证券新掌门：51岁陈亮拟任总裁，曾任申万宏源总经理"
+    },
+    "tweet3": {
+      "content": "头部券商换帅！银河证券迎新掌门，原申万宏源总经理陈亮赴任"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：移远通信周四上会 正中珠江23家在审拟IPO公司中止审查"
+    }
+  },
+  "day94": {
+    "tweet1": {
+      "content": "COMPANY_X(06806.HK)：申万宏源证券诉湖南高新创投财富管理一案达成庭外和解 被告将清偿本金和利息"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：子公司申万宏源证券有限公司涉诉案件目前原告已撤诉 关联方问题"
+    },
+    "tweet3": {
+      "content": "头部券商换帅！银河证券迎新掌门，25年申万宏源老将赴任"
+    },
+    "tweet4": {
+      "content": "银河证券总裁人选落定：申万宏源总经理陈亮赴任"
+    }
+  },
+  "day95": {
+    "tweet1": {
+      "content": "中国人寿举牌申万宏源 出资5.39亿持股占申万宏源总股本6.9%"
+    },
+    "tweet2": {
+      "content": "头部券商再现集中换帅银河证券、申万宏源各迎新总裁"
+    },
+    "tweet3": {
+      "content": "“汇金系”两券商换帅 COMPANY_X、银河证券总经理落定"
+    },
+    "tweet4": {
+      "content": "杨玉成出任申万宏源证券总经理"
+    }
+  },
+  "day96": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day97": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day98": {
+    "tweet1": {
+      "content": "申万宏源员工代客交易证券 取得执业资格5年违规5年 其他违规处罚"
+    },
+    "tweet2": {
+      "content": "一月内四券商更替掌门人 券商同质化严重今年换帅超十家"
+    }
+  },
+  "day99": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day100": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day101": {
+    "tweet1": {
+      "content": "COMPANY_X(06806.HK)5月份实现净利润2.25亿元"
+    }
+  },
+  "day102": {
+    "tweet1": {
+      "content": "COMPANY_X(06806.HK)拟对申万宏源证券增资40亿元"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：原集团总经理陈亮辞职 杨玉成出任证券公司总经理"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：拟以40亿元人民币增资申万宏源证券"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(000166.SZ)旗下申万宏源证券董事会同意任杨玉成为其总经理"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(000166.SZ)拟以募集资金40亿元增加申万宏源证券注册资本"
+    },
+    "tweet6": {
+      "content": "COMPANY_X(000166.SZ)：陈亮辞去董事、董事会战略委员会委员和总经理职务 董监高成员变化"
+    },
+    "tweet7": {
+      "content": "COMPANY_X：总经理因工作安排原因辞职 董监高成员变化"
+    },
+    "tweet8": {
+      "content": "银河证券总裁换人玄机:经纪业务占比高 大船掉头不易"
+    }
+  },
+  "day103": {
+    "tweet1": {
+      "content": "COMPANY_X 董事、总经理陈亮辞职 董监高成员变化"
+    }
+  },
+  "day104": {
+    "tweet1": {
+      "content": "【天风研究·固收】信用早早报（6月12日）"
+    }
+  },
+  "day105": {
+    "tweet1": {
+      "content": "申万宏源董事长：建议有关部门对长期资金给予税收优惠"
+    }
+  },
+  "day106": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day107": {
+    "tweet1": {
+      "content": "中国赛特(00153.HK)终止认购申万宏源首次公开发售股份"
+    },
+    "tweet2": {
+      "content": "广发证券百亿级定增宣告“流产”！背后发生了什么？"
+    },
+    "tweet3": {
+      "content": "金融：看好大券商业绩基本面 荐2股"
+    }
+  },
+  "day108": {
+    "tweet1": {
+      "content": "广发证券百亿融资批文失效 券业竞争格局生变"
+    },
+    "tweet2": {
+      "content": "申万宏源终止与中国赛特基石协议，构成违约 违约失信"
+    }
+  },
+  "day109": {
+    "tweet1": {
+      "content": "券商行业2018年度经营座次出炉：中信证券拿下14项第一"
+    },
+    "tweet2": {
+      "content": "港股异动︱违反申万宏源基石投资协议或面临追责 中国赛特(00153)跌逾11%创历史新低"
+    },
+    "tweet3": {
+      "content": "2018年度证券公司经营业绩排名出炉 中信证券盈利居首"
+    },
+    "tweet4": {
+      "content": "非银金融行业周报:证券行业双向对外开放,看好大券商业绩基本面"
+    }
+  },
+  "day110": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day111": {
+    "tweet1": {
+      "content": "金融：重组办法吐故纳新 荐5股"
+    }
+  },
+  "day112": {
+    "tweet1": {
+      "content": "8家头部券商短融余额上限“飙升” 缓解非银资金困局 资金问题"
+    },
+    "tweet2": {
+      "content": "他公司在21日刚刚宣布短期融资债券余额已提升至508亿美元"
+    },
+    "tweet3": {
+      "content": "证券业净资本总额突破1.6万亿 达历史峰值"
+    }
+  },
+  "day113": {
+    "tweet1": {
+      "content": "保险巨头出手豪买8亿 险资新一轮举牌打响"
+    },
+    "tweet2": {
+      "content": "中国证监会机构部对申万宏源(000166.SZ)子公司申请发行金融债券无异议"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(06806.HK)：申万宏源证券申请发行金融债券获无异议函"
+    },
+    "tweet4": {
+      "content": "头部券商获准调高短融余额上限3041亿 卖方机构点赞"
+    }
+  },
+  "day114": {
+    "tweet1": {
+      "content": "华泰证券：三举措积极备战科创板"
+    },
+    "tweet2": {
+      "content": "中金公司将迎新掌门 汇金系券商集体换帅 董监高成员变化"
+    }
+  },
+  "day115": {
+    "tweet1": {
+      "content": "COMPANY_X(000166.SZ)所属子公司涉买卖合同纠纷案 不服一审判决拟上诉 关联方问题"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：所属子公司涉及重大诉讼 诉讼纠纷"
+    }
+  },
+  "day116": {
+    "tweet1": {
+      "content": "雅百特项目照片使用“张冠李戴”弄出虚假陈述 申万宏源员工被罚脱“饭碗” 诉讼纠纷"
+    }
+  },
+  "day117": {
+    "tweet1": {
+      "content": "COMPANY_X：竞价项目量价齐跌 定增+定向可转债再添3例"
+    }
+  },
+  "day118": {
+    "tweet1": {
+      "content": "万能险“淡出”险企权益投资 权益投资拉动利润上升"
+    }
+  },
+  "day119": {
+    "tweet1": {
+      "content": "申万宏源湖北违法遭罚 未按规定履行客户身份识别 其他违规处罚"
+    }
+  },
+  "day120": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day121": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day122": {
+    "tweet1": {
+      "content": "COMPANY_X(06806.HK)5月份实现净利润5.59亿元"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：母公司6月净利5.01亿元，环比上涨158%"
+    }
+  },
+  "day123": {
+    "tweet1": {
+      "content": "A股早报2019年7月9日星期二"
+    }
+  },
+  "day124": {
+    "tweet1": {
+      "content": "A股共发生50宗大宗交易成交6.06亿元（7月10日）"
+    },
+    "tweet2": {
+      "content": "新机股份被黑石追讨1750万 新乡日升被判担连带责任"
+    },
+    "tweet3": {
+      "content": "申万宏源今日大宗交易成交46.31万股，成交价4.81元折价0.0%"
+    }
+  },
+  "day125": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day126": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day127": {
+    "tweet1": {
+      "content": "COMPANY_X：上半年每股盈利指标和净资产收益率不降反增"
+    },
+    "tweet2": {
+      "content": "申万宏源上半年营收净利双丰收 H股上市首日遭遇破发 连续下跌"
+    }
+  },
+  "day128": {
+    "tweet1": {
+      "content": "A股公司中期业绩快报提前看 17家公司营利双增"
+    },
+    "tweet2": {
+      "content": "申万宏源上半年净利润增超5成"
+    }
+  },
+  "day129": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day130": {
+    "tweet1": {
+      "content": "COMPANY_X(06806.HK)：杨玉成拟辞任监事会主席职务 董监高成员变化"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：监事会主席辞任 董监高成员变化"
+    },
+    "tweet3": {
+      "content": "金融：增量资金驰援科创板 荐2股"
+    }
+  },
+  "day131": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day132": {
+    "tweet1": {
+      "content": "COMPANY_X：中国通号第一位置难以撼动，轨交控制龙头扬帆远航"
+    }
+  },
+  "day133": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day134": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day135": {
+    "tweet1": {
+      "content": "COMPANY_X：彭朋等被判向公司子公司偿付回购款9146万元及相应利息、违约金 违约失信"
+    },
+    "tweet2": {
+      "content": "博弈钢铁企业盈利反转"
+    }
+  },
+  "day136": {
+    "tweet1": {
+      "content": "房企年内境外融资破3000亿元 高杠杆房企财务风险加剧"
+    }
+  },
+  "day137": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day138": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day139": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day140": {
+    "tweet1": {
+      "content": "15家上市券商披露上半年业绩：中信证券营收和净利均居首位"
+    },
+    "tweet2": {
+      "content": "已有15家券商预告上半年业绩！中小券商增幅较大，中信海通国君营收与净利位居前三"
+    }
+  },
+  "day141": {
+    "tweet1": {
+      "content": "中国人寿在港股举牌中广核电力，系年内第三次举牌上市公司"
+    }
+  },
+  "day142": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day143": {
+    "tweet1": {
+      "content": "COMPANY_X(000166.SZ)7月申万宏源证券净利润2.66亿元"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(06806.HK)7月份实现净利润3.04亿元"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：母公司7月净利润2.66亿元，6月净利为5.01亿元"
+    }
+  },
+  "day144": {
+    "tweet1": {
+      "content": "32家券商公布7月业绩，中信证券（600030.SH）单月赚7亿"
+    },
+    "tweet2": {
+      "content": "大剧透！这些券商7月业绩大增\"玄机\"找到，竟是因为它？投行收入环比激增299%，为何这几家增幅更大"
+    }
+  },
+  "day145": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day146": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day147": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day148": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day149": {
+    "tweet1": {
+      "content": "7月新三板主办券商执业质量评价结果出炉 申万宏源位居第一"
+    }
+  },
+  "day150": {
+    "tweet1": {
+      "content": "全国股转公司发布7月份主办券商执业质量评价结果 申万宏源评价点值排名第一"
+    }
+  },
+  "day151": {
+    "tweet1": {
+      "content": "131家券商上半年业绩放榜，中信最能赚！这项业务已成为比拼实力关键"
+    },
+    "tweet2": {
+      "content": "券商上半年表现131家排座次 8家自营赚超20亿竟有一家亏1000万 亏损"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(06806.HK)将于8月30日举行董事会会议以审议中期业绩"
+    }
+  },
+  "day152": {
+    "tweet1": {
+      "content": "COMPANY_X：油运股上行弹性极大"
+    },
+    "tweet2": {
+      "content": "股权质押式回购交易违约 凯乐科技大股东突显“流动性危机” 违约失信"
+    }
+  },
+  "day153": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day154": {
+    "tweet1": {
+      "content": "COMPANY_X(06806)为宏源恒利最高债权额1亿元提供担保 大额借贷担保"
+    }
+  },
+  "day155": {
+    "tweet1": {
+      "content": "COMPANY_X：诉蔡小如证券交易纠纷案已提交仲裁 诉讼纠纷"
+    }
+  },
+  "day156": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day157": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day158": {
+    "tweet1": {
+      "content": "COMPANY_X：公司申请仲裁，因蔡小如质押股份违约 违约失信"
+    }
+  },
+  "day159": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day160": {
+    "tweet1": {
+      "content": "申万宏源获准发行不超过60亿金融债"
+    }
+  },
+  "day161": {
+    "tweet1": {
+      "content": "COMPANY_X：上半年净利润同比增54.99%"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：上半年净利润32.02亿元 同比增长54.99%"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(000166.SZ)半年度净利润升54.99%至32.02亿元"
+    }
+  },
+  "day162": {
+    "tweet1": {
+      "content": "【安信非银】申万宏源中报点评：资本补充助推公司“投资+投行”转型"
+    },
+    "tweet2": {
+      "content": "月薪6万！中信证券又涨工资了，其他9大券商中却有7家\"降薪\"了，啥原因？"
+    },
+    "tweet3": {
+      "content": "36家上市券商六项指标大排名！中信、海通、中信建投霸占投行三强"
+    }
+  },
+  "day163": {
+    "tweet1": {
+      "content": "券商首次关注6股并给予买入评级（9月3日）"
+    }
+  },
+  "day164": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day165": {
+    "tweet1": {
+      "content": "COMPANY_X(06806.HK)“16申宏02”9月9日兑付及摘牌 退市"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(06806.HK)8月份实现净利润3.6亿元"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(000166.SZ)：8月合计净利润3.6亿元 同比增长35.25%"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：母公司8月净利润3.34亿元，7月净利为2.66亿元"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：因被执行人无可执行财产，拆迁补偿纠纷案被裁定终结执行 诉讼纠纷"
+    }
+  },
+  "day166": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day167": {
+    "tweet1": {
+      "content": "COMPANY_X(06806)：仲裁裁决持申万宏源证券的诉讼请求 开源证券应支付本息约1.06亿元及相关罚息 诉讼纠纷"
+    }
+  },
+  "day168": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day169": {
+    "tweet1": {
+      "content": "绿庭投资(600695.SH)出售申万宏源股票804.085万股"
+    }
+  },
+  "day170": {
+    "tweet1": {
+      "content": "COMPANY_X：收到半年报问询函 问询"
+    },
+    "tweet2": {
+      "content": "绿庭B股：绿庭投资关于出售股票资产的进展公告 资产异常"
+    }
+  },
+  "day171": {
+    "tweet1": {
+      "content": "COMPANY_X：过审获批节奏加快 竞价折价率创新高"
+    }
+  },
+  "day172": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day173": {
+    "tweet1": {
+      "content": "COMPANY_X：对合同剩余期限3个月以内的债券质押买入返售金融资产不计提减值 资产异常"
+    }
+  },
+  "day174": {
+    "tweet1": {
+      "content": "7家券商中报遭问询，西部证券计提减值逾11亿 问询"
+    },
+    "tweet2": {
+      "content": "7大券商连遭交易所问询！股权质押、违约风险、信用减值，全都有 违约失信"
+    },
+    "tweet3": {
+      "content": "券商半年报频遭问询:7家被点名 股票质押成排雷重点 问询"
+    },
+    "tweet4": {
+      "content": "6份券商半年报问询函，直指股票质押业务"
+    }
+  },
+  "day175": {
+    "tweet1": {
+      "content": "COMPANY_X(06806.HK)拟以境外募资不超16亿元增资申万宏源证券"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000166.SZ)拟以境外募资不超16亿元增资申万宏源证券"
+    },
+    "tweet3": {
+      "content": "7家券商半年报遭问询4家称股权质押风险缓解 问询"
+    }
+  },
+  "day176": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day177": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day178": {
+    "tweet1": {
+      "content": "COMPANY_X：再现募资额集中下调 整体调减一成"
+    }
+  },
+  "day179": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day180": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day181": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day182": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day183": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day184": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day185": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day186": {
+    "tweet1": {
+      "content": "券商9月经营数据:6成净利过亿 机构称板块有上涨空间"
+    },
+    "tweet2": {
+      "content": "【申万宏源金融】上市券商2019年9月经营数据点评"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(06806.HK)9月份实现净利润6.18亿元"
+    },
+    "tweet4": {
+      "content": "COMPANY_X:母公司9月净利5.58亿 去年同期净利4.1亿元"
+    },
+    "tweet5": {
+      "content": "报告|2019年9月新疆A股上市公司市值排行榜申万宏源仍居榜首"
+    }
+  },
+  "day187": {
+    "tweet1": {
+      "content": "券商9月业绩分化：国元净利同比增16倍领跑，9家环比下滑 盈利能力下降"
+    },
+    "tweet2": {
+      "content": "券商三季报抢先看，7家净利翻倍！国君中信净利超70亿，股权质押仍存隐忧"
+    }
+  },
+  "day188": {
+    "tweet1": {
+      "content": "7家券商前三季度净利翻倍 国泰君安净利71.67亿居首"
+    },
+    "tweet2": {
+      "content": "申万宏源证券：打造资本市场扶贫会宁样本"
+    }
+  },
+  "day189": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day190": {
+    "tweet1": {
+      "content": "上市券商前三季累计盈利逾733亿元"
+    }
+  },
+  "day191": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day192": {
+    "tweet1": {
+      "content": "COMPANY_X(06806.HK)就大连营业部拆迁补偿纠纷向法院提起诉讼 诉讼纠纷"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：子公司涉及重大诉讼 诉讼纠纷"
+    }
+  },
+  "day193": {
+    "tweet1": {
+      "content": "COMPANY_X(06806.HK)“16申证C3”已摘牌 退市"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000166.SZ)子公司完成发行40亿元短期融资券(债券通)"
+    }
+  },
+  "day194": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day195": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day196": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day197": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day198": {
+    "tweet1": {
+      "content": "COMPANY_X：前三季度净利润同比增43.64%"
+    }
+  },
+  "day199": {
+    "tweet1": {
+      "content": "COMPANY_X：请求仲裁，要求裁决蔡小如归还7570万元 诉讼纠纷"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000166.SZ)第三季度净利润升24.82%至15.55亿元"
+    }
+  },
+  "day200": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day201": {
+    "tweet1": {
+      "content": "科创板光环失灵！新股热度骤降 这几家破发仅一步之遥 连续下跌"
+    }
+  },
+  "day202": {
+    "tweet1": {
+      "content": "*ST中葡股东被上交所通报批评 其他违规处罚"
+    },
+    "tweet2": {
+      "content": "中葡股份二股东国安投资减持未披露，被上交所通报批评 其他违规处罚"
+    }
+  },
+  "day203": {
+    "tweet1": {
+      "content": "COMPANY_X(06806.HK)10月份实现净利润2.41亿元"
+    },
+    "tweet2": {
+      "content": "申万宏源集团总经理人选终于落定，“75后”少帅将出任"
+    }
+  },
+  "day204": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day205": {
+    "tweet1": {
+      "content": "山东省地方金融监管局与申万宏源签战略合作备忘录"
+    }
+  },
+  "day206": {
+    "tweet1": {
+      "content": "机构调研:张家港行揽储成本上升 申万宏源发力两业务"
+    },
+    "tweet2": {
+      "content": "喜报 | 申万宏源资管主动管理转型铸新篇，荣膺《中国证券报》券商资管金牛奖"
+    }
+  },
+  "day207": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day208": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day209": {
+    "tweet1": {
+      "content": "中资券商股普遍低走 申万宏源跌逾3%创上市新低 连续下跌"
+    }
+  },
+  "day210": {
+    "tweet1": {
+      "content": "COMPANY_X(000166.SZ)子公司完成发行30亿元短期融资券(债券通)"
+    }
+  },
+  "day211": {
+    "tweet1": {
+      "content": "报告 | 2019年10月新疆A股上市公司市值排行榜 农林牧渔行业公司较多"
+    }
+  },
+  "day212": {
+    "tweet1": {
+      "content": "COMPANY_X(06806.HK)：“17申证C1”11月18日兑付及摘牌 退市"
+    },
+    "tweet2": {
+      "content": "智通港股通占比异动统计|11月18日"
+    }
+  },
+  "day213": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day214": {
+    "tweet1": {
+      "content": "今年港股十大IPO表现很戏剧 最高涨八成 最低近腰斩"
+    },
+    "tweet2": {
+      "content": "今年港股十大IPO表现很戏剧，分析人士对阿里首日表现持保守态度"
+    }
+  },
+  "day215": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day216": {
+    "tweet1": {
+      "content": "建设证券行业廉洁文化 打造资本市场良好发展生态"
+    }
+  },
+  "day217": {
+    "tweet1": {
+      "content": "COMPANY_X(06806.HK)拟为子公司宏源恒利(上海)1亿元融资提供担保 大额借贷担保"
+    }
+  },
+  "day218": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day219": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day220": {
+    "tweet1": {
+      "content": "COMPANY_X(000166.SZ)：申万宏源证券兑付完成2019年第四期短期融资券"
+    }
+  },
+  "day221": {
+    "tweet1": {
+      "content": "COMPANY_X(000166.SZ)：申万宏源证券获准发行面值不超300亿元的次级债券"
+    }
+  },
+  "day222": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day223": {
+    "tweet1": {
+      "content": "COMPANY_X：打造“有信仰 敢担当”一流国有金融企业"
+    }
+  },
+  "day224": {
+    "tweet1": {
+      "content": "申万宏源证券：11月净利润3.09亿元"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(06806)：申万宏源证券及其子公司11月净利环比增长约53.5%至3.69亿元"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(06806.HK)11月净利润达3.69亿元"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：申万宏源证券及2家证券子公司11月净利润3.69亿元"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(000166.SZ)11月合计净利润3.69亿元 同比增长28.49%"
+    }
+  },
+  "day225": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day226": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day227": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day228": {
+    "tweet1": {
+      "content": "申万宏源储晓明：打造“有信仰、敢担当”的一流国有金融企业"
+    }
+  },
+  "day229": {
+    "tweet1": {
+      "content": "COMPANY_X：完成30亿元短期融资券发行，票面利率3.05%"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000166.SZ)：申万宏源证券完成发行30亿元短期融资券(债券通)"
+    }
+  },
+  "day230": {
+    "tweet1": {
+      "content": "申万宏源戴佳明：以客户为导向推进投行业务转型"
+    },
+    "tweet2": {
+      "content": "以研究协同集团资源打通服务 申万宏源新战略！看好A股明年春季行情 债市牛熊过度"
+    }
+  },
+  "day231": {
+    "tweet1": {
+      "content": "家居企业积极拥抱资本市场 破局2020"
+    }
+  },
+  "day232": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day233": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day234": {
+    "tweet1": {
+      "content": "申万宏源近8亿失陷中信国安中葡股份质押 股价微跌"
+    },
+    "tweet2": {
+      "content": "2019券商“最后一颗大雷”炸了？近8亿质押出大事！"
+    }
+  },
+  "day235": {
+    "tweet1": {
+      "content": "中信国安“过年关”被讨债近8亿！总负债超1600亿，资本玩家不灵了 偿债能力下降"
+    }
+  },
+  "day236": {
+    "tweet1": {
+      "content": "COMPANY_X：定增发行环比回暖 审核效率显著提升"
+    },
+    "tweet2": {
+      "content": "券商股权质押频踩雷 存量风险化解尚需周期 投资失误"
+    }
+  },
+  "day237": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day238": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day239": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day240": {
+    "tweet1": {
+      "content": "2019年IPO年报：中企全球募资创八年新高，A股科创引领半壁河山"
+    }
+  },
+  "day241": {
+    "tweet1": {
+      "content": "资本市场改革序幕拉开，投行如何转型？COMPANY_X：以客户为中心代替项目驱动是必由之路"
+    }
+  },
+  "day242": {
+    "tweet1": {
+      "content": "关于李迅雷两条消息！卸任所长是真，\"请去喝茶\"是假的！"
+    },
+    "tweet2": {
+      "content": "关于李迅雷两条消息！卸任所长是真，\"请去喝茶\"是假的！"
+    }
+  },
+  "day243": {
+    "tweet1": {
+      "content": "申万宏源一员工违法遭罚 借同学账户炒股亏损148万 其他违规处罚"
+    }
+  },
+  "day244": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day245": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day246": {
+    "tweet1": {
+      "content": "申万宏源与广发银行在沪签署全面战略合作协议"
+    }
+  },
+  "day247": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day248": {
+    "tweet1": {
+      "content": "COMPANY_X：2019年12月初步净利润6.5亿 环比增长1倍"
+    },
+    "tweet2": {
+      "content": "申万宏源母公司上月净利6.51亿元"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(06806)：申万宏源证券及其子公司12月净利润环比增95%至7.2亿元"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：2019年12月申万宏源证券实现净利润6.51亿元"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(06806.HK)12月份非合并净利润达7.2亿元"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：公司及2家证券子公司12月净利润7.2亿元 环比增95%"
+    }
+  },
+  "day249": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day250": {
+    "tweet1": {
+      "content": "业绩好转券商股尾盘才涨 市场还在“担心”什么？"
+    }
+  },
+  "day251": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day252": {
+    "tweet1": {
+      "content": "中信摩根大通正面PK，131家券商如何应战国际投行？"
+    }
+  },
+  "day253": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day254": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day255": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day256": {
+    "tweet1": {
+      "content": "COMPANY_X：法定代表人由陈亮变更为徐志斌"
+    }
+  },
+  "day257": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day258": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day259": {
+    "tweet1": {
+      "content": "申万宏源再捐款100万元专项支持疫情防控"
+    }
+  },
+  "day260": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day261": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day262": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day263": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day264": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day265": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day266": {
+    "tweet1": {
+      "content": "COMPANY_X(06806-HK)1月净利环比下降51.66% 亏损"
+    },
+    "tweet2": {
+      "content": "申万宏源1月份实现净利3.31亿元"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：申万宏源证券1月实现净利3.15亿元"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：公司及下属2家证券子公司1月净利合计3.31亿元"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(000166.SZ)：1月申万宏源证券净利润3.15亿元同比下降4.54% 盈利能力下降"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：母公司1月净利润3.15亿元"
+    }
+  },
+  "day267": {
+    "tweet1": {
+      "content": "最新公告透露利好 13只个股有望爆发（02.13）"
+    },
+    "tweet2": {
+      "content": "申万宏源及子公司2020年1月营收共7.83亿元"
+    }
+  },
+  "day268": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day269": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day270": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day271": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day272": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day273": {
+    "tweet1": {
+      "content": "COMPANY_X：2020年非公开发行公司债券（第二期）发行完毕 发行规模40亿元"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000166.SZ)：申万宏源证券完成发行40亿元公司债券"
+    }
+  },
+  "day274": {
+    "tweet1": {
+      "content": "近百家上市公司披露增发进展，券商竞逐增发承销盛宴"
+    }
+  },
+  "day275": {
+    "tweet1": {
+      "content": "券商股近7日平均涨幅超14%，机构喊话再融资新规令券商迎新机遇"
+    }
+  },
+  "day276": {
+    "tweet1": {
+      "content": "险资新一轮举牌：国寿、太保三天内大举扫货"
+    }
+  },
+  "day277": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day278": {
+    "tweet1": {
+      "content": "COMPANY_X(06806)：“20申证03”及“20申证04”在深交所综合协议交易平台转让"
+    }
+  },
+  "day279": {
+    "tweet1": {
+      "content": "【安信非银第7期周报】新证券法实施，利好释放看好券商"
+    },
+    "tweet2": {
+      "content": "基金投顾再添银行新军，工行、招行、平安三家首批试点"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：借力多层次资本市场助力疫情防控和实体经济发展"
+    },
+    "tweet4": {
+      "content": "银行券商入局 公募基金投顾市场再添新军"
+    }
+  },
+  "day280": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day281": {
+    "tweet1": {
+      "content": "星期六再提三连板，机构买卖日趋频繁"
+    },
+    "tweet2": {
+      "content": "近70家挂牌公司备战精选层"
+    }
+  },
+  "day282": {
+    "tweet1": {
+      "content": "COMPANY_X(06806)：申万宏源证券及附属2月净利5.48亿元 环比增66.06%"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(06806.HK)下属试点开展基金投资顾问业务收到证监会复函"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(06806.HK)：2月申万宏源证券净利润升5.2%至4.78亿元"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：母公司2月份净利润为4.77亿"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(000166.SZ)：2月申万宏源证券净利润4.78亿元 同比增5.15%"
+    },
+    "tweet6": {
+      "content": "COMPANY_X(000166.SZ)：证监会对申万宏源证券、申万宏源西部试点开展基金投资顾问业务无异议"
+    }
+  },
+  "day283": {
+    "tweet1": {
+      "content": "泰达股份再度涨停，活跃游资坚定买入"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(06806-HK)2月净利约为人民币4.78亿元"
+    }
+  },
+  "day284": {
+    "tweet1": {
+      "content": "COMPANY_X(000166.SZ)：申万宏源证券完成发行40亿元短期融资券(债券通)"
+    },
+    "tweet2": {
+      "content": "10年期国债期货突破历史新高，未来两周将迎关键“窗口期”"
+    },
+    "tweet3": {
+      "content": "超级大崩盘！石油版金融危机来了？"
+    },
+    "tweet4": {
+      "content": "多家公司调整重组募资，利好兑现尚需时日"
+    }
+  },
+  "day285": {
+    "tweet1": {
+      "content": "石油“价格战”引发金融市场巨震，业内料油价仍有下行空间"
+    },
+    "tweet2": {
+      "content": "“高息揽存”遭严管，银行成本压力料缓解"
+    }
+  },
+  "day286": {
+    "tweet1": {
+      "content": "结构性存款规模重回10万亿元，保底收益率将下行"
+    },
+    "tweet2": {
+      "content": "四类机构竞技基金投顾舞台，投研渠道优势成券商“王牌”"
+    },
+    "tweet3": {
+      "content": "巨震市中的“避险之地”：新三板深改行情风景独好"
+    }
+  },
+  "day287": {
+    "tweet1": {
+      "content": "中证指数公司：对互联互通等指数样本股进行调整"
+    },
+    "tweet2": {
+      "content": "“史上最大泡沫”还是“强烈推荐”？拼多多再引券商开撕"
+    },
+    "tweet3": {
+      "content": "假结构性存款向“真”而行，降低银行负债成本助力实体"
+    },
+    "tweet4": {
+      "content": "华安转债今日打新，为年内首只由券商发行的可转债"
+    }
+  },
+  "day288": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day289": {
+    "tweet1": {
+      "content": "王胜：谈是否危机已经没有意义，这时往往容易出现超跌的情况"
+    }
+  },
+  "day290": {
+    "tweet1": {
+      "content": "“5”字头来了！国内成品油时隔4年再迎“地板价”"
+    }
+  },
+  "day291": {
+    "tweet1": {
+      "content": "以金融之特色克疫情之艰难 中投公司持续发力支援抗疫"
+    }
+  },
+  "day292": {
+    "tweet1": {
+      "content": "券商资管变局：拥抱主动管理，公募化驶入快车道"
+    }
+  },
+  "day293": {
+    "tweet1": {
+      "content": "终止与申万宏源合作，江泰保险携中信建投IPO 经营问题"
+    },
+    "tweet2": {
+      "content": "券商股午后异动，国投资本涨4%"
+    },
+    "tweet3": {
+      "content": "定增再融资预案数量同比增逾七倍，券商业绩提速有了新引擎"
+    }
+  },
+  "day294": {
+    "tweet1": {
+      "content": "COMPANY_X：计算机行业一二季报到底多少增长？"
+    }
+  },
+  "day295": {
+    "tweet1": {
+      "content": "券商私募资管前20强月均管理规模一年下滑近2.5万亿元，但主动管理规模占比首次突破40%！"
+    },
+    "tweet2": {
+      "content": "阿里云专属钉钉助力申万宏源证券9000员工远程复工"
+    }
+  },
+  "day296": {
+    "tweet1": {
+      "content": "券商积极备战新三板改革 业务拓展纳入全年考核目标"
+    }
+  },
+  "day297": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day298": {
+    "tweet1": {
+      "content": "COMPANY_X(06806)2019年度计提资产减值准备8.599亿元 资产异常"
+    },
+    "tweet2": {
+      "content": "申万宏源2019年净利57亿元 同比增38%"
+    },
+    "tweet3": {
+      "content": "2020年报风云丨申万宏源四大业务板块盈利大增，归母净利润57亿，同比增长37%"
+    },
+    "tweet4": {
+      "content": "申万宏源2019年净利增长37.86% 机构服务及交易板块收入翻倍"
+    },
+    "tweet5": {
+      "content": "一张图读懂申万宏源2019年年度业绩"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：2019年度计提资产减值准备约8.6亿元 资产异常"
+    },
+    "tweet7": {
+      "content": "COMPANY_X：2019年净利润增长37.86% 拟10派0.8元"
+    },
+    "tweet8": {
+      "content": "COMPANY_X(000166.SZ)2019年度净利润升37.86%至57.35亿元 拟10派0.8元"
+    },
+    "tweet9": {
+      "content": "COMPANY_X：2019年净利润57.35亿元，同比增长37.86%"
+    },
+    "tweet10": {
+      "content": "申万宏源2019年净利涨37.86% 受益经纪、投行等业务增长"
+    }
+  },
+  "day299": {
+    "tweet1": {
+      "content": "月薪6万5！券商发钱不手软直追腾讯"
+    },
+    "tweet2": {
+      "content": "北信源尾盘封跌停，机构逆势抄底"
+    }
+  },
+  "day300": {
+    "tweet1": {
+      "content": "【安信非银】申万宏源2019年报点评：自营投行驱动增长，“投研顾”结合焕新生"
+    },
+    "tweet2": {
+      "content": "猪肉股今日批量涨停，外资持续加码"
+    }
+  },
+  "day301": {
+    "tweet1": {
+      "content": "COMPANY_X(000166.SZ)子公司完成发行40亿元短期融资券(债券通)"
+    },
+    "tweet2": {
+      "content": "券业分类评级迎大修，取消净资本、营收等指标"
+    },
+    "tweet3": {
+      "content": "美联储再出重拳，白宫第四轮刺激也在路上！G20执行四大救市承诺"
+    },
+    "tweet4": {
+      "content": "头部券商场外衍生品业务快速增长"
+    }
+  },
+  "day302": {
+    "tweet1": {
+      "content": "最会赚钱券商投资子公司：中信证券投资22人赚13亿"
+    },
+    "tweet2": {
+      "content": "完成美国FDA注册的嘉麟杰，与意大利采购商签下亿元隔离衣大合同"
+    },
+    "tweet3": {
+      "content": "2019年业绩爆发22家券商利润增速达129%"
+    }
+  },
+  "day303": {
+    "tweet1": {
+      "content": "COMPANY_X：所属子公司涉及重大诉讼 诉讼纠纷"
+    },
+    "tweet2": {
+      "content": "市场各方积极拥抱新三板改革"
+    },
+    "tweet3": {
+      "content": "中信证券头把交椅无悬念东方证券尽显黑马本色"
+    }
+  },
+  "day304": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day305": {
+    "tweet1": {
+      "content": "券商2019年业绩榜：中信126亿净利居首;17家券商计提百亿资产减值，海通占1/4 资产异常"
+    }
+  },
+  "day306": {
+    "tweet1": {
+      "content": "COMPANY_X(06806)：3月份申万宏源证券及附属实现净利润9.7亿元"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：3月份净利润为9.70亿元"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(06806.HK)：3月申万宏源证券净利润为8.68亿元"
+    },
+    "tweet4": {
+      "content": "广誉远(600771.SH)控股股东所持1%股份可能被动减持 减持股份"
+    },
+    "tweet5": {
+      "content": "同花顺放量涨停，两机构买入3.99亿元"
+    }
+  },
+  "day307": {
+    "tweet1": {
+      "content": "上交所对多起科创板现场督导发现的违规行为实施自律监管 其他违规处罚"
+    },
+    "tweet2": {
+      "content": "广誉远控股股东持股触发违约条款或被动减持 关联方问题"
+    },
+    "tweet3": {
+      "content": "申万宏源及其子公司2020年3月份共盈利9.7亿元"
+    },
+    "tweet4": {
+      "content": "一季度券商业绩“过山车”，3月行业营收净利环比普降 盈利能力下降"
+    },
+    "tweet5": {
+      "content": "广誉远控股股东面临被动减持 此前曾获山西国资纾困 减持股份"
+    },
+    "tweet6": {
+      "content": "业绩明显分化，这家券商3月净利大涨164% ！10家券商一季度净利超10亿元"
+    },
+    "tweet7": {
+      "content": "券商业绩坐上过山车！这几家券商优势地位不可动摇"
+    },
+    "tweet8": {
+      "content": "广誉远大股东部分持股面临被动减持 年内股价下跌近2成 减持股份"
+    },
+    "tweet9": {
+      "content": "“盯上”科创板券商，现身10家公司前十大流通股股东"
+    }
+  },
+  "day308": {
+    "tweet1": {
+      "content": "探索新三板之交易篇"
+    },
+    "tweet2": {
+      "content": "险资11次举牌9次瞄准H股，最爱低估值高股息金融地产股"
+    },
+    "tweet3": {
+      "content": "券商加码FICC业务"
+    }
+  },
+  "day309": {
+    "tweet1": {
+      "content": "股价暴涨后双双辟谣，中信与建投否认合并传闻"
+    },
+    "tweet2": {
+      "content": "260家新三板企业变更主办券商 差异化发展提升市场质量"
+    },
+    "tweet3": {
+      "content": "今年债券违约规模同比增长55%，为何风险没有恶化？ 未按时兑付本息"
+    },
+    "tweet4": {
+      "content": "股票账户被盗！同花顺事件波及十多家券商，你的账户安全吗"
+    },
+    "tweet5": {
+      "content": "监管效应正显现，40份年报问询函率先出炉 问询"
+    }
+  },
+  "day310": {
+    "tweet1": {
+      "content": "5年了 申万宏源用户还在为“原申万”“原宏源”头疼"
+    },
+    "tweet2": {
+      "content": "一家公司为何两套系统？COMPANY_X：当前保留三款软件 入口正在整合中丨公司问答"
+    },
+    "tweet3": {
+      "content": "深度！【国君非银】上市券商2019年度业绩综述：投资驱动利润增长，龙头券商差异化竞争"
+    },
+    "tweet4": {
+      "content": "头部券商合并传言引爆市场:中信发澄清公告 到底有无可能性"
+    }
+  },
+  "day311": {
+    "tweet1": {
+      "content": "合并传闻引发券业整合路径猜想：或不限于“大吃小”"
+    },
+    "tweet2": {
+      "content": "精选层还是大中券商的盛宴：小券商干体力活的命"
+    },
+    "tweet3": {
+      "content": "券商踩雷纪实：今年已有7家券商披露新增涉诉项目 诉讼纠纷"
+    },
+    "tweet4": {
+      "content": "银保新单保费3月环比增一倍，寿险业绩开始修复"
+    }
+  },
+  "day312": {
+    "tweet1": {
+      "content": "COMPANY_X(06806.HK)4月29日举行董事会议以批准季度业绩"
+    },
+    "tweet2": {
+      "content": "券商月报|整体承压 红塔证券兴业证券营收净利皆为负"
+    },
+    "tweet3": {
+      "content": "900多亿募资待发，债融逼近5000亿"
+    }
+  },
+  "day313": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day314": {
+    "tweet1": {
+      "content": "今年一季度主办券商 执业质量评估结果出炉"
+    }
+  },
+  "day315": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day316": {
+    "tweet1": {
+      "content": "再降20%！申万菱信净利连续四年滑坡 新任总经理能否力挽狂澜？ 盈利能力下降"
+    },
+    "tweet2": {
+      "content": "航母级券商何时启航？券业合并引猜想 看全新展望"
+    }
+  },
+  "day317": {
+    "tweet1": {
+      "content": "利率3.18% COMPANY_X(06806):申万宏源证券完成发行60亿元2020年证券公司次级债券(第一期)"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(06806.HK)：法院裁定申银万国智富一审判决发回重审 诉讼纠纷"
+    },
+    "tweet3": {
+      "content": "又一券商人事大调整！投行董事长将调任申万合规总监，新任班子全部就位，能否捋顺投行内部整合？"
+    }
+  },
+  "day318": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day319": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day320": {
+    "tweet1": {
+      "content": "COMPANY_X(06806)一季度归母净利润同比增长6.72%至19.87亿元"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(06806.HK)一季度净利19.87亿元 同比增长6.72%"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：2020年一季度净利增6.72%至19.87亿元"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(000166.SZ)一季度净利润升6.72%至19.87亿元"
+    },
+    "tweet5": {
+      "content": "科创板迎来第100家上市企业，近两成公司研发投入占比20%以上"
+    }
+  },
+  "day321": {
+    "tweet1": {
+      "content": "A股券商季报！红塔、浙商、银河、华林证券收入增速太快了"
+    },
+    "tweet2": {
+      "content": "申万宏源一季度营收大增四成"
+    },
+    "tweet3": {
+      "content": "券商一季报出炉:中信华泰海通排前三 超六成净利下滑 盈利能力下降"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(06806-HK)：4月申万宏源证券净利增长267.08%"
+    }
+  },
+  "day322": {
+    "tweet1": {
+      "content": "COMPANY_X(06806)：“20申证C2”于深交所综合协议交易平台进行转让"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(06806.HK)：“20申证C2”在深交所综合协议交易平台转让"
+    },
+    "tweet3": {
+      "content": "申万宏源研究谈一季报和2019年报：疫情冲击下，14行业景气度较高"
+    }
+  },
+  "day323": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day324": {
+    "tweet1": {
+      "content": "晨会聚焦200508重点关注中国国旅、通信、COMPANY_X"
+    },
+    "tweet2": {
+      "content": "COMPANY_X（000166）点评：个人金融提振，自营业务承压"
+    }
+  },
+  "day325": {
+    "tweet1": {
+      "content": "上市券商4月业绩全部出炉：多数券商净利同比、环比均大增，中信、申万宏源等3家净利超10亿！"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(06806.HK)：申万宏源证券4月净利润15.2亿元"
+    },
+    "tweet3": {
+      "content": "“金三银四” 券业换帅忙，时隔六年彭文生重返中金 董监高成员变化"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(06806)：申万宏源证券4月净利润同比增2.67倍至15.2亿元"
+    },
+    "tweet5": {
+      "content": "A股券商4月“月考”：中信证券龙头位置稳固"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：4月实现净利润15.2亿 去年同期为4.14亿元"
+    },
+    "tweet7": {
+      "content": "COMPANY_X：申万宏源证券4月份实现营收22.81亿元、净利15.20亿元"
+    },
+    "tweet8": {
+      "content": "COMPANY_X：申万宏源证券4月净利超15亿元 同比大增"
+    },
+    "tweet9": {
+      "content": "COMPANY_X：母公司4月实现净利润15.2亿元"
+    },
+    "tweet10": {
+      "content": "COMPANY_X(06806)：申万宏源证券就质押式证券回购纠纷起诉沈培今及朱礼静归还本金6.95亿元 诉讼纠纷"
+    },
+    "tweet11": {
+      "content": "COMPANY_X：子公司申万宏源证券起诉沈培今、朱礼静 诉讼纠纷"
+    },
+    "tweet12": {
+      "content": "基建“晴雨表”继续火！挖掘机销量连续两月超4万台"
+    },
+    "tweet13": {
+      "content": "证券业高速发展10年，深圳券商却走“丢”，如何重振雄风？"
+    },
+    "tweet14": {
+      "content": "震惊金融圈！彭文生回归中金，黄燕铭或离开国泰君安！"
+    },
+    "tweet15": {
+      "content": "证券时报：深圳补齐证券短板时不我待"
+    }
+  },
+  "day326": {
+    "tweet1": {
+      "content": "暴涨3900%！\"牛市旗手\"大爆发：单月狂赚110亿，最大的看点是"
+    },
+    "tweet2": {
+      "content": "上市券商4月成绩单：中信稳坐第一 14家净利环比翻倍"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(06806.HK)拟为宏源恒利提供1亿元担保 大额借贷担保"
+    },
+    "tweet4": {
+      "content": "上市券商4月成绩单：中信证券稳坐第一，14家净利环比翻倍"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(06806.HK)累计新增借款超上年末净资产20% 大额借贷担保"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：前4月累计新增借款金额180.65亿元，占上年末净资产比例为21.29% 大额借贷担保"
+    },
+    "tweet7": {
+      "content": "全面飙升！券商4月业绩集体爆发，这家净利环比增39倍"
+    },
+    "tweet8": {
+      "content": "COMPANY_X(06806-HK)：4月申万宏源证券净利增长267.08%"
+    },
+    "tweet9": {
+      "content": "上交所同意申万宏源为国企方达基金提供主流动性服务"
+    },
+    "tweet10": {
+      "content": "券商4月业绩爆发，七成券商营收净利环比双增"
+    },
+    "tweet11": {
+      "content": "COMPANY_X(6806.HK)领中资券商股普涨4月券商业绩爆棚"
+    },
+    "tweet12": {
+      "content": "四成券商4月净利环比翻倍:中信仍是老大 申万跃居第二"
+    },
+    "tweet13": {
+      "content": "4月业绩大爆发，四成券商净利润环比翻倍"
+    },
+    "tweet14": {
+      "content": "布局“疫情后周期” 关注券商+成长 五股掘良机"
+    },
+    "tweet15": {
+      "content": "券商4月业绩爆发：3头部大赚超10亿 方正证券环比增39倍"
+    },
+    "tweet16": {
+      "content": "全面飙升:券商4月业绩集体爆发 25家营收净利双丰收"
+    },
+    "tweet17": {
+      "content": "数说券商业绩：25家营收净利双丰收 3家头部大赚超10亿"
+    }
+  },
+  "day327": {
+    "tweet1": {
+      "content": "又一个大佬栽了！多项核心资产遭冻结，年报难产或被ST 风险警示"
+    },
+    "tweet2": {
+      "content": "超七成上市券商4月份业绩环比增长净利最高增39倍"
+    }
+  },
+  "day328": {
+    "tweet1": {
+      "content": "MLF暂未续做，逆回购暂停30天，机构点评背后深意"
+    },
+    "tweet2": {
+      "content": "券业喜迎红四月：46家券商业绩环比增五成"
+    }
+  },
+  "day329": {
+    "tweet1": {
+      "content": "2000亿到账！第二批定向降准今日生效，机构展望后市走向"
+    },
+    "tweet2": {
+      "content": "监管部门向券商提示风险，应明确与第三方平台责任边界"
+    }
+  },
+  "day330": {
+    "tweet1": {
+      "content": "非银金融周报：4月券商业绩环比回暖 头部券商优势明显"
+    }
+  },
+  "day331": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day332": {
+    "tweet1": {
+      "content": "中信建投成“小IPO”赢家：31家精选层受理企业拿下7单"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(06806)拟为子公司宏源恒利提供1亿元的担保 大额借贷担保"
+    }
+  },
+  "day333": {
+    "tweet1": {
+      "content": "全员出动！为拿下银行理财子公司，券商拼了"
+    },
+    "tweet2": {
+      "content": "券商母公司4月净利排行榜：中信申万居前二，国泰华泰排名下行"
+    },
+    "tweet3": {
+      "content": "资管重塑，6家券商主动管理资产月均规模占比过半"
+    }
+  },
+  "day334": {
+    "tweet1": {
+      "content": "广誉远(600771.SH)：申万宏源已累计减持东盛集团所持248万股 减持股份"
+    },
+    "tweet2": {
+      "content": "A股37家券商去年11家人均薪酬福利超50万元 中信居首"
+    }
+  },
+  "day335": {
+    "tweet1": {
+      "content": "COMPANY_X(06806.HK)：申万宏源证券完成发行60亿元次级债"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(06806.HK)：“18申证C3”完成本息兑付并摘牌 退市"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(000166.SZ)：获准向专业投资者公开发行不超300亿元公司债"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(000166.SZ)：发行2020年证券公司次级债券(第二期)60亿元"
+    },
+    "tweet5": {
+      "content": "箭已在弦！210户国企试点、打造混改升级版"
+    }
+  },
+  "day336": {
+    "tweet1": {
+      "content": "华大基因连续涨停，机构游资齐看好"
+    }
+  },
+  "day337": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day338": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day339": {
+    "tweet1": {
+      "content": "申万宏源刘靖：新三板精选层开户数超预期，投行挑战初步显现"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：新开户数超预期有利于精选层二级市场表现"
+    },
+    "tweet3": {
+      "content": "6.18大礼，两家中概股回港上市！"
+    }
+  },
+  "day340": {
+    "tweet1": {
+      "content": "COMPANY_X(06806.HK):\"20申证C3\"于5月29日起通过深交所综合协议交易平台进行转让"
+    }
+  },
+  "day341": {
+    "tweet1": {
+      "content": "国债期货加速下跌！有支撑还是债牛结束，6月走势成关键"
+    },
+    "tweet2": {
+      "content": "三大指数样本股调整，2500亿指基即将大规模调仓换股"
+    }
+  },
+  "day342": {
+    "tweet1": {
+      "content": "沪硅产业“手撕”券商：自己都看不清未来，方正证券却预测其2020年盈利1.6亿"
+    },
+    "tweet2": {
+      "content": "券商中期策略密集发布，COMPANY_X“开始期待牛市”"
+    },
+    "tweet3": {
+      "content": "金价高企，3只黄金ETF新品高仓位上市交易"
+    }
+  },
+  "day343": {
+    "tweet1": {
+      "content": "3.83万亿元！年内券商债券承销额同比增33%"
+    }
+  },
+  "day344": {
+    "tweet1": {
+      "content": "券商研究哪家强？24家券商金股测评：华泰+6.26%领涨，标的五上龙虎榜"
+    },
+    "tweet2": {
+      "content": "券商业绩坐上过山车！中信证券仅排第七，广发证券夺魁！"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(06806)：申万宏源证券及其子公司5月净利合计约3.44亿元"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(06806.HK)：申万宏源证券5月实现净利7.98亿元 同比增长312.1%"
+    },
+    "tweet5": {
+      "content": "5月信用债发行总量回落，利率涨跌不一"
+    },
+    "tweet6": {
+      "content": "COMPANY_X(000166.SZ)：5月申万宏源证券净利润7.98亿元 同比增长3.12倍"
+    }
+  },
+  "day345": {
+    "tweet1": {
+      "content": "【长城非银】图说券商2020年5月营收数据初步测算及投资建议——累积市场燃点，应积极布局券商板块"
+    },
+    "tweet2": {
+      "content": "申万宏源备战精选层 项目储备拔头筹"
+    }
+  },
+  "day346": {
+    "tweet1": {
+      "content": "多尔克司：公司及相关人员被列为失信被执行人 失信被执行人"
+    },
+    "tweet2": {
+      "content": "穆迪：首予申万宏源“Baa2”长期发行人评级，展望“稳定”"
+    },
+    "tweet3": {
+      "content": "证券行业点评报告：高基数影响下 5月券商业绩表现环比承压 盈利能力下降"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(000166)：利息净收入增长五成 子公司收入翻倍"
+    },
+    "tweet5": {
+      "content": "广发证券月考夺魁 股权之争硝烟再起"
+    },
+    "tweet6": {
+      "content": "【山证非银】证券行业5月业绩分析：债市回调，业绩环比下滑，同比维持增长"
+    },
+    "tweet7": {
+      "content": "机构预测5月份CPI延续同比回落趋势，或重回“2时代”"
+    }
+  },
+  "day347": {
+    "tweet1": {
+      "content": "5月九成券商业绩环比下滑 政策利好有望改善行业基本面"
+    },
+    "tweet2": {
+      "content": "5月九成券商业绩环比下滑 政策利好有望改善行业基本面 盈利能力下降"
+    },
+    "tweet3": {
+      "content": "说来就来！技术性牛市开始，创业板率先走起！券商集体喊“牛”"
+    }
+  },
+  "day348": {
+    "tweet1": {
+      "content": "5178点五周年，昔日10倍股今何在？这些新10倍股大牛涌现"
+    },
+    "tweet2": {
+      "content": "诚迈科技放量涨停，多路游资合力封板"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：港股闷局未解 网易挂牌有助提振市场气氛"
+    }
+  },
+  "day349": {
+    "tweet1": {
+      "content": "飞荣达(300602.SZ)：实控人马飞股份质押延期购回、拟解除质押及新质押"
+    }
+  },
+  "day350": {
+    "tweet1": {
+      "content": "洪城水业：变更持续督导保荐机构及保荐代表人"
+    },
+    "tweet2": {
+      "content": "“小康牛、复苏牛”呼之欲出，顶级券商发布2020下半年策略"
+    }
+  },
+  "day351": {
+    "tweet1": {
+      "content": "新三板精选层改革跑出“加速度”"
+    },
+    "tweet2": {
+      "content": "长信科技今日涨停，深股通买入3.08亿元"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：未来投行业务将更加考验企业孵化、资产定价等综合能力"
+    }
+  },
+  "day352": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day353": {
+    "tweet1": {
+      "content": "上交所通报批评凯乐科技控股股东 其他违规处罚"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(06806.HK)：申万宏源证券收到上海金融法院一审判决书 诉讼纠纷"
+    },
+    "tweet3": {
+      "content": "晚间利好利空公告汇总：宣亚国际股东拟减持不超3%股份"
+    },
+    "tweet4": {
+      "content": "【公告解读】德展健康：控股股东协议转让公司2.6%股份 减持股份"
+    },
+    "tweet5": {
+      "content": "德展健康：美林集团拟通过协议转让方式转让其持有的2.6%公司股份 资产异常"
+    },
+    "tweet6": {
+      "content": "炸了！两名融资客户爆仓被强平，亏完还倒欠千亿券商1.9个亿！ 亏损"
+    }
+  },
+  "day354": {
+    "tweet1": {
+      "content": "最前线 | 机构观点：快递行业价格战继续升级，顺丰借助电商特惠件保持增长"
+    },
+    "tweet2": {
+      "content": "美年健康放量涨停，机构买入为主"
+    },
+    "tweet3": {
+      "content": "万亿市场大消息！场外期权迎来扩容窗口？如何影响A股？"
+    },
+    "tweet4": {
+      "content": "凯乐科技控股股东遭通报批评 质押与减持披露违规 其他违规处罚"
+    },
+    "tweet5": {
+      "content": "股权质押合约到期，德展健康控股股东拟转5835万股给申万"
+    }
+  },
+  "day355": {
+    "tweet1": {
+      "content": "3000点关口\"牛市旗手\"暴力拉升 四股引瞩目"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(06806.HK)：王凤朝辞任非执行董事 董监高成员变化"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：董事辞职 董监高成员变化"
+    },
+    "tweet4": {
+      "content": "A股收盘综述：创业板指7连升，两市成交额创3个月新高"
+    },
+    "tweet5": {
+      "content": "光大证券涨停中信建投创历史新高，券商板块为何强势领涨？"
+    },
+    "tweet6": {
+      "content": "3000点关口“牛市旗手”暴力拉升，千亿巨头涨停潮！创业板又创新高"
+    },
+    "tweet7": {
+      "content": "A股午盘综述：上证指数涨0.28%，创业板指涨逾1%"
+    },
+    "tweet8": {
+      "content": "板块个股拉升，券商ETF大涨超6%强势站上半年线"
+    },
+    "tweet9": {
+      "content": "近一年后又见券商获基金托管资格，19家券商携两大业务优势“参战”"
+    }
+  },
+  "day356": {
+    "tweet1": {
+      "content": "游族网络放量涨停，外资主导反弹行情"
+    },
+    "tweet2": {
+      "content": "精选层首批企业窗口期即将关闭，开源证券领衔中小券商杀入第一阵营"
+    },
+    "tweet3": {
+      "content": "券商股普遍低开，COMPANY_X、中泰证券跌幅居前"
+    },
+    "tweet4": {
+      "content": "三天飙涨1700亿！牛市大旗突然暴动，两大根本支撑闪现，还能追不？"
+    }
+  },
+  "day357": {
+    "tweet1": {
+      "content": "[路演]COMPANY_X：今年以来克服疫情影响 继续保持良好发展态势"
+    },
+    "tweet2": {
+      "content": "100%中签机会来了！首批精选层询价开始，估值步步高，资金现分歧"
+    },
+    "tweet3": {
+      "content": "100%中签机会：首批精选层询价开始 新股不败神话能否延续？"
+    }
+  },
+  "day358": {
+    "tweet1": {
+      "content": "解禁洪峰第二波！科创板与医药成主力(附名单)"
+    },
+    "tweet2": {
+      "content": "A股“打新潮”来袭！一周15只新股申购，更有100%中签股"
+    }
+  },
+  "day359": {
+    "tweet1": {
+      "content": "券商股午后拉升，光大证券涨超6%"
+    }
+  },
+  "day360": {
+    "tweet1": {
+      "content": "非银金融行业点评：创业板试点注册制落地速度超预期 券商行业向上长周期开启"
+    },
+    "tweet2": {
+      "content": "申万宏源今日大宗交易成交655.87万股，成交价5.05元折价1.17%"
+    }
+  },
+  "day361": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day362": {
+    "tweet1": {
+      "content": "申万宏源龙虎榜数据（7月3日）"
+    },
+    "tweet2": {
+      "content": "本周800亿资金加仓A股，漂亮50王者归来"
+    },
+    "tweet3": {
+      "content": "龙虎榜：申万宏源涨停 四机构卖出2.5亿元"
+    },
+    "tweet4": {
+      "content": "申万宏源今日涨停，深股通买入1.19亿元并卖出1.02亿元"
+    },
+    "tweet5": {
+      "content": "券商板块半日成交金额884亿元，上日全天为990亿元"
+    }
+  },
+  "day363": {
+    "tweet1": {
+      "content": "上半年中资美元债违约规模超去年，两家房企值得关注 违约失信"
+    },
+    "tweet2": {
+      "content": "涨停板解密：金融股掀涨停潮！（7月6日）"
+    },
+    "tweet3": {
+      "content": "股指重上3300，成交再破1.5万亿！行情火爆到交易软件宕机！6大数据点燃A股盛宴"
+    },
+    "tweet4": {
+      "content": "券商板块今日成交金额1516亿元，中信证券主力净流入金额达72亿元"
+    },
+    "tweet5": {
+      "content": "【A股收盘综述】上证指数大涨5.71%，创5年最大单日涨幅"
+    },
+    "tweet6": {
+      "content": "解盘：金融地产板块继续发力，沪指逼近3300"
+    },
+    "tweet7": {
+      "content": "券商板块半日成交金额1082.66亿元，已超7月2日全天"
+    },
+    "tweet8": {
+      "content": "A股午盘综述：上证指数大涨逾4%剑指3300点，券商再掀涨停潮"
+    },
+    "tweet9": {
+      "content": "十年复盘：中信证券引爆牛市可能有多大？本轮券商行情有多高"
+    },
+    "tweet10": {
+      "content": "A股早报2020年7月6日星期一"
+    },
+    "tweet11": {
+      "content": "陆家嘴财经早餐2020年7月6日星期一"
+    },
+    "tweet12": {
+      "content": "增量资金助推指数涨势如虹，全面牛市来了？"
+    }
+  },
+  "day364": {
+    "tweet1": {
+      "content": "豪赚777亿元！券商暴涨幕后最大赢家曝光，操作手法简单有效"
+    },
+    "tweet2": {
+      "content": "长春高新业绩超预期午后快速涨停，机构持续看好"
+    },
+    "tweet3": {
+      "content": "外资买不停！股票、债券一个都不能少"
+    },
+    "tweet4": {
+      "content": "券商板块收跌2.3%成交金额1674亿元，中信证券主力净流出4亿元"
+    },
+    "tweet5": {
+      "content": "券商板块午盘跌0.44%成交金额1096亿元，上日同期为1082亿元"
+    },
+    "tweet6": {
+      "content": "市场热情到底有多高？两融单日新增创历史新高"
+    },
+    "tweet7": {
+      "content": "融资客青睐17股，中航飞机买入占比高达45.49%"
+    },
+    "tweet8": {
+      "content": "A股早报2020年7月7日星期二"
+    },
+    "tweet9": {
+      "content": "重仓低估值蓝筹股，保险“大象”集体起舞"
+    }
+  },
+  "day365": {
+    "tweet1": {
+      "content": "申万宏源母公司6月实现净利8.54亿元"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000166.SZ)：6月申万宏源证券实现净利8.54亿元同比增70.39%"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(06806.HK)：申万宏源证券6月净利增长70.39%至8.54亿元"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：母公司6月实现净利润8.54亿元"
+    },
+    "tweet5": {
+      "content": "申万宏源频收警示函：未查明至正股份伪造单据情况 未尽职调查光通天下关联关系 金融监管处罚"
+    },
+    "tweet6": {
+      "content": "成交量连续5天破万亿，各路资金跑步入场"
+    },
+    "tweet7": {
+      "content": "券商板块收涨6.63%成交金额1664亿元，中信证券、中信建投尾盘炸板"
+    },
+    "tweet8": {
+      "content": "【券商聚焦】申万宏源首予融创中国增持评级 目标价45.2港元"
+    },
+    "tweet9": {
+      "content": "6月数据前瞻：基建地产持续发力，可选品消费蓄势待发 | 申万宏源月度经济数据预测·第21期"
+    },
+    "tweet10": {
+      "content": "券商板块午盘涨3.68%半日成交金额998亿元，较上日同期缩量百亿元"
+    },
+    "tweet11": {
+      "content": "寒武纪募资不及预期，AI芯片第一股上市临考"
+    },
+    "tweet12": {
+      "content": "A股融资融券日报：两融余额增加267.17亿元（7月7日)"
+    },
+    "tweet13": {
+      "content": "创业板跳水，券商分化，3300点后市场怎么走"
+    }
+  },
+  "day366": {
+    "tweet1": {
+      "content": "上市券商2020年6月经营数据跟踪：市场回暖+半年末+低基数 6月业绩大增"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：预计年内CPI仍将延续下行趋势 下行速度或略慢于此前预期"
+    },
+    "tweet3": {
+      "content": "券商板块小涨成交1656亿元环比微减，光大证券成交额93亿元创历史新高"
+    },
+    "tweet4": {
+      "content": "券商6月财务数据点评：券商利润正反馈开启 阶段行情仍在途中"
+    },
+    "tweet5": {
+      "content": "券商板块午盘涨1.12%半日成交1088亿元，较上日同期增百亿元"
+    },
+    "tweet6": {
+      "content": "申万宏源资本领投 药兜网获近亿元B轮融资"
+    },
+    "tweet7": {
+      "content": "A股融资融券日报：两融余额增加327.95亿元（7月8日)"
+    },
+    "tweet8": {
+      "content": "逾4000亿元资金解冻！将奔向哪儿？"
+    },
+    "tweet9": {
+      "content": "券商紧急维护App，5家App年内更新超10次"
+    },
+    "tweet10": {
+      "content": "COMPANY_X(06806-HK)证券子公司6月净利润升67.8%"
+    },
+    "tweet11": {
+      "content": "刚刚出炉，最猛暴增200倍！券商6月业绩大爆发，中信半年狂赚62亿夺冠，第2名却是TA！"
+    }
+  },
+  "day367": {
+    "tweet1": {
+      "content": "券商股尾盘下滑，中国银河、光大证券、申万宏源跌幅超过5%"
+    },
+    "tweet2": {
+      "content": "券商板块午盘跌0.73%成交金额945亿元，中信证券主力净流出3.6亿元"
+    },
+    "tweet3": {
+      "content": "券商股多数低开，兴业证券涨停，COMPANY_X、中泰证券均低开4%左右"
+    },
+    "tweet4": {
+      "content": "【山证非银】证券行业6月业绩分析： 6月业绩环比大增76%，继续推荐券商"
+    },
+    "tweet5": {
+      "content": "H股价格平均打五折多家券商股东入场增持自家股票"
+    },
+    "tweet6": {
+      "content": "平均\"五折\"大甩卖，多家券商大股东已经出手在H股增持"
+    }
+  },
+  "day368": {
+    "tweet1": {
+      "content": "【券商聚焦】COMPANY_X：科网股已属超卖 物管股看高一线"
+    },
+    "tweet2": {
+      "content": "A股“龙卷风”来了，连续6天1.5万亿！这些风险不容忽视！"
+    }
+  },
+  "day369": {
+    "tweet1": {
+      "content": "证券业“大考”来了！券商分类评价启动，谁有望跻身AA类？"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(06806.HK)子公司完成兑付50亿元短期融资券(债券通)"
+    },
+    "tweet3": {
+      "content": "证券业“大考”来了：券商分类评价启动 谁有望跻身AA类？"
+    },
+    "tweet4": {
+      "content": "券商板块半日跌0.03%，南京证券主力净流入额16.96亿元"
+    },
+    "tweet5": {
+      "content": "康泰医学过会：今年IPO获批第87家 申万宏源过首单"
+    },
+    "tweet6": {
+      "content": "论当前行情的性质——申万宏源策略一周回顾展望(20/07/06-20/07/10)"
+    },
+    "tweet7": {
+      "content": "COMPANY_X：首次覆盖浦江国际，给予“买入”评级"
+    },
+    "tweet8": {
+      "content": "券商业绩高歌 太平洋“伤心”"
+    }
+  },
+  "day370": {
+    "tweet1": {
+      "content": "COMPANY_X(06806);申万宏源证券完成兑付2020年第三期短期融资券(债券通)"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(06806):“18申宏02”将于7月17日开始付息"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(06806)：“18申宏01”将于7月17日开始付息"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(06806.HK)：“18申宏02”7月17日付息"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(06806.HK)：“18申宏01”7月17日付息"
+    },
+    "tweet6": {
+      "content": "券商板块今日跌2.87%，无一股收于涨停"
+    },
+    "tweet7": {
+      "content": "券商板块半日跌1.8%成交金额740亿元，越秀金控涨停获主力净流入0.7亿元"
+    },
+    "tweet8": {
+      "content": "券商分类评价工作启动，A类份额扩大"
+    }
+  },
+  "day371": {
+    "tweet1": {
+      "content": "券商板块收跌5.6%成交金额1273亿元，太平洋获主力净流入32.29亿元"
+    },
+    "tweet2": {
+      "content": "上纬新材过会：今年科创板过会第79家 申万宏源过3单"
+    },
+    "tweet3": {
+      "content": "频繁踩雷，境外业务能否为海通证券分类评价加分？"
+    }
+  },
+  "day372": {
+    "tweet1": {
+      "content": "【财富赢家系列】开户投资正当时！创业板新注册制落地，需知新规则"
+    },
+    "tweet2": {
+      "content": "建银国际下调多家券商评级，将申万宏源H股评级下调至跑输大盘 投资评级恶化"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(06806.HK)：中国证监会对申万宏源证券试点开展跨境业务无异议"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(000166.SZ)：中国证监会对申万宏源证券试点开展跨境业务无异议"
+    },
+    "tweet5": {
+      "content": "机构密集上调个股业绩预测，最高调增14倍，真有价值吗？"
+    },
+    "tweet6": {
+      "content": "券商板块今日缩量收跌3.07%，光大证券等4股跌停遭主力净卖出44亿元"
+    },
+    "tweet7": {
+      "content": "券商板块半日跌超3%，太平洋、光大证券、中信证券遭主力资金净卖出31亿元"
+    },
+    "tweet8": {
+      "content": "申万宏源承销保荐退出债承业务"
+    }
+  },
+  "day373": {
+    "tweet1": {
+      "content": "招商证券配股除权日股价上演“过山车”，券商股后市走势存分歧"
+    },
+    "tweet2": {
+      "content": "券商板块今日收涨5.29%，中信证券主力资金净流入约5亿元"
+    },
+    "tweet3": {
+      "content": "券商板块半日涨6.36%，方正证券、中信证券共获得主力净流入超12亿元"
+    },
+    "tweet4": {
+      "content": "A股神签！中一签赚26万，本周又迎12只新股"
+    },
+    "tweet5": {
+      "content": "上市券商半年度业绩:首发承销业务发力 营收及净利润均增逾两成"
+    },
+    "tweet6": {
+      "content": "上市券商144亿元分红已兑现，还有157多亿元红包“在路上”"
+    }
+  },
+  "day374": {
+    "tweet1": {
+      "content": "创业板注册制股票上市指日可待，两融账户竟无法融资交易？"
+    },
+    "tweet2": {
+      "content": "首批精选层发行承销费知多少？中信建投、国信、开源位列三甲"
+    },
+    "tweet3": {
+      "content": "首批精选层公开发行承销费知多少？中信建投国信开源位列三甲"
+    }
+  },
+  "day375": {
+    "tweet1": {
+      "content": "COMPANY_X：子公司申万宏源证券拟发行不超过100亿元永续次级债券"
+    },
+    "tweet2": {
+      "content": "申万宏源今年以来三成被执行人 员工受贿、职务侵占等“丑闻”频现"
+    },
+    "tweet3": {
+      "content": "金达威再度涨停，游资接力炒作"
+    },
+    "tweet4": {
+      "content": "券商板块冲高回落收涨1.03%，第一创业主力净流入金额超19亿元"
+    },
+    "tweet5": {
+      "content": "申万宏源中国多资产智能配置策略登录Wind平台"
+    },
+    "tweet6": {
+      "content": "申万宏源丑闻频出：今年三列被执行人 曾有业务部董事借号受贿"
+    },
+    "tweet7": {
+      "content": "申万宏源被法院列为被执行人 被执行人"
+    },
+    "tweet8": {
+      "content": "【行情】港股中资券商股走高，光大证券涨2.9%，申万宏源涨2.4%，中金、东方证券、广发证券均涨超1.5%"
+    },
+    "tweet9": {
+      "content": "募资或超300亿！中金A股IPO计划扩容3倍，或成募资额最大券商股"
+    },
+    "tweet10": {
+      "content": "新三板精选层开板倒计时，预期首日“开门红”"
+    },
+    "tweet11": {
+      "content": "中金A股IPO加量发行猜想"
+    },
+    "tweet12": {
+      "content": "新三板精选层开板倒计时"
+    },
+    "tweet13": {
+      "content": "中金A股IPO加量发行猜想： 调额募资或超300亿 连横兼并阳谋显现"
+    }
+  },
+  "day376": {
+    "tweet1": {
+      "content": "基金2020Q2券商持仓分析：券商配置占比下滑至0.46% 低配比例继续扩大"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(06806.HK)：申万宏源证券完成发行40亿元短期融资券"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(000166.SZ)：完成发行40亿元短期融资券(债券通)"
+    },
+    "tweet4": {
+      "content": "券商永续次级债发行频现！6家数百亿融资已浮出水面"
+    },
+    "tweet5": {
+      "content": "券商进入密集“补血”期 这家公司将发百亿永续次级债 已是本月第3家"
+    },
+    "tweet6": {
+      "content": "COMPANY_X(06806-HK)子公司拟发行最多100亿人民币次级债"
+    },
+    "tweet7": {
+      "content": "券商进入密集\"补血\"期，这家公司将发百亿永续次级债，已是本月第3家"
+    }
+  },
+  "day377": {
+    "tweet1": {
+      "content": "解盘：资金出逃，题材走势分化，黄金珠宝、军工略涨"
+    }
+  },
+  "day378": {
+    "tweet1": {
+      "content": "COMPANY_X(000166.SZ)：“20申证D5”及“20申证06”于7月31日在深交所挂牌交易"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000166.SZ)：申万宏源证券完成发行76亿元公司债券"
+    },
+    "tweet3": {
+      "content": "半年报业绩、债券兑付压力，4张图看清这些公司状况！"
+    },
+    "tweet4": {
+      "content": "北向资金步伐生变，机构仍看好这些机会"
+    },
+    "tweet5": {
+      "content": "申万宏源辅导会宁县群业科技挂牌新三板"
+    }
+  },
+  "day379": {
+    "tweet1": {
+      "content": "COMPANY_X(06806)：109.31万股A股限售股份将于7月31日上市流通 解禁"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000166.SZ)：约109.31万股限售股7月31日解禁 解禁"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：109万股限售股7月31日上市流通 解禁"
+    },
+    "tweet4": {
+      "content": "广誉远(600771.SH)：控股股东东盛集团减持1%公司股份减持计划实施完毕 减持股份"
+    },
+    "tweet5": {
+      "content": "申万宏源集团股份有限公司关"
+    },
+    "tweet6": {
+      "content": "COMPANY_X(06806-HK)完成发行76亿人民币公司债三年期票息3.49%"
+    }
+  },
+  "day380": {
+    "tweet1": {
+      "content": "COMPANY_X(06806)：申万宏源证券2020年第四期短期融资券(债券通)兑付完成"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(06806.HK)：申万宏源证券兑付30亿元短期融资券"
+    },
+    "tweet3": {
+      "content": "恒指震荡收高0.45%，券商、芯片股走强"
+    },
+    "tweet4": {
+      "content": "翔丰华过会：今年IPO获批第121家 申万宏源过2单"
+    }
+  },
+  "day381": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day382": {
+    "tweet1": {
+      "content": "关键假设表调整与交流精粹(2020年8月)：下半年宏观流动性是否会收紧存在预期差"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(06806)：“20申证D5”及“20申证06”在深交所转让"
+    },
+    "tweet3": {
+      "content": "证券行业2020年秋季策略报告：资本市场深化改革：对券商业绩影响几何【华创非银】"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：上调新高教集团(2001.HK)目标价至7.91港元维持买入评级"
+    }
+  }
+}

@@ -1,0 +1,629 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "一天4家！A股分拆上市案例骤增"
+    },
+    "tweet2": {
+      "content": "白云山将分拆广州医药至H股上市 扩大其行业领先优势"
+    },
+    "tweet3": {
+      "content": "白云山将分拆广州医药至H股上市 预计发行规模不超总股本27.71%"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "COMPANY_X：公司有牛黄牙膏等日化产品"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：“1828王老吉”是广州孙公司旗下茶饮店"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "COMPANY_X：子公司获得药品生产许可证"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(00874.HK)子公司奇星药业获颁发《药品生产许可证》"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(600332.SH)子公司获得《药品生产许可证》"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "COMPANY_X(00874.HK)将于10月28日举行董事会议审批前三季度业绩"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "财经TOP10|钟南山：白云山复方板蓝根对新冠病毒有效"
+    },
+    "tweet2": {
+      "content": "板蓝根也要火啦？钟南山一番话引发白云山股价暴动"
+    },
+    "tweet3": {
+      "content": "钟南山一句话！上市公司市值飙升50亿，板蓝根也卖断货了"
+    },
+    "tweet4": {
+      "content": "中药股集体走强，多股出现涨停"
+    },
+    "tweet5": {
+      "content": "钟南山一句话：白云山市值涨了100亿 这要成为下一个以岭药业？"
+    },
+    "tweet6": {
+      "content": "钟南山“点名”COMPANY_X 股价飙升封涨停"
+    },
+    "tweet7": {
+      "content": "10月16日-18日晚间重要公告集锦：白云山就媒体报道进行澄清"
+    },
+    "tweet8": {
+      "content": "涨停复盘 | 两市缩量震荡，抗流感概念表现活跃"
+    },
+    "tweet9": {
+      "content": "港股收评：恒指收涨0.94%，大金融股持续走强，白云山领涨抗疫概念"
+    },
+    "tweet10": {
+      "content": "中药概念股持续走高，多股出现涨停"
+    },
+    "tweet11": {
+      "content": "涨停板解密：逆市强劲，医药股纷纷受追捧！（10月16日）"
+    },
+    "tweet12": {
+      "content": "恒生指数收涨0.94% 白云山涨超13%"
+    },
+    "tweet13": {
+      "content": "收评：恒生指数涨0.94% 内银股大涨白云山涨超13%"
+    },
+    "tweet14": {
+      "content": "恒指缩量震荡收涨0.94%，内资大行全线走高"
+    },
+    "tweet15": {
+      "content": "民族品牌指数跌0.74% 白云山涨停"
+    },
+    "tweet16": {
+      "content": "中药概念股午后异动走高 白云山等多股涨停"
+    },
+    "tweet17": {
+      "content": "白云山涨幅扩大超14% 钟南山称白云山复方板蓝根对新冠病毒有效"
+    },
+    "tweet18": {
+      "content": "白云山A股涨停H股涨幅扩大至超15%"
+    },
+    "tweet19": {
+      "content": "抗疫概念股午后拉升 白云山等涨停"
+    },
+    "tweet20": {
+      "content": "钟南山团队称复方板蓝根对新冠病毒有效 白云山午后封涨停"
+    },
+    "tweet21": {
+      "content": "白云山A股封住涨停板，主力净流入超4亿元"
+    },
+    "tweet22": {
+      "content": "钟南山一句话！这家上市公司市值飙升100亿"
+    },
+    "tweet23": {
+      "content": "白云山股票大涨 钟南山称白云山复方板蓝根对新冠病毒有效，不会乱讲"
+    },
+    "tweet24": {
+      "content": "白云山A股、港股双双上涨，体外研究发现白云山复方板蓝根对新冠病毒有效"
+    },
+    "tweet25": {
+      "content": "白云山触及涨停"
+    },
+    "tweet26": {
+      "content": "【异动股】COMPANY_X(00874-HK)涨11.2%"
+    },
+    "tweet27": {
+      "content": "港股白云山涨幅扩大至10%"
+    },
+    "tweet28": {
+      "content": "白云山股价一路飙升涨超6%！钟南山：初步发现白云山复方板蓝根可体外抑制新冠病毒"
+    },
+    "tweet29": {
+      "content": "港股白云山涨6%"
+    },
+    "tweet30": {
+      "content": "【行情】白云山一度涨超6%，此前据媒体报道，钟南山团队称白云山复方板蓝根对新冠病毒有效"
+    },
+    "tweet31": {
+      "content": "白云山涨超7%，领涨港股通标的"
+    },
+    "tweet32": {
+      "content": "白云山高开3% 现报19.78港元"
+    },
+    "tweet33": {
+      "content": "COMPANY_X(600332.SH)高开3.64%"
+    },
+    "tweet34": {
+      "content": "白云山高开3.64%"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "板蓝根火了，白云山发声明！上半年利润下滑近三成，非疫情受益者 盈利能力下降"
+    },
+    "tweet2": {
+      "content": "钟南山点名，板蓝根热卖，白云山闹剧几时休？"
+    },
+    "tweet3": {
+      "content": "钟南山团队称复方板蓝根颗粒对新冠有效，白云山澄清了！"
+    },
+    "tweet4": {
+      "content": "供货和价格正常，济南未掀“板蓝根风暴”"
+    },
+    "tweet5": {
+      "content": "板蓝根“新冠病毒有效”被疯抢，白云山紧急澄清！"
+    },
+    "tweet6": {
+      "content": "白云山股价“一日游”！今日大跌吃板蓝根真能防新冠吗？"
+    },
+    "tweet7": {
+      "content": "港股收盘(10.19)|恒指收涨0.64% 获阿里巴巴提要约收购 高鑫零售(06808)涨近20%"
+    },
+    "tweet8": {
+      "content": "白云山股价飙升板蓝根概念会否收割智商税？"
+    },
+    "tweet9": {
+      "content": "板蓝根需求火爆 白云山却紧急澄清 医药股还能追吗？"
+    },
+    "tweet10": {
+      "content": "【异动股】COMPANY_X(00874-HK)跌7.13%"
+    },
+    "tweet11": {
+      "content": "港股热门医药股走弱，爱康医疗跌12%"
+    },
+    "tweet12": {
+      "content": "板蓝根迅速“蹿红”，白云山紧急发声"
+    },
+    "tweet13": {
+      "content": "多只热门股集体哑火：颐海国际跌超7%福莱特玻璃跌8%"
+    },
+    "tweet14": {
+      "content": "医疗器械遭遇杀跌爱康医疗暴跌9% 白云山澄清大跌7% 连续下跌"
+    },
+    "tweet15": {
+      "content": "【行情】港股抗疫概念股走低，白云山跌7.6%，石药集团跌近2%，复星医药跌1.14%，阿里健康跌1.68%，平安好医生跌1.6%"
+    },
+    "tweet16": {
+      "content": "COMPANY_X：相关生产企业为公司合营企业 销售数据不并表 不对业绩产生影响｜公司问答"
+    },
+    "tweet17": {
+      "content": "白云山股价早盘走弱跌超4% 现报20.8港元"
+    },
+    "tweet18": {
+      "content": "板蓝根一夜爆火！白云山市值飙升50亿，公司发布紧急澄清：产品工作仍存在不确定性"
+    },
+    "tweet19": {
+      "content": "齐俊杰：钟老一句话！板蓝根脱销！公司市值飙升50亿！真的有效吗？"
+    },
+    "tweet20": {
+      "content": "中药板块反弹：短期看海外第二波疫情，长期看地方政策会否遍地开花"
+    },
+    "tweet21": {
+      "content": "港股盘前必读：蚂蚁集团或下周聆讯，美国赤字占经济比例跃升至16%"
+    },
+    "tweet22": {
+      "content": "A股早报2020年10月19日星期一"
+    },
+    "tweet23": {
+      "content": "港股公告精选：阿里巴巴投资280亿港元提高在高鑫零售的持股比例"
+    },
+    "tweet24": {
+      "content": "药店板蓝根一包难求？白云山称销售不太影响业绩"
+    },
+    "tweet25": {
+      "content": "板蓝根爆火 白云山市值飙涨！公司澄清：钟南山团队结论仅为体外实验结果 对公司销售影响不大"
+    },
+    "tweet26": {
+      "content": "COMPANY_X(00874-HK)：复方板蓝根销售对业绩无重大影响"
+    },
+    "tweet27": {
+      "content": "新华社民族品牌指数多只成分股获北向资金增持"
+    },
+    "tweet28": {
+      "content": "逾八成民族品牌指数成分股本周上涨"
+    },
+    "tweet29": {
+      "content": "板蓝根爆火！白云山紧急澄清：对业绩不构成重大影响"
+    },
+    "tweet30": {
+      "content": "板蓝根带起百亿市值 白云山紧急澄清：对销售影响不大"
+    },
+    "tweet31": {
+      "content": "COMPANY_X：“板蓝根”销量不影响公司经营业绩"
+    },
+    "tweet32": {
+      "content": "板蓝根一夜爆火，网店已卖断货，专家提醒：体外研究有效不等于临床治疗有效"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "COMPANY_X“自泼冷水”，板蓝根是个误会"
+    },
+    "tweet2": {
+      "content": "板蓝根上热搜：香雪制药蹭热度 单凭概念炒作难撑长远发展"
+    },
+    "tweet3": {
+      "content": "医药生物行业日报：冠脉支架首轮国采落地"
+    },
+    "tweet4": {
+      "content": "港股盘前必读：“黑色星期一”第33周年纪念日，美三大股指跌幅均超1.4%"
+    },
+    "tweet5": {
+      "content": "白云山为啥没人追了"
+    },
+    "tweet6": {
+      "content": "变更募资用途买资产 新大正吃关注函 关注函"
+    },
+    "tweet7": {
+      "content": "白云山的涨停更像是一次短线炒作 所以没人追了"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "财经抖好看｜让板蓝根成为“国民神药”，白云山都做了什么？"
+    },
+    "tweet2": {
+      "content": "医药行业动态分析：制药龙头个股回调 关注布局机遇"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "白云山板蓝根事件升级！钟南山：断章取义，证监会：依法查处！"
+    },
+    "tweet2": {
+      "content": "白云山的板蓝根生意"
+    },
+    "tweet3": {
+      "content": "白云山因板蓝根被疑涉嫌操纵股价 证监会回应"
+    },
+    "tweet4": {
+      "content": "证监会：已关注到白云山相关报道 将密切关注相关公司及相关事项"
+    },
+    "tweet5": {
+      "content": "钟南山回应板蓝根药效：断章取义，是一种歪曲"
+    },
+    "tweet6": {
+      "content": "白云山板蓝根对新冠病毒有效?钟南山指有人断章取义"
+    },
+    "tweet7": {
+      "content": "证监会：已注意到白云山相关报道"
+    },
+    "tweet8": {
+      "content": "证监会回应白云山复方板蓝事件：一旦发现违法行为，将予以查处 金融监管处罚"
+    },
+    "tweet9": {
+      "content": "COMPANY_X：“魔幻”剧情？紧急澄清后股价下跌"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "晚间重要公告2020年10月28日星期三"
+    },
+    "tweet2": {
+      "content": "白云山前三季度净利润同比下降16%，马云旗下云锋基金退出前十大股东"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(600332.SH)：前三季净利同比降15.84%至26.59亿元 盈利能力下降"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：前三季净利同比下降15.84% 盈利能力下降"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：前三季度净利润同比减少15.84%"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：截至9月30日止9个月营收468.84亿元"
+    },
+    "tweet7": {
+      "content": "【行情】港股抗疫概念股涨跌互现，康希诺生物跌近4%，比亚迪电子跌1.57%，白云山跌1.37%，四环医药涨4.55%"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "晚间重要公告2020年10月29日星期四"
+    },
+    "tweet2": {
+      "content": "白云山今日大宗交易成交12.54万股，成交价33.32元溢价7.31%"
+    },
+    "tweet3": {
+      "content": "【财报智读】COMPANY_X：2020年前三季度归母净利润26.59亿元，同比下降15.84%"
+    },
+    "tweet4": {
+      "content": "【面包财报】COMPANY_X：2020年前三季度归母净利润26.59亿元，同比下降15.84% 盈利能力下降"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "薯片含致癌物？别再让“智商税”为食品安全背锅"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "“牵手”COMPANY_X 成都先导首次转让自主新药管线项目"
+    },
+    "tweet2": {
+      "content": "成都先导与白云山签署转让协议 实现首例自主新药管线项目转让"
+    },
+    "tweet3": {
+      "content": "广东上市药企前三季度近九成实现盈利 业绩分化下医疗器械板块独领风骚"
+    },
+    "tweet4": {
+      "content": "成都先导：首次实现自主研发新药项目转让"
+    },
+    "tweet5": {
+      "content": "板蓝根生意经：广告宣传开道 临床证据缺乏"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "首次实现自主研发新药项目转让 成都先导与白云山签署《合作开发合同书》"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "【成都先导|事件点评】实现首例自主新药管线项目转让，进一步丰富业务模式【安信医药马帅团队】"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "上市公司也炒股：门派众多，风格各异"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "净利走低毛利率缩水！一夜蹿红的板蓝根能否带动白云山业绩提升？ 盈利能力下降"
+    },
+    "tweet2": {
+      "content": "20个中成药厉害了！9个独家中成药亮眼 60亿大品种领跑"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "广州白云山医药集团股份有限公司关于监事辞职的公告 董监高成员变化"
+    },
+    "tweet2": {
+      "content": "晚间重要公告2020年11月24日星期二"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(600332.SH)拟使用募集资金约4.89亿元增资化学制药(珠海)公司以建设项目"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(00874.HK)拟向化学制药(珠海)增资4.89亿元"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：拟向全资孙公司化学制药公司增资4.89亿元 用于其项目建设"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：4.89亿元增资孙公司"
+    },
+    "tweet7": {
+      "content": "COMPANY_X：4.89亿元增资孙公司"
+    },
+    "tweet8": {
+      "content": "COMPANY_X(00874.HK)：高燕珠辞去股东代表监事职务 董监高成员变化"
+    },
+    "tweet9": {
+      "content": "COMPANY_X(600332.SH)拟以募集资金通过全资子公司向全资孙公司增资"
+    },
+    "tweet10": {
+      "content": "COMPANY_X：监事因达到法定退休年龄辞职 董监高成员变化"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "COMPANY_X：股东代表监事高燕珠辞职 董监高成员变化"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "医药股走势分化，白云山涨逾3%"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "COMPANY_X(600332.SH)：分公司头孢氨苄胶囊通过仿制药一致性评价"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "COMPANY_X：头孢氨苄胶囊已通过仿制药质量和疗效一致性评价"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "白云山投资成立股权投资企业，持股39.6%"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "COMPANY_X(00874)：30亿元中期票据获准注册"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "COMPANY_X(00874)：广州医药股份增资扩股完成工商变更登记"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(00874.HK)控股子公司增资扩股完成工商变更登记 关联方问题"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(600332.SH)：医药公司增资扩股完成工商变更登记"
+    }
+  }
+}

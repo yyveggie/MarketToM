@@ -1,0 +1,358 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "下滑！COMPANY_X：2020年半年度净利润约1.45亿元，同比下降30.22% 盈利能力下降"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(600763.SH)：上半年净利降30.22%至1.45亿元 盈利能力下降"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：上半年净利润同比减少30.22% 盈利能力下降"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "【天风医药】COMPANY_X：新冠疫情影响消减，二季度业务恢复良好"
+    },
+    "tweet2": {
+      "content": "拆财报丨口腔龙头的突破之道：通策医疗二季度强势回归，精准深耕儿童牙科"
+    },
+    "tweet3": {
+      "content": "通策医疗上半年净利润降三成 业绩大降股价为何反而创新高 盈利能力下降"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(600763)：二季度业绩恢复情况良好 下半年有望再加速"
+    },
+    "tweet5": {
+      "content": "医药生物行业报告：疫情后周期拥抱医药新基建和大消费 重点关注疫苗赛道"
+    },
+    "tweet6": {
+      "content": "COMPANY_X(600763)：Q2快速恢复 维持全年30%增长预期不变"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "身处优质赛道，口腔医疗服务龙头通策医疗上半年净利1.45亿，第二季度省内省外花开正盛丨领航100"
+    },
+    "tweet2": {
+      "content": "【面包财报】COMPANY_X：2020年上半年归母净利润1.45亿元，同比下降30.22% 盈利能力下降"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：2020年上半年归母净利润1.45亿元，同比下降30.22% 盈利能力下降"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(600763)：公司二季度单季业绩恢复增长 全年增长可期"
+    },
+    "tweet5": {
+      "content": "兴证医药2020年8月投资月报：再论大创新时代的创新疫苗"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "COMPANY_X(600763)2020年中报点评：疫情影响上半年业绩有所拖累 Q2全面恢复业务增长有加快趋势"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(600763)2020年中报点评：二季度业绩复旧如新 儿科业务增速亮眼"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "对话基金经理系列 | 前海联合林材：优选景气行业，精选具备核心竞争力的优质股"
+    },
+    "tweet2": {
+      "content": "大数据揭秘：中美十倍股拥有四大共性"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "通策医疗现1笔大宗交易 共成交1,968.60万元"
+    },
+    "tweet2": {
+      "content": "通策医疗今日大宗交易成交10.20万股，成交价193.0元溢价0.0%"
+    },
+    "tweet3": {
+      "content": "机构重仓股跟踪周报"
+    },
+    "tweet4": {
+      "content": "医药生物行业周报：中报窗口期继续看好业绩高增长板块 持续推荐有实力能兑现的疫苗公司"
+    },
+    "tweet5": {
+      "content": "医药行业周报：建议关注药店 关注业绩高增长、政策变化和估值性价比"
+    },
+    "tweet6": {
+      "content": "76股获券商买入评级，奇安信-U目标涨幅达62.55%"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "再冲港交所 中国口腔医疗求解业绩乏力"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "新股前瞻|前面被通策医疗压制，后面却业绩放缓 中国口腔医疗能否镶好“扩张之牙”？"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "COMPANY_X(600763.SH)：控股股东质押350万股及解除质押670万股"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：控股股东宝群实业解除质押约670万股"
+    },
+    "tweet3": {
+      "content": "2020上半年全球牙科财报：疫情下的挣扎与创新"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "医疗服务资本热度逆势回暖，龙头医院加速乘风破浪"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "二季度高毅资产成持有市值最高的阳光私募，但斌领衔的东方港湾“边喝酒边拿药”"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "医药行业周报：如何看待近期医药的回调？"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "晨会聚焦：见微知著 从行业龙头看医疗服务的致胜之道"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "医药生物行业周报：全国集采拟中选结果公布 产业结构持续优化升级"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "“核心+卫星”策略，对基金配置有什么意义？"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "“核心+卫星”策略 对基金配置有什么意义？"
+    },
+    "tweet2": {
+      "content": "明星基金经理“隐形”重仓股全曝光"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "58只股股价创历史新高"
+    },
+    "tweet2": {
+      "content": "绩优基金何以表现亮眼，聪明钱与好公司互相成就"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "政策不断放开 民营资本参与医疗服务有了更多可能"
+    },
+    "tweet2": {
+      "content": "辅助生殖的繁荣与隐忧：民资加速进场 核心问题难解"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "【浙商医药|中报】器械与服务：关注效率及渗透率提升加速"
+    },
+    "tweet2": {
+      "content": "医药行业2020年9月投资月报：建议关注IVD化学发光赛道 业绩高增长可期"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "数据透视9月以来抱团股瓦解轮动行为"
+    },
+    "tweet2": {
+      "content": "胡润发布10强口腔产业企业榜单：北京占十强口腔企业3席"
+    },
+    "tweet3": {
+      "content": "27股获融资净买入额超5000万元 通策医疗居首"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "通策医疗现1笔大宗交易 共成交476.70万元"
+    },
+    "tweet2": {
+      "content": "通策医疗今日大宗交易成交2.50万股，成交价190.68元溢价0.0%"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "通策医疗拟溢价收购实控人旗下资产 并入三叶儿童口腔品牌"
+    },
+    "tweet2": {
+      "content": "晚间重要公告2020年9月11日星期五"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：拟1.5亿元收购海骏科技公司持有的10家长期股权投资"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：拟1.5亿元收购海骏科技公司持有的10家长期股权投资"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(600763.SH)：拟收购海骏科技运营的三叶儿童口腔业务"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "通策医疗收问询函：要求对收购海骏科技持有的10家诊所部分股权的合理性 问询"
+    },
+    "tweet2": {
+      "content": "2020半年报总结：行业分化加剧 龙头集中度提升"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(600763)：收购三叶系优质标的 持续加码儿科赛道"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "三问通策医疗收购“三叶系”儿童口腔资产"
+    },
+    "tweet2": {
+      "content": "生物医药行业周报：流感疫苗批签发加速 全年增长可期"
+    },
+    "tweet3": {
+      "content": "拟购儿童口腔业务资产 通策医疗收问询函 问询"
+    },
+    "tweet4": {
+      "content": "通策医疗收购实控人资产引质疑：10家标的公司6家亏损，2家未来经营存较大不确定性，溢价522.97%合理性在哪？ 投资失误"
+    },
+    "tweet5": {
+      "content": "通策医疗1.5亿关联收购遭问询上交所:增值523%合理? 问询"
+    },
+    "tweet6": {
+      "content": "33股获券商买入评级，常宝股份目标涨幅达61.74%"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "非公立连锁口腔机构的生长与绽放"
+    },
+    "tweet2": {
+      "content": "茅台放量下跌抱团瓦解？消费医药龙头跌势不止"
+    },
+    "tweet3": {
+      "content": "医药行业周报：医药品种“调结构” 关注 “快速复苏板块”+“医保降价免疫”"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "COMPANY_X(600763.SH)拟1.5亿元收购杭州海骏科技有限公司运营的三叶儿童口腔业务"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(600763.SH)：鲍正梁完成捐赠961.92万股"
+    },
+    "tweet3": {
+      "content": "通策医疗回复问询函 问询"
+    },
+    "tweet4": {
+      "content": "又是他！这只基金多次提前买入周期龙头！来看它的最新持仓"
+    },
+    "tweet5": {
+      "content": "【中航证券医药】深度报告 | 口中有真“利”，发展迎新机 ——口腔医疗行业报告"
+    },
+    "tweet6": {
+      "content": "医药生物-口腔医疗行业报告：口中有真“利” 发展迎新机"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "经济修复纵深推进，复苏动能如何切换 | 国君周知"
+    },
+    "tweet2": {
+      "content": "医药生物行业周报：CSCO、ESMO大会召开 关注创新药产业链"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "通策医疗今日大宗交易成交3万股，成交价198.75元溢价0.0%"
+    },
+    "tweet2": {
+      "content": "通策医疗现1笔大宗交易 共成交596.25万元"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "COMPANY_X(600763.SH)控股股东解押667万股及质押1000万股"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "标的资产质量不佳 通策医疗迂回收购10家关联口腔医院"
+    }
+  }
+}

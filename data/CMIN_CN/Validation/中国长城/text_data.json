@@ -1,0 +1,397 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "COMPANY_X(000066.SZ)：4.37亿股限售股将于8月7日解禁 解禁"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：占总股本14.93%限售股将于8月7日上市流通 解禁"
+    },
+    "tweet3": {
+      "content": "互联网顶级峰会即将开幕：万亿板块起飞 北上资金潜伏名单出炉"
+    },
+    "tweet4": {
+      "content": "游资情报 | 章盟主风格有变还是极度看好这股？大趋势转为“T+0”，还携手赵老哥、两机构狂撸这股"
+    },
+    "tweet5": {
+      "content": "中国长城等33股获特大单资金净流入超2亿元"
+    },
+    "tweet6": {
+      "content": "龙虎榜：三大游资+机构集中买入一股赵老哥孙哥再出分歧"
+    },
+    "tweet7": {
+      "content": "龙虎榜揭秘：3股获机构亿元净买入"
+    },
+    "tweet8": {
+      "content": "涨停板解密：市场火爆，多板块个股掀涨停潮！（8月3日）"
+    },
+    "tweet9": {
+      "content": "中国长城放量涨停，机构、游资齐加仓"
+    },
+    "tweet10": {
+      "content": "中国长城龙虎榜数据（8月3日）"
+    },
+    "tweet11": {
+      "content": "A股收盘综述：上证指数涨1.75%，科创50大涨7.26%"
+    },
+    "tweet12": {
+      "content": "8月3日午盘主力巨资抢筹四大板块(附股)"
+    },
+    "tweet13": {
+      "content": "解盘：资金持续流入，芯片、卫星互联网、航母主题领涨"
+    },
+    "tweet14": {
+      "content": "快讯：中国长城涨停 报于20.13元"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "服务器行业专题报告：服务器行业之2020投资策略"
+    },
+    "tweet2": {
+      "content": "计算机行业研究：国产CPU全对比 飞腾有望异军突起"
+    },
+    "tweet3": {
+      "content": "盛视早参：行情或再度开启 随风起舞！"
+    },
+    "tweet4": {
+      "content": "第八届互联网安全大会即将开幕 万亿板块起飞 |行业风口"
+    },
+    "tweet5": {
+      "content": "机构抢筹深圳机场 游资抱团封板中国长城｜龙虎榜"
+    },
+    "tweet6": {
+      "content": "融资客连续10周加仓股仅8只，冷门股被罕见加仓30周！苹果概念龙头业绩猛增超10倍"
+    },
+    "tweet7": {
+      "content": "44股获融资净买入额超亿元 中国长城居首"
+    },
+    "tweet8": {
+      "content": "北向资金：抢回卖错的军工，已偏向周期"
+    },
+    "tweet9": {
+      "content": "A股融资融券日报：两融余额增加245.57亿元（8月3日）"
+    },
+    "tweet10": {
+      "content": "A股早报2020年8月4日星期二"
+    },
+    "tweet11": {
+      "content": "8月3日融资余额13941.13亿元，44只个股净买入额超亿元，COMPANY_X、复星医药、紫光国微排名前三"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "8张深度数据图，透视市场规模破千亿的云计算行业"
+    },
+    "tweet2": {
+      "content": "计算机行业研究：新型举国体制推进 软件发展进入黄金时代"
+    },
+    "tweet3": {
+      "content": "主力凶猛扫货芯片股，9股上亿资金杀入！"
+    },
+    "tweet4": {
+      "content": "A股融资融券日报：两融余额增加42.15亿元（8月4日）"
+    },
+    "tweet5": {
+      "content": "两融余额创5年来新高74股连续6周获资金加仓"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "自主可控概念尾盘爆发，紫光国微再度涨停"
+    },
+    "tweet2": {
+      "content": "【行情】国产操作系统板块异动，中国软件大涨7%，诚迈科技涨4%，同有科技、中国长城跟涨"
+    },
+    "tweet3": {
+      "content": "国产软件板块快速走强，浪潮软件冲击涨停"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "关键指标异常，多只高位股下跌，37只热门股回调超20%"
+    },
+    "tweet2": {
+      "content": "计算机周报：从ERP到BIP 看好用友中台战略下数智化转型"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "科技行业日报：国产操作系统走强 微软“断供中国”系谣言"
+    },
+    "tweet2": {
+      "content": "融资客青睐7股，仁东控股买入占比高达38.22%"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "四大AMC利润急剧下滑，华融同比降90%-95% 盈利能力下降"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "“慢车道”上的四大AMC：中国华融上半年净利润同比下滑90% 盈利能力下降"
+    },
+    "tweet2": {
+      "content": "业绩大幅下滑下半年如何应对 四大AMC：不良资产高调“买买买” 盈利能力下降"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "计算机行业2020年8月投资策略：信创产业蓄势待发 信息安全新赛道增长点十足"
+    },
+    "tweet2": {
+      "content": "国产操作系统重磅产品发布，这些上市公司有望受益丨牛熊眼"
+    },
+    "tweet3": {
+      "content": "突破！国产操作系统重磅产品发布，概念股名单出炉"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "最高预计下降95% 四大AMC上半年净利润下滑 盈利能力下降"
+    },
+    "tweet2": {
+      "content": "四大AMC上半年净利润下滑，最高预计下降95%"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "中国长城公布半年报 上半年净利减少259.89% 盈利能力下降"
+    },
+    "tweet2": {
+      "content": "晚间重要公告2020年8月28日星期五"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：上半年净亏损3亿元，由盈转亏 亏损"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(000066.SZ)：上半年业绩盈转亏至3亿元 亏损"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "COMPANY_X(000066)2020年中报点评：Q2业绩明显好转 天津飞腾表现亮眼"
+    },
+    "tweet2": {
+      "content": "东吴计算机点评【COMPANY_X：Q2全面确立经营拐点，飞腾芯片快速增长】"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "389股获券商买入评级，中兴通讯目标涨幅达84.62%"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "科创板晚报|康希诺建新设施以保证明年生产上亿剂疫苗中芯国际股东卖出1.65亿股"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000066.SZ)：与紫晶存储签订战略合作协议涉及信息化基地投资建设、大数据"
+    },
+    "tweet3": {
+      "content": "紫晶存储：与中国长城签署战略合作协议共同推动国产化数据中心项目建设"
+    },
+    "tweet4": {
+      "content": "紫晶存储(688086.SH)与中国长城签署《战略合作协议》拟全面建设信息化、大数据等项目"
+    },
+    "tweet5": {
+      "content": "紫晶存储：与中国长城科技集团股份有限公司签署《战略合作协议》"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "紫晶存储“牵手”COMPANY_X，共同推动信息化基地投资建设"
+    },
+    "tweet2": {
+      "content": "紫晶存储与中国长城签署战略合作协议 多股有望上涨"
+    },
+    "tweet3": {
+      "content": "A股早报2020年9月4日星期五"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "2020年计算机行业中报总结：业绩情绪阶段性底部 Q2恢复明显前景可期"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "云计算行业引全球资本关注，数据持续回暖助力板块"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "A股共发生86宗大宗交易成交18.11亿元（9月11日）"
+    },
+    "tweet2": {
+      "content": "中国长城现1笔大宗交易 共成交353.32万元"
+    },
+    "tweet3": {
+      "content": "中国长城今日大宗交易成交22万股，成交价16.06元溢价0.0%"
+    },
+    "tweet4": {
+      "content": "首台半导体激光隐形晶圆切割机面世"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "晚间重要公告2020年9月14日星期一"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：出资1017万元与中国软件共同受让中电有限所持有的中电创新院27%股权"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：出资1017万元与中国软件共同受让中电有限所持有的中电创新院27%股权"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(000066.SZ)：拟与中国软件共同受让中电创新院27%股权公司拟出资1017万元受让9%股权"
+    },
+    "tweet5": {
+      "content": "行业周报：重视龙头与低估值改善标的"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "COMPANY_X：与紫晶存储设合资公司，加速推进信息化业务"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：与紫晶存储设合资公司 加速推进信息化业务"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(000066.SZ)拟与紫晶存储共设长城紫晶推动信息化产业基地、国产化数据中心项目建设"
+    },
+    "tweet4": {
+      "content": "紫晶存储(688086.SH)出资4000万与中国长城(000066.SZ)成立合资子公司"
+    },
+    "tweet5": {
+      "content": "紫晶存储：拟与中国长城设立自主安全绿色数据中心项目公司"
+    },
+    "tweet6": {
+      "content": "紫晶存储(688086.SH)：拟与中国长城设合资公司 推动信息化产业基地、自主安全绿色数据中心项目建设"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "紫晶存储：拟与中国长城设立合资公司 开拓地方信息化市场"
+    },
+    "tweet2": {
+      "content": "紫晶存储出资4000万元与中国长城设立合资公司"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "COMPANY_X(000066.SZ)：下属公司计划申请银行授信额度10.3亿元"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "计算机行业周报：二季度云市场延续强劲增长 看好重点细分领域"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "COMPANY_X：参股公司“天津飞腾”和ARM是合作关系"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：“天津飞腾”芯片并非只供应给公司"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "COMPANY_X：放弃参股公司优先认缴出资权"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000066.SZ)：天津飞腾拟引入战投公司放弃优先认缴出资权"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

@@ -1,0 +1,502 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "晚间重要公告2020年8月5日星期三"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(00390)近期中标若干重大工程 中标价合计307亿元"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(601390.SH)：中标27项重大工程 中标价合计约306.999亿元"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：合计中标307亿元项目"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：近期中标307亿元重大工程项目"
+    },
+    "tweet6": {
+      "content": "高位震荡如何抉择？机构流量成股价催化剂"
+    },
+    "tweet7": {
+      "content": "中铁信托：把品牌文化软实力转化为推进高质量发展的硬支撑"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "A股早报2020年8月6日星期四"
+    },
+    "tweet2": {
+      "content": "七大建筑央企上班经营业绩大PK！"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "建筑央企上半年签单破5万亿 交通新基建下半年再迎高潮"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "建筑周报：公募REITS 指引发布 有望推动试点项目尽快平稳落地"
+    },
+    "tweet2": {
+      "content": "建筑行业周观点：继续关注减隔震、装配式投资机会"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "建筑：交通强国铁路先行 龙头有望强者恒强"
+    },
+    "tweet2": {
+      "content": "启动班组长责任制！滇中引水工程楚红指挥部牢牢紧抓项目质量安全关"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(00390.HK)拟发行不超35亿元可续期公司债"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(00390)拟发行不超过35亿元公司债券"
+    },
+    "tweet5": {
+      "content": "老树开花又一春，海外发展推“双优”"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "COMPANY_X(00390.HK)：2020年可续期公司债券(第五期)按品种一利率3.95%发行"
+    },
+    "tweet2": {
+      "content": "建筑周报：社融信贷低于预期 企业中长期融资继续优化"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：拟发行35亿元可续期公司债券 用于偿还有息负债、补充流动资金"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "恒通科技：变更财务顾问主办人"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(00390.HK)8月28日举行董事会会议以批准中期业绩"
+    },
+    "tweet3": {
+      "content": "中国中铁35亿元公司债券票面利率确定为3.05%"
+    },
+    "tweet4": {
+      "content": "央地合作迎新进展，中国中铁华东总部基地在沪开建"
+    },
+    "tweet5": {
+      "content": "中国铁建董事长突然逝世 公告未披露死因及原因 董监高成员异常事件"
+    },
+    "tweet6": {
+      "content": "上海闵行首家央企区域总部：中国中铁华东总部基地开工奠基"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "8月20日晚间上市公司十大重磅公告"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(00390)中标合计481.48亿元工程项目"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(00390.HK)近期中标约481.5亿元重大工程"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(601390.SH)近期中标481.48亿元重大工程"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：35亿元可续期公司债券发行完成 利率3.95%"
+    },
+    "tweet6": {
+      "content": "中国中铁拟发行30亿元中期票据 用于偿还有息负债"
+    },
+    "tweet7": {
+      "content": "COMPANY_X(00390)完成发行35亿元2020年可续期公司债券(第五期)"
+    },
+    "tweet8": {
+      "content": "中国中铁攻坚克难 贵阳机场新建跑道试飞成功"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "建龙集团西部项目推介会胜利召开"
+    },
+    "tweet2": {
+      "content": "2020年度ENR“全球最大250家国际承包商”榜单发布"
+    },
+    "tweet3": {
+      "content": "中国中铁签署刚果金矿业项目"
+    },
+    "tweet4": {
+      "content": "中国中铁捐建会泽县3所易地扶贫搬迁安置点幼儿园圆满交付"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "建筑与工程Ⅲ行业研究：继续关注减隔震、装配式投资机会"
+    },
+    "tweet2": {
+      "content": "国资委启动国有重点企业对标世界一流管理提升行动"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "COMPANY_X(00390.HK)：因年龄原因，马宗林辞任非执行董事 董监高成员变化"
+    },
+    "tweet2": {
+      "content": "中国短期融资券及中期票据信用分析周报"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：非执行董事辞职 董监高成员变化"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(00390.HK)遭UBSGroupAG减持579.1万股 减持股份"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "重庆市长唐良智会见中国中铁总裁陈云一行"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "中国中铁逆势上扬 上半年海外合同新签增长23%"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(00390)中期股东应占利润116.97亿元 同比增长11.3%"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(601390.SH)：上半年归母净利升11.26至116.97亿元"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：上半年净利同比增长11.26%"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：上半年净利润116.97亿元，同比增长11.26%"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：上半年归属股东净利润116.97亿元同比增长11.26%"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "COMPANY_X(601390)：二季度施工生产加快恢复 业绩超预期"
+    },
+    "tweet2": {
+      "content": "【财报智读】COMPANY_X：第二季度归母净利润81.12亿元，同比增长21.62%"
+    },
+    "tweet3": {
+      "content": "【面包财报】COMPANY_X：第二季度归母净利润81.12亿元，同比增长21.62%"
+    },
+    "tweet4": {
+      "content": "中国中铁大涨5.24%，成交3636.32万港元"
+    },
+    "tweet5": {
+      "content": "【华创建筑建材】中国中铁2020年中报点评：基建订单稳定增长，控股中铁装配拓展装配式业务"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "建筑行业1H20业绩总结：Q2稳步修复 子板块继续分化 积极布局装配式"
+    },
+    "tweet2": {
+      "content": "【权益变动】COMPANY_X(00390-HK)被社保基金减持579.1万股 减持股份"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(00390.HK)遭全国社会保障基金理事会减持579.1万股 减持股份"
+    },
+    "tweet4": {
+      "content": "布局成都，又一建筑央企成立轨道交通公司"
+    },
+    "tweet5": {
+      "content": "建筑行业周报：2Q20建筑企业收入利润增速明显回升 积极布局装配式建筑"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：业绩再创新高，低估值龙头蓄势待发"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "中国中铁现1笔大宗交易 共成交510.00万元"
+    },
+    "tweet2": {
+      "content": "标普：中国中铁扩张意愿或将压缩财务缓冲空间"
+    },
+    "tweet3": {
+      "content": "资色·评级 | 标普：中国中铁扩张意愿或将压缩财务缓冲空间"
+    },
+    "tweet4": {
+      "content": "2.24万亿：八大建筑央企上半年战绩排行榜！"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "建筑行业2020年中报回顾总结：二季度收入利润快速恢复 钢结构景气度较高 基建龙头集中加速"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "COMPANY_X(00390)近期中标多项重大工程 中标价合计约370.95亿元"
+    },
+    "tweet2": {
+      "content": "晚间重要公告2020年9月4日星期五"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：近期中标约371亿元重大工程"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(601390.SH)：近期中标约370.95亿元重大工程"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：合计中标370.95亿元项目"
+    },
+    "tweet6": {
+      "content": "COMPANY_X(00390.HK)遭全国社会保障基金理事会减持680万股 减持股份"
+    },
+    "tweet7": {
+      "content": "A股中报季900只超预期个股名单"
+    },
+    "tweet8": {
+      "content": "上半年797家公司，研发投入与净利双增长"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "周观点：减隔震行业是内循环的绝佳赛道"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "【权益变动】COMPANY_X(00390-HK)被瑞银减持1976.1万股 减持股份"
+    },
+    "tweet2": {
+      "content": "瑞银减持中国中铁(00390)1976.1万股，每股作价约4.11港元 减持股份"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "【权益变动】COMPANY_X(00390-HK)被社保基金减持680万股 减持股份"
+    },
+    "tweet2": {
+      "content": "港股盘前必读：隔夜美股重挫，纳指跌超4%"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(00390.HK)遭UBS Group AG减持1976.1万股 减持股份"
+    },
+    "tweet4": {
+      "content": "疫情期间大企业优势凸显，上半年订单、收入稳步增长——建筑央企2020年半年报汇总分析【天风建筑唐笑团队】"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "广大铁路首座通信铁塔成功组立"
+    },
+    "tweet2": {
+      "content": "建筑每周观点：REITS试点落地渐近 装配式政策利好持续"
+    },
+    "tweet3": {
+      "content": "中铁装配(300374)公司动态点评：与中铁财务公司签署金融服务框架协议 有望强化公司融资能力"
+    },
+    "tweet4": {
+      "content": "建筑周报：政府债券集中发行推动社融再超预期 信贷结构继续优化"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：拟发行30亿元中期票据 用于偿还有息负债"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：重塑五大体系 助力上半年企业营业收入、净利润等创历史同期最好水平"
+    },
+    "tweet7": {
+      "content": "建筑与工程行业周报：继续看好装配式龙头企业"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "COMPANY_X(00390.HK)：约17.27亿股限售股9月21日解禁 解禁"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(601390.SH)：约17.27亿股限售股9月21日解禁 解禁"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：占总股本7.03%限售股将于9月21日上市流通 解禁"
+    },
+    "tweet4": {
+      "content": "交建转债投资价值分析：区域路桥领军企业 建议积极申购"
+    },
+    "tweet5": {
+      "content": "国资委全面部署 开展对标世界一流管理提升行动"
+    },
+    "tweet6": {
+      "content": "央企订单快速增长，基建行业集中度提升"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "中国短期融资券及中期票据信用分析周报"
+    },
+    "tweet2": {
+      "content": "2020年中国建筑行业市场现状及发展前景分析 新基建投资将成为行业发展新增长点"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(00390-HK)17.26亿限售A股下周一上市流通"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "重庆交通设计院增资扩股 中国中铁成最大股东 控制人变化"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：暂未发现“遂宁瑞置”广告虚假宣传行为"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：目前公司暂无增持或回购计划"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：调整“20中铁股MTN005”发行金额为15亿元"
+    },
+    "tweet5": {
+      "content": "北向资金动向盘点：突然集中加仓“泛金融”"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "COMPANY_X：签署重庆市交通规划勘察设计院增资扩股协议"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：签署重庆市交通规划勘察设计院增资扩股协议"
+    },
+    "tweet3": {
+      "content": "富时罗素指数调整今生效，北上资金买买买，这些股票尾盘异动"
+    },
+    "tweet4": {
+      "content": "大基建央企板块拉升，中国建筑、中铁、交建、中冶等普涨"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "【太平洋建筑】重视减隔震投资绝佳赛道 ——周观点0920"
+    },
+    "tweet2": {
+      "content": "【华创建筑建材】建筑行业周观点：8月投资数据跟踪：电热气水支撑基建稳健增长，地产销售与开竣工表现分化"
+    },
+    "tweet3": {
+      "content": "基建行业周观点：重视减隔震投资绝佳赛道"
+    },
+    "tweet4": {
+      "content": "万亿巨头火速过会将登陆科创板 外资抢筹净买入近百亿"
+    },
+    "tweet5": {
+      "content": "北向资金动向盘点：百亿增仓，锁定“大金融+大地产”"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "中国中铁现1笔大宗交易 共成交1,020.00万元"
+    },
+    "tweet2": {
+      "content": "中国中铁承建的中老铁路磨万段最后一座隧道贯通－国务院国有资产监督管理委员会"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "【权益变动】COMPANY_X(00390-HK)被贝莱德减持311.6万股 减持股份"
+    },
+    "tweet2": {
+      "content": "建筑行业研究：基建回升景气高 装配建筑潜力大"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "【华创建筑建材】建筑行业周观点：市场震荡，高估值个股回调，推荐中国建筑"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "中国中铁发布关于分拆子公司中铁高铁电气装备至科创板上市的预案"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(00390)拟分拆高铁电气至上交所科创板上市"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(00390)委任郑清智为薪酬与考核委员会委员"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(00390.HK)：拟修订公司章程"
+    },
+    "tweet5": {
+      "content": "国产“钢铁穿山甲”成长记：从跟跑到并跑，中国装备走向世界"
+    },
+    "tweet6": {
+      "content": "中关村：中实上庄对中国中铁、中铁北京工程局提起诉讼 诉讼纠纷"
+    },
+    "tweet7": {
+      "content": "海外信用评级汇总2020年9月29日星期二"
+    },
+    "tweet8": {
+      "content": "穆迪：确认中国中铁的“A3”评级，展望稳定"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "港股盘前公告精选：平安好医生拟配售8000万股，净筹78.24亿港元"
+    },
+    "tweet2": {
+      "content": "“三道红线”高悬，“踩线”房企出售资产忙“瘦身”"
+    }
+  }
+}

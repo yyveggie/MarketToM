@@ -1,0 +1,444 @@
+{
+  "labels": [
+    {
+      "day": "day1",
+      "label": 0
+    },
+    {
+      "day": "day2",
+      "label": 1
+    },
+    {
+      "day": "day3",
+      "label": 0
+    },
+    {
+      "day": "day4",
+      "label": 0
+    },
+    {
+      "day": "day5",
+      "label": 1
+    },
+    {
+      "day": "day6",
+      "label": 1
+    },
+    {
+      "day": "day7",
+      "label": 0
+    },
+    {
+      "day": "day8",
+      "label": 0
+    },
+    {
+      "day": "day9",
+      "label": 1
+    },
+    {
+      "day": "day10",
+      "label": 1
+    },
+    {
+      "day": "day11",
+      "label": 0
+    },
+    {
+      "day": "day12",
+      "label": 1
+    },
+    {
+      "day": "day13",
+      "label": 0
+    },
+    {
+      "day": "day14",
+      "label": 0
+    },
+    {
+      "day": "day15",
+      "label": 0
+    },
+    {
+      "day": "day16",
+      "label": 0
+    },
+    {
+      "day": "day17",
+      "label": 0
+    },
+    {
+      "day": "day18",
+      "label": 0
+    },
+    {
+      "day": "day19",
+      "label": 0
+    },
+    {
+      "day": "day20",
+      "label": 1
+    },
+    {
+      "day": "day21",
+      "label": 0
+    },
+    {
+      "day": "day22",
+      "label": 1
+    },
+    {
+      "day": "day23",
+      "label": 1
+    },
+    {
+      "day": "day24",
+      "label": 0
+    },
+    {
+      "day": "day25",
+      "label": 0
+    },
+    {
+      "day": "day26",
+      "label": 1
+    },
+    {
+      "day": "day27",
+      "label": 1
+    },
+    {
+      "day": "day28",
+      "label": 0
+    },
+    {
+      "day": "day29",
+      "label": 1
+    },
+    {
+      "day": "day30",
+      "label": 0
+    },
+    {
+      "day": "day31",
+      "label": 1
+    },
+    {
+      "day": "day32",
+      "label": 0
+    },
+    {
+      "day": "day33",
+      "label": 1
+    },
+    {
+      "day": "day34",
+      "label": 0
+    },
+    {
+      "day": "day35",
+      "label": 0
+    },
+    {
+      "day": "day36",
+      "label": 1
+    },
+    {
+      "day": "day37",
+      "label": 1
+    },
+    {
+      "day": "day38",
+      "label": 0
+    },
+    {
+      "day": "day39",
+      "label": 1
+    },
+    {
+      "day": "day40",
+      "label": 0
+    },
+    {
+      "day": "day41",
+      "label": 0
+    },
+    {
+      "day": "day42",
+      "label": 1
+    },
+    {
+      "day": "day43",
+      "label": 1
+    },
+    {
+      "day": "day44",
+      "label": 1
+    },
+    {
+      "day": "day45",
+      "label": 0
+    },
+    {
+      "day": "day46",
+      "label": 0
+    },
+    {
+      "day": "day47",
+      "label": 1
+    },
+    {
+      "day": "day48",
+      "label": 1
+    },
+    {
+      "day": "day49",
+      "label": 1
+    },
+    {
+      "day": "day50",
+      "label": 0
+    },
+    {
+      "day": "day51",
+      "label": 1
+    },
+    {
+      "day": "day52",
+      "label": 0
+    },
+    {
+      "day": "day53",
+      "label": 0
+    },
+    {
+      "day": "day54",
+      "label": 1
+    },
+    {
+      "day": "day55",
+      "label": 1
+    },
+    {
+      "day": "day56",
+      "label": 1
+    },
+    {
+      "day": "day57",
+      "label": 0
+    },
+    {
+      "day": "day58",
+      "label": 1
+    },
+    {
+      "day": "day59",
+      "label": 1
+    },
+    {
+      "day": "day60",
+      "label": 0
+    },
+    {
+      "day": "day61",
+      "label": 0
+    },
+    {
+      "day": "day62",
+      "label": 0
+    },
+    {
+      "day": "day63",
+      "label": 1
+    },
+    {
+      "day": "day64",
+      "label": 0
+    },
+    {
+      "day": "day65",
+      "label": 0
+    },
+    {
+      "day": "day66",
+      "label": 1
+    },
+    {
+      "day": "day67",
+      "label": 1
+    },
+    {
+      "day": "day68",
+      "label": 0
+    },
+    {
+      "day": "day69",
+      "label": 0
+    },
+    {
+      "day": "day70",
+      "label": 1
+    },
+    {
+      "day": "day71",
+      "label": 0
+    },
+    {
+      "day": "day72",
+      "label": 0
+    },
+    {
+      "day": "day73",
+      "label": 1
+    },
+    {
+      "day": "day74",
+      "label": 0
+    },
+    {
+      "day": "day75",
+      "label": 0
+    },
+    {
+      "day": "day76",
+      "label": 0
+    },
+    {
+      "day": "day77",
+      "label": 1
+    },
+    {
+      "day": "day78",
+      "label": 1
+    },
+    {
+      "day": "day79",
+      "label": 0
+    },
+    {
+      "day": "day80",
+      "label": 1
+    },
+    {
+      "day": "day81",
+      "label": 1
+    },
+    {
+      "day": "day82",
+      "label": 0
+    },
+    {
+      "day": "day83",
+      "label": 0
+    },
+    {
+      "day": "day84",
+      "label": 1
+    },
+    {
+      "day": "day85",
+      "label": 0
+    },
+    {
+      "day": "day86",
+      "label": 1
+    },
+    {
+      "day": "day87",
+      "label": 1
+    },
+    {
+      "day": "day88",
+      "label": 1
+    },
+    {
+      "day": "day89",
+      "label": 0
+    },
+    {
+      "day": "day90",
+      "label": 1
+    },
+    {
+      "day": "day91",
+      "label": 1
+    },
+    {
+      "day": "day92",
+      "label": 1
+    },
+    {
+      "day": "day93",
+      "label": 1
+    },
+    {
+      "day": "day94",
+      "label": 0
+    },
+    {
+      "day": "day95",
+      "label": 1
+    },
+    {
+      "day": "day96",
+      "label": 0
+    },
+    {
+      "day": "day97",
+      "label": 0
+    },
+    {
+      "day": "day98",
+      "label": 0
+    },
+    {
+      "day": "day99",
+      "label": 0
+    },
+    {
+      "day": "day100",
+      "label": 1
+    },
+    {
+      "day": "day101",
+      "label": 0
+    },
+    {
+      "day": "day102",
+      "label": 0
+    },
+    {
+      "day": "day103",
+      "label": 0
+    },
+    {
+      "day": "day104",
+      "label": 0
+    },
+    {
+      "day": "day105",
+      "label": 1
+    },
+    {
+      "day": "day106",
+      "label": 1
+    },
+    {
+      "day": "day107",
+      "label": 1
+    },
+    {
+      "day": "day108",
+      "label": 0
+    },
+    {
+      "day": "day109",
+      "label": 0
+    },
+    {
+      "day": "day110",
+      "label": 1
+    }
+  ]
+}

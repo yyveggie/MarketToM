@@ -1,0 +1,497 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "交运设备行业高频数据点评：汽车需求与销量全面改善中"
+    },
+    "tweet2": {
+      "content": "重卡销量连续6月暴增6成 仍有百万置换需求待释放"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "晚间重要公告2020年10月12日星期一"
+    },
+    "tweet2": {
+      "content": "汽车行业周报：重卡累计销量已超去年 四季度需求预计不减"
+    },
+    "tweet3": {
+      "content": "天奇股份(002009.SZ)：中标1.5亿元一汽解放“J7智能装配线项目-机械自动化部分(二次)采购”项目"
+    },
+    "tweet4": {
+      "content": "市场要闻 | 汽车板块大涨，销量超预期催化股价三个月翻倍"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "上市公司正负面新闻2020年10月13日星期二"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "1-9月重卡累计销量超去年全年——9月重卡销量数据点评"
+    },
+    "tweet2": {
+      "content": "车市迎来爆发期？上市车企9月销量普涨，带动汽车板块领涨"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：前三季度预计净利润同比增长42.91%~51.37%"
+    },
+    "tweet4": {
+      "content": "晚间重要公告2020年10月14日星期三"
+    },
+    "tweet5": {
+      "content": "预增！一汽解放预计前三季度净利润同比增长43%至51%"
+    },
+    "tweet6": {
+      "content": "COMPANY_X(000800.SZ)前三季度净利润预增42.91%-51.37%(重组后追溯调整数)"
+    },
+    "tweet7": {
+      "content": "COMPANY_X：前三季度净利预增（重组后）42.91%-51.37%"
+    },
+    "tweet8": {
+      "content": "COMPANY_X：预计前三季度净利润为25.5亿-27亿元"
+    },
+    "tweet9": {
+      "content": "9月汽车股众生相：比亚迪们狂欢，智能化零部件正在风口"
+    },
+    "tweet10": {
+      "content": "9月汽车股众生相：“比亚迪们”狂欢，重卡“失意”，智能化零部件正在风口上"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "私募再度迎来火爆发行！大佬已盯上这些板块"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "一汽解放第三季度盈利环比回落 投10亿元进军新能源轻卡市场 盈利能力下降"
+    },
+    "tweet2": {
+      "content": "资管大佬林鹏产品首发创纪录，和谐汇一调研路径曝光"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "总投资额2727.16亿元！佛山举行下半年233个重大项目集中开工投产活动"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "COMPANY_X(000800)：中重型车之王 构建智能物流新大陆"
+    },
+    "tweet2": {
+      "content": "重卡市场喜迎金九，前三季度销量已超去年全年"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "一汽解放50台新能源车型交付中栋新能源"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "国三货车淘汰等政策拉动 重卡企提前完成全年销量目标"
+    },
+    "tweet2": {
+      "content": "选择华为云，一汽解放打造“智慧交通”最优解"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "“真没想到”！这种车火了"
+    },
+    "tweet2": {
+      "content": "盘前有料丨蚂蚁集团今日申购；“十四五”大力推进绿色低碳经济…重要消息还有这些"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "一汽解放公布三季报 前三季净利增加48.56%"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000800.SZ)：前三季度净利升48.56%至26.51亿元"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：前三季度净利润同比增长48.56%"
+    },
+    "tweet4": {
+      "content": "一汽解放荣获中国汽车工业科学技术奖重要奖项"
+    },
+    "tweet5": {
+      "content": "“金九”兑现“银十”可期 汽车板块集体飙涨丨牛熊眼"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "【天风汽车】重卡：10月销量继续保持高增长"
+    },
+    "tweet2": {
+      "content": "20家A股上市车企三季度财报汇总：市场活力恢复 头部企业利润大涨"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "【兴证汽车戴畅团队】重卡10月销量点评：10月销量再创记录，20Q4高景气延续"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "智加助力解放、挚途，业内率先通过量产自动驾驶系统“双预警”国家测试认证"
+    },
+    "tweet2": {
+      "content": "受益重卡行业景气度，龙头地位进一步巩固，一汽解放前三季度净利润增48.56%"
+    },
+    "tweet3": {
+      "content": "北向资金火力全开！芯片、5G、新能源一个都不能少！"
+    },
+    "tweet4": {
+      "content": "汽车股跳水，江铃汽车跌逾5%"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "交车及时服务细致这样的感动服务还有谁"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "新泉股份(603179)：Q3业绩超预期 乘商共增领跑进口替代赛道"
+    },
+    "tweet2": {
+      "content": "拟IPO的致远装备是否与控股股东真正“三独立”？"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "卡车空调费油？CIAAR亮相海尔驻车空调新品：0油耗，还美观"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "一汽解放发布股权激励计划 助力公司战略落地"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000800.SZ)拟推限制性股票激励计划"
+    },
+    "tweet3": {
+      "content": "海尔驻车空调出行生态场景有卧室能做饭"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "大股东包销定增愈演愈烈，千亿“补血”在路上"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "汽车行业周观点报告：长安携手华为、宁德打造高端品牌 自主有望崛起"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "民族品牌指数跌1.58% 一汽解放领涨"
+    },
+    "tweet2": {
+      "content": "一汽解放荣获国家级“绿色工厂”称号"
+    },
+    "tweet3": {
+      "content": "市值月盘点丨10月重卡股市值增长超75亿元 客车股静待拐点"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "新华社民族品牌指数连续八周跑赢上证指数"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "中证指数公司将发布中证高端制造100指数等两只指数"
+    },
+    "tweet2": {
+      "content": "鱼快创领与七牛云合作落地，协同一汽解放用户运营再升级"
+    },
+    "tweet3": {
+      "content": "民族品牌指数涨0.66% 一汽解放领涨"
+    },
+    "tweet4": {
+      "content": "一汽解放获评“2020年度第一重卡品牌”"
+    },
+    "tweet5": {
+      "content": "【行情】汽车整车板块拉升，上汽集团逼近涨停，北汽蓝谷、小康股份涨4%，中通客车、一汽解放等跟涨"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "COMPANY_X：全资子公司通过高新技术企业认定"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000800.SZ)：子公司通过高新技术企业认定"
+    },
+    "tweet3": {
+      "content": "政策支持大力发展新能源汽车业 车企加码布局"
+    },
+    "tweet4": {
+      "content": "新能源汽车处在重要阶段 多种因素驱动名企陆续入局"
+    },
+    "tweet5": {
+      "content": "政策市场齐发力 新能源商用车驶上快车道"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "一汽解放子公司获高新技术企业认定，未来三年享税收优惠政策"
+    },
+    "tweet2": {
+      "content": "2020年中国重卡行业产业链现状及发展趋势分析 自动驾驶重卡将是行业未来发展方向"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "业绩回升！重卡销量八连涨，行业高景气持续"
+    },
+    "tweet2": {
+      "content": "【机会挖掘】11月预计重卡销售同比增长26% 产业链公司望受关注（附股）"
+    },
+    "tweet3": {
+      "content": "重卡市场为何火爆?"
+    },
+    "tweet4": {
+      "content": "汽车行业报告-重卡：11月销量再创历史新高汽车"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "【民生证券研究院】晨会纪要20201203"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "晚间公告｜12月4日这些公告有看头"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000800.SZ)拟将150亿元债务转出至信达保理"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：三家子公司拟将其总金额不超过150亿元的债务转出至信达一汽商业保理有限公司"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：拟将其总金额不超过150亿元的债务转出至信达一汽商业保理有限公司"
+    },
+    "tweet5": {
+      "content": "汽车行业2020年11月重卡销量点评：11月重卡销量同比+26% 累计已超150万辆"
+    },
+    "tweet6": {
+      "content": "【民生证券研究院】晨会纪要20201204"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "相聚“卡友之夜”！与解放一起共启未来"
+    },
+    "tweet2": {
+      "content": "同舟20载 解放动力老友嘉年华上说年华"
+    },
+    "tweet3": {
+      "content": "市值月盘点 | 11月汽车股继续拉升：53家车企业绩飘红，市值增加超7645亿元"
+    },
+    "tweet4": {
+      "content": "重卡11月销量点评：11月再创单月记录 全年160万辆销量可期"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "解放年会：10大场景！59款产品亮相展台"
+    },
+    "tweet2": {
+      "content": "一汽解放2020年发行量、销量再破记录"
+    },
+    "tweet3": {
+      "content": "助力国六 雪佛龙亮相解放卡友嘉年华！"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "11月上市车企大盘点：63只汽车股市值约增7645亿元 53家公司业绩飘红"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "COMPANY_X：信达保理将以支付银行承兑汇票方式偿还对供应商的应付账款"
+    },
+    "tweet2": {
+      "content": "13家整车企业氢电布局“谋略”"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "一汽富维：放弃一汽财务公司股份优先购买权暨关联交易"
+    },
+    "tweet2": {
+      "content": "解放年会：鱼快创领携带满满黑科技亮相"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "用极致细节诠释高端，解放轻卡领途上市"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "一汽解放荣获“第15届人民企业社会责任奖”"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "一汽解放节油赛助力用户实现最大价值"
+    },
+    "tweet2": {
+      "content": "青岛街头最靓的仔来了！142辆解放纯电动公交上线运营"
+    },
+    "tweet3": {
+      "content": "解盘：百亿资金流入，煤炭、锂钴矿、光刻胶、白酒略涨"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "COMPANY_X(000800.SZ)1月至今累计获得政府补助2.5亿元"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：累计收到政府补助2.5亿元"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(000800.SZ)：控股股东拟向一汽奔腾无偿划转公司17.02%股份 减持股份"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(000800.SZ)：年初至今累计获得政府补助2.5亿元"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：控股股东拟将17.02%公司股份划转给一汽奔腾 减持股份"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "延续“金九银十” 11月重卡市场再创新高"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "COMPANY_X：国务院国资委原则同意公司实施限制性股票激励计划"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000800.SZ)：限制性股票激励计划获国务院国资委批复"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "卡门简报 | 特斯拉中国回应“使用不合格零部件装车”；一汽-大众奥迪明年将推33款车；滴滴优步合并案再被举报"
+    },
+    "tweet2": {
+      "content": "一汽股份无偿划转一汽解放17.02%股权 助力一汽奔腾"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "打造民族品牌 与解放动力筑命运共同体"
+    },
+    "tweet2": {
+      "content": "一汽股份拟向一汽奔腾无偿划转股份 一汽集团整体上市路径待揭秘"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "蜕变升级！解放“感动服务”再创先河"
+    },
+    "tweet2": {
+      "content": "再创先河 解放\"感动服务\"将在元旦启动"
+    },
+    "tweet3": {
+      "content": "一汽解放无偿向一汽奔腾划转17.02%股权"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "盘点2020年 骆驼商用车电池成绩单令业界瞩目"
+    }
+  }
+}

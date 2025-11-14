@@ -1,0 +1,413 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "芯片板块高位运行，中芯国际-U、韦尔股份、COMPANY_X、兆易创新、汇顶科技领涨"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "半导体板块发力走高 沪硅产业中芯国际等涨逾10%"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "神州数码(000034)深度报告：鲲鹏生态核心成员 “云+信创”成为公司主要增量"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "COMPANY_X(688008)：五大动力推动 微澜将成波涛"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "科创板周报：科创板三季报业绩预告四成预喜"
+    },
+    "tweet2": {
+      "content": "芯片板块快速下滑，中芯国际-U、韦尔股份、中兴通讯、COMPANY_X、中微公司普跌"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "胡祖六式的利益输送，中融信托也干了？"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "COMPANY_X：前三季度净利润同比增长18.06%"
+    },
+    "tweet2": {
+      "content": "27支芯片股霸榜科创板，谁赚谁亏？"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "【安信电子|季报点评】COMPANY_X：业绩符合预期，静待服务器需求拐点和新品量产上市"
+    },
+    "tweet2": {
+      "content": "【国元电子】COMPANY_X：短期扰动不改长期增势，同心多元全面发展"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "COMPANY_X(688008)：前三季度主业稳健成长 未来高成长动能持续"
+    },
+    "tweet2": {
+      "content": "COMPANY_X（688008）2020年三季报点评：短期库存消化结束，看好云端需求持续"
+    },
+    "tweet3": {
+      "content": "【COMPANY_X|国信电子】财报点评：短期库存消化结束，看好云端需求持续"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "A股大爆发！中金上市次日封住涨停"
+    },
+    "tweet2": {
+      "content": "科创50指数涨超3%，COMPANY_X、中微公司均涨近8%"
+    },
+    "tweet3": {
+      "content": "【中金科技】COMPANY_X（688008.SH）：3Q20业绩不达预期，服务器市场10月企稳"
+    },
+    "tweet4": {
+      "content": "319股获券商买入评级，星期六目标涨幅达58.55%"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "科创板：科创板Q3整体业绩环比反弹明显 蚂蚁网上申购户数创纪录"
+    },
+    "tweet2": {
+      "content": "【公司点评】COMPANY_X：2020Q3短期业绩承压，新产品开启新成长周期"
+    },
+    "tweet3": {
+      "content": "兆易创新(603986)：Q3业绩超预期 行业呈现高景气状态"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "深度*公司*COMPANY_X(688008)：短期业绩承压不改长期趋势 新产品陆续推出 盈利能力下降"
+    },
+    "tweet2": {
+      "content": "科创板：公募基金Q3加持科创板 新一代信息技术领域备受关注"
+    },
+    "tweet3": {
+      "content": "科技-通信设备周报：贸易摩擦情绪压力受美大选影响释放"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "金融街下午茶2020年11月11日星期三"
+    },
+    "tweet2": {
+      "content": "国元早安直通车"
+    },
+    "tweet3": {
+      "content": "MSCI重磅！这些A股公司刚被纳入"
+    },
+    "tweet4": {
+      "content": "数据| “金手铐”频现！科创板52家公司推股权激励 考核条件“大起底”"
+    },
+    "tweet5": {
+      "content": "每日理财观察：证监会全面启动上市公司治理专项行动"
+    },
+    "tweet6": {
+      "content": "外资又有新动作！MSCI公布成分股调整结果！30日收盘后生效"
+    },
+    "tweet7": {
+      "content": "明晟公司（MSCI）：MSCI中国A股在岸指数增加58只成分股，剔除23只"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "策略专题：MSCI中国A股调整报告"
+    },
+    "tweet2": {
+      "content": "每日理财观察：《智能网联汽车技术路线图 2.0》发布"
+    },
+    "tweet3": {
+      "content": "期市投资参考：国药集团疫苗Ⅲ期临床顺利推进，铁矿石连续四连涨"
+    },
+    "tweet4": {
+      "content": "港股盘前必读：港交所第三季度股东应占溢利33.5亿港元同比增52%"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "锦囊｜科创50竞争情报（COMPANY_X、柏楚电子）"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "COMPANY_X(688008.SH)向164名激励对象授予300万股限制性股票"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "国资支持邂逅“半导体”风口，立霸股份业绩未来可期"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "晚间要闻2020年11月27日星期五"
+    },
+    "tweet2": {
+      "content": "上交所及中证指数公司将调整沪深300等指数样本"
+    },
+    "tweet3": {
+      "content": "【国金晨讯】半导体投资展望：关注哪六个趋势？Q3货币政策执行报告：稳健的货币政策灵活适度，逐步回归常态化"
+    },
+    "tweet4": {
+      "content": "中金：沪深港通标的扩容及其影响"
+    },
+    "tweet5": {
+      "content": "陆家嘴财经早餐2020年11月27日星期五"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "金融股突然大跳水，平安茅台工行尾盘被砸，发生了什么？"
+    },
+    "tweet2": {
+      "content": "资金持续注入科创板 未来钱从哪里来？居民存款和外资或成重要增量"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "科创板公司纳入A股主要指数影响巨大，为投资者提供优质回报助力A股史上首轮长牛"
+    },
+    "tweet2": {
+      "content": "越跌越买，资金看好科创50ETF长配价值"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "A股共发生193宗大宗交易成交43.98亿元（12月3日）"
+    },
+    "tweet2": {
+      "content": "澜起科技现1笔大宗交易 共成交1,366.02万元"
+    },
+    "tweet3": {
+      "content": "澜起科技今日大宗交易成交18万股，成交价75.89元折价4.99%"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "中金料九只科创板股纳入沪股通，中微被动资金流入最多"
+    },
+    "tweet2": {
+      "content": "中金：沪深港通标的扩容及其影响"
+    },
+    "tweet3": {
+      "content": "中金：科创板企业将被纳入主要指数及互联互通"
+    },
+    "tweet4": {
+      "content": "科创板公司增至200家，“硬科技”受外资青睐"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "上调评级至买入策略选股（12月8日）"
+    },
+    "tweet2": {
+      "content": "15股获券商买入评级 中孚信息目标涨幅达44.91%"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "COMPANY_X(688008)：台厂数据验证行业拐点 DDR5涨价或超预期"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "数据|科创板主力资金净流入74股澜起科技流入率最高"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "盛视早参：防御可能重于进攻"
+    },
+    "tweet2": {
+      "content": "A股早报2020年12月11日星期五"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "澜起科技拟与英特尔产生关联交易1亿元 2020年因消化库存采购大降"
+    },
+    "tweet2": {
+      "content": "电子投资新机遇：新时代、新格局"
+    },
+    "tweet3": {
+      "content": "【银河电子】2021年度策略：新时代、新格局、电子投资新机遇"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "电子周报：部分芯片缺货影响镜头放量 半导体芯芯向荣"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "周期、科技、消费……热门板块明年怎么买？银河证券分析师：这些机会值得关注！"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "芯片关键技术获重大突破！集成电路全名单出炉"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "【研报掘金】中芯国际被列入实体清单叠加税务优惠 半导体国产替代有望加速"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "【兴证策略|科创板】近期科创板优质公司纳入主要指数情况汇总——科创板系列研究"
+    },
+    "tweet2": {
+      "content": "129只科创板股融资余额环比增加"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "电子行业2021年投资策略报告：经济复苏创新驱动 电子行业景气上行"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "【电子50揭秘】12月新纳入了哪些电子龙头股？"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "COMPANY_X(688008.SH)：嘉兴宏越及关联方所持表决权比例降至6.99%"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

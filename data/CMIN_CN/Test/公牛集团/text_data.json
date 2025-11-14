@@ -1,0 +1,455 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "家用电器行业业绩前瞻：Q3环比继续改善"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "【东兴大消费】周观点：长假催化消费加速回暖，内循环持续发力"
+    },
+    "tweet2": {
+      "content": "击败小米的不止格力，还有公牛"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "高瓴资本概念股普遍活跃，COMPANY_X、金域医学、甘李药业、凯莱英等大涨"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "COMPANY_X：公司智能产品已实现与阿里、百度等物联网平台云云对接"
+    },
+    "tweet2": {
+      "content": "小熊电器||前三季度业绩高速增长，Q4电商旺季有望再创佳绩"
+    },
+    "tweet3": {
+      "content": "净利大降24%，上市前\"清仓式\"分红，公牛集团到底值不值1000亿？ 盈利能力下降"
+    },
+    "tweet4": {
+      "content": "新宝股份||2020Q3业绩超预期，自主品牌拉动内销高速增长"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "开润股份∣∣与阿里战略合作，打造C2M闭环"
+    },
+    "tweet2": {
+      "content": "【东兴大消费】周观点：内需、出口皆有亮点，关注三季度业绩继续回暖"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "石头科技||新品配件全面升级H6，预计Q3继续维持较高增速"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "插座一哥狙击战，公牛何以击败小米？"
+    },
+    "tweet2": {
+      "content": "家电行业9月数据点评：需求回，线上高增，维持“增持”评级"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "【东兴大消费】周观点：9月社零同比增长3.3%，消费持续复苏"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "九阳股份||2020Q3公司收入端快速增长，利润端略低于预期"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：新增产能项目预计2024年达产"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "顾家家居||2020Q3业绩超出预期，下游需求有望继续回暖"
+    },
+    "tweet2": {
+      "content": "公牛集团公布三季报 前三季净利减少8.77% 盈利能力下降"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：前三季度营收净利双降 净利同比下降8.77% 盈利能力下降"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(603195.SH)前三季度净利润降8.77%至15.99亿元 盈利能力下降"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：前三季度净利润同比减少8.77%"
+    },
+    "tweet6": {
+      "content": "犀牛财经晚报：海澜之家前三季净利降50% 威马汽车再现起火爆炸"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "COMPANY_X||Q3业绩强势复苏，继续看好全年表现"
+    },
+    "tweet2": {
+      "content": "晚间重要公告2020年10月29日星期四"
+    },
+    "tweet3": {
+      "content": "公牛市值突破1200亿，深耕大消费领域的高瓴有哪些不可复制的秘诀？"
+    },
+    "tweet4": {
+      "content": "公牛集团大涨逾8%站上200元大关 盘中一度涨停创新高"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(603195)：经营超预期 优质质地强化"
+    },
+    "tweet6": {
+      "content": "A股收盘综述：上证指数录升0.11%连续三日小涨，热门板块尾盘滑落"
+    },
+    "tweet7": {
+      "content": "见证历史！深市首只万亿市值股票，已步步逼近！社保和QFII也踩雷，700亿医药牛股闪崩 连续下跌"
+    },
+    "tweet8": {
+      "content": "解盘：百亿资金流入，大消费拉升，白酒、疫苗概念领涨"
+    },
+    "tweet9": {
+      "content": "A股午盘综述：上证指数半日微涨，白酒汽车家电推升大市、绩优明星股批量创新高"
+    },
+    "tweet10": {
+      "content": "公牛集团封住涨停，市值突破1200亿元再创新高"
+    },
+    "tweet11": {
+      "content": "快讯：家电板块持续拉升 公牛集团涨停"
+    },
+    "tweet12": {
+      "content": "COMPANY_X：细分领域市占率第一 进一步拓宽新业务"
+    },
+    "tweet13": {
+      "content": "COMPANY_X：Q3业绩强劲回升，民用电工龙头稳步前行【华西轻工徐林锋团队】"
+    },
+    "tweet14": {
+      "content": "COMPANY_X(603195)：受益装修市场需求恢复 重归稳健增长通道"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "石头科技||Q3业绩大超市场预期，境外收入持续高增长"
+    },
+    "tweet2": {
+      "content": "思摩尔国际||盈利能力继续提升，2020Q3扣非后利润再超预期"
+    },
+    "tweet3": {
+      "content": "【华创轻工纺服】COMPANY_X（603195）2020年三季报点评：三季度营收恢复快增长，业绩表现超预期"
+    },
+    "tweet4": {
+      "content": "五粮液创新高 有望成深市首只万亿市值股"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "健盛集团||疫情影响前三季度业绩承压，订单回流期待业绩回弹"
+    },
+    "tweet2": {
+      "content": "裕同科技||业绩短期波动不改长期趋势，多元布局稳步发展"
+    },
+    "tweet3": {
+      "content": "【华创轻工纺服】轻工制造行业2020年三季报总结：经营持续回暖，单Q3各子板块收入增速转正"
+    },
+    "tweet4": {
+      "content": "11月200只券商金股大梳理，哪类股热度最高"
+    },
+    "tweet5": {
+      "content": "【东兴大消费】周观点：三季度业绩加速改善，关注四季度景气持续赛道"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "近600家A股上市公司今年开展套期保值"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "秦安股份领衔，近600家A股上市公司追捧！什么期市业务如此“诱人”？"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "COMPANY_X(603195)：三季度营收恢复快增长 业绩表现超预期"
+    },
+    "tweet2": {
+      "content": "[互动]COMPANY_X：未来断路器等产品会围绕公司智能电工生态系统而打造"
+    },
+    "tweet3": {
+      "content": "【东兴大消费】周观点：进博会召开、双十一蓄力，多重催化四季度持续关注可选消费"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "造纸轻工周报：看好C端家居消费及造纸盈利弹性"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "2020年年末主要宽基指数样本股调整预测：电子和医药行业个股升档较多"
+    },
+    "tweet2": {
+      "content": "轻工制造行业跟踪报告：Q3基金持仓轻工制造占比再提升 持续推荐关注景气度提升的造纸和家居细分行业"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "COMPANY_X(603195)：单季恢复增长 经营维持稳健"
+    },
+    "tweet2": {
+      "content": "周五机构一致看好的七大金股（11.13）"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "公牛集团五年累盈77亿分红54亿 阮氏兄弟创业25年持股财富超千亿"
+    },
+    "tweet2": {
+      "content": "轻工制造双周报20年23期：双十一欧派、索菲亚、洁柔表现突出 持续推荐敏华、梦百合、顾家"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "造纸轻工周报：看好C端家居消费及造纸盈利弹性"
+    },
+    "tweet2": {
+      "content": "【东兴大消费】周观点：疫苗进展显著提振可选消费增长信心"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "轻工制造：10月地产数据显著增长 强者恒强 推荐家居、造纸细分龙头"
+    },
+    "tweet2": {
+      "content": "轻工制造行业投资周报：10月消费持续复苏 竣工反弹关注地产后周期板块"
+    },
+    "tweet3": {
+      "content": "电新行业周报：太阳能发电量持续提升 新能源车销量高增长有望持续"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "踩雷比克动力，拟上市的创益通才计提损失17%，或虚增利润近千万 欺诈造假"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：完成工商变更登记"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "轻工制造2021年投资策略：潮流浩荡 精益争先"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "轻工制造：数字化变革蕴含巨大机会 多龙头有望获超额收益"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "稳健医疗||发布股权激励计划彰显信心，扩产能巩固领先地位"
+    },
+    "tweet2": {
+      "content": "照着天猫超市买股票 有戏吗？"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "裕同科技||业绩预告符合预期，短期扰动带来长期布局机会"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "福建省漳州市市场监管局抽检80批次电气产品 10批次不合格 产品问题"
+    },
+    "tweet2": {
+      "content": "轻工制造2021年度策略：聚焦景气、格局双优化 新型烟草蓄势待发"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "高瓴资本概念股逆市活跃，广联达、国瓷材料、泰格医药、凯莱英等普涨"
+    },
+    "tweet2": {
+      "content": "可选消费行业2021年策略报告（1）：顺应渠道变革方向"
+    },
+    "tweet3": {
+      "content": "【东兴大消费】周观点：聚焦景气持续，寻求业绩确定性"
+    },
+    "tweet4": {
+      "content": "轻工制造行业：保碧基金赋能优质供应链 竣工周期加快C端需求弹性"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "COMPANY_X(603195)：线上零售好转 墙壁开关插座业务需求改善明显"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "高瓴资本概念股普遍活跃，恩捷股份、COMPANY_X、良品铺子、健帆生物等大涨"
+    },
+    "tweet2": {
+      "content": "【东兴大消费】周观点：寻求业绩确定性，关注年底估值切换"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "高瓴资本概念股普遍强势，甘李药业、恩捷股份、金域医学、广联达等集体走强"
+    },
+    "tweet2": {
+      "content": "轻工制造行业动态：关注轻工2021年投资策略 家居内外销景气度上升"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "森马服饰||高管增持彰显公司长远发展信心，业绩持续复苏"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "年内IPO募资逾4400亿元，科创板占47%"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "家电及相关行业：11月空调零售量下滑需要担心吗？"
+    },
+    "tweet2": {
+      "content": "轻工制造行业动态：地产数据持续修复 软体格局优化、持续推荐敏华控股"
+    },
+    "tweet3": {
+      "content": "高瓴资本概念股表现活跃，国瓷材料、恩捷股份、海正药业、广联达等普涨"
+    },
+    "tweet4": {
+      "content": "高瓴158亿杀入光伏龙头，最新持仓全名单曝光"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "COMPANY_X(603195.SH)选举李雨为职工监事"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "轻工制造行业动态：家居出口高景气延续 白卡纸价新高 龙头恒强"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "浙商证券年度策略会重磅回顾：大消费首席观点"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "家电及相关行业：内需温和复苏 出口维持强劲增长"
+    }
+  }
+}

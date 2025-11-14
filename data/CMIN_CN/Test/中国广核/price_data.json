@@ -1,0 +1,484 @@
+{
+  "price_data": [
+    {
+      "day": "day1",
+      "open": 2.88,
+      "high": 2.9,
+      "low": 2.87,
+      "close": 2.89,
+      "volume": 24934909.0
+    },
+    {
+      "day": "day2",
+      "open": 2.89,
+      "high": 2.93,
+      "low": 2.88,
+      "close": 2.93,
+      "volume": 36442534.0
+    },
+    {
+      "day": "day3",
+      "open": 2.92,
+      "high": 2.92,
+      "low": 2.9,
+      "close": 2.91,
+      "volume": 18709601.0
+    },
+    {
+      "day": "day4",
+      "open": 2.92,
+      "high": 2.92,
+      "low": 2.89,
+      "close": 2.9,
+      "volume": 24100855.0
+    },
+    {
+      "day": "day5",
+      "open": 2.9,
+      "high": 2.91,
+      "low": 2.88,
+      "close": 2.89,
+      "volume": 20521754.0
+    },
+    {
+      "day": "day6",
+      "open": 2.89,
+      "high": 2.9,
+      "low": 2.88,
+      "close": 2.9,
+      "volume": 18553535.0
+    },
+    {
+      "day": "day7",
+      "open": 2.9,
+      "high": 2.91,
+      "low": 2.88,
+      "close": 2.88,
+      "volume": 26766430.0
+    },
+    {
+      "day": "day8",
+      "open": 2.88,
+      "high": 2.88,
+      "low": 2.86,
+      "close": 2.87,
+      "volume": 21254746.0
+    },
+    {
+      "day": "day9",
+      "open": 2.87,
+      "high": 2.88,
+      "low": 2.84,
+      "close": 2.86,
+      "volume": 30959430.0
+    },
+    {
+      "day": "day10",
+      "open": 2.86,
+      "high": 2.86,
+      "low": 2.84,
+      "close": 2.86,
+      "volume": 17813900.0
+    },
+    {
+      "day": "day11",
+      "open": 2.85,
+      "high": 2.86,
+      "low": 2.84,
+      "close": 2.86,
+      "volume": 18517100.0
+    },
+    {
+      "day": "day12",
+      "open": 2.86,
+      "high": 2.86,
+      "low": 2.83,
+      "close": 2.85,
+      "volume": 20361270.0
+    },
+    {
+      "day": "day13",
+      "open": 2.84,
+      "high": 2.84,
+      "low": 2.82,
+      "close": 2.83,
+      "volume": 24328892.0
+    },
+    {
+      "day": "day14",
+      "open": 2.82,
+      "high": 2.83,
+      "low": 2.79,
+      "close": 2.81,
+      "volume": 48137302.0
+    },
+    {
+      "day": "day15",
+      "open": 2.78,
+      "high": 2.79,
+      "low": 2.74,
+      "close": 2.76,
+      "volume": 72876291.0
+    },
+    {
+      "day": "day16",
+      "open": 2.75,
+      "high": 2.76,
+      "low": 2.72,
+      "close": 2.74,
+      "volume": 42470300.0
+    },
+    {
+      "day": "day17",
+      "open": 2.73,
+      "high": 2.74,
+      "low": 2.66,
+      "close": 2.69,
+      "volume": 57691263.0
+    },
+    {
+      "day": "day18",
+      "open": 2.7,
+      "high": 2.74,
+      "low": 2.69,
+      "close": 2.73,
+      "volume": 28447104.0
+    },
+    {
+      "day": "day19",
+      "open": 2.73,
+      "high": 2.74,
+      "low": 2.68,
+      "close": 2.7,
+      "volume": 50192906.0
+    },
+    {
+      "day": "day20",
+      "open": 2.71,
+      "high": 2.72,
+      "low": 2.7,
+      "close": 2.71,
+      "volume": 34257352.0
+    },
+    {
+      "day": "day21",
+      "open": 2.71,
+      "high": 2.73,
+      "low": 2.7,
+      "close": 2.72,
+      "volume": 45806290.0
+    },
+    {
+      "day": "day22",
+      "open": 2.72,
+      "high": 2.77,
+      "low": 2.72,
+      "close": 2.77,
+      "volume": 54299207.0
+    },
+    {
+      "day": "day23",
+      "open": 2.76,
+      "high": 2.79,
+      "low": 2.75,
+      "close": 2.76,
+      "volume": 44410057.0
+    },
+    {
+      "day": "day24",
+      "open": 2.75,
+      "high": 2.77,
+      "low": 2.73,
+      "close": 2.76,
+      "volume": 44471483.0
+    },
+    {
+      "day": "day25",
+      "open": 2.75,
+      "high": 2.76,
+      "low": 2.71,
+      "close": 2.72,
+      "volume": 62973768.0
+    },
+    {
+      "day": "day26",
+      "open": 2.71,
+      "high": 2.72,
+      "low": 2.69,
+      "close": 2.7,
+      "volume": 36294111.0
+    },
+    {
+      "day": "day27",
+      "open": 2.7,
+      "high": 2.73,
+      "low": 2.7,
+      "close": 2.73,
+      "volume": 52209616.0
+    },
+    {
+      "day": "day28",
+      "open": 2.73,
+      "high": 2.75,
+      "low": 2.71,
+      "close": 2.74,
+      "volume": 54089039.0
+    },
+    {
+      "day": "day29",
+      "open": 2.74,
+      "high": 2.78,
+      "low": 2.72,
+      "close": 2.76,
+      "volume": 81364472.0
+    },
+    {
+      "day": "day30",
+      "open": 2.75,
+      "high": 2.76,
+      "low": 2.74,
+      "close": 2.75,
+      "volume": 36361300.0
+    },
+    {
+      "day": "day31",
+      "open": 2.75,
+      "high": 2.75,
+      "low": 2.72,
+      "close": 2.74,
+      "volume": 60350102.0
+    },
+    {
+      "day": "day32",
+      "open": 2.74,
+      "high": 2.79,
+      "low": 2.73,
+      "close": 2.77,
+      "volume": 92463500.0
+    },
+    {
+      "day": "day33",
+      "open": 2.77,
+      "high": 2.77,
+      "low": 2.75,
+      "close": 2.75,
+      "volume": 46492350.0
+    },
+    {
+      "day": "day34",
+      "open": 2.76,
+      "high": 2.8,
+      "low": 2.75,
+      "close": 2.76,
+      "volume": 85982321.0
+    },
+    {
+      "day": "day35",
+      "open": 2.76,
+      "high": 2.82,
+      "low": 2.75,
+      "close": 2.81,
+      "volume": 112727281.0
+    },
+    {
+      "day": "day36",
+      "open": 2.8,
+      "high": 2.83,
+      "low": 2.78,
+      "close": 2.81,
+      "volume": 82342724.0
+    },
+    {
+      "day": "day37",
+      "open": 2.82,
+      "high": 2.85,
+      "low": 2.8,
+      "close": 2.81,
+      "volume": 112778919.0
+    },
+    {
+      "day": "day38",
+      "open": 2.8,
+      "high": 2.81,
+      "low": 2.77,
+      "close": 2.81,
+      "volume": 74466519.0
+    },
+    {
+      "day": "day39",
+      "open": 2.8,
+      "high": 2.84,
+      "low": 2.78,
+      "close": 2.82,
+      "volume": 88212030.0
+    },
+    {
+      "day": "day40",
+      "open": 2.82,
+      "high": 2.82,
+      "low": 2.79,
+      "close": 2.8,
+      "volume": 67692481.0
+    },
+    {
+      "day": "day41",
+      "open": 2.8,
+      "high": 2.84,
+      "low": 2.77,
+      "close": 2.82,
+      "volume": 94021888.0
+    },
+    {
+      "day": "day42",
+      "open": 2.82,
+      "high": 2.82,
+      "low": 2.77,
+      "close": 2.78,
+      "volume": 66075266.0
+    },
+    {
+      "day": "day43",
+      "open": 2.78,
+      "high": 2.8,
+      "low": 2.76,
+      "close": 2.77,
+      "volume": 40325088.0
+    },
+    {
+      "day": "day44",
+      "open": 2.77,
+      "high": 2.78,
+      "low": 2.72,
+      "close": 2.73,
+      "volume": 64354364.0
+    },
+    {
+      "day": "day45",
+      "open": 2.73,
+      "high": 2.76,
+      "low": 2.72,
+      "close": 2.75,
+      "volume": 57778801.0
+    },
+    {
+      "day": "day46",
+      "open": 2.74,
+      "high": 2.8,
+      "low": 2.74,
+      "close": 2.77,
+      "volume": 142414099.0
+    },
+    {
+      "day": "day47",
+      "open": 2.78,
+      "high": 2.82,
+      "low": 2.76,
+      "close": 2.81,
+      "volume": 106159337.0
+    },
+    {
+      "day": "day48",
+      "open": 2.81,
+      "high": 2.81,
+      "low": 2.77,
+      "close": 2.78,
+      "volume": 40881250.0
+    },
+    {
+      "day": "day49",
+      "open": 2.78,
+      "high": 2.79,
+      "low": 2.73,
+      "close": 2.74,
+      "volume": 55686880.0
+    },
+    {
+      "day": "day50",
+      "open": 2.74,
+      "high": 2.76,
+      "low": 2.72,
+      "close": 2.75,
+      "volume": 40294245.0
+    },
+    {
+      "day": "day51",
+      "open": 2.76,
+      "high": 2.83,
+      "low": 2.75,
+      "close": 2.8,
+      "volume": 122249669.0
+    },
+    {
+      "day": "day52",
+      "open": 2.8,
+      "high": 2.8,
+      "low": 2.76,
+      "close": 2.78,
+      "volume": 83740500.0
+    },
+    {
+      "day": "day53",
+      "open": 2.77,
+      "high": 2.78,
+      "low": 2.72,
+      "close": 2.73,
+      "volume": 72454941.0
+    },
+    {
+      "day": "day54",
+      "open": 2.73,
+      "high": 2.81,
+      "low": 2.73,
+      "close": 2.79,
+      "volume": 105935218.0
+    },
+    {
+      "day": "day55",
+      "open": 2.8,
+      "high": 2.8,
+      "low": 2.75,
+      "close": 2.76,
+      "volume": 61139358.0
+    },
+    {
+      "day": "day56",
+      "open": 2.75,
+      "high": 2.88,
+      "low": 2.73,
+      "close": 2.86,
+      "volume": 222364325.0
+    },
+    {
+      "day": "day57",
+      "open": 2.85,
+      "high": 2.93,
+      "low": 2.82,
+      "close": 2.86,
+      "volume": 214577808.0
+    },
+    {
+      "day": "day58",
+      "open": 2.86,
+      "high": 2.87,
+      "low": 2.81,
+      "close": 2.83,
+      "volume": 125744034.0
+    },
+    {
+      "day": "day59",
+      "open": 2.81,
+      "high": 2.85,
+      "low": 2.8,
+      "close": 2.82,
+      "volume": 86334300.0
+    },
+    {
+      "day": "day60",
+      "open": 2.82,
+      "high": 2.84,
+      "low": 2.79,
+      "close": 2.82,
+      "volume": 91619306.0
+    }
+  ]
+}

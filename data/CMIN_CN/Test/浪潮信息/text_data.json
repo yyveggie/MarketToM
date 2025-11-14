@@ -1,0 +1,422 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "国家金融科技认证中心落地，三大独角兽准备上市，把握龙头机会"
+    },
+    "tweet2": {
+      "content": "【新基建产业观察】浪潮信息首席执行官彭震：新基建与人工智能风口，算力如何像水电一样被使用？"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "COMPANY_X(000977.SZ)：控股股东浪潮集团质押4500万股"
+    },
+    "tweet2": {
+      "content": "通信行业点评报告：第四大运营商千亿投资 5G从可用到好用更进一步"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "北向资金一周净买入113.93亿元 六股迎掘金"
+    },
+    "tweet2": {
+      "content": "本周7家上市公司发布可转债预案，融资总规模达92.96亿元"
+    },
+    "tweet3": {
+      "content": "科技行业-通信安防月报(10月)：5G 建设出现争议 视频物联保持成长"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "计算机行业周观点：中央政治局集体学习量子科技 深圳数字货币红包投入使用"
+    },
+    "tweet2": {
+      "content": "计算机行业周报：财报季布局宜着眼中长期收益 淡化板块短期预期"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "COMPANY_X | Q2服务器行业规模增4成，多方需求显现"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "COMPANY_X(000977.SZ)：控股股东完成发行10亿元可交换公司债券"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "通信设备周报：运营商出现向好趋势 安防-云计算三季度景气度好"
+    },
+    "tweet2": {
+      "content": "计算机行业周观点：数字货币时代加速到来"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "【国金通信】COMPANY_X：短期下游需求回调不改服务器龙头增长展望"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000977.SZ)：前三季度净利升21.37%至6.28亿元"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：前三季度净利润同比增长21.37%"
+    },
+    "tweet4": {
+      "content": "市场继续震荡持有主线板块中优质标的 六股热门"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "COMPANY_X(000977)：存货保持高位、预收大幅增加 对后续季度保持乐观"
+    },
+    "tweet2": {
+      "content": "11月2日龙虎榜，机构青睐这19股"
+    },
+    "tweet3": {
+      "content": "浪潮信息龙虎榜数据（11月2日）"
+    },
+    "tweet4": {
+      "content": "浪潮信息放量大跌9.34%，机构卖出为主"
+    },
+    "tweet5": {
+      "content": "A股收盘综述：指数平静下个股大分化，上证指数微红报收、中金公司首日涨31%"
+    },
+    "tweet6": {
+      "content": "国产替代概念龙头浪潮信息跌超8%：板块集体重挫 发生了什么？ 连续下跌"
+    },
+    "tweet7": {
+      "content": "COMPANY_X、浪潮软件双双大跌，前者一度逼近跌停"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "大白马连环炸？2020年业绩抢先看 谨防“业绩杀”"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "【万联TMT-计算机 | 季报点评】COMPANY_X：Q3业绩略有放缓，持续投入稳固龙头地位"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "130股获券商买入评级，垒知集团目标涨幅达91.59%"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "【中金科技】科技硬件周报（11/7）：关注美国大选对中国科技行业的影响"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000977)2020年三季报点评：Q3业绩有所回落 全球市占率进一步提升 盈利能力下降"
+    },
+    "tweet3": {
+      "content": "计算机行业2020年三季报深度分析：Q3平淡全年格局已定 接近明年绝佳布局期"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "【东吴通信侯宾团队】本周专题：三季度持仓小幅度下滑，“龙头集中”明显"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "这8只个股机构预测上涨空间超30%"
+    },
+    "tweet2": {
+      "content": "机构推荐的好物清单来了 这只股8年涨近36倍"
+    },
+    "tweet3": {
+      "content": "通信行业研究：中美对标：中国云计算赶超时"
+    },
+    "tweet4": {
+      "content": "国金通信行业三季报总结和行情展望：结构分化 超配龙头"
+    },
+    "tweet5": {
+      "content": "【计算机】行业景气度增加，关注云计算和信创――计算机行业周报――看好"
+    },
+    "tweet6": {
+      "content": "【东吴晨报1110】【行业】汽车、通信、电新【个股】新东方-S"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "计算机行业周报：行业景气度增加 关注云计算和信创"
+    },
+    "tweet2": {
+      "content": "【中金科技】云计算资本开支观察（3Q20）：2021年全球云资本开支预期上修"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "山东A股财讯周报：总市值一周涨超千亿，百亿级投资项目出炉"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "计算机行业周报：为什么我们看好工业软件-三维度深度剖析行业周报"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "计算机行业周观点：智能网联汽车大会召开 关注车联网领域投资机会"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "通信设备行业专题研究：云计算全产业链持续高景气 “新基建”助力行业发展"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "【民生计算机|周观点】政策催化DIP普及，医保改造推动IT需求逐步释放"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "计算机行业投资策略：工业软件板块逐步形成，行业整体短期仍以震荡为主，维持“买入”评级"
+    },
+    "tweet2": {
+      "content": "计算机行业周报：智能汽车 鲶鱼搅动的一池春水"
+    },
+    "tweet3": {
+      "content": "计算机周观点：把握工业软件投资机会"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "计算机行业周观点：关注物联网领域各场景应用的投资机遇"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "COMPANY_X：利润率极低 “囤货”风险泰山压顶"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "通信本周专题：新基建持续推进 重点看好主设备、IDC、光模块和数字化转型服务提供商"
+    },
+    "tweet2": {
+      "content": "计算机周报：银行IT景气度不断提升 格局改善利好核心厂商"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "A股共发生175宗大宗交易成交35.71亿元（12月1日）"
+    },
+    "tweet2": {
+      "content": "浪潮信息今日大宗交易成交50万股，成交价28.79元溢价0.0%"
+    },
+    "tweet3": {
+      "content": "计算机行业周报：医保信息平台进入落地实施阶段 多类医保IT需求将加速释放"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "计算机行业：公有云正从IAAS向SAAS扩张"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "【民生计算机|周观点】政策推动超高清落地，5G应用新一轮景气周期可期"
+    },
+    "tweet2": {
+      "content": "通信行业IAAS研究专题：投资IAAS硬件市场的短期指引与长期趋势"
+    },
+    "tweet3": {
+      "content": "计算机行业投资策略：积极变化正在发生 拥抱科技创新浪潮"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "2021年计算机行业策略报告：新成长 新变化"
+    },
+    "tweet2": {
+      "content": "计算机行业：短期企稳 躁动前的中期布局更有意义"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "苹果发布新产品，浪潮系大涨；白酒光环下，某新ETF成亮点"
+    },
+    "tweet2": {
+      "content": "解盘：资金再现流入，智能音箱、稀有金属、煤炭、操作系统略涨"
+    },
+    "tweet3": {
+      "content": "A股午盘综述：上证指数涨0.06%，创业板指跌0.32%"
+    },
+    "tweet4": {
+      "content": "浪潮双子星携手攀升，浪潮软件涨停"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "通信设备行业周报：光纤光缆集采价格发生边际改善"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "COMPANY_X(000977)跟踪报告：静候需求景气回升"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "计算机行业周报：卫健委发布公卫信息化建设规范 公卫IT行业有望获新增量"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "COMPANY_X：已发布专为5G时代的各类边缘计算应用所设计的服务器"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "【民生计算机|周观点】科技创新大势所趋，新基建、信创重要性再次凸显"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "通信行业周报：5G消息渐行渐近 引领行业进入发展新篇章"
+    },
+    "tweet2": {
+      "content": "计算机行业：外部环境影响因素较多 部分领域配置价值逐渐凸显"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "计算机行业周报：中央经济工作会议强化科技战略 科技创新有望加速推进"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "【GICS行业巡礼】27家“电脑硬件、储存设备及电脑周边”行业沪深港上市公司初筛选"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "本周观点：与个股集萃"
+    },
+    "tweet2": {
+      "content": "【东吴通信侯宾团队】通信行业点评报告：政策导向清晰，板块向上趋势确定，继续重点推荐新基建、云计算与5G应用"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "沪指震荡向上可能性较大布局6大股春季行情"
+    },
+    "tweet2": {
+      "content": "计算机行业周报：大数据平台是新基建重点建设领域之一 关注低估值高成长板块"
+    },
+    "tweet3": {
+      "content": "【行情】国产软件板块午后继续拉升，诚迈科技、东方通双双涨超10%，COMPANY_X、中国软件涨逾7%，卫宁健康、用友网络等个股纷纷走强"
+    },
+    "tweet4": {
+      "content": "通信行业周报：稳中有增 云网融合"
+    },
+    "tweet5": {
+      "content": "【中金科技】2021展望：择机布局云网/5G，重视物联网、统一通信和安防机会"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "计算机全行业AI赋能系列深度之一-AI产业化：2021高景气主线"
+    }
+  }
+}

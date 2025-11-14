@@ -1,0 +1,500 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "计算机行业周报：数字货币、自动驾驶等出现积极信号 市场风险偏好回升"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "策略系列：一周策略回顾与展望"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "COMPANY_X(000066.SZ)第三季度预盈5022万-15022万元"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：预计前三季度亏损1.5亿-2.5亿元 预亏"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "COMPANY_X(000066)：激励计划彰显信心 信创业务前景可期"
+    },
+    "tweet2": {
+      "content": "央企股权激励新规落地近一年上市公司踊跃“争鲜”"
+    },
+    "tweet3": {
+      "content": "央企股权激励新规落地近一年，上市公司尝“鲜气”"
+    },
+    "tweet4": {
+      "content": "央企股权激励新规落地近一年 上市公司踊跃“争鲜”"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "COMPANY_X：ARM时代已来 乘势飞腾"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "COMPANY_X：独立董事辞职 董监高成员变化"
+    },
+    "tweet2": {
+      "content": "历史最好水平！山西这3家企业上榜全国质量标杆"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "计算机行业周观点：数字货币时代加速到来"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "中国长城与湖南湘邮科技签约，共拓网信事业新路径"
+    },
+    "tweet2": {
+      "content": "中国长城与湖南湘邮科技签约 共拓网信事业新路径"
+    },
+    "tweet3": {
+      "content": "新股网下申购询价建议报告：宸展光电(003019)"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "中国长城与湖南湘邮科技股份有限公司签署战略合作协议"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "景嘉微(300474)：芯片收入增长显著 受益军工“十四五”采购提升"
+    },
+    "tweet2": {
+      "content": "【兴证计算机】2020Q3持仓整理：超配0.02%，环比Q2下降1.95个百分点"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(000066.SZ)：前三季度业绩盈转亏至1.63亿元 亏损"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：第三季度净利润同比增长248.2%"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：前三季度净亏损1.63亿元，由盈转亏"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "东吴计算机点评【COMPANY_X：三季度业绩大幅增长，信创业务高景气度】"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "【行情】国产软件板块拉升，中国软件冲击涨停，COMPANY_X、太极股份涨超7%，东方通等个股大涨"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "COMPANY_X：与梅州市签署合作协议 打造活力网信生态体系"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "COMPANY_X(000066.SZ)：长城金融将开展混改引入战投并实施员工持股计划"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000066.SZ)：长城金融拟开展混改 公开征集战略投资者并同步实施员工持股"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(000066.SZ)拟2.18亿元出售长城医疗100%股权 资产异常"
+    },
+    "tweet4": {
+      "content": "COMPANY_X、紫晶存储合资成立新公司，经营范围含云计算中心等"
+    },
+    "tweet5": {
+      "content": "计算机行业2020年三季报深度分析：Q3平淡全年格局已定 接近明年绝佳布局期"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "11月12日十大利好公告：中国长城拟定增募资不超40亿元"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000066.SZ)拟发行不超8.78亿股募资不超40亿元"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：拟定增募资最多40亿元用于计算机及服务器核心技术研发等项目"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：拟定增募资不超过40亿元"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(000066.SZ)拟定增募资不超40亿元 中电有限及中电金控参与认购"
+    },
+    "tweet6": {
+      "content": "中国长城助力首套全国产化DCS研发投用"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "COMPANY_X(000066)公司动态点评：聚焦信创+新基建 非公开发行进一步壮大实力"
+    },
+    "tweet2": {
+      "content": "24股获券商买入评级，当代文体目标涨幅达137.05%"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "计算机应用：行业盘点CAD行业新动向 维持“增持”评级"
+    },
+    "tweet2": {
+      "content": "信息技术行业周报：从PC到汽车 看好ARM在各个行业的应用"
+    },
+    "tweet3": {
+      "content": "计算机行业周报：为什么我们看好工业软件-三维度深度剖析行业周报"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "COMPANY_X：旗下子公司参与研制出我国首台半导体激光隐形晶圆切割机"
+    },
+    "tweet2": {
+      "content": "中小公司研究：一周策略回顾与展望"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "COMPANY_X“PKS生态服务平台”入选工信部网络安全技术应用试点示范项目"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "COMPANY_X(000066.SZ)：下属公司收到政府补助2.22亿元"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "计算机行业周报：智能汽车 鲶鱼搅动的一池春水"
+    },
+    "tweet2": {
+      "content": "计算机周观点：把握工业软件投资机会"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "COMPANY_X：本次非公开发行A股股票获得中国电子信息产业集团有限公司批复"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000066.SZ)：定增方案获得中国电子批复"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "COMPANY_X：与韩城市签署合作协议"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "计算机周报：银行IT景气度不断提升 格局改善利好核心厂商"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "中国长城出资逾1亿元参与中电智科增资扩股"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000066.SZ)拟斥1.0071亿元与电子六所共同增资中电智科"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(000066.SZ)：与电子六所合计以11078万元共同对中电智科进行增资"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：出资1亿元参与中电智科增资扩股 占其40%股权"
+    },
+    "tweet5": {
+      "content": "【计算机-胡又文】COMPANY_X：参股中电智能，布局国产化智能制造"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "7股获买入评级 最新:COMPANY_X"
+    },
+    "tweet2": {
+      "content": "24股获券商买入评级 中嘉博创目标涨幅达92.94%"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(000066)：参股中电智能 布局国产化智能制造"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "计算机行业周报：板块开启反弹 关注中期景气细分赛道"
+    },
+    "tweet2": {
+      "content": "计算机行业投资策略：积极变化正在发生 拥抱科技创新浪潮"
+    },
+    "tweet3": {
+      "content": "安信证券：近期多项重要事件表明行业信创正在加速启动 推荐金山办公等"
+    },
+    "tweet4": {
+      "content": "【计算机-胡又文】行业信创风起云涌-计算机行业动态分析"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "[路演]COMPANY_X：基于飞腾平台的终端和服务器的产品性能保持领先"
+    },
+    "tweet2": {
+      "content": "计算机行业2021年投资策略：优选赛道 聚焦龙头"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "中国长城退出一医疗科技公司，退出前持股99.08%"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "COMPANY_X(000066.SZ)下属公司中电长城拟向银行申请8000万元授信额度"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000066.SZ)下属公司中电长城拟向农业银行申请8000万元授信额度"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "机构今日抛售这7股，买入中国长城1.43亿元"
+    },
+    "tweet2": {
+      "content": "机构买卖力度下滑 观望情绪浓厚"
+    },
+    "tweet3": {
+      "content": "中国长城龙虎榜数据（12月15日）"
+    },
+    "tweet4": {
+      "content": "龙虎榜：中国长城涨停 两家机构买入1.43亿元"
+    },
+    "tweet5": {
+      "content": "中国长城今日涨停，深股通买入2.28亿元并卖出5091万元"
+    },
+    "tweet6": {
+      "content": "A股午盘综述：上证指数跌0.45%，创业板指涨0.23%"
+    },
+    "tweet7": {
+      "content": "电脑硬件板块走高，中国长城涨停"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "COMPANY_X(000066)：国产CPU巨头 充分受益国产化浪潮"
+    },
+    "tweet2": {
+      "content": "盛视早参：聚焦价值 核心资产和低估值"
+    },
+    "tweet3": {
+      "content": "14股获融资客逆市净买入超亿元"
+    },
+    "tweet4": {
+      "content": "A股早报2020年12月16日星期三"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "券商首次关注3股并给予买入评级（12月17日）"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "COMPANY_X：四家下属公司近期累计收到1.31亿元政府补助资金"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(000066.SZ)下属公司收到政府补助资金共13146.25万元"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "COMPANY_X：长城紫晶与玉溪市政府签署战略合作协议"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：长城紫晶与玉溪市政府签署战略合作协议"
+    },
+    "tweet3": {
+      "content": "计算机行业投资周报：智慧城市订单放量 标杆示范驱动成长"
+    },
+    "tweet4": {
+      "content": "古井贡酒、中国长城等股近五日获机构净买入"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "计算机行业：创新中心呼之欲出 信创拐点或已临近"
+    },
+    "tweet2": {
+      "content": "中国长城成立电源技术公司，注册资本3.5亿"
+    },
+    "tweet3": {
+      "content": "计算机行业周报：业绩真空期 精选景气高具有强业绩支撑板块"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "COMPANY_X(000066.SZ)：第二期股票期权激励计划获中国电子批复"
+    },
+    "tweet2": {
+      "content": "中国长城参与发起“中国功能游戏产业联盟”"
+    },
+    "tweet3": {
+      "content": "中国长城科技集团股份有限公司 关于第二期股票期权激励计划激励对象人员名单审核及 公示情况的说明"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "COMPANY_X(000066.SZ)：控股股东拟将所持11.88亿股股份无偿划转至中电有限 减持股份"
+    },
+    "tweet2": {
+      "content": "中国长城今日大宗交易成交14万股，成交价15.42元折价10.61%"
+    },
+    "tweet3": {
+      "content": "策略研究：2021 4000点见"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "策略专题报告：2021 4000点见"
+    },
+    "tweet2": {
+      "content": "融资客青睐11股，远达环保买入占比高达70.67%"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "计算机应用行业：系统盘点麒麟软件和统信软件的经营情况"
+    },
+    "tweet2": {
+      "content": "计算机行业研究周报：从宝马联手诚迈科技看汽车软件发展"
+    },
+    "tweet3": {
+      "content": "【华西计算机】信创动态跟踪：信创提速的信号：产业核心资产加快上市进程"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "计算机行业周报：大数据平台是新基建重点建设领域之一 关注低估值高成长板块"
+    },
+    "tweet2": {
+      "content": "信创产业再迎利好 飞腾发布新一代处理器芯片 一大氵皮终端产品在路上"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "中国软件(600536.SH)：中软系统拟转让所持迈普通信3120.94万股股份予中国长城 资产异常"
+    },
+    "tweet2": {
+      "content": "【提前看】30日公告精选：*ST夏利将撤销退市风险警示，中环环保今年净利预增45%至70%"
+    },
+    "tweet3": {
+      "content": "晚间重要公告2020年12月30日星期三"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(000066.SZ)拟收购迈普通信29.99%股份以加强自主安全领域布局"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：拟2.25亿元收购迈普通信29.99%股份"
+    },
+    "tweet6": {
+      "content": "中国软件：子公司1亿元出售迈普通信13.36%股份给关联方中国长城 资产异常"
+    },
+    "tweet7": {
+      "content": "COMPANY_X(000066)：腾锐D2000再创性能新高 飞腾出货高增发展可期"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "COMPANY_X(000066)：收购迈普通信股权 网信平台功能强化"
+    }
+  }
+}

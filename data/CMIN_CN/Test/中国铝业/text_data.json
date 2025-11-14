@@ -1,0 +1,635 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "广西科技厅调研生态铝产业链科技创新工作"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "COMPANY_X(02600.HK)将于10月27日召开董事会会议以审批第三季度业绩"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：计划于10月29日赎回“15中铝MTN003”"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "焦作万方原材料降价前三季净利预增11倍 霍斌出资7.58亿包揽定增结束控制权之争"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "COMPANY_X(02600.HK)：山东华宇13.5万吨电解铝产能指标拍卖成功拍卖价5.39亿元"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "香港恒生指数午盘涨0.78%，金融和原材料板块领涨"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "融资客青睐16股，海亮股份买入占比高达50.11%"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "COMPANY_X(601600.SH)：聘任朱润洲为公司总裁"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：总裁贺志辉辞职 董监高成员变化"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(02600-HK)总裁贺志辉书面辞呈"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：贺志辉辞去总裁职务，聘任朱润洲为总裁"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(02600.HK)聘任朱润洲为公司总裁"
+    },
+    "tweet6": {
+      "content": "海外信用评级汇总2020年10月21日星期三"
+    },
+    "tweet7": {
+      "content": "惠誉：首予中铝香港“A-”长期外币发行人评级，展望“稳定”"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "COMPANY_X：欧小武辞任公司监事 董监高成员变化"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(02600.HK)欧小武辞去监事职务 董监高成员变化"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：董事欧小武辞职 董监高成员变化"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "中国铝业第三季度实现净利润7.19亿元 同比增长1.46倍"
+    },
+    "tweet2": {
+      "content": "晚间重要公告2020年10月27日星期二"
+    },
+    "tweet3": {
+      "content": "降低成本“对冲”铝价低迷 中国铝业第三季度业绩大幅回暖"
+    },
+    "tweet4": {
+      "content": "中国铝业三季度净利润同比增长1.46倍 经营业绩强劲反弹"
+    },
+    "tweet5": {
+      "content": "犀牛财经晚报：七匹狼前三季净利降七成我爱我家营收降22%"
+    },
+    "tweet6": {
+      "content": "中国铝业公布三季报 前三季净利减少44.31% 盈利能力下降"
+    },
+    "tweet7": {
+      "content": "中国铝业三季度净利润达7.19亿元"
+    },
+    "tweet8": {
+      "content": "中国铝业三季度净利同比增长3倍，主产品降成本对冲价格下跌"
+    },
+    "tweet9": {
+      "content": "中国铝业前9个月股东应占净利同比减少44%至4.52亿元 盈利能力下降"
+    },
+    "tweet10": {
+      "content": "COMPANY_X(02600)前9个月股东应占净利同比减少44.31%至4.52亿元 盈利能力下降"
+    },
+    "tweet11": {
+      "content": "COMPANY_X(02600.HK)前三季度净利润4.52亿元同比减少44.31% 盈利能力下降"
+    },
+    "tweet12": {
+      "content": "COMPANY_X(601600.SH)：前三季净利降44.31%至4.52亿元 盈利能力下降"
+    },
+    "tweet13": {
+      "content": "COMPANY_X：前三季度净利同比下降44% 盈利能力下降"
+    },
+    "tweet14": {
+      "content": "山西省关于公布非煤矿山安全生产标准化二级企业的通知"
+    },
+    "tweet15": {
+      "content": "河南省公示2020年度第一批入库绿色矿山（摘录铝）"
+    },
+    "tweet16": {
+      "content": "港股投资日历：中国平安、中国铝业披露财报"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "【财报智读】COMPANY_X：第三季度归母净利润4.16亿元，同比增长300.57%"
+    },
+    "tweet2": {
+      "content": "【面包财报】COMPANY_X：第三季度归母净利润4.16亿元，同比增长300.57%"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：前三季度净利润同比减少44.31%"
+    },
+    "tweet4": {
+      "content": "有色金属早班车.10.28"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "COMPANY_X(601600)：成本控制提振业绩 盈利能力持续上升"
+    },
+    "tweet2": {
+      "content": "美银证券：升中国铝业(2600.HK)目标价至2.1港元评级“中性”"
+    },
+    "tweet3": {
+      "content": "A股市场破净股一览（10月29日）"
+    },
+    "tweet4": {
+      "content": "美银证券：中国铝业目标价升至2.1港元 维持中性评级"
+    },
+    "tweet5": {
+      "content": "美银证券：铝产品售价高企 升中国铝业（02600）目标价至2.1元"
+    },
+    "tweet6": {
+      "content": "中国铝业前三季度原铝产量276万吨 同比减少2.82%"
+    },
+    "tweet7": {
+      "content": "中国铝业三季度净利润同比增1.46倍 新产能投放提升盈利能力"
+    },
+    "tweet8": {
+      "content": "有色金属早班车.10.29"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "COMPANY_X：前三财季盈利4亿人民币，同比减少44.11%"
+    },
+    "tweet2": {
+      "content": "铝行业一周要闻回顾（10.26-10.30）"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "COMPANY_X(02600.HK)：山东华宇13.5万吨电解铝产能指标拍卖成功 拍卖价5.39亿元"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(02600)：云铝股份5.39亿元成功竞买山东华宇13.5万吨电解铝产能指标"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(601600.SH)：云铝股份成功竞买山东华宇13.5万吨电解铝产能指标"
+    },
+    "tweet4": {
+      "content": "降成本有效对冲价格减利 中国铝业三季度净利润同比大增"
+    },
+    "tweet5": {
+      "content": "高铝价让铝企普遍盈利，有企业同比增长1157%"
+    },
+    "tweet6": {
+      "content": "港股异动 | COMPANY_X(2600.HK)涨逾4% 券商看高公司股价至2.18港元"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "我国五大铜矿公司，你更看好谁？"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "COMPANY_X(02600)：每手“18中铝04”将于11月16日派息45元"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(02600)：每手“18中铝03”将于11月16日派息41.9元"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(02600.HK)“18中铝03”将于11月16日付息"
+    },
+    "tweet4": {
+      "content": "【异动股】COMPANY_X(02600-HK)涨8.74%"
+    },
+    "tweet5": {
+      "content": "有色板块拉涨，金属价格全面反弹，行业有望获基金增持"
+    },
+    "tweet6": {
+      "content": "有色金属板块持续走强，西部矿业、天齐锂业涨停"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "中国短期融资券及中期票据信用分析周报"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "COMPANY_X(02600.HK)拟调整公司本部部门机构设置"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "【方正有色|年度策略】疫后经济复苏曙光渐显，板块战略配置价值已现"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "中国铝业大涨5.07%，振幅5.07%"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "金融街下午茶2020年11月23日星期一"
+    },
+    "tweet2": {
+      "content": "A股收盘综述：上证指数涨逾1%收复3400点，资源股爆发"
+    },
+    "tweet3": {
+      "content": "周期股集体爆发：煤飞色舞行情上演 中国铝业大涨12%"
+    },
+    "tweet4": {
+      "content": "A股重回3400点！周期股大爆发，外资扫货30亿"
+    },
+    "tweet5": {
+      "content": "A股午盘综述：上证指数涨0.86%重回3400点，资源股爆发"
+    },
+    "tweet6": {
+      "content": "有色板块大幅拉升 中金岭南中国铝业等涨停"
+    },
+    "tweet7": {
+      "content": "有色、煤炭股强势拉升，中金岭南、COMPANY_X、西山煤电均涨停"
+    },
+    "tweet8": {
+      "content": "有色股涨幅扩大 中国铝业等多股涨停"
+    },
+    "tweet9": {
+      "content": "有色金属板块个股涨幅持续扩大，中国铝业涨逾11%"
+    },
+    "tweet10": {
+      "content": "有色金属板块走强 中国铝业H股涨幅扩大至11%"
+    },
+    "tweet11": {
+      "content": "【异动股】COMPANY_X(02600-HK)涨9.69%"
+    },
+    "tweet12": {
+      "content": "有色金属板块个股涨幅扩大，中国铝业涨近9%"
+    },
+    "tweet13": {
+      "content": "港股异动 | 铜铝板块均走强 COMPANY_X(02600)涨逾8% 中信称铜铝价格强势周期有望持续半年以上"
+    },
+    "tweet14": {
+      "content": "中信建投：铜铝价格有望继续上涨"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "东哥：龙头被杀不影响先锋军继续冲锋，继续持股待涨！"
+    },
+    "tweet2": {
+      "content": "【港股通】获美银上调目标价至3元 中国铝业升7.39%"
+    },
+    "tweet3": {
+      "content": "从跌破成本到盈利可观，高需求低库存助推电解铝价格持续上涨"
+    },
+    "tweet4": {
+      "content": "美银证券：上调紫金目标价至9港元，升江铜及中铝评级至买入"
+    },
+    "tweet5": {
+      "content": "中国铝业涨近9% 美银证券上调其目标价42%至3港元"
+    },
+    "tweet6": {
+      "content": "港股异动 | COMPANY_X(02600)涨超8% 美银证券上调明年铝价预测14% 上调中铝目标价42%"
+    },
+    "tweet7": {
+      "content": "解盘：资金继续流入，锂矿、IGBT、半导体、充电桩领涨"
+    },
+    "tweet8": {
+      "content": "【异动股】COMPANY_X(02600-HK)涨7%"
+    },
+    "tweet9": {
+      "content": "【行情】有色板块再度走高，怡球资源涨停，天齐锂业大涨8%，北方稀土、COMPANY_X、五矿稀土小幅跟涨"
+    },
+    "tweet10": {
+      "content": "电解铝价狂飙7个月，企业大喊给力！股价业绩还要齐飞多久？上下游分利不均已埋隐患"
+    },
+    "tweet11": {
+      "content": "港股盘前必读：京东健康将于周三招股，疫苗利好消息频传推高美股"
+    },
+    "tweet12": {
+      "content": "每日理财观察：银保监会发布《保险代理人监管规定》"
+    },
+    "tweet13": {
+      "content": "【东吴七点半】顺周期集体爆发 沪指重返3400点"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "东哥：二次集采吓崩医疗医药，周期股主动调整等待二次转机"
+    },
+    "tweet2": {
+      "content": "【异动股】COMPANY_X(02600-HK)涨3.2%"
+    },
+    "tweet3": {
+      "content": "融资客青睐13股，东诚药业买入占比高达50.38%"
+    },
+    "tweet4": {
+      "content": "港股盘前必读：NYMEX原油期货创八个多月以来新高，道指首次站上30000点关口"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "利润翻倍、深V行情、创3年新高：铝业景气度飙升 概念股已起飞"
+    },
+    "tweet2": {
+      "content": "铝行业格局悄然巨变 利润创五年之最"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "有色金属2021年展望：海外补库驱动顺周期逻辑 有色金属多点开花"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "COMPANY_X：2019年公司铝土矿自采矿比例约为40%"
+    },
+    "tweet2": {
+      "content": "收评：恒指跌2.06%本月累涨超9% 中海油跌14%美团跌7%"
+    },
+    "tweet3": {
+      "content": "有色金属行业更新：继续看好顺周期品种 看多锂价"
+    },
+    "tweet4": {
+      "content": "[互动]COMPANY_X：在雨季几内亚矿石出口会受到一定影响"
+    },
+    "tweet5": {
+      "content": "港股异动：中国铝业港股涨超7%，电解铝价格创近3年新高"
+    },
+    "tweet6": {
+      "content": "午评：港股恒指跌0.5% 内银股、B类医药股上涨石油股走低"
+    },
+    "tweet7": {
+      "content": "【港股通】获摩根士丹利升评级至增持 中国铝业AH股齐涨"
+    },
+    "tweet8": {
+      "content": "中国铝业获大摩上调至超配评级 现涨近8%"
+    },
+    "tweet9": {
+      "content": "港股异动丨中国铝业大涨超7%，创52周新高，获大摩上调评级"
+    },
+    "tweet10": {
+      "content": "快讯：中国铝业大涨超8% 此前获大摩上调评级至超配"
+    },
+    "tweet11": {
+      "content": "港股异动 | 电解铝价格创近三年新高 COMPANY_X(02600)获大摩上调至超配 现涨逾7%"
+    },
+    "tweet12": {
+      "content": "【异动股】COMPANY_X(02600-HK)涨7.39%"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "【异动股】COMPANY_X(02600-HK)跌3.27%"
+    },
+    "tweet2": {
+      "content": "港股盘前必读：美团第三季度净利润63.2亿元同比增374.1%"
+    },
+    "tweet3": {
+      "content": "恒指11月累涨超9%"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "外媒：中国的铝产业可能会给投资者带来更多好处"
+    },
+    "tweet2": {
+      "content": "金属板块走强，中国铝业涨超5%"
+    },
+    "tweet3": {
+      "content": "【有色金属*杨件】深度：电解铝：原料低廉，需求回暖，高盈利具备持续性"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "金融街下午茶2020年12月3日星期四"
+    },
+    "tweet2": {
+      "content": "恒指缩量收涨0.74%，小米集团涨超4%"
+    },
+    "tweet3": {
+      "content": "铝业股走弱 中国铝业午后跌逾5%"
+    },
+    "tweet4": {
+      "content": "港股异动 | COMPANY_X(02600)午后挫逾5%领跌铝业股 沪铝期货主力合约尾盘跌超3%"
+    },
+    "tweet5": {
+      "content": "【异动股】COMPANY_X(02600-HK)跌3.01%"
+    },
+    "tweet6": {
+      "content": "铝价逼近1.7万元，电解铝高利润有望延续"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "港股盘前必读：中国恒大连续两日共耗资约13亿港元增持恒大汽车"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "通货膨胀推高资产价格，今后中国最好的资产是优秀公司的股权"
+    },
+    "tweet2": {
+      "content": "麦格理：上调中国铝业(02600)目标价88.9%至3.4港元 预计明年上半年铝价将保持强劲"
+    },
+    "tweet3": {
+      "content": "券商晨会观点速递"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "有色金属2021年投资策略报告：配置顺周期 布局新能源"
+    },
+    "tweet2": {
+      "content": "分歧加剧！北上资金连续六周加仓，公募仓位降至年内低位"
+    },
+    "tweet3": {
+      "content": "中信建投2021年有色金属行业投资策略：配置顺周期，布局新能源"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "中国铝业急升近6% 麦格里升其目标价88.9%至3.4港元"
+    },
+    "tweet2": {
+      "content": "港股异动︱COMPANY_X(02600)急升逾5% 麦格里上调其目标价88.9%至3.4港元"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "临朐打造总投资16亿元的铝家居产业社区"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "美股异动 | 美股铝板块涨幅居前，COMPANY_X(ACH.US)涨超9%"
+    },
+    "tweet2": {
+      "content": "主题驱动股票池：电力紧张之下，两主线关注受益股！"
+    },
+    "tweet3": {
+      "content": "恒指收涨0.82%，医药、科技股强势上涨"
+    },
+    "tweet4": {
+      "content": "铜铝板块午后再度走强 中国铝业及江西铜业均涨逾6%"
+    },
+    "tweet5": {
+      "content": "【异动股】COMPANY_X(02600-HK)涨7.49%"
+    },
+    "tweet6": {
+      "content": "港股异动 | 铜铝板块午后再度走强 COMPANY_X(02600)、江西铜业股份(00358)均涨逾6%"
+    },
+    "tweet7": {
+      "content": "阿拉丁能源战略投资中国铝业旗下上市公司银星能源"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "COMPANY_X：计划于2021年1月20日赎回“16中铝业MTN001”"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "【异动股】COMPANY_X(02600-HK)跌6.38%"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "COMPANY_X(601600.SH)拟斥3.2亿元参购云铝股份非公开发行A股股票"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(02600-HK)拟不超3.2亿元认购云铝股份非公开发行A股股份"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(02600)拟认购不超过3.2亿元云铝股份非公开发行A股股份"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(02600.HK)拟参与认购不超3.2亿元云铝股份非公开发行A股股票"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(601600.SH)：拟斥不超3.2亿元参与云铝定增项目"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：拟3.2亿元参与认购云铝股份定增股票"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "“峰回路转”——国内经济复苏带动有色金属反弹"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "国内首条利用水泥熟料工艺技术处理赤泥的新型干法生产线点火！"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "周幺成:EIA原油利好 黄金走势慢涨格局收官分析"
+    },
+    "tweet2": {
+      "content": "消息称京东7FRESH换帅 郑锋将担任新负责人"
+    }
+  }
+}

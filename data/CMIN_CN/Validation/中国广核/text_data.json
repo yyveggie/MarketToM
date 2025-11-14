@@ -1,0 +1,343 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "中广核电力(01816.HK)委任尹恩刚为联席公司秘书及董事会秘书"
+    },
+    "tweet2": {
+      "content": "中广核电力(01816.HK)委任杨长利为董事长"
+    },
+    "tweet3": {
+      "content": "中广核电力(01816)选举陈遂为监事会主席"
+    },
+    "tweet4": {
+      "content": "中广核电力(01816)选举杨长利为公司董事长并担任法定代表人"
+    },
+    "tweet5": {
+      "content": "高立刚及蒋达进获委任为中广核电力(01816)执行董事"
+    },
+    "tweet6": {
+      "content": "8月A股解禁规模骤减，部分个股减持压力依然较大 减持股份"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "中国广核电力：监事会完成换届选举 董监高成员变化"
+    },
+    "tweet2": {
+      "content": "中国广核电力：董事会完成换届选举 董监高成员变化"
+    },
+    "tweet3": {
+      "content": "中国广核电力完成第三届董事会、监事会换 届选举：杨长利任董事长"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "【天风研究 · 固收】信用早早报（8月7日）"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "中广核电力(01816.HK)8月26日举行董事会会议以审批中期业绩"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "126股获券商买入评级 江苏神通目标涨幅达91.89%"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "电力行业动态跟踪报告：数说电力(2020年8月刊)"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "电力股为何逆市上涨，将复制2015年行情？（附股）"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "下周758亿市值限售股解禁，环比增加218.17% 解禁"
+    },
+    "tweet2": {
+      "content": "新潮能源：净利大降后又遇解禁 盈利能力下降"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "本周上市公司解禁市值773.77亿：中国广核占近三成 超50亿有5家 解禁"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：占总股本14.32%限售股将于8月27日上市流通 解禁"
+    },
+    "tweet3": {
+      "content": "中广核电力(01816)：72.29亿股A股限售股将于8月27日上市流通 解禁"
+    },
+    "tweet4": {
+      "content": "本周29股将解禁6股解禁比例超50% 解禁"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "中国核电(601985)：受益火电周期上升 中报业绩大幅改善"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "中国广核上半年营收同比增18% 累计上网电量增13%"
+    },
+    "tweet2": {
+      "content": "中广核电力(01816)审议通过股份回购实施方案 债权人有权自8月26日起申报债权"
+    },
+    "tweet3": {
+      "content": "中广核电力(01816.HK)拟回购不超10%H股"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(003816.SZ)半年度业绩增长稳定营收同比增长18.79%达315.07亿元"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：上半年净利润同比增长3.64%"
+    },
+    "tweet6": {
+      "content": "中广核电力(01816.HK)中期扣非净利同比增加6.8%至51.43亿元"
+    },
+    "tweet7": {
+      "content": "中广核电力(01816)中期归母净利润同比增3.64%至52.05亿元"
+    },
+    "tweet8": {
+      "content": "中广核电力：上半年本集团营业收入约为315.1亿元"
+    },
+    "tweet9": {
+      "content": "中国短期融资券及中期票据信用分析周报"
+    },
+    "tweet10": {
+      "content": "A股新代码来了！002不够用，中小板进入“003”时代"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "利率3.62% 中广核电力(01816)完成发行25亿元2020年度第一期中期票据"
+    },
+    "tweet2": {
+      "content": "中广核电力(01816.HK)完成发行25亿元中期票据"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：上半年营收同比增长18.79% 在运核电机组规模国内领先"
+    },
+    "tweet4": {
+      "content": "中国广核上半年扣非净利增长7% 运营管理保持世界先进水平"
+    },
+    "tweet5": {
+      "content": "A股早报2020年8月27日星期四"
+    },
+    "tweet6": {
+      "content": "中广核电力(01816-HK)半年盈利增4%"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "中广核电力(1816.HK)：上网电量逆市高增长，核电龙头价值再得确认"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：上半年净利润逾52亿元 同比增3.64%"
+    },
+    "tweet3": {
+      "content": "中广核电力(01816.HK)2020年中报点评：装机电量稳健增长，电价企稳利好估值，维持“买入”评级"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "A股中报出炉，5大主力资金重仓名单全披露"
+    },
+    "tweet2": {
+      "content": "【读财报】中国广核二季度利润加速增长 增持与回购提振市场信心"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "公募基金中报大数据全透视：三行业获增持！"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "国务院重启核电审批，关注产业链投资标的丨牛熊眼"
+    },
+    "tweet2": {
+      "content": "核电上市公司半年报发布——营收利润实现双升 在建项目稳步推进"
+    },
+    "tweet3": {
+      "content": "公募基金持股集中度大幅提升"
+    },
+    "tweet4": {
+      "content": "公募基金持股集中度大幅提升"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "富时罗素指数将调整成分股，国家重启核电建设，一文梳理核电概念股龙头"
+    },
+    "tweet2": {
+      "content": "中广核电力涨近5% 现报1.7港元"
+    },
+    "tweet3": {
+      "content": "港股异动 | 中广核电力(01816)涨近5% 国务院重启核电审批 有效总投资超700亿"
+    },
+    "tweet4": {
+      "content": "国务院重启核电工程审批，料刺激概念股"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "公用事业：国务院常务会议核准两大核电项目 核电审批迎来实质性重启"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：“浙江苍南三澳核电项目”由公司管理和建设"
+    },
+    "tweet3": {
+      "content": "中国核电中国广核上半年营收利润双升"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "十大基金公司 “最爱个股”曝光：易方达和交银、富国争抢科创板"
+    },
+    "tweet2": {
+      "content": "公用环保行业周报：核电重启利好运营商 飞灰控制试行规范发布"
+    },
+    "tweet3": {
+      "content": "公用事业行业周报：三代核电再获核准 核电运营商有望受益"
+    },
+    "tweet4": {
+      "content": "中广核电力(01816.HK)董事夏策明取得独立董事资格证书"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "总装机500MW！中广核新能源吉林分公司与三一重能签署战略合作协议"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "电气设备：十四五规划出台在即 能源领域有望迎来变革"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "COMPANY_X：目前公司业务以在运核电机组为主"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "COMPANY_X：将于10月15日召开“18广核电力MTN001”等债券持有人会议"
+    },
+    "tweet2": {
+      "content": "真正的战略配售基金，场内折价不香吗？"
+    },
+    "tweet3": {
+      "content": "中国广东核电集团：拟定于10月15日召开“07广核债”持有人会议"
+    },
+    "tweet4": {
+      "content": "险资年内举牌19次创近三年纪录，万能险“弹药”功能销声匿迹"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "险资为何扎堆扫货银行股？一特性或是主因"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

@@ -1,0 +1,473 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "创意信息(300366.SZ)携曙光信息产业于数据中心等层面进行业务合作探索"
+    },
+    "tweet2": {
+      "content": "福州市、COMPANY_X、福建电子三方签约 共推先进计算产业发展"
+    },
+    "tweet3": {
+      "content": "创意信息(300366.SZ)：与中科曙光签订深度合作协议"
+    },
+    "tweet4": {
+      "content": "计算机行业周报：数字货币、自动驾驶等出现积极信号 市场风险偏好回升"
+    },
+    "tweet5": {
+      "content": "中金：给予中科曙光跑赢行业评级受益服务器需求提升和产业链国产化"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "中科曙光与之江实验室签约 为数字浙江注入新动能"
+    },
+    "tweet2": {
+      "content": "科技行业-通信安防月报(10月)：5G 建设出现争议 视频物联保持成长"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "计算机行业周观点：中央政治局集体学习量子科技 深圳数字货币红包投入使用"
+    },
+    "tweet2": {
+      "content": "【行情】芯片股早盘活跃，寒武纪-U、光迅科技、振芯科技、北斗星通、COMPANY_X、华润微、纳思达、中芯国际-U集体录涨"
+    },
+    "tweet3": {
+      "content": "芯片股活跃，寒武纪-U、北斗星通、COMPANY_X、华润微、中芯国际-U普涨"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "晚间重要公告2020年10月22日星期四"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：成功入选全国第四批“1+X”职业技能等级证书试点"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "COMPANY_X(603019)：牵手阿里助力浙江数字化城市建设 服务器产业链有望受益"
+    },
+    "tweet2": {
+      "content": "35股获买入评级 最新:分众传媒"
+    },
+    "tweet3": {
+      "content": "A股早报2020年10月23日星期五"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "通信设备周报：运营商出现向好趋势 安防-云计算三季度景气度好"
+    },
+    "tweet2": {
+      "content": "计算机行业周观点：数字货币时代加速到来"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "中科曙光公布三季报 前三季净利增加29.79%"
+    },
+    "tweet2": {
+      "content": "晚间重要公告2020年10月27日星期二"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：前三季度净利同比增长29.79%"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(603019.SH)：前三季度净利升29.79%至3.24亿元"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：前三季度净利润同比增长29.79%"
+    },
+    "tweet6": {
+      "content": "明星基金经理最新持股大曝光！"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "【财报智读】COMPANY_X：2020年前三季度归母净利润3.24亿元，扣非净利润1.5亿元"
+    },
+    "tweet2": {
+      "content": "【面包财报】COMPANY_X：2020年前三季度归母净利润3.24亿元，扣非净利润1.5亿元"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：前三季度净利润同比增长29.79%"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "【华西计算机】-COMPANY_X|2020Q3点评：收入结构优化，业绩增速大幅提升"
+    },
+    "tweet2": {
+      "content": "【中金科技】COMPANY_X（603019.SH）：有望迎来信创产业“曙光”"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "【兴证计算机】2020Q3持仓整理：超配0.02%，环比Q2下降1.95个百分点"
+    },
+    "tweet2": {
+      "content": "【计算机-胡又文】COMPANY_X：业绩符合预期，业务向高毛利集中"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "COMPANY_X(603019.SH)：董事兼总裁历军减持期过半 尚未减持公司股份"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：董事兼总裁尚未减持股份，计划减持时间过半 拟减持股份"
+    },
+    "tweet3": {
+      "content": "A股收盘综述：指数平静下个股大分化，上证指数微红报收、中金公司首日涨31%"
+    },
+    "tweet4": {
+      "content": "HiHope AI软件与中科曙光天阔系列产品完成互认证"
+    },
+    "tweet5": {
+      "content": "【中金科技】通信安防月报（11月）：安防继续保持景气，海外云计算需求持续"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "COMPANY_X(603019.SH)披露A股定增报告书：产业投资基金、结构调整基金等在列"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "COMPANY_X(603019.SH)拟以28亿元闲置募集资金临时补充流动资金"
+    },
+    "tweet2": {
+      "content": "【光大金工|定增周报】中科曙光定增项目募资47.8亿，发行折扣空间较大"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "HiHope AI软件与中科曙光天阔系列产品完成互认证"
+    },
+    "tweet2": {
+      "content": "中科曙光定增：银华、财通基金旗下多只基金参与"
+    },
+    "tweet3": {
+      "content": "科技-通信设备周报：贸易摩擦情绪压力受美大选影响释放"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "【中金科技】云计算资本开支观察（3Q20）：2021年全球云资本开支预期上修"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "中科曙光获中国大数据与智能计算产业领军企业奖"
+    },
+    "tweet2": {
+      "content": "计算机应用：行业盘点CAD行业新动向 维持“增持”评级"
+    },
+    "tweet3": {
+      "content": "计算机行业周报：为什么我们看好工业软件-三维度深度剖析行业周报"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "计算机行业周观点：智能网联汽车大会召开 关注车联网领域投资机会"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "策略专题报告：冰火两重天的市场 机会何在？"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "COMPANY_X：与浦发银行开启战略合作"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "“乌镇之光”项目开工，将为重点实验室、政企等提供算力支持"
+    },
+    "tweet2": {
+      "content": "数字经济新引擎 “乌镇之光”项目开工"
+    },
+    "tweet3": {
+      "content": "计算机行业周报：智能汽车 鲶鱼搅动的一池春水"
+    },
+    "tweet4": {
+      "content": "计算机周观点：把握工业软件投资机会"
+    },
+    "tweet5": {
+      "content": "A股融资融券日报：两融余额减少5.84亿元（11月20日）"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "【中金科技】通信设备周报：光纤光缆集采价格发生边际改善"
+    },
+    "tweet2": {
+      "content": "世界互联网再次进入“乌镇时间”，新基建项目“乌镇之光”开工"
+    },
+    "tweet3": {
+      "content": "计算机行业周观点：关注物联网领域各场景应用的投资机遇"
+    },
+    "tweet4": {
+      "content": "计算机行业2021年投资策略：云化、智能化、国产化 驱动IT产业高景气"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "计算机行业2020年三季报综述：景气度逐步回升 工业互联网领衔业绩增长"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "计算机行业周报：世界互联网大会召开 数字赋能成为业界共识"
+    },
+    "tweet2": {
+      "content": "计算机周报：银行IT景气度不断提升 格局改善利好核心厂商"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "【新时代计算机】周报：“PK”体系进展超预期，2021年政策驱动明显"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "计算机行业投资策略：积极变化正在发生 拥抱科技创新浪潮"
+    },
+    "tweet2": {
+      "content": "安信证券：近期多项重要事件表明行业信创正在加速启动 推荐金山办公等"
+    },
+    "tweet3": {
+      "content": "【计算机-胡又文】行业信创风起云涌-计算机行业动态分析"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "一杯二锅头，笑得眼泪流！无悬念一字板，20亿资金还在排队抢"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "让数据中心“泡澡”降温？《中国液冷数据中心发展白皮书》发布"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "通信设备行业周报：光纤光缆集采价格发生边际改善"
+    },
+    "tweet2": {
+      "content": "《中国液冷数据中心发展白皮书》发布 业内吁形成“绿色风暴”"
+    },
+    "tweet3": {
+      "content": "数据中心液冷时代到来 首个液冷产业象限图出炉"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "电脑硬件板块走高，中国长城涨停"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "COMPANY_X：天津曙光政务云通过中央网信办安全评估"
+    },
+    "tweet2": {
+      "content": "金融街下午茶2020年12月16日星期三"
+    },
+    "tweet3": {
+      "content": "中科曙光在京发布“曙光安全可信城市云”"
+    },
+    "tweet4": {
+      "content": "MSCI明晟：将从全球可投资市场指数中删除10只中国公司股票"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "重磅！业内首个全国产云，中科曙光安全可信城市云发布"
+    },
+    "tweet2": {
+      "content": "每日理财观察：新版市场准入负面清单发布，四年缩减62%"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "【民生计算机|周观点】科技创新大势所趋，新基建、信创重要性再次凸显"
+    },
+    "tweet2": {
+      "content": "上云，就上全国产云"
+    },
+    "tweet3": {
+      "content": "博拉网络与中科曙光达成战略合作：推动国产IT解决方案数字化、智能化升级"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "计算机行业：创新中心呼之欲出 信创拐点或已临近"
+    },
+    "tweet2": {
+      "content": "【计算机】华为向开发者开放鸿蒙OS，关注信创板块――计算机行业周报――看好"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "策略研究：2021 4000点见"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "策略专题报告：2021 4000点见"
+    },
+    "tweet2": {
+      "content": "金山办公、中科曙光等成立先进操作系统创新中心（天津）有限公司"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "计算机应用行业：系统盘点麒麟软件和统信软件的经营情况"
+    },
+    "tweet2": {
+      "content": "【华西计算机】信创动态跟踪：信创提速的信号：产业核心资产加快上市进程"
+    },
+    "tweet3": {
+      "content": "【中金科技】通信设备周报：广电完成实缴"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "机构年末“血战到底”，高价股也撑不住了？"
+    },
+    "tweet2": {
+      "content": "牛人重仓｜银河基金重仓持有高达3560万股，中科曙光的超级计算机为5G推广铺路？"
+    },
+    "tweet3": {
+      "content": "计算机行业周报：大数据平台是新基建重点建设领域之一 关注低估值高成长板块"
+    },
+    "tweet4": {
+      "content": "信创产业再迎利好 飞腾发布新一代处理器芯片 一大氵皮终端产品在路上"
+    },
+    "tweet5": {
+      "content": "【中金科技】2021展望：择机布局云网/5G，重视物联网、统一通信和安防机会"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "博拉网络与中科曙光签署协议：打造领先的信息化新基建"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "计算机行业2021年度策略报告：迎接计算机长牛"
+    },
+    "tweet2": {
+      "content": "计算机全行业AI赋能系列深度之一-AI产业化：2021高景气主线"
+    },
+    "tweet3": {
+      "content": "MSCI宣布从各ACWI指数中删除中国公司证券最终名单"
+    }
+  }
+}

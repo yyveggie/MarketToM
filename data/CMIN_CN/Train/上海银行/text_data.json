@@ -1,0 +1,2878 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "巨丰原创：18年最后一周北上资金抄底银行板块"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "银行业的“春天”在哪里 流动性“红包”助推"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "北上资金年度透视：净流入3000亿，增持超千股"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "银行业周报:降准营造宽松环境,助力实体考验风控"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "金融地产研究部三循环周报:券商大幅跑赢大盘,地方新增债务提前下达-积极财政政策保障稳增长"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "网贷资金存管业务频频“闹分手”：互相“嫌弃”"
+    },
+    "tweet2": {
+      "content": "上海银行业初步建立科技金融专业化机制"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "长沙银行（601577）深度报告：政务小微双特色， 零售转型新引擎"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "【COMPANY_X】业绩平稳，ROE上行"
+    },
+    "tweet2": {
+      "content": "银行业周报:增厚拨备助力信贷放量,强化核销缓解不良隐忧"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "视房地资源为核心竞争力 主营贸易的上海三毛缘何执着卖房"
+    },
+    "tweet2": {
+      "content": "P2P资金银行存管荆棘路：声誉风险考量下又有银行终止与部分P2P合作 运营能力下降"
+    },
+    "tweet3": {
+      "content": "又一银行与多家P2P解约网贷行业出清仍在继续"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "上海银行去年营收同比增三成 拟出资30亿全资设立理财子公司"
+    },
+    "tweet2": {
+      "content": "上海银行去年不良率1.14% 拟出30亿设理财子公司"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：2018年净利润同比增长17.65% 拟发起设立理财子公司"
+    },
+    "tweet4": {
+      "content": "上海银行2018年营收438.88亿元 拟30亿元设立理财子公司"
+    },
+    "tweet5": {
+      "content": "上海银行发布2018年度业绩快报"
+    },
+    "tweet6": {
+      "content": "上海银行2018年利润大增17.65% 拟设立理财子公司"
+    },
+    "tweet7": {
+      "content": "上海银行2018年净利同比增18% 拟出资30亿全资设立理财子公司"
+    },
+    "tweet8": {
+      "content": "上海银行资产规模站上2万亿 拟全资发起设立“上银理财”"
+    },
+    "tweet9": {
+      "content": "上海银行业绩快报：2018年度净利润180亿元 同比增长逾17%"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "上海银行与P2P解约背后：声誉与盈利的利益权衡 倒逼网贷行业出清"
+    },
+    "tweet2": {
+      "content": "今日资金抢入六只强势股一览（2019年1月21日）"
+    },
+    "tweet3": {
+      "content": "COMPANY_X:业绩维持高水平增长,继续看好"
+    },
+    "tweet4": {
+      "content": "COMPANY_X:净利润增速走低,但不掩业绩靓丽"
+    },
+    "tweet5": {
+      "content": "上海银行苏州分行被罚66万：利用银承贴现虚增存款 其他违规处罚"
+    },
+    "tweet6": {
+      "content": "太平洋证券：将上海银行评级调低为\"增持\""
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "11家银行披露2018年业绩快报，城商行营收、净利润增速亮眼"
+    },
+    "tweet2": {
+      "content": "十家A股上市银行披露2018业绩快报 半数净利润增速高于2017年同期"
+    },
+    "tweet3": {
+      "content": "上海银行发布年度业绩快报 2018年净利润增长17.65%"
+    },
+    "tweet4": {
+      "content": "9家银行披露业绩快报：上海银行业绩增速居前"
+    },
+    "tweet5": {
+      "content": "9家A股上市银行业绩揭晓 中信等5家净利润增速回升"
+    },
+    "tweet6": {
+      "content": "上海银行2018年营收438.88亿 较上年同期增长32.49%"
+    },
+    "tweet7": {
+      "content": "7家银行“剧透”去年业绩：整体盈利稳步上扬"
+    },
+    "tweet8": {
+      "content": "COMPANY_X:营收亮眼,拨备增厚"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "金融地产研究部三循环周报:保险跑赢大盘,qfii额度翻倍,外资入场跃跃欲试"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "银行资产质量持续改善 今年利润增速料略放缓"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "银行业绩快报预暖，城商行净利润增速领跑"
+    },
+    "tweet2": {
+      "content": "异地持牌规范不搞“一刀切” 推动中小银行站到“同一起跑线”"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "郑州银行2018年净利润30亿元同比降29% 业绩增速垫底"
+    },
+    "tweet2": {
+      "content": "净利润增速最多创5年新高 上市银行苦尽甘来"
+    },
+    "tweet3": {
+      "content": "银行业周报:政策红利支持资本补充,防御价值仍是配置关键"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "2018年上市银行业绩快报密集披露"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "银行成绩单出炉 净利增不良降"
+    },
+    "tweet2": {
+      "content": "去向成谜的4.48亿中民投公司债"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "上海银行与上海博泰达成战略合作"
+    },
+    "tweet2": {
+      "content": "上海银行今日大宗交易成交69.75万股，成交价10.32元折价10.8%"
+    },
+    "tweet3": {
+      "content": "银行19年社融预测及对经济底的前瞻判断:从社融底到经济底,宽信用成效演绎进行时"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "20份上市银行业绩快报陆续抵达，五大行仍“雪藏”盈利数据"
+    },
+    "tweet2": {
+      "content": "20份上市银行业绩快报陆续抵达 五大行仍“雪藏”盈利数据"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "337家公司预计去年盈利"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "银行行业动态跟踪报告:四季度不良和关注类贷款均双降,息差环比延续回升"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "22家区域性银行金融科技战略研究"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "TCL集团成机构调研焦点 多个创投项目存上市潜力"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "上海银行两支行违规 均被责令整改共罚款150万元 其他违规处罚"
+    },
+    "tweet2": {
+      "content": "【申万交运】上港集团2018年报点评：扣非利润稳步增长，房地产开始释放业绩"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "【中信建投银行杨荣】《中国银行业理财市场报告（2018年）》简评：《理财转型平稳进行，资金空转基本解决》"
+    },
+    "tweet2": {
+      "content": "上海银行静安支行被罚100万：违规进行贷款支付管理 其他违规处罚"
+    },
+    "tweet3": {
+      "content": "上海银行杨浦支行被罚50万：未采用有效方式跟踪贷款 其他违规处罚"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "金融：把握不确定性中的确定性投资机会 荐9股"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day65": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day66": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day67": {
+    "tweet1": {
+      "content": "银行盈利能力仍待改善"
+    },
+    "tweet2": {
+      "content": "社融超预期M2创新高 看好银行股 六股布局良机"
+    }
+  },
+  "day68": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day69": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day70": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day71": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day72": {
+    "tweet1": {
+      "content": "COMPANY_X(601229.SH)2018年度净利润升17.65%至180.34亿元 拟10转3派4.5元"
+    },
+    "tweet2": {
+      "content": "上海银行2018年拨备前利润大增39.71% 零售业务增长68%"
+    },
+    "tweet3": {
+      "content": "A股头条之上市公司公告精选（4.20）"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：2018年净利润同比增17.65%"
+    },
+    "tweet5": {
+      "content": "上海银行2018年度报告发布：“精品银行”战略引领 新一轮规划开局良好"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：2018年净利同比增18% 拟10转3派4.5元"
+    }
+  },
+  "day73": {
+    "tweet1": {
+      "content": "【银行】601229*COMPANY_X:息差走阔促营收表现亮眼，不良资产处置力度加大*增持"
+    }
+  },
+  "day74": {
+    "tweet1": {
+      "content": "COMPANY_X:息差持续上行,零售贡献提升"
+    },
+    "tweet2": {
+      "content": "城商行零售巨头崛起：这家银行互联网消费贷翻倍增长"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：推进有特色的普惠金融服务"
+    },
+    "tweet4": {
+      "content": "COMPANY_X:零售快速转型带动息差跃升,未来夯实基础继续前行"
+    }
+  },
+  "day75": {
+    "tweet1": {
+      "content": "247股获券商买入评级 华夏幸福目标涨幅达57.09%"
+    }
+  },
+  "day76": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day77": {
+    "tweet1": {
+      "content": "上海银行2018年业绩表现亮眼 内控疏漏待解"
+    }
+  },
+  "day78": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day79": {
+    "tweet1": {
+      "content": "这个行业强势捞金，企业一年净赚2977亿"
+    }
+  },
+  "day80": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day81": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day82": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day83": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day84": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day85": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day86": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day87": {
+    "tweet1": {
+      "content": "欲冲击港股IPO？还呗注册香港VIE公司 信用卡代偿业务强劲"
+    }
+  },
+  "day88": {
+    "tweet1": {
+      "content": "20家银行信用卡业务解析：逾期、不良率如何"
+    }
+  },
+  "day89": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day90": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day91": {
+    "tweet1": {
+      "content": "助力长三角一体化，上海银行提供专项授信不低于200亿"
+    },
+    "tweet2": {
+      "content": "对长三角一体化示范区专项授信不低于200亿！上海银行为长三角量身打造金融措施"
+    }
+  },
+  "day92": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day93": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day94": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day95": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day96": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day97": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day98": {
+    "tweet1": {
+      "content": "A股银行资产质量榜单出炉：宁波、南京等5强银行高居榜首"
+    }
+  },
+  "day99": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day100": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day101": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day102": {
+    "tweet1": {
+      "content": "COMPANY_X：拟给予尚诚消费金融公司60亿元授信额度"
+    }
+  },
+  "day103": {
+    "tweet1": {
+      "content": "尚诚消费金融获上海银行60亿授信"
+    }
+  },
+  "day104": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day105": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day106": {
+    "tweet1": {
+      "content": "COMPANY_X：2018年度股东大会决议公告"
+    },
+    "tweet2": {
+      "content": "城商行资产投向大盘点"
+    }
+  },
+  "day107": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day108": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day109": {
+    "tweet1": {
+      "content": "7家上市城商行个人消费贷增速超100% 上海银行等占比过半超住房贷款"
+    }
+  },
+  "day110": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day111": {
+    "tweet1": {
+      "content": "沪港通十大成交活跃股排名（6月21日）"
+    }
+  },
+  "day112": {
+    "tweet1": {
+      "content": "COMPANY_X：2018年年度权益分派实施公告"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：“上银优1”强制转股价格将自7月3日起由12.95元/股调整为9.96元/股"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：年报推10转3派4.5元 股权登记日7月2日"
+    },
+    "tweet4": {
+      "content": "[快讯]上海银行公布2018年年度分红方案"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(601229.SH)拟每10股派4.5元 股权登记日7月2日"
+    },
+    "tweet6": {
+      "content": "COMPANY_X(601229.SH)拟每10股派4.5元及转增3股 股权登记日为7月2日"
+    }
+  },
+  "day113": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day114": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day115": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day116": {
+    "tweet1": {
+      "content": "COMPANY_X：触发稳定股价措施 将制定稳定股价方案"
+    },
+    "tweet2": {
+      "content": "上海银行首创“资产支持票据+风险缓释凭证” 成功探索资产支持票据新模式 打开民企直接债务融资通道"
+    },
+    "tweet3": {
+      "content": "科创板热闹登台 资管产品如何参与大戏？"
+    }
+  },
+  "day117": {
+    "tweet1": {
+      "content": "科创金融开上快车道，这家银行去年为科技企业贷款增速达38%"
+    },
+    "tweet2": {
+      "content": "4家银行触发股价稳定警报 股价低迷无碍中小行上市“补血”"
+    }
+  },
+  "day118": {
+    "tweet1": {
+      "content": "上海银行全球排名升至第68位"
+    }
+  },
+  "day119": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day120": {
+    "tweet1": {
+      "content": "上海银行排名“2019全球银行1000强”第68位"
+    }
+  },
+  "day121": {
+    "tweet1": {
+      "content": "COMPANY_X：董事会五届十三次临时会议决议公告"
+    },
+    "tweet2": {
+      "content": "公告精选：焦点科技上半年净利预增180%-250%；上海银行三名股东拟合计增持超2亿元"
+    },
+    "tweet3": {
+      "content": "上海银行披露稳定股价措施 持股5%以上的股东将增持公司股票"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(601229.SH)触发稳定股价措施启动条件 3股东合计增持27.22%股份"
+    },
+    "tweet5": {
+      "content": "上海银行股东拟增持合计不少于2亿元以稳定股价"
+    },
+    "tweet6": {
+      "content": "上海银行披露稳定股价措施 三名股东拟合计增持超2亿元"
+    },
+    "tweet7": {
+      "content": "创新绿色金融产品与服务，上海银行倾力支持节能环保企业"
+    }
+  },
+  "day122": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day123": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day124": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day125": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day126": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day127": {
+    "tweet1": {
+      "content": "鏖战科创板：这家城商行针对半数储备项目做营销推进，行长要下属每天学习交易所问询材料 问询"
+    }
+  },
+  "day128": {
+    "tweet1": {
+      "content": "上海银行将获股东TCL集团增持 近期披露了稳定股价措施"
+    },
+    "tweet2": {
+      "content": "上海银行美团联名信用卡正式上市"
+    }
+  },
+  "day129": {
+    "tweet1": {
+      "content": "TCL集团获准对上海银行增持，持股将突破5%形成举牌"
+    },
+    "tweet2": {
+      "content": "上海银行获TCL增持股票5%以上 近日曾启稳定股价措施"
+    },
+    "tweet3": {
+      "content": "深化布局金融领域 TCL集团增持上海银行获批"
+    },
+    "tweet4": {
+      "content": "TCL增持上海银行股票获批"
+    },
+    "tweet5": {
+      "content": "上海银保监下发6张罚单 兴业银行、上海银行等领罚 金融监管处罚"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：上海银保监局同意TCL集团增持公司股份"
+    },
+    "tweet7": {
+      "content": "TCL集团增持上海银行获批 期内增持后比例不得超6.5%"
+    }
+  },
+  "day130": {
+    "tweet1": {
+      "content": "上海银行今日大宗交易成交35万股，成交价8.82元折价0.9%"
+    },
+    "tweet2": {
+      "content": "TCL抄底上海银行 持股比例拟提升至5%以上"
+    },
+    "tweet3": {
+      "content": "TCL集团举牌上海银行：获银保监局批准 目前为第四大股东"
+    },
+    "tweet4": {
+      "content": "TCL集团增持上海银行 产融结合提升协同效应"
+    },
+    "tweet5": {
+      "content": "TCL集团(000100.SZ)增持上海银行获批 有效期内增持后持股比例不超6.5%"
+    },
+    "tweet6": {
+      "content": "TCL集团：上海银保监局同意公司增持上海银行股票至5%（含）以上"
+    },
+    "tweet7": {
+      "content": "上海银行深化服务掘金“科创金融”"
+    }
+  },
+  "day131": {
+    "tweet1": {
+      "content": "TCL举牌上海银行获批，日前再度触发稳定股价措施"
+    },
+    "tweet2": {
+      "content": "上海银行被举牌：破净率约40% 遭家电巨头TCL抄底"
+    },
+    "tweet3": {
+      "content": "上海银行副行长崔庆军： 金融科技助推风险管理转型升级"
+    }
+  },
+  "day132": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day133": {
+    "tweet1": {
+      "content": "上银基金“集体跳槽”风波后续大股东上海银行点将刘小鹏"
+    }
+  },
+  "day134": {
+    "tweet1": {
+      "content": "【申万宏源金融】上海银行点评：不良率环比微降，ROE持续回升"
+    },
+    "tweet2": {
+      "content": "上海银行业绩快报：2019上半年净利润251.51亿元，同比增长27.35%"
+    },
+    "tweet3": {
+      "content": "上海银行半年业绩：净利润同比增14% 存贷款占比均提高"
+    },
+    "tweet4": {
+      "content": "上海银行2019年上半年净利润107.14亿元各项业务稳健发展"
+    },
+    "tweet5": {
+      "content": "加码五大业务板块资源投入，上海银行上半年营收同比大增逾27%"
+    },
+    "tweet6": {
+      "content": "上海银行发布半年报快报：营收、盈利持续快速增长"
+    },
+    "tweet7": {
+      "content": "COMPANY_X：上半年净利107亿元 同比增14%"
+    },
+    "tweet8": {
+      "content": "COMPANY_X(601229.SH)披露半年度业绩快报 净利润升14.32%至107.14亿元"
+    },
+    "tweet9": {
+      "content": "COMPANY_X：上半年净利润107.14亿元，同比增长14.32%"
+    },
+    "tweet10": {
+      "content": "20家上市城商行大盘点：个人信贷平均余额破1100亿"
+    }
+  },
+  "day135": {
+    "tweet1": {
+      "content": "上海银行上半年营收净利实现双位数增长 不良率较上年末上升0.04个百分点"
+    },
+    "tweet2": {
+      "content": "COMPANY_X、桑坦德银行与海尔智家签署“供应链全球战略合作协议”"
+    },
+    "tweet3": {
+      "content": "九家上市银行中期业绩快报出炉，营收净利均迎来双增长"
+    }
+  },
+  "day136": {
+    "tweet1": {
+      "content": "52股获券商买入评级 一心堂目标涨幅达76.13%"
+    },
+    "tweet2": {
+      "content": "周五机构一致看好的七大金股（07.26）"
+    }
+  },
+  "day137": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day138": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day139": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day140": {
+    "tweet1": {
+      "content": "上海银行稳定股价实施进展"
+    },
+    "tweet2": {
+      "content": "贵阳银行出手稳定股价：持股5%以上股东及高管等共同增持"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：股东上港集团累计增持金额约2707万元"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：上港集团近日增持292.5万股 耗资2707万元"
+    }
+  },
+  "day141": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day142": {
+    "tweet1": {
+      "content": "COMPANY_X(601229)与瑞金医院签订智慧医疗全面合作协议"
+    }
+  },
+  "day143": {
+    "tweet1": {
+      "content": "COMPANY_X(601229.SH)：刘济南辞任监事会副主席 董监高成员变化"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：监事会副主席辞任"
+    },
+    "tweet3": {
+      "content": "圆桌｜上海银行业如何持续建立符合科创企业特点的金融模式？"
+    },
+    "tweet4": {
+      "content": "上海银行股东增持步调不一 上港集团斥资2707万元完成一半任务"
+    }
+  },
+  "day144": {
+    "tweet1": {
+      "content": "如何帮忙孵化科创板后备企业？上海银行业这样说"
+    },
+    "tweet2": {
+      "content": "银行业全力支持上海科创中心建设"
+    }
+  },
+  "day145": {
+    "tweet1": {
+      "content": "为新股供应常态化 如何孵化科创板后备企业？"
+    }
+  },
+  "day146": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day147": {
+    "tweet1": {
+      "content": "同一天被TCL举牌、西班牙桑坦德银行增持，上海银行怎么了？"
+    },
+    "tweet2": {
+      "content": "TCL举牌持股达5%，二三股东相继驰援，上海银行股价能否获救"
+    },
+    "tweet3": {
+      "content": "【申万宏源金融】上海银行点评：两大股东增持，基本面确定性强"
+    },
+    "tweet4": {
+      "content": "【中投早知道】2019-08-13"
+    },
+    "tweet5": {
+      "content": "上海银行获TCL集团举牌 仍有进一步增持空间"
+    },
+    "tweet6": {
+      "content": "12日公告精选：珠海国资委同意格力股权转让公开征集受让方方案；TCL集团举牌上海银行，持股达5%"
+    },
+    "tweet7": {
+      "content": "TCL集团(000100.SZ)举牌上海银行 将继续增持进一步增强金融服务业务布局"
+    },
+    "tweet8": {
+      "content": "公告精选：珠海国资委同意格力集团转让格力电器15%股权 上海银行获TCL集团举牌"
+    },
+    "tweet9": {
+      "content": "12日晚公告精编丨TCL集团举牌上海银行，*ST华信面临退市"
+    },
+    "tweet10": {
+      "content": "TCL集团增持并举牌上海银行，持股比例达5%"
+    },
+    "tweet11": {
+      "content": "COMPANY_X(601229.SH)：桑坦德银行增持2400万元的股份"
+    },
+    "tweet12": {
+      "content": "TCL集团增持157.29万股上海银行 持股达5%"
+    },
+    "tweet13": {
+      "content": "COMPANY_X(601229.SH)获TCL集团举牌 持股升至5%"
+    },
+    "tweet14": {
+      "content": "COMPANY_X：获TCL集团举牌，持股达5%"
+    }
+  },
+  "day148": {
+    "tweet1": {
+      "content": "8月13日有35家公司获重要股东增减持 坚瑞沃能已被连续减持50次 减持股份"
+    },
+    "tweet2": {
+      "content": "TCL回应增持上海银行：并非举牌概念"
+    },
+    "tweet3": {
+      "content": "产融结合双轮驱动 TCL上半年净利润同比增长近七成"
+    },
+    "tweet4": {
+      "content": "TCL金融业务半年赚4亿，增持上海银行布局互联网金融"
+    },
+    "tweet5": {
+      "content": "近七成银行股破净，这么“便宜”的银行股要不要买？怎么挑？"
+    },
+    "tweet6": {
+      "content": "TCL集团、桑坦德银行同日增持上海银行，原因为何？"
+    },
+    "tweet7": {
+      "content": "TCL集团李东生：各项经营指标优于同业就是想不到为何股价会那么低"
+    },
+    "tweet8": {
+      "content": "TCL回应增持上海银行：股东回报率好 有助于现金流"
+    },
+    "tweet9": {
+      "content": "为稳定股价？上海银行同日获两大股东增持"
+    },
+    "tweet10": {
+      "content": "业绩向好无奈股价持续低迷 多家破净银行启动股价“维稳”"
+    },
+    "tweet11": {
+      "content": "TCL集团回应举牌上海银行等问题"
+    },
+    "tweet12": {
+      "content": "TCL总裁回应举牌上海银行:经营稳健 股东回报率也好"
+    },
+    "tweet13": {
+      "content": "最新公告透露利好 15只个股有望爆发（08.13）"
+    },
+    "tweet14": {
+      "content": "TCL集团成为上海银行第4大股东 将视情况继续增持"
+    },
+    "tweet15": {
+      "content": "破净股数量仍处历史高位 四行业成重灾区"
+    },
+    "tweet16": {
+      "content": "两大股东同时增持上海银行"
+    }
+  },
+  "day149": {
+    "tweet1": {
+      "content": "不满股价太低 TCL董事长一句话公司市值应声暴增20亿"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(601229.SH)变更注册资本获监管机构核准 其他违规处罚"
+    },
+    "tweet3": {
+      "content": "上海银保监局同意上海银行变更注册资本"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(601229.SH)发行不超200亿元二级资本债券获得上海银保监局批准"
+    },
+    "tweet5": {
+      "content": "上海银行获桑坦德银行增持2400万 同日TCL集团持股比例升至5%"
+    },
+    "tweet6": {
+      "content": "TCL李东生的困惑：华星光电的竞争力未被看到"
+    }
+  },
+  "day150": {
+    "tweet1": {
+      "content": "上海银行注册资本增至142亿元 200亿元二级资本债也获批"
+    },
+    "tweet2": {
+      "content": "两市一成个股破净 关注业绩增长+股东增持的错杀股"
+    },
+    "tweet3": {
+      "content": "上海银行注册资本提升三成至142亿"
+    }
+  },
+  "day151": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day152": {
+    "tweet1": {
+      "content": "TCL集团“改弦易辙”锁定半导体显示"
+    }
+  },
+  "day153": {
+    "tweet1": {
+      "content": "A股共发生126宗大宗交易成交52.77亿元（8月20日）"
+    }
+  },
+  "day154": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day155": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day156": {
+    "tweet1": {
+      "content": "上海银行半年“成绩单”：净利润107.14亿元，信用卡交易额大增20%"
+    },
+    "tweet2": {
+      "content": "上海银行半年业绩：净利润增长14% 零售收入大增56%"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：董事会五届十一次会议决议公告"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(601229.SH)董事会同意向尚诚消费金融公司增资3.8亿元"
+    },
+    "tweet5": {
+      "content": "上海银行战略转型初答卷：零售AUM大增，对公板块普惠、科创、供应链多点开花"
+    },
+    "tweet6": {
+      "content": "上海银行上半年净利润同比增长14.32%"
+    },
+    "tweet7": {
+      "content": "上海银行半年报亮眼：零售对公齐发力，战略转型见成效"
+    },
+    "tweet8": {
+      "content": "COMPANY_X：上半年净利107亿元 同比增14.32%"
+    },
+    "tweet9": {
+      "content": "COMPANY_X(601229.SH)半年度净利润升14.32%至107.14亿元 不良贷款率为1.18%"
+    }
+  },
+  "day157": {
+    "tweet1": {
+      "content": "【上市银行半年报解读】上半年银行业绩总体向好　资产质量持续向好　营收、净利增长快"
+    },
+    "tweet2": {
+      "content": "14家上市银行涉房贷款:上半年平稳增长 下半年将收紧"
+    },
+    "tweet3": {
+      "content": "理财收益再创年内新低VS股息率飙升！买银行理财产品不如买银行股"
+    },
+    "tweet4": {
+      "content": "COMPANY_X:受益于宽资金面息差改善,关注资产质量变化"
+    }
+  },
+  "day158": {
+    "tweet1": {
+      "content": "苏银转债：被低估的优质零售银行转债"
+    },
+    "tweet2": {
+      "content": "城商行“老二”追赶：现金贷余额过千亿 60亿金援旗下公司"
+    }
+  },
+  "day159": {
+    "tweet1": {
+      "content": "应对净息差收窄，众银行拓展非息收入"
+    },
+    "tweet2": {
+      "content": "COMPANY_X:息差走阔不良微降,ROE回升彰显盈利能力逐步增强"
+    }
+  },
+  "day160": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day161": {
+    "tweet1": {
+      "content": "银行行业周报:金融科技发展规划落地,央行调整个人房贷利率政策"
+    }
+  },
+  "day162": {
+    "tweet1": {
+      "content": "上市银行半年新增逾万亿房贷 涉房贷款大概率从紧"
+    }
+  },
+  "day163": {
+    "tweet1": {
+      "content": "独家：微众银行“微粒贷”42家合作银行放款余额（附名单）"
+    }
+  },
+  "day164": {
+    "tweet1": {
+      "content": "上半年信贷资源流向哪儿？对房地产仍是真爱，按揭占比降至三成"
+    }
+  },
+  "day165": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day166": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day167": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day168": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day169": {
+    "tweet1": {
+      "content": "央地联手｜上海银行携手中铝集团深入探索供应链金融"
+    }
+  },
+  "day170": {
+    "tweet1": {
+      "content": "上海银行今日大宗交易成交26万股，成交价9.33元溢价0.0%"
+    }
+  },
+  "day171": {
+    "tweet1": {
+      "content": "继今年最大350万罚单后 上海银行再开第九张80万罚单 金融监管处罚"
+    }
+  },
+  "day172": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day173": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day174": {
+    "tweet1": {
+      "content": "上海银保监局核准尚诚消费金融2名副总经理任职资格"
+    }
+  },
+  "day175": {
+    "tweet1": {
+      "content": "上海银行千亿授信支持自贸新片区高质量发展"
+    },
+    "tweet2": {
+      "content": "监管核准新增2名副总经理 尚诚消费金融近来动作频频"
+    }
+  },
+  "day176": {
+    "tweet1": {
+      "content": "从银行、保险到证券 47岁国泰君安新掌门的跨界之路"
+    }
+  },
+  "day177": {
+    "tweet1": {
+      "content": "COMPANY_X(601229.SH)注册资本由109.28亿元增至142.07亿元 已完成工商变更登记"
+    },
+    "tweet2": {
+      "content": "上海银行等4家城商行消费贷余额破千亿 两极分化明显"
+    }
+  },
+  "day178": {
+    "tweet1": {
+      "content": "COMPANY_X：股东上海联和投资增持550.0045万股"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(601229.SH)获联和投资增持4964万元的股份"
+    },
+    "tweet3": {
+      "content": "江苏银保监局一日开出5罚单，4机构领罚近200万元 金融监管处罚"
+    },
+    "tweet4": {
+      "content": "金融板块集体拉升"
+    }
+  },
+  "day179": {
+    "tweet1": {
+      "content": "9月26日有92家公司获重要股东增减持 延安必康已被连续减持132次 减持股份"
+    },
+    "tweet2": {
+      "content": "财政部又发大消息：银行不准藏利润 银行股逆市狂拉"
+    }
+  },
+  "day180": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day181": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day182": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day183": {
+    "tweet1": {
+      "content": "COMPANY_X：陈戌源先生因工作变动，辞去本公司非执行董事职务 董监高成员变化"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(601229.SH)：陈戌源辞任非执董 董监高成员变化"
+    }
+  },
+  "day184": {
+    "tweet1": {
+      "content": "无锡银行稳定股价进展：9名高管增持逾48万股耗资258万"
+    },
+    "tweet2": {
+      "content": "三季报行情打响 这几股市盈率将降至个位数"
+    }
+  },
+  "day185": {
+    "tweet1": {
+      "content": "拨备计提新规夯实银行资产质量"
+    }
+  },
+  "day186": {
+    "tweet1": {
+      "content": "低位举牌风生水起，8月以来已有十多家公司被扫货"
+    }
+  },
+  "day187": {
+    "tweet1": {
+      "content": "恒泰MVM模型剖析银行股"
+    },
+    "tweet2": {
+      "content": "银行板块尾盘小幅上冲"
+    }
+  },
+  "day188": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day189": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day190": {
+    "tweet1": {
+      "content": "四季度银行股配置价值凸显 6股投资正当时"
+    }
+  },
+  "day191": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day192": {
+    "tweet1": {
+      "content": "COMPANY_X(601229.SH)发行不超200亿元二级资本债券获中国人民银行批准"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：发行不超200亿元二级资本债，获央行同意"
+    }
+  },
+  "day193": {
+    "tweet1": {
+      "content": "COMPANY_X(601229.SH)：杜娟董事任职资格获监管机构核准"
+    }
+  },
+  "day194": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day195": {
+    "tweet1": {
+      "content": "上海银行前三季度净利润163.59亿 超70亿股将于下月解禁 解禁"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：前三季度净利润163.59亿元 资本充足率略有下行"
+    },
+    "tweet3": {
+      "content": "上海银行三季度业绩保持高增长 零售增速明显放缓"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：前三季实现净利164亿元 同比增长15%"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：前三季度净利润同比增14.59%"
+    },
+    "tweet6": {
+      "content": "上海银行前三季度业绩持续向好 经营发展亮点纷呈 三大股东接连增持"
+    },
+    "tweet7": {
+      "content": "COMPANY_X(601229.SH)拟发行不超200亿元的A股可转债"
+    },
+    "tweet8": {
+      "content": "COMPANY_X：前三季度净利润163.59亿 同比增长14.59%"
+    },
+    "tweet9": {
+      "content": "COMPANY_X：前三季度净利163.59亿元 同比增14.59%"
+    }
+  },
+  "day196": {
+    "tweet1": {
+      "content": "【上海银行季报点评】业绩较好，转债起航"
+    }
+  },
+  "day197": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day198": {
+    "tweet1": {
+      "content": "上海银行年内债承规模突破1000亿"
+    },
+    "tweet2": {
+      "content": "15家上市银行前三季净利增6.6%"
+    }
+  },
+  "day199": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day200": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day201": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day202": {
+    "tweet1": {
+      "content": "COMPANY_X：“18永泰集团SCP001”违约后续 未按时兑付本息"
+    }
+  },
+  "day203": {
+    "tweet1": {
+      "content": "井贤栋话开放：外国人用支付宝，请进来"
+    },
+    "tweet2": {
+      "content": "支付宝携手上海银行 外国人在中国可申请电子消费卡"
+    }
+  },
+  "day204": {
+    "tweet1": {
+      "content": "支付宝和上海银行合作推出专用小程序 外国人来中国也能用支付宝了"
+    }
+  },
+  "day205": {
+    "tweet1": {
+      "content": "上海银行助力G60科创走廊先进制造业高质量发展"
+    }
+  },
+  "day206": {
+    "tweet1": {
+      "content": "又逢解禁：上海银行股价会不会二度出现“黄金坑”？"
+    },
+    "tweet2": {
+      "content": "33家上市银行三季报核心指标排名：只有这4家不良率上升"
+    },
+    "tweet3": {
+      "content": "33家上市银行三季报核心指标排名：只有这4家不良率上升 资产异常"
+    }
+  },
+  "day207": {
+    "tweet1": {
+      "content": "上海银行将迎65亿首发限售股解禁，上市中小行解禁陆续到来 解禁"
+    },
+    "tweet2": {
+      "content": "上海银行限售股上市流通 98%为原始股和社保转持国有股 解禁"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：65亿股限售股11月18日解禁 解禁"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(601229.SH)：65.08亿股限售股16日解禁 解禁"
+    },
+    "tweet5": {
+      "content": "单季利润问鼎城商行：上海银行限售股解禁是否再现“黄金坑”？"
+    }
+  },
+  "day208": {
+    "tweet1": {
+      "content": "COMPANY_X(601229.SH)完成发行200亿元二级资本债券"
+    },
+    "tweet2": {
+      "content": "征信“莫名其妙”被查询！你的征信报告被查了多少次？查询次数过多可能影响银行信贷审批"
+    },
+    "tweet3": {
+      "content": "上海银行低开0.11% 65亿股限售股18日上市流通 解禁"
+    },
+    "tweet4": {
+      "content": "分红比例增幅跑出两位数 上海银行构建价值创造共同体"
+    }
+  },
+  "day209": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day210": {
+    "tweet1": {
+      "content": "下周1486亿市值限售股解禁，环比增加411.66% 解禁"
+    },
+    "tweet2": {
+      "content": "犀牛财经晚报：上海银行浦发银行被央行处罚 国产Model3将交付 其他违规处罚"
+    },
+    "tweet3": {
+      "content": "因违反支付业务规定 上海银行被罚没超352万元 金融监管处罚"
+    },
+    "tweet4": {
+      "content": "COMPANY_X、浦发等机构被央行处罚 合计罚金近800万 金融监管处罚"
+    },
+    "tweet5": {
+      "content": "上海银行被罚没352.56万元：反支付业务规定 金融监管处罚"
+    }
+  },
+  "day211": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day212": {
+    "tweet1": {
+      "content": "上海银行与北京经济技术开发区签署战略合作协议 200亿元综合授信支持制造业高质量发展"
+    }
+  },
+  "day213": {
+    "tweet1": {
+      "content": "上海银行股份有限公司19华强MTN001信用风险缓释凭证预配售情况公告"
+    }
+  },
+  "day214": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day215": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day216": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day217": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day218": {
+    "tweet1": {
+      "content": "破净银行股投资价值几何"
+    }
+  },
+  "day219": {
+    "tweet1": {
+      "content": "“破净”无碍倾心者 机构憧憬银行股估值修复"
+    }
+  },
+  "day220": {
+    "tweet1": {
+      "content": "上海银行与成都天府新区签订战略合作协议 加强金融领域合作"
+    },
+    "tweet2": {
+      "content": "上海银行与四川天府新区成都管理委员会签署战略合作协议"
+    },
+    "tweet3": {
+      "content": "大金融板块早盘逆势拉升 股市风向标异动意味何在？"
+    }
+  },
+  "day221": {
+    "tweet1": {
+      "content": "中证指数公司：调整上证50、上证180等指数样本股"
+    }
+  },
+  "day222": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day223": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day224": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day225": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day226": {
+    "tweet1": {
+      "content": "COMPANY_X“花式”违规，违反支付规定曾被指暴力催收 金融监管处罚"
+    },
+    "tweet2": {
+      "content": "十年最大IPO明日上市重磅利好轮番上这是要逆天"
+    },
+    "tweet3": {
+      "content": "邮储推出增持计划银行股行情看好"
+    }
+  },
+  "day227": {
+    "tweet1": {
+      "content": "COMPANY_X(601229.SH)拟发放优先股股息10.4亿元"
+    },
+    "tweet2": {
+      "content": "3只银行股被金融机构扎堆调研 A股近八成银行股破净"
+    }
+  },
+  "day228": {
+    "tweet1": {
+      "content": "COMPANY_X(601229.SH)公开发行不超200亿元A股可转债获上海国资委批复"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：优先股股息发放实施公告"
+    }
+  },
+  "day229": {
+    "tweet1": {
+      "content": "上海银行副行长黄涛：加大信贷资源向长三角倾斜"
+    },
+    "tweet2": {
+      "content": "银行稳股价大盘点:杭州银行最壕 渝农商行最“抠门”"
+    },
+    "tweet3": {
+      "content": "上海银行200亿可转债获通过 资本指标持续下行"
+    },
+    "tweet4": {
+      "content": "逐浪长三角一体化，城农商行拿什么与大行竞争？"
+    },
+    "tweet5": {
+      "content": "上海银行公开发行A股可转换公司债券获上海市国资委通过"
+    }
+  },
+  "day230": {
+    "tweet1": {
+      "content": "重构远程代理服务模式 “云柜员”成银行智慧转型新方向"
+    }
+  },
+  "day231": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day232": {
+    "tweet1": {
+      "content": "上市银行科技人员规模对比： 民生银行占比近 40%，建行减员超两千"
+    }
+  },
+  "day233": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day234": {
+    "tweet1": {
+      "content": "*ST康得因融借款合同纠纷案收到《执行通知书》 诉讼纠纷"
+    },
+    "tweet2": {
+      "content": "*ST康得：被要求向上海银行等银行支付7.2亿元"
+    }
+  },
+  "day235": {
+    "tweet1": {
+      "content": "上海银行向旭辉授出4亿港元一年期循环贷款补充函件"
+    }
+  },
+  "day236": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day237": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day238": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day239": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day240": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day241": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day242": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day243": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day244": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day245": {
+    "tweet1": {
+      "content": "COMPANY_X(601229.SH)：稳定股价措施实施完成3名股东已累计增持2.06亿股"
+    },
+    "tweet2": {
+      "content": "上海银行完成稳定股价措施"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：稳定股价措施实施完成 三股东合计增持逾19亿元"
+    }
+  },
+  "day246": {
+    "tweet1": {
+      "content": "三大股东已增持19亿元，当下的上海银行值得入局吗？"
+    },
+    "tweet2": {
+      "content": "今日8只股公告增持股数达2.01亿"
+    }
+  },
+  "day247": {
+    "tweet1": {
+      "content": "债券重大事件2020年1月8日星期三"
+    },
+    "tweet2": {
+      "content": "快讯｜上海银行违规遭罚30万元，2019年罚款总额增长逾2倍 金融监管处罚"
+    },
+    "tweet3": {
+      "content": "江苏银保监局：对上海银行南京新街口支行作出行政处罚，罚款30万元"
+    },
+    "tweet4": {
+      "content": "上海银行南京新街口支行违法遭罚30万 个人贷款用途管控不严 金融监管处罚"
+    },
+    "tweet5": {
+      "content": "1月7日有76家公司获重要股东增减持，延安必康已被连续减持154次"
+    },
+    "tweet6": {
+      "content": "未按照相关合同的约定履行付款义务，绿庭投资子公司仍被欠资金2292万元"
+    }
+  },
+  "day248": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day249": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day250": {
+    "tweet1": {
+      "content": "上海银行2019年盈利突破200亿 净利同比增13%"
+    },
+    "tweet2": {
+      "content": "上海银行发布2019年度业绩快报 持续推进高质量发展，精品银行建设成效显著"
+    },
+    "tweet3": {
+      "content": "上海银行发布2019年度业绩快报：持续推进高质量发展，精品银行建设成效显著"
+    },
+    "tweet4": {
+      "content": "上海银行突遭“违规放贷”风波 结果究竟会如何？ 金融监管处罚"
+    },
+    "tweet5": {
+      "content": "上海银行发2019年业绩快报：净利润增12.55% 不良率1.16%"
+    },
+    "tweet6": {
+      "content": "上海银行再澄清：不存在违法违规放贷行为 | 实地探访涉事地产项目"
+    },
+    "tweet7": {
+      "content": "快讯|COMPANY_X：2019年归母净利润202.98亿元 同比增长12.55%"
+    },
+    "tweet8": {
+      "content": "上海银行业绩快报：2019年净利润202亿 同比增12.55%"
+    },
+    "tweet9": {
+      "content": "COMPANY_X(601229.SH)披露业绩快报 2019年净利升12.55%至202.98亿元"
+    },
+    "tweet10": {
+      "content": "上海银行业绩快报：2019年净利203亿元 同比增13%"
+    },
+    "tweet11": {
+      "content": "COMPANY_X：2019年净利润同比增12.55%（快报）"
+    },
+    "tweet12": {
+      "content": "上海银行业绩快报：2019年实现净利润202.98亿元，同比增12.55%"
+    },
+    "tweet13": {
+      "content": "上海银行最新回应：对宝能集团不存在违规放贷"
+    },
+    "tweet14": {
+      "content": "微沸点今日情绪异动复盘：2020-01-13"
+    },
+    "tweet15": {
+      "content": "上海银行陷入265亿放贷疑云：违规放贷or处置不良资产？ 其他违规处罚"
+    },
+    "tweet16": {
+      "content": "COMPANY_X(601229.SH)半日收跌2.02%"
+    },
+    "tweet17": {
+      "content": "COMPANY_X：对宝能贷款不存在违法违规放贷 股价跌1.6%位居板块跌幅榜首 金融监管处罚"
+    },
+    "tweet18": {
+      "content": "上海银行被举报违规放贷200多亿 股价跌近2% 诉讼纠纷"
+    },
+    "tweet19": {
+      "content": "申鑫老板举报信中没提到的事：金矿和神秘的富二代 诉讼纠纷"
+    },
+    "tweet20": {
+      "content": "上海银行澄清：向宝能集团授信为正常商业行为 相关授信不属于副行长审批权限"
+    },
+    "tweet21": {
+      "content": "造车还是圈地？宝能的“吃相”如何？"
+    },
+    "tweet22": {
+      "content": "早报：一清退P2P垫付本息 麦子金服案追缴5000万"
+    },
+    "tweet23": {
+      "content": "上海银行再澄清：向宝能集团授信不违规 金融监管处罚"
+    },
+    "tweet24": {
+      "content": "违规向宝能放贷265亿？ 上海银行回应称没有 还挽救了系统性风险"
+    }
+  },
+  "day251": {
+    "tweet1": {
+      "content": "【申万宏源金融】上海银行业绩快报点评：业绩增速放缓，资产质量改善 盈利能力下降"
+    },
+    "tweet2": {
+      "content": "浙江银保监局：对上海银行杭州分行作出行政处罚，罚款50万元 其他违规处罚"
+    },
+    "tweet3": {
+      "content": "上海银行南京新街口支行被罚30万：个贷用途管控不严 金融监管处罚"
+    },
+    "tweet4": {
+      "content": "上海银行业绩快报：2019年净利202.98亿元，同比增12.55%"
+    },
+    "tweet5": {
+      "content": "上海银行再澄清：不存在违法违规放贷行为 | 实地探访涉事地产项目"
+    },
+    "tweet6": {
+      "content": "上海银行2019年净利润203亿元 同比增长12.55%"
+    },
+    "tweet7": {
+      "content": "上海银行2019业绩快报：资产质量优化夯实【中泰银行·戴志锋】"
+    },
+    "tweet8": {
+      "content": "防范信贷风险是银行经营的重中之重"
+    }
+  },
+  "day252": {
+    "tweet1": {
+      "content": "上海银行今日大宗交易成交26万股，成交价9.16元溢价0.0%"
+    },
+    "tweet2": {
+      "content": "上海银行杭州分行违法遭罚50万 流动资金贷款挪用入房地产企业 金融监管处罚"
+    },
+    "tweet3": {
+      "content": "【银行】601229*COMPANY_X：营收增速有所放缓，不良维持行业低位*增持 盈利能力下降"
+    },
+    "tweet4": {
+      "content": "上海银行净利增逾12%首超200亿 不良率1.16%"
+    }
+  },
+  "day253": {
+    "tweet1": {
+      "content": "六家银行披露“喜人”业绩快报 专家称2019年银行业经营超预期"
+    },
+    "tweet2": {
+      "content": "从上海银行风波说说城商行投资"
+    }
+  },
+  "day254": {
+    "tweet1": {
+      "content": "上海银行今年计划发行1800亿元同业存单"
+    },
+    "tweet2": {
+      "content": "号外|上海银行举报案背后的神秘90后与3个亿 诉讼纠纷"
+    },
+    "tweet3": {
+      "content": "2019年业绩陆续披露 多家上市银行实现营收净利双增"
+    }
+  },
+  "day255": {
+    "tweet1": {
+      "content": "交易额突破3万亿领跑业内 上海银行网络金融走出精品发展之路"
+    }
+  },
+  "day256": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day257": {
+    "tweet1": {
+      "content": "15家上市银行公布2019业绩快报：八成净利润两位数增长"
+    },
+    "tweet2": {
+      "content": "银行行业：LPR应用范围扩大 行业所受影响有限"
+    }
+  },
+  "day258": {
+    "tweet1": {
+      "content": "18家银行公布2019年业绩快报：浦发银行净利增速最低、不良率居首"
+    },
+    "tweet2": {
+      "content": "15家上市银行发业绩快报 八成净利两位数增长"
+    }
+  },
+  "day259": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day260": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day261": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day262": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day263": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day264": {
+    "tweet1": {
+      "content": "复工首日又逢养老金发放，上海银行网点客流反减六成"
+    },
+    "tweet2": {
+      "content": "21家上市银行日均赚10亿 近九成不良率出现下降"
+    },
+    "tweet3": {
+      "content": "浙江银行业保险业建立疫情防控期间惠企政策清单"
+    }
+  },
+  "day265": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day266": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day267": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day268": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day269": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day270": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day271": {
+    "tweet1": {
+      "content": "送达诉状副本及开庭传票——上海轻宇实业有限公司,上海星明国际贸易有限公司 诉讼纠纷"
+    }
+  },
+  "day272": {
+    "tweet1": {
+      "content": "长三角19家城商行助力“中小微”复工复产 多家银行推出“复工贷”等专项服务"
+    },
+    "tweet2": {
+      "content": "98股主力资金净流入超亿元"
+    }
+  },
+  "day273": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day274": {
+    "tweet1": {
+      "content": "A股共发生97宗大宗交易成交38.5亿元（2月24日）"
+    },
+    "tweet2": {
+      "content": "上海银行今日大宗交易成交8292.49万股，成交价9.76元溢价11.04%"
+    }
+  },
+  "day275": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day276": {
+    "tweet1": {
+      "content": "春节后转债发行节奏放缓"
+    }
+  },
+  "day277": {
+    "tweet1": {
+      "content": "13家城商行消费贷解析：分化较大、瓶颈显著"
+    }
+  },
+  "day278": {
+    "tweet1": {
+      "content": "送达裁判文书——上海彧昊实业有限公司,上海星明国际贸易有限公司 诉讼纠纷"
+    }
+  },
+  "day279": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day280": {
+    "tweet1": {
+      "content": "央行上海总部：落实好疫情防控专项再贷款和支农、支小再贷款再贴现专用额度政策"
+    }
+  },
+  "day281": {
+    "tweet1": {
+      "content": "17家上海地区银行承诺进一步提高小微企业首贷比率"
+    }
+  },
+  "day282": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day283": {
+    "tweet1": {
+      "content": "债券重大事件2020年3月6日星期五"
+    },
+    "tweet2": {
+      "content": "送达裁判文书——上海恒通能源开发有限公司,上海星明国际贸易有限公司 诉讼纠纷"
+    }
+  },
+  "day284": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day285": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day286": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day287": {
+    "tweet1": {
+      "content": "江苏银行：营收净利增速差距大"
+    }
+  },
+  "day288": {
+    "tweet1": {
+      "content": "不用抵押，这家上海小企业凭什么3天就能从银行贷到400万"
+    },
+    "tweet2": {
+      "content": "价值低估!A股这份“抗跌”名单请收好"
+    },
+    "tweet3": {
+      "content": "详解24家上市银行资产质量：19家不良率同比下降，2家高于2%"
+    }
+  },
+  "day289": {
+    "tweet1": {
+      "content": "泛海控股：新增3笔对外担保 大额借贷担保"
+    },
+    "tweet2": {
+      "content": "再现稳股价方案，银行股估值是否已见底？"
+    }
+  },
+  "day290": {
+    "tweet1": {
+      "content": "国开行3月23日拟开展国开债做市支持操作"
+    }
+  },
+  "day291": {
+    "tweet1": {
+      "content": "近400家上市公司重要股东已出手，斥资182亿元增持"
+    }
+  },
+  "day292": {
+    "tweet1": {
+      "content": "现金交割机制进一步优化，报价机制正式启动"
+    },
+    "tweet2": {
+      "content": "银行消费贷主打线上，部分国有大行产品年利率低至“4打头”"
+    }
+  },
+  "day293": {
+    "tweet1": {
+      "content": "COMPANY_X(601229.SH)拟给予尚诚消费金融公司60亿元授信额度"
+    },
+    "tweet2": {
+      "content": "【中信建投银行杨荣】杭州银行（600926）深度：《存量风险出清，零售优势巩固》"
+    },
+    "tweet3": {
+      "content": "【中信建投银行杨荣】4月社融简评：《信贷在修复，扩表将持续》"
+    },
+    "tweet4": {
+      "content": "【中信建投银行杨荣】银行业周报212期：《银行如何参与REITS？》"
+    },
+    "tweet5": {
+      "content": "【中信建投银行杨荣】《为零售插上“互联网”翅膀 ——规范与助力互联网贷款》"
+    }
+  },
+  "day294": {
+    "tweet1": {
+      "content": "中小企业快速贷款新渠道 UCloud优刻得携手上海银行推出“云量贷”"
+    }
+  },
+  "day295": {
+    "tweet1": {
+      "content": "上海银行信息技术部总经理曹广智：获客上开放银行正在取代直销银行"
+    },
+    "tweet2": {
+      "content": "优刻得与上海银行合作推出“云量贷” 西井科技快速获批千万贷款"
+    },
+    "tweet3": {
+      "content": "送达裁判文书——上海鼎兮实业有限公司,上海荟利投资管理有限公司 诉讼纠纷"
+    }
+  },
+  "day296": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day297": {
+    "tweet1": {
+      "content": "“用云”多就能获贷款 上海创新信贷为中小微企业送去“及时雨”"
+    },
+    "tweet2": {
+      "content": "年报低估值高增长龙头股名单来了，最高股息率近7%"
+    }
+  },
+  "day298": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day299": {
+    "tweet1": {
+      "content": "上清所现金交割机制进一步优化，标准债券远期报价机制正式启动"
+    }
+  },
+  "day300": {
+    "tweet1": {
+      "content": "上海酝酿建设“浦江之光”科创企业库"
+    }
+  },
+  "day301": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day302": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day303": {
+    "tweet1": {
+      "content": "主承销商：关注“19方正CP001”发行人北大方正破产重整后续 减资破产"
+    }
+  },
+  "day304": {
+    "tweet1": {
+      "content": "聚信租赁获得13.1亿元银团贷款，与多家银行一起抗击疫情"
+    }
+  },
+  "day305": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day306": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day307": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day308": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day309": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day310": {
+    "tweet1": {
+      "content": "COMPANY_X：暗网贩卖的客户信息与我行真实客户不匹配"
+    },
+    "tweet2": {
+      "content": "百万条客户资料“暗网”叫卖，涉及上海银行、兴业浦发等银行"
+    },
+    "tweet3": {
+      "content": "银行负债端兴起“拼团存款”，定期利率最高上浮50%"
+    }
+  },
+  "day311": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day312": {
+    "tweet1": {
+      "content": "“80万条银行客户数据被盗”？银行均表示“我没有”！"
+    }
+  },
+  "day313": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day314": {
+    "tweet1": {
+      "content": "企业复工复产插上科技翅膀：万物上云，新业态层出不穷"
+    },
+    "tweet2": {
+      "content": "宝能接手上海中环中心烂尾楼项目 股权已全数质押给上海银行"
+    }
+  },
+  "day315": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day316": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day317": {
+    "tweet1": {
+      "content": "上海银行2019年报：盈利突破200亿 资产100万以上客户大增37.84%"
+    },
+    "tweet2": {
+      "content": "上海银行2019年净利润突破200亿元 零售业务盈利增三成"
+    },
+    "tweet3": {
+      "content": "上海银行2019年度报告发布：持续推进高质量发展 精品银行建设成效显著"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：2019年净利同比增12.55% 拟10派4元"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(601229.SH)2019年度净利升12.55%至202.98亿元 拟10派4元"
+    }
+  },
+  "day318": {
+    "tweet1": {
+      "content": "48公司获得增持评级-更新中"
+    },
+    "tweet2": {
+      "content": "网贷天眼早报：新网银行行长离任 李国庆“逼宫戏”升级"
+    }
+  },
+  "day319": {
+    "tweet1": {
+      "content": "2019涉房贷款哪家强？中行规模破万亿 青岛银行暴增122% 浦发涉房不良贷款骤升8倍"
+    },
+    "tweet2": {
+      "content": "【银行】COMPANY_X： 负债端成本改善促息差走阔，规模平稳增长ROE提升"
+    }
+  },
+  "day320": {
+    "tweet1": {
+      "content": "上海银行首季全力支持疫情防控和复工复产"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：一季度净利润同比增长4.34%"
+    },
+    "tweet3": {
+      "content": "城商行激战消费金融：千亿级三雄争霸，还有一家消费贷规模暴涨458%"
+    },
+    "tweet4": {
+      "content": "上海银行一季度实现营业收入130.9亿元 不良率略升"
+    },
+    "tweet5": {
+      "content": "上海银行全力支持疫情防控和复工复产：业绩平稳增长，资产质量持续优异"
+    },
+    "tweet6": {
+      "content": "上海银行2020年一季度净利润同比增4.34%"
+    }
+  },
+  "day321": {
+    "tweet1": {
+      "content": "【COMPANY_X】息差改善，资产质量小幅承压"
+    },
+    "tweet2": {
+      "content": "央行确定2020年度公开市场业务一级交易商，共有49家"
+    },
+    "tweet3": {
+      "content": "消费贷、房贷业务承压，银行资产质量不容乐观"
+    },
+    "tweet4": {
+      "content": "QFII一季度青睐白马股，重仓银行医药电子"
+    },
+    "tweet5": {
+      "content": "信用卡、消费贷款、房贷业务承压，监管或进一步放松"
+    }
+  },
+  "day322": {
+    "tweet1": {
+      "content": "UCloud优刻得推出上海中小企业专项补贴计划助力上海中小企业上云、融资加速跑"
+    },
+    "tweet2": {
+      "content": "站在中国金融科技的“风陵渡口” 城商行如何争渡？"
+    }
+  },
+  "day323": {
+    "tweet1": {
+      "content": "A股“嗨了”！央行放出超级大招！"
+    },
+    "tweet2": {
+      "content": "A股共发生107宗大宗交易成交37.09亿元（5月7日）"
+    },
+    "tweet3": {
+      "content": "上海银行今日大宗交易成交78万股，成交价8.11元溢价0.5%"
+    },
+    "tweet4": {
+      "content": "信用卡消费贷款房贷业务承压，一季度银行关注类贷款占比反弹"
+    }
+  },
+  "day324": {
+    "tweet1": {
+      "content": "全国首个合资理财公司落地上海临港"
+    },
+    "tweet2": {
+      "content": "上海自贸区临港新片区金融开放50条发布"
+    },
+    "tweet3": {
+      "content": "报告行长| 万亿资产城商行成员扩充至8家，人均薪酬前三名均超50万"
+    },
+    "tweet4": {
+      "content": "报告行长| 万亿资产城商行成员扩至8家，“领头羊”已超4家股份行，人均薪酬前三名均超50万"
+    }
+  },
+  "day325": {
+    "tweet1": {
+      "content": "COMPANY_X(601229.SH)已全额赎回50亿元二级资本债券"
+    }
+  },
+  "day326": {
+    "tweet1": {
+      "content": "上海新增1220亿元专项信贷额度"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：整体资产质量维持稳定 并继续保持同业先进水平"
+    }
+  },
+  "day327": {
+    "tweet1": {
+      "content": "城商行零售贷款比较:长沙银行占比最高 贵阳银行最低"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：收入结构改善，大力支持疫情防控及复工复产"
+    }
+  },
+  "day328": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day329": {
+    "tweet1": {
+      "content": "上海银行获准发行不超过200亿元A股可转债"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(601229.SH)：公开发行不超200亿元可转债获上海银保监局批复"
+    }
+  },
+  "day330": {
+    "tweet1": {
+      "content": "长三角7家上市城商行的2019年：谁最赚钱 谁是异地贷款王"
+    },
+    "tweet2": {
+      "content": "长三角7家上市城商行2019年净赚803.35亿：营收净利均保持两位数增长，谁是异地贷款王"
+    },
+    "tweet3": {
+      "content": "这篇文章5000多字 上银基金董事长汪明谈未来新三年"
+    },
+    "tweet4": {
+      "content": "A股城商行个贷总额超2万亿 六成增速超30%零售转型提质提速"
+    },
+    "tweet5": {
+      "content": "与母行双向赋能 打造精品基金公司"
+    }
+  },
+  "day331": {
+    "tweet1": {
+      "content": "【中信建投银行杨荣】银行业周报219期：《因势而变的必要调整》"
+    },
+    "tweet2": {
+      "content": "【中信建投银行杨荣】2季度基金持仓简评：《二季度继续减持，看好底部反弹》 减持股份"
+    },
+    "tweet3": {
+      "content": "【中信建投银行杨荣】银行业周报224期：《再次审视中小银行风险的源头》"
+    },
+    "tweet4": {
+      "content": "【中信建投银行杨荣】银行业周报216期：《并购是主流吗？》"
+    },
+    "tweet5": {
+      "content": "【中信建投银行杨荣】COMPANY_X（601229）三季报简评：《拨备计提后置，潜在风险减轻》"
+    },
+    "tweet6": {
+      "content": "【中信建投银行杨荣】银行业周报214期：《理财子公司高管关注的问题?》"
+    },
+    "tweet7": {
+      "content": "【中信建投银行杨荣】行业简评：《明确标债资产认定，引导融资成本下行》"
+    },
+    "tweet8": {
+      "content": "【中信建投银行杨荣】6月社融点评：《社融延续高速增长》"
+    },
+    "tweet9": {
+      "content": "【中信建投银行杨荣】5月社融简评：《财政政策发力，居民消费回暖》"
+    },
+    "tweet10": {
+      "content": "银行并购是主流吗？"
+    },
+    "tweet11": {
+      "content": "【中信建投银行杨荣】行业简评：《央行购买，中小银行贷款出表》"
+    }
+  },
+  "day332": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day333": {
+    "tweet1": {
+      "content": "13家上市城商行业绩比拼：宁波银行利润增速第一 郑州银行不良率超2%"
+    }
+  },
+  "day334": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day335": {
+    "tweet1": {
+      "content": "上海银行零售金融业务收入提升30.45% 全年净利首超200亿夯实高质量发展"
+    }
+  },
+  "day336": {
+    "tweet1": {
+      "content": "商业银行表内投资及表内非标债权投资规模有多大？"
+    }
+  },
+  "day337": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day338": {
+    "tweet1": {
+      "content": "上海银行盈利增速下滑，单一最大客户贷款比例正靠近红线 盈利能力下降"
+    }
+  },
+  "day339": {
+    "tweet1": {
+      "content": "COMPANY_X(601229.SH)：48.54亿元购置绿地外滩中心T2幢办公楼项目"
+    }
+  },
+  "day340": {
+    "tweet1": {
+      "content": "【读财报】银行支持制造业有话说：国有银行是主力 多数银行不良率下降"
+    }
+  },
+  "day341": {
+    "tweet1": {
+      "content": "上海银行一季度资本充足率低于行业平均水平获批200亿元可转债"
+    }
+  },
+  "day342": {
+    "tweet1": {
+      "content": "送达裁判文书——上海银行股份有限公司漕河泾支行,顾卫其 诉讼纠纷"
+    }
+  },
+  "day343": {
+    "tweet1": {
+      "content": "上海银行两股东3.34亿限售股将于6月10日解禁 解禁"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(601229.SH)：3.34亿股首发限售股6月10日解禁 解禁"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：占总股本2.35%限售股将于6月10日上市流通 解禁"
+    }
+  },
+  "day344": {
+    "tweet1": {
+      "content": "下周386亿市值限售股解禁，环比增加271.76% 解禁"
+    },
+    "tweet2": {
+      "content": "上海银行与国科控股签署战略合作框架协议 携手提升科创支撑能力 为科技成果转化架桥铺路"
+    }
+  },
+  "day345": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day346": {
+    "tweet1": {
+      "content": "COMPANY_X：服务再近一点，让小微企业走得快一点"
+    }
+  },
+  "day347": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day348": {
+    "tweet1": {
+      "content": "银行股解禁大考表现分化，5家银行年内推出股价稳定方案"
+    }
+  },
+  "day349": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day350": {
+    "tweet1": {
+      "content": "城商行发力消费贷，3家消费贷规模突破千亿"
+    },
+    "tweet2": {
+      "content": "资产质量压力陡升，地方银行信用卡线上化转型步伐未停"
+    }
+  },
+  "day351": {
+    "tweet1": {
+      "content": "COMPANY_X：主要股东持续增持"
+    },
+    "tweet2": {
+      "content": "每日理财观察：5月份宏观经济数据全部出炉"
+    }
+  },
+  "day352": {
+    "tweet1": {
+      "content": "2019年上海银行保险机构共755项金融创新成果 金融服务领域竞争加剧"
+    }
+  },
+  "day353": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day354": {
+    "tweet1": {
+      "content": "银行行业周报：银行业破净低估值 险资布局追稳健"
+    }
+  },
+  "day355": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day356": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day357": {
+    "tweet1": {
+      "content": "理财产品转型，看这家银行如何“稳”字当先"
+    }
+  },
+  "day358": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day359": {
+    "tweet1": {
+      "content": "COMPANY_X(601229.SH)年报推10派4元股权登记日7月7日"
+    }
+  },
+  "day360": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day361": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day362": {
+    "tweet1": {
+      "content": "可转债2020半年度总结及展望：基本面有望逐季修复 下半场择券仍是关键"
+    },
+    "tweet2": {
+      "content": "上海银行与锦江国际集团签署战略合作协议"
+    },
+    "tweet3": {
+      "content": "“抢权”行情来临，下周3家高送转，17家高派现"
+    },
+    "tweet4": {
+      "content": "A股融资融券日报：两融余额增加140.38亿元（7月2日）"
+    }
+  },
+  "day363": {
+    "tweet1": {
+      "content": "36家银行股23家涨停！板块涨幅超9％，国有大行涨幅靠后"
+    },
+    "tweet2": {
+      "content": "5道题“必考” 上市银行再融资屡遭监管追问 金融监管处罚"
+    }
+  },
+  "day364": {
+    "tweet1": {
+      "content": "2020上半年过会零记录中小银行IPO缘何“入冬”"
+    }
+  },
+  "day365": {
+    "tweet1": {
+      "content": "上市银行再融资遇考核哪些题监管“必考”"
+    }
+  },
+  "day366": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day367": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day368": {
+    "tweet1": {
+      "content": "年内到期债务555亿，泰禾集团首只公募债违约 未按时兑付本息"
+    }
+  },
+  "day369": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day370": {
+    "tweet1": {
+      "content": "不知情被开通美团月付、信用卡，美团遭大量消费者投诉 诉讼纠纷"
+    },
+    "tweet2": {
+      "content": "A股融资融券日报：两融余额增加130.07亿元（7月14日）"
+    }
+  },
+  "day371": {
+    "tweet1": {
+      "content": "晚间重要公告2020年7月16日星期四"
+    },
+    "tweet2": {
+      "content": "多家银行参投国家绿色发展基金，工农中各出资80亿元"
+    },
+    "tweet3": {
+      "content": "农业银行、上海银行拟参股国家绿色发展基金公司"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：拟20亿元参投“绿色发展基金公司”，占股2.2599%"
+    },
+    "tweet5": {
+      "content": "COMPANY_X(601229.SH)：将出资20亿元参与投资绿色发展基金公司"
+    },
+    "tweet6": {
+      "content": "COMPANY_X：拟出资20亿元参与投资国家绿色发展基金股份有限公司"
+    }
+  },
+  "day372": {
+    "tweet1": {
+      "content": "上海银行设立200亿元“绿色金融”专项信贷额度"
+    },
+    "tweet2": {
+      "content": "上海银行发布绿色金融行动方案：设立200亿元专项信贷额度 构建“绿色金融+”延伸服务体系"
+    },
+    "tweet3": {
+      "content": "【fintech每周播报】百行征信再获发企业征信牌照；银行科技公司加速“联姻”"
+    },
+    "tweet4": {
+      "content": "这10家公司发布公告有看点 股价有望率先企稳"
+    },
+    "tweet5": {
+      "content": "上海农商行IPO前股权结构障碍基本扫除 接盘安信信托仍存悬念"
+    },
+    "tweet6": {
+      "content": "每日理财观察：6月宏观数据出炉，银保监会强调信托公司出兜底函不具法律效应"
+    },
+    "tweet7": {
+      "content": "上市公司正负面新闻2020年7月17日星期五"
+    }
+  },
+  "day373": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day374": {
+    "tweet1": {
+      "content": "11家机构申报8大项目 上海今年首批金融科技创新监管试点公示"
+    }
+  },
+  "day375": {
+    "tweet1": {
+      "content": "上海银行发行可转债获证监会反馈 公司治理情况受关注"
+    }
+  },
+  "day376": {
+    "tweet1": {
+      "content": "金融科技“监管沙盒”试点范围扩至9城，他们到底在关注什么？"
+    },
+    "tweet2": {
+      "content": "36笔行政处罚引关注 监管质疑上海银行内控制度是否健全"
+    },
+    "tweet3": {
+      "content": "上海首笔央行再贷款信保融资业务落地"
+    },
+    "tweet4": {
+      "content": "银行Ⅱ：二季度继续减持 看好底部反弹 减持股份"
+    }
+  },
+  "day377": {
+    "tweet1": {
+      "content": "东方财富(300059.SZ)签署最高额保证合同上海银行向天天基金提供20亿元借款额度"
+    },
+    "tweet2": {
+      "content": "上海的银行为什么偏爱消费贷？"
+    },
+    "tweet3": {
+      "content": "上海首批金融科技“监管沙盒”应用名单出炉 区块链技术“受宠”"
+    }
+  },
+  "day378": {
+    "tweet1": {
+      "content": "债券重大事件2020年7月27日星期一"
+    },
+    "tweet2": {
+      "content": "联合资信：上调“11上行次级债01”、“11上行次级债02”信用等级为AAA"
+    },
+    "tweet3": {
+      "content": "中证指数公司：8月6日发布中证兴业证券ESG盈利100指数"
+    },
+    "tweet4": {
+      "content": "银行业周报222期：资金流向与货币政策走向"
+    },
+    "tweet5": {
+      "content": "科技“加持”供应链 上海银行串起中小微企业“普惠共赢链”"
+    },
+    "tweet6": {
+      "content": "上海银行串起“普惠共赢链” 供应链金融业务化“疫”为“翼”"
+    }
+  },
+  "day379": {
+    "tweet1": {
+      "content": "上海银行今日大宗交易成交115.40万股，成交价8.1元折价0.12%"
+    },
+    "tweet2": {
+      "content": "独家丨全国288家银行理财能力排行榜（2020年2季度）"
+    }
+  },
+  "day380": {
+    "tweet1": {
+      "content": "不要让联合贷款沦为影子银行"
+    },
+    "tweet2": {
+      "content": "银行股投资AB面：市净率已创历史新低，股东、高管增持，公募基金减仓"
+    }
+  },
+  "day381": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day382": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

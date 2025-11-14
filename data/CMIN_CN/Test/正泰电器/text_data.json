@@ -1,0 +1,470 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "【研报掘金】假期海外光伏龙头大涨 板块价值重估或开启新一轮“泡沫化”行情"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "电力设备及新能源行业周报：国网展望“十四五”电网投资 塑造能源互联网产业链"
+    },
+    "tweet2": {
+      "content": "打造数字化转型标杆！正泰电器入选高质量发展创新案例"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "COMPANY_X：大丰市拿地是用于高效光伏电池与高效光伏组件"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：2019年公司光伏业务营业收入约119亿元"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "COMPANY_X(601877)：低压龙头的户用光伏新篇章"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "电力设备及新能源行业周报：看好受益“两新一重”标的 风电迎预期改善"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "能辉科技尚存未结案重大诉讼，大客户占比超9成，抗风险能力弱 诉讼纠纷"
+    },
+    "tweet2": {
+      "content": "电力电气设备、公用事业行业：合理利用小时政策靴子落地 可再生能源补贴缺口总量收口"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "电力设备行业点评：施耐德发布20年三季报 能效管理业务中国区两位数增长"
+    },
+    "tweet2": {
+      "content": "比亚迪与正泰跨界合作 优势互补“玩转”新能源"
+    },
+    "tweet3": {
+      "content": "比亚迪与正泰开启合作 携手谱写新能源篇章"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "电力设备新能源周观察：光伏玻璃价格持续上涨 电动车Q4延续高增长"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "电力设备及新能源行业周报：全生命周期小时数补贴出台 六部委再议剥离国网制造装备业务"
+    },
+    "tweet2": {
+      "content": "智能终端+正泰云平台，让配电网更“聪明”"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "正泰电器低压、光伏业务稳健发展"
+    },
+    "tweet2": {
+      "content": "正泰电器前三季业绩增长6.42% 社保基金增持"
+    },
+    "tweet3": {
+      "content": "电气设备行业月度报告：合理利用小时数确定，光伏玻璃及硅料产能趋紧，维持“领先大市”评级"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(601877.SH)前三季度净利润升6.42%至30.48亿元"
+    },
+    "tweet5": {
+      "content": "COMPANY_X：前三季度净利润同比增长6.42%"
+    },
+    "tweet6": {
+      "content": "电气设备行业月度报告（2020年10月）：合理利用小时数确定，光伏玻璃及硅料产能趋紧"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "COMPANY_X(601877)2020年三季报点评：业绩符合预期 单季加速改善"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：今年前三季度营业收入同比增3.43%至232.47亿元"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：前三季度营收净利润双增长 低压、光伏业务稳中求进"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "COMPANY_X(601877.SH)：王国荣因工作调整原因辞去公司副总裁职务 董监高成员变化"
+    },
+    "tweet2": {
+      "content": "正泰电器董事、副总裁王国荣辞职 董监高成员变化"
+    },
+    "tweet3": {
+      "content": "COMPANY_X：王国荣离任副总裁 董监高成员变化"
+    },
+    "tweet4": {
+      "content": "COMPANY_X：高级管理人员辞职 董监高成员变化"
+    },
+    "tweet5": {
+      "content": "社保基金最新持仓动向：狂买周期股，减持医药科技"
+    },
+    "tweet6": {
+      "content": "电力设备及新能源行业周报：光伏辅材涨价持续超预期 政策加码充换电建设运营"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "COMPANY_X(601877)：业绩稳健增长 低压业务受益于行业高景气度"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(601877)：低压电器直销业务亮眼 光伏稳步推进"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(601877)：业绩符合申万宏源预期 光伏电站装机提升"
+    },
+    "tweet4": {
+      "content": "【电新*曾朵红】深度：工控&电力设备行业2020三季报总结——Q3加速增长，工控大超预期"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "晚间重要公告2020年11月5日星期四"
+    },
+    "tweet2": {
+      "content": "中国电研(688128.SH)主要股东正泰电器拟减持不超809万股 拟减持股份"
+    },
+    "tweet3": {
+      "content": "中国电研：正泰电器拟减持不超2%股份 拟减持股份"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "中国电研：持股9.64%股东正泰电器拟减持公司股份不超过809万股 拟减持股份"
+    },
+    "tweet2": {
+      "content": "上市公司正负面新闻2020年11月6日星期五"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "电力设备及新能源行业周报：光伏全面放开容配比 特高压直流再获核准"
+    },
+    "tweet2": {
+      "content": "电力设备及新能源行业2020年三季度总结：“新新”向荣"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "COMPANY_X：控股股东可交换公司债券换股导致持股比例由55.05%下降至54.05%"
+    },
+    "tweet2": {
+      "content": "COMPANY_X(601877.SH)：控股股东及其一致行动人持股比例降至54.05%"
+    },
+    "tweet3": {
+      "content": "电力电气设备行业-3Q持仓及陆港通分析：资金大幅流入 电池工控受到青睐"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(601877)：低压电器+光伏协同发展 业绩稳健增长"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "正泰电器现1笔大宗交易 共成交929.10万元"
+    },
+    "tweet2": {
+      "content": "电力设备新能源周观察：光伏需求持续向好 电动车销量将超预期"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "正泰电器大宗交易成交额3097万元"
+    },
+    "tweet2": {
+      "content": "正泰电器现1笔大宗交易 共成交3,097.00万元"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "电力设备及新能源行业周报：广东上海发布氢能规划 燃料电池示范在即"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "电力设备及新能源行业周报：光伏龙头联合强化一体化布局 巨轮航定行稳致远"
+    },
+    "tweet2": {
+      "content": "A股共发生96宗大宗交易成交23.27亿元（11月23日）"
+    },
+    "tweet3": {
+      "content": "电力电气设备、公用事业：发电行业碳配额全国统一方案发布 鼓励清洁发电收紧煤电配额"
+    },
+    "tweet4": {
+      "content": "正泰电器今日大宗交易成交180.41万股，成交价30.9元折价4.66%"
+    },
+    "tweet5": {
+      "content": "正泰电器现5笔大宗交易 共成交5,574.78万元"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "首只光伏ETF：把握产业链长期高成长带来的投资机遇"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "北向资金半日流入40亿：白酒股资金分化 电力股获加仓"
+    },
+    "tweet2": {
+      "content": "电力板块大涨，11月用电增速有望增长，细分领域如何布局"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "A股第一只光伏ETF要来了 值不值得投？"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "电力设备及新能源行业周报：光伏尺寸标准化助力平价 燃料电池关注度提升"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "2021年公用事业新能源：多能互补 开启碳中和征程"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "公用事业-电力电气设备行业：碳中和 离我们还有多远"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "电力设备及新能源行业周报：光伏龙头长单密集落地 电堆降价潮指明降本路径"
+    },
+    "tweet2": {
+      "content": "COMPANY_X:正泰集团可交债已全部换股并摘牌"
+    },
+    "tweet3": {
+      "content": "COMPANY_X(601877.SH)：控股股东可交债摘牌并解除剩余股份质押"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "COMPANY_X：拟参与竞拍国网浙江综合能源20%股权"
+    },
+    "tweet2": {
+      "content": "晚间公告｜12月8日这些公告有看头"
+    },
+    "tweet3": {
+      "content": "COMPANY_X:转让上海电科100%股权给正泰集团 资产异常"
+    },
+    "tweet4": {
+      "content": "COMPANY_X(601877.SH)为集中资源发展主业拟转让子公司上海电科100%股权 资产异常"
+    },
+    "tweet5": {
+      "content": "12月8日上市公司晚间公告速递"
+    },
+    "tweet6": {
+      "content": "COMPANY_X(601877.SH)：拟向交通银行申请不超20亿元综合授信"
+    },
+    "tweet7": {
+      "content": "COMPANY_X：出售子公司股权 资产异常"
+    },
+    "tweet8": {
+      "content": "COMPANY_X(601877.SH)：拟参与竞拍国网浙江综合能源服务有限公司5%股权"
+    },
+    "tweet9": {
+      "content": "COMPANY_X(601877.SH)拟向控股股东转让上海电科100%股权 减持股份"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "估值约1.16亿元 正泰电器拟参与竞拍国网浙江综合能源服务公司5%股权"
+    },
+    "tweet2": {
+      "content": "股海导航 12月9日沪深股市公告提示"
+    },
+    "tweet3": {
+      "content": "12月9日操盘必读：影响股市利好与利空消息"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "融资客看好10股 买入占成交超三成"
+    },
+    "tweet2": {
+      "content": "正泰电器成立销售新公司，注册资本1亿元"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "【安信电新】低压电器：行业需求有望超10%，龙头企业加速国产替代"
+    },
+    "tweet2": {
+      "content": "正泰电器全产业链优势凸显净利五连增 上市10年现金分红17次累计派利104亿"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "2021年度工控&电网策略报告：国产化进程加速 聚焦高成长个股"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "中控技术上市以来市值突破520亿"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "正泰电器喜获中国机械工业科学技术奖"
+    },
+    "tweet2": {
+      "content": "盘前情报丨新冠疫苗大批量生产在即，华为鸿蒙2.0传来重磅消息，这些概念股值得关注"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "正泰电器成立一智能公司，经营范围含半导体照明器件等"
+    },
+    "tweet2": {
+      "content": "技术赋能企业未来，正泰与辽泰电气达成战略合作"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "12月23日晚间重要行业研究汇总"
+    },
+    "tweet2": {
+      "content": "2021年电力设备及工业控制行业投资策略：电气设备迎来数字化、智能化时代"
+    },
+    "tweet3": {
+      "content": "20亿资金猛攻光伏ETF，正向强化板块再创新高"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "COMPANY_X(601877.SH)：控股股东完成可交债质押专户剩余股份解除质押"
+    },
+    "tweet2": {
+      "content": "COMPANY_X：加码国际业务 提速创新裂变"
+    },
+    "tweet3": {
+      "content": "高科技、轻资产、强服务、平台化正泰电器如何蓄势再出发？ 南存辉给出12字战略密钥"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "华云电力、正泰电器正式签约！国网浙江综合能源服务公司完成混改"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "电力电气设备、公用事业行业：发电行业碳配额最终方案无修改落地 短期火电盈利影响有限"
+    },
+    "tweet2": {
+      "content": "正泰电器拟参与国网浙江综合能源服务有限公司20%股权项目竞拍"
+    }
+  }
+}
