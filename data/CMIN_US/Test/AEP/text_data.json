@@ -1,0 +1,535 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Electric Transmission Texas, LLC -- Moody's announces completion of a periodic review of ratings of Electric Transmission Texas, LLC"
+    },
+    "tweet2": {
+      "content": "CLASS ACTION UPDATE for COMPANY_X, VXRT and TCMD: Levi & Korsinsky, LLP Reminds Investors of Class Actions on Behalf of Shareholders"
+    },
+    "tweet3": {
+      "content": "SHAREHOLDER DEADLINE ALERT: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against American Electric Power Company, Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    },
+    "tweet4": {
+      "content": "The Gross Law Firm Announces Class Actions on Behalf of Shareholders of COMPANY_X, POR and NXTC"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "SHAREHOLDER ALERT: Levi & Korsinsky, LLP Notifies Shareholders of American Electric Power Company, Inc. of a Class Action Lawsuit and a Lead Plaintiff Deadline of October 19, 2020 - COMPANY_X"
+    },
+    "tweet2": {
+      "content": "Columbus Southern Power Company -- Moody's announces completion of a periodic review of ratings of American Electric Power Company, Inc."
+    },
+    "tweet3": {
+      "content": "IMPORTANT INVESTOR NOTICE: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against American Electric Power Company, Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    },
+    "tweet4": {
+      "content": "CLASS ACTION UPDATE for PT, COMPANY_X and NKLA: Levi & Korsinsky, LLP Reminds Investors of Class Actions on Behalf of Shareholders"
+    },
+    "tweet5": {
+      "content": "COMPANY_X CLASS ACTION DEADLINE: Bernstein Liebhard LLP Reminds Investors of the Deadline to File a Lead Plaintiff Motion in a Securities Class Action Lawsuit Against American Electric Power Company, Inc."
+    },
+    "tweet6": {
+      "content": "Utilities Prepare as Hurricane Delta Nears the U.S. Gulf Coast"
+    },
+    "tweet7": {
+      "content": "The Klein Law Firm Reminds Investors of Class Actions on Behalf of Shareholders of COMPANY_X, GOCO and BMRN"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "LAWSUITS FILED AGAINST COMPANY_X, FLDM and MESO - Jakubowitz Law Pursues Shareholders Claims"
+    },
+    "tweet2": {
+      "content": "FINAL DEADLINE IMMINENT: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against American Electric Power Company, Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    },
+    "tweet3": {
+      "content": "The Klein Law Firm Reminds Investors of Class Actions on Behalf of Shareholders of COMPANY_X, BLNK and POR"
+    },
+    "tweet4": {
+      "content": "Rosen, A Trusted and Leading Law Firm, Reminds American Electric Power Company, Inc. Investors of Important Deadline in Securities Class Action First Filed by the Firm - COMPANY_X"
+    },
+    "tweet5": {
+      "content": "COMPANY_X ALERT: The Klein Law Firm Announces a Lead Plaintiff Deadline of October 19, 2020 in the Class Action Filed on Behalf of American Electric Power Company, Inc. Limited Shareholders"
+    },
+    "tweet6": {
+      "content": "AMERICAN ENERGY SHAREHOLDER ALERT BY FORMER LOUISIANA ATTORNEY GENERAL: KAHN SWICK & FOTI, LLC REMINDS INVESTORS WITH LOSSES IN EXCESS OF $100,000 of Lead Plaintiff Deadline in Class Action Lawsuit Against American Electric Power, Inc. - COMPANY_X"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "LAWSUITS FILED AGAINST AYX, COMPANY_X and TCMD - Jakubowitz Law Pursues Shareholders Claims"
+    },
+    "tweet2": {
+      "content": "Rosen, A Globally Recognized Law Firm, Reminds American Electric Power Company, Inc. Investors of Important October 19 Deadline in Securities Class Action - COMPANY_X"
+    },
+    "tweet3": {
+      "content": "7-Day Deadline Alert: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against American Electric Power Company, Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    },
+    "tweet4": {
+      "content": "SHAREHOLDER ALERT: Levi & Korsinsky, LLP Notifies Shareholders of American Electric Power Company, Inc. of a Class Action Lawsuit and a Lead Plaintiff Deadline of October 19, 2020 - COMPANY_X"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Upcoming Deadline: Bronstein, Gewirtz & Grossman, LLC Reminds American Electric Power, Inc. Shareholders of Class Action and Lead Plaintiff Deadline: October 19, 2020"
+    },
+    "tweet6": {
+      "content": "The Gross Law Firm Announces Class Actions on Behalf of Shareholders of BIDU, COMPANY_X and RCL"
+    },
+    "tweet7": {
+      "content": "How Much Does American Electric Power Company's (NASDAQ:COMPANY_X) CEO Make?"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "COMPANY_X ALERT: The Klein Law Firm Announces a Lead Plaintiff Deadline of October 19, 2020 in the Class Action Filed on Behalf of American Electric Power Company, Inc. Limited Shareholders"
+    },
+    "tweet2": {
+      "content": "6-Day Deadline Alert: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against American Electric Power Company, Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Deadline: Bronstein, Gewirtz & Grossman, LLC Reminds American Electric Power, Inc. Shareholders of Class Action and Lead Plaintiff Deadline: October 19, 2020"
+    },
+    "tweet4": {
+      "content": "MONDAY DEADLINE ALERT: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against American Electric Power Company, Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    },
+    "tweet5": {
+      "content": "The Klein Law Firm Reminds Investors of Class Actions on Behalf of Shareholders of COMPANY_X, NNOX and NKLA"
+    },
+    "tweet6": {
+      "content": "AMERICAN ENERGY SHAREHOLDER ALERT BY FORMER LOUISIANA ATTORNEY GENERAL: Kahn Swick & Foti, LLC Reminds Investors with Losses in Excess of $100,000 of Lead Plaintiff Deadline in Class Action Lawsuit Against American Electric Power, Inc. - COMPANY_X"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "COMPANY_X SHAREHOLDER ALERT: Bernstein Liebhard LLP Reminds Investors of the Deadline to File a Lead Plaintiff Motion in a Securities Class Action Lawsuit Against American Electric Power Company, Inc."
+    },
+    "tweet2": {
+      "content": "COMPANY_X Approaching Deadline: Bronstein, Gewirtz & Grossman, LLC Reminds American Electric Power, Inc. Shareholders of Class Action and Lead Plaintiff Deadline: October 19, 2020"
+    },
+    "tweet3": {
+      "content": "SHAREHOLDER ALERT: COMPANY_X LX CACC: The Law Offices of Vincent Wong Reminds Investors of Important Class Action Deadlines"
+    },
+    "tweet4": {
+      "content": "FILING DEADLINE--Kuznicki Law PLLC Announces Class Actions on Behalf of Shareholders of COMPANY_X, COTY, GOCO and NKLA"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "The Klein Law Firm Reminds Investors of Class Actions on Behalf of Shareholders of COMPANY_X, VXRT and BMRN"
+    },
+    "tweet2": {
+      "content": "ROSEN, TOP RANKED INVESTOR COUNSEL, Reminds American Electric Power Company, Inc. Investors of Important October 19 Deadline in Securities Class Action First Filed by Firm; Encourages Investors with Losses in Excess of $100K to Contact the Firm - COMPANY_X"
+    },
+    "tweet3": {
+      "content": "MONDAY DEADLINE NOTICE: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against American Electric Power Company, Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    },
+    "tweet4": {
+      "content": "The Gross Law Firm Announces Class Actions on Behalf of Shareholders of COMPANY_X, POR and FLDM"
+    },
+    "tweet5": {
+      "content": "COMPANY_X CLASS ACTION ALERT: Bernstein Liebhard LLP Reminds Investors of the Deadline to File a Lead Plaintiff Motion in a Securities Class Action Lawsuit Against American Electric Power Company, Inc."
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Lawsuits Filed Against COMPANY_X, NNOX and NKLA - Jakubowitz Law Pursues Shareholders Claims"
+    },
+    "tweet2": {
+      "content": "COMPANY_X FINAL DEADLINE: ROSEN, A TOP RANKED FIRM, Reminds American Electric Power Company, Inc. Investors of Important Monday Deadline in First Filed Securities Class Action Commenced by Firm - COMPANY_X"
+    },
+    "tweet3": {
+      "content": "Portnoy Law: Lawsuit Filed On Behalf of American Electric Power Company, Inc. Investors"
+    },
+    "tweet4": {
+      "content": "DEADLINE MONDAY ALERT: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against American Electric Power Company, Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    },
+    "tweet5": {
+      "content": "The Klein Law Firm Reminds Investors of Class Actions on Behalf of Shareholders of STAA, COMPANY_X and VXRT"
+    },
+    "tweet6": {
+      "content": "3-Day Deadline Alert: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against American Electric Power Company, Inc. and Encourages Investors with Losses to Contact the Firm"
+    },
+    "tweet7": {
+      "content": "COMPANY_X ALERT: The Klein Law Firm Announces a Lead Plaintiff Deadline of October 19, 2020 in the Class Action Filed on Behalf of American Electric Power Company, Inc. Limited Shareholders"
+    },
+    "tweet8": {
+      "content": "COMPANY_X Looming Deadline: Bronstein, Gewirtz & Grossman, LLC Reminds American Electric Power, Inc. Shareholders of Class Action and Lead Plaintiff Deadline: October 19, 2020"
+    },
+    "tweet9": {
+      "content": "CLASS ACTION UPDATE for COMPANY_X, BTU and LOOP: Levi & Korsinsky, LLP Reminds Investors of Class Actions on Behalf of Shareholders"
+    },
+    "tweet10": {
+      "content": "AMERICAN ENERGY CLASS ACTION UPDATE BY FORMER LOUISIANA ATTORNEY GENERAL: Kahn Swick & Foti, LLC Reminds Investors of Lead Plaintiff Deadline in Class Action Lawsuit Against American Electric Power, Inc. - COMPANY_X"
+    },
+    "tweet11": {
+      "content": "SHAREHOLDER ALERT: Levi & Korsinsky, LLP Notifies Shareholders of American Electric Power Company, Inc. of a Class Action Lawsuit and a Lead Plaintiff Deadline of October 19, 2020 - COMPANY_X"
+    },
+    "tweet12": {
+      "content": "FINAL DEADLINE MONDAY: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against American Electric Power Company, Inc. and Encourages Investors with Losses to Contact the Firm"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "The Gross Law Firm Announces Class Actions on Behalf of Shareholders of COMPANY_X, ODT and BTU"
+    },
+    "tweet2": {
+      "content": "FINAL DEADLINE TODAY: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against American Electric Power Company, Inc. and Encourages Investors with Losses to Contact the Firm"
+    },
+    "tweet3": {
+      "content": "COMPANY_X ALERT: The Klein Law Firm Announces a Lead Plaintiff Deadline of October 19, 2020 in the Class Action Filed on Behalf of American Electric Power Company, Inc. Limited Shareholders"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Final Deadline: Bronstein, Gewirtz & Grossman, LLC Reminds American Electric Power, Inc. Shareholders of Class Action and Lead Plaintiff Deadline: October 19, 2020"
+    },
+    "tweet5": {
+      "content": "SHAREHOLDER ALERT: Levi & Korsinsky, LLP Notifies Shareholders of American Electric Power Company, Inc. of a Class Action Lawsuit and a Lead Plaintiff Deadline of October 19, 2020 - COMPANY_X"
+    },
+    "tweet6": {
+      "content": "COMPANY_X Final Deadline Today: Rosen, Leading Investor Counsel, Reminds American Electric Power Company, Inc. Investors of Important October 19 Deadline in Securities Class Action Commenced by Firm - COMPANY_X"
+    },
+    "tweet7": {
+      "content": "DEADLINE TODAY: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against American Electric Power Company, Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    },
+    "tweet8": {
+      "content": "LAWSUITS FILED AGAINST COMPANY_X, VXRT and BTU - JAKUBOWITZ LAW PURSUES SHAREHOLDERS CLAIMS"
+    },
+    "tweet9": {
+      "content": "AMERICAN ELECTRIC 24 HOUR DEADLINE ALERT: Former Louisiana Attorney General and Kahn Swick & Foti, LLC Remind Investors with Losses in Excess of $100,000 of Deadline in Class Action Lawsuit Against American Electric Power, Inc. - COMPANY_X"
+    },
+    "tweet10": {
+      "content": "FINAL DEADLINE MONDAY: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against American Electric Power Company, Inc. and Encourages Investors with Losses to Contact the Firm"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "American Electric Power Receives First NAPPC Pollinator Electric Power Award"
+    },
+    "tweet2": {
+      "content": "American Electric Power raises dividend 5.7%, to yield above utilities peer group"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Increases Quarterly Dividend To 74 Cents A Share"
+    },
+    "tweet4": {
+      "content": "What's in Store for American Electric (COMPANY_X) in Q3 Earnings?"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "American Electric Rewards Shareholders With 5.7% Dividend Hike"
+    },
+    "tweet2": {
+      "content": "A Preview Of American Electric Power's Earnings"
+    },
+    "tweet3": {
+      "content": "Is a Surprise Coming for American Electric (COMPANY_X) This Earnings Season?"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "American Electric Power Inc (COMPANY_X) Q3 2020 Earnings Call Transcript"
+    },
+    "tweet2": {
+      "content": "Analyst Report: American Electric Power Company, Inc."
+    },
+    "tweet3": {
+      "content": "American Electric (COMPANY_X) Q3 Earnings Beat, Revenues Fall Y/Y"
+    },
+    "tweet4": {
+      "content": "American Electric Power (COMPANY_X) Q3 Earnings Top Estimates"
+    },
+    "tweet5": {
+      "content": "American Electric Power: Q3 Earnings Insights"
+    },
+    "tweet6": {
+      "content": "COMPANY_X Reports Strong Third-Quarter 2020 Earnings"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Analyst Report: American Electric Power Company, Inc."
+    },
+    "tweet2": {
+      "content": "COMPANY_X Energy Partners Signs Letter Of Intent To Purchase 50-MW Output From Columbus Solar Park"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "American Electric Power Could Keep Powering Higher"
+    },
+    "tweet2": {
+      "content": "Biden Win Would Prop Up American Electric Power's Renewable Energy Plans, CEO Says"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Analyst Report: American Electric Power Co Inc"
+    },
+    "tweet2": {
+      "content": "Market Digest: COMPANY_X, BX, CLS, CME, GE, JNPR, MSFT, NSC, OMC, UPS"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "COMPANY_X Announces Leadership Changes To Expand Experiences Of Senior Executives"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "COMPANY_X Energy Partners Seeks Wind And Solar Energy In Ohio And ERCOT"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Names Wells Vice President, Sales, Economic and Business Development"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "COMPANY_X CCR And ELG Compliance Plans Will Remove Additional 1,633 MW Of Coal-fueled Generation From Company Fleet"
+    },
+    "tweet2": {
+      "content": "Ameren (AEE) Q3 Earnings Top Estimates, Revenues Drop Y/Y"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "COMPANY_X To Focus Investments On Energy Grid And Renewables, Reaffirms Operating Earnings Growth Rate Of 5% To 7%"
+    },
+    "tweet2": {
+      "content": "Consolidated Edison (ED) Q3 Earnings Miss, Revenues Down Y/Y"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "COMPANY_X Names Three New Leaders To Information Technology Organization"
+    },
+    "tweet2": {
+      "content": "Do These Hedge Funds Regret Selling American Electric Power Company, Inc. (COMPANY_X)?"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Has American Electric Power Company (NASDAQ:COMPANY_X) Got What It Takes To Become A Multi-Bagger?"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "COMPANY_X Names Coleman Vice President Of Corporate Philanthropy And Community Engagement"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: UnitedHealth, CRM, GSK, Square and American Electric Power"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "COMPANY_X Recognized as One of America's Most Responsible Companies"
+    },
+    "tweet2": {
+      "content": "American Electric Power Company, Inc. (NASDAQ:COMPANY_X) Shares Could Be 32% Above Their Intrinsic Value Estimate"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "COMPANY_X Names Roberts To Board Of Directors"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "In Dominion Energy’s Dividend Cut, a Lesson in the Danger of High Debt"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Names New Treasurer And Communications & Marketing Leader"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "Benzinga's Top Upgrades, Downgrades For December 14, 2020"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "Here Are The 6 Stocks That Will Shake Up The Nasdaq"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "Is COMPANY_X A Good Stock To Buy According To Hedge Funds?"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

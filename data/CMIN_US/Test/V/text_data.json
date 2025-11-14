@@ -1,0 +1,826 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "After Hours Most Active for Oct 1, 2020 :  VICI, AAPL, SLB, ABBV, SGMS, MSFT, HST, MNST, APA, RUN, GE, VZ"
+    },
+    "tweet2": {
+      "content": "PayPal Is a Free Cash Flow Powerhouse Likely to Move a Good Deal Higher"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "PayPal Rolling Out Venmo Credit Card"
+    },
+    "tweet2": {
+      "content": "PayPal Rolling Out Venmo Credit Card"
+    },
+    "tweet3": {
+      "content": "Visa (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet4": {
+      "content": "Square stands to benefit from growing usage of debit cards, analyst says"
+    },
+    "tweet5": {
+      "content": "Should You Start Your War-on-Cash Basket With Mastercard?"
+    },
+    "tweet6": {
+      "content": "5 Unstoppable Stocks to Buy With $5,000"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Why Square Hit All-Time Highs This Week"
+    },
+    "tweet2": {
+      "content": "3 Robinhood Stocks That Wall Street Loves"
+    },
+    "tweet3": {
+      "content": "3 Robinhood Stocks That Wall Street Loves"
+    },
+    "tweet4": {
+      "content": "Mastercard Stock Is Unlikely To Sustain Its Current Level"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Visa Inc. to Announce Fiscal Fourth Quarter and Full-Year 2020 Financial Results on October 28, 2020"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Why Venmo Just Launched a Credit Card"
+    },
+    "tweet2": {
+      "content": "Why the Worst Could Be Over for Visa and Mastercard, and How PayPal Could Keep Rising"
+    },
+    "tweet3": {
+      "content": "Here's why there's been a resurgence in M&A activity in Q3"
+    },
+    "tweet4": {
+      "content": "White House Curbs on Chinese Payment Apps Pose Risk to Ant"
+    },
+    "tweet5": {
+      "content": "Up 50%, American Express Stock Still Has Potential"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "American Express Has Challenges Its Rivals Don’t Face, Analyst Says"
+    },
+    "tweet2": {
+      "content": "Dow Jones Pares Gains After Trump's 'Big Deal' News Fuels Stock Market Rally"
+    },
+    "tweet3": {
+      "content": "Most popular brands during COVID-19, according to MBLM brand intimacy report"
+    },
+    "tweet4": {
+      "content": "Visa brings \"Where You Shop Matters\" to Shanghai Fashion Week Spring/Summer 2021"
+    },
+    "tweet5": {
+      "content": "Mastercard Invests in Another Fintech, Marqeta"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Visa (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Apple's 5G iPhone 12 hasn't changed this Wall Street pro's COVID-19 trade"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Visa, Walmart, Abbott Laboratories, UnitedHealth Group and Oracle"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Raising Wages Is Just a Start on Fixing Skilled Worker Visas"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "Visa Stock: COMPANY_X Is for Vulnerable"
+    },
+    "tweet2": {
+      "content": "Visa Hikes Fees as Analysts Get More Bullish on Payment Stocks"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Visa (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Why MoneyGram International Soared Over 25% Today"
+    },
+    "tweet3": {
+      "content": "Here's What Visa's (NYSE:COMPANY_X) Strong Returns On Capital Means"
+    },
+    "tweet4": {
+      "content": "Was The Smart Money Right About Visa Inc (COMPANY_X)?"
+    },
+    "tweet5": {
+      "content": "Visa Nabs Strategic Stake In UK Fintech Company GPS"
+    },
+    "tweet6": {
+      "content": "Visa Takes Stake in U.K. Fintech Global Processing Services"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "3 Great Stocks for Low-Risk Investors"
+    },
+    "tweet2": {
+      "content": "2 Top Fintech Stocks to Buy Right Now"
+    },
+    "tweet3": {
+      "content": "Trump’s H-1B Reforms Will Make America Poorer"
+    },
+    "tweet4": {
+      "content": "4 of the Safest Robinhood Stocks Investors Can Buy"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Visa, JPMorgan Chase Launch Mobile Payment Services To Meet Demand For Touchless Transactions"
+    },
+    "tweet2": {
+      "content": "Dow Jones Weak as Verizon Reports Mixed Earnings, Visa and JPMorgan Chase Announce Mobile Payments Solutions"
+    },
+    "tweet3": {
+      "content": "Earnings Preview: Visa (COMPANY_X) Q4 Earnings Expected to Decline"
+    },
+    "tweet4": {
+      "content": "Visa Rolls Out Tap-to-Phone Contactless Technology"
+    },
+    "tweet5": {
+      "content": "Visa bets on smartphones as credit-card acceptance devices"
+    },
+    "tweet6": {
+      "content": "Visa Tap to Phone Transforms Payment Acceptance for Sellers Worldwide"
+    },
+    "tweet7": {
+      "content": "Visa Tap to Phone Transforms Payment Acceptance for Sellers Worldwide"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Visa (COMPANY_X) Expands Contactless Payment Method Via Tap to Phone"
+    },
+    "tweet2": {
+      "content": "Can Visa (COMPANY_X) Keep the Earnings Surprise Streak Alive?"
+    },
+    "tweet3": {
+      "content": "4 Stocks to Watch As Contactless Payment Gains Popularity"
+    },
+    "tweet4": {
+      "content": "4 Buffett Stocks That Can Be Surefire Winners Over the Next Decade"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "American Express Earnings Miss As Travel, Entertainment Spending Still Weak"
+    },
+    "tweet2": {
+      "content": "American Express Earnings Disappointed Because Cardholders Can’t Fly"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Visa Earnings: What to Look For"
+    },
+    "tweet2": {
+      "content": "Keep an Eye on Visa's Large Weighting in the S&P 500"
+    },
+    "tweet3": {
+      "content": "Keep an Eye on Visa's Large Weighting in the S&P 500"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Visa to Acquire YellowPepper"
+    },
+    "tweet2": {
+      "content": "Visa's deal to buy fintech startup Plaid faces antitrust scrutiny: WSJ"
+    },
+    "tweet3": {
+      "content": "Visa's deal to buy fintech startup Plaid faces antitrust scrutiny"
+    },
+    "tweet4": {
+      "content": "Visa's deal to buy fintech startup Plaid faces antitrust scrutiny - WSJ"
+    },
+    "tweet5": {
+      "content": "Visa (COMPANY_X) to Report Q4 Earnings: Can it Deliver a Beat Again?"
+    },
+    "tweet6": {
+      "content": "Business Services Oct 28 Earnings Roster: COMPANY_X, MA, and More"
+    },
+    "tweet7": {
+      "content": "Why Earnings Season Could Be Great for Visa (COMPANY_X)"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Analyst Report: Visa Inc."
+    },
+    "tweet2": {
+      "content": "Dow Jones Futures: ServiceNow, Pinterest Offer Hope After Stock Market Rout; All Eyes On Apple, Amazon, Facebook, Google"
+    },
+    "tweet3": {
+      "content": "Why Mastercard Plummeted by Over 8% on Wednesday"
+    },
+    "tweet4": {
+      "content": "Visa Earnings: What Happened"
+    },
+    "tweet5": {
+      "content": "Visa (COMPANY_X) Q4 Earnings and Revenues Surpass Estimates"
+    },
+    "tweet6": {
+      "content": "Visa posts beat on quarterly estimates"
+    },
+    "tweet7": {
+      "content": "Visa tops earnings expectations but feels the sting from travel slowdown"
+    },
+    "tweet8": {
+      "content": "Visa: Q4 Earnings Insights"
+    },
+    "tweet9": {
+      "content": "Visa Earnings Top After Mastercard Misses As Feds Probe Fintech Deals"
+    },
+    "tweet10": {
+      "content": "Visa profit falls 23% as payment volumes plunge"
+    },
+    "tweet11": {
+      "content": "Visa Inc. Fiscal Fourth Quarter and Full-Year 2020 Financial Results"
+    },
+    "tweet12": {
+      "content": "Visa To Report After Mastercard Misses As Feds Probe Fintech Deals"
+    },
+    "tweet13": {
+      "content": "Here's What To Know About The Coinbase Debit Card"
+    },
+    "tweet14": {
+      "content": "Here's Why Visa Is Plunging on Wednesday"
+    },
+    "tweet15": {
+      "content": "Here's Why Visa Is Plunging on Wednesday"
+    },
+    "tweet16": {
+      "content": "Mastercard Stock Is Having Its Worst Day Since March. Earnings Were Worse Than Expected."
+    },
+    "tweet17": {
+      "content": "Dow Jones Tumbles 800 Points As Stock Market Sells Off Again; Nasdaq Loses Support"
+    },
+    "tweet18": {
+      "content": "Mastercard Earnings Miss, Visa On Tap As Feds Probe Fintech Deals"
+    },
+    "tweet19": {
+      "content": "MA Stock Falls As Mastercard Earnings Miss; Visa Earnings On Tap"
+    },
+    "tweet20": {
+      "content": "3 Stocks to Hold for the Next 20 Years"
+    },
+    "tweet21": {
+      "content": "DOJ Considers Blocking Visa's Acquisition Of Fintech Firm Plaid: Report"
+    },
+    "tweet22": {
+      "content": "Visa's deal to buy fintech startup Plaid faces antitrust scrutiny"
+    },
+    "tweet23": {
+      "content": "PRESS DIGEST- Wall Street Journal - Oct. 28"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Dow Jones Rallies As Pelosi Pressures Mnuchin On Stimulus; This Stock Hits Buy Zone Amid Deal"
+    },
+    "tweet2": {
+      "content": "Dow Jones Rebounds Over 300 Points On Strong GDP; Apple Earnings On Deck"
+    },
+    "tweet3": {
+      "content": "Dow Jones Rebounds as Visa and Amgen Report Strong Results"
+    },
+    "tweet4": {
+      "content": "Dow Jones Reverses Higher As Stock Market Attempts Rebound; Will Apple Beat Or Miss?"
+    },
+    "tweet5": {
+      "content": "Visa (COMPANY_X) Q4 Earnings & Revenues Beat Estimates, Decline Y/Y"
+    },
+    "tweet6": {
+      "content": "Market Update: BP, GD, ITW, KLAC, LAZ, MAS, ROP, COMPANY_X, HCA"
+    },
+    "tweet7": {
+      "content": "Analyst Report: Visa Inc"
+    },
+    "tweet8": {
+      "content": "Citigroup CEO on government stimulus: We probably need another round"
+    },
+    "tweet9": {
+      "content": "What Does Visa's Debt Look Like?"
+    },
+    "tweet10": {
+      "content": "Visa 4Q Sales Sink 17% As Travel Freeze Hurts Payment Volumes"
+    },
+    "tweet11": {
+      "content": "Visa, Mastercard Earnings Hit By Lack Of Cross-Border Transactions"
+    },
+    "tweet12": {
+      "content": "Visa Shares Plunge About 5% on Q4 Earnings Disappointment; Analysts Cut Target Price"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Visa and Mastercard have a lot in common, but COVID-19 puts one key difference in focus"
+    },
+    "tweet2": {
+      "content": "Visa Inc. (NYSE:COMPANY_X) Annual Results: Here's What Analysts Are Forecasting For This Year"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "PayPal’s Earnings Beat Expectations. Why the Stock Is Tumbling."
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Visa Inc. to Participate in Upcoming Investor Conference"
+    },
+    "tweet2": {
+      "content": "The election is not as critical as stimulus, coronavirus vaccine: Analyst"
+    },
+    "tweet3": {
+      "content": "3 Stocks I'm Never Selling"
+    },
+    "tweet4": {
+      "content": "3 Stocks I'm Never Selling"
+    },
+    "tweet5": {
+      "content": "Should You Start Your War-on-Cash Investment Basket With Visa?"
+    },
+    "tweet6": {
+      "content": "Daily Spotlight: Potential Contested Election a Risk"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Visa and Mastercard Earnings, Square's Next Business, and Mall Bankruptcies"
+    },
+    "tweet2": {
+      "content": "Visa's Pursuit of Plaid Looks Too Much Like Facebook-Instagram"
+    },
+    "tweet3": {
+      "content": "Visa Sued by Justice Department Over Plaid Acquisition"
+    },
+    "tweet4": {
+      "content": "Visa’s $5 billion bid for fintech darling Plaid sparks lawsuit by Justice Department"
+    },
+    "tweet5": {
+      "content": "U.S. sues Visa to block its acquisition of Plaid"
+    },
+    "tweet6": {
+      "content": "Visa sued by U.S. over antitrust concerns for Plaid acquisition"
+    },
+    "tweet7": {
+      "content": "U.S. sues Visa to stop acquisition of Plaid, calling it ‘monopolistic’"
+    },
+    "tweet8": {
+      "content": "Visa Statement on Planned Acquisition of Plaid"
+    },
+    "tweet9": {
+      "content": "Analyst Report: Visa Inc."
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Dow Jones Little Changed as Visa's Plaid Acquisition Challenged, Disney Pulls Movies From Theaters"
+    },
+    "tweet2": {
+      "content": "Dow Jones Stalls As McConnell Resists Bigger Stimulus; This Leader Passes Buy Point"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Square stock gets an upgrade as analyst says not to ‘overlook’ Cash App potential"
+    },
+    "tweet2": {
+      "content": "Why Payment-Processing Stocks Jumped Today"
+    },
+    "tweet3": {
+      "content": "Visa, Mastercard, American Express stocks surge on hopes for travel recovery amid upbeat vaccine news"
+    },
+    "tweet4": {
+      "content": "Cramer Thinks Credit Card Stocks Could Be Winners Of Economic Reopening"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "What a Biden Presidency Means for the Merger Boom"
+    },
+    "tweet2": {
+      "content": "Payment Processing Stocks Gain on Coronavirus Vaccine News"
+    },
+    "tweet3": {
+      "content": "Will Bank Stocks Bounce Back After the COVID-19 Pandemic Ends?"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Should Warren Buffett Invest in PayPal?"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Pfizer, Visa, Mastercard, American Express and Discover Financial Services"
+    },
+    "tweet2": {
+      "content": "Better Buy: Square vs. Visa"
+    },
+    "tweet3": {
+      "content": "Singapore to Introduce New Visa to Draw Top Global Tech Talent"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Pandemic or Not, Visa Remains a Growth Stock Stalking Its Biggest Rival, Cash"
+    },
+    "tweet2": {
+      "content": "Visa's Third Quarter: What Investors Need to Know"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Dow Jones Futures: Apple, Disney Lead 5 Dow Stocks Near Buy Points For Coronavirus Vaccine Market"
+    },
+    "tweet2": {
+      "content": "Fintech Companies To Buy As Coronavirus Impacts E-Commerce, Digital Payments"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Biden Risks Ceding Asia's Digital Oil to China"
+    },
+    "tweet2": {
+      "content": "Visa Just Below Buy Point"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Ant Alumni Who Cashed Out Before IPO Flop Have Big Ambitions"
+    },
+    "tweet2": {
+      "content": "Visa Inc. to Participate in Upcoming Investor Conferences"
+    },
+    "tweet3": {
+      "content": "Visa’s fintech ambitions go beyond pending Plaid deal"
+    },
+    "tweet4": {
+      "content": "Visa Expands Fast Track Program to Enable Next Generation of Fintechs to Rebuild the Global Economy"
+    },
+    "tweet5": {
+      "content": "3 Perfect Stocks to Buy With $1,000 When Market Volatility Strikes"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Visa Partners with the NFL for Cashless Super Bowl"
+    },
+    "tweet2": {
+      "content": "Visa (COMPANY_X) Enhances Fast Track Program to Boost Fintechs' Growth"
+    },
+    "tweet3": {
+      "content": "Visa and the National Football League Announce Cash-Free Future for the Super Bowl"
+    },
+    "tweet4": {
+      "content": "Visa Launches Research Center Committed to Promoting and Advancing Global Economic Equity and Inclusivity"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Visa Completes Acquisition of YellowPepper"
+    },
+    "tweet2": {
+      "content": "U.S. Equity Markets Continue to Fall as COVID-19 Cases Rise"
+    },
+    "tweet3": {
+      "content": "2 Fintech Winners From a Coronavirus Vaccine and 2 That Are Under Pressure"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Visa Inc. Announces Appointment of Linda J. Rendle to its Board of Directors"
+    },
+    "tweet2": {
+      "content": "Visa Stalls Plans to Raise Fees for Some In-Store Retailers"
+    },
+    "tweet3": {
+      "content": "Visa Commercial Pay Brings Virtual Card Capabilities to Clients and Partners Worldwide"
+    },
+    "tweet4": {
+      "content": "Fed’s ETF Purchases Have Changed Markets Forever"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Dow Closes Above 30,000 at a New Record High"
+    },
+    "tweet2": {
+      "content": "Visa-Backed Marqeta Targets $10 Billion Valuation in 2021 IPO"
+    },
+    "tweet3": {
+      "content": "Here’s the 6th Most Popular Stock Among Hedge Funds"
+    },
+    "tweet4": {
+      "content": "Visa (COMPANY_X) Completes the Buyout of LatAm-Based YellowPepper"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Visa (COMPANY_X) Ties Up For Faster Digitization of B2B Payments"
+    },
+    "tweet2": {
+      "content": "Got $2,000? 3 Stocks to Buy When the Market Crashes Next"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "A Look Into Visa's Debt"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "Visa Invites Asia Pacific's Top Startups to Unlock Their Global Potential"
+    },
+    "tweet2": {
+      "content": "Analyzing Visa's Unusual Options Activity"
+    },
+    "tweet3": {
+      "content": "Here is the 5th Most Popular Stock Among Hedge Funds"
+    },
+    "tweet4": {
+      "content": "These 3 Dow Stocks Are Screaming Buys"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "This New Credit Card Will Pay Cash Back — Via Bitcoin"
+    },
+    "tweet2": {
+      "content": "BlockFi partners with Visa to launch bitcoin rewards credit card"
+    },
+    "tweet3": {
+      "content": "Facebook-Backed Libra Association Changes Its Name to Diem"
+    },
+    "tweet4": {
+      "content": "Is Visa (COMPANY_X) a Smart Long-term Buy?"
+    },
+    "tweet5": {
+      "content": "Visa's (COMPANY_X) Program to Aid Asia Pacific Startups Thrive Globally"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "Visa (COMPANY_X) Forays Further into Cryptocurrency Space With BlockFi"
+    },
+    "tweet2": {
+      "content": "Visa Could Rally 40% in 2021"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "Do Visa and Mastercard Need a Coronavirus Vaccine to Win in 2021?"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "Here's How MercadoLibre Cracked the Digital Payments Code in a Cash-Based Society"
+    },
+    "tweet2": {
+      "content": "Will Higher Holiday Sales Aid Visa's (COMPANY_X) U.S. Payment Volumes?"
+    },
+    "tweet3": {
+      "content": "A Trio of Stock Picks for a 'Buy and Hold' Approach"
+    },
+    "tweet4": {
+      "content": "Top 10 S&P 500 Stocks by Index Weight"
+    },
+    "tweet5": {
+      "content": "Facebook Accused by Trump Administration of H-1B Visa Abuse"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "Visa Joins Mastercard in Pornhub Review Following Abuse Claims"
+    },
+    "tweet2": {
+      "content": "Visa, Mastercard investigating their business ties with Pornhub"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "Pornhub bans video downloads following report of alleged child abuse content"
+    },
+    "tweet2": {
+      "content": "ECB Is Making Waves With Digital Currency Plans. That Could Be Bad News for European Banks."
+    },
+    "tweet3": {
+      "content": "Why Visa's Stock Climbed 15.8% in November"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "10 Dividend Stocks Warren Buffett Likes the Most"
+    },
+    "tweet2": {
+      "content": "Return On Capital Employed Overview: Visa"
+    },
+    "tweet3": {
+      "content": "2 Black Friday Winners Hiding in Plain Sight"
+    },
+    "tweet4": {
+      "content": "Mastercard Raises Dividend by 10% and Launches $6 Billion Share Buyback Program"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "Visa (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Institutional Interest In Volatile Bitcoin Could Bring Record Highs In 2021"
+    },
+    "tweet3": {
+      "content": "Visa, Mastercard Block Payments On Pornhub After Child Abuse Content Allegations"
+    },
+    "tweet4": {
+      "content": "American Express Declares New Dividend; Yield Is 1.4%"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "Bitcoin Price Tops $20,000 As AmEx Invests In Crypto Platform"
+    },
+    "tweet2": {
+      "content": "Visa has quietly warmed to crypto, along with PayPal and Square"
+    },
+    "tweet3": {
+      "content": "Bitcoin Price Tops $20,000, Lifted By Mainstream Adoption"
+    },
+    "tweet4": {
+      "content": "Visa and Visa Foundation Extend Support of Minority-led Small Businesses"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "Visa (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Dow Jones Jumps As McConnell Says Stimulus Deal Is 'At Hand'; Nasdaq, S&P 500 Hit New Highs"
+    },
+    "tweet3": {
+      "content": "5 Companies Owned by COMPANY_X"
+    },
+    "tweet4": {
+      "content": "Bitcoin reaches all-time high, trading well above $20k"
+    },
+    "tweet5": {
+      "content": "Centra Tech Co-Founder Sentenced to a Year in Prison"
+    },
+    "tweet6": {
+      "content": "3 Dividend Stocks That Have Doubled Their Payouts in 5 Years"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "Why Wall Street Would Love to See a Merger of FIS and Global Payments"
+    },
+    "tweet2": {
+      "content": "ICICI Bank Canada Visa* Debit Card launched"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "5 Brand-Name Stocks That Can Still Make You a Fortune"
+    },
+    "tweet2": {
+      "content": "Mark Zuckerberg Has Another Answer to Bitcoin"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "Visa (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Square Stock Is a Superstar With Plenty More to Come in 2021"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "Dow Jones Rises In Santa Claus Rally After Trump Calls Stimulus Bill A 'Disgrace'"
+    },
+    "tweet2": {
+      "content": "Booz Allen (BAH) Appoints EVP to Its Global Commercial Business"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "Dow Jones Futures: Stock Market Rally Hits Highs On Apple, Amazon, These Giants, But Growth Has Bad Day"
+    },
+    "tweet2": {
+      "content": "10 Best Dow Stocks To Buy Now"
+    },
+    "tweet3": {
+      "content": "IPOs in 2021: After a year of impressive pandemic offerings, these tech companies expect to keep it rolling"
+    },
+    "tweet4": {
+      "content": "3 Tech Stocks to Watch in 2021"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "Dow Jones Falls 100 Points As McConnell Says No To Schumer; 8 Blue-Chip Stocks Near Buy Points"
+    },
+    "tweet2": {
+      "content": "Simplex to Become Visa Principal Member and European Card Issuer"
+    },
+    "tweet3": {
+      "content": "5 Things to Expect From Visa in 2021"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "Markets Close Higher on Penultimate Trading Day of 2020"
+    },
+    "tweet2": {
+      "content": "Visa (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet3": {
+      "content": "Visa, IBD Stock Of The Day, Breaks Out On Stimulus, Post-Covid Growth Outlook"
+    },
+    "tweet4": {
+      "content": "Dow Jones Futures:"
+    },
+    "tweet5": {
+      "content": "Dow Jones On Track For New Closing High; McConnell Unveils New Stimulus Bill"
+    },
+    "tweet6": {
+      "content": "Visa Clears Flat Base"
+    },
+    "tweet7": {
+      "content": "Visa (COMPANY_X) to Gain from Higher Crypto Demand Amid Digitalization"
+    },
+    "tweet8": {
+      "content": "Got $3,000? 3 of the Safest Stocks to Buy for 2021"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "Dow Jones Falls On Last Day Of 2020, As Apple Eyes New Buy Point; Nio Jumps, While Baidu, Tesla Hit New Highs"
+    },
+    "tweet2": {
+      "content": "3 Fintech Stocks That Could Gain Big From Bitcoin's Rebound"
+    },
+    "tweet3": {
+      "content": "Dow Jones Futures: Stock Market Rally Caps 2020 As Tesla, Nio Extend Gains; Five Stocks Enter Buy Zones"
+    },
+    "tweet4": {
+      "content": "Dow Jones Futures Signal Stock Market Rally To Cap 2020 As Tesla, Nio, Bitcoin Extend Gains; Five Stocks Enter Buy Zones"
+    },
+    "tweet5": {
+      "content": "Dow Jones Futures: Tesla, Nio, Bitcoin Jump In Quietly Bullish Stock Market Rally; Five Stocks Enter Buy Zones"
+    }
+  }
+}

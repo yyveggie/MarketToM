@@ -1,0 +1,658 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "Company News for Aug 3, 2020"
+    },
+    "tweet2": {
+      "content": "Should Value Investors Buy Chevron (COMPANY_X) Stock?"
+    },
+    "tweet3": {
+      "content": "RPT-BUZZ-U.S. stocks weekly: Tech save"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "River Valley Community Bank announces its Marysville Branch is now open; Hires Rosemary Daoust, SVP to lead community outreach effort"
+    },
+    "tweet2": {
+      "content": "Economic Normality: When? Sooner? Never?"
+    },
+    "tweet3": {
+      "content": "Dow's 138-point climb led by gains in Dow Inc., Exxon Mobil shares"
+    },
+    "tweet4": {
+      "content": "As More Oil Majors Cut Their Dividends, Is Exxon's Next?"
+    },
+    "tweet5": {
+      "content": "Energy ETFs Down on Weak Exxon, Chevron Earnings"
+    },
+    "tweet6": {
+      "content": "Top 5 Things to Know in the Market on Tuesday, August 4th"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Caterpillar, Coca-Cola, and 4 More Stocks With Solid Dividends for a Pandemic-Stricken World"
+    },
+    "tweet2": {
+      "content": "Dow Jones Today Jumps 200 Points On Disney Earnings Surprise; Novavax Leads Biotech Rally; Beirut Blast Lifts Oil"
+    },
+    "tweet3": {
+      "content": "Oil & Gas Stock Roundup: The Big Oil Q2 Earnings Edition"
+    },
+    "tweet4": {
+      "content": "US STOCKS-Wall St set to rise on Disney's surprise profit, upbeat healthcare results"
+    },
+    "tweet5": {
+      "content": "4 Stocks to Buy With Dividends Yielding More Than 5%"
+    },
+    "tweet6": {
+      "content": "Electric vehicle charge network ChargePoint bags $127 mln from investors"
+    },
+    "tweet7": {
+      "content": "BP Walks Away From the Oil Supermajor Model It Helped Create"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Exxon Mobil Finally Surrenders To Low Oil Prices With Late Warning"
+    },
+    "tweet2": {
+      "content": "Cross-Sector: Market Data Highlights"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Exxon Mobil, Chevron, Royal Dutch Shell, BP and TOTAL"
+    },
+    "tweet4": {
+      "content": "Chevron can lift Israel's Leviathan gas field on to global stage, partner says"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "COVID Fears Cause Oil To Fall Back After A Brief Rally"
+    },
+    "tweet2": {
+      "content": "Dow's 100-point fall led by losses in shares of Microsoft, Chevron"
+    },
+    "tweet3": {
+      "content": "Cisco, Chevron share losses contribute to Dow's 25-point fall"
+    },
+    "tweet4": {
+      "content": "3 “Strong Buy” Dividend Stocks Yielding 5% — Or More"
+    },
+    "tweet5": {
+      "content": "Exxon Mobil, Chevron share losses contribute to Dow's 100-point fall"
+    },
+    "tweet6": {
+      "content": "Chevron ordered to inspect propane kettles at Gorgon LNG plant in Australia"
+    },
+    "tweet7": {
+      "content": "Australian regulator orders inspection at Chevron's Gorgon LNG plant"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Chevron Corporation -- Moody's assigns an Aa2 rating to Chevron U.S.A. Inc.'s senior unsecured notes"
+    },
+    "tweet2": {
+      "content": "How Did the Big Oil Firms Stack Up This Earnings Season?"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Exxon to buy renewable diesel from Global Clean Energy for 5 years"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Exxon Mobil, Chevron, Royal Dutch Shell, TOTAL and Eni"
+    },
+    "tweet3": {
+      "content": "Chevron Pledges $1 Million for Lebanese Red Cross"
+    },
+    "tweet4": {
+      "content": "Occidental Shares Slide After Wider-Than-Expected Q2 Loss, $6.6 Billion Oil & Gas Writedown"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Chevron Invests in Nuclear Fusion Start-up"
+    },
+    "tweet2": {
+      "content": "Israel’s Government to Back Chevron Takeover of Noble Assets"
+    },
+    "tweet3": {
+      "content": "Goldman Sachs, JPMorgan Chase share gains contribute to Dow's 214-point jump"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Will Apple Bring Sticker Shock to Credit Markets?"
+    },
+    "tweet2": {
+      "content": "Cross-Sector: Market Data Highlights"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "The 3 Best Dow Jones Stocks to Trade Today"
+    },
+    "tweet2": {
+      "content": "Lawyer who took on Chevron in Ecuador is disbarred in New York"
+    },
+    "tweet3": {
+      "content": "Oil Giants Have Contrasting Approaches To The Crisis"
+    },
+    "tweet4": {
+      "content": "Love Dividends? 2 Stocks You Might Want to Buy"
+    },
+    "tweet5": {
+      "content": "Better Buy: Exxon Mobil vs. Chevron"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "The State of the Oil Industry, Part 2"
+    },
+    "tweet2": {
+      "content": "Iraq to Sign Memorandum With Chevron to Explore For Oil"
+    },
+    "tweet3": {
+      "content": "We've got a 'creeping tsunami' of bankruptcies: Oil Expert"
+    },
+    "tweet4": {
+      "content": "Chevron pursues exploration deal in Iraq - WSJ"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Chevron, JPMorgan Chase share losses contribute to Dow's nearly 75-point fall"
+    },
+    "tweet2": {
+      "content": "The State of the Oil Industry, Part 3"
+    },
+    "tweet3": {
+      "content": "Chevron Invests in Seattle-Based Nuclear Fusion Start-Up"
+    },
+    "tweet4": {
+      "content": "Want to Make Money on Oil Stocks? Look to Europe."
+    },
+    "tweet5": {
+      "content": "Visa, Chevron share losses lead Dow's nearly 75-point drop"
+    },
+    "tweet6": {
+      "content": "Oil & Gas Stock Roundup: Southwestern's Acquisition, Chevron's Investment & More"
+    },
+    "tweet7": {
+      "content": "PRESS DIGEST - Wall Street Journal - Aug 18"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "GE signs power agreements worth over $1.2 bln with Iraq"
+    },
+    "tweet2": {
+      "content": "Big Oil’s Petrochemical Bet Is A Risky One"
+    },
+    "tweet3": {
+      "content": "Coca-Cola, Walmart share losses contribute to Dow's 50-point drop"
+    },
+    "tweet4": {
+      "content": "Iraq, Chevron seen signing deal Wednesday - Iraqi foreign minister"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Trump’s OPEC Push Fails to Avert U.S. Oil Industry Breakdown"
+    },
+    "tweet2": {
+      "content": "Dow Inc., Walmart share losses contribute to Dow's 31-point drop"
+    },
+    "tweet3": {
+      "content": "Dow drops 116 points on losses for shares of Raytheon Technologies Corp., Dow Inc."
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Chevron evacuating some staff from Gulf platforms ahead of storms"
+    },
+    "tweet2": {
+      "content": "Chevron to shut Gorgon LNG Train 1 in early Oct, Train 3 in Jan 2021"
+    },
+    "tweet3": {
+      "content": "Update on Chevron inspections of Gorgon LNG plant due Friday - regulator"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Chevron to Halt Gorgon Project Trains 1 & 3 for Fault Checking"
+    },
+    "tweet2": {
+      "content": "A $91 Billion Asset Manager Dumps Exxon, Chevron on Climate"
+    },
+    "tweet3": {
+      "content": "Storebrand divests out of Exxon, others over climate lobbying"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Why Exxon Is Being Dropped From the Dow"
+    },
+    "tweet2": {
+      "content": "Storm Laura Set to Slam U.S. Energy Coast as a Major Hurricane"
+    },
+    "tweet3": {
+      "content": "Crude Price Soars as Twin Storms Roar Toward Gulf of Mexico"
+    },
+    "tweet4": {
+      "content": "Dow Futures Rise 185 Pts Following  Sino-U.S. Trade Talks"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Hurricane Laura is 'big deal'  to U.S. oil output: Expert"
+    },
+    "tweet2": {
+      "content": "Chevron in 4 Charts"
+    },
+    "tweet3": {
+      "content": "Cramer Weighs In On General Electric, Chevron And More"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Oil outlook as Hurricane Laura pounds Gulf Coast"
+    },
+    "tweet2": {
+      "content": "Is Chevron Stock a Buy?"
+    },
+    "tweet3": {
+      "content": "Hurricane Laura Makes Landfall. Oil Markets Shrug."
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Activists May Focus on Energy and Health Care Next Year"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, Chevron, Royal Dutch Shell, BP and Parsley Energy"
+    },
+    "tweet3": {
+      "content": "Hurricane Laura causes billions in damage on Gulf Coast"
+    },
+    "tweet4": {
+      "content": "Here's Why Chevron Is the Last Oil Stock in the Dow and Not ExxonMobil"
+    },
+    "tweet5": {
+      "content": "Exxon Mobil Stock’s 8.7% Dividend Yield Reeks of Desperation"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Australia's Ampol sued by Chevron over alleged 'Caltex' branding breaches"
+    },
+    "tweet2": {
+      "content": "Australia's Ampol sued by Chevron over alleged trademark licence breaches"
+    },
+    "tweet3": {
+      "content": "Walt Disney, JPMorgan Chase share losses lead Dow's nearly 125-point fall"
+    },
+    "tweet4": {
+      "content": "RPT-Second U.S. shale boom's legacy: Overpriced deals, unwanted assets"
+    },
+    "tweet5": {
+      "content": "Second U.S. shale boom's legacy: Overpriced deals, unwanted assets"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Charles de Vaulx's Top 5 Trades of the 2nd Quarter"
+    },
+    "tweet2": {
+      "content": "Chevron Corporation (COMPANY_X): Hedge Funds Taking Some Chips Off The Table"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Exxon Mobil Gets Set To Shrink As Oil Price Recovery Stagnates"
+    },
+    "tweet2": {
+      "content": "Should You Invest in Exxon Mobil Stock After It’s Been Cancelled?"
+    },
+    "tweet3": {
+      "content": "Top Stock Reports for Walmart, Roche & Chevron"
+    },
+    "tweet4": {
+      "content": "Exxon Mobil Set To Shrink As Oil Stagnates; U.S. Output Hits Jan. 2018 Low"
+    },
+    "tweet5": {
+      "content": "I have a problem with Tesla: Billionaire Investor"
+    },
+    "tweet6": {
+      "content": "The Largest Oil Play Of The Decade? Interview With Daniel Jarvie"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Clean Energy Fuels Is One Renewable Energy Stock to Watch"
+    },
+    "tweet2": {
+      "content": "3 Great Reasons to Buy Chevron"
+    },
+    "tweet3": {
+      "content": "Unusual Options Activity Insight: Chevron"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: Walmart, Roche and Chevron"
+    },
+    "tweet5": {
+      "content": "Influencers with Andy Serwer: Mario Gabelli"
+    },
+    "tweet6": {
+      "content": "Chevron delays restart of Gorgon LNG train 2 by a month for repairs"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Chevron Postpones Scheduled Restart of Train 2 Until October"
+    },
+    "tweet2": {
+      "content": "5 Energy Stocks to Consider as Oil Prices Struggle to Recover"
+    },
+    "tweet3": {
+      "content": "Shareholders warm to proposals focused on climate, social issues -Georgeson"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Chevron Welcomes Familiar Face to Board"
+    },
+    "tweet2": {
+      "content": "Elliott Discloses Stake in Takeover Target Noble Energy"
+    },
+    "tweet3": {
+      "content": "Dow Jones Dives 400 Points As Stock Market Rout Extends; Tesla Tanks"
+    },
+    "tweet4": {
+      "content": "Dow's 430-point fall led by losses for shares of Boeing, Chevron"
+    },
+    "tweet5": {
+      "content": "Oil Tumbles Below Critical $40 Level"
+    },
+    "tweet6": {
+      "content": "Jon Huntsman Jr. Rejoins Chevron’s Board of Directors"
+    },
+    "tweet7": {
+      "content": "Like Dividends? I Bet You'll Love These 3 Stocks"
+    },
+    "tweet8": {
+      "content": "Oil & Gas Stock Roundup: TOTAL's EV Battery JV, Chevron's Gorgon Delay & More"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "3 High-Yielding Hedges For Tech's Valuation Compression"
+    },
+    "tweet2": {
+      "content": "Change the Exxon Mobil Stock Strategy to Suit the New Normal"
+    },
+    "tweet3": {
+      "content": "Elliott seeking to break up Noble Energy's sale to Chevron - Bloomberg reporter"
+    },
+    "tweet4": {
+      "content": "Elliott Seeks to Break Up Chevron’s Takeover of Noble"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "10 Biggest Oil Companies"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Post-Bankruptcy, Whiting Petroleum an Intriguing Choice for Oil Bulls"
+    },
+    "tweet2": {
+      "content": "Chevron’s Delo Traveling Technology Lab Wins Global 2020 Corporate Events Award from EXHIBITOR Magazine"
+    },
+    "tweet3": {
+      "content": "Proxy advisor ISS says recommends Chevron deal to Noble Energy shareholders"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Chevron (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Oil Demand May Have Already Peaked. Here’s Which Stocks Will Win—and Lose."
+    },
+    "tweet3": {
+      "content": "Hurricane Sally Menaces New Orleans and the Alabama Coast"
+    },
+    "tweet4": {
+      "content": "Chevron Donates $250,000 for California Fire Relief"
+    },
+    "tweet5": {
+      "content": "Tesla’s Hot Summer Looks Like the Fracking Boom"
+    },
+    "tweet6": {
+      "content": "Chevron shuts Blind Faith, Petronius platforms due to tropical storm -sources"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "12 Beaten-Up Stocks That Can Still Rocket Higher—but Aren’t for the Faint of Heart"
+    },
+    "tweet2": {
+      "content": "12 Beaten Up Stocks That Could Bounce in the Recovery"
+    },
+    "tweet3": {
+      "content": "Sally brings 100-mph winds as it rumbles into U.S. Gulf Coast"
+    },
+    "tweet4": {
+      "content": "Big Oil Goes Looking for a Career Change"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Exclusive: EQT bids for Chevron U.S. shale-gas assets in Appalachia - sources"
+    },
+    "tweet2": {
+      "content": "The Hague Court Rules for Chevron in Ecuador Dispute"
+    },
+    "tweet3": {
+      "content": "Stock Market Today: Fed Frazzles Stocks, But Buffett Scores Big"
+    },
+    "tweet4": {
+      "content": "Dow Jones Rises On Dovish Fed Announcement; These Stocks Among Day's Leaders"
+    },
+    "tweet5": {
+      "content": "Dow jumps 179 points on gains in Walgreens Boots, Chevron shares"
+    },
+    "tweet6": {
+      "content": "Chevron begins restoring production on Blind Faith, Petronius platforms -company"
+    },
+    "tweet7": {
+      "content": "Dow's 270-point climb highlighted by gains for shares of Chevron, Walgreens Boots"
+    },
+    "tweet8": {
+      "content": "Energy stocks see broad rally as oil prices jump"
+    },
+    "tweet9": {
+      "content": "U.S. CEO group says it supports carbon pricing to fight climate change"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Oil Titans Mulling Arctic Drilling Targeted by Activist Groups"
+    },
+    "tweet2": {
+      "content": "Cross-Sector: Market Data Highlights"
+    },
+    "tweet3": {
+      "content": "Where to Invest $5,000 Right Now"
+    },
+    "tweet4": {
+      "content": "Boeing, Chevron share losses contribute to Dow's 334-point drop"
+    },
+    "tweet5": {
+      "content": "2 Energy Stocks That Have a Killer Advantage"
+    },
+    "tweet6": {
+      "content": "Exclusive: EQT bids for Chevron U.S. shale-gas assets in Appalachia - sources"
+    },
+    "tweet7": {
+      "content": "The World's Last Great Oilfield: An Interview With Nick Steinsberger"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Oil Bulls Return As OPEC+ Reassures Markets"
+    },
+    "tweet2": {
+      "content": "EQT Corp. in Talks With Chevron for Assets in Appalachia"
+    },
+    "tweet3": {
+      "content": "Walgreens Boots, Chevron share losses lead Dow's nearly 100-point fall"
+    },
+    "tweet4": {
+      "content": "Proxy advisor Glass Lewis backs Noble Energy sale to Chevron - memo"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Don’t Give Up on Recycling Plastic"
+    },
+    "tweet2": {
+      "content": "Top Research Reports for Apple, Amazon & Chevron"
+    },
+    "tweet3": {
+      "content": "Dow Jones Dives 800 Points To Break Key Support As Banks, Coronavirus Weigh"
+    },
+    "tweet4": {
+      "content": "The Hague Court Ruling Favours Chevron in Ecuador Dispute"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Chevron (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: AAPL, AMZN, COMPANY_X, AZN and QCOM"
+    },
+    "tweet3": {
+      "content": "Chevron's (COMPANY_X) Australian Plants to Lay Off 20-30% Workforce"
+    },
+    "tweet4": {
+      "content": "Boeing, Travelers share gains lead Dow's 70-point climb"
+    },
+    "tweet5": {
+      "content": "Oil & Gas Stock Roundup: Chevron's Ecuador Win, Eni's Egypt Gas Find & More"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Salesforce.com Inc., Chevron share losses contribute to Dow's 487-point fall"
+    },
+    "tweet2": {
+      "content": "Dow drops 125 points on losses in Salesforce.com Inc., Chevron stocks"
+    },
+    "tweet3": {
+      "content": "Chevron Tells Employees to Delete WeChat From Their Phones or Lose Access"
+    },
+    "tweet4": {
+      "content": "American Express, Chevron share losses contribute to Dow's 50-point fall"
+    },
+    "tweet5": {
+      "content": "Chevron asks employees to delete WeChat after U.S. ban - Bloomberg News"
+    },
+    "tweet6": {
+      "content": "Chevron asks employees to delete WeChat after U.S. ban: Bloomberg News"
+    },
+    "tweet7": {
+      "content": "Chevron Asks Global Employees to Delete WeChat After Trump Ban"
+    },
+    "tweet8": {
+      "content": "Chevron Asks Global Employees to Delete WeChat After Trump Ban"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "'Halftime Report' Traders Share Their Thoughts On Chevron"
+    },
+    "tweet2": {
+      "content": "Why Buy a Yield Trap With AT&T?"
+    },
+    "tweet3": {
+      "content": "Chevron Staff Gets Cut-Off Date to Remove Wechat From Phones"
+    },
+    "tweet4": {
+      "content": "Chevron Has 'Significant Strategic Advantage,' MKM Says In Bullish Initiation"
+    },
+    "tweet5": {
+      "content": "Dow's nearly 50-point fall led by losses in shares of Boeing, Nike"
+    },
+    "tweet6": {
+      "content": "CalBio, Dairy Farmers and Chevron Announce First RNG"
+    },
+    "tweet7": {
+      "content": "Analyzing Chevron's Unusual Options Activity"
+    },
+    "tweet8": {
+      "content": "Chevron Asks Staff To Remove WeChat From Phones – Report"
+    },
+    "tweet9": {
+      "content": "Trump’s Supreme Court Nominee Could Be Good for the Economy"
+    },
+    "tweet10": {
+      "content": "Electric vehicle charging network ChargePoint to go public at $2.4 bln valuation"
+    },
+    "tweet11": {
+      "content": "Two Ways To Win Big On The Oil Price Rebound"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Trump Asks U.S. Court to Allow WeChat Ban to Proceed"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "'Halftime Report' Traders Weigh In On Bank Of America's Upgrade Of Chevron"
+    },
+    "tweet2": {
+      "content": "Dow rallies 462 points on gains for shares of Boeing, Dow Inc."
+    },
+    "tweet3": {
+      "content": "Chevron Up as Bank of America Lifts Stock to Buy on Valuation"
+    },
+    "tweet4": {
+      "content": "Why Chevron's Stock Is Trading Higher Today"
+    },
+    "tweet5": {
+      "content": "Chevron, American Express share gains lead Dow's 333-point rally"
+    },
+    "tweet6": {
+      "content": "Benzinga's Top Upgrades, Downgrades For September 28, 2020"
+    },
+    "tweet7": {
+      "content": "Is It Time to Buy These 3 Beaten-Down Dow Jones Stocks?"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Dow's 115-point drop led by losses for Chevron, Travelers shares"
+    },
+    "tweet2": {
+      "content": "Dow Loses 200 Points Ahead Of Debate, As This Key Stock Rallies"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

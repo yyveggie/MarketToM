@@ -1,0 +1,583 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "Regeneron says antibody cocktail prevents and treats COVID-19 in animals"
+    },
+    "tweet2": {
+      "content": "U.S. Cases Increase 0.9%; California, Arizona Slow: Virus Update"
+    },
+    "tweet3": {
+      "content": "Eli Lilly Stock Jumps As Coronavirus Drug Enters Phase 3 Testing"
+    },
+    "tweet4": {
+      "content": "Coronavirus update: Birx in Trump's crosshairs for 'new phase' as WHO warns on vaccine hopes"
+    },
+    "tweet5": {
+      "content": "COVID-19 is 'running rampant in poorer communities': Fmr. CDC official"
+    },
+    "tweet6": {
+      "content": "Stocks Climb to Start the Month as New Virus Cases Fall"
+    },
+    "tweet7": {
+      "content": "The Vanguard Health Care Fund Cuts Eli Lilly, Merck & Co."
+    },
+    "tweet8": {
+      "content": "Nasdaq Races to Record High as Big Tech Reigns Supreme"
+    },
+    "tweet9": {
+      "content": "Eli Lilly Begins Phase III Trial of Antibody Against Covid-19"
+    },
+    "tweet10": {
+      "content": "Eli Lilly Stock Is Rising as the Company Tests a Covid-19 Antibody Drug In Nursing Homes"
+    },
+    "tweet11": {
+      "content": "Dow Gains as Big Tech Continues Reign; Microsofts Jumps on TikTok Talks"
+    },
+    "tweet12": {
+      "content": "GLOBAL MARKETS-Summer mood swings: markets turn higher on hopes of virus aid"
+    },
+    "tweet13": {
+      "content": "Eli Lilly Kicks Off Covid-19 Antibody Trial In Nursing Home Residents"
+    },
+    "tweet14": {
+      "content": "Lilly's stock rises as it announces late-stage trial for COVID-19 drug in nursing homes"
+    },
+    "tweet15": {
+      "content": "FOCUS-Next big COVID-19 treatment may be manufactured antibodies"
+    },
+    "tweet16": {
+      "content": "Lilly starts late-stage study of COVID-19 drug in nursing homes"
+    },
+    "tweet17": {
+      "content": "Lilly Initiates Phase 3 Trial of LY-CoV555 for Prevention of COVID-19 at Long-Term Care Facilities in Partnership with the National Institute of Allergy and Infectious Diseases (NIAID)"
+    },
+    "tweet18": {
+      "content": "Rival drugmakers launch joint trial of medicines for COVID-19"
+    },
+    "tweet19": {
+      "content": "Stocks - Microsoft, Marathon Petroleum Rise Premarket; HSBC Falls"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Eli Lilly's COVID-19 Treatment Candidate Will Be the First Tested in NIH's Phase 3 Study"
+    },
+    "tweet2": {
+      "content": "Incyte Earnings Soar 65%, Easily Beating Views"
+    },
+    "tweet3": {
+      "content": "Trending Market News Tuesday: Facebook, Eli Lilly, Activision"
+    },
+    "tweet4": {
+      "content": "NIH to launch trials to test antibody drugs for COVID-19"
+    },
+    "tweet5": {
+      "content": "Morning Bell With Jim Cramer: TikTok Will Help Microsoft"
+    },
+    "tweet6": {
+      "content": "Eli Lilly Brings a Coronavirus Drug Study Directly to Senior Care Facilities -- in RVs"
+    },
+    "tweet7": {
+      "content": "Pharma Stocks in Focus on Late-Stage Coronavirus Vaccine Trials"
+    },
+    "tweet8": {
+      "content": "Better Coronavirus Stock: Regeneron or Eli Lilly?"
+    },
+    "tweet9": {
+      "content": "Regeneron Pharmaceuticals Reports Earnings Tomorrow. Here’s What to Expect."
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Eli Lilly, Moderna, Pfizer, Sanofi, GlaxoSmithKline and BioNTech"
+    },
+    "tweet2": {
+      "content": "Empagliflozin meets primary endpoint in reducing risk of cardiovascular death or hospitalization for heart failure in Phase III trial in adults with and without diabetes"
+    },
+    "tweet3": {
+      "content": "NIH to test Lilly's experimental monoclonal antibody treatment in mild and moderate COVID-19 cases"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "‘We need to make sure that the science and safety is there’ so people can trust the vaccine: doctor"
+    },
+    "tweet2": {
+      "content": "Early Sales of Eli Lilly's Migraine Drug Disappoint"
+    },
+    "tweet3": {
+      "content": "Top Stock Reports for Apple, Mastercard & Eli Lilly"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Pharma ETFs Soar on Robust Q2 Earnings"
+    },
+    "tweet2": {
+      "content": "Pharma Stock Roundup: ABBV, MRK Q2 Earnings & Coronavirus Updates in Focus"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Apple, Mastercard, Eli Lilly, PetroChina and Anheuser-Busch InBev"
+    },
+    "tweet4": {
+      "content": "NIH to test remdesivir with Merck KGaA's interferon therapy as a COVID-19 treatment"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Coronavirus update: Kodak federal loan in jeopardy; Gilead seeks approval of remdesivir"
+    },
+    "tweet2": {
+      "content": "Omeros Reports Coronavirus Treatment Success; Stock Soars"
+    },
+    "tweet3": {
+      "content": "Eli Lilly, Innovent Deliver Encouraging Lung Cancer Data For Sintilimab"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Eli Lilly, Innovent’s TYVYT Expanded Use Application Accepted In China"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "A Field Guide to Covid-19 Vaccines and Antivirals"
+    },
+    "tweet2": {
+      "content": "Eli Lilly, Novartis Have Most Valuable Pipeline Drugs"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "2 Forever Pharma Stocks to Buy Now"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Latest Innovent Deal Gives Eli Lilly Drug Rights Outside China"
+    },
+    "tweet2": {
+      "content": "The Daily Biotech Pulse: Poseida's Phase 1 Study Placed On Clinical Hold, Orphan Drug Designation For Krystal Biotech, Tiziana's Patent Award"
+    },
+    "tweet3": {
+      "content": "Lilly and Innovent Announce Global Expansion of TYVYT Licensing Agreement"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Eli Lilly and Company -- Moody's rates Eli Lilly's notes A2; stable outlook"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Eli Lilly (Still) Looks Like the Best Buy in Large-Cap Pharma"
+    },
+    "tweet2": {
+      "content": "Pharma Stock Roundup: SNY, JNJ Acquisition Deals, FDA Approvals"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Teva Pharmaceuticals Unit Actavis Generics Wins FDA Approval for Lung Cancer Drug Pemetrexed"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Companies Big and Small Seeking  $10 Billion Alzheimer's Opportunity"
+    },
+    "tweet2": {
+      "content": "AstraZeneca Coronavirus Treatment Testing Begins, Called 'Important Milestone'"
+    },
+    "tweet3": {
+      "content": "AstraZeneca Coronavirus Treatment Testing Begins, Called 'Important Milestone'"
+    },
+    "tweet4": {
+      "content": "AstraZeneca Coronavirus Treatment Testing Begins; 'Important Milestone'"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Shares of Bristol-Myers Have Tremendous Potential"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "New England Journal of Medicine Publishes Phase 1/2 Data for Retevmo™ (selpercatinib) in Advanced RET-Driven Lung and Thyroid Cancers"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "AstraZeneca, Novo Pursuing Alzheimer's as Metabolic Disease"
+    },
+    "tweet2": {
+      "content": "Better Buy: Eli Lilly vs. Pfizer"
+    },
+    "tweet3": {
+      "content": "3 Stocks to Build Your Portfolio Around"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Why Eli Lilly (COMPANY_X) is a Great Dividend Stock Right Now"
+    },
+    "tweet2": {
+      "content": "GSK, partner Vir join race to find COVID-19 antibody treatment"
+    },
+    "tweet3": {
+      "content": "Merck vs Eli Lilly: Which Pharma Stock Is A Better Pick?"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Eli Lilly and Company (COMPANY_X): Hedge Funds Are Snapping Up"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Eli Lilly (COMPANY_X) Stock Moves -0.35%: What You Should Know"
+    },
+    "tweet2": {
+      "content": "FDA approves additional doses of Trulicity® (dulaglutide) for the treatment of type 2 diabetes"
+    },
+    "tweet3": {
+      "content": "Why Morgan Stanley Is Buying The Dip In Eli Lilly"
+    },
+    "tweet4": {
+      "content": "A Trio of Stock Picks for the Value Investor"
+    },
+    "tweet5": {
+      "content": "Merck CEO sees human trials for COVID-19 vaccine candidate 'fairly soon'"
+    },
+    "tweet6": {
+      "content": "Morgan Stanley Turns Bullish On Eli Lilly, Lifts PT"
+    },
+    "tweet7": {
+      "content": "How Much Did Eli Lilly's (NYSE:COMPANY_X) CEO Pocket Last Year?"
+    },
+    "tweet8": {
+      "content": "The Blockbuster Drug That Could Pay Off Big for Eli Lilly"
+    },
+    "tweet9": {
+      "content": "Pfizer targets end of October for COVID-19 vaccine update"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Lilly (COMPANY_X) Gets FDA Approval for Higher Doses of Trulicity"
+    },
+    "tweet2": {
+      "content": "The Daily Biotech Pulse: AbbVie In-licenses I-Mab's Cancer Drug, Savara Pulls The Plug On Cystic Fibrosis Study"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "COVID-19 vaccine safety pledge will make 'huge difference': Doctor"
+    },
+    "tweet2": {
+      "content": "S.Korea's Celltrion to begin commercial production of COVID-19 antibody drug"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Eli Lilly (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Regeneron expects to report biomarker data for COVID-19 therapy by September end"
+    },
+    "tweet3": {
+      "content": "2 Coronavirus Treatment Stocks to Buy Right Now"
+    },
+    "tweet4": {
+      "content": "Lilly Announces Leadership Changes"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Lilly Announces Webcast to Discuss ESMO 2020 Presentations"
+    },
+    "tweet2": {
+      "content": "Regeneron’s Virus Treatment Has Probably Missed the Bus"
+    },
+    "tweet3": {
+      "content": "Lilly commits Insulin Value Program, featuring $35 copay card, to suite of affordability solutions for people with diabetes"
+    },
+    "tweet4": {
+      "content": "Lilly Oncology to Showcase New Data from Robust Cancer Research Pipeline at ESMO Virtual Congress 2020"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Lilly to Participate in Cantor Fitzgerald Virtual Global Healthcare Conference"
+    },
+    "tweet2": {
+      "content": "Animal Spirits for Elanco? Pet-Care Company’s Stock Is Well Positioned for Gains."
+    },
+    "tweet3": {
+      "content": "Antibody therapy developer AbCellera hires banks for U.S. IPO -sources"
+    },
+    "tweet4": {
+      "content": "Lilly to Participate in Morgan Stanley Global Healthcare Conference"
+    },
+    "tweet5": {
+      "content": "U.S. Drug Stocks Look Cheap. Here’s Why, According to One Analyst."
+    },
+    "tweet6": {
+      "content": "It’s Likely Too Late for Regeneron’s Virus Treatment"
+    },
+    "tweet7": {
+      "content": "REYVOW™ (lasmiditan) C-V Demonstrated Pain Freedom from Migraine Attacks At 60 Minutes and Up to 48 Hours in New Phase 3 Study"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Gilead Makes Its Biggest Buy Ever And Gets A 'Flagship' Cancer Drug"
+    },
+    "tweet2": {
+      "content": "Eli Lilly, Incyte Combine Covid Drug With Gilead's, Post Positive Data"
+    },
+    "tweet3": {
+      "content": "Gilead, Pfizer, Eli Lilly CEOs On COVID-19 Treatments, Vaccine Development"
+    },
+    "tweet4": {
+      "content": "COVID SCIENCE-Flu outbreaks may be linked to COVID-19; arthritis drug benefit seen"
+    },
+    "tweet5": {
+      "content": "Balloons at Macy’s Thanksgiving Day Parade Will Be Rigged to Special Vehicles"
+    },
+    "tweet6": {
+      "content": "Eli Lilly's drug cuts COVID-19 recovery time in remdesivir-combo study"
+    },
+    "tweet7": {
+      "content": "Arthritis Drug Helps Covid-19 Patients Recover Faster"
+    },
+    "tweet8": {
+      "content": "Shares of Lilly and Incyte gain after late-stage study finds their arthritis drug can help reduce COVID-19 recovery time"
+    },
+    "tweet9": {
+      "content": "Regeneron's antibody drug added to UK Recovery trial of COVID treatments"
+    },
+    "tweet10": {
+      "content": "Eli Lilly's rheumatoid arthritis drug helps recovery in COVID-19 patients"
+    },
+    "tweet11": {
+      "content": "Baricitinib in Combination with Remdesivir Reduces Time to Recovery in Hospitalized Patients with COVID-19 in NIAID-Sponsored ACTT-2 Trial"
+    },
+    "tweet12": {
+      "content": "Innovent and Lilly Jointly Announce Results of Six Clinical Studies of TYVYT® (sintilimab injection) to be Presented at the European Society for Medical Oncology (ESMO) Virtual Congress 2020"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Eli Lilly (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Lilly's Olumiant Meets Primary Endpoint in Coronavirus Study"
+    },
+    "tweet3": {
+      "content": "Lilly Launches Digital Health Open Innovation Challenge to Help Transform Atopic Dermatitis Care"
+    },
+    "tweet4": {
+      "content": "Steve Cohen Finally Buys the Mets. You Can Buy the Braves."
+    },
+    "tweet5": {
+      "content": "US FDA grants Fast Track designation to Jardiance® (empagliflozin) to improve outcomes following a heart attack"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Lilly announces proof of concept data for neutralizing antibody LY-CoV555 in the COVID-19 outpatient setting"
+    },
+    "tweet2": {
+      "content": "Eli Lilly Posts Positive Data On Covid-19 Treatment In Phase 2 Trials"
+    },
+    "tweet3": {
+      "content": "Lilly's Coronavirus Antibody Treatment Found Effective, Safe In Mild-To-Moderate Patients"
+    },
+    "tweet4": {
+      "content": "Eli Lilly Reports Success With COVID-19 Neutralizing Antibody Treatment"
+    },
+    "tweet5": {
+      "content": "Lilly and Pfizer Are Testing Treatments for Hospitalized Covid Patients"
+    },
+    "tweet6": {
+      "content": "Coronavirus update: Operation Warp Speed readies for vaccine as CDC tries to manage expectations"
+    },
+    "tweet7": {
+      "content": "Dow Jones Rallies 200 Points Ahead Of Fed; Stocks Mixed As Nasdaq Falters"
+    },
+    "tweet8": {
+      "content": "Eli Lilly Says Antibody Lowers Risk of Hospitalization for Mild COVID-19 Patients"
+    },
+    "tweet9": {
+      "content": "Lilly Drug Gets Fast Track to Improve Heart Attack Outcome"
+    },
+    "tweet10": {
+      "content": "Eli Lilly Says Covid-19 Treatment Reduces Hospitalizations"
+    },
+    "tweet11": {
+      "content": "Shares of Lilly gain as it discloses promising interim findings for COVID-19 antibody treatment"
+    },
+    "tweet12": {
+      "content": "Lilly says antibody reduces need for hospitalization for moderate COVID-19 patients"
+    },
+    "tweet13": {
+      "content": "Lilly announces proof of concept data for neutralizing antibody LY-CoV555 in the COVID-19 outpatient setting"
+    },
+    "tweet14": {
+      "content": "The Argus Dividend Growth Portfolio"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Eli Lilly, Amgen Teaming Up On Covid-19 Treatments"
+    },
+    "tweet2": {
+      "content": "Baricitinib in Combination with Remdesivir Reduces Time to Recovery in Hospitalized Patients with COVID-19 in NIAID-Sponsored ACTT-2 Trial"
+    },
+    "tweet3": {
+      "content": "Race for a COVID-19 vaccine continues, here's what you need to know"
+    },
+    "tweet4": {
+      "content": "Lilly's Coronavirus Antibody Shows Positive Effect in Phase II"
+    },
+    "tweet5": {
+      "content": "Eli Lilly Reaches COVID-19 Antibody Therapy Manufacturing Deal With Amgen"
+    },
+    "tweet6": {
+      "content": "Eli Lilly and Amgen to collaborate on COVID-19 antibody therapies"
+    },
+    "tweet7": {
+      "content": "Lilly partners with Amgen for manufacturing potential COVID-19 drugs"
+    },
+    "tweet8": {
+      "content": "Lilly and Amgen Announce Manufacturing Collaboration for COVID-19 Antibody Therapies"
+    },
+    "tweet9": {
+      "content": "15 States With The Highest Diabetes Rates In U.S."
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Initial data from a pair of clinical trials may revive interest in arthritis drugs as COVID-19 treatments"
+    },
+    "tweet2": {
+      "content": "Why Pfizer Is Seriously Mispriced"
+    },
+    "tweet3": {
+      "content": "Sorrento Gets FDA Nod for Phase I Study on Coronavirus Antibody"
+    },
+    "tweet4": {
+      "content": "Lilly, Amgen Ink Manufacturing Deal for Coronavirus Antibodies"
+    },
+    "tweet5": {
+      "content": "Pharma Stock Roundup: AZN, COMPANY_X & PFE's Coronavirus Updates, MRK's New Cancer Deals"
+    },
+    "tweet6": {
+      "content": "Coronavirus update: Global case tally tops 30 million, and controversial CDC testing guideline changes were reportedly not made by CDC scientists"
+    },
+    "tweet7": {
+      "content": "A Look Into Eli Lilly's Debt"
+    },
+    "tweet8": {
+      "content": "CHMP Recommends Approval of Lilly's Baricitinib for the Treatment of Adults with Moderate to Severe Atopic Dermatitis"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Eli Lilly (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Pharma ETFs to Benefit from Lilly's Coronavirus Antibody Progress"
+    },
+    "tweet3": {
+      "content": "Lilly's Olumiant Gets CHMP Nod for Eczema Label Expansion"
+    },
+    "tweet4": {
+      "content": "Anticancer Drug Team-Ups Show Promise. 4 Stocks That Stand to Gain."
+    },
+    "tweet5": {
+      "content": "Eli Lilly’s Verzenio Treatment Lowers Breast Cancer Recurrence By 25%"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Blueprint Medicines Reports Positive Test Results For Rare Disease Treatment; BPMC Stock Jumps"
+    },
+    "tweet2": {
+      "content": "P/E Ratio Overview: Eli Lilly"
+    },
+    "tweet3": {
+      "content": "Eli Lilly Could Rally After Passing the Test"
+    },
+    "tweet4": {
+      "content": "Trulicity® (dulaglutide) is now indicated as an adjunct to diet, exercise, and standard of care therapy to reduce the risk of non-fatal stroke in adults with type 2 diabetes mellitus who have multiple cardiovascular risk factors or established cardiovascular disease"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "'Pandemic fatigue is hitting the nation': Expert"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "3 Stocks to Buy Ahead of the Next Market Crash"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Analyst Report: Eli Lilly and Company"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Eli Lilly (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Regeneron Pharmaceutical Posts Positive Initial Data On Its Covid-19 Treatment"
+    },
+    "tweet2": {
+      "content": "3 Reasons Growth Investors Will Love Lilly (COMPANY_X)"
+    },
+    "tweet3": {
+      "content": "Why Eli Lilly (COMPANY_X) is a Top Dividend Stock for Your Portfolio"
+    },
+    "tweet4": {
+      "content": "Is Eli Lilly and (COMPANY_X) Stock Outpacing Its Medical Peers This Year?"
+    },
+    "tweet5": {
+      "content": "Eli Lilly (NYSE:COMPANY_X) Has Compensated Shareholders With A Respectable 98% Return On Their Investment"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

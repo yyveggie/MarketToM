@@ -1,0 +1,490 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "GRAPHIC-Big Oil's $110 bln asset sale target could prove big ask"
+    },
+    "tweet2": {
+      "content": "GRAPHIC-Big Oil's selling spree might prove tricky"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Norway's Equinor to cut exploration staff by 30%"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Strike Shuts 4 Equinor Fields"
+    },
+    "tweet2": {
+      "content": "GLOBAL MARKETS-Risk assets rise on stimulus hopes and Trump's health progress"
+    },
+    "tweet3": {
+      "content": "GLOBAL MARKETS-Stocks recover on signs of Trump's improving health"
+    },
+    "tweet4": {
+      "content": "Equinor Shuts Down Four North Sea Fields After Trade Union Strike "
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "U.S. Gulf oil platforms shutting as Hurricane Delta strengthens"
+    },
+    "tweet2": {
+      "content": "Oil Rallies On Stimulus Hopes"
+    },
+    "tweet3": {
+      "content": "Equinor shutting down Titan platform in U.S. Gulf, evacuating staff - company"
+    },
+    "tweet4": {
+      "content": "Norway gas exports to Europe rise amid strike as other fields ramp up"
+    },
+    "tweet5": {
+      "content": "W&T Offshore's (WTI) Q3 Production Hurt by Hurricane Season"
+    },
+    "tweet6": {
+      "content": "Odfjell Drilling Wins Contract for 15 Wells"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Fossil Fuel Firms Not Doing Enough on Emissions, Funds Say"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: BP, Equinor, Royal Dutch and Chevron"
+    },
+    "tweet2": {
+      "content": "Equinor (COMPANY_X) to Lay Off 30% of Exploration Staff by 2023"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "$30,000 turkey highlights Equinor's 'control problems' in U.S."
+    },
+    "tweet2": {
+      "content": "Equinor should have addressed 'significant' problems in U.S. sooner -chairman"
+    },
+    "tweet3": {
+      "content": "Brent Crude Heads Higher as Norway Strike Cuts Production"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Eni & SNOC to Move Forward With Sharjah Natural Gas Project"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Microsoft in deal with Equinor for Norway CO2 storage project"
+    },
+    "tweet2": {
+      "content": "Equinor Sverdrup Escapes Shutdown as Oil Workers' Strike Ends"
+    },
+    "tweet3": {
+      "content": "Equinor May Have to Shut Johan Sverdrup"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Equinor ASA: Notifiable trading"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "TechnipFMC (FTI) Clinches Major EPCI Contract From Equinor"
+    },
+    "tweet2": {
+      "content": "Wood Bags New Equinor Deal"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Equinor bids for two wind power projects off New York"
+    },
+    "tweet2": {
+      "content": "Why Equinor (COMPANY_X) Offers a Good Buying Opportunity Now"
+    },
+    "tweet3": {
+      "content": "Equinor, Microsoft Team Up for Norway's CO2 Storage Project"
+    },
+    "tweet4": {
+      "content": "Equinor Signs Microsoft MOU"
+    },
+    "tweet5": {
+      "content": "Losing control? Norway's oil workers fear for future as rigs go remote"
+    },
+    "tweet6": {
+      "content": "Equinor's share saving plan allocates shares"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Equinor (COMPANY_X) Bids for US Wind Projects: What Should You Know?"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Kosmos Accomplishes Re-Determination of RBL Credit Facility"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Equinor ASA: Change of CFO at Equinor"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Equinor shutting Titan platform in U.S. Gulf ahead of storm Zeta -company"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "BP Tops Q3 Earnings Estimates, Expects Continued Oil Recovery"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "New Orleans Braces for Most Powerful Hurricane Since Katrina"
+    },
+    "tweet2": {
+      "content": "MPLX Declares Open Season Extension for SLC Pipeline Expansion"
+    },
+    "tweet3": {
+      "content": "EQT Beats Q3 Earnings Estimates, Signs Appalachian Deal"
+    },
+    "tweet4": {
+      "content": "Equinor CFO Resigns"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Equinor LNG Plant Could Be Down for a Year"
+    },
+    "tweet2": {
+      "content": "Oil and gas group Equinor takes $2.9 billion hit in asset write-offs"
+    },
+    "tweet3": {
+      "content": "Equinor ASA: Information relating to dividend for third quarter 2020"
+    },
+    "tweet4": {
+      "content": "Equinor third quarter 2020 results"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Analyst Report: Equinor ASA"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Oil Climbs With Russia in Talks on Delaying OPEC+ Output Hike"
+    },
+    "tweet2": {
+      "content": "Equinor (COMPANY_X) Jumps More Than 4% Despite Q3 Earnings Decline"
+    },
+    "tweet3": {
+      "content": "Norway's Equinor aims for net zero emissions by 2050, new CEO says"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Transocean (RIG) Q3 2020 Earnings Call Transcript"
+    },
+    "tweet2": {
+      "content": "Royal Dutch Shell Stock Has Been Battered by the Pandemic. Here’s Why It Just Got 2 Upgrades."
+    },
+    "tweet3": {
+      "content": "COMPANY_X or ORA: Which Is the Better Value Stock Right Now?"
+    },
+    "tweet4": {
+      "content": "Equinor Announces Net Zero Goal"
+    },
+    "tweet5": {
+      "content": "Shell upped to overweight and BP lifted to equal-weight at Morgan Stanley"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "PDC Energy (PDCE) Q3 Earnings Beat Thanks to Production Gains"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "$455MM in Brazil Contracts Go to Oilfield Services Trio"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Equinor ASA: Ex dividend"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Equinor ASA: Changes in Equinor’s corporate structure and Corporate Executive Committee"
+    },
+    "tweet2": {
+      "content": "Equinor ASA: Notifiable trading"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "How Renewable Energy Can Pay Off for Big Oil"
+    },
+    "tweet2": {
+      "content": "Equinor Makes Changes at the Top"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Why this Tesla partner is betting big on the European electric-vehicle market"
+    },
+    "tweet2": {
+      "content": "Why Tesla partner Panasonic is betting big on the European electric-vehicle market"
+    },
+    "tweet3": {
+      "content": "15 Largest Energy Companies in the World"
+    },
+    "tweet4": {
+      "content": "Panasonic, Equinor, Hydro consider battery production in Norway"
+    },
+    "tweet5": {
+      "content": "Panasonic explores a European battery deal with Norway's largest energy and industrial companies"
+    },
+    "tweet6": {
+      "content": "Equinor’s share saving plan allocates shares"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Stock Market News for Nov 19, 2020"
+    },
+    "tweet2": {
+      "content": "Equinor (COMPANY_X) to Boost Johan Sverdrup Crude Oil Production"
+    },
+    "tweet3": {
+      "content": "Johan Sverdrup Increasing Production Capacity"
+    },
+    "tweet4": {
+      "content": "Equinor ASA: Announcement of dividend per share in NOK for the second quarter 2020"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Aker Bags Equinor Deal"
+    },
+    "tweet2": {
+      "content": "SSE, Equinor sign PPA for UK Dogger Bank offshore wind farm first phases"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Odfjell Drilling Signs Equinor Contracts for At Least 27 Wells"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Exxon Mobil, Chevron, Equinor, BP and Murphy Oil"
+    },
+    "tweet2": {
+      "content": "Equinor (COMPANY_X) Jumps 26.1% MTD: What's Driving the Rally?"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "Stock Market News for Nov 30, 2020"
+    },
+    "tweet2": {
+      "content": "Equinor (COMPANY_X) Closes $8B Offshore Wind Farm Financial Deal"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "Even Exxon Mobil Is Capitulating to Peak Oil Demand"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Equinor, BP, SunPower, Antero and EQT"
+    },
+    "tweet2": {
+      "content": "Equinor fire shuts Europe's biggest methanol plant"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "Equinor (COMPANY_X) Stalls Tjeldbergodden Facility Output After Fire"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "Stock Market News for Dec 4, 2020"
+    },
+    "tweet2": {
+      "content": "Equinor's (COMPANY_X) Dogger Bank Farm to Welcome Eni as Partner"
+    },
+    "tweet3": {
+      "content": "Fire Breaks Out at Equinor Methanol Plant"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "You Should Hold Equinor (COMPANY_X) in Your Portfolio: Here's Why"
+    },
+    "tweet2": {
+      "content": "Equinor, RWE join Dutch hydrogen project"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "Equinor (COMPANY_X) Joins Massive NortH2 Green Hydrogen Project"
+    },
+    "tweet2": {
+      "content": "Oil & Gas Stock Roundup Headlined by Exxon & Chevron's 2021 Capex"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "Why Equinor, Exxon And More Oil Stocks Are Trading Higher Today"
+    },
+    "tweet2": {
+      "content": "Norway's Equinor, Hydro and Scatec to build solar farm in Brazil"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "Equinor (COMPANY_X) & Partners to Develop New Solar Farm in Brazil"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "Equinor ASA: Notifiable trading"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "Stock Market News for Dec 15, 2020"
+    },
+    "tweet2": {
+      "content": "Equinor (COMPANY_X) Boosts Snorre Life to 2040 Ahead of Schedule"
+    },
+    "tweet3": {
+      "content": "Oil & Gas Stock Roundup: Exxon's Suriname Find, Equinor's Hydrogen Bet & More"
+    },
+    "tweet4": {
+      "content": "Equinor’s share saving plan allocates shares"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "Equinor appoints new chief financial officer"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "Is COMPANY_X A Good Stock To Buy Now?"
+    },
+    "tweet2": {
+      "content": "Shell and Equinor Collaborate for Inventory Optimization"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "2 Wind Energy Stocks to Buy in 2021"
+    },
+    "tweet2": {
+      "content": "Equinor (COMPANY_X) to Invest in Statfjord Ost, Boost Oil Recovery"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "10 Largest Wind Energy Companies in the World"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

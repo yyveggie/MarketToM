@@ -1,0 +1,544 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Why the Earnings Surprise Streak Could Continue for Lowe's (COMPANY_X)"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Versace parent Capri Holdings and Ralph Lauren slump as luxury sales takes a hit during pandemic"
+    },
+    "tweet2": {
+      "content": "RBA Ends 3-Month Hiatus, Offering to Buy A$500 Million of Bonds"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Home Depot, Lowe’s should top sales estimates despite slowdown in July: UBS"
+    },
+    "tweet2": {
+      "content": "Stocks With Rising Relative Price Strength: Beacon Roofing Supply"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Home Depot, Lowe's See Share Price Targets Boosted"
+    },
+    "tweet2": {
+      "content": "Coronavirus quarantines made Americans want to spend on home improvement"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "US Job Openings Surging"
+    },
+    "tweet2": {
+      "content": "Lowe's (COMPANY_X) Earnings Expected to Grow: What to Know Ahead of Next Week's Release"
+    },
+    "tweet3": {
+      "content": "Lowe's Companies, Inc. Invites You to Join Its Second Quarter 2020 Earnings Conference Call Webcast"
+    },
+    "tweet4": {
+      "content": "Lowe's to open California fulfillment center in October as part of its home delivery expansion"
+    },
+    "tweet5": {
+      "content": "Lowe's Expands Supply Chain Network, Announces Opening of Second Direct Fulfillment Center"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Robert Olstein's Top 2nd-Quarter Trades"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Lowe’s Earnings: 3 Trends to Watch"
+    },
+    "tweet2": {
+      "content": "Will Lowe's (COMPANY_X) Retain Its Earnings Beat Streak in Q2?"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "US Indexes Close Mostly Higher Monday"
+    },
+    "tweet2": {
+      "content": "US STOCKS-Nasdaq hits record high close due to tech rally"
+    },
+    "tweet3": {
+      "content": "Olstein Capital Trims Lowe's, eBay Holdings"
+    },
+    "tweet4": {
+      "content": "US STOCKS-Tech rally elevates Nasdaq to record high close"
+    },
+    "tweet5": {
+      "content": "Bill Ackman Bows Out of Berkshire, Blackstone and Park Hotels & Resorts"
+    },
+    "tweet6": {
+      "content": "US STOCKS-Tech rally elevates Nasdaq to record high"
+    },
+    "tweet7": {
+      "content": "Home Depot Reports Earnings Tomorrow. Here’s What to Expect."
+    },
+    "tweet8": {
+      "content": "US STOCKS-Tech stocks gain as S&P 500 flirts with record high"
+    },
+    "tweet9": {
+      "content": "Lowe’s steals Home Depot’s crown during the pandemic, card transactions show"
+    },
+    "tweet10": {
+      "content": "US STOCKS-S&P 500, Nasdaq propped up by tech stocks; retail earnings awaited"
+    },
+    "tweet11": {
+      "content": "US STOCKS-Wall St kicks off big retail earnings week on high note"
+    },
+    "tweet12": {
+      "content": "US STOCKS-Wall St set to kick off big retail earnings week on high note"
+    },
+    "tweet13": {
+      "content": "US STOCKS-Futures tick up ahead of big retail earnings week"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Transactions of $1,000 or more rose 16% at Home Depot during the second quarter"
+    },
+    "tweet2": {
+      "content": "US STOCKS-S&P 500 reclaims Feb highs, then retreats"
+    },
+    "tweet3": {
+      "content": "Retail Stock Q2 Earnings Roster for Aug 19: TGT, COMPANY_X & TJX"
+    },
+    "tweet4": {
+      "content": "Preview: Lowe's Companies's Earnings"
+    },
+    "tweet5": {
+      "content": "Looking Into Lowe's Companies's Return On Capital Employed"
+    },
+    "tweet6": {
+      "content": "Home Depot’s Results Show Home Improvement Demand Is Still Red-Hot"
+    },
+    "tweet7": {
+      "content": "US STOCKS-Wall St set for stronger open on Home Depot results"
+    },
+    "tweet8": {
+      "content": "Is a Surprise Coming for Lowe's (COMPANY_X) This Earnings Season?"
+    },
+    "tweet9": {
+      "content": "US STOCKS-Futures rise as Home Depot results shine; Walmart on deck"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Stock Market Today: The New Bull Market Starts With a Limp"
+    },
+    "tweet2": {
+      "content": "Target online sales climb 195% in 2nd quarter, profits jump 80%"
+    },
+    "tweet3": {
+      "content": "US STOCKS-Wall Street ends lower after Fed minutes highlight tough recovery"
+    },
+    "tweet4": {
+      "content": "Dow Jones Drifts Lower On Fed Coronavirus Worries; Amazon Nears Buy Zone"
+    },
+    "tweet5": {
+      "content": "US STOCKS-S&P 500, Nasdaq slide from record highs after Fed minutes"
+    },
+    "tweet6": {
+      "content": "US STOCKS-S&P 500, Nasdaq hit record highs as Apple crosses $2 trillion mark"
+    },
+    "tweet7": {
+      "content": "PreMarket Prep Stock Of The Day: Lowe's"
+    },
+    "tweet8": {
+      "content": "Lowe's Reports Outstanding Fiscal Q2 Results as Consumers Turn to Home Improvement"
+    },
+    "tweet9": {
+      "content": "Dow Jones Up As Apple Stock Makes History; S&P 500, Nasdaq Hit New Highs"
+    },
+    "tweet10": {
+      "content": "Target sales soar in Q2, but warn of slowdown to come"
+    },
+    "tweet11": {
+      "content": "US STOCKS-S&P 500, Nasdaq hit record highs as Apple tops $2 trillion in market value"
+    },
+    "tweet12": {
+      "content": "Lowe’s Stock Is Rising After Earnings Easily Clear the Bar. Look Out Home Depot."
+    },
+    "tweet13": {
+      "content": "Lowe's Launches Tool Rental Program Nationwide"
+    },
+    "tweet14": {
+      "content": "Stocks move modestly higher, S&P 500 clinches new intraday high"
+    },
+    "tweet15": {
+      "content": "What strong retail earnings say about the state of the consumer"
+    },
+    "tweet16": {
+      "content": "US STOCKS-S&P 500 notches record high for second day after Target, Lowe's results beat"
+    },
+    "tweet17": {
+      "content": "Dow Jones Today, Stocks Mixed; Target Heads Retail Rally; Biotechs Momenta, Gilead, BioMarin Swing Wild On Merger, FDA News"
+    },
+    "tweet18": {
+      "content": "Target, Lowe's post blowout Q2 reports, Biden accepts Dem. presidential nominee, Trump campaign sues New Jersey"
+    },
+    "tweet19": {
+      "content": "Dow Jones Today, Stocks Open On This Rise; Target Heads Retail Rally; Biotechs Momenta, Gilead, Biomarin Swing Wild On Merger, FDA News"
+    },
+    "tweet20": {
+      "content": "Target posts record Q2 results, digital sales soar 195% "
+    },
+    "tweet21": {
+      "content": "Lowe's Tops Q2 Earnings Forecasts as Online Sales Surge"
+    },
+    "tweet22": {
+      "content": "Stock market opens Wednesday trade flat a day after S&P 500 puts first closing record since February in the books"
+    },
+    "tweet23": {
+      "content": "The Stock Market Is Back to New Highs. Why the S&P 500 Still Has Room to Run."
+    },
+    "tweet24": {
+      "content": "Dow Jones Today, Futures Mixed; Target Heads Retail Rally; Gilead, Biomarin Swoon  As FDA Balks"
+    },
+    "tweet25": {
+      "content": "US STOCKS-Wall St set to open higher after solid results from Lowe's, Target"
+    },
+    "tweet26": {
+      "content": "Lowe’s Delivers Blowout Q2 As Online Sales Surge 135%"
+    },
+    "tweet27": {
+      "content": "Target Stock Is Soaring, Gilead is Sinking and the Stock Market Is Trying for Another Record High"
+    },
+    "tweet28": {
+      "content": "Lowe's (COMPANY_X) Beats Q2 Earnings and Revenue Estimates"
+    },
+    "tweet29": {
+      "content": "Recap: Lowe's Q2 Earnings"
+    },
+    "tweet30": {
+      "content": "US STOCKS-Futures inch higher after solid results from Lowe's, Target"
+    },
+    "tweet31": {
+      "content": "Target Smokes Estimates as TJX Loses More Than Expected"
+    },
+    "tweet32": {
+      "content": "Lowe's stock rallies after profit and sales rise well above expectations"
+    },
+    "tweet33": {
+      "content": "Lowe's quarterly same-store sales beat estimates"
+    },
+    "tweet34": {
+      "content": "Lowe's Reports Second Quarter 2020 Sales And Earnings Results"
+    },
+    "tweet35": {
+      "content": "Lowe’s Reports Earnings Today. Here’s What to Expect."
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Lowe's Is Outperforming Home Depot"
+    },
+    "tweet2": {
+      "content": "Strong Online Sales Boost Lowe's 2nd-Quarter Results"
+    },
+    "tweet3": {
+      "content": "Lowe’s targets professionals, and its main competitor Home Depot, with new services"
+    },
+    "tweet4": {
+      "content": "US Indexes Close Lower Wednesday"
+    },
+    "tweet5": {
+      "content": "Home Depot vs Lowe’s: Which Stock Looks Stronger After A Stellar Q2?"
+    },
+    "tweet6": {
+      "content": "Lowe's (COMPANY_X) Q2 2020 Earnings Call Transcript"
+    },
+    "tweet7": {
+      "content": "Sometimes, the stock market makes a lot of sense: Morning Brief"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Housing Numbers Rise, and Lowe’s and Home Depot Stock Follow"
+    },
+    "tweet2": {
+      "content": "Lowe's Companies, Inc. raises quarterly cash dividend by 9% to $0.60 per share"
+    },
+    "tweet3": {
+      "content": "'A really tough spot' for employees: How companies are enforcing mask compliance"
+    },
+    "tweet4": {
+      "content": "Could The Lowe's Companies, Inc. (NYSE:COMPANY_X) Ownership Structure Tell Us Something Useful?"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "3 Ways Lowe's Topped Home Depot This Quarter"
+    },
+    "tweet2": {
+      "content": "Lowe's Entices Investors With 9% Hike in Quarterly Dividend"
+    },
+    "tweet3": {
+      "content": "RPT-BUZZ-U.S. stocks weekly: New bull in town"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "3 simple reasons behind America's housing boom"
+    },
+    "tweet2": {
+      "content": "Lowe's Stock Trades to an All-Time High on Earnings"
+    },
+    "tweet3": {
+      "content": "Why Best Buy’s Pandemic Bounce Fell Short of Target’s"
+    },
+    "tweet4": {
+      "content": "New York Fashion Week Is Going Home...With Lowe's"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "How Tool Rentals Could Become a Big Business at Lowe’s"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Home Depot, Lowe's and Tractor Supply among the retailers getting a bump in demand from hurricane season"
+    },
+    "tweet2": {
+      "content": "Lowe's Expanded Tool Rental Business Isn't Really About Tool Rentals"
+    },
+    "tweet3": {
+      "content": "Hurricane Laura Makes Landfall. Oil Markets Shrug."
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Ackman sees more gains for his portfolio, urges stock ownership for all Americans"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Bill Ackman Thinks His Portfolio Is Well Positioned"
+    },
+    "tweet2": {
+      "content": "Should Value Investors Buy Lowe’s Companies (COMPANY_X) Stock?"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Home Depot: The Home Improvement Space Is as Solid as Ever"
+    },
+    "tweet2": {
+      "content": "Lowe's Pledges $1 Million To Support American Red Cross Disaster Relief And Other Local Response Efforts In Wake Of Hurricane Laura"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Lowe's to Present at the Goldman Sachs 27th Annual Global Retailing Virtual Conference"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Lowe’s (COMPANY_X) Has Risen 43% in Last One Year, Outperforms Market"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Why Lowe's Stock Rose 11% in August"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "RH Stock Jumps After Earnings. Everyone’s Still Spending on Their Homes."
+    },
+    "tweet2": {
+      "content": "Lowe's Unites NFL Fans with a New Type of &quot;Home Team&quot;"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Black Friday shopping like we all know it is officially over because of COVID-19"
+    },
+    "tweet2": {
+      "content": "Cross-Sector: Market Data Highlights"
+    },
+    "tweet3": {
+      "content": "Restoration Hardware Stock Pops After Strong Earnings and an Upgrade"
+    },
+    "tweet4": {
+      "content": "Lowe's Canada launches VIPpro program at its Lowe's, RONA, and Reno-Depot corporate stores"
+    },
+    "tweet5": {
+      "content": "Restoration Hardware Up as Brand Turns Luxe, Strength Ahead"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "IBD 50 Stocks To Watch: Why Lowe's Has Established A Second Buy Point"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Home Depot co-founder and Atlanta Falcons owner's best advice for New York Mets owner Steve Cohen"
+    },
+    "tweet2": {
+      "content": "Lowe's Offers Chance of a Lifetime to Hundreds of Diverse Small Businesses with Virtual Pitch Program, hosted by Shark Tank's Daymond John"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "3 Reasons Why Lowe's (COMPANY_X) Is a Great Growth Stock"
+    },
+    "tweet2": {
+      "content": "Earnings Estimates Rising for Lowe's (COMPANY_X): Will It Gain?"
+    },
+    "tweet3": {
+      "content": "Lowe's Companies (NYSE:COMPANY_X) Has Gifted Shareholders With A Fantastic 170% Total Return On Their Investment"
+    },
+    "tweet4": {
+      "content": "Retail Sales Come In Soft After Fiscal Stimulus Lapses; Dow Jones Futures Pare Gain"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Oppenheimer downgrades Home Depot, Lowe’s on a ‘post-pandemic reset’ in home improvement retail"
+    },
+    "tweet2": {
+      "content": "LEB Holdings (USA), Inc. -- Moody's assigns B3 rating to Barrette Outdoor Living's term loan, B2 CFR assigned; outlook stable"
+    },
+    "tweet3": {
+      "content": "5 Cyclical Companies Trading With COMPANY_X Price-Sales Ratios"
+    },
+    "tweet4": {
+      "content": "Why Is Lowe's (COMPANY_X) Up 3.3% Since Last Earnings Report?"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Can Home Depot and Lowe’s Stock Continue Rallying?"
+    },
+    "tweet2": {
+      "content": "LEB Holdings (USA), Inc. -- Moody's assigns B3 rating to Barrette Outdoor Living's term loan, B2 CFR assigned; outlook stable"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Lowe's launching pickup lockers at all U.S. stores by March 2021"
+    },
+    "tweet2": {
+      "content": "Lowe's Leverages Innovative Technology to Launch Contactless Pickup Lockers Nationwide"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "A Trio of Stocks for the Value Investor"
+    },
+    "tweet2": {
+      "content": "Lowe’s Stock Can Keep Rallying Because People Will Be Spending More Time at Home for Longer"
+    },
+    "tweet3": {
+      "content": "IBD 50 Stock Crafts Buy Point With NFL, 'Shark Tank' Deals"
+    },
+    "tweet4": {
+      "content": "Aboard a Winnebago in Search of Better Angels"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "5 Cyclical Companies Outperforming the S&P 500"
+    },
+    "tweet2": {
+      "content": "Kobalt Cordless Electric Saws Sold Exclusively At Lowe's Stores Recalled "
+    },
+    "tweet3": {
+      "content": "3 Embarrassingly Cheap Dividend Stocks"
+    },
+    "tweet4": {
+      "content": "Home Depot Looks Overvalued After 80% Gains"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "How to Spot Opportunities in the Auto Sector"
+    },
+    "tweet2": {
+      "content": "Analyst Report: Lowe's Companies, Inc."
+    },
+    "tweet3": {
+      "content": "Americans are using discretionary dollars to remodel their homes, here's how"
+    },
+    "tweet4": {
+      "content": "Best Dividend Stocks for October 2020"
+    },
+    "tweet5": {
+      "content": "5 Reasons to Invest in Dividend-Paying Stocks for Retirement"
+    },
+    "tweet6": {
+      "content": "Will a Housing Market Crash Affect Home Depot Stock?"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Citigroup Commercial Mortgage Trust 2016-C1 -- Moody's affirms nine classes of CGCMT 2016-C1"
+    },
+    "tweet2": {
+      "content": "2 Coronavirus-Proof Stocks on the Dow Jones Index"
+    },
+    "tweet3": {
+      "content": "Is Lowe's (COMPANY_X) Stock a Solid Choice Right Now?"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "Lowe's Is One Dividend Aristocrat That Can Survive a Second Market Crash"
+    },
+    "tweet2": {
+      "content": "Lowe's Canada Recruits For Around 625 Jobs In RONA And Reno-Depot Stores In Quebec "
+    },
+    "tweet3": {
+      "content": "RONA and Reno-Depot are hiring to fill over 625 positions in Quebec"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "Why Bed Bath & Beyond Popped 30% Today"
+    }
+  }
+}

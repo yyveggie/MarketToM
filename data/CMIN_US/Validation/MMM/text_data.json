@@ -1,0 +1,433 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "3M Co. stock falls Monday, underperforms market"
+    },
+    "tweet2": {
+      "content": "3M and Cinotop Electronics Complete Patent License Agreement for 3M’s Metal Mesh Technology"
+    },
+    "tweet3": {
+      "content": "RPT-BUZZ-U.S. stocks weekly: Tech save"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "3M Co. stock rises Tuesday, outperforms market"
+    },
+    "tweet2": {
+      "content": "3M Announces New Leadership Appointment"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "3M Co. stock outperforms competitors on strong trading day"
+    },
+    "tweet2": {
+      "content": "3M Stock Falls to Quarterly Pivot After Earnings Beat"
+    },
+    "tweet3": {
+      "content": "3M and Mitsubishi Paper Mills Complete Patent License Agreement for 3M’s Metal Mesh Technology"
+    },
+    "tweet4": {
+      "content": "Dow's 239-point climb led by gains for Walt Disney, Travelers stocks"
+    },
+    "tweet5": {
+      "content": "Did You Acquire 3M (COMPANY_X) Before February 9, 2017? Johnson Fistel Continues its Investigation of 3M; Should Management be Held Accountable for Investors Losses?"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "3M Co. stock rises Thursday, still underperforms market"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "3M Co. stock outperforms market on strong trading day"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "3M Co. stock outperforms market on strong trading day"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "3M Co. stock outperforms market on strong trading day"
+    },
+    "tweet2": {
+      "content": "Ken Fisher's Top 4 Buys in the 2nd Quarter"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "3M Co. stock rises Wednesday, still underperforms market"
+    },
+    "tweet2": {
+      "content": "Tesla Stock Is Splitting 5-for-1. Here’s What Happens to Its Options."
+    },
+    "tweet3": {
+      "content": "Tesla Stock Is Splitting 5 for 1. Here’s What Happens to Its Options."
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "3M Board Declares Quarterly Dividend"
+    },
+    "tweet2": {
+      "content": "3M Co. stock outperforms market on strong trading day"
+    },
+    "tweet3": {
+      "content": "Stocks pare early losses after jobless claims slide below 1 million but Dow industrials pressured by Cisco shares"
+    },
+    "tweet4": {
+      "content": "3M Stock Is Rising on Solid July Sales. It’s a Good Sign for the Industrial Economy."
+    },
+    "tweet5": {
+      "content": "3M Reports Solid July Update As Healthcare Sales Lead Q3 Comeback"
+    },
+    "tweet6": {
+      "content": "3M's stock rallies after July sees 'broad-based improvement' in sales trends"
+    },
+    "tweet7": {
+      "content": "3M Reports Sales Information for Month of July 2020"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "3M Co. stock rises Friday, outperforms market"
+    },
+    "tweet2": {
+      "content": "3M (COMPANY_X) Sales Rise Y/Y in July, Quarterly Dividend Approved"
+    },
+    "tweet3": {
+      "content": "What Sells in a Pandemic? Weight Watchers, Pools and Cereal"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "3M Co. stock falls Monday, underperforms market"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "3M Co. stock underperforms Tuesday when compared to competitors"
+    },
+    "tweet2": {
+      "content": "3M M*Modal Conversational and Ambient AI Transforms the Experience of Patients and Physicians for More Than One Million Patient Encounters in One Year"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "3M Co. stock falls Wednesday, still outperforms market"
+    },
+    "tweet2": {
+      "content": "3M Stops Fake N95 Scheme, Resolving Lawsuit Claims Against Sellers on Amazon"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "3M Co. stock falls Thursday, underperforms market"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "3M Co. stock rises Friday, still underperforms market"
+    },
+    "tweet2": {
+      "content": "New Canadian face mask plant to help avoid 'terrifying' shortages during pandemic - premier"
+    },
+    "tweet3": {
+      "content": "PRESS DIGEST-Canada - Aug 21"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "3M Co. stock outperforms competitors on strong trading day"
+    },
+    "tweet2": {
+      "content": "Is 3M a Bargain or a Value Trap?"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "3M Co. stock falls Tuesday, underperforms market"
+    },
+    "tweet2": {
+      "content": "3M Launches 3M M*Modal Virtual Assistant Technology for Hey Epic! in Epic Hyperspace"
+    },
+    "tweet3": {
+      "content": "3M or Honeywell: Which Industrial Stock Is The Street Favoring?"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "3M Co. stock rises Wednesday, still underperforms market"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "3M Co. stock rises Thursday, still underperforms market"
+    },
+    "tweet2": {
+      "content": "Why Is 3M (COMPANY_X) Up 4.9% Since Last Earnings Report?"
+    },
+    "tweet3": {
+      "content": "3M Charts Can't Mask a Likely Push Higher Ahead"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "3M Co. stock outperforms competitors on strong trading day"
+    },
+    "tweet2": {
+      "content": "Is 3M Stock a Buy?"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "3M Co. stock underperforms Monday when compared to competitors"
+    },
+    "tweet2": {
+      "content": "2 Dividend Stocks Ideal for Retirees"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "3M Co. stock rises Tuesday, outperforms market"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "3M Co. stock outperforms competitors on strong trading day"
+    },
+    "tweet2": {
+      "content": "Hedge Funds Are Selling 3M Company (COMPANY_X)"
+    },
+    "tweet3": {
+      "content": "Dow climbs 236 points on gains for IBM, Coca-Cola stocks"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "3M Co. stock falls Thursday, still outperforms market"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "3M Co. stock falls Friday, still outperforms market"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "3M Announces Upcoming Investor Event"
+    },
+    "tweet2": {
+      "content": "3M Co. stock falls Tuesday, still outperforms market"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "3M Co. stock rises Wednesday, still underperforms market"
+    },
+    "tweet2": {
+      "content": "Why Are N95 Masks Still So Difficult to Get?"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Dow's 60-point drop led by losses for shares of Caterpillar, Johnson & Johnson"
+    },
+    "tweet2": {
+      "content": "Amazon Raised Prices on Essentials Amid Pandemic, Watchdog Says"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Dow's 139-point climb led by gains for Nike, Dow Inc. shares"
+    },
+    "tweet2": {
+      "content": "Nike, Dow Inc. share gains contribute to Dow's 237-point jump"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Caterpillar, 3M and the Less-Than-Stellar Rebound in the Industrial Economy"
+    },
+    "tweet2": {
+      "content": "3M Surprises With 3Q Sales Outlook As Street Says Hold"
+    },
+    "tweet3": {
+      "content": "3M Reports Solid August Sales As Healthcare Continues To Lead Q3 Rebound"
+    },
+    "tweet4": {
+      "content": "How Does 3M's Debt Look?"
+    },
+    "tweet5": {
+      "content": "3M's stock gains after upbeat sales outlook"
+    },
+    "tweet6": {
+      "content": "3M Reports Sales Information for Month of August 2020"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "3M Co. stock rises Wednesday, outperforms market"
+    },
+    "tweet2": {
+      "content": "Dow jumps 179 points on gains in Walgreens Boots, Chevron shares"
+    },
+    "tweet3": {
+      "content": "Dow's nearly 100-point jump led by gains for 3M, UnitedHealth stocks"
+    },
+    "tweet4": {
+      "content": "3M (COMPANY_X) Sales Rise Y/Y in August, Q3 Projections Impressive"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "3M Co. stock outperforms competitors on strong trading day"
+    },
+    "tweet2": {
+      "content": "Lanebrook Mortgage Transaction 2020-1 plc -- Moody's assigns provisional ratings to Notes to be issued by Lanebrook Mortgage Transaction 2020-1 plc"
+    },
+    "tweet3": {
+      "content": "RPT-FOCUS-U.S. plans for hundreds of millions of cheap, fast COVID-19 tests"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "3M Co. stock falls Friday, underperforms market"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "3M Co. stock underperforms Monday when compared to competitors"
+    },
+    "tweet2": {
+      "content": "Dow drops nearly 550 points on losses in American Express, Dow Inc. stocks"
+    },
+    "tweet3": {
+      "content": "Dow Jones Battered As Nasdaq Moves Off Lows; These Sectors Mauled By Bears"
+    },
+    "tweet4": {
+      "content": "American Express, Dow Inc. share losses lead Dow's 767-point fall"
+    },
+    "tweet5": {
+      "content": "American Express, Honeywell International Inc. share losses contribute to Dow's 835-point drop"
+    },
+    "tweet6": {
+      "content": "American Express, Honeywell International Inc. share losses lead Dow's 767-point drop"
+    },
+    "tweet7": {
+      "content": "Dow down nearly 850 points on losses for shares of American Express, Honeywell International Inc."
+    },
+    "tweet8": {
+      "content": "Why 3M's Latest Sales Fell Flat"
+    },
+    "tweet9": {
+      "content": "Tesla’s Battery Day Starts Tuesday. Here’s How To Watch."
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "'It's very important that we get the consumer going again': Portfolio Manager"
+    },
+    "tweet2": {
+      "content": "3M Explores $3.5 Billion Sale of Food Safety Division"
+    },
+    "tweet3": {
+      "content": "3M Co. stock rises Tuesday, still underperforms market"
+    },
+    "tweet4": {
+      "content": "3M explores $3.5 bln sale of food safety unit - Bloomberg News"
+    },
+    "tweet5": {
+      "content": "3 Reasons I Bought 3M Stock Despite Investor Fears"
+    },
+    "tweet6": {
+      "content": "3M Extends Accessible STEM Distance-learning Resources With Science at Home"
+    },
+    "tweet7": {
+      "content": "How To Watch Tesla’s Battery Day — and Why You Should"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "3M Co. stock outperforms market despite losses on the day"
+    },
+    "tweet2": {
+      "content": "Will 3M Sell Its Food Safety Business for $3.5 Billion?"
+    },
+    "tweet3": {
+      "content": "Will 3M Sell Its Food Safety Business for $3.5 Billion?"
+    },
+    "tweet4": {
+      "content": "Nike, Johnson & Johnson share gains lead the way, but Dow flat"
+    },
+    "tweet5": {
+      "content": "BUZZ-U.S. STOCKS ON THE MOVE-VTv Therapeutics Inc, SPI Energy Co Ltd, Carvana Co, Stich Fix Inc"
+    },
+    "tweet6": {
+      "content": "BUZZ-U.S. STOCKS ON THE MOVE-Comcast, Johnson & Johnson, Stich Fix, American Express"
+    },
+    "tweet7": {
+      "content": "Honeywell Stock is Nothing Exciting, so Look Elsewhere for Your Tech Fix"
+    },
+    "tweet8": {
+      "content": "3M Looks To Sell Food Safety Business For $3.5B: Bloomberg"
+    },
+    "tweet9": {
+      "content": "3M Mulls $3.5B Sale Of Food Safety Division- Report"
+    },
+    "tweet10": {
+      "content": "3M Explores $3.5 Bln Sale Of Food Safety Division : Report "
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "3M Co. stock outperforms market on strong trading day"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "3M Co. stock falls Friday, underperforms market"
+    },
+    "tweet2": {
+      "content": "VIA Optronics Stock Falls 33% in Trading After IPO"
+    },
+    "tweet3": {
+      "content": "After 75% Rally Johnson Controls Stock Looks Fully Valued"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "ANALYSIS-Biden basket vs Trump trade: Picking a presidential stock portfolio"
+    },
+    "tweet2": {
+      "content": " ANALYSIS-Biden basket vs Trump trade: Picking a presidential stock portfolio"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "7 Manufacturing Stocks to Buy for a Solid Foundation"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "3 Dow Jones Stocks to Trade at the Bottom"
+    },
+    "tweet2": {
+      "content": "Lanebrook Mortgage Transaction 2020-1 plc -- Moody's assigns definitive ratings to Notes issued by Lanebrook Mortgage Transaction 2020-1 plc"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "7 Dividend Stocks Perfect for a Retiree’s Portfolio"
+    }
+  }
+}

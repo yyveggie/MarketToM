@@ -1,0 +1,574 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Why OPKO Health Jumped 13.9% in September"
+    },
+    "tweet2": {
+      "content": "2 Top Coronavirus Stocks to Buy Right Now"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Abbott Labs to Sell 20.5 Million COVID-19 Antigen Tests to Canadian Government"
+    },
+    "tweet2": {
+      "content": "Canada signs deal with Abbott for Panbio COVID-19 antigen tests"
+    },
+    "tweet3": {
+      "content": "Canada signs deal with Abbott for Panbio COVID-19 Antigen tests"
+    },
+    "tweet4": {
+      "content": "3 Stocks You Can Keep Forever"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Abbott Laboratories Says Its Rapid Coronavirus Test Correctly Identifies Positive Cases 95% of the Time"
+    },
+    "tweet2": {
+      "content": "BUZZ-U.S. STOCKS ON THE MOVE-Workday, Stable Road Acquisition, RedHill Biopharma, Fox Corp, Disney"
+    },
+    "tweet3": {
+      "content": "BUZZ-U.S. STOCKS ON THE MOVE-United Airlines, CleanSpark, Netflix, TransEnterix, Peck Company"
+    },
+    "tweet4": {
+      "content": "Abbott says fast COVID-19 test correctly identifies positive cases 95% of the time"
+    },
+    "tweet5": {
+      "content": "BUZZ-U.S. STOCKS ON THE MOVE-Rave Restaurant, Vedanta, Hill International, Workday, Bristol-Myers"
+    },
+    "tweet6": {
+      "content": "Abbott says ID NOW COVID-19 rapid test shows high sensitivity in study"
+    },
+    "tweet7": {
+      "content": "Abbott: ID NOW COVID-19 Interim Results Confirm Previous Data Submitted To FDA "
+    },
+    "tweet8": {
+      "content": "Medtronic Stock Appears Attractive Around $100 Levels"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Abbott (COMPANY_X) Upgraded to Buy: Here's What You Should Know"
+    },
+    "tweet2": {
+      "content": "Here's Why Momentum Investors Will Love Abbott (COMPANY_X)"
+    },
+    "tweet3": {
+      "content": "Is Abbott Laboratories (COMPANY_X) Outperforming Other Medical Stocks This Year?"
+    },
+    "tweet4": {
+      "content": "Abbott's Data From Interim Clinical Study of ID NOW Positive"
+    },
+    "tweet5": {
+      "content": "Abbott wins U.S. emergency use authorization for new COVID-19 antibody test"
+    },
+    "tweet6": {
+      "content": "Abbott Receives FDA Emergency Use Authorization for its COVID-19 IgM Antibody Blood Test"
+    },
+    "tweet7": {
+      "content": "Market Crash 2.0: Where to Invest $1,000"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Why Abbott (COMPANY_X) is Poised to Beat Earnings Estimates Again"
+    },
+    "tweet2": {
+      "content": "Another Abbott antibody test is authorized"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Visa, Walmart, Abbott Laboratories, UnitedHealth Group and Oracle"
+    },
+    "tweet4": {
+      "content": "Abbott's New Antibody Test Gets FDA's EUA, Test Suite Expands"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Abbott (COMPANY_X) Stock Moves -0.57%: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Abbott (COMPANY_X) Earnings Expected to Grow: Should You Buy?"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "COVID-19 Antigen Test Launch to Drive Abbott (COMPANY_X) Q3 Earnings"
+    },
+    "tweet2": {
+      "content": "An Investment Strategy for Q3 Earnings in a Volatile Market"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "An Analyst Plays Matchmaker With Chevron and Exxon"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Abbott Laboratories, NextEra Energy, Silgan Holdings, UniFirst Corp and Landstar System"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "'Halftime Report' Traders Share Their Thoughts On Guggenheim's Bristol-Myers Call"
+    },
+    "tweet2": {
+      "content": "Stock Market Today With Jim Cramer: Buy Boeing"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Were Hedge Funds Right About Crowding Into Abbott Laboratories (COMPANY_X)?"
+    },
+    "tweet2": {
+      "content": "Abbott Laboratories's Earnings Outlook"
+    },
+    "tweet3": {
+      "content": "Why Abbott (COMPANY_X) Might Surprise This Earnings Season"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Abbott Laboratories Earnings, Outlook Top Expectations"
+    },
+    "tweet2": {
+      "content": "Analyst Report: Abbott Laboratories"
+    },
+    "tweet3": {
+      "content": "Here's What to Really Like About Abbott Labs' Q3 Results"
+    },
+    "tweet4": {
+      "content": "Here's What to Really Like About Abbott Labs' Q3 Results"
+    },
+    "tweet5": {
+      "content": "Covid-19 Tests Are the Real Pandemic Moneymakers"
+    },
+    "tweet6": {
+      "content": "Does Abbott Labs Still Pass My Test After Earnings?"
+    },
+    "tweet7": {
+      "content": "Abbott (COMPANY_X) Q3 Earnings Top, Diagnostic Test Sales Solid"
+    },
+    "tweet8": {
+      "content": "Verizon (VZ), Abbott (COMPANY_X), Thermo Fisher (TMO) Report Q3; Tesla (TSLA) After the Bell"
+    },
+    "tweet9": {
+      "content": "Earnings Data Deluge"
+    },
+    "tweet10": {
+      "content": "Abbott Labs Climbs on Earnings Beat, Upside Guidance"
+    },
+    "tweet11": {
+      "content": "US STOCKS-Futures tick higher on stimulus optimism"
+    },
+    "tweet12": {
+      "content": "Abbott (COMPANY_X) Q3 Earnings and Revenues Surpass Estimates"
+    },
+    "tweet13": {
+      "content": "A Look Into Abbott's Debt"
+    },
+    "tweet14": {
+      "content": "Abbott Labs tops Q3 profit and sales estimates, offers upbeat guidance despite pandemic"
+    },
+    "tweet15": {
+      "content": "Recap: Abbott Laboratories Q3 Earnings"
+    },
+    "tweet16": {
+      "content": "Abbott Reports Third-Quarter 2020 Results; Achieves Strong Double-Digit Earnings Growth and Raises Guidance"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Abbott Laboratories Has 'Solid Upside Potential,' BofA Says After Q3 Print"
+    },
+    "tweet2": {
+      "content": "Verizon, Biogen, Abbott earnings breakdown, here's what you need to know"
+    },
+    "tweet3": {
+      "content": "2 Stocks to Buy as the Third Coronavirus Wave Hits"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Surging Earnings Estimates Signal Upside for Abbott (COMPANY_X) Stock"
+    },
+    "tweet2": {
+      "content": "College Football Games Are Ad Hoc Covid-19 Testing Studies"
+    },
+    "tweet3": {
+      "content": "Polen Capital is Betting on Abbott Laboratories (COMPANY_X) Stock"
+    },
+    "tweet4": {
+      "content": "BD's (BDX) COVID-19 Real-Time PCR Detection Kit Gets CE Mark"
+    },
+    "tweet5": {
+      "content": "OPKO Health's (OPK) BioReference Laboratories Unveils New Test"
+    },
+    "tweet6": {
+      "content": "Have $1,000? 2 Fantastic Coronavirus Stocks to Buy and Hold for the Next Decade"
+    },
+    "tweet7": {
+      "content": "Abbott Laboratories Just Recorded A 11% EPS Beat: Here's What Analysts Are Forecasting Next"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "West Pharmaceutical ESG Rating Upgraded; WST Stock Hits Record Highs"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Unusual Options Activity Insight: Abbott Laboratories"
+    },
+    "tweet2": {
+      "content": "Analyst Report: Abbott Laboratories"
+    },
+    "tweet3": {
+      "content": "Market Update: COMPANY_X, AMD, NRZ"
+    },
+    "tweet4": {
+      "content": "EU weighs buying Roche, Abbott rapid COVID tests amid limited supplies"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "United to give travelers free COVID-19 tests on select Newark-London flights"
+    },
+    "tweet2": {
+      "content": "2 Healthcare Dividend Stocks to Buy No Matter Who Wins the Election"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "5 Stocks to Buy No Matter Who Wins the Election"
+    },
+    "tweet2": {
+      "content": "Abbott Wins Prestigious Prix Galien USA Award for First-of-its-Kind MitraClip™ Device"
+    },
+    "tweet3": {
+      "content": "2 No-Brainer Stocks to Buy In The Next Market Crash"
+    },
+    "tweet4": {
+      "content": "8 Stocks Poised to Benefit from a Weaker Dollar"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Abbott Laboratories Could Soon Break Out From Its Sideways Pattern"
+    },
+    "tweet2": {
+      "content": "Trump or Biden? 5 Stocks to Buy No Matter Who Wins the Election."
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Coronavirus update: US hits new daily record surpassing 100,000 daily cases"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Abbott Tacks On Massive Coronavirus Test Growth — But Is COMPANY_X Stock A Buy?"
+    },
+    "tweet2": {
+      "content": "3 Stocks to Buy and Hold for Decades"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Morning Bell With Jim Cramer: Buy Stocks That Are Down 5%"
+    },
+    "tweet2": {
+      "content": "Abbott Announces the U.S. Launch of the IonicRF™ Generator for Use in Patients Living With Chronic Pain"
+    },
+    "tweet3": {
+      "content": "3 Stocks That Should Be Big Winners Under Joe Biden's Coronavirus Plan"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "3 Stocks to Capitalize on Promising Medical Products Industry"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Zacks Industry Outlook Highlights: Abbott Laboratories, Baxter International, ResMed and Intuitive Surgical"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Abbott (COMPANY_X) Launches Radiofrequency Ablation Device in U.S."
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "CORRECTED-U.S. government to send out over 7 million Abbott BinaxNOW tests this week"
+    },
+    "tweet2": {
+      "content": "Abbott Named Industry Sustainability Leader for the Eighth Year in a Row on the Dow Jones Sustainability Index (DJSI)"
+    },
+    "tweet3": {
+      "content": "Top 10 Stocks Billionaire Ray Dalio Just Bought"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Abbott Launches the First Infant Formula in Canada with an Ingredient Identical in Structure to Immune Component Found in Breast Milk"
+    },
+    "tweet2": {
+      "content": "Better Buy: Abbott Laboratories vs. DexCom"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Abbott Becomes First Anchor Sponsor of American Diabetes Association's Health Equity Now Initiative to Advance Access to Care and Technology for People with Diabetes"
+    },
+    "tweet2": {
+      "content": "15 Largest Biotech Companies in the World"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Why Is Abbott (COMPANY_X) Up 1.4% Since Last Earnings Report?"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "3 Dividend Stocks Gurus Like"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Top Stock Reports for NVIDIA, Pfizer & Abbott"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: NVIDIA, Pfizer, Abbott, UPS and ICICI"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "Pediatric Medical Space Thrives Amid COVID-19: 3 Stocks in Focus"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "Abbott's FreeStyle Libre 2 Now Approved for Adults and Children with Diabetes in Canada, Featuring Unsurpassed 14-Day Accuracy and Optional Alarms"
+    },
+    "tweet2": {
+      "content": "4 MedTech Stocks Gaining Ground on COVID-19 Test Kit Success"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "Abbott (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "Abbott's (COMPANY_X) Libre 2 Cleared in Canada, Boosts CGM Prospects"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "Is COMPANY_X A Good Stock To Buy Now?"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "Abbott (COMPANY_X) Stock Moves -0.45%: What You Should Know"
+    },
+    "tweet2": {
+      "content": "DexCom Has a Lot to Prove in 2021"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Abbott Laboratories, Owens & Minor, Thermo Fisher Scientific, Quidel Corp and Hologic"
+    },
+    "tweet2": {
+      "content": "Is Abbott Laboratories (COMPANY_X) a Smart Long-term Buy?"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "Dividend Aristocrat Abbott Laboratories Hikes Dividend by 25%"
+    },
+    "tweet2": {
+      "content": "Abbott raises quarterly dividend by 25% to 45 cents a share"
+    },
+    "tweet3": {
+      "content": "Abbott Increases Quarterly Dividend by 25%"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "3 Health Care Companies That Recently Raised Dividends"
+    },
+    "tweet2": {
+      "content": "Abbott Develops New Pedialyte® Hydration Solution to Help Support Immune Health"
+    },
+    "tweet3": {
+      "content": "3 COVID Stocks That Are Screaming Buys"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "Abbott (COMPANY_X) Stock Moves -0.23%: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Here's Why You Should Hold on to Tandem Diabetes (TNDM) Stock"
+    },
+    "tweet3": {
+      "content": "Abbott Receives CE Mark for its COVID-19 IgG Quantitative Antibody Blood Test"
+    },
+    "tweet4": {
+      "content": "Abbott (COMPANY_X) Launches Immunity Boosting Hydration Solution"
+    },
+    "tweet5": {
+      "content": "20 Biggest Healthcare Companies By Revenue"
+    },
+    "tweet6": {
+      "content": "This Dividend Aristocrat Just Gave Investors a Great Early Christmas Gift"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "Abbott Labs Gets Approval for $25 Home Covid Test"
+    },
+    "tweet2": {
+      "content": "Abbott Labs' at-home, $25 rapid COVID-19 test gets EUA from FDA"
+    },
+    "tweet3": {
+      "content": "Price Over Earnings Overview: Abbott Laboratories"
+    },
+    "tweet4": {
+      "content": "Abbott's BinaxNOW COVID-19 Rapid Test Receives FDA Emergency Use Authorization for First Virtually Guided, At-Home Rapid Test Using eMed's Digital Health Platform"
+    },
+    "tweet5": {
+      "content": "Abbott (COMPANY_X) Gains CE Mark for Quantitative Serology Testing"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "FDA Approves Labeling Update for Abbott's HeartMate 3 Heart Pump for use in Pediatric Patients"
+    },
+    "tweet2": {
+      "content": "What you need to know about at-home and over-the-counter COVID-19 tests"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "Abbott to Present at J.P. Morgan Healthcare Conference"
+    },
+    "tweet2": {
+      "content": "Abbott (COMPANY_X) Broadens Pediatric Client Base With New Labeling"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "Abbott (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "As Vaccines Roll Out, Americans See COVID-19 Testing as Important Partner"
+    },
+    "tweet2": {
+      "content": "Got $1,000? 3 Smart Stocks to Buy Right Now"
+    },
+    "tweet3": {
+      "content": "At US$108, Is Abbott Laboratories (NYSE:COMPANY_X) Worth Looking At Closely?"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "The 3 Best Stocks for 2021"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "The 3 Safest Stocks to Buy With Your Stimulus Money"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "Abbott (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    }
+  }
+}

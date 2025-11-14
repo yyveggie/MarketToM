@@ -1,0 +1,619 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "BUZZ-U.S. STOCKS ON THE MOVE-XPO Logistics, VerifyMe, Workday, LogicBio Therapeutics"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips Expects Q3 Output Surge, Resumes Stock Buyback"
+    },
+    "tweet3": {
+      "content": "GRAPHIC-Big Oil's $110 bln asset sale target could prove big ask"
+    },
+    "tweet4": {
+      "content": "GRAPHIC-Big Oil's selling spree might prove tricky"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "5 Energy Companies to Consider as Oil Prices Remain on Shaky Ground"
+    },
+    "tweet2": {
+      "content": "Why Oil Giants BP, Chevron, and ConocoPhillips Stocks Tumbled More Than 10% in September"
+    },
+    "tweet3": {
+      "content": "Why Oil Giants BP, Chevron, and ConocoPhillips Stocks Tumbled More Than 10% in September"
+    },
+    "tweet4": {
+      "content": "BUZZ-U.S. STOCKS ON THE MOVE-Invesco, Mesoblast, Assured Guaranty, IDT Corp"
+    },
+    "tweet5": {
+      "content": "BUZZ-U.S. STOCKS ON THE MOVE-Big banks, oil majors, airlines, Tesla Inc, Bloom Energy Corp"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "BUZZ-U.S. STOCKS ON THE MOVE-TC PipeLines, energy stocks, big banks, Plug Power"
+    },
+    "tweet2": {
+      "content": "Buy These 3 Dividend Stocks on Weakness, Say Analysts"
+    },
+    "tweet3": {
+      "content": "Buy These 3 Dividend Stocks on Weakness, Say Analysts"
+    },
+    "tweet4": {
+      "content": "Aker Bags Conoco Tommeliten Work"
+    },
+    "tweet5": {
+      "content": "BUZZ-U.S. STOCKS ON THE MOVE-GreenPro Capital, Cytokinetics, Nam Tai, MyoKardia, Livent"
+    },
+    "tweet6": {
+      "content": "BUZZ-U.S. STOCKS ON THE MOVE-Cinemark Holdings, Eidos Therapeutics, DraftKings, AMC Entertainment"
+    },
+    "tweet7": {
+      "content": "BUZZ-U.S. STOCKS ON THE MOVE-Callon Petroleum, Neptune Wellness, GAN Ltd, Xpeng"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Should You Sell Your Oil Stocks Right Now?"
+    },
+    "tweet2": {
+      "content": "Should You Sell Your Oil Stocks Right Now?"
+    },
+    "tweet3": {
+      "content": "Oil & Gas Stock Roundup: Exxon, Shell, ConocoPhillips' Q3 Updates & More"
+    },
+    "tweet4": {
+      "content": "Wall Street Opens Mixed; Awaiting Stimulus Talks; Dow up 81 Pts"
+    },
+    "tweet5": {
+      "content": "Premier Oil agrees to merge with Chrysaor, pay off creditors"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Conoco, Mercuria Cashed In on Power Trades During Heat Wave"
+    },
+    "tweet2": {
+      "content": "Oil rises above $43 on supply losses, U.S. stimulus hopes"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "ConocoPhillips increases dividend by one cent to 43 cents a share"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips Announces Increase in Quarterly Dividend"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "ConocoPhillips (COMPANY_X) Rewards Investors With Dividend Hike"
+    },
+    "tweet2": {
+      "content": "Would Shareholders Who Purchased ConocoPhillips' (NYSE:COMPANY_X) Stock Year Be Happy With The Share price Today?"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips Boosts Dividend 2.4%; Street Bullish On Outlook"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "S&P 500 Slides as Stimulus Talks Stall, Economic Worries Outweigh Positive News"
+    },
+    "tweet2": {
+      "content": "Concho Resources Inc. -- Moody's reviews Concho Resources' ratings for upgrade upon acquisition by ConocoPhillips"
+    },
+    "tweet3": {
+      "content": "CONCHO ALERT: Bragar Eagel & Squire, P.C. Investigates Sale of CXO and Encourages Investors to Contact the Firm"
+    },
+    "tweet4": {
+      "content": "$10 Billion Permian Basin Deal Creates Biggest U.S. Independent Oil Producer"
+    },
+    "tweet5": {
+      "content": "Oil Edges Lower as OPEC+ Keeps Its Next Moves Close to Chest"
+    },
+    "tweet6": {
+      "content": "Stock Market Today With Jim Cramer: Buy Boeing"
+    },
+    "tweet7": {
+      "content": "Analyst Report: ConocoPhillips"
+    },
+    "tweet8": {
+      "content": "ALERT: Rowley Law PLLC is Investigating Proposed Acquisition of Concho Resources"
+    },
+    "tweet9": {
+      "content": "ConocoPhillips Finally Finds a Deal to Its Liking"
+    },
+    "tweet10": {
+      "content": "M&A boardrooms know they need to act before the election: top Morgan Stanley banker"
+    },
+    "tweet11": {
+      "content": "Conoco to buy Concho for $9.7B, creates shale giant"
+    },
+    "tweet12": {
+      "content": "The Zacks Analyst Blog Highlights: Schlumberger, Halliburton, Royal Dutch, BP and ConocoPhillips"
+    },
+    "tweet13": {
+      "content": "ConocoPhillips to buy Concho Resources for $9.7 billion in 2020's top shale deal"
+    },
+    "tweet14": {
+      "content": "ConocoPhillips Is Buying Concho Resources - Here's the Trade"
+    },
+    "tweet15": {
+      "content": "Why the Conoco-Concho Deal Is a Mixed Bag for Investors"
+    },
+    "tweet16": {
+      "content": "ConocoPhillips Wades Deeper Into Permian With Concho Acquisition"
+    },
+    "tweet17": {
+      "content": "SHAREHOLDER ALERT: Rigrodsky & Long, P.A. Announces Investigation of Concho Resources Inc. Merger"
+    },
+    "tweet18": {
+      "content": "Looking Into ConocoPhillips's Return On Capital Employed"
+    },
+    "tweet19": {
+      "content": "ConocoPhillips CEO Ryan Lance Talks $9.7B Concho Deal On CNBC"
+    },
+    "tweet20": {
+      "content": "ConocoPhillips to Buy Concho Resources for $9.7 Billion in Stock"
+    },
+    "tweet21": {
+      "content": "Conoco to Buy Concho for $9.7 Billion to Create Shale Giant"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "ConocoPhillips: The Only Growth Is Through Consolidation"
+    },
+    "tweet2": {
+      "content": "Oil Climbs While U.S. Lawmakers Discuss a Potential Aid Package"
+    },
+    "tweet3": {
+      "content": "Pioneer Inks Father-Son Shale Merger, Adding To Permian Basin Frenzy"
+    },
+    "tweet4": {
+      "content": "U.S. shale mergers accelerate, with Pioneer-Parsley deal looming"
+    },
+    "tweet5": {
+      "content": "Another Oil and Gas Merger May Be Coming Soon"
+    },
+    "tweet6": {
+      "content": "This Father-Son Shale Merger May Add To Permian Basin Frenzy"
+    },
+    "tweet7": {
+      "content": "Energy ETFs Set to Soar as ConocoPhillips Acquires Concho"
+    },
+    "tweet8": {
+      "content": "Misery Loves Company: Behind the Boom in Oil Stock M&A"
+    },
+    "tweet9": {
+      "content": "Conoco-Concho Merge: ETFs in Focus on 2020's Top Shale Deal"
+    },
+    "tweet10": {
+      "content": "ConocoPhillips Confirms $9.7B Acquisition Deal With Concho"
+    },
+    "tweet11": {
+      "content": "Reports of Shale’s Death Were Greatly Exaggerated"
+    },
+    "tweet12": {
+      "content": "Stimulus Deadline, Netflix Results & Shale M&A: What's up in Markets"
+    },
+    "tweet13": {
+      "content": "ConocoPhillips Agrees to Acquire Concho Resources for $9.7 Billion"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Shale Mergers Strengthening: ETFs to Benefit"
+    },
+    "tweet2": {
+      "content": "Oil & Gas Stock Roundup: ConocoPhillips' Acquisition, Schlumberger & Halliburton's Q3 & More"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Earnings Preview: ConocoPhillips (COMPANY_X) Q3 Earnings Expected to Decline"
+    },
+    "tweet2": {
+      "content": "Pioneer CEO Predicts ‘Only Three or Four’ U.S. Oil Stocks Are Worth Buying"
+    },
+    "tweet3": {
+      "content": "What's Behind the Recent Frenzy of U.S. Energy M&A Deals?"
+    },
+    "tweet4": {
+      "content": "COMPANY_X In Talks to Buy Rival and More"
+    },
+    "tweet5": {
+      "content": "The Oil Stock Merger Wave Continues"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Pioneer Natural, ConocoPhillips, Concho, Devon and Chevron"
+    },
+    "tweet2": {
+      "content": "Crude Oil Prices Slip as Libyan Peace Deal Cements Supply Increase"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Why ConocoPhillips, Bloom Energy, and Plug Power Stocks Just Crashed"
+    },
+    "tweet2": {
+      "content": "Shale Oil & Gas M&As Pick Up: Here's What Investors Must Know"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "The Oil Industry Trend That Could Pump Stock Prices Higher"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Pioneer Natural Resources, ConocoPhillips, Chevron, Devon Energy Corp and Canadian Natural Resources"
+    },
+    "tweet3": {
+      "content": "What's in the Cards for ConocoPhillips' (COMPANY_X) Q3 Earnings?"
+    },
+    "tweet4": {
+      "content": "Cenovus (CVE) & Husky Deal to Create C$1.2B Annual Synergies"
+    },
+    "tweet5": {
+      "content": "Was The Smart Money Right About Dumping ConocoPhillips (COMPANY_X)?"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Why ConocoPhillips Stock Is Slumping Today"
+    },
+    "tweet2": {
+      "content": "4 Oil & Gas Earnings to Watch on Oct 29: COG, DVN, COMPANY_X & NFE"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "ConocoPhillips Gushes Red as Oil Price Volatility Weighs"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips posts smaller-than-expected loss as oil prices recover"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips (COMPANY_X) Q3 Earnings Miss on Low Crude Prices"
+    },
+    "tweet4": {
+      "content": "Q3 GDP Bounces Back to All-Time High 33.1%; Plus Earnings: CMCSA, COMPANY_X, DNKN"
+    },
+    "tweet5": {
+      "content": "ConocoPhillips (COMPANY_X) Reports Q3 Loss, Misses Revenue Estimates"
+    },
+    "tweet6": {
+      "content": "ConocoPhillips posts smaller-than-expected loss as oil prices recover"
+    },
+    "tweet7": {
+      "content": "ConocoPhillips posts smaller-than-expected loss as oil prices recover"
+    },
+    "tweet8": {
+      "content": "ConocoPhillips Reports Third-Quarter 2020 Results and Operational Results"
+    },
+    "tweet9": {
+      "content": "Transocean Gets NYSE Notice and More"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Oil Sees Worst Month Since March"
+    },
+    "tweet2": {
+      "content": "Will Exxon Stock Hit New Lows on Earnings, Dividend Affirmation?"
+    },
+    "tweet3": {
+      "content": "3 Incredibly Cheap Energy Stocks"
+    },
+    "tweet4": {
+      "content": "Analyst Report: ConocoPhillips"
+    },
+    "tweet5": {
+      "content": "ConocoPhillips (COMPANY_X) Q3 2020 Earnings Call Transcript"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Why ConocoPhillips Stock Just Popped 5%"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips Dividend Benefits Investors While They Wait for Oil Rebound"
+    },
+    "tweet3": {
+      "content": "Benzinga's Top Upgrades, Downgrades For November 2, 2020"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "ConocoPhillips Continues Advancing Optimized Cascade® Process Capability by Offering New Operational and Control Technologies"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Investors Sour on Green Wave as Democrats’ Hope for Senate Fades"
+    },
+    "tweet2": {
+      "content": "Why ConocoPhillips Stock Tumbled Nearly 13% in October"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "6 Stocks to Ride an Energy Comeback"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Why Plug Power, Bloom Energy, and ConocoPhillips Stocks All Popped on Today's Vaccine News"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Oil Prices Continue Their Rally. And Market Watchers Think There’s Room to Run."
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "ConocoPhillips discovers gas offshore Norway"
+    },
+    "tweet2": {
+      "content": "ConcoPhillips announces significant gas discovery offshore Norway"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips Announces Significant Gas Discovery Offshore Norway"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Renting a Slice of U.S. Oil’s Hot Spot Is 70% Cheaper After Rout"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "ConocoPhillips Hits Gas Pay in Norwegian Sea"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Oil Rallies Again, but a Vaccine Can’t Bring It All the Way Back"
+    },
+    "tweet2": {
+      "content": "Why Boeing, ConocoPhillips, and Phillips 66 Shares Ripped Higher on Monday"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips (COMPANY_X) Confirms Offshore Norway Gas Discovery"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "How Much Of ConocoPhillips (NYSE:COMPANY_X) Do Institutions Own?"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "15 Largest Coal Companies in the World"
+    },
+    "tweet2": {
+      "content": "Oil & Gas Stock Roundup: ConocoPhillips' Gas Find, Occidental's Q3 & More"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Annandale Capital CEO on his outlook for oil stocks"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "7 reasons why energy stocks will be 60% higher a year from now"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Why ExxonMobil, ConocoPhillips, and Phillips 66 All Jumped More Than 5% Today"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Tweedy Browne Burns Oil Holdings in the 3rd Quarter"
+    },
+    "tweet2": {
+      "content": "The Price of Oil Is Ripping Higher. Here’s What Could Stop It."
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Exxon Mobil Is Breathing Through Temporary Air Pockets"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "Why ExxonMobil, Phillips 66, and ConocoPhillips Stocks Crashed Today"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "Occidental Petroleum’s stock falls as UBS analyst turns bearish after record monthly gain"
+    },
+    "tweet2": {
+      "content": "Conoco Warns of 500 Houston Job Cuts as Concho Deal Nears"
+    },
+    "tweet3": {
+      "content": "Even Exxon Mobil Is Capitulating to Peak Oil Demand"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "Energy Stock Short Sellers Took A $6.3B Loss In November As Oil Prices Rebounded"
+    },
+    "tweet2": {
+      "content": "Equinor fire shuts Europe's biggest methanol plant"
+    },
+    "tweet3": {
+      "content": "15 Largest EPC Companies in the World"
+    },
+    "tweet4": {
+      "content": "U.S. oil producer ConocoPhillips to shed up to 500 workers"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "Lifshitz Law Firm, P.C. Announces Investigation of CBMG, CBLI, COMPANY_X, and EIGI"
+    },
+    "tweet2": {
+      "content": "3 Stocks Peter Lynch Would Love"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips (COMPANY_X) to Sack 25% Houston Workers by Early 2021"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "Zacks Market Edge Highlights: Chevron, Exxon, Pioneer Natural Resources, EOG Resources and ConocoPhillips"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "ConocoPhillips Commences Exchange Offers and Concho Resources Inc. Commences Consent Solicitations"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "Biden Can Slow Trump’s Roll on Arctic Oil Drilling"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "Moore Kuehn Encourages EIGI, COMPANY_X, XLNX, and GV Investors to Contact Law Firm"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "Is COMPANY_X A Good Stock To Buy According To Hedge Funds?"
+    },
+    "tweet2": {
+      "content": "Historic Day for Pfizer (PFE), Covid-19 Vaccine"
+    },
+    "tweet3": {
+      "content": "10 Best Oil Stocks To Buy Right Now"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "10 Ways to Play a 2021 Oil-and-Gas Stock Rebound"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "ConocoPhillips to Hold Fourth-Quarter Earnings Conference Call on Tuesday, Feb. 2"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "15 Largest Gas Companies in the US"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips Announces Results of Early Participation in Exchange Offers and Consent Solicitations and Amendment to Exchange Offers"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "ConocoPhillips Announces Significant Oil Discovery in the Norwegian Sea"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "ConocoPhillips (COMPANY_X) Finds New Oil in the Norwegian Sea"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "Oil Prices In 2021 May Look Oddly Familiar — And Squeeze Shale"
+    },
+    "tweet2": {
+      "content": "2020 Mergers and Acquisitions: A Year in Review"
+    },
+    "tweet3": {
+      "content": "Energy M&A: 5 Biggest Deals of 2020 & the Outlook for 2021"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "Why the energy sector downturn is more pronounced now than in prior cycles"
+    },
+    "tweet2": {
+      "content": "Oil & Gas Stock Roundup: BP's Gas Production in India & a Flurry of Discoveries"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "Merger Mania Is Transforming Canada’s Oil Scene"
+    }
+  }
+}

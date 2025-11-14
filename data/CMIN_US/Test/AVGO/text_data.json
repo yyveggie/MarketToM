@@ -1,0 +1,529 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "5 Stocks the Insiders are Buying"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Top Research Reports for NVIDIA, Intel & Broadcom"
+    },
+    "tweet2": {
+      "content": "Tech Jewels Not To Miss Out In October"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: NVIDIA, Intel, Broadcom, American Airlines and Telephone and Data Systems"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Synaptics, Broadcom, Dropbox, Etsy and Applied Materials"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "European antitrust regulators settle with Broadcom a year after 'interim measures' flex"
+    },
+    "tweet2": {
+      "content": "Broadcom to end exclusivity deals for seven years in EU antitrust deal"
+    },
+    "tweet3": {
+      "content": "Broadcom to end exclusivity deals for seven years in EU antitrust deal"
+    },
+    "tweet4": {
+      "content": "EU antitrust regulators accept Broadcom concessions, end probe"
+    },
+    "tweet5": {
+      "content": "EU antitrust regulators accept Broadcom concessions, end probe"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Xilinx Spikes on Report AMD May Buy It. Analysts Have Their Doubts."
+    },
+    "tweet2": {
+      "content": "Apple’s New 5G IPhones May Be Left on the Shelf"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Apple & 5 Supplier Stocks to Gain From Upcoming 5G iPhones"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Q3 Earnings Scorecard and Top Research Reports for Apple, PepsiCo & McDonald's"
+    },
+    "tweet2": {
+      "content": "Apple's 5G iPhone 12 hasn't changed this Wall Street pro's COVID-19 trade"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Top Chip Stocks To Watch As They Kickoff Q3 Earnings"
+    },
+    "tweet2": {
+      "content": "Jim Cramer: This Is How Stocks Would Fare Under a President Biden"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Apple, PepsiCo, MCD, JPM, Citigroup, Alphabet and Broadcom"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Valkyr Purchaser, LLC -- Moody's assigns first-time B2 CFR to Veracode; outlook stable"
+    },
+    "tweet2": {
+      "content": "Broadcom Inc. (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet3": {
+      "content": "Two Chip Stocks That Stand to Win From the 5G iPhones"
+    },
+    "tweet4": {
+      "content": "Broadcom (NASDAQ:COMPANY_X) Has Gifted Shareholders With A Fantastic 250% Total Return On Their Investment"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Weekly Stock List"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "These 5 Apple Suppliers Will Profit From the iPhone 12"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Broadcom Inc (COMPANY_X): Are Hedge Funds Right About This Stock?"
+    },
+    "tweet2": {
+      "content": "Apple Lobbies for Lower Taxes to Boost U.S. Chip Production"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Broadcom Inc. (COMPANY_X) Gains But Lags Market: What You Should Know"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Intel stock dives after weak Q3 results"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Qualcomm and Broadcom Stock Have Nearby Support"
+    },
+    "tweet2": {
+      "content": "The best 5G pure-play investment is in cellphone-tower operators"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Broadcom Inc. (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet2": {
+      "content": "3 Dividend Stocks That Pay You Better Than Coca-Cola Does"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Got $1,000? 3 Explosive Stocks to Buy During a Market Crash"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Broadcom Inc. (COMPANY_X) Upgraded to Buy: Here's Why"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "3 Dividend-Paying Tech Stocks to Buy in November"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Broadcom Inc. (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Broadcom Announces World’s First Automotive IEEE 802.3ch Multigigabit PHYs and Multilayer Switches with MACsec Support"
+    },
+    "tweet2": {
+      "content": "Broadcom Inc. to Announce Fourth Quarter and Fiscal Year 2020 Financial Results on Thursday, December 10, 2020"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "2 Cheap Dividend Stocks You Can Buy Right Now"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "McAfee Stock Is Down, But Is It a Secure Investment?"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Broadcom Inc. (COMPANY_X) Gains As Market Dips: What You Should Know"
+    },
+    "tweet2": {
+      "content": "3 Perfect Stocks to Buy With $1,000 When Market Volatility Strikes"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Top Research Reports for Bank of America, Broadcom & Lowe's"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Bank of America, Broadcom, Lowe's, Wells Fargo and Duke Energy"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Broadcom Inc. (COMPANY_X) Gains But Lags Market: What You Should Know"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "3 Dividend Stocks to Buy Before 2021"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "Broadcom Inc. (COMPANY_X) Gains As Market Dips: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Broadcom Debuts Industry’s First 5nm ASIC for Data Center and Cloud Infrastructure"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "SYNA vs. COMPANY_X: Which Stock Is the Better Value Option?"
+    },
+    "tweet2": {
+      "content": "Broadcom Unveils the Industry’s First Open AIOps Platform Delivering a New Level of Full-Stack Observability for Hybrid Clouds"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "The 5 Hottest Earnings Charts in December"
+    },
+    "tweet2": {
+      "content": "Broadcom Is Showing Slowing Momentum: Our New Technical Strategy"
+    },
+    "tweet3": {
+      "content": "China and India pose ‘real risk’ if U.S. tech can’t grow: Box CEO"
+    },
+    "tweet4": {
+      "content": "Broadcom Breaks New Ground with Trident SmartToR, Converging Switching, Routing, and L4-L7 Services"
+    },
+    "tweet5": {
+      "content": "Broadcom Expands Tomahawk 4 Family, Increasing Leadership in the World’s Highest Bandwidth Switch/Routing Silicon"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "Broadcom Inc. (COMPANY_X) Earnings Expected to Grow: Should You Buy?"
+    },
+    "tweet2": {
+      "content": "Is Broadcom Stock a Buy?"
+    },
+    "tweet3": {
+      "content": "Viavi (VIAV) Unveils Protocol Exerciser for Traffic Support"
+    },
+    "tweet4": {
+      "content": "Broadcom Delivers 7nm 8x100G PAM4 PHYs for Hyperscale Data Center and AI Networks"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "Qualcomm Stock Surges On Strong 5G Wireless Chip Demand"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "Planview Parent, Inc. -- Moody's assigns first-time B3 CFR to Planview; outlook stable"
+    },
+    "tweet2": {
+      "content": "Is COMPANY_X A Good Stock To Buy?"
+    },
+    "tweet3": {
+      "content": "Broadcom (COMPANY_X) to Report Q4 Earnings: What's in the Offing?"
+    },
+    "tweet4": {
+      "content": "Morgan Stanley Raises Broadcom’s Target Price to $440; Forecasts Solid Earnings Report"
+    },
+    "tweet5": {
+      "content": "Stock Futures Rise as Biden Picks Health Secretary Nominee"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "COMPANY_X Stock: Is It A Buy Right Now? Here's What Earnings, Broadcom Stock Chart Show"
+    },
+    "tweet2": {
+      "content": "Nasdaq Hits New Highs: 5 Hot Stocks in the ETF"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "Top Analyst Reports for Broadcom, Infosys & Blackstone"
+    },
+    "tweet2": {
+      "content": "Why the Earnings Surprise Streak Could Continue for Broadcom Inc. (COMPANY_X)"
+    },
+    "tweet3": {
+      "content": "Broadcom Announces Global Cyber Security Aggregator Program to Better Serve Commercial Enterprise Clients"
+    },
+    "tweet4": {
+      "content": "Earnings Outlook for Broadcom"
+    },
+    "tweet5": {
+      "content": "3 Top Dividend Stocks to Buy Right Now"
+    },
+    "tweet6": {
+      "content": "Why Qualcomm, Taiwan Semiconductor, and Broadcom All Jumped in November"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "Broadcom Stock Slips Even as Chip Maker Beats Earnings Estimates"
+    },
+    "tweet2": {
+      "content": "Big Afternoon for Earnings Reports: LULU, ORCL, COST & More"
+    },
+    "tweet3": {
+      "content": "Broadcom Inc. (COMPANY_X) Q4 Earnings and Revenues Beat Estimates"
+    },
+    "tweet4": {
+      "content": "Chipmaker Broadcom Returns To Double-Digit Sales, Earnings Growth"
+    },
+    "tweet5": {
+      "content": "Broadcom Warns of Soft Enterprise Demand; Shares Slip"
+    },
+    "tweet6": {
+      "content": "Recap: Broadcom Q4 Earnings"
+    },
+    "tweet7": {
+      "content": "Chipmaker Broadcom Beats Fourth-Quarter Sales, Earnings Goals"
+    },
+    "tweet8": {
+      "content": "Broadcom stock slips as results tops Street view, new CFO announced"
+    },
+    "tweet9": {
+      "content": "Broadcom Inc. Announces Senior Leadership Appointments to Drive Continued Growth and Success"
+    },
+    "tweet10": {
+      "content": "Broadcom Inc. Announces Fourth Quarter and Fiscal Year 2020 Financial Results and Quarterly Dividends"
+    },
+    "tweet11": {
+      "content": "Broadcom, Inc. to Host Earnings Call"
+    },
+    "tweet12": {
+      "content": "The Zacks Analyst Blog Highlights: Broadcom, Infosys, Blackstone Group, Equifax and CenterPoint Energy"
+    },
+    "tweet13": {
+      "content": "P/E Ratio Insights for Broadcom"
+    },
+    "tweet14": {
+      "content": "What Does Broadcom's Debt Look Like?"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "The Empires Strike Back: Starbucks and Disney Can Still Offer Investors Growth."
+    },
+    "tweet2": {
+      "content": "After Broadcom Earnings, Should Investors Buy the Dip?"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Lululemon, Oracle, Costco and Broadcom"
+    },
+    "tweet4": {
+      "content": "Broadcom's Earnings Beat Spurs Raft of Analyst Upgrades"
+    },
+    "tweet5": {
+      "content": "Dow Jones Slumps As Disney Soars, Apple Sidelines Qualcomm; Pfizer Readies For Vaccine Rollout"
+    },
+    "tweet6": {
+      "content": "Broadcom (COMPANY_X) Selling Off Despite Strong Quarter"
+    },
+    "tweet7": {
+      "content": "Broadcom (COMPANY_X) Q4 Earnings and Revenues Surpass Estimates"
+    },
+    "tweet8": {
+      "content": "Chipmaker Broadcom Posts Strong Earnings Despite Weak Enterprise Demand; Target Price $456"
+    },
+    "tweet9": {
+      "content": "Broadcom Ltd (COMPANY_X) Q4 2020 Earnings Call Transcript"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "Interested In Broadcom's (NASDAQ:COMPANY_X) Upcoming US$3.60 Dividend? You Have Three Days Left"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "3 Reasons Why Growth Investors Shouldn't Overlook Broadcom Inc. (COMPANY_X)"
+    },
+    "tweet2": {
+      "content": "Broadcom Inc. (COMPANY_X) Upgraded to Buy: Here's What You Should Know"
+    },
+    "tweet3": {
+      "content": "China’s Top Chipmaker Slides After Co-CEO Abruptly Quits"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "Missed AMD's 2020 Rally? Buy These 4 Chip Stocks for 2021"
+    },
+    "tweet2": {
+      "content": "3 Dividend-Paying Tech Stocks to Buy Right Now"
+    },
+    "tweet3": {
+      "content": "3 Tech Dividend Stocks to Buy for 2021"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "Six High Dividend Stocks You Can Count On"
+    },
+    "tweet2": {
+      "content": "U.S. Blacklists More Than 60 Chinese Firms, Including SMIC"
+    },
+    "tweet3": {
+      "content": "5 Must-Buy Corporate Giants as Major Indexes Hit Record High"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: NVIDIA, United Parcel Service, Danaher, Microsoft and Broadcom"
+    },
+    "tweet2": {
+      "content": "China’s Top Chipmaker Tumbles After Joining Huawei on Blacklist"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "Are You Looking for a Top Momentum Pick? Why Broadcom Inc. (COMPANY_X) is a Great Choice"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "3 Dividend-Paying Tech Stocks to Buy for 2021"
+    },
+    "tweet2": {
+      "content": "How Chinese Chip Giant SMIC Can Evade Trump’s Newest Crackdown"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "10 Best Stocks in the Nasdaq on Thursday: Tesla Climbs High"
+    },
+    "tweet2": {
+      "content": "5 Top Stocks With Attractive Sales Growth to Keep an Eye on"
+    },
+    "tweet3": {
+      "content": "3 Stocks to Help You Build Retirement Wealth"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "10 Biggest Phone Companies in the World"
+    },
+    "tweet2": {
+      "content": "Wall Street Is Pounding The Table For These Semiconductor Stocks"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "Analysts See More Gains for Chip Stocks. Here Are Their Top Picks."
+    },
+    "tweet2": {
+      "content": "Here Are the Top Semi Stocks for 2021, According to One Analyst"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

@@ -1,0 +1,559 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "FAA Releases Long-Awaited Review Of Boeing 737 Max Return To Service"
+    },
+    "tweet2": {
+      "content": "Here Are the Top 10 Most Popular Stocks on Robinhood"
+    },
+    "tweet3": {
+      "content": "Big Tech Faithful Shouldn’t Ignore Antitrust Risk"
+    },
+    "tweet4": {
+      "content": "This $16 Billion Deal Takes Two Leaps of Faith"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Activist Investor Who Pushed COMPANY_X Breakup Now Has Half Initial Stake"
+    },
+    "tweet2": {
+      "content": "Nelson Peltz’s Trian Sells a Chunk of COMPANY_X Stock. Here’s Why."
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Nelson Peltz's Trian Trims Its COMPANY_X Stake. Can You Blame It?"
+    },
+    "tweet2": {
+      "content": "Vodafone Looks to Recharge Its Growth. What That Means for the Stock."
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "July Jobs Report: Better Than Expected, Better Than Feared"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "SoftBank’s Fire Sale Doesn’t Redeem Masayoshi Son’s Strategy"
+    },
+    "tweet2": {
+      "content": "Warren Buffett: We Sell When the Fundamentals Have Changed"
+    },
+    "tweet3": {
+      "content": "A Big Fund Manager Sold Berkshire, Verizon and COMPANY_X Stock. It Bought This Chip Stock."
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Griffon (GFF) to Offer 8M Common Shares, To Pay Down Debts"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Trian Fund Management cut stakes in P&G and other big holdings in Q2 -filing"
+    },
+    "tweet2": {
+      "content": "General Electric Has Had Setbacks, But COMPANY_X Stock Is Likely to Rise"
+    },
+    "tweet3": {
+      "content": "Griffon Prices 8M Underwritten Public Common Share Offering"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "COMPANY_X signs power agreements worth over $1.2 billion with Iraq"
+    },
+    "tweet2": {
+      "content": "COMPANY_X signs power agreements worth over $1.2 bln with Iraq"
+    },
+    "tweet3": {
+      "content": "Former COMPANY_X CEO Jeff Immelt Buys Up Bloom Energy Stock"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "General Electric extends CEO Culp's employment agreement"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Inks Iraq Deals Worth Over $1.2 Billion"
+    },
+    "tweet3": {
+      "content": "General Electric Agrees $1.2 Billion Iraq Power Contracts"
+    },
+    "tweet4": {
+      "content": "How Does General Electric's Debt Look?"
+    },
+    "tweet5": {
+      "content": "General Electric Shares Gain On $1.2 Billion Iraq Power Contracts"
+    },
+    "tweet6": {
+      "content": "COMPANY_X Inks $1.2B Deals With Iraq To Improve Country's Power Infrastructure"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "General Electric Analyst Says New CEO Contract A 'Benefit For COMPANY_X Shares'"
+    },
+    "tweet2": {
+      "content": "General Electric Clinches Two Deals Worth $1.2B in Iraq"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Is Extending CEO Larry Culp’s Contract. What It Means for the Stock."
+    },
+    "tweet4": {
+      "content": "COMPANY_X Extends CEO Contract Through 2024"
+    },
+    "tweet5": {
+      "content": "According to the Charts, COMPANY_X Stock Doesn’t Have What It Takes to Pop"
+    },
+    "tweet6": {
+      "content": "Pfizer, Uber, Lyft, General Electric - 5 Things You Must Know Friday"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Why Shares of General Electric Are Higher Today"
+    },
+    "tweet2": {
+      "content": "Why COMPANY_X Stock Is a Good Value Right Now"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Honeywell Is Going Back in the Dow. Here’s What It Means for the Stock."
+    },
+    "tweet2": {
+      "content": "GM, Ford coronavirus U.S. ventilator projects close in on their finish lines"
+    },
+    "tweet3": {
+      "content": "Better Buy: COMPANY_X vs. Raytheon Technologies"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Cramer Weighs In On General Electric, Chevron And More"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Cross-Sector: Market Data Highlights"
+    },
+    "tweet2": {
+      "content": "Honeywell CEO expects a coronavirus treatment or vaccine by the end of 2020"
+    },
+    "tweet3": {
+      "content": "New Strong Sell Stocks for August 27th"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Boeing 737 Max Return To Service Picks Up More Momentum As Key Regulator Completes Tests"
+    },
+    "tweet2": {
+      "content": "COMPANY_X (COMPANY_X) Up 3.5% Since Last Earnings Report: Can It Continue?"
+    },
+    "tweet3": {
+      "content": "What Rolls-Royce’s Big Loss Means for COMPANY_X Stock"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Why General Electric's Stock Is Trading Lower Today"
+    },
+    "tweet2": {
+      "content": "General Electric (COMPANY_X) Approaches Key Decision Point"
+    },
+    "tweet3": {
+      "content": "COMPANY_X's stock drops after J.P. Morgan analyst withdraws price target, saying he's now 'more negative'"
+    },
+    "tweet4": {
+      "content": "Why General Electric Stock Just Crashed 5%"
+    },
+    "tweet5": {
+      "content": "Is General Electric Company (COMPANY_X) Going to Burn These Hedge Funds?"
+    },
+    "tweet6": {
+      "content": "General Electric Price Guidance Is Withdrawn by J.P. Morgan"
+    },
+    "tweet7": {
+      "content": "A COMPANY_X Skeptic Turns More Negative, Removing His Already Low Price Target"
+    },
+    "tweet8": {
+      "content": "Stocks on the move: COMPANY_X falls as JPM removes price target, UTZ shares rise in public debut"
+    },
+    "tweet9": {
+      "content": "Better Buy: General Electric vs. Verizon"
+    },
+    "tweet10": {
+      "content": "General Electric Under Pressure After Morgan Downgrade"
+    },
+    "tweet11": {
+      "content": "Is It Time To Consider Buying General Electric Company (NYSE:COMPANY_X)?"
+    },
+    "tweet12": {
+      "content": "No reset, no bottom for COMPANY_X yet: J.P. Morgan"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Airline stocks set to soar after Labor Day or lose altitude? This top analyst reveals her big call"
+    },
+    "tweet2": {
+      "content": "Siemens Is About to Spin Off Its Power Unit. What That Means for COMPANY_X Stock."
+    },
+    "tweet3": {
+      "content": "Cathay Pacific Group and COMPANY_X Aviation Expand Digital Partnership"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Why General Electric Could Double Over the Next 18 Months"
+    },
+    "tweet2": {
+      "content": "Buy General Electric at $6.50 Before It Jumps 150%"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "COMPANY_X Board of Directors Authorizes Regular Quarterly Dividend"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "General Electric (COMPANY_X) Has Fallen 26% in Last One Year, Underperforms Market"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Medtronic, Abbott Laboratories, Myriad Genetics, Zimmer Biomet and General Electric"
+    },
+    "tweet3": {
+      "content": "Looking Into General Electric's Return On Capital Employed"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "G.research Virtual Aerospace & Defense Symposium"
+    },
+    "tweet2": {
+      "content": "Boeing's Top Moneymaker After 737 Max Crisis Now Under Investigation"
+    },
+    "tweet3": {
+      "content": "Baker Hughes Stock Has Crumbled. The CEO Bought Up Shares."
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Avoid Billionaire Nelson Peltz’s Top 5 Stock Picks"
+    },
+    "tweet2": {
+      "content": "General Electric Clinches HA Gas Turbine Contract in Russia"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Stock Is Only for the Long-Term Investor"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "How COMPANY_X's Power and Renewables Businesses Are Both an Opportunity and a Curse"
+    },
+    "tweet2": {
+      "content": "France's Le Maire pledges to make sure COMPANY_X meets job commitments in Belfort"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "General Electric (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "MEDIA-U.S group COMPANY_X preparing more job cuts in France -Le Monde"
+    },
+    "tweet3": {
+      "content": "General Electric Wins Onshore Wind Turbine Deal in Austria"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "RPT-FOCUS-With airline fleets grounded, plane recyclers bet on parts boom"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "COMPANY_X Healthcare’s Clariscan™ (gadoterate meglumine) Becomes Only FDA-Approved MRI Contrast Agent Available in Polymer Bottle"
+    },
+    "tweet2": {
+      "content": "General Electric's (COMPANY_X) Unit Receives Wind Turbine Contract"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "S&P 500 Takes a Tech Tumble as COMPANY_X and Oil Stocks Surge, but Apple, Facebook Overwhelm Winners"
+    },
+    "tweet2": {
+      "content": "5 Top Stock Trades for Thursday: ADBE, COMPANY_X, BA, GLD, GME"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Stock Jumps Because the Second Half Is Looking Brighter"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Soars As Cash Flow Improves Faster, While Rival Raytheon Cuts Deeper"
+    },
+    "tweet5": {
+      "content": "Boeing 737 Max Probe Reaches These Damning Conclusions On Crashes"
+    },
+    "tweet6": {
+      "content": "Why General Electric's Stock Is Trading Higher Today"
+    },
+    "tweet7": {
+      "content": "COMPANY_X ‘s Upbeat Cash View Clashes With CEO Pay Deal"
+    },
+    "tweet8": {
+      "content": "Why General Electric Stock Just Popped 7.5%"
+    },
+    "tweet9": {
+      "content": "Why I Just Bought More COMPANY_X Stock"
+    },
+    "tweet10": {
+      "content": "Ex-COMPANY_X Oil & Gas President Joins Venture Global LNG"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "COMPANY_X Stock Jumped Because It Expects Positive Free Cash Flow. What Wall Street Is Saying."
+    },
+    "tweet2": {
+      "content": "US STOCKS-Wall St falls as tech sells off again, jobless claims still high"
+    },
+    "tweet3": {
+      "content": "US STOCKS-Wall St sinks more than 1% as tech stocks resume slide"
+    },
+    "tweet4": {
+      "content": "US STOCKS-Tech sell-off hits Wall St as jobless claims remain elevated"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Sees Positive Free Cash Flow In 2H; Shares Gain 5%"
+    },
+    "tweet6": {
+      "content": "Stocks on the move: Snowflake falls after successful IPO, COMPANY_X rises on positive free cash flow expectations"
+    },
+    "tweet7": {
+      "content": "General Electric - Finally Time to Buy the Stock?"
+    },
+    "tweet8": {
+      "content": "COMPANY_X’s stock surges toward best 2-day rally in 6 months after CEO Larry Culp’s upbeat comments"
+    },
+    "tweet9": {
+      "content": "COMPANY_X Cracks the $7 Barrier. Wall Street Analysts Are at Odds Over the Stock."
+    },
+    "tweet10": {
+      "content": "Why General Electric Stock's 5% Pop Today May Not Last"
+    },
+    "tweet11": {
+      "content": "As COMPANY_X Lights Up, Other Industrials May Take Off, Too"
+    },
+    "tweet12": {
+      "content": "CORRECTED-US STOCKS-Tech sell-off hits Wall St as jobless claims remain high"
+    },
+    "tweet13": {
+      "content": "Cross-Sector: Market Data Highlights"
+    },
+    "tweet14": {
+      "content": "CORRECTED-US STOCKS-Tech sell-off weighs on Wall St as jobless claims remain high"
+    },
+    "tweet15": {
+      "content": "COMPANY_X Stock Jumped Because It Expects Positive Free Cash Flow. Why That Matters."
+    },
+    "tweet16": {
+      "content": "General Electric Shares Extend Gains After CEO Culp Gives Bullish Update On Industrial Cash Flow"
+    },
+    "tweet17": {
+      "content": "General Electric Analyst Targets $1.5B In Industrial FCF In 2021"
+    },
+    "tweet18": {
+      "content": "Is it Too Late to Get Involved With General Electric?"
+    },
+    "tweet19": {
+      "content": "General Electric's Debt Overview"
+    },
+    "tweet20": {
+      "content": "ROCE Insights For General Electric"
+    },
+    "tweet21": {
+      "content": "Dow Jones Today, Futures Tumble, Jobless Data Improves; Coronavirus News Lifts Sorrento, Moderna"
+    },
+    "tweet22": {
+      "content": "A Gleam In This Top CEO's Eye Revealed His Lucrative Future"
+    },
+    "tweet23": {
+      "content": "General Electric Shares Jump 11% After CEO Culp Forecasts Positive Cash Flow in H2 2020"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Boeing 737 Max Gets Key Regulator's Backing But Not From Victims' Families"
+    },
+    "tweet2": {
+      "content": "General Electric (COMPANY_X) Has Fallen 26% in Last One Year, Underperforms Market"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Clinches Multiple Contracts, Provides Free Cash Flow View"
+    },
+    "tweet4": {
+      "content": "Don’t Buy General Electric Even as the Stock Runs Hot"
+    },
+    "tweet5": {
+      "content": "Better Buy: General Electric vs. Boeing"
+    },
+    "tweet6": {
+      "content": "COMPANY_X’s stock surges to best 2-day rally in 6 months after CEO Larry Culp’s upbeat comments"
+    },
+    "tweet7": {
+      "content": "Milton Friedman Was Wrong. Look at Income Inequality."
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Why General Electric Stock Plunged Today"
+    },
+    "tweet2": {
+      "content": "COMPANY_X: Industrial giant will stop building coal-fired power plants"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Pulls the Plug on Coal Power Plants. What It Means for the Stock."
+    },
+    "tweet4": {
+      "content": "General Electric to Stop Building New Coal Plant Equipment as Renewables Take Focus"
+    },
+    "tweet5": {
+      "content": "COMPANY_X' stock tumbles after plan to exit the new-build coal power market"
+    },
+    "tweet6": {
+      "content": "COMPANY_X Pulls the Plug on a Shrinking Business: Building Coal Power Plants"
+    },
+    "tweet7": {
+      "content": "General Electric Shares Slide On Plans To Exit New Build Coal Power Market"
+    },
+    "tweet8": {
+      "content": "COMPANY_X plans to stop making new coal-fired power plants"
+    },
+    "tweet9": {
+      "content": "RPT-BUZZ-U.S. stocks weekly: Another fall"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "General Electric (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "COMPANY_X’s Power Business Is Tilting Toward Windmills"
+    },
+    "tweet3": {
+      "content": "Nelson Peltz Has a Stake in Comcast. What It Means for the Stock."
+    },
+    "tweet4": {
+      "content": "General Electric to Exit Coal Power, Supply Haliade Turbines"
+    },
+    "tweet5": {
+      "content": "General Electric to Supply Turbines to World's Largest Offshore Wind Farm"
+    },
+    "tweet6": {
+      "content": "What General Electric's Latest Free Cash Flow Guidance Means for Investors"
+    },
+    "tweet7": {
+      "content": "General Electric Plans To Cease Making Coal Power Plants; Shares Drop 8%"
+    },
+    "tweet8": {
+      "content": "Trian Fund, Best Known For Investor Activism In COMPANY_X, P&G, Takes $900M Stake In Comcast"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Blacklisting U.S. Tech Would Highlight China’s Own Weakness"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "General Electric: Value Trap or a Star Again?"
+    },
+    "tweet2": {
+      "content": "Air Transport Services Group Selects COMPANY_X Aviation for Digital Agreement"
+    },
+    "tweet3": {
+      "content": "General Electric Arm Wins Wind Turbine Deal From Invenergy"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Boeing Stock Jumps As FAA Chief Prepares To Test Fly 737 Max"
+    },
+    "tweet2": {
+      "content": "VIA Optronics Stock Falls 33% in Trading After IPO"
+    },
+    "tweet3": {
+      "content": "Boeing Stock Rises After 737 Max Gets Sign Of Hope From Key International Regulator"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "COMPANY_X Stock Is Climbing Because the FAA Certified Its Newest Engine"
+    },
+    "tweet2": {
+      "content": "General Electric's GE9X jet engine wins certification from U.S. regulator"
+    },
+    "tweet3": {
+      "content": "GE9X Engine Achieves FAA Certification"
+    },
+    "tweet4": {
+      "content": "Cramer Shares His Thoughts On Boeing, General Electric And More"
+    },
+    "tweet5": {
+      "content": "StockBeat: Siemens Lacks Energy on Debut"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Boeing 737 Max Is About To Face Its Most Important Pilot Yet"
+    },
+    "tweet2": {
+      "content": "General Electric Completes Gas Turbine Project in Nigeria"
+    },
+    "tweet3": {
+      "content": "COMPANY_X’s GE9X Engine For Boeing’s New 777X Jet Gets US Certification"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

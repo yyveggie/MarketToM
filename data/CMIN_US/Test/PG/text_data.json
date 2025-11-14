@@ -1,0 +1,754 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "Duracell Debuts Breakthrough Child Safety Feature for Lithium Coin Batteries, Offering Medical Professionals and Caregivers a New Advancement in Safety to Help Decrease Accidental Ingestions, Providing Consumers the Ability to \"Power Safely\""
+    },
+    "tweet2": {
+      "content": "Amazon’s Ad Business Is Seriously Undervalued, Analyst Says. His Price Target Is Street’s Highest."
+    },
+    "tweet3": {
+      "content": "P&G Professional Partners With Lyft to Develop New Cleaning Guide for Drivers"
+    },
+    "tweet4": {
+      "content": "London stocks track Asia higher on U.S. stimulus hopes; Halfords jumps"
+    },
+    "tweet5": {
+      "content": "London stocks track Asia higher on U.S. stimulus hopes"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "London stocks follow Europe lower as Trump tests positive for COVID-19"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Procter & Gamble (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Secret Partners With YWCA to Launch #RaiseItUp Campaign To Help Women Impacted Most by the 2020 Pandemic"
+    },
+    "tweet3": {
+      "content": "The Case for a Bullish October"
+    },
+    "tweet4": {
+      "content": "FTSE 100 gains as oil stocks jump; Cineworld slumps"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Microban 24 Introduces New 24-Hour Science Experiment to Help Students Learn about Bacteria, No Matter Where They’re Learning"
+    },
+    "tweet2": {
+      "content": "7 Safe Stocks to Shield Your Portfolio Against the Next Big Crash"
+    },
+    "tweet3": {
+      "content": "P&G to Hold the Procter & Gamble 2020 Virtual Annual Meeting of Shareholders October 13"
+    },
+    "tweet4": {
+      "content": "Stronger pound hits UK's FTSE 100; Restaurant Group jumps"
+    },
+    "tweet5": {
+      "content": "UK's FTSE slides as pound firms; Restaurant Group jumps"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Why P&G (COMPANY_X) is Poised to Beat Earnings Estimates Again"
+    },
+    "tweet2": {
+      "content": "FTSE 100 drops as oil prices fall on U.S. stimulus worries; Tesco jumps"
+    },
+    "tweet3": {
+      "content": "FTSE 100 gains as investors shrug off U.S. stimulus woes; Tesco jumps"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Why Coty Stock Popped Today"
+    },
+    "tweet2": {
+      "content": "Small Caps Lead Market Higher, But These Stocks Lag Noticeably"
+    },
+    "tweet3": {
+      "content": "London stocks jump on BoE Governor comments; Oil stocks surge"
+    },
+    "tweet4": {
+      "content": "Old Spice Announces 10-Year Commitment to Help Increase High School Graduation Rates for Young Guys By 2030"
+    },
+    "tweet5": {
+      "content": "P&G, other advertisers to stick by TikTok unless clock runs out"
+    },
+    "tweet6": {
+      "content": "FOCUS-P&G, other advertisers to stick by TikTok unless clock runs out"
+    },
+    "tweet7": {
+      "content": "FOCUS-P&G, other advertisers to stick by TikTok unless clock runs out"
+    },
+    "tweet8": {
+      "content": "Costco, Walmart, and Other Consumer Stocks Could Keep Rallying. A Fund Manager Explains Why."
+    },
+    "tweet9": {
+      "content": "British midcaps hit near 2-month high on upbeat Brexit views"
+    },
+    "tweet10": {
+      "content": "Coty's Stock Climb May Not Last"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "The 7 Best Stocks to Buy for Beginners Now"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Procter & Gamble (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "A Look Into Procter & Gamble's P/E Ratio"
+    },
+    "tweet3": {
+      "content": "Where Will Procter & Gamble Be in 5 Years?"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "P&G Holders Rebuke Board With Vote for Deforestation Report"
+    },
+    "tweet2": {
+      "content": "Procter & Gamble Announces $1.5 Billion Debt Tender Offer"
+    },
+    "tweet3": {
+      "content": "P&G Declares Quarterly Dividend"
+    },
+    "tweet4": {
+      "content": "Procter & Gamble (COMPANY_X) Reports Next Week: Wall Street Expects Earnings Growth"
+    },
+    "tweet5": {
+      "content": "3 Things You'll Want to Know When P&G Announces Earnings"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Pampers® Bright Beginnings Envisions All Babies Are Read To From Birth With New Reading Initiative"
+    },
+    "tweet2": {
+      "content": "Febreze Calls on Dog Owners to \"Say Up to Your Pup\" This Adopt-A-Dog-Month"
+    },
+    "tweet3": {
+      "content": "5 Must-Buy Blue Chip Stocks to Remain Safe in October"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: NIKE, salesforce.com, Walmart, COMPANY_X and 3M"
+    },
+    "tweet2": {
+      "content": "Strong Demand to Aid Procter & Gamble's (COMPANY_X) Q1 Earnings"
+    },
+    "tweet3": {
+      "content": "Safeguard Hand Soap Brand Partners with Canvas to Reach Classrooms Nationwide with Free Hygiene Education and Product Donation"
+    },
+    "tweet4": {
+      "content": "Surprising investor rebellion at Procter & Gamble over toilet paper’s forest impact"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "4 Biggest Consumer Goods Trends in 2020"
+    },
+    "tweet2": {
+      "content": "Procter & Gamble Earnings: What to Watch"
+    },
+    "tweet3": {
+      "content": "Buy 5 Corporate Giants Ahead of Earnings Results Next Week"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "P&G, Netflix, Housing Starts: 3 Things to Watch"
+    },
+    "tweet2": {
+      "content": "Kimberly-Clark Earnings: What to Watch"
+    },
+    "tweet3": {
+      "content": "Procter & Gamble (COMPANY_X) Rock Solid Ahead of Earnings"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Jim Cramer: It Took Some Scrubbing, but I've Found a Bull Market"
+    },
+    "tweet2": {
+      "content": "What's Behind Procter & Gamble's Splendid Performance?"
+    },
+    "tweet3": {
+      "content": "US STOCKS-Wall Street shares end higher on stimulus optimism"
+    },
+    "tweet4": {
+      "content": "Stock Market Today: Glimmer of Stimulus Hope Gives Stocks a Small Lift"
+    },
+    "tweet5": {
+      "content": "US STOCKS-Wall Street shares close higher on stimulus hopes"
+    },
+    "tweet6": {
+      "content": "Dow Ends Higher as Investors Hope Relief Plan Reachable Tuesday"
+    },
+    "tweet7": {
+      "content": "Procter & Gamble Co (COMPANY_X) Q1 2021 Earnings Call Transcript"
+    },
+    "tweet8": {
+      "content": "US STOCKS-Wall Street shares bolstered by stimulus bets"
+    },
+    "tweet9": {
+      "content": "Dow Rises as Wall Street Hopes Aid Package Can Be Reached Tuesday"
+    },
+    "tweet10": {
+      "content": "US STOCKS-Stimulus bets drive Wall Street higher"
+    },
+    "tweet11": {
+      "content": "Were Hedge Funds Right About Avoiding The Procter & Gamble Company (COMPANY_X)?"
+    },
+    "tweet12": {
+      "content": "Procter & Gamble Sales Jump 9%, Revises Forecast; Target Price $166 in Best Case"
+    },
+    "tweet13": {
+      "content": "Analyst Report: The Procter & Gamble Company"
+    },
+    "tweet14": {
+      "content": "Oral-B Announces a New Initiative and $1 Million Commitment to Help Make Better Oral Health Outcomes Possible for All"
+    },
+    "tweet15": {
+      "content": "Stocks Rise as Wall Street Hopes Aid Package Can Be Reached Tuesday"
+    },
+    "tweet16": {
+      "content": "Procter & Gamble Raises Its Outlook After a Strong Q1"
+    },
+    "tweet17": {
+      "content": "Makers of Fighter Jets, Soap Boost 2020 Guidance: Earnings Wrap"
+    },
+    "tweet18": {
+      "content": "Economic Data Deluge"
+    },
+    "tweet19": {
+      "content": "Housing Starts, Building Permits Positive but Tempered; Plus COMPANY_X, TRV"
+    },
+    "tweet20": {
+      "content": "Can the Uninvested Now Get Involved in Procter & Gamble?"
+    },
+    "tweet21": {
+      "content": "US STOCKS-Wall Street climbs with focus on stimulus"
+    },
+    "tweet22": {
+      "content": "P/E Ratio Insights for Procter & Gamble"
+    },
+    "tweet23": {
+      "content": "Dow Jones Today, Stocks Rise Ahead Of Stimulus Deadline; Workday, Splunk Rally"
+    },
+    "tweet24": {
+      "content": "Procter & Gamble Stock Is Up Because the Cleaning Products Craze Boosted Sales"
+    },
+    "tweet25": {
+      "content": "Procter & Gamble (COMPANY_X) Q1 Earnings & Sales Beat, Stock Up"
+    },
+    "tweet26": {
+      "content": "Procter & Gamble Tops Q1 Earnings Forecast, Boosts 2021 Sales Outlook"
+    },
+    "tweet27": {
+      "content": "Dow Jones Today, Futures Rise As Stimulus Deadline Approaches; Workday, Zoom Video Rally"
+    },
+    "tweet28": {
+      "content": "US STOCKS-Wall Street set to rise with focus on stimulus"
+    },
+    "tweet29": {
+      "content": "Procter & Gamble (COMPANY_X) Q1 Earnings and Revenues Surpass Estimates"
+    },
+    "tweet30": {
+      "content": "Recap: Procter & Gamble Q1 Earnings"
+    },
+    "tweet31": {
+      "content": "P&G raises forecasts on sustained demand for cleaning products"
+    },
+    "tweet32": {
+      "content": "P&G raises forecasts on sustained demand for cleaning products"
+    },
+    "tweet33": {
+      "content": "P&G raises full-year sales forecast"
+    },
+    "tweet34": {
+      "content": "P&G Announces Fiscal Year 2021 First Quarter Results"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "5 Best Stories on Real Money: The Cramer 7, P&G, Small-Caps"
+    },
+    "tweet2": {
+      "content": "Stock Market News for Oct 21, 2020"
+    },
+    "tweet3": {
+      "content": "Analyst Report: Procter & Gamble Co."
+    },
+    "tweet4": {
+      "content": "Procter & Gamble Is Leading a New Bull Market in Hygiene"
+    },
+    "tweet5": {
+      "content": "Market Update: CP, KEY, COMPANY_X, PPG, TXN"
+    },
+    "tweet6": {
+      "content": "Morning Bell With Jim Cramer: When to Buy Procter & Gamble"
+    },
+    "tweet7": {
+      "content": "3 Dividend Stocks to Bankroll Your Retirement"
+    },
+    "tweet8": {
+      "content": "Procter & Gamble Raises 2021 Outlook As 1Q Sales Surge 9%"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "MARKETS: Making the case for bitcoin $280,000 — YF Premium is bullish on Procter & Gamble (COMPANY_X)"
+    },
+    "tweet2": {
+      "content": "Closer look at consumer staples: KO, KMB, COMPANY_X"
+    },
+    "tweet3": {
+      "content": "Secret® Deodorant Keeps Women’s Hockey Afloat During COVID-19 with $1 Million Commitment to PWHPA"
+    },
+    "tweet4": {
+      "content": "Procter & Gamble Turns Up the Volume on Cash Returns"
+    },
+    "tweet5": {
+      "content": "Should You Be Worried About the Google Lawsuit?"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "How Coke Is Shaking Things Up — and Why Its Stock Is a Buy"
+    },
+    "tweet2": {
+      "content": "Procter & Gamble Benefits From The Cleaning Boom"
+    },
+    "tweet3": {
+      "content": "Kimberly-Clark Loses Ground to P&G in Q3"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "P&G Recommends Stockholders Reject Third Mini-Tender Offer From Mason Bell LLC"
+    },
+    "tweet2": {
+      "content": "Walmart CEO on possible corporate tax hikes: 'Whatever we are asked to do that’s what we’ll do'"
+    },
+    "tweet3": {
+      "content": "Walmart CEO: The lack of stimulus is taking its toll"
+    },
+    "tweet4": {
+      "content": "Gillette® Global Survey Reveals Men Are More Focused on Sustainability as Result of COVID-19"
+    },
+    "tweet5": {
+      "content": "Microban 24 Sanitizing Spray Approved by EPA for Use Against the Virus that Causes COVID-19"
+    },
+    "tweet6": {
+      "content": "Why Coke Stock Could Pop"
+    },
+    "tweet7": {
+      "content": "Should You Invest in the Fidelity MSCI Consumer Staples Index ETF (FSTA)?"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Procter & Gamble Announces Pricing of Its Debt Tender Offer"
+    },
+    "tweet2": {
+      "content": "The Number of Black Board Members Surged After George Floyd’s Death"
+    },
+    "tweet3": {
+      "content": "2 Reasons Procter & Gamble Crushed It This Quarter"
+    },
+    "tweet4": {
+      "content": "'COVID effect' will be a 'transformational moment on Madison Avenue forever': Brand guru Gary Vaynerchuk"
+    },
+    "tweet5": {
+      "content": "Procter & Gamble Breaks Down an Unusually Good Quarter"
+    },
+    "tweet6": {
+      "content": "Consumer companies pitch discounts, bargain products as economic malaise looms"
+    },
+    "tweet7": {
+      "content": "Consumer companies pitch discounts, bargain products as economic malaise looms"
+    },
+    "tweet8": {
+      "content": "Procter & Gamble Announces Early Results of Its Debt Tender Offer; Increases the Maximum Tender Amount"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Why Procter & Gamble (COMPANY_X) is a Great Dividend Stock Right Now"
+    },
+    "tweet2": {
+      "content": "Pampers Pure Now Features Plant-Based Liner Enriched with Shea Butter, Giving Parents What They Prefer For Their Little Ones"
+    },
+    "tweet3": {
+      "content": "Kimberly-Clark vs Procter & Gamble: Which Staples Stock Is A Better Buy?"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Procter & Gamble: Strong Performance May Outlast COVID-19"
+    },
+    "tweet2": {
+      "content": "Don't Expect a Quick Profitability Rebound From Kimberly-Clark"
+    },
+    "tweet3": {
+      "content": "Don't Expect a Quick Profitability Rebound From Kimberly-Clark"
+    },
+    "tweet4": {
+      "content": "Is Fidelity High Dividend ETF (FDVV) a Strong ETF Right Now?"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Top Stock Reports for Procter & Gamble, NIKE & UPS"
+    },
+    "tweet2": {
+      "content": "Procter & Gamble Ventures Brings Innovation Challenge Online for CES 2021"
+    },
+    "tweet3": {
+      "content": "Procter & Gamble Is on a Roll"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Pampers® Donates More Than 200,000 Preemie Diapers to Canadian Families for Prematurity Awareness Month"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Analyst Report: The Procter & Gamble Company"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "GilletteLabs Launches 'Warm Up the Holidays' Campaign"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "5 Blue-Chip Stocks to Buy on Coronavirus Vaccine Hope"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Nike, Dow, Procter & Gamble Company, 3M and Microsoft"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Cascade and GE Appliances Are on a Mission to Help You Save Water This Holiday Season"
+    },
+    "tweet2": {
+      "content": "Is COMPANY_X Stock A Buy Right Now? Here's What Earnings, Charts Show"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Top 3rd-Quarter Trades of Ray Dalio's Bridgewater"
+    },
+    "tweet2": {
+      "content": "CORRECTING and REPLACING Ivory Celebrates World Kindness Day Through Initiative Aimed at Spreading Positivity"
+    },
+    "tweet3": {
+      "content": "This is Why Procter & Gamble (COMPANY_X) is a Great Dividend Stock"
+    },
+    "tweet4": {
+      "content": "2 Dividend Stocks to Bankroll Your Retirement"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "COVID-19 pandemic will make Costco the king of retail this holiday season: analyst"
+    },
+    "tweet2": {
+      "content": "Plastics Recycler PureCycle Technologies Going Public Via SPAC"
+    },
+    "tweet3": {
+      "content": "How Covid-19 Sparked an Unlikely Startup Boom for Brands"
+    },
+    "tweet4": {
+      "content": "Pantene Launches Its \"Family is #BeautifuLGBTQ\" Series to Show the Connections That Make a Family"
+    },
+    "tweet5": {
+      "content": "P&G’s Royal Oils and Gold Series Announce Ongoing Commitment to Support Black Women in STEM"
+    },
+    "tweet6": {
+      "content": "Procter & Gamble's Debt Overview"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Pampers Bright Beginnings Brings the Joy of Reading to NICUs Through a New Program with March of Dimes"
+    },
+    "tweet2": {
+      "content": "Tesla to Join S&P 500 Next Month as Largest-Ever New Member"
+    },
+    "tweet3": {
+      "content": "3 Dividend Aristocrats That Could Make You Rich"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Target shocks investors again with COVID-19 fueled Q3 earnings blowout"
+    },
+    "tweet2": {
+      "content": "15 Best Gourmet Coffee Brands In The World"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Why Is P&G (COMPANY_X) Down 2.5% Since Last Earnings Report?"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Dow Jones Slips As Covid Continues To Surge; Nio Charges Higher As Tesla Sputters"
+    },
+    "tweet2": {
+      "content": "10 Most Profitable Industries in America in 2020"
+    },
+    "tweet3": {
+      "content": "P&G to Webcast Presentation From the Morgan Stanley Virtual Global Consumer & Retail Conference, December 2"
+    },
+    "tweet4": {
+      "content": "Pantene Launches New Chapter in Global ‘Hair Has No Gender’ Project in Support of the LGBTQ2S+ Community, Exploring the Power of Hair and Support to Express Identity"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "10 Best Selling Products Online in 2020"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Forget AT&T: Here Are 3 Better Dividend Stocks"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Companies That Fail to Measure Impact Will Be Left Behind, This Investor Warns"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "Why Procter & Gamble (COMPANY_X) is a Great Dividend Stock Right Now"
+    },
+    "tweet2": {
+      "content": "Is The Procter & Gamble Company (COMPANY_X) A Good Stock To Buy Now?"
+    },
+    "tweet3": {
+      "content": "Cyber Monday 2020: 3 under-the-radar winners amid a limp start to the holiday shopping season"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "15 Largest FMCG Companies in the World"
+    },
+    "tweet2": {
+      "content": "Top Analyst Reports for Microsoft, Procter & Gamble & T-Mobile"
+    },
+    "tweet3": {
+      "content": "Crest, Oral-B and Blend-a-med Announce the Launch of Their First Ever Recyclable HDPE Toothpaste Tubes in North America and Europe"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Microsoft, COMPANY_X, TMUS, BA and GS"
+    },
+    "tweet2": {
+      "content": "Microban 24 Multi-Purpose Cleaner is Approved by Health Canada for Use Against the Virus that Causes COVID-19"
+    },
+    "tweet3": {
+      "content": "Tracee Ellis Ross: The pandemic has 'reinvigorated my mission' for my brand"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "Microsoft Takes on Amazon, Snowflake in Cloud Data Services"
+    },
+    "tweet2": {
+      "content": "3 Stocks to Supplement Your Social Security Income"
+    },
+    "tweet3": {
+      "content": "5 Soaps & Cleaning Products Stocks Worth a Look Amid Coronavirus Woes"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "Procter & Gamble (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Ulta Beauty CEO: Skin care products are taking off during the coronavirus pandemic"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "The Market Is Looking Past the Pandemic. That Could Hurt Some Winners."
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "Why a Procter & Gamble Acquisition Just Got Blocked by the FTC"
+    },
+    "tweet2": {
+      "content": "Coca-Cola, PepsiCo and Nestlé top ’10 worst plastic polluters’ of 2020"
+    },
+    "tweet3": {
+      "content": "FTC sues to stop Procter & Gamble from buying rival women's razor maker Billie"
+    },
+    "tweet4": {
+      "content": "Cleaning Will Remain Crucial Post-Covid. Here Are the Stocks That Will Benefit."
+    },
+    "tweet5": {
+      "content": "Olay Body Teams Up with Olympic Snowboarder Jamie Anderson to Gear Up for Winter Skin Dryness"
+    },
+    "tweet6": {
+      "content": "3 Top Consumer Staples Stocks to Watch In December"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "Why This Analyst Likes Clorox, Procter & Gamble In The Household Product Space"
+    },
+    "tweet2": {
+      "content": "Procter & Gamble Announces CFO Transition"
+    },
+    "tweet3": {
+      "content": "Crest® Launches \"12 Days of Crest Smiles\" to Grant Holiday Wishes to Those in Need"
+    },
+    "tweet4": {
+      "content": "FTC sues to block P&G's acquisition of Billie, a razor startup for women"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "Procter & Gamble (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Circulate Capital Invests to Scale India's Circular Economy for Plastic Waste - Offers Powerful Blueprint to Build Back Stronger"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "Forget Procter & Gamble, Clorox Is a Better Dividend Growth Stock"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "Investors Should Line Up for Jessica Alba’s Latest Starring Role in The Honest Company’s IPO"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "Procter & Gamble (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "P&G Ventures Announces 2021 CES Innovation Challenge Finalists"
+    },
+    "tweet3": {
+      "content": "Why Procter & Gamble (COMPANY_X) is a Top Dividend Stock for Your Portfolio"
+    },
+    "tweet4": {
+      "content": "Better Buy: Amazon vs. Procter & Gamble"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "P&G Commits to 2,021 Acts of Good in 2021 and Inspires Millions Through Lead With Love Campaign"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "P&G Commits to 2,021 Acts of Good in 2021 and Inspires Millions through Lead with Love Campaign"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "5 Stocks to Benefit From Continued Weakening of US Dollar"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "Procter & Gamble (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "P&G to Webcast Discussion of Second Quarter 20/21 Earnings Results on January 20"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "3 Reasons Why Procter & Gamble Is a Top Dividend Stock for 2021"
+    },
+    "tweet2": {
+      "content": "3 Stocks to Help You Build Retirement Wealth"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "10 Best Dow Stocks To Buy Now"
+    },
+    "tweet2": {
+      "content": "Buy Procter & Gamble for its Recession-Proof Dividend"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "Procter & Gamble (COMPANY_X) Stock Moves -0.19%: What You Should Know"
+    },
+    "tweet2": {
+      "content": "3 Solid Stocks for a Winning Retirement Portfolio"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "If You're Retired, Consider Buying These 3 Stocks in 2021"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "Why P&G (COMPANY_X) Could Beat Earnings Estimates Again"
+    },
+    "tweet2": {
+      "content": "8 Dental Stocks If You Want to Clean Up"
+    },
+    "tweet3": {
+      "content": "Will Procter & Gamble Keep Winning in 2021?"
+    }
+  }
+}

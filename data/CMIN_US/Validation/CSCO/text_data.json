@@ -1,0 +1,598 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "Cisco Systems (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Better Buy: Cisco Systems vs. Oracle"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Software firm Clearwater Analytics explores $2 billion sale -sources"
+    },
+    "tweet2": {
+      "content": "Why Cisco (COMPANY_X) is Poised to Beat Earnings Estimates Again"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Discover the Salaries of Top CEOs, and Heads of Government and State"
+    },
+    "tweet2": {
+      "content": "Cisco Systems (COMPANY_X) Expected to Beat Earnings Estimates: Should You Buy?"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Dow's nearly 75-point jump highlighted by gains for Apple Inc., Walt Disney stocks"
+    },
+    "tweet2": {
+      "content": "Dow's nearly 75-point climb led by gains in shares of McDonald's, Walgreens Boots"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "For DraftKings’ Investors, the Games Must Go On"
+    },
+    "tweet2": {
+      "content": "Cisco Completes Acquisition Of ThousandEyes"
+    },
+    "tweet3": {
+      "content": "Buy Cisco Stock Before Earnings for Its Dividend and Value?"
+    },
+    "tweet4": {
+      "content": "Cisco (COMPANY_X) to Report Q4 Earnings: Is a Beat in the Cards?"
+    },
+    "tweet5": {
+      "content": "Cisco, Chevron share losses contribute to Dow's 25-point fall"
+    },
+    "tweet6": {
+      "content": "Sustainable Finance Sees Big-Tech Boom After Record Google Deal"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "3 Tech Stocks to Consider Before Earnings: Lyft, Cisco & AMAT"
+    },
+    "tweet2": {
+      "content": "Top Research Reports for Facebook, Cisco & T-Mobile US"
+    },
+    "tweet3": {
+      "content": "Cisco Reports Earnings Wednesday. Here’s What to Expect."
+    },
+    "tweet4": {
+      "content": "Cisco Systems (COMPANY_X) Could Gain Ground After Earnings"
+    },
+    "tweet5": {
+      "content": "Cisco Systems, Applied Materials and Tapestry are part of Zacks Earnings Preview"
+    },
+    "tweet6": {
+      "content": "Cisco Completes ThousandEyes Deal; Analyst Warns Of Growth Headwinds"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Can Cisco Break Out to New Highs on Earnings?"
+    },
+    "tweet2": {
+      "content": "Cisco earnings to show how coronavirus is affecting small and large businesses differently"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Facebook, Cisco Systems, T-Mobile US, Uber and CVS Health"
+    },
+    "tweet4": {
+      "content": "Earnings Preview for Cisco Systems"
+    },
+    "tweet5": {
+      "content": "Should You Buy Cisco Systems (COMPANY_X) Ahead of Earnings?"
+    },
+    "tweet6": {
+      "content": "Cisco Systems, Inc. (NASDAQ:COMPANY_X) Investor Notice: Lawsuit Against Cisco Systems, Inc. over Alleged Discrimination Toward an Indian American Engineer Announced by Shareholders Foundation"
+    },
+    "tweet7": {
+      "content": "Weekly Expected Moves For SPY, INO, DKNG, COMPANY_X, LYFT And More"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "[video]Cisco Slumps on Weak Guidance: 6 Key Takeaways"
+    },
+    "tweet2": {
+      "content": "Cisco Stock Slides After the Company Forecasts a Disappointing October Quarter"
+    },
+    "tweet3": {
+      "content": "Cisco’s tepid earnings outlook, revenue decline and CFO retirement news hits stock"
+    },
+    "tweet4": {
+      "content": "Cisco's Longtime CFO Is Retiring"
+    },
+    "tweet5": {
+      "content": "Cisco Systems (COMPANY_X) Beats Q4 Earnings and Revenue Estimates"
+    },
+    "tweet6": {
+      "content": "Cisco Shares Drop On Weak Sales Outlook"
+    },
+    "tweet7": {
+      "content": "Cisco shares dip 6% on tepid earnings outlook, revenue decline; CFO to retire"
+    },
+    "tweet8": {
+      "content": "The S&P 500 Closed Just Below a New High"
+    },
+    "tweet9": {
+      "content": "Recap: Cisco Systems Q4 Earnings"
+    },
+    "tweet10": {
+      "content": "Cisco's first-quarter forecast disappoints, shares fall"
+    },
+    "tweet11": {
+      "content": "Cisco Reports Fourth Quarter And Fiscal Year 2020 Earnings"
+    },
+    "tweet12": {
+      "content": "Stocks Briefly Erase Pandemic Losses; Oil Rallies: Markets Wrap"
+    },
+    "tweet13": {
+      "content": "The S&P 500 Approaches New High"
+    },
+    "tweet14": {
+      "content": "4 Things To Watch When Cisco Reports Earnings on Wednesday"
+    },
+    "tweet15": {
+      "content": "S&P 500 Approaches New High"
+    },
+    "tweet16": {
+      "content": "Day Ahead: 3 Things to Watch for August 13"
+    },
+    "tweet17": {
+      "content": "Understanding Cisco Systems's Unusual Options Activity"
+    },
+    "tweet18": {
+      "content": "Cisco Reports Wednesday, Is There a Trade Here?"
+    },
+    "tweet19": {
+      "content": "Stocks Edge Higher as Markets Look Past UK Economy Collapse and US Stimulus Fears"
+    },
+    "tweet20": {
+      "content": "Cisco Reports Earnings on Wednesday: 4 Things to Watch"
+    },
+    "tweet21": {
+      "content": "Estimating The Fair Value Of Cisco Systems, Inc. (NASDAQ:COMPANY_X)"
+    },
+    "tweet22": {
+      "content": "Stocks - U.S. Futures Higher on Stimulus Hopes; Dow Futures Up 250 Pts"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "GLOBAL MARKETS-Asian shares to pause ahead of China data, U.S. 'altitude sickness'"
+    },
+    "tweet2": {
+      "content": "S&P 500 Falls 7 Points as Jobless Claims Still Near 1 Million; Congress &quot;Miles Apart&quot; on Stimulus; Cisco Earnings Fall"
+    },
+    "tweet3": {
+      "content": "Market Recap: Thursday, August 13"
+    },
+    "tweet4": {
+      "content": "Stock Market Today: Apple Nears $2T, But Stocks Struggle"
+    },
+    "tweet5": {
+      "content": "US STOCKS-S&P 500 ends down slightly after flirting with record levels again"
+    },
+    "tweet6": {
+      "content": "Cisco stock logs worst day in nearly a decade as cost cuts create more coronavirus concerns"
+    },
+    "tweet7": {
+      "content": "Stocks Fade, Close Mixed But These Sectors Show Strength"
+    },
+    "tweet8": {
+      "content": "Software-as-a-Service Stocks Save Nasdaq From Cisco Swoon"
+    },
+    "tweet9": {
+      "content": "Cisco, Exxon Mobil share losses lead Dow's nearly 75-point drop"
+    },
+    "tweet10": {
+      "content": "Stocks Fade, Leaving Nasdaq With Small Gain; These Sectors Show Strength"
+    },
+    "tweet11": {
+      "content": "US STOCKS-S&P 500 dips but index not far from record levels"
+    },
+    "tweet12": {
+      "content": "Cisco, Exxon Mobil share losses contribute to Dow's 150-point drop"
+    },
+    "tweet13": {
+      "content": "Cisco Slides on Weak Outlook, Dragging Down Other Enterprise IT Stocks"
+    },
+    "tweet14": {
+      "content": "Cisco stock faces worst day in nearly a decade as cost cuts create more coronavirus concerns"
+    },
+    "tweet15": {
+      "content": "Cisco, Micron, Fastly: Midday Tech Stock Movers"
+    },
+    "tweet16": {
+      "content": "US STOCKS-S&P 500 hovers at record levels as jobless claims fall"
+    },
+    "tweet17": {
+      "content": "Dow Jones Falls 100 Points Amid Surprise Jobless Data; Cisco Dives 12% On Earnings; Apple Hits All-Time High, While Tesla Jumps 6%"
+    },
+    "tweet18": {
+      "content": "Cisco Beat Earnings Expectations. Here’s Why Its Stock Is Tanking."
+    },
+    "tweet19": {
+      "content": "The S&P 500 Is Resting on the 100th Day of the Rally"
+    },
+    "tweet20": {
+      "content": "S&P 500 Hobbles to Negative Close as Bulls Made to Wait for Record High"
+    },
+    "tweet21": {
+      "content": "PreMarket Prep Stock Of The Day: Cisco Systems"
+    },
+    "tweet22": {
+      "content": "US STOCKS-S&P 500, Nasdaq rise as Apple nears $2 trillion in market cap"
+    },
+    "tweet23": {
+      "content": "Why Cisco Systems Stock Fell Hard on Thursday"
+    },
+    "tweet24": {
+      "content": "Cisco ETFs in Focus on Q4 Earnings Beat and Weak Outlook"
+    },
+    "tweet25": {
+      "content": "Stocks pare early losses after jobless claims slide below 1 million but Dow industrials pressured by Cisco shares"
+    },
+    "tweet26": {
+      "content": "Cisco stock slides toward worst day since 2011 after earnings"
+    },
+    "tweet27": {
+      "content": "Dow Jones Today, Futures Mixed After Jobless Claims Surprise; Cisco Systems Dives On Guidance"
+    },
+    "tweet28": {
+      "content": "Thursday Is Claims Day: New Claims Fall Below One Million For First Time Since Crisis Began"
+    },
+    "tweet29": {
+      "content": "Cisco Tumbles After Weak Forecast Shows Recession Biting"
+    },
+    "tweet30": {
+      "content": "Cisco Tumbles After Weak Forecast Shows Recession Biting"
+    },
+    "tweet31": {
+      "content": "Dow's 70-point drop led by losses in Cisco, Walgreens Boots stocks"
+    },
+    "tweet32": {
+      "content": "Cisco Plunges on Weak Outlook - What Wall Street Is Saying"
+    },
+    "tweet33": {
+      "content": "What Does Cisco's Debt Look Like?"
+    },
+    "tweet34": {
+      "content": "US STOCKS-Wall Street set to edge up as weekly jobless claims drop"
+    },
+    "tweet35": {
+      "content": "Cisco Stock Is Sliding, Micron Is Dropping, and the Dow Is Down"
+    },
+    "tweet36": {
+      "content": "Don't Give Up on Cisco Systems Despite Disappointing Forecast"
+    },
+    "tweet37": {
+      "content": "Cisco (COMPANY_X) Q4 Earnings Beat, Stock Down on Bleak Q1 View"
+    },
+    "tweet38": {
+      "content": "D.C.'s Sorry Lot, Deceiving Appearances, Making Cisco Lemonade: Market Recon"
+    },
+    "tweet39": {
+      "content": "Lyft, Cisco, Stimulus Talks, Jobless Claims - 5 Things You Must Know Thursday"
+    },
+    "tweet40": {
+      "content": "US STOCKS-Futures muted with S&P 500 just shy of record high"
+    },
+    "tweet41": {
+      "content": "Cisco Drops 6% On Disappointing 1Q Profit Guidance As Spending Slows"
+    },
+    "tweet42": {
+      "content": "Cisco Tumbles After Soft Q1 Earnings Guidance"
+    },
+    "tweet43": {
+      "content": "Cisco Systems (COMPANY_X) Q4 2020 Earnings Call Transcript"
+    },
+    "tweet44": {
+      "content": "Cisco's first-quarter forecast disappoints, shares fall"
+    },
+    "tweet45": {
+      "content": "Cisco looking more to software, but road is slower due to the pandemic"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Tech Stocks Aren’t Immune to Covid-19. Cisco’s Earnings Showed Us Why."
+    },
+    "tweet2": {
+      "content": "The 3 Best Dow Jones Stocks to Trade Today"
+    },
+    "tweet3": {
+      "content": "Apple Inc., Cisco share losses lead the way, but Dow flat"
+    },
+    "tweet4": {
+      "content": "Is Cisco Systems Stock a Buy?"
+    },
+    "tweet5": {
+      "content": "The Dow Just Had Its Best 100 Days Since 1933. Why That Matters."
+    },
+    "tweet6": {
+      "content": "Disappointing Forecast from Cisco Systems Drags Dow Lower"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "RPT-BUZZ-U.S. stocks weekly: High level flirting"
+    },
+    "tweet2": {
+      "content": "AppDynamics Announces SAP Peak, Delivering Deep Visibility Into SAP Landscapes With Real-Time Business Context"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "NASDAQ: COMPANY_X Shareholder Notice: Lawsuit against Cisco Systems, Inc. over alleged discrimination announced by Shareholders Foundation"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Ping Beware: Riot Games Partners With Cisco To Power LoL Esports"
+    },
+    "tweet2": {
+      "content": "Ping Beware: Riot Games Partners With Cisco To Power LoL Esports"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "2 Stock-Option Strategies That Split the Difference Between Fear and Greed"
+    },
+    "tweet2": {
+      "content": "Zacks Market Edge Highlights: Walmart, Home Depot, Mastercard, Cisco Systems and Western Digital"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "7 Safe Stocks to Buy That Can Shrug Off the Growing Volatility"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Salesforce (CRM) Risky to Buy at Current Levels"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Cisco Systems says it plans to acquire BabbleLabs"
+    },
+    "tweet2": {
+      "content": "Cisco Announces Intent To Acquire BabbleLabs To Improve Video Meeting Experience"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Dow Jones Misses Out on Massive Salesforce Rally; Cisco Makes Videoconferencing Acquisition"
+    },
+    "tweet2": {
+      "content": "Cisco (COMPANY_X) to Buy BabbleLabs to Augment Webex Experience"
+    },
+    "tweet3": {
+      "content": "Cisco acquiring BabbleLabs to filter out the lawn mower screeching during your video conference"
+    },
+    "tweet4": {
+      "content": "Cisco Buying BabbleLabs To Boost Video Meeting Experience"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Unusual Options Activity Insight: Cisco Systems"
+    },
+    "tweet2": {
+      "content": "Walmart, Starbucks and a growing number of U.S. companies set to give workers time off to vote"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Zacks Value Trader Highlights: Disney, Cisco and Bank of America"
+    },
+    "tweet2": {
+      "content": "Zoom Investors Should Pay Attention to Cisco's Latest Acquisition"
+    },
+    "tweet3": {
+      "content": "Why Zoom Communications Is Still a Sizzling Hot Trade"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Is Cisco Systems, Inc. (COMPANY_X) Going to Burn These Hedge Funds?"
+    },
+    "tweet2": {
+      "content": "Cisco Announces September 2020 Events with the Financial Community"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Dynatrace Stock Breaks Out; Its Software Monitors Business-Critical Apps"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "3 Dividend-Paying Tech Stocks to Buy Right Now"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Analyst Report: Cisco Systems, Inc."
+    },
+    "tweet2": {
+      "content": "Cisco Systems, Inc. (NASDAQ:COMPANY_X) Stock's Been Sliding But Fundamentals Look Decent: Will The Market Correct The Share Price In The Future?"
+    },
+    "tweet3": {
+      "content": "Understanding Cisco Systems's Unusual Options Activity"
+    },
+    "tweet4": {
+      "content": "Why Cisco Systems Stock Fell 10.4% in August"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "ServiceNow (NOW) Teams Up With Cisco to Create Safe Workplace"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Cisco Declares Quarterly Cash Dividend"
+    },
+    "tweet2": {
+      "content": "MuralNet and Cisco Launch Sustainable Tribal Networks Program"
+    },
+    "tweet3": {
+      "content": "Cisco Research Finds Small Businesses Can Add $2.3T to Global GDP Growth by 2024"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "10 Biggest Tech Hardware Companies"
+    },
+    "tweet2": {
+      "content": "Better Buy: Arista Networks vs. Cisco Systems"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "7 Nasdaq Stocks You Need To Buy Before They Bounce Back Up"
+    },
+    "tweet2": {
+      "content": "Cisco (COMPANY_X) Down 7.4% Since Last Earnings Report: Can It Rebound?"
+    },
+    "tweet3": {
+      "content": "Not This Again: 11 Big Stocks 'Double Dip' Back Into The Red"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Understanding Cisco Systems's Unusual Options Activity"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Cisco Systems (COMPANY_X) Stock Moves -0.12%: What You Should Know"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Apple Inc., Cisco share losses lead the way, but Dow flat"
+    },
+    "tweet2": {
+      "content": "Forget Penny Stocks -- Cisco Systems Is a Cheap Stock to Buy Now"
+    },
+    "tweet3": {
+      "content": "The TikTok Failure Doesn’t Really Hurt the Case for Microsoft Stock"
+    },
+    "tweet4": {
+      "content": "Huawei Ban Spurs New Competition for Ericsson, Nokia"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Chinese leaders split over releasing blacklist of U.S. companies- WSJ"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Top Stock Reports for Mastercard, Disney & Bank of America"
+    },
+    "tweet2": {
+      "content": "Chinese leaders split over releasing blacklist of U.S. companies - WSJ"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "P&G Will Rename Skin Creams ‘at Minimum’: Equality Summit Update"
+    },
+    "tweet2": {
+      "content": "Microsoft, Facebook Data Center Upgrades Could Boost Arista Stock, Cisco"
+    },
+    "tweet3": {
+      "content": "Apple Stock Can’t Go Much Higher. Buy These Tech Stocks Instead,"
+    },
+    "tweet4": {
+      "content": "Cisco Promises to Increase Black Representation in Workforce"
+    },
+    "tweet5": {
+      "content": "Microsoft, Facebook Data Center Upgrades Could Boost Arista Stock, Cisco"
+    },
+    "tweet6": {
+      "content": "Western Digital Stock Spikes On Speculation It May Split Into Two"
+    },
+    "tweet7": {
+      "content": "Investors Shouldn't Worry About Cisco's Blacklist Risks in China"
+    },
+    "tweet8": {
+      "content": "Blacklisting U.S. Tech Would Highlight China’s Own Weakness"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Cisco Systems (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Dow's nearly 50-point fall led by losses in shares of Boeing, Nike"
+    },
+    "tweet3": {
+      "content": "Cisco to Participate in Cowen's Networking Leaders, Legends, Luminaries, and Visionaries Fireside Chat Series"
+    },
+    "tweet4": {
+      "content": "After controversy, Cisco commits $100 million to broad social-justice pledge, including increasing Black workers and leadership"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Apple Stock Really Can’t Go Much Higher. Buy These Tech Stocks Instead."
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "U.S. Moved Against a Chinese Chip Maker. It Could Have Been Much Worse."
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "The 7 Best Internet of Things Stocks for a Connected Future"
+    },
+    "tweet2": {
+      "content": "4 Underrated Tech Stocks"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "3 Hot Stocks to Sell This October Ahead of Resistance"
+    },
+    "tweet2": {
+      "content": "Cisco Systems, Inc. (COMPANY_X) Ex-Dividend Date Scheduled for October 01, 2020"
+    },
+    "tweet3": {
+      "content": "The 7 Best 401k Investments to Enrich Your Retirement"
+    },
+    "tweet4": {
+      "content": "Don’t Give Your Money Away on Cisco Stock as Bearish Trend Isn’t Yet Done"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

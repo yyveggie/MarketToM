@@ -1,0 +1,817 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Intel Stock Is a Tremendous Value at $50"
+    },
+    "tweet2": {
+      "content": "2 Cheap Stocks to Buy Before the 2020 Election"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "After Hours Most Active for Oct 5, 2020 :  SCHW, AMTD, COMPANY_X, AAPL, PCG, MRO, MS, PFE, VIPS, BND, SGMS, QQQ"
+    },
+    "tweet2": {
+      "content": "Cisco ordered to pay $1.9 billion in U.S. patent lawsuit, has pledged appeal"
+    },
+    "tweet3": {
+      "content": "Cisco Told to Pay $1.9 Billion in Security-Patent Trial Loss"
+    },
+    "tweet4": {
+      "content": "7 Cheap Stocks to Buy Today For A Defensive Bargain"
+    },
+    "tweet5": {
+      "content": "Cisco is ordered to pay $1.9 billion in U.S. patent lawsuit, plans appeal"
+    },
+    "tweet6": {
+      "content": "Cisco must pay $1.9 billion in patent lawsuit -U.S. judge"
+    },
+    "tweet7": {
+      "content": "Cisco to Acquire Portshift to Boost Container Apps Security"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Companies to Shrink Offices as Remote Work Becomes ‘New Normal’"
+    },
+    "tweet2": {
+      "content": "Cisco Systems (COMPANY_X) Flat As Market Sinks: What You Should Know"
+    },
+    "tweet3": {
+      "content": "Cisco Hit With $1.9B Fine In Centripetal Patent Lawsuit – Report"
+    },
+    "tweet4": {
+      "content": "Cisco Ordered To Pay $1.9 Bln In Patent Infringement Suit; Plans Appeal "
+    },
+    "tweet5": {
+      "content": "Cisco Penalized $1.9B In Cybersecurity Infringement Trial, Plans Appeal"
+    },
+    "tweet6": {
+      "content": "Cisco Ordered to Pay $1.9 Billion in Patent Lawsuit"
+    },
+    "tweet7": {
+      "content": "Cisco Ordered to Pay $1.9 Billion in Patent Lawsuit"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Value In Legacy Tech: 3 Stocks To Watch"
+    },
+    "tweet2": {
+      "content": "6 Tech Stocks With Higher Dividend Yields Than the S&P 500"
+    },
+    "tweet3": {
+      "content": "Verizon Business and Cisco Bringing 5G-Enabled, MEC Solutions to Sports and Entertainment Venues"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Cisco, Intel, AMD, TSMC and IBM"
+    },
+    "tweet2": {
+      "content": "Shark Tank star Daymond John: We should be building businesses"
+    },
+    "tweet3": {
+      "content": "Daymond John partners with Chase for Business to create the first Black Entrepreneurs Day"
+    },
+    "tweet4": {
+      "content": "Cisco Teams Up With Verizon to Boost Fan Experience On-Site"
+    },
+    "tweet5": {
+      "content": "Just 28% of Americans Expect Return to Workplace Before 2021"
+    },
+    "tweet6": {
+      "content": "Cisco, Qwilt and Digital Alpha Define the Future of Content Delivery with New  Open Caching Solution for Service Providers"
+    },
+    "tweet7": {
+      "content": "Cisco signs up BT for new service to speed up video streaming"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Cisco Systems (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Dow Jones Surges 300 Points as Apple iPhone Event Approaches, Cisco Stock Shakes Off Downgrade"
+    },
+    "tweet3": {
+      "content": "Welsh Carson Confirms Sale of Minority Stake in Clearwater Analytics"
+    },
+    "tweet4": {
+      "content": "Cisco and Arista Get Downgraded as Citi Sees Tougher Spending Outlook"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Zoom Rolls Out Strongest Data Encryption, New Event Platform"
+    },
+    "tweet2": {
+      "content": "Should Cisco's New Video-Streaming Solution Worry Competitors?"
+    },
+    "tweet3": {
+      "content": "Foxconn Needs to Fess Up to Its Trumpian Failure in Wisconsin"
+    },
+    "tweet4": {
+      "content": "Nearly nine of 10 workers want to keep work-from-home option - survey"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "The Biggest Techs Can Get Bigger—and More Profitable. A Veteran Analyst Tells Why."
+    },
+    "tweet2": {
+      "content": "It’s Time to Give Cisco Stock a Second Chance After the Plunge"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Is Cisco Systems (NASDAQ:COMPANY_X) A Risky Investment?"
+    },
+    "tweet2": {
+      "content": "Intel (INTC) Limps Into Key Earnings Report"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Cisco Systems (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "U.S. Charges 6 Russian Agents for Hacking That Cost Billions"
+    },
+    "tweet3": {
+      "content": "Cisco Accelerates Secure Cloud Adoption with Launch of New WAN Edge Platform"
+    },
+    "tweet4": {
+      "content": "Cisco Accelerates Secure Cloud Adoption with Launch of New WAN Edge Platform"
+    },
+    "tweet5": {
+      "content": "Shocking: Zoom Video Is Almost as Big as the Tech Giant That Spurned It"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Were Hedge Funds Right About Cisco Systems, Inc. (COMPANY_X)?"
+    },
+    "tweet2": {
+      "content": "Cisco SVP says Webex users can expect 'innovation every month'"
+    },
+    "tweet3": {
+      "content": "Cisco Reports Privacy and Security Concerns Increase in Today's Remote World"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Online cheating is on the rise amid remote learning, according to Cisco Talos"
+    },
+    "tweet2": {
+      "content": "3 Reasons Why Cisco Stock Is a Great Investment"
+    },
+    "tweet3": {
+      "content": "Factors You Must Note Ahead of ServiceNow's (NOW) Q3 Earnings"
+    },
+    "tweet4": {
+      "content": "Cisco's Webex participants near 600 million as pandemic flares again"
+    },
+    "tweet5": {
+      "content": "Cisco's Webex participants near 600 mln as pandemic flares again"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Western Digital Stock Rallies as Earnings Top Estimates, Driven by PC Growth"
+    },
+    "tweet2": {
+      "content": "New Cisco Solutions Elevate Resiliency and Security for Critical Legislative and Judicial Operations"
+    },
+    "tweet3": {
+      "content": "Cisco Delivers New Platform Solutions to Drive Workload Agility Across Public and Private Clouds"
+    },
+    "tweet4": {
+      "content": "Cisco Delivers New Platform Solutions to Drive Workload Agility Across Public and Private Clouds"
+    },
+    "tweet5": {
+      "content": "Cisco Delivers Security Portfolio Simplification that Achieves New Levels of Agility, Simplicity and Resiliency"
+    },
+    "tweet6": {
+      "content": "AppDynamics Solves Visibility Gap Between Traditional Infrastructure and Cloud Environments With New Portfolio of Cloud Native Solutions"
+    },
+    "tweet7": {
+      "content": "New Cisco Solutions Elevate Resiliency and Security for Critical Legislative and Judicial Operations"
+    },
+    "tweet8": {
+      "content": "Cisco Unveils Specialized Video Software for Courts and Legislatures"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Cisco Systems (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Cisco Schedules Conference Call for Q1 Fiscal Year 2021 Financial Results"
+    },
+    "tweet3": {
+      "content": "Celestica Inc (CLS) Q3 2020 Earnings Call Transcript"
+    },
+    "tweet4": {
+      "content": "Marvell Nears Deal to Acquire Inphi for $10 Billion"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Top Stock Reports for Procter & Gamble, NIKE & UPS"
+    },
+    "tweet2": {
+      "content": "Better Buy: Arista Networks vs. Juniper Networks"
+    },
+    "tweet3": {
+      "content": "3 Dividend Stocks That Pay You Better Than Coca-Cola Does"
+    },
+    "tweet4": {
+      "content": "AppDynamics Announces New Software-as-a-Service Offering in Asia to Support Requests for Cloud Services Across India and the Asia Region"
+    },
+    "tweet5": {
+      "content": "Cisco's Webex Teams suffers outage causing meeting failures"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Is Now the Time to Buy These 3 Beaten Down Stocks of the Dow Jones Industrial Average?"
+    },
+    "tweet2": {
+      "content": "Cisco Announces November 2020 Events with the Financial Community"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Tech Stocks Are In Trouble No Matter Who Wins the Election. Why Biden Might Be Less Bad."
+    },
+    "tweet2": {
+      "content": "Arista Stock Spikes as Investors Celebrate Strong Profits and Outlook"
+    },
+    "tweet3": {
+      "content": "Legacy Businesses Weigh On Cisco Systems Outlook"
+    },
+    "tweet4": {
+      "content": "3 Top Stocks You Can Buy on Sale"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Cisco Systems (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "3 Dividend Technology Stocks With Yields Of 2.5% And Up"
+    },
+    "tweet2": {
+      "content": "Analysts Estimate Cisco Systems (COMPANY_X) to Report a Decline in Earnings: What to Look Out for"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "What You Need To Know In Options This Week: SPY, Disney, Cisco, Draft Kings, Pfizer And More"
+    },
+    "tweet2": {
+      "content": "Security & Webex in Focus Ahead of Cisco's (COMPANY_X) Q1 Earnings"
+    },
+    "tweet3": {
+      "content": "Cisco (COMPANY_X) to Report Q1 Earnings: What's in the Offing?"
+    },
+    "tweet4": {
+      "content": "Google, Amazon, Microsoft, Disney and Cisco are part of Zacks Earnings Preview"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Rivals’ results could be a warning sign for Cisco earnings"
+    },
+    "tweet2": {
+      "content": "Top Analyst Reports for Berkshire Hathaway, JPMorgan & Cisco"
+    },
+    "tweet3": {
+      "content": "Cisco Reports Earnings Thursday. Here’s What to Expect."
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Cisco Systems Earnings Preview"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Berkshire Hathaway, JPMorgan, Cisco Systems, Bank of America and PetroChina"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Cisco stock rallies 8% as results, outlook top Street view"
+    },
+    "tweet2": {
+      "content": "Cisco Stock Climbs As Earnings Top Estimates, Guidance Above Expectations"
+    },
+    "tweet3": {
+      "content": "Cisco Shares Gain as Earnings Surprise on the Upside"
+    },
+    "tweet4": {
+      "content": "Cisco Systems nabs Autodesk's CFO"
+    },
+    "tweet5": {
+      "content": "Cisco Systems: Q1 Earnings Insights"
+    },
+    "tweet6": {
+      "content": "Cisco stock rallies more than 8% as results, outlook top Street view"
+    },
+    "tweet7": {
+      "content": "US STOCKS-Wall St ends sharply lower as pandemic fears resurge"
+    },
+    "tweet8": {
+      "content": "Cisco Reports First Quarter Earnings"
+    },
+    "tweet9": {
+      "content": "Cisco's Debt Overview"
+    },
+    "tweet10": {
+      "content": "U.S. Futures Mixed; Nasdaq Outperforms as Covid Cases Rise"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "The Biggest Surprise in the Nasdaq on Friday"
+    },
+    "tweet2": {
+      "content": "Stock Market Today: Dow, S&P 500 and Russell 2000 All Hit New Highs"
+    },
+    "tweet3": {
+      "content": "Dow Jones Up 400 Points as Cisco and Disney Stocks Surge on Earnings Beats"
+    },
+    "tweet4": {
+      "content": "Autodesk Stock Rises As Design Software Firm Raises Third-Quarter Outlook"
+    },
+    "tweet5": {
+      "content": "Cisco Stock Is Rebounding After Earnings. Why There’s Still Work To Do."
+    },
+    "tweet6": {
+      "content": "US STOCKS-Wall St rises as upbeat Cisco and Disney results help fuel optimism"
+    },
+    "tweet7": {
+      "content": "Cisco's Must-Watch Resistance Level After Earnings Pop"
+    },
+    "tweet8": {
+      "content": "After Cisco's Q1 Report, Analysts Talk Easier Comps, Discounted Valuation, Spending Rebound"
+    },
+    "tweet9": {
+      "content": "Optimism for Cisco returns with a stock bounce, but analysts warn to be cautious"
+    },
+    "tweet10": {
+      "content": "US STOCKS-Wall St climbs on Cisco, Disney's upbeat results"
+    },
+    "tweet11": {
+      "content": "Is Cisco Stock A Buy Or Sell? Tech Icon Struggles Amid Covid-19 Remote Work Shift"
+    },
+    "tweet12": {
+      "content": "Dow Jones Rallies 300 Points In Big Earnings Week; S&P 500 Eyes New Closing High"
+    },
+    "tweet13": {
+      "content": "Why Cisco Systems Stock Just Popped 6%"
+    },
+    "tweet14": {
+      "content": "Understanding Cisco Systems's Unusual Options Activity"
+    },
+    "tweet15": {
+      "content": "S&P boasts record close with earnings reports adding to vaccine fueled optimism"
+    },
+    "tweet16": {
+      "content": "Cisco (COMPANY_X) Q1 Earnings Beat, Stock Up on Promising Q2 View"
+    },
+    "tweet17": {
+      "content": "US STOCKS-Wall St climbs as Cisco, Disney jump after results"
+    },
+    "tweet18": {
+      "content": "Dow Jones Today Climbs, Nasdaq Plays Catch Up: Disney, Futu, Applied Materials Nail Breakouts"
+    },
+    "tweet19": {
+      "content": "Firm Results from Disney, Cisco Help Market Back After Thursday's Slide"
+    },
+    "tweet20": {
+      "content": "Cisco's Earnings Beat Prompts Analysts to Nudge Up Price Targets"
+    },
+    "tweet21": {
+      "content": "Earnings roundup: Cisco, Palantir, DraftKings"
+    },
+    "tweet22": {
+      "content": "Cisco Tops Q1 Earnings Forecast As Services and Security Revenues Climb"
+    },
+    "tweet23": {
+      "content": "US STOCKS-Wall St set to bounce back as Cisco, Disney jump after results"
+    },
+    "tweet24": {
+      "content": "Cisco stock jumps on earnings beat"
+    },
+    "tweet25": {
+      "content": "Elon Musk, Disney, Cisco, DraftKings - 5 Things You Must Know Friday"
+    },
+    "tweet26": {
+      "content": "Wall Street set to bounce back as Cisco, Disney jump after results"
+    },
+    "tweet27": {
+      "content": "US STOCKS-Futures bounce back as Cisco, Disney jump after results"
+    },
+    "tweet28": {
+      "content": "Cisco Systems (COMPANY_X) Q1 2021 Earnings Call Transcript"
+    },
+    "tweet29": {
+      "content": "Cisco Shares Jump Over 8% After Earnings Beat; Target Price $55 in Best Case"
+    },
+    "tweet30": {
+      "content": "Cisco needs to hit the high end of its forecast to justify optimism"
+    },
+    "tweet31": {
+      "content": "[video]Cisco Jumps on an Earnings Beat and Better-Than-Expected Guidance: 6 Takeaways"
+    },
+    "tweet32": {
+      "content": "Cisco Jumps on Forecast; CEO Sees ‘Signs of Improvement’"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Dow Jones Soars on Moderna Vaccine News; Home Depot, IBM, and Cisco Announce Acquisitions"
+    },
+    "tweet2": {
+      "content": "Company News for Nov 16, 2020"
+    },
+    "tweet3": {
+      "content": "Microsoft (MSFT) Names Christopher Young as Business Development Head"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "ADRIQ and Mitacs partner to promote innovation, research, and growth in Quebec"
+    },
+    "tweet2": {
+      "content": "Dow ETF Hits New Highs on Vaccine Optimism: 5 Best Stocks"
+    },
+    "tweet3": {
+      "content": "Cisco's (COMPANY_X) Acquisition of Banzai Cloud: Major Takeaways"
+    },
+    "tweet4": {
+      "content": "Is Cisco Systems Stock a Buy?"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Presidio Holdings Inc. -- Moody's says Presidio's acquisition of Arkphire enhances revenue diversity; no immediate impact to ratings"
+    },
+    "tweet2": {
+      "content": "3 Top Dividend Stocks for a Post-Vaccine World"
+    },
+    "tweet3": {
+      "content": "Is Cisco an Undervalued Dividend Stock After Its Q1 Earnings Beat?"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "7 Cybersecurity Stocks To Buy For Defense Against The Dark Web"
+    },
+    "tweet2": {
+      "content": "AppDynamics Featured as an Application Performance Monitoring Partner in the Microsoft Cloud Adoption Framework for Azure"
+    },
+    "tweet3": {
+      "content": "3 5G Stocks to Buy as the U.S. Military Tests the Waters"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "'Trading Nation' Traders Share Their Tech Picks"
+    },
+    "tweet2": {
+      "content": "3 Dividend Stocks to Buy on Sale"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "3 Stocks for a Better Retirement"
+    },
+    "tweet2": {
+      "content": "Enterprise Communication Boom to Drive These 4 Stocks Beyond 2020"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Cisco to Host 2020 Annual Meeting of Shareholders"
+    },
+    "tweet2": {
+      "content": "Price Over Earnings Overview: Cisco Systems"
+    },
+    "tweet3": {
+      "content": "Unusual Options Activity Insight: Cisco Systems"
+    },
+    "tweet4": {
+      "content": "7 of the Best Cheap Stocks for December"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "Cisco Announces December 2020 Events with the Financial Community"
+    },
+    "tweet2": {
+      "content": "U.S. insurers dig into corporate diversity practices as lawsuits pile up"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "Zoom's (ZM) Q3 Earnings Top Estimates, Revenues Jump Y/Y"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "China and India pose ‘real risk’ if U.S. tech can’t grow: Box CEO"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "Juniper Networks, Inc. -- Moody's assigns Baa2 rating to Juniper Networks' proposed debt issuance; outlook stable"
+    },
+    "tweet2": {
+      "content": "Business leaders privately ‘incredibly frustrated’ with Trump-era volatility: Box CEO"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "Nokia Needs a Win Now or Risks Serious Hemorrhaging"
+    },
+    "tweet2": {
+      "content": "Here's Why Fastly Stock Is Soaring Today"
+    },
+    "tweet3": {
+      "content": "Top Analyst Reports for Cisco, CVS Health & Moderna"
+    },
+    "tweet4": {
+      "content": "Box CEO: Breaking up big tech is ‘not the right solution’"
+    },
+    "tweet5": {
+      "content": "Juniper Networks, Inc. -- Moody's assigns Baa2 rating to Juniper Networks' proposed debt issuance; outlook stable"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "Cisco Acquires IMImobile, Cloud Communications Software Maker, For $730 Million"
+    },
+    "tweet2": {
+      "content": "Why Cisco Systems Stock Climbed 19.8% in November"
+    },
+    "tweet3": {
+      "content": "Cisco Makes Two Big Acquisitions to Take on Zoom"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: Cisco Systems, CVS Health, Moderna, Pfizer and Hilton Worldwide"
+    },
+    "tweet5": {
+      "content": "Cisco to Buy CRM-Software Firm IMImobile for $730 Million"
+    },
+    "tweet6": {
+      "content": "US STOCKS-Wall St headed lower on Sino-U.S. tensions; stimulus deal awaited"
+    },
+    "tweet7": {
+      "content": "Cisco is buying Slido to improve Q&A, polls and engagement in WebEx videoconferencing"
+    },
+    "tweet8": {
+      "content": "Cisco to Acquire Cloud Communications Software Firm IMImobile in Nearly $730Mln Deal"
+    },
+    "tweet9": {
+      "content": "Cisco Snaps Up U.K. Software Company for $730 Million. Why That’s Good News for Investors."
+    },
+    "tweet10": {
+      "content": "Cisco strikes £543 million deal for IMImobile"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "Why Fastly Stock Surged Today"
+    },
+    "tweet2": {
+      "content": "Plug Power Gives Markets a Jolt; Is Fastly Takeover Bait?"
+    },
+    "tweet3": {
+      "content": "Is COMPANY_X A Good Stock To Buy Now?"
+    },
+    "tweet4": {
+      "content": "Fastly Shares Spike on Rumors of Potential Cisco Takeover Bid"
+    },
+    "tweet5": {
+      "content": "Cisco Updates Webex Video Conferencing in Bid to Fend Off Zoom"
+    },
+    "tweet6": {
+      "content": "Cisco Wakes Up and Overhauls Webex. Look Out, Zoom Video."
+    },
+    "tweet7": {
+      "content": "Cisco revamps Webex, targets virtual events"
+    },
+    "tweet8": {
+      "content": "Dow Industrials, Stocks Stumble As Stimulus Stalls; Equifax Aces Breakout; Baidu Rises On Stock Buyback"
+    },
+    "tweet9": {
+      "content": "Dow Industrials, Futures Drag As Stimulus Stalls; Coupa Eyes Breakout; Baidu Launches $1.5 Billion Buyback"
+    },
+    "tweet10": {
+      "content": "If Cisco Does This, I'd Consider Selling the Stock"
+    },
+    "tweet11": {
+      "content": "Is Cisco Stock A Buy? Will Market Rotation To Value Persist Into 2021?"
+    },
+    "tweet12": {
+      "content": "Cisco Acquires London-Based IMImobile In $721m Deal"
+    },
+    "tweet13": {
+      "content": "Company of the Year: How Zoom overcame security flaws in 2020"
+    },
+    "tweet14": {
+      "content": "Company of the Year: Aparna Bawa, Zoom COO"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "Cisco Declares Quarterly Cash Dividend"
+    },
+    "tweet2": {
+      "content": "Company of the Year: How Zoom Changed U.S. Education"
+    },
+    "tweet3": {
+      "content": "Cisco (COMPANY_X) Announces the Buyouts of Slido And IMImobile"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "Love Dividends? Here Are 3 Stocks You Might Want to Buy"
+    },
+    "tweet2": {
+      "content": "Hackers Used Obscure Texas IT Vendor to Attack U.S. Agencies"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "Cisco Systems (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Popular crypto exchange Coinbase files confidentially to take itself public as bitcoin price soars to record above $23,000"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "Cisco Latest Victim of Russian Cyber-Attack Using SolarWinds"
+    },
+    "tweet2": {
+      "content": "Analyzing Cisco Systems's Unusual Options Activity"
+    },
+    "tweet3": {
+      "content": "TIM Launching Open Caching Solution to Further Improve Video Streaming Experience Across Its Network in Brazil"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "Cybersecurity Stocks & ETFs Soar after Massive Hack"
+    },
+    "tweet2": {
+      "content": "3 Big Tech Stocks for the January Effect"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "Is Cisco Systems (COMPANY_X) a Smart Long-term Buy?"
+    },
+    "tweet2": {
+      "content": "Hackers Accessed Treasury Department Emails, Dozens of U.S. Companies"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "Cisco Systems (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Zoom Video Reportedly Developing Email, Calendars"
+    },
+    "tweet3": {
+      "content": "A ‘long-term top’ is taking shape in the market, and these stocks could bear the brunt, investor warns"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "Microsoft (MSFT) Joins Legal Fight Against Spyware Vendor NSO Group"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "Top Analyst Reports for Johnson & Johnson, NVIDIA & Cisco"
+    },
+    "tweet2": {
+      "content": "Boeing, Apple, Cisco, Novavax - Tuesday's Premarket Movers"
+    },
+    "tweet3": {
+      "content": "Cisco Reportedly Scraps Plans for Smart Cities Business"
+    },
+    "tweet4": {
+      "content": "In the Face of the Coronavirus Pandemic, Cisco Scraps Smart Cities Business"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "Cisco Systems (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Cisco Had a Rough 2020. Here’s How the Stock Could Rebound in 2021."
+    },
+    "tweet3": {
+      "content": "Cisco (COMPANY_X) Terminates Smart Cities Plan Amid Pandemic Woes"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: Johnson & Johnson, NVIDIA, Cisco, AbbVie and Sony"
+    },
+    "tweet5": {
+      "content": "Looking Into Cisco Systems's Return On Capital Employed"
+    },
+    "tweet6": {
+      "content": "Company News for Dec 30, 2020"
+    },
+    "tweet7": {
+      "content": "Interested In Cisco Systems' (NASDAQ:COMPANY_X) Upcoming US$0.36 Dividend? You Have Four Days Left"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "Will Zoom Or Cisco Stock Grow More By 2022?"
+    }
+  }
+}

@@ -1,0 +1,5660 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "Oil Stocks That Could Ride a Rebound in Prices, According to Analysts"
+    },
+    "tweet2": {
+      "content": "As Oil Prices Jump, Analysts Pick Winning Stocks for 2019"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "2019 Could Make Or Break OPEC"
+    },
+    "tweet2": {
+      "content": "Shell to Trade Oil Products in Chinese Wholesale Market"
+    },
+    "tweet3": {
+      "content": "Energy Sector Update for 01/03/2019: E, UPL, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet4": {
+      "content": "Energy Sector Update for 01/03/2019: E, UPL, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet5": {
+      "content": "Why Certain Oil-Weighted Stocks Outperformed Last Quarter"
+    },
+    "tweet6": {
+      "content": "Here’s What to Expect From Oil in 2019"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Here's Why ConocoPhillips (COMPANY_X) is a Strong Sell Right Now"
+    },
+    "tweet2": {
+      "content": "Here's Why ConocoPhillips (COMPANY_X) is a Strong Sell Right Now"
+    },
+    "tweet3": {
+      "content": "Energy Sector Update for 01/04/2019: PBR, PTEN, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet4": {
+      "content": "Energy Sector Update for 01/04/2019: PBR, PTEN, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet5": {
+      "content": "Moving Average Crossover Alert: ConocoPhillips"
+    },
+    "tweet6": {
+      "content": "Record LNG capacity to get green light in 2019 amid strong demand"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Top 5 Energy Stocks of 2018 by Performance"
+    },
+    "tweet2": {
+      "content": "This Oil Stock Gave Its Investors Reason to Cheer in 2018"
+    },
+    "tweet3": {
+      "content": "This Oil Stock Gave Its Investors Reason to Cheer in 2018"
+    },
+    "tweet4": {
+      "content": "EIA Reports Unchanged Crude Stockpiles, Fuel Supplies Jump"
+    },
+    "tweet5": {
+      "content": "This Oil Stock Gave Its Investors Reason to Cheer in 2018"
+    },
+    "tweet6": {
+      "content": "Energy Sector Update for 01/07/2019: XOM, PTR, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet7": {
+      "content": "Energy Sector Update for 01/07/2019: XOM, PTR, CVX, COMPANY_X, SLB, OXY"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Energy Sector Update for 01/08/2019: EQT, FTI, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet2": {
+      "content": "Energy Sector Update for 01/08/2019: EQT, FTI, XOM, CVX, COMPANY_X, SLB, OXY"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "10 Best Energy Stocks to Buy for a 2019 Gusher"
+    },
+    "tweet2": {
+      "content": "XLE, COMPANY_X, SLB, OXY: ETF Outflow Alert"
+    },
+    "tweet3": {
+      "content": "XLE, COMPANY_X, SLB, OXY: ETF Outflow Alert"
+    },
+    "tweet4": {
+      "content": "Noble's (NE) Ultra-Deepwater Rig Secures Contract Extension"
+    },
+    "tweet5": {
+      "content": "Noble's (NE) Ultra-Deepwater Rig Secures Contract Extension"
+    },
+    "tweet6": {
+      "content": "Noble's (NE) Ultra-Deepwater Rig Secures Contract Extension"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Energy Sector Update for 01/10/2019: BP,RDC,COMPANY_X,SEMG,KKR,LLEX"
+    },
+    "tweet2": {
+      "content": "Energy Sector Update for 01/10/2019: BP,RDC,COMPANY_X,SEMG,KKR,LLEX"
+    },
+    "tweet3": {
+      "content": "Energy Sector Update for 01/10/2019: RDC,COMPANY_X,SEMG,KKR,LLEX"
+    },
+    "tweet4": {
+      "content": "Energy Sector Update for 01/10/2019: RDC,COMPANY_X,SEMG,KKR,LLEX"
+    },
+    "tweet5": {
+      "content": "Did Trade Talks Impact Oil-Weighted Stocks More than Oil?"
+    },
+    "tweet6": {
+      "content": "ConocoPhillips to Hold Fourth-Quarter Earnings Conference Call on Thursday, Jan. 31"
+    },
+    "tweet7": {
+      "content": "Oil Breaches $50 a Barrel on Inventory Draw, China Talks"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Rowan (RDC) Receives Contract for Jack-up Rig From Conoco"
+    },
+    "tweet2": {
+      "content": "Rowan (RDC) Receives Contract for Jack-up Rig From Conoco"
+    },
+    "tweet3": {
+      "content": "Why ConocoPhillips Stock Rose More Than 10% in 2018"
+    },
+    "tweet4": {
+      "content": "Why ConocoPhillips Stock Rose More Than 10% in 2018"
+    },
+    "tweet5": {
+      "content": "Why ConocoPhillips Stock Rose More Than 10% in 2018"
+    },
+    "tweet6": {
+      "content": "Rowan (RDC) Receives Contract for Jack-up Rig From Conoco"
+    },
+    "tweet7": {
+      "content": "Oil Prices: Crude Oil Is Quietly Having Its Longest Winning Streak in Nearly a Decade"
+    },
+    "tweet8": {
+      "content": "Oil Prices: Crude Oil Is Quietly Having Its Longest Winning Streak in Nearly a Decade"
+    },
+    "tweet9": {
+      "content": "Oil Prices: Crude Oil Is Quietly Having Its Longest Winning Streak in Nearly a Decade"
+    },
+    "tweet10": {
+      "content": "Sanchez in Financial Trouble, Receives 2nd Delisting Warning"
+    },
+    "tweet11": {
+      "content": "Sanchez in Financial Trouble, Receives 2nd Delisting Warning"
+    },
+    "tweet12": {
+      "content": "Sanchez in Financial Trouble, Receives 2nd Delisting Warning"
+    },
+    "tweet13": {
+      "content": "New Research Coverage Highlights Arthur J. Gallagher, Ultragenyx Pharmaceutical, Empire State Realty Trust, ConocoPhillips, Kilroy Realty, and NETGEAR — Consolidated Revenues, Company Growth, and Expectations for 2019"
+    },
+    "tweet14": {
+      "content": "Should You Invest in the Fidelity MSCI Energy Index ETF (FENY)?"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Energy Sector Update for 01/14/2019: MPO, IO, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet2": {
+      "content": "Energy Sector Update for 01/14/2019: MPO, IO, XOM, CVX, COMPANY_X, SLB, OXY"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Top Research Reports for Walmart, Comcast & ConocoPhillips"
+    },
+    "tweet2": {
+      "content": "Top Research Reports for Walmart, Comcast & ConocoPhillips"
+    },
+    "tweet3": {
+      "content": "Energy Sector Update for 01/15/2019: XOM, ENLC, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet4": {
+      "content": "Energy Sector Update for 01/15/2019: XOM, ENLC, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet5": {
+      "content": "Top Research Reports for Walmart, Comcast & ConocoPhillips"
+    },
+    "tweet6": {
+      "content": "Bear of the Day: Diamondback Energy (FANG)"
+    },
+    "tweet7": {
+      "content": "Bear of the Day: Diamondback Energy (FANG)"
+    },
+    "tweet8": {
+      "content": "See what the IHS Markit Score report has to say about ConocoPhillips."
+    },
+    "tweet9": {
+      "content": "Bear of the Day: Diamondback Energy (FANG)"
+    },
+    "tweet10": {
+      "content": "8 Dividend Stocks With Growth on the Horizon"
+    },
+    "tweet11": {
+      "content": "8 Dividend Stocks With Growth on the Horizon"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Walmart, Comcast, ConocoPhillips, PayPal and CSX"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Walmart, Comcast, ConocoPhillips, PayPal and CSX"
+    },
+    "tweet3": {
+      "content": "Equinor Wins 29 Licenses in NCS, Finds Gas in Ragnfrid North"
+    },
+    "tweet4": {
+      "content": "Equinor Wins 29 Licenses in NCS, Finds Gas in Ragnfrid North"
+    },
+    "tweet5": {
+      "content": "The Zacks Analyst Blog Highlights: Walmart, Comcast, ConocoPhillips, PayPal and CSX"
+    },
+    "tweet6": {
+      "content": "Equinor Wins 29 Licenses in NCS, Finds Gas in Ragnfrid North"
+    },
+    "tweet7": {
+      "content": "S&P Reclaims 2600 for First Time in 2019"
+    },
+    "tweet8": {
+      "content": "ConocoPhillips CEO: We've really embraced the volatility in the commodity price cycle"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "XLE, COMPANY_X, SLB, EOG: Large Outflows Detected at ETF"
+    },
+    "tweet2": {
+      "content": "XLE, COMPANY_X, SLB, EOG: Large Outflows Detected at ETF"
+    },
+    "tweet3": {
+      "content": "E. Timor clears rules for Sunrise gas project takeover after parliament backing"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Will Earnings Data Help ConocoPhillips?"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips: Oil Prices Might Hurt the Cash Flow"
+    },
+    "tweet3": {
+      "content": "Energy Sector Update for 01/22/2019: HAL, EQT, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet4": {
+      "content": "Energy Sector Update for 01/22/2019: HAL, EQT, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet5": {
+      "content": "Add Up The Parts: PBUS Could Be Worth $30"
+    },
+    "tweet6": {
+      "content": "Add Up The Parts: PBUS Could Be Worth $30"
+    },
+    "tweet7": {
+      "content": "See what the IHS Markit Score report has to say about ConocoPhillips."
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Should You Invest in the iShares U.S. Oil & Gas Exploration & Production ETF (IEO)?"
+    },
+    "tweet2": {
+      "content": "Newcomers pile into race for Qatar LNG"
+    },
+    "tweet3": {
+      "content": "See what the IHS Markit Score report has to say about ConocoPhillips."
+    },
+    "tweet4": {
+      "content": "ConocoPhillips Might Have the Most Moderate Upside"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "These S&P 500 companies have had their sales estimates cut the most"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips (COMPANY_X) Earnings Expected to Grow: What to Know Ahead of Next Week's Release"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips (COMPANY_X) Earnings Expected to Grow: What to Know Ahead of Next Week's Release"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips (COMPANY_X) Earnings Expected to Grow: What to Know Ahead of Next Week's Release"
+    },
+    "tweet5": {
+      "content": "See what the IHS Markit Score report has to say about ConocoPhillips."
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "10 Triple-A Stocks to Buy in February"
+    },
+    "tweet2": {
+      "content": "10 Triple-A Stocks to Buy in February"
+    },
+    "tweet3": {
+      "content": "What Kind Of Shareholders Own ConocoPhillips (NYSE:COMPANY_X)?"
+    },
+    "tweet4": {
+      "content": "10 Triple-A Stocks to Buy in February"
+    },
+    "tweet5": {
+      "content": "Bear of the Day: Occidental (OXY)"
+    },
+    "tweet6": {
+      "content": "Bear of the Day: Occidental (OXY)"
+    },
+    "tweet7": {
+      "content": "Energy Majors Queuing Up for Stakes in Qatar's LNG Expansion"
+    },
+    "tweet8": {
+      "content": "Bear of the Day: Occidental (OXY)"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "XLE, COMPANY_X, SLB, OXY: Large Outflows Detected at ETF"
+    },
+    "tweet2": {
+      "content": "XLE, COMPANY_X, SLB, OXY: Large Outflows Detected at ETF"
+    },
+    "tweet3": {
+      "content": "Why Is Q4 Earnings Beat Less Likely for ConocoPhillips (COMPANY_X)?"
+    },
+    "tweet4": {
+      "content": "Why Is Q4 Earnings Beat Less Likely for ConocoPhillips (COMPANY_X)?"
+    },
+    "tweet5": {
+      "content": "Why Is Q4 Earnings Beat Less Likely for ConocoPhillips (COMPANY_X)?"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Exxon, Chevron Earnings To Shed Some Light After Oil&apos;s Wild Swings"
+    },
+    "tweet2": {
+      "content": "Oil Might Push Hess’s EPS into Negative Territory"
+    },
+    "tweet3": {
+      "content": "PDVSA’s Angry Creditors Are Prowling the Caribbean for Oil to Seize"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Pre-Market Earnings Report for January 31, 2019 :  MA, DWDP, MO, GE, COMPANY_X, UPS, CHTR, CELG, EPD, RTN, NOC, MMC"
+    },
+    "tweet2": {
+      "content": "Pre-Market Earnings Report for January 31, 2019 :  MA, DWDP, MO, GE, COMPANY_X, UPS, CHTR, CELG, EPD, RTN, NOC, MMC"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips Q4 Earnings Preview"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips Announces Quarterly Dividend"
+    },
+    "tweet5": {
+      "content": "Day Ahead: Top 3 Things to Watch"
+    },
+    "tweet6": {
+      "content": "Fed's Message Of Patience Extends Early Rally On Wall Street - U.S. Commentary"
+    },
+    "tweet7": {
+      "content": "Fed's Message Of Patience Extends Early Rally On Wall Street - U.S. Commentary"
+    },
+    "tweet8": {
+      "content": "Oil Town Fights Man Camps in Effort to Boost Local Population"
+    },
+    "tweet9": {
+      "content": "Oil Stocks to Watch for Q4 Earnings on Jan 31: BHGE, VLO, COMPANY_X"
+    },
+    "tweet10": {
+      "content": "Oil Stocks to Watch for Q4 Earnings on Jan 31: BHGE, VLO, COMPANY_X"
+    },
+    "tweet11": {
+      "content": "What to Watch When ConocoPhillips Reports Q4 Results"
+    },
+    "tweet12": {
+      "content": "What to Watch When ConocoPhillips Reports Q4 Results"
+    },
+    "tweet13": {
+      "content": "What to Watch When ConocoPhillips Reports Q4 Results"
+    },
+    "tweet14": {
+      "content": "Oil Stocks to Watch for Q4 Earnings on Jan 31: BHGE, VLO, COMPANY_X"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Venezuelan Oil Crisis Could Lead To Pirates In The Caribbean"
+    },
+    "tweet2": {
+      "content": "Crashing Crude Prices Were No Match for ConocoPhillips in Q4"
+    },
+    "tweet3": {
+      "content": "Crashing Crude Prices Were No Match for ConocoPhillips in Q4"
+    },
+    "tweet4": {
+      "content": "Oil Scores Best January on Record as Supply Cuts Revive Market"
+    },
+    "tweet5": {
+      "content": "ConocoPhillips beats profit estimates on higher production, prices"
+    },
+    "tweet6": {
+      "content": "ConocoPhillips beats profit estimates on higher production, prices"
+    },
+    "tweet7": {
+      "content": "Crashing Crude Prices Were No Match for ConocoPhillips in Q4"
+    },
+    "tweet8": {
+      "content": "ConocoPhillips (COMPANY_X) Q4 Earnings Beat on Oil Price, Output"
+    },
+    "tweet9": {
+      "content": "ConocoPhillips (COMPANY_X) Q4 Earnings Beat on Oil Price, Output"
+    },
+    "tweet10": {
+      "content": "Daily Dividend Report: XOM, CVX, SCHW, COMPANY_X, AJG"
+    },
+    "tweet11": {
+      "content": "Daily Dividend Report: XOM, CVX, SCHW, COMPANY_X, AJG"
+    },
+    "tweet12": {
+      "content": "ConocoPhillips Stock Gains as Results Show Progress"
+    },
+    "tweet13": {
+      "content": "ConocoPhillips (COMPANY_X) Q4 Earnings Beat on Oil Price, Output"
+    },
+    "tweet14": {
+      "content": "A dovish Fed could lead to bullish cyclical sectors"
+    },
+    "tweet15": {
+      "content": "ConocoPhillips (COMPANY_X) Q4 Earnings Surpass Estimates"
+    },
+    "tweet16": {
+      "content": "ConocoPhillips (COMPANY_X) Q4 Earnings Surpass Estimates"
+    },
+    "tweet17": {
+      "content": "Conoco Ends Exclusive Talks With Ineos for North Sea Fields"
+    },
+    "tweet18": {
+      "content": "ConocoPhillips (COMPANY_X) Q4 Earnings Surpass Estimates"
+    },
+    "tweet19": {
+      "content": "Earnings Reaction History: ConocoPhillips, 72.7% Follow-Through Indicator, 2.1% Sensitive"
+    },
+    "tweet20": {
+      "content": "Earnings Reaction History: ConocoPhillips, 72.7% Follow-Through Indicator, 2.1% Sensitive"
+    },
+    "tweet21": {
+      "content": "ConocoPhillips: 4Q Earnings Snapshot"
+    },
+    "tweet22": {
+      "content": "ConocoPhillips stock gains after earnings top expectations"
+    },
+    "tweet23": {
+      "content": "ConocoPhillips Q4 18 Earnings Conference Call At 12:00 PM ET"
+    },
+    "tweet24": {
+      "content": "ConocoPhillips Q4 18 Earnings Conference Call At 12:00 PM ET"
+    },
+    "tweet25": {
+      "content": "Stocks - Facebook, GE, UPS Surge in Premarket, Tesla, Microsoft, Visa Slide"
+    },
+    "tweet26": {
+      "content": "ConocoPhillips Q4 adjusted earnings Beat Estimates"
+    },
+    "tweet27": {
+      "content": "ConocoPhillips Q4 adjusted earnings Beat Estimates"
+    },
+    "tweet28": {
+      "content": "ConocoPhillips Earnings, Revenue beat in Q4"
+    },
+    "tweet29": {
+      "content": "[$$] Higher oil production and prices boost ConocoPhillips in Q4"
+    },
+    "tweet30": {
+      "content": "[$$] Ineos fails to reach deal with ConocoPhillips on North Sea assets"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Stocks mixed after stronger-than-expected jobs report"
+    },
+    "tweet2": {
+      "content": "5 Energy Stocks Powering Up"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips Stock Is a Growth and Income Double-Whammy"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips Stock Is a Growth and Income Double-Whammy"
+    },
+    "tweet5": {
+      "content": "Exclusive: Qatar, Exxon to proceed with $10 billion Texas LNG project - sources"
+    },
+    "tweet6": {
+      "content": "Company News For Feb 1, 2019"
+    },
+    "tweet7": {
+      "content": "Company News For Feb 1, 2019"
+    },
+    "tweet8": {
+      "content": "Energy Sector Update for 02/01/2019: IMO, WFT, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet9": {
+      "content": "Energy Sector Update for 02/01/2019: IMO, WFT, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet10": {
+      "content": "Company News For Feb 1, 2019"
+    },
+    "tweet11": {
+      "content": "ConocoPhillips Stock Is a Growth and Income Double-Whammy"
+    },
+    "tweet12": {
+      "content": "ConocoPhillips Co (COMPANY_X) Q4 2018 Earnings Conference Call Transcript"
+    },
+    "tweet13": {
+      "content": "ConocoPhillips Co (COMPANY_X) Q4 2018 Earnings Conference Call Transcript"
+    },
+    "tweet14": {
+      "content": "ConocoPhillips Co (COMPANY_X) Q4 2018 Earnings Conference Call Transcript"
+    },
+    "tweet15": {
+      "content": "[$$] Oil Trains Make Comeback as Pipeline Bottlenecks Worsen"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "U.S., Qatar energy ministers to announce Qatari investment in U.S. -Energy Dept"
+    },
+    "tweet2": {
+      "content": "Chevron and ConocoPhillips Are 2 Energy Stock Favorites"
+    },
+    "tweet3": {
+      "content": "Goldman: Now's the time to buy ConocoPhillips"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips 'Exhibiting Capital Discipline,' Goldman Sachs Says In Upgrade"
+    },
+    "tweet5": {
+      "content": "Oil Falls on U.S. Data, Slow Trade Talks with China"
+    },
+    "tweet6": {
+      "content": "Should You Invest in the Fidelity MSCI Energy Index ETF (FENY)?"
+    },
+    "tweet7": {
+      "content": "Edited Transcript of COMPANY_X earnings conference call or presentation 31-Jan-19 5:00pm GMT"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Oil & Gas Stock Roundup: Exxon, Chevron, Shell Earnings Beat"
+    },
+    "tweet2": {
+      "content": "Oil & Gas Stock Roundup: Exxon, Chevron, Shell Earnings Beat"
+    },
+    "tweet3": {
+      "content": "Qatar Petroleum, Exxon to proceed with $10 billion Texas LNG project - Exxon"
+    },
+    "tweet4": {
+      "content": "Qatar Petroleum, Exxon to proceed with $10 bln Texas LNG project -Exxon"
+    },
+    "tweet5": {
+      "content": "Any Fall in the EIA Inventory Data Could Benefit Oil Bulls"
+    },
+    "tweet6": {
+      "content": "Oil & Gas Stock Roundup: Exxon, Chevron, Shell Earnings Beat"
+    },
+    "tweet7": {
+      "content": "Anadarko Petroleum: What Could Impact Its Q4 Earnings?"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Will Anadarko Benefit from Its Production Mix Strategy in 2019?"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, Chevron, Royal Dutch, ConocoPhillips and Baker Hughes"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, Chevron, Royal Dutch, ConocoPhillips and Baker Hughes"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips About To Put More Money In Your Pocket (COMPANY_X)"
+    },
+    "tweet5": {
+      "content": "ConocoPhillips About To Put More Money In Your Pocket (COMPANY_X)"
+    },
+    "tweet6": {
+      "content": "State of the Market Remains Positive"
+    },
+    "tweet7": {
+      "content": "State of the Market Remains Positive"
+    },
+    "tweet8": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, Chevron, Royal Dutch, ConocoPhillips and Baker Hughes"
+    },
+    "tweet9": {
+      "content": "Anadarko’s Earnings Were 38% Lower than Analysts’ Estimate"
+    },
+    "tweet10": {
+      "content": "State of the Market Remains Positive"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "See Which Of The Latest 13F Filers Holds ConocoPhillips"
+    },
+    "tweet2": {
+      "content": "See Which Of The Latest 13F Filers Holds ConocoPhillips"
+    },
+    "tweet3": {
+      "content": "Chesapeake Stock Still Is a Top Way to Play an Oil, Gas Rebound"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips (COMPANY_X) Ex-Dividend Date Scheduled for February 08, 2019"
+    },
+    "tweet5": {
+      "content": "ConocoPhillips (COMPANY_X) Ex-Dividend Date Scheduled for February 08, 2019"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Chesapeake Energy: ‘Buy’ or ‘Sell’ after Its Q4 Earnings?"
+    },
+    "tweet2": {
+      "content": "Chesapeake Stock Still Is a Top Way to Play an Oil, Gas Rebound"
+    },
+    "tweet3": {
+      "content": "Chesapeake Stock Still Is a Top Way to Play an Oil, Gas Rebound"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Top Analyst Reports for Bristol-Myers, ConocoPhillips & Qualcomm"
+    },
+    "tweet2": {
+      "content": "Top Analyst Reports for Bristol-Myers, ConocoPhillips & Qualcomm"
+    },
+    "tweet3": {
+      "content": "Top Analyst Reports for Bristol-Myers, ConocoPhillips & Qualcomm"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips: Investors’ Confidence Is Rising"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Bristol-Myers, ConocoPhillips, Qualcomm, General Motors and Marathon"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Bristol-Myers, ConocoPhillips, Qualcomm, General Motors and Marathon"
+    },
+    "tweet3": {
+      "content": "Energy Sector Update for 02/12/2019: BRS, CPE, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet4": {
+      "content": "Energy Sector Update for 02/12/2019: BRS, CPE, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet5": {
+      "content": "The Zacks Analyst Blog Highlights: Bristol-Myers, ConocoPhillips, Qualcomm, General Motors and Marathon"
+    },
+    "tweet6": {
+      "content": "Oil Prices: Is the Rebound Sustainable?"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Will This Oil Stock Keep Its Foot on the Accelerator in Q4?"
+    },
+    "tweet2": {
+      "content": "Will This Oil Stock Keep Its Foot on the Accelerator in Q4?"
+    },
+    "tweet3": {
+      "content": "Occidental's (OXY) Q4 Earnings & Revenues Surpass Estimates"
+    },
+    "tweet4": {
+      "content": "Occidental's (OXY) Q4 Earnings & Revenues Surpass Estimates"
+    },
+    "tweet5": {
+      "content": "Will This Oil Stock Keep Its Foot on the Accelerator in Q4?"
+    },
+    "tweet6": {
+      "content": "Energy Sector Update for 02/13/2019: CVE, BRN, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet7": {
+      "content": "Energy Sector Update for 02/13/2019: CVE, BRN, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet8": {
+      "content": "Good Feelings for Good Dealings"
+    },
+    "tweet9": {
+      "content": "Occidental's (OXY) Q4 Earnings & Revenues Surpass Estimates"
+    },
+    "tweet10": {
+      "content": "[$$] Private equity leads the changing of the North Sea guard"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Why Dividend Investors Should Look to Oil Stocks for Big Yields"
+    },
+    "tweet2": {
+      "content": "Thursday Sector Leaders: Energy, Services"
+    },
+    "tweet3": {
+      "content": "Thursday Sector Leaders: Energy, Services"
+    },
+    "tweet4": {
+      "content": "Why ConocoPhillips Stock Doesn’t Have Any ‘Sell’ Recommendations"
+    },
+    "tweet5": {
+      "content": "Should You Invest in the iShares U.S. Oil & Gas Exploration & Production ETF (IEO)?"
+    },
+    "tweet6": {
+      "content": "Oil Companies’ New Target Is Yield-Hungry Investors"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "ConocoPhillips Recommends Rejection of Below-Market Mini-Tender Offer by Baker Mills LLC"
+    },
+    "tweet2": {
+      "content": "Top 4 Oil and Gas Penny Stocks for 2019"
+    },
+    "tweet3": {
+      "content": "Oil Could Close at the Highest Level in 2019 This Week"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Borger Energy Associates, L.P. -- Moody's announces completion of a periodic review of ratings of Borger Energy Associates, L.P."
+    },
+    "tweet2": {
+      "content": "Drilling Permit Roundup: Private equity-backed company among most active in Lee County"
+    },
+    "tweet3": {
+      "content": "Colorado Petroleum Council leader leaving to be CEO of Permian Basin industry group"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips (COMPANY_X) Files 10-K for the Fiscal Year Ended on December 31, 2018"
+    },
+    "tweet5": {
+      "content": "Repsol Finds Natural Gas Onshore Indonesia in Central Sumatra"
+    },
+    "tweet6": {
+      "content": "Repsol Finds Natural Gas Onshore Indonesia in Central Sumatra"
+    },
+    "tweet7": {
+      "content": "What Might Impact Devon Energy’s Stock Prices?"
+    },
+    "tweet8": {
+      "content": "Repsol Finds Natural Gas Onshore Indonesia in Central Sumatra"
+    },
+    "tweet9": {
+      "content": "Here’s What Could Limit Cimarex Energy’s Earnings Downside"
+    },
+    "tweet10": {
+      "content": "Pioneer Natural Resources: Analysts Reviewed the Target Price"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Australia's east coast LNG plants unlikely to ever hit full capacity -study"
+    },
+    "tweet2": {
+      "content": "Houston energy cos. report upward trend in headcounts"
+    },
+    "tweet3": {
+      "content": "Quiet but Still Positive Start to Short Week"
+    },
+    "tweet4": {
+      "content": "Quiet but Still Positive Start to Short Week"
+    },
+    "tweet5": {
+      "content": "Brent-WTI Spread Impacts US Upstream Stocks"
+    },
+    "tweet6": {
+      "content": "Devon Energy’s Announcement Could Boost Investor Confidence"
+    },
+    "tweet7": {
+      "content": "Quiet but Still Positive Start to Short Week"
+    },
+    "tweet8": {
+      "content": "Will US Crude Oil Move above Its 100-Day Moving Average?"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Energy Select Sector SPDR Fund Experiences Big Outflow"
+    },
+    "tweet2": {
+      "content": "Energy Select Sector SPDR Fund Experiences Big Outflow"
+    },
+    "tweet3": {
+      "content": "Surging Earnings Estimates Signal Good News for ConocoPhillips (COMPANY_X)"
+    },
+    "tweet4": {
+      "content": "Surging Earnings Estimates Signal Good News for ConocoPhillips (COMPANY_X)"
+    },
+    "tweet5": {
+      "content": "Surging Earnings Estimates Signal Good News for ConocoPhillips (COMPANY_X)"
+    },
+    "tweet6": {
+      "content": "Cushing® Asset Management and Swank Capital Announce Rebalancing of The Cushing® Energy Supply Chain Index"
+    },
+    "tweet7": {
+      "content": "More Permian Basin Drillers Are Tapping the Brakes in 2019"
+    },
+    "tweet8": {
+      "content": "More Permian Basin Drillers Are Tapping the Brakes in 2019"
+    },
+    "tweet9": {
+      "content": "More Permian Basin Drillers Are Tapping the Brakes in 2019"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Analysts’ Ratings and Outlook for Occidental Petroleum"
+    },
+    "tweet2": {
+      "content": "Peek Under The Hood: OEF Has 10% Upside"
+    },
+    "tweet3": {
+      "content": "Peek Under The Hood: OEF Has 10% Upside"
+    },
+    "tweet4": {
+      "content": "Oil Could Finish at the Highest Level in 2019 This Week"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "How Much Did ConocoPhillips’s (NYSE:COMPANY_X) CEO Pocket Last Year?"
+    },
+    "tweet2": {
+      "content": "Oil Fell on Trump’s Tweet this Morning"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips shuts down Suban gas field for planned maintenance"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "COMPANY_X Makes Notable Cross Below Critical Moving Average"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Makes Notable Cross Below Critical Moving Average"
+    },
+    "tweet3": {
+      "content": "Brent-WTI Spread Might Push US Exports to a New Record High"
+    },
+    "tweet4": {
+      "content": "Will Oil Overcome President Trump’s Dislike?"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Will US Crude Oil Hit $60?"
+    },
+    "tweet2": {
+      "content": "Apache: Analysts’ Recommendations and Outlook"
+    },
+    "tweet3": {
+      "content": "[$$] Ineos invests £1bn in UK in boost for oil industry"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "S&P Changed Outlook on Devon Energy to ‘Negative’"
+    },
+    "tweet2": {
+      "content": "Eni, HitecVision team up to bid for Conoco's North Sea assets - sources"
+    },
+    "tweet3": {
+      "content": "Which Oil-Weighted Stocks Might Rise with Oil?"
+    },
+    "tweet4": {
+      "content": "Eni, HitecVision team up to bid for Conoco's North Sea assets - sources"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Oil Prices: Why ‘March’ Could Be Important"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "Energy Sector Update for 03/04/2019: ENB, LNG, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet2": {
+      "content": "Energy Sector Update for 03/04/2019: ENB, LNG, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet3": {
+      "content": "Why Oil Bulls Might Corner the Bears"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "Tuesday Sector Laggards: Energy, Utilities"
+    },
+    "tweet2": {
+      "content": "Tuesday Sector Laggards: Energy, Utilities"
+    },
+    "tweet3": {
+      "content": "Equinor Concludes Drilling of 34/8-18 S Well in North Sea"
+    },
+    "tweet4": {
+      "content": "Equinor Concludes Drilling of 34/8-18 S Well in North Sea"
+    },
+    "tweet5": {
+      "content": "US Foreign Oil Supply Might Moderate"
+    },
+    "tweet6": {
+      "content": "Crude Oil: A Bear Trap for Traders?"
+    },
+    "tweet7": {
+      "content": "Equinor Concludes Drilling of 34/8-18 S Well in North Sea"
+    },
+    "tweet8": {
+      "content": "Australia's competition watchdog warns high gas prices threaten manufacturers"
+    },
+    "tweet9": {
+      "content": "Australia's competition watchdog warns high gas prices threaten manufacturers"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "Should You Invest in the Fidelity MSCI Energy Index ETF (FENY)?"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "Venezuela must pay Conoco over $8 billion - World Bank"
+    },
+    "tweet2": {
+      "content": "World Bank: Venezuela must pay Conoco more than $8 billion"
+    },
+    "tweet3": {
+      "content": "The Latest: IDB will have until March 15 to decide on Guaido"
+    },
+    "tweet4": {
+      "content": "The Latest: World Bank says Venezuela must pay Conoco $8bn"
+    },
+    "tweet5": {
+      "content": "International arbitration tribunal awards ConocoPhillips $8.7B from Venezuela"
+    },
+    "tweet6": {
+      "content": "[$$] Arbitrator Awards ConocoPhillips More Than $8 Billion In Venezuela Nationalization Case"
+    },
+    "tweet7": {
+      "content": "International Arbitration Tribunal Orders Venezuela to Pay ConocoPhillips $8.7 Billion for Unlawful Expropriation of Company’s Oil Investments"
+    },
+    "tweet8": {
+      "content": "Venezuela must pay Conoco more than $8 bln -World Bank"
+    },
+    "tweet9": {
+      "content": "Venezuela must pay more than $8bln in ConocoPhillips dispute -World Bank"
+    },
+    "tweet10": {
+      "content": "Norway fund to sell exploration, production firms, keep integrated energy stocks"
+    },
+    "tweet11": {
+      "content": "Energy Sector Update for 03/08/2019: GLOP, SAEX, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet12": {
+      "content": "Energy Sector Update for 03/08/2019: GLOP, SAEX, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet13": {
+      "content": "Why Oil Is Losing Its Shine"
+    },
+    "tweet14": {
+      "content": "Norway wealth fund says exclusions will affect 1.2 pct of its equity holdings"
+    },
+    "tweet15": {
+      "content": "U.S. Oil Supplies Jump but Gasoline, Distillate Stocks Fall"
+    },
+    "tweet16": {
+      "content": "Norway fund to sell exploration, production firms, keep integrated energy stocks"
+    },
+    "tweet17": {
+      "content": "UPDATE 2-Norway fund to sell exploration, production firms, keep integrated energy stocks"
+    },
+    "tweet18": {
+      "content": "[$$] Venezuela ordered to pay $8.7bn to Conoco over asset seizure"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "Stock Market News For Mar 11, 2019"
+    },
+    "tweet2": {
+      "content": "Stock Market News For Mar 11, 2019"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips to Get $8.7B Compensation From Venezuela"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips to Get $8.7B Compensation From Venezuela"
+    },
+    "tweet5": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, ConocoPhillips, Valero Energy, Marathon Petroleum and ProPetro"
+    },
+    "tweet6": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, ConocoPhillips, Valero Energy, Marathon Petroleum and ProPetro"
+    },
+    "tweet7": {
+      "content": "XLE, XOM, COMPANY_X, OXY: Large Inflows Detected at ETF"
+    },
+    "tweet8": {
+      "content": "XLE, XOM, COMPANY_X, OXY: Large Inflows Detected at ETF"
+    },
+    "tweet9": {
+      "content": "Stock Market News For Mar 11, 2019"
+    },
+    "tweet10": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, ConocoPhillips, Valero Energy, Marathon Petroleum and ProPetro"
+    },
+    "tweet11": {
+      "content": "ConocoPhillips to Get $8.7B Compensation From Venezuela"
+    },
+    "tweet12": {
+      "content": "Oil: Will Saudi Arabia’s Stimulus Work?"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "After Hours Most Active for Mar 12, 2019 :  CZR, SBUX, HPQ, ECA, AAPL, CMCSA, BAX, INTC, MSFT, COMPANY_X, VER, GE"
+    },
+    "tweet2": {
+      "content": "After Hours Most Active for Mar 12, 2019 :  CZR, SBUX, HPQ, ECA, AAPL, CMCSA, BAX, INTC, MSFT, COMPANY_X, VER, GE"
+    },
+    "tweet3": {
+      "content": "ExxonMobil & BP Eye Homecoming in Alaska LNG With AGDC Deal"
+    },
+    "tweet4": {
+      "content": "ExxonMobil & BP Eye Homecoming in Alaska LNG With AGDC Deal"
+    },
+    "tweet5": {
+      "content": "ExxonMobil & BP Eye Homecoming in Alaska LNG With AGDC Deal"
+    },
+    "tweet6": {
+      "content": "Oil & Gas Stock Roundup: Big Oil's Strategy Updates, Conoco's Venezuela Win & More"
+    },
+    "tweet7": {
+      "content": "See what the IHS Markit Score report has to say about ConocoPhillips."
+    },
+    "tweet8": {
+      "content": "Oil Bulls: US Global Oil Supply Is Set to Rise"
+    },
+    "tweet9": {
+      "content": "Rick Perry Sees Venezuelan Crude Crisis Worsening: CERAWeek Update"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, Chevron, ConocoPhillips, TOTAL and Canadian Natural Resources"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, Chevron, ConocoPhillips, TOTAL and Canadian Natural Resources"
+    },
+    "tweet3": {
+      "content": "Oil Is near the Biggest Move in 2019 amid Rising Risks"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, Chevron, ConocoPhillips, TOTAL and Canadian Natural Resources"
+    },
+    "tweet5": {
+      "content": "Venezuela Ordered to Pay ConocoPhillips $8.7B"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: ConocoPhillips, Dominion Energy and Schwab"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: ConocoPhillips, Dominion Energy and Schwab"
+    },
+    "tweet3": {
+      "content": "Should You Invest in the iShares U.S. Oil & Gas Exploration & Production ETF (IEO)?"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: ConocoPhillips, Dominion Energy and Schwab"
+    },
+    "tweet5": {
+      "content": "These Oil-Weighted Stocks Could Benefit from Rise in Oil"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "Energy Sector Update for 03/15/2019: E, KOS, CVX, XOM, COMPANY_X, SLB, OXY"
+    },
+    "tweet2": {
+      "content": "Energy Sector Update for 03/15/2019: E, KOS, CVX, XOM, COMPANY_X, SLB, OXY"
+    },
+    "tweet3": {
+      "content": "IEA Reveals a Big Surprise for Oil Bulls"
+    },
+    "tweet4": {
+      "content": "Top Research Reports for ConocoPhillips, Dominion Energy & Schwab"
+    },
+    "tweet5": {
+      "content": "Venezuela&apos;s Guaido to Appeal $8.75 Billion ConocoPhillips Award"
+    },
+    "tweet6": {
+      "content": "Guaido to Appeal $8.7B ConocoPhillips Award"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "4 Solid Reasons to Invest in ConocoPhillips Stock Right Now"
+    },
+    "tweet2": {
+      "content": "4 Solid Reasons to Invest in ConocoPhillips Stock Right Now"
+    },
+    "tweet3": {
+      "content": "4 Solid Reasons to Invest in ConocoPhillips Stock Right Now"
+    },
+    "tweet4": {
+      "content": "Will the Rise in Oil Continue?"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "UBS Raises Price Target for ConocoPhillips"
+    },
+    "tweet2": {
+      "content": "Oil Bulls: US Oil Exports Tend to Fall More"
+    },
+    "tweet3": {
+      "content": "Why Oil’s Rise Might Be Unstoppable"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "This Indicator Suggests All Is Not Well for Oil"
+    },
+    "tweet2": {
+      "content": "Noble Energy Has Outperformed Upstream Stocks in March"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "Qatar Leverages LNG In Geopolitical Stroke Of Genius"
+    },
+    "tweet2": {
+      "content": "Eni Discovers Oil and Gas Reserves in PL869 in North Sea"
+    },
+    "tweet3": {
+      "content": "Eni Discovers Oil and Gas Reserves in PL869 in North Sea"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips Stock’s Rally Isn’t Over Yet, Analyst Says"
+    },
+    "tweet5": {
+      "content": "Eni Discovers Oil and Gas Reserves in PL869 in North Sea"
+    },
+    "tweet6": {
+      "content": "Here are the biggest analyst calls of the day: Biogen, Apple, Micron, & more"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "Newly filed ballot questions seek to undo Colorado's looming oil and gas reforms"
+    },
+    "tweet2": {
+      "content": "U.S. Crude & Fuel Stockpiles Slump, Oil Exports Increase"
+    },
+    "tweet3": {
+      "content": "What’s Noble Energy’s Mean Target Price?"
+    },
+    "tweet4": {
+      "content": "What Could Impact Oil on March 22?"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Chevron, ConocoPhillips, Phillips 66, Marathon Petroleum and ProPetro"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Chevron, ConocoPhillips, Phillips 66, Marathon Petroleum and ProPetro"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Chevron, ConocoPhillips, Phillips 66, Marathon Petroleum and ProPetro"
+    },
+    "tweet4": {
+      "content": "Oil Bulls: Is a Recession Coming?"
+    },
+    "tweet5": {
+      "content": "Investor Expectations to Drive Momentum within CVS Health, KKR & Co., ConocoPhillips, MetLife, Rockwell Automation, and Norfolk Southern — Discovering Underlying Factors of Influence"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "4 Energy Stocks Ready to Rally"
+    },
+    "tweet2": {
+      "content": "4 Energy Stocks Ready to Rally"
+    },
+    "tweet3": {
+      "content": "4 Energy Stocks Ready to Rally"
+    },
+    "tweet4": {
+      "content": "Will US Oil Exports Continue to Rise?"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "Here is What Hedge Funds Think About ConocoPhillips (COMPANY_X)?"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "How Does Wall Street View Hess Corporation?"
+    },
+    "tweet2": {
+      "content": "EIA Reports Surprise U.S. Crude Build, Fuel Stockpiles Drop"
+    },
+    "tweet3": {
+      "content": "Oil Traders: Be Careful with Your Long Positions"
+    },
+    "tweet4": {
+      "content": "Should You Invest in the Fidelity MSCI Energy Index ETF (FENY)?"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "Best Stocks for 2019: Viper Energy Stock Has Fangs"
+    },
+    "tweet2": {
+      "content": "Tullow Oil Finds 2nd Well Site in Orinduik Offshore Guyana"
+    },
+    "tweet3": {
+      "content": "Tullow Oil Finds 2nd Well Site in Orinduik Offshore Guyana"
+    },
+    "tweet4": {
+      "content": "Here's Why Cabot (COG) is a Must-Add Stock to Your Portfolio"
+    },
+    "tweet5": {
+      "content": "Here's Why Cabot (COG) is a Must-Add Stock to Your Portfolio"
+    },
+    "tweet6": {
+      "content": "Tullow Oil Finds 2nd Well Site in Orinduik Offshore Guyana"
+    },
+    "tweet7": {
+      "content": "Energy Sector Update for 03/29/2019: GEVO, ENB, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet8": {
+      "content": "Energy Sector Update for 03/29/2019: GEVO, ENB, XOM, CVX, COMPANY_X, SLB, OXY"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "Conoco Is Said to Hold Talks With Chrysaor Over North Sea Fields"
+    },
+    "tweet2": {
+      "content": "4 Energy Stocks to Buy as Oil Prices Breach $60 to 2019 High"
+    },
+    "tweet3": {
+      "content": "4 Energy Stocks to Buy as Oil Prices Breach $60 to 2019 High"
+    },
+    "tweet4": {
+      "content": "4 Energy Stocks to Buy as Oil Prices Breach $60 to 2019 High"
+    },
+    "tweet5": {
+      "content": "ConocoPhillips lead director to retire"
+    },
+    "tweet6": {
+      "content": "Will TransCanada's Keystone Pipeline See the Light of Day?"
+    },
+    "tweet7": {
+      "content": "Will TransCanada's Keystone Pipeline See the Light of Day?"
+    },
+    "tweet8": {
+      "content": "These Big Names Were the Underperformers in the Upstream Space"
+    },
+    "tweet9": {
+      "content": "Will TransCanada's Keystone Pipeline See the Light of Day?"
+    },
+    "tweet10": {
+      "content": "12 Stocks to Rise on Debt Diet as Economy Slows"
+    },
+    "tweet11": {
+      "content": "Conoco Looks to Sell North Sea Fields"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "Tuesday Sector Laggards: Energy, Services"
+    },
+    "tweet2": {
+      "content": "Tuesday Sector Laggards: Energy, Services"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips May Divest Bulk of Its North Sea Oil Fields"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips May Divest Bulk of Its North Sea Oil Fields"
+    },
+    "tweet5": {
+      "content": "The Zacks Analyst Blog Highlights: Antero, Helmerich, ConocoPhillips and Devon"
+    },
+    "tweet6": {
+      "content": "The Zacks Analyst Blog Highlights: Antero, Helmerich, ConocoPhillips and Devon"
+    },
+    "tweet7": {
+      "content": "Why the US Foreign Oil Supply Could Fall Further"
+    },
+    "tweet8": {
+      "content": "Can ConocoPhillips (COMPANY_X) Keep the Earnings Surprise Streak Alive?"
+    },
+    "tweet9": {
+      "content": "Can ConocoPhillips (COMPANY_X) Keep the Earnings Surprise Streak Alive?"
+    },
+    "tweet10": {
+      "content": "ECA Stock Is Right Where It Needs to Be as Oil Prices Start Rising"
+    },
+    "tweet11": {
+      "content": "ECA Stock Is Right Where It Needs to Be as Oil Prices Start Rising"
+    },
+    "tweet12": {
+      "content": "ConocoPhillips May Divest Bulk of Its North Sea Oil Fields"
+    },
+    "tweet13": {
+      "content": "Can ConocoPhillips (COMPANY_X) Keep the Earnings Surprise Streak Alive?"
+    },
+    "tweet14": {
+      "content": "The Zacks Analyst Blog Highlights: Antero, Helmerich, ConocoPhillips and Devon"
+    },
+    "tweet15": {
+      "content": "Energy Sector Update for 04/02/2019: XOM, TOT, PBA, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet16": {
+      "content": "Energy Sector Update for 04/02/2019: XOM, TOT, PBA, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet17": {
+      "content": "Will US Crude Oil Stay above $60?"
+    },
+    "tweet18": {
+      "content": "ECA Stock Is Right Where It Needs to Be as Oil Prices Start Rising"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "SPDR Portfolio Large Cap ETF Experiences Big Outflow"
+    },
+    "tweet2": {
+      "content": "SPDR Portfolio Large Cap ETF Experiences Big Outflow"
+    }
+  },
+  "day65": {
+    "tweet1": {
+      "content": "Important Level for Oil and Upstream Energy Stocks on April 4"
+    }
+  },
+  "day66": {
+    "tweet1": {
+      "content": "US Crude Oil Prices Rose This Week"
+    },
+    "tweet2": {
+      "content": "Energy Sector Update for 04/05/2019: TOT, XOM, NGL, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet3": {
+      "content": "Energy Sector Update for 04/05/2019: TOT, XOM, NGL, CVX, COMPANY_X, SLB, OXY"
+    }
+  },
+  "day67": {
+    "tweet1": {
+      "content": "Energy Sector Update for 04/08/2019: PBR, CPE, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet2": {
+      "content": "Energy Sector Update for 04/08/2019: PBR, CPE, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet3": {
+      "content": "Crude Oil May Futures Hit Highest Closing Price since November"
+    },
+    "tweet4": {
+      "content": "KBR Adds BHGE to Development of Mid-Scale LNG Reference Design, Announces Broader Collaboration for LNG Solutions"
+    }
+  },
+  "day68": {
+    "tweet1": {
+      "content": "Think You Missed the Oil Price Rally? These Oil Stocks Haven’t Yet Rebounded"
+    },
+    "tweet2": {
+      "content": "UH gets $1M gift from large energy co. to fund new faculty positions"
+    },
+    "tweet3": {
+      "content": "KBR and Baker Hughes Team Up on Mid-Scale LNG Technology"
+    },
+    "tweet4": {
+      "content": "KBR and Baker Hughes Team Up on Mid-Scale LNG Technology"
+    },
+    "tweet5": {
+      "content": "ConocoPhillips to Hold First-Quarter Earnings Conference Call on Tuesday, April 30"
+    },
+    "tweet6": {
+      "content": "KBR and Baker Hughes Team Up on Mid-Scale LNG Technology"
+    },
+    "tweet7": {
+      "content": "New Strong Buy Stocks for April 9th"
+    },
+    "tweet8": {
+      "content": "New Strong Buy Stocks for April 9th"
+    },
+    "tweet9": {
+      "content": "US Crude Hits 5-Month High on Libyan Conflict: 5 Picks"
+    },
+    "tweet10": {
+      "content": "Why US Oil Exports Might Slow Down"
+    },
+    "tweet11": {
+      "content": "New Strong Buy Stocks for April 9th"
+    }
+  },
+  "day69": {
+    "tweet1": {
+      "content": "If you’re searching for higher returns, oil has doubled the gain of stocks"
+    },
+    "tweet2": {
+      "content": "Chevron (CVX) Near 52-Week High, Can It Soar Higher?"
+    },
+    "tweet3": {
+      "content": "Chevron (CVX) Near 52-Week High, Can It Soar Higher?"
+    },
+    "tweet4": {
+      "content": "Chevron (CVX) Near 52-Week High, Can It Soar Higher?"
+    },
+    "tweet5": {
+      "content": "The Zacks Analyst Blog Highlights: Cabot Oil & Gas, Murphy USA, ConocoPhillips, Antero Resources and Devon Energy"
+    },
+    "tweet6": {
+      "content": "The Zacks Analyst Blog Highlights: Cabot Oil & Gas, Murphy USA, ConocoPhillips, Antero Resources and Devon Energy"
+    },
+    "tweet7": {
+      "content": "KBR Arm Wins Contract for BP's Greater Tortue Ahmeyim Project"
+    },
+    "tweet8": {
+      "content": "KBR Arm Wins Contract for BP's Greater Tortue Ahmeyim Project"
+    },
+    "tweet9": {
+      "content": "The Zacks Analyst Blog Highlights: Cabot Oil & Gas, Murphy USA, ConocoPhillips, Antero Resources and Devon Energy"
+    },
+    "tweet10": {
+      "content": "Energy Sector Update for 04/10/2019: OPTT, AREX, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet11": {
+      "content": "Energy Sector Update for 04/10/2019: OPTT, AREX, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet12": {
+      "content": "Think You Missed the Oil Price Rally? These Oil Stocks Haven’t Yet Rebounded"
+    },
+    "tweet13": {
+      "content": "Think You Missed the Oil Price Rally? These Oil Stocks Haven’t Yet Rebounded"
+    }
+  },
+  "day70": {
+    "tweet1": {
+      "content": "6 Poorly Performing Stocks in Gurus' Portfolios"
+    },
+    "tweet2": {
+      "content": "Pump Prices Climb to 6-Month High on Tightening Supplies"
+    },
+    "tweet3": {
+      "content": "BP latest oil major to exit China's shale gas after poor drilling results"
+    }
+  },
+  "day71": {
+    "tweet1": {
+      "content": "Chevron's Anadarko deal to pressure U.S. shale producers to explore sales"
+    },
+    "tweet2": {
+      "content": "After Hours Most Active for Apr 12, 2019 :  AVP, CAG, GE, T, COMPANY_X, LYB"
+    },
+    "tweet3": {
+      "content": "After Hours Most Active for Apr 12, 2019 :  AVP, CAG, GE, T, COMPANY_X, LYB"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, ConocoPhillips, Valero Energy, Marathon Petroleum and Royal Dutch Shell"
+    },
+    "tweet5": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, ConocoPhillips, Valero Energy, Marathon Petroleum and Royal Dutch Shell"
+    },
+    "tweet6": {
+      "content": "Oil & Gas US Integrated Industry Outlook: Prospects Bright"
+    },
+    "tweet7": {
+      "content": "Oil & Gas US Integrated Industry Outlook: Prospects Bright"
+    },
+    "tweet8": {
+      "content": "3 Big Stock Charts for Friday: ConocoPhillips, Caterpillar and Morgan Stanley"
+    },
+    "tweet9": {
+      "content": "3 Big Stock Charts for Friday: ConocoPhillips, Caterpillar and Morgan Stanley"
+    },
+    "tweet10": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, ConocoPhillips, Valero Energy, Marathon Petroleum and Royal Dutch Shell"
+    },
+    "tweet11": {
+      "content": "Oil & Gas US Integrated Industry Outlook: Prospects Bright"
+    },
+    "tweet12": {
+      "content": "US Crude Oil Is Heading for a New 2019 High"
+    },
+    "tweet13": {
+      "content": "3 Big Stock Charts for Friday: ConocoPhillips, Caterpillar and Morgan Stanley"
+    }
+  },
+  "day72": {
+    "tweet1": {
+      "content": "Petrobras' (PBR) Shares Dip 9% on Fears of Interventionism"
+    },
+    "tweet2": {
+      "content": "Petrobras' (PBR) Shares Dip 9% on Fears of Interventionism"
+    },
+    "tweet3": {
+      "content": "Petrobras' (PBR) Shares Dip 9% on Fears of Interventionism"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, ConocoPhillips, Phillips 66, Marathon and Royal Dutch"
+    },
+    "tweet5": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, ConocoPhillips, Phillips 66, Marathon and Royal Dutch"
+    },
+    "tweet6": {
+      "content": "XLE, XOM, CVX, COMPANY_X: ETF Inflow Alert"
+    },
+    "tweet7": {
+      "content": "XLE, XOM, CVX, COMPANY_X: ETF Inflow Alert"
+    },
+    "tweet8": {
+      "content": "Can Kinder Morgan (KMI) Beat Estimates This Earnings Season?"
+    },
+    "tweet9": {
+      "content": "Can Kinder Morgan (KMI) Beat Estimates This Earnings Season?"
+    },
+    "tweet10": {
+      "content": "ConocoPhillips to Hold First-Quarter Earnings Conference Call on Tuesday, April 30"
+    },
+    "tweet11": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, ConocoPhillips, Phillips 66, Marathon and Royal Dutch"
+    },
+    "tweet12": {
+      "content": "Market Likely to be on Northward Journey From Here: 5 Picks"
+    },
+    "tweet13": {
+      "content": "Can Kinder Morgan (KMI) Beat Estimates This Earnings Season?"
+    },
+    "tweet14": {
+      "content": "Origin Energy Finance Limited -- Moody's upgrades Origin Energy and Origin Energy Finance to Baa2; outlook stable"
+    }
+  },
+  "day73": {
+    "tweet1": {
+      "content": "Venezuela's Guaido to seek to annul $8.7 billion Conoco award"
+    },
+    "tweet2": {
+      "content": "Venezuela's Guaido to seek to annul $8.7 billion Conoco award"
+    },
+    "tweet3": {
+      "content": "Venezuela's Guaido to seek to annul $8.7 bln Conoco award"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips Exits Greater Sunrise Fields, Sells Stake"
+    },
+    "tweet5": {
+      "content": "ConocoPhillips Exits Greater Sunrise Fields, Sells Stake"
+    },
+    "tweet6": {
+      "content": "Can Schlumberger (SLB) Beat Estimates This Earnings Season?"
+    },
+    "tweet7": {
+      "content": "Can Schlumberger (SLB) Beat Estimates This Earnings Season?"
+    },
+    "tweet8": {
+      "content": "ConocoPhillips Exits Greater Sunrise Fields, Sells Stake"
+    },
+    "tweet9": {
+      "content": "Energy Sector Update for 04/16/2019: BRS, TS, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet10": {
+      "content": "Energy Sector Update for 04/16/2019: BRS, TS, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet11": {
+      "content": "Can Schlumberger (SLB) Beat Estimates This Earnings Season?"
+    },
+    "tweet12": {
+      "content": "Has Oil Lost Its Uptrend?"
+    },
+    "tweet13": {
+      "content": "Have US Oil Exports Bottomed?"
+    },
+    "tweet14": {
+      "content": "ConocoPhillips Closes Sale of Its Interest in Greater Sunrise Fields"
+    }
+  },
+  "day74": {
+    "tweet1": {
+      "content": "ConocoPhillips (COMPANY_X) Stock Moves -0.09%: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Losing Energy: Sector Could See Earnings Fall In Q1 In Challenging Environment"
+    },
+    "tweet3": {
+      "content": "Can Range Resources (RRC) Deliver a Beat in Q1 Earnings?"
+    },
+    "tweet4": {
+      "content": "Can Range Resources (RRC) Deliver a Beat in Q1 Earnings?"
+    },
+    "tweet5": {
+      "content": "Factors to Know Ahead of Halliburton's (HAL) Q1 Earnings"
+    },
+    "tweet6": {
+      "content": "Factors to Know Ahead of Halliburton's (HAL) Q1 Earnings"
+    },
+    "tweet7": {
+      "content": "Crude rises on supply drop, surprise GDP boost in China"
+    },
+    "tweet8": {
+      "content": "Chrysaor nears deal to buy Conoco's UK North Sea oil, gas assets - sources"
+    },
+    "tweet9": {
+      "content": "Can Range Resources (RRC) Deliver a Beat in Q1 Earnings?"
+    },
+    "tweet10": {
+      "content": "Energy Sector Update for 04/17/2019: EQNR, BP, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet11": {
+      "content": "Energy Sector Update for 04/17/2019: EQNR, BP, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet12": {
+      "content": "ConocoPhillips: Analysts’ Recommendations and Target Price"
+    },
+    "tweet13": {
+      "content": "Factors to Know Ahead of Halliburton's (HAL) Q1 Earnings"
+    },
+    "tweet14": {
+      "content": "What to Expect from ConocoPhillips’ Q1 Earnings"
+    }
+  },
+  "day75": {
+    "tweet1": {
+      "content": "This Oil Stock Gives Investors 1 More Great Reason to Buy"
+    },
+    "tweet2": {
+      "content": "This Oil Stock Gives Investors 1 More Great Reason to Buy"
+    },
+    "tweet3": {
+      "content": "This Oil Stock Gives Investors 1 More Great Reason to Buy"
+    },
+    "tweet4": {
+      "content": "Energy Sector Update for 04/18/2019: TRP,TRP.TO,EXP,COMPANY_X,SLB"
+    },
+    "tweet5": {
+      "content": "Energy Sector Update for 04/18/2019: TRP,TRP.TO,EXP,COMPANY_X,SLB"
+    },
+    "tweet6": {
+      "content": "Energy Sector Update for 04/18/2019: EXP,COMPANY_X,SLB"
+    },
+    "tweet7": {
+      "content": "Energy Sector Update for 04/18/2019: EXP,COMPANY_X,SLB"
+    },
+    "tweet8": {
+      "content": "Conoco sells UK North Sea oil assets to Chrysaor for $2.7 billion"
+    },
+    "tweet9": {
+      "content": "EIA Reports 1st U.S. Crude Inventory Decline in a Month"
+    },
+    "tweet10": {
+      "content": "ConocoPhillips exits UK oil and gas production in huge $2.7 billion North Sea sale"
+    },
+    "tweet11": {
+      "content": "ConocoPhillips to sell U.K. subsidiaries for nearly $2.7B"
+    },
+    "tweet12": {
+      "content": "Will Oil Prices Remain Range-Bound?"
+    },
+    "tweet13": {
+      "content": "ConocoPhillips to sell 2 U.K. E&P subsidiaries for $2.7 billion"
+    },
+    "tweet14": {
+      "content": "ConocoPhillips Announces Agreement to Sell United Kingdom E&P Subsidiaries"
+    },
+    "tweet15": {
+      "content": "Chrysaor strikes $2.7bn deal for ConocoPhillips’ North Sea assets"
+    },
+    "tweet16": {
+      "content": "Chrysaor strikes deal for ConocoPhillips North Sea assets"
+    },
+    "tweet17": {
+      "content": "ConocoPhillips (COMPANY_X) Stock Moves -0.09%: What You Should Know"
+    },
+    "tweet18": {
+      "content": "ConocoPhillips (COMPANY_X) Stock Moves -0.09%: What You Should Know"
+    },
+    "tweet19": {
+      "content": "ConocoPhillips to Sell UK Assets for $2.675B to Chrysaor"
+    }
+  },
+  "day76": {
+    "tweet1": {
+      "content": "Why Apache’s Earnings May Halve in Q1 2019"
+    },
+    "tweet2": {
+      "content": "Key Factors to Impact Helmerich & Payne's (HP) Q2 Earnings"
+    },
+    "tweet3": {
+      "content": "Key Factors to Impact Helmerich & Payne's (HP) Q2 Earnings"
+    },
+    "tweet4": {
+      "content": "What's in the Cards for Valero Energy (VLO) in Q1 Earnings?"
+    },
+    "tweet5": {
+      "content": "What's in the Cards for Valero Energy (VLO) in Q1 Earnings?"
+    },
+    "tweet6": {
+      "content": "What's in Store for National Oilwell's (NOV) Q1 Earnings?"
+    },
+    "tweet7": {
+      "content": "What's in Store for National Oilwell's (NOV) Q1 Earnings?"
+    },
+    "tweet8": {
+      "content": "Key Factors to Impact Helmerich & Payne's (HP) Q2 Earnings"
+    },
+    "tweet9": {
+      "content": "What's in Store for National Oilwell's (NOV) Q1 Earnings?"
+    },
+    "tweet10": {
+      "content": "What's in the Cards for Valero Energy (VLO) in Q1 Earnings?"
+    },
+    "tweet11": {
+      "content": "Is a Beat Likely for TechnipFMC (FTI) This Earnings Season?"
+    },
+    "tweet12": {
+      "content": "ConocoPhillips Agrees to Divest North Sea Resources for $2.7B"
+    }
+  },
+  "day77": {
+    "tweet1": {
+      "content": "Can Juniper (JNPR) Keep Earnings Beat Streak Alive in Q1?"
+    },
+    "tweet2": {
+      "content": "Sony (SNE) to Report Q4 Earnings: What's in the Offing?"
+    },
+    "tweet3": {
+      "content": "Sony (SNE) to Report Q4 Earnings: What's in the Offing?"
+    },
+    "tweet4": {
+      "content": "Sony (SNE) to Report Q4 Earnings: What's in the Offing?"
+    },
+    "tweet5": {
+      "content": "Earnings Preview: ConocoPhillips (COMPANY_X) Q1 Earnings Expected to Decline"
+    },
+    "tweet6": {
+      "content": "Earnings Preview: ConocoPhillips (COMPANY_X) Q1 Earnings Expected to Decline"
+    },
+    "tweet7": {
+      "content": "Will Upstream Segment Boost Chevron's (CVX) Q1 Earnings?"
+    },
+    "tweet8": {
+      "content": "Will Upstream Segment Boost Chevron's (CVX) Q1 Earnings?"
+    },
+    "tweet9": {
+      "content": "Shell to Vend SASREF Refinery for $631M to Boost Portfolio"
+    },
+    "tweet10": {
+      "content": "Hess (HES) to Report Q1 Earnings: What's in the Offing?"
+    },
+    "tweet11": {
+      "content": "Hess (HES) to Report Q1 Earnings: What's in the Offing?"
+    },
+    "tweet12": {
+      "content": "3 Oil Company Earnings You Won't Want to Miss This Quarter"
+    },
+    "tweet13": {
+      "content": "3 Oil Company Earnings You Won't Want to Miss This Quarter"
+    },
+    "tweet14": {
+      "content": "3 Oil Company Earnings You Won&apos;t Want to Miss This Quarter"
+    },
+    "tweet15": {
+      "content": "Oil Hits 6-Month Peak on End to Iran Sanction Waivers: 5 Picks"
+    },
+    "tweet16": {
+      "content": "Oil Hits 6-Month Peak on End to Iran Sanction Waivers: 5 Picks"
+    },
+    "tweet17": {
+      "content": "Oil & Gas Stock Roundup: Schlumberger & Halliburton's Q1, ConocoPhillips' Asset Sale"
+    },
+    "tweet18": {
+      "content": "Oil & Gas Stock Roundup: Schlumberger & Halliburton's Q1, ConocoPhillips' Asset Sale"
+    },
+    "tweet19": {
+      "content": "Hess (HES) to Report Q1 Earnings: What's in the Offing?"
+    },
+    "tweet20": {
+      "content": "Shell to Vend SASREF Refinery for $631M to Boost Portfolio"
+    },
+    "tweet21": {
+      "content": "Will Upstream Segment Boost Chevron's (CVX) Q1 Earnings?"
+    },
+    "tweet22": {
+      "content": "Earnings Preview: ConocoPhillips (COMPANY_X) Q1 Earnings Expected to Decline"
+    },
+    "tweet23": {
+      "content": "Energy Sector Update for 04/23/2019: NOG, SRCI, FTI, COMPANY_X, XOM, CVX, SLB, OXY"
+    },
+    "tweet24": {
+      "content": "Energy Sector Update for 04/23/2019: NOG, SRCI, FTI, COMPANY_X, XOM, CVX, SLB, OXY"
+    },
+    "tweet25": {
+      "content": "Oil & Gas Stock Roundup: Schlumberger & Halliburton's Q1, ConocoPhillips' Asset Sale"
+    },
+    "tweet26": {
+      "content": "Oil Hits 6-Month Peak on End to Iran Sanction Waivers: 5 Picks"
+    },
+    "tweet27": {
+      "content": "US Crude Oil Is Heading for a New High"
+    },
+    "tweet28": {
+      "content": "Energy Stocks Reacted to the Brent-WTI Spread"
+    },
+    "tweet29": {
+      "content": "TechnipFMC wins major contract for ConocoPhillips TOR II development"
+    }
+  },
+  "day78": {
+    "tweet1": {
+      "content": "ConocoPhillips (COMPANY_X) to Report Q1 Earnings: What Lies Ahead?"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips (COMPANY_X) to Report Q1 Earnings: What Lies Ahead?"
+    },
+    "tweet3": {
+      "content": "Notable ETF Outflow Detected - XLE, CVX, COMPANY_X, SLB"
+    },
+    "tweet4": {
+      "content": "Notable ETF Outflow Detected - XLE, CVX, COMPANY_X, SLB"
+    },
+    "tweet5": {
+      "content": "ConocoPhillips (COMPANY_X) Awards EPCI Contract to TechnipFMC"
+    },
+    "tweet6": {
+      "content": "ConocoPhillips (COMPANY_X) Awards EPCI Contract to TechnipFMC"
+    },
+    "tweet7": {
+      "content": "Why Dead Oil Stocks Are Rising From the Grave"
+    },
+    "tweet8": {
+      "content": "ConocoPhillips (COMPANY_X) to Report Q1 Earnings: What Lies Ahead?"
+    },
+    "tweet9": {
+      "content": "ConocoPhillips (COMPANY_X) Awards EPCI Contract to TechnipFMC"
+    },
+    "tweet10": {
+      "content": "Can Juniper (JNPR) Keep Earnings Beat Streak Alive in Q1?"
+    },
+    "tweet11": {
+      "content": "Can Juniper (JNPR) Keep Earnings Beat Streak Alive in Q1?"
+    }
+  },
+  "day79": {
+    "tweet1": {
+      "content": "A Look at Energy Earnings"
+    },
+    "tweet2": {
+      "content": "Oil Majors Eye New Acquisition Targets In The Permian"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet4": {
+      "content": "Occidental Petroleum Fires Back at Chevron, Starting a Bidding War for Anadarko"
+    },
+    "tweet5": {
+      "content": "Occidental Petroleum Fires Back at Chevron, Starting a Bidding War for Anadarko"
+    },
+    "tweet6": {
+      "content": "Occidental Petroleum Fires Back at Chevron, Starting a Bidding War for Anadarko"
+    },
+    "tweet7": {
+      "content": "Occidental Petroleum: What to Expect from Its Q1 Earnings"
+    },
+    "tweet8": {
+      "content": "Is Oil Outperforming Oil-Weighted Stocks?"
+    },
+    "tweet9": {
+      "content": "Anadarko Deal Would Put Occidental Next to Conoco"
+    }
+  },
+  "day80": {
+    "tweet1": {
+      "content": "3 Big Stock Charts for Friday: AbbVie, ConocoPhillips and MGM Resorts"
+    },
+    "tweet2": {
+      "content": "3 Big Stock Charts for Friday: AbbVie, ConocoPhillips and MGM Resorts"
+    },
+    "tweet3": {
+      "content": "Energy Sector Update for 04/26/2019: YUMA, XOM, APC, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet4": {
+      "content": "Energy Sector Update for 04/26/2019: YUMA, XOM, APC, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet5": {
+      "content": "Will Oil End Lower This Week?"
+    },
+    "tweet6": {
+      "content": "3 Big Stock Charts for Friday: AbbVie, ConocoPhillips and MGM Resorts"
+    },
+    "tweet7": {
+      "content": "ConocoPhillips (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet8": {
+      "content": "ConocoPhillips (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    }
+  },
+  "day81": {
+    "tweet1": {
+      "content": "Notable Monday Option Activity: REV, EXTR, COMPANY_X"
+    },
+    "tweet2": {
+      "content": "Notable Monday Option Activity: REV, EXTR, COMPANY_X"
+    },
+    "tweet3": {
+      "content": "Pre-Market Earnings Report for April 30, 2019 :  MA, PFE, MRK, MCD, LLY, CHTR, GE, COMPANY_X, GM, SPG, ECL, HCA"
+    },
+    "tweet4": {
+      "content": "Pre-Market Earnings Report for April 30, 2019 :  MA, PFE, MRK, MCD, LLY, CHTR, GE, COMPANY_X, GM, SPG, ECL, HCA"
+    },
+    "tweet5": {
+      "content": "See Which Of The Latest 13F Filers Holds ConocoPhillips"
+    },
+    "tweet6": {
+      "content": "See Which Of The Latest 13F Filers Holds ConocoPhillips"
+    },
+    "tweet7": {
+      "content": "Will ConocoPhillips Maintain Its Momentum in Q1?"
+    },
+    "tweet8": {
+      "content": "Will ConocoPhillips Maintain Its Momentum in Q1?"
+    },
+    "tweet9": {
+      "content": "Will ConocoPhillips Maintain Its Momentum in Q1?"
+    },
+    "tweet10": {
+      "content": "The Fastest-Growing U.S. City Is Scrambling to Survive the Shale Boom"
+    },
+    "tweet11": {
+      "content": "Environmental activists climb aboard Equinor drilling rig in Arctic"
+    }
+  },
+  "day82": {
+    "tweet1": {
+      "content": "ConocoPhillips Co (COMPANY_X) Q1 2019 Earnings Call Transcript"
+    },
+    "tweet2": {
+      "content": "S&P 500 ekes out third straight record close; Nasdaq retreats after Google revenue miss"
+    },
+    "tweet3": {
+      "content": "OPEC’s Role in World Oil Production"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips' (COMPANY_X) Q1 Earnings Beat on Higher Oil Output"
+    },
+    "tweet5": {
+      "content": "ConocoPhillips' (COMPANY_X) Q1 Earnings Beat on Higher Oil Output"
+    },
+    "tweet6": {
+      "content": "ConocoPhillips Crushed It in the First Quarter"
+    },
+    "tweet7": {
+      "content": "ConocoPhillips Crushed It in the First Quarter"
+    },
+    "tweet8": {
+      "content": "ConocoPhillips' (COMPANY_X) Q1 Earnings Beat on Higher Oil Output"
+    },
+    "tweet9": {
+      "content": "ConocoPhillips Crushed It in the First Quarter"
+    },
+    "tweet10": {
+      "content": "ConocoPhillips Gushes After Earnings Beat"
+    },
+    "tweet11": {
+      "content": "ConocoPhillips (COMPANY_X) Beats Q1 Earnings & Revenues Estimates"
+    },
+    "tweet12": {
+      "content": "ConocoPhillips (COMPANY_X) Beats Q1 Earnings & Revenues Estimates"
+    },
+    "tweet13": {
+      "content": "Headline Edge: Is The Surge In Oil Price Revving Up or Running On Empty?"
+    },
+    "tweet14": {
+      "content": "Stocks slide as Google revenue miss weighs on tech shares"
+    },
+    "tweet15": {
+      "content": "ConocoPhillips Earnings Beat, Revenue Misses In Q1"
+    },
+    "tweet16": {
+      "content": "ConocoPhillips profit beats as U.S. shale bet pays off"
+    },
+    "tweet17": {
+      "content": "GE’s free-cash improvement might not be all that, Apple still has a China problem"
+    },
+    "tweet18": {
+      "content": "Energy Sector Update for 04/30/2019: GE, MDR, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet19": {
+      "content": "Energy Sector Update for 04/30/2019: GE, MDR, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet20": {
+      "content": "ConocoPhillips (COMPANY_X) Beats Q1 Earnings & Revenues Estimates"
+    },
+    "tweet21": {
+      "content": "Canadian recovery helps ConocoPhillips beat expectations in Q1"
+    },
+    "tweet22": {
+      "content": "Stocks making the biggest moves premarket: Alphabet, General Electric, MGM Resorts & more"
+    },
+    "tweet23": {
+      "content": "Stocks making the biggest moves premarket: Alphabet, General Electric, MGM Resorts & more"
+    },
+    "tweet24": {
+      "content": "Crude Oil in April: Best Month since Late 2016"
+    },
+    "tweet25": {
+      "content": "Stock futures mixed after another round of records"
+    },
+    "tweet26": {
+      "content": "ConocoPhillips profit rises marginally due to higher expenses"
+    },
+    "tweet27": {
+      "content": "ConocoPhillips shares up 1.4% premarket after profit beat"
+    },
+    "tweet28": {
+      "content": "ConocoPhillips: 1Q Earnings Snapshot"
+    },
+    "tweet29": {
+      "content": "ConocoPhillips Reports First-Quarter 2019 Results; Operating Plan Continues to Deliver Strong Free Cash Flow and Returns to Shareholders"
+    },
+    "tweet30": {
+      "content": "ConocoPhillips Raises Profit and Production in 1Q"
+    }
+  },
+  "day83": {
+    "tweet1": {
+      "content": "Daily Dividend Report: AAPL, PEP, UGI, COMPANY_X, SYK, SCHW"
+    },
+    "tweet2": {
+      "content": "Daily Dividend Report: AAPL, PEP, UGI, COMPANY_X, SYK, SCHW"
+    },
+    "tweet3": {
+      "content": "Is ConocoPhillips Stock in the M&A Hot Seat?"
+    },
+    "tweet4": {
+      "content": "Is ConocoPhillips Stock in the M&A Hot Seat?"
+    },
+    "tweet5": {
+      "content": "ConocoPhillips CEO talks plans for spending, M&A"
+    },
+    "tweet6": {
+      "content": "ConocoPhillips Stock Is Underpriced, Analyst Says"
+    },
+    "tweet7": {
+      "content": "Is ConocoPhillips Stock in the M&A Hot Seat?"
+    },
+    "tweet8": {
+      "content": "ConocoPhillips Announces Quarterly Dividend"
+    },
+    "tweet9": {
+      "content": "Here are the biggest analyst calls of the day: Take-Two, Corning, NXP, Disney, McDonald's & more"
+    },
+    "tweet10": {
+      "content": "Here are the biggest analyst calls of the day: Take-Two, Corning, NXP, Disney, McDonald&apos;s & more"
+    },
+    "tweet11": {
+      "content": "ConocoPhillips Co (COMPANY_X) Q1 2019 Earnings Call Transcript"
+    },
+    "tweet12": {
+      "content": "ConocoPhillips Co (COMPANY_X) Q1 2019 Earnings Call Transcript"
+    }
+  },
+  "day84": {
+    "tweet1": {
+      "content": "Edited Transcript of COMPANY_X earnings conference call or presentation 30-Apr-19 5:00pm GMT"
+    },
+    "tweet2": {
+      "content": "Crude under pressure as inventories rise"
+    },
+    "tweet3": {
+      "content": "3 Big Stock Charts for Thursday: Cisco Systems, ConocoPhillips and Brighthouse Financial"
+    },
+    "tweet4": {
+      "content": "3 Big Stock Charts for Thursday: Cisco Systems, ConocoPhillips and Brighthouse Financial"
+    },
+    "tweet5": {
+      "content": "Noteworthy ETF Inflows: XLE, XOM, CVX, COMPANY_X"
+    },
+    "tweet6": {
+      "content": "Noteworthy ETF Inflows: XLE, XOM, CVX, COMPANY_X"
+    },
+    "tweet7": {
+      "content": "3 Big Stock Charts for Thursday: Cisco Systems, ConocoPhillips and Brighthouse Financial"
+    }
+  },
+  "day85": {
+    "tweet1": {
+      "content": "7 Energy Stocks to Buy to Light Up Your Portfolio"
+    },
+    "tweet2": {
+      "content": "7 Energy Stocks to Buy to Light Up Your Portfolio"
+    },
+    "tweet3": {
+      "content": "7 Energy Stocks to Buy to Light Up Your Portfolio"
+    },
+    "tweet4": {
+      "content": "Top Ranked Growth Stocks to Buy for May 3rd"
+    },
+    "tweet5": {
+      "content": "Top Ranked Growth Stocks to Buy for May 3rd"
+    },
+    "tweet6": {
+      "content": "Should You Invest in the iShares U.S. Oil & Gas Exploration & Production ETF (IEO)?"
+    },
+    "tweet7": {
+      "content": "Those Socially Responsible ESG Ratings Don’t Mean as Much as You Might Think"
+    },
+    "tweet8": {
+      "content": "Top Ranked Growth Stocks to Buy for May 3rd"
+    },
+    "tweet9": {
+      "content": "A Dividend-Growth Fund to Ride Out Market Downturns"
+    }
+  },
+  "day86": {
+    "tweet1": {
+      "content": "ConocoPhillips (COMPANY_X) Shares Cross 2% Yield Mark"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips (COMPANY_X) Shares Cross 2% Yield Mark"
+    },
+    "tweet3": {
+      "content": "Recent Dip Poses Opportunity To Load-Up On Exxon Stock For The Long-Term"
+    },
+    "tweet4": {
+      "content": "Recent Dip Poses Opportunity To Load-Up On Exxon Stock For The Long-Term"
+    },
+    "tweet5": {
+      "content": "Buy ConocoPhillips Stock Following Its Beat on Earnings, Revenue"
+    },
+    "tweet6": {
+      "content": "Buy ConocoPhillips Stock Following Its Beat on Earnings, Revenue"
+    },
+    "tweet7": {
+      "content": "Buy ConocoPhillips Stock Following Its Beat on Earnings, Revenue"
+    },
+    "tweet8": {
+      "content": "Recent Dip Poses Opportunity To Load-Up On Exxon Stock For The Long-Term"
+    }
+  },
+  "day87": {
+    "tweet1": {
+      "content": "Top Ranked Growth Stocks to Buy for May 7th"
+    },
+    "tweet2": {
+      "content": "Top Ranked Growth Stocks to Buy for May 7th"
+    },
+    "tweet3": {
+      "content": "Ken Fisher Buys Adobe, ConocoPhillips"
+    },
+    "tweet4": {
+      "content": "Shares of COMPANY_X Now Oversold"
+    },
+    "tweet5": {
+      "content": "Shares of COMPANY_X Now Oversold"
+    },
+    "tweet6": {
+      "content": "Top Ranked Growth Stocks to Buy for May 7th"
+    },
+    "tweet7": {
+      "content": "Oil & Gas Stock Roundup: Shell, BP & ConocoPhillips Post Q1 Earnings Beat"
+    },
+    "tweet8": {
+      "content": "Occidental's (OXY) Q1 Earnings & Revenues Beat Estimates"
+    },
+    "tweet9": {
+      "content": "Occidental's (OXY) Q1 Earnings & Revenues Beat Estimates"
+    },
+    "tweet10": {
+      "content": "Occidental's (OXY) Q1 Earnings & Revenues Beat Estimates"
+    },
+    "tweet11": {
+      "content": "See what the IHS Markit Score report has to say about ConocoPhillips."
+    },
+    "tweet12": {
+      "content": "Validea David Dreman Strategy Daily Upgrade Report - 5/7/2019"
+    },
+    "tweet13": {
+      "content": "Validea David Dreman Strategy Daily Upgrade Report - 5/7/2019"
+    }
+  },
+  "day88": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day89": {
+    "tweet1": {
+      "content": "Why the United States Imports Oil"
+    },
+    "tweet2": {
+      "content": "Is ConocoPhillips Entering the ‘Best Buy’ Zone?"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips (COMPANY_X) Ex-Dividend Date Scheduled for May 10, 2019"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips (COMPANY_X) Ex-Dividend Date Scheduled for May 10, 2019"
+    },
+    "tweet5": {
+      "content": "Venezuela is paying its bondholders*"
+    }
+  },
+  "day90": {
+    "tweet1": {
+      "content": "iShares Russell 1000 Value ETF Experiences Big Outflow"
+    },
+    "tweet2": {
+      "content": "iShares Russell 1000 Value ETF Experiences Big Outflow"
+    },
+    "tweet3": {
+      "content": "LME appoints first chairwoman in its history"
+    }
+  },
+  "day91": {
+    "tweet1": {
+      "content": "PetroChina (PTR) Q1 Earnings Edge Up on Upstream Strength"
+    },
+    "tweet2": {
+      "content": "PetroChina (PTR) Q1 Earnings Edge Up on Upstream Strength"
+    },
+    "tweet3": {
+      "content": "PetroChina (PTR) Q1 Earnings Edge Up on Upstream Strength"
+    }
+  },
+  "day92": {
+    "tweet1": {
+      "content": "ConocoPhillips will not chase expensive Permian deals, CEO says"
+    },
+    "tweet2": {
+      "content": "Oil Fell on Global Growth Concerns as US-China Trade War Escalates"
+    }
+  },
+  "day93": {
+    "tweet1": {
+      "content": "U.S. orders suspension of flights between the U.S. and Venezuela"
+    },
+    "tweet2": {
+      "content": "Top Analyst Reports for Adobe, ConocoPhillips & Exelon"
+    },
+    "tweet3": {
+      "content": "Top Analyst Reports for Adobe, ConocoPhillips & Exelon"
+    },
+    "tweet4": {
+      "content": "Top Analyst Reports for Adobe, ConocoPhillips & Exelon"
+    },
+    "tweet5": {
+      "content": "How ConocoPhillips (COMPANY_X) Stock Stands Out in a Strong Industry"
+    },
+    "tweet6": {
+      "content": "How ConocoPhillips (COMPANY_X) Stock Stands Out in a Strong Industry"
+    },
+    "tweet7": {
+      "content": "How ConocoPhillips (COMPANY_X) Stock Stands Out in a Strong Industry"
+    },
+    "tweet8": {
+      "content": "ProPetro (PUMP) Q1 Earnings Top, to Buy Electric Frack Units"
+    },
+    "tweet9": {
+      "content": "ProPetro (PUMP) Q1 Earnings Top, to Buy Electric Frack Units"
+    },
+    "tweet10": {
+      "content": "Energy Sector Update for 05/15/2019: ROAN, EPSN, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet11": {
+      "content": "Energy Sector Update for 05/15/2019: ROAN, EPSN, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet12": {
+      "content": "Should You Invest in the Fidelity MSCI Energy Index ETF (FENY)?"
+    }
+  },
+  "day94": {
+    "tweet1": {
+      "content": "Are ConocoPhillips’s (NYSE:COMPANY_X) High Returns Really That Great?"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Adobe, ConocoPhillips, Exelon, Anadarko and Home Depot"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Adobe, ConocoPhillips, Exelon, Anadarko and Home Depot"
+    },
+    "tweet4": {
+      "content": "Here's Why ConocoPhillips (COMPANY_X) is a Hot Investment Pick"
+    },
+    "tweet5": {
+      "content": "Here's Why ConocoPhillips (COMPANY_X) is a Hot Investment Pick"
+    },
+    "tweet6": {
+      "content": "The Zacks Analyst Blog Highlights: Adobe, ConocoPhillips, Exelon, Anadarko and Home Depot"
+    },
+    "tweet7": {
+      "content": "Energy Sector Update for 05/16/2019: XOM, PARR, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet8": {
+      "content": "Energy Sector Update for 05/16/2019: XOM, PARR, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet9": {
+      "content": "Here's Why ConocoPhillips (COMPANY_X) is a Hot Investment Pick"
+    }
+  },
+  "day95": {
+    "tweet1": {
+      "content": "Oil Gains as Middle East Risks Offset Surprise Stock Build"
+    }
+  },
+  "day96": {
+    "tweet1": {
+      "content": "ConocoPhillips to Hold Second-Quarter Earnings Conference Call on Tuesday, July 30"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, ConocoPhillips, Valero Energy, Marathon Petroleum and Continental Resources"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, ConocoPhillips, Valero Energy, Marathon Petroleum and Continental Resources"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips' CEO Addresses the Elephant in the Room"
+    },
+    "tweet5": {
+      "content": "ConocoPhillips' CEO Addresses the Elephant in the Room"
+    },
+    "tweet6": {
+      "content": "Energy Sector Update for 05/20/2019: XOM, CVX, COMPANY_X, SLB, OXY, WES, PAA"
+    },
+    "tweet7": {
+      "content": "Energy Sector Update for 05/20/2019: XOM, CVX, COMPANY_X, SLB, OXY, WES, PAA"
+    },
+    "tweet8": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, ConocoPhillips, Valero Energy, Marathon Petroleum and Continental Resources"
+    },
+    "tweet9": {
+      "content": "ConocoPhillips&apos; CEO Addresses the Elephant in the Room"
+    }
+  },
+  "day97": {
+    "tweet1": {
+      "content": "3-High Earnings Yield Stocks"
+    },
+    "tweet2": {
+      "content": "Will Any Fall in EIA Data Substantiate Oil’s Upside?"
+    }
+  },
+  "day98": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day99": {
+    "tweet1": {
+      "content": "Oil Suffers Worst Day of 2019 as Trade Turmoil Swamps Confidence"
+    },
+    "tweet2": {
+      "content": "U.S. Crude Slips on Inventory Buildup, Fuel Stocks Rise Too"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips: Outperformer among Oil-Weighted Stocks"
+    }
+  },
+  "day100": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Chevron, ConocoPhillips, Valero Energy, Marathon Petroleum and Continental Resources"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Chevron, ConocoPhillips, Valero Energy, Marathon Petroleum and Continental Resources"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Chevron, ConocoPhillips, Valero Energy, Marathon Petroleum and Continental Resources"
+    }
+  },
+  "day101": {
+    "tweet1": {
+      "content": "ConocoPhillips Expects a Spike in LNG Prices in the Long Haul"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips Expects a Spike in LNG Prices in the Long Haul"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips Expects a Spike in LNG Prices in the Long Haul"
+    },
+    "tweet4": {
+      "content": "Brent-WTI Spread Impacts US Energy Stocks"
+    },
+    "tweet5": {
+      "content": "ConocoPhillips, Woodside see weak LNG prices as short-term issue"
+    }
+  },
+  "day102": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day103": {
+    "tweet1": {
+      "content": "Why Oil Majors Are Going All-In On U.S. Shale"
+    },
+    "tweet2": {
+      "content": "Why Is ConocoPhillips (COMPANY_X) Down 4% Since Last Earnings Report?"
+    },
+    "tweet3": {
+      "content": "Why Is ConocoPhillips (COMPANY_X) Down 4% Since Last Earnings Report?"
+    },
+    "tweet4": {
+      "content": "Energy Sector Update for 05/30/2019: NGL, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet5": {
+      "content": "Energy Sector Update for 05/30/2019: NGL, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet6": {
+      "content": "Why Is ConocoPhillips (COMPANY_X) Down 4% Since Last Earnings Report?"
+    }
+  },
+  "day104": {
+    "tweet1": {
+      "content": "Top Ranked Growth Stocks to Buy for May 31st"
+    },
+    "tweet2": {
+      "content": "Top Ranked Growth Stocks to Buy for May 31st"
+    },
+    "tweet3": {
+      "content": "Chevron (CVX) to Sell North Sea Assets to Delek Group for $2B"
+    },
+    "tweet4": {
+      "content": "Chevron (CVX) to Sell North Sea Assets to Delek Group for $2B"
+    },
+    "tweet5": {
+      "content": "Key Energy Events Next Week"
+    },
+    "tweet6": {
+      "content": "Energy Sector Update for 05/31/2019: MRO, XOM, SRE, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet7": {
+      "content": "Energy Sector Update for 05/31/2019: MRO, XOM, SRE, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet8": {
+      "content": "Chevron (CVX) to Sell North Sea Assets to Delek Group for $2B"
+    },
+    "tweet9": {
+      "content": "Top Ranked Growth Stocks to Buy for May 31st"
+    },
+    "tweet10": {
+      "content": "Why Oil Majors Are Going All-In On U.S. Shale"
+    },
+    "tweet11": {
+      "content": "Why Oil Majors Are Going All-In On U.S. Shale"
+    },
+    "tweet12": {
+      "content": "Big Oil&apos;s Message to Permian Strugglers: We Won&apos;t Bail You Out"
+    }
+  },
+  "day105": {
+    "tweet1": {
+      "content": "52-Week Company Lows"
+    },
+    "tweet2": {
+      "content": "Norway petroleum production would fall by 440,000 boed in case of strike"
+    },
+    "tweet3": {
+      "content": "Britain's INEOS to invest $2 bln in Saudi petrochemical complex"
+    }
+  },
+  "day106": {
+    "tweet1": {
+      "content": "Top Ranked Growth Stocks to Buy for June 4th"
+    },
+    "tweet2": {
+      "content": "Top Ranked Growth Stocks to Buy for June 4th"
+    },
+    "tweet3": {
+      "content": "Top Ranked Growth Stocks to Buy for June 4th"
+    }
+  },
+  "day107": {
+    "tweet1": {
+      "content": "RSI Alert: ConocoPhillips Now Oversold"
+    },
+    "tweet2": {
+      "content": "RSI Alert: ConocoPhillips Now Oversold"
+    },
+    "tweet3": {
+      "content": "Marathon Oil (MRO) Exits Iraq to Further Streamline Portfolio"
+    },
+    "tweet4": {
+      "content": "Marathon Oil (MRO) Exits Iraq to Further Streamline Portfolio"
+    },
+    "tweet5": {
+      "content": "Marathon Oil (MRO) Exits Iraq to Further Streamline Portfolio"
+    }
+  },
+  "day108": {
+    "tweet1": {
+      "content": "Top Ranked Growth Stocks to Buy for June 6th"
+    },
+    "tweet2": {
+      "content": "Top Ranked Growth Stocks to Buy for June 6th"
+    },
+    "tweet3": {
+      "content": "Is ConocoPhillips (COMPANY_X) Stock Undervalued Right Now?"
+    },
+    "tweet4": {
+      "content": "Is ConocoPhillips (COMPANY_X) Stock Undervalued Right Now?"
+    },
+    "tweet5": {
+      "content": "Which Oil-Weighted Stocks Are Sensitive to Oil?"
+    },
+    "tweet6": {
+      "content": "Top Ranked Growth Stocks to Buy for June 6th"
+    },
+    "tweet7": {
+      "content": "Is ConocoPhillips (COMPANY_X) Stock Undervalued Right Now?"
+    },
+    "tweet8": {
+      "content": "Should You Invest in the Fidelity MSCI Energy Index ETF (FENY)?"
+    },
+    "tweet9": {
+      "content": "U.S. Crude Falls Into Bear Market on Massive Inventory Build"
+    }
+  },
+  "day109": {
+    "tweet1": {
+      "content": "Here’s What Hedge Funds Think About ConocoPhillips (COMPANY_X)"
+    }
+  },
+  "day110": {
+    "tweet1": {
+      "content": "Unlike Occidental Petroleum, Shell Won't Overpay for Permian Growth"
+    },
+    "tweet2": {
+      "content": "Unlike Occidental Petroleum, Shell Won't Overpay for Permian Growth"
+    },
+    "tweet3": {
+      "content": "Unlike Occidental Petroleum, Shell Won&apos;t Overpay for Permian Growth"
+    },
+    "tweet4": {
+      "content": "52-Week Company Lows"
+    }
+  },
+  "day111": {
+    "tweet1": {
+      "content": "Should We Be Delighted With ConocoPhillips's (NYSE:COMPANY_X) ROE Of 22%?"
+    },
+    "tweet2": {
+      "content": "South Texas Drilling Permit Roundup: Conoco pulls ahead in first week of June"
+    },
+    "tweet3": {
+      "content": "See what the IHS Markit Score report has to say about ConocoPhillips."
+    }
+  },
+  "day112": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day113": {
+    "tweet1": {
+      "content": "ConocoPhillips (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Top Analyst Reports for Visa, Netflix & Accenture"
+    },
+    "tweet3": {
+      "content": "Top Analyst Reports for Visa, Netflix & Accenture"
+    },
+    "tweet4": {
+      "content": "Top Analyst Reports for Visa, Netflix & Accenture"
+    },
+    "tweet5": {
+      "content": "UPDATE 1-Norway wealth fund must ditch ConocoPhillips after index review"
+    },
+    "tweet6": {
+      "content": "See what the IHS Markit Score report has to say about ConocoPhillips."
+    },
+    "tweet7": {
+      "content": "Norway wealth fund cannot hold ConocoPhillips after added to excluded list"
+    }
+  },
+  "day114": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Visa, Netflix, Accenture, ConocoPhillips and BlackRock"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Visa, Netflix, Accenture, ConocoPhillips and BlackRock"
+    },
+    "tweet3": {
+      "content": "Canadian Oil Growth at Risk of Being Stunted: Here's Why"
+    },
+    "tweet4": {
+      "content": "Canadian Oil Growth at Risk of Being Stunted: Here's Why"
+    },
+    "tweet5": {
+      "content": "Notable ETF Inflow Detected - XLE, CVX, COMPANY_X, EOG"
+    },
+    "tweet6": {
+      "content": "Notable ETF Inflow Detected - XLE, CVX, COMPANY_X, EOG"
+    },
+    "tweet7": {
+      "content": "The Zacks Analyst Blog Highlights: Visa, Netflix, Accenture, ConocoPhillips and BlackRock"
+    },
+    "tweet8": {
+      "content": "Canadian Oil Growth at Risk of Being Stunted: Here's Why"
+    },
+    "tweet9": {
+      "content": "ConocoPhillips (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet10": {
+      "content": "ConocoPhillips (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    }
+  },
+  "day115": {
+    "tweet1": {
+      "content": "Iran threatens to breach limits of nuclear pact"
+    },
+    "tweet2": {
+      "content": "52-Week Company Lows"
+    }
+  },
+  "day116": {
+    "tweet1": {
+      "content": "ConocoPhillips to acquire Nuna discovery acreage"
+    },
+    "tweet2": {
+      "content": "Should You Invest in the iShares U.S. Oil & Gas Exploration & Production ETF (IEO)?"
+    },
+    "tweet3": {
+      "content": "Energy Sector Update for 06/18/2019: SM, EQT, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet4": {
+      "content": "Energy Sector Update for 06/18/2019: SM, EQT, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet5": {
+      "content": "Brent-WTI Spread’s Relationship with Energy Stocks"
+    },
+    "tweet6": {
+      "content": "See what the IHS Markit Score report has to say about ConocoPhillips."
+    }
+  },
+  "day117": {
+    "tweet1": {
+      "content": "7 Blue-Chip Stocks to Buy for a Noisy Market"
+    },
+    "tweet2": {
+      "content": "7 Blue-Chip Stocks to Buy for a Noisy Market"
+    },
+    "tweet3": {
+      "content": "7 Blue-Chip Stocks to Buy for a Noisy Market"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips Agrees to Acquire Entire Stake in Nuna Field"
+    },
+    "tweet5": {
+      "content": "ConocoPhillips Agrees to Acquire Entire Stake in Nuna Field"
+    },
+    "tweet6": {
+      "content": "ConocoPhillips Agrees to Acquire Entire Stake in Nuna Field"
+    }
+  },
+  "day118": {
+    "tweet1": {
+      "content": "U.S. Crude Ends Lower Even as EIA Reveals Drop in Supplies"
+    },
+    "tweet2": {
+      "content": "RPT-COLUMN-Australian resource companies are becoming renewable energy believers: Russell"
+    },
+    "tweet3": {
+      "content": "COLUMN-Australian resource companies are becoming renewable energy believers: Russell"
+    },
+    "tweet4": {
+      "content": "J.D. Rockefeller: From Oil Baron to Billionaire"
+    }
+  },
+  "day119": {
+    "tweet1": {
+      "content": "Why You Should Care About Carbon Pricing"
+    },
+    "tweet2": {
+      "content": "Growing tensions with Iran send oil prices higher"
+    },
+    "tweet3": {
+      "content": "Energy Sector Update for 06/21/2019: EQT, SNP, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet4": {
+      "content": "Energy Sector Update for 06/21/2019: EQT, SNP, XOM, CVX, COMPANY_X, SLB, OXY"
+    }
+  },
+  "day120": {
+    "tweet1": {
+      "content": "XLE, COMPANY_X, EOG, SLB: ETF Outflow Alert"
+    },
+    "tweet2": {
+      "content": "XLE, COMPANY_X, EOG, SLB: ETF Outflow Alert"
+    },
+    "tweet3": {
+      "content": "Oil Traders: Key Energy Events This Week"
+    },
+    "tweet4": {
+      "content": "UPDATE 2-Quake of magnitude 7.5 shakes East Timor, Australia; no tsunami feared"
+    }
+  },
+  "day121": {
+    "tweet1": {
+      "content": "7 Energy Stocks That May Face Pullbacks"
+    },
+    "tweet2": {
+      "content": "Fact Sheet: What Is The Fortune 500 List?"
+    },
+    "tweet3": {
+      "content": "Marathon Oil Or Marathon Petroleum: Which Is The Better Stock?"
+    },
+    "tweet4": {
+      "content": "Energy Space: Analyzing the Fall in the Brent-WTI Spread"
+    }
+  },
+  "day122": {
+    "tweet1": {
+      "content": "Energy Sector Update for 06/26/2019: KMI,COMPANY_X,FTI,CAPL"
+    },
+    "tweet2": {
+      "content": "Energy Sector Update for 06/26/2019: KMI,COMPANY_X,FTI,CAPL"
+    },
+    "tweet3": {
+      "content": "Gasoline futures spike over 4% on Philadelphia refinery shutdown"
+    },
+    "tweet4": {
+      "content": "Wednesday Sector Leaders: Energy, Technology & Communications"
+    },
+    "tweet5": {
+      "content": "Wednesday Sector Leaders: Energy, Technology & Communications"
+    },
+    "tweet6": {
+      "content": "Energy Sector Update for 06/26/2019: FTI,COMPANY_X,CAPL"
+    },
+    "tweet7": {
+      "content": "Energy Sector Update for 06/26/2019: FTI,COMPANY_X,CAPL"
+    },
+    "tweet8": {
+      "content": "ConocoPhillips: A Look at Its Key Technicals and Price Targets"
+    },
+    "tweet9": {
+      "content": "ConocoPhillips Stock Gains, Boeing Flies, 3 More Midday Movers"
+    },
+    "tweet10": {
+      "content": "Why Mizuho Increased Its Target Price on ConocoPhillips"
+    },
+    "tweet11": {
+      "content": "Oil & Gas Stock Roundup: Anadarko's Mozambique FID, Archrock's Acquisition & More"
+    }
+  },
+  "day123": {
+    "tweet1": {
+      "content": "Top Stock Reports for Apple, Comcast & Morgan Stanley"
+    },
+    "tweet2": {
+      "content": "Top Stock Reports for Apple, Comcast & Morgan Stanley"
+    },
+    "tweet3": {
+      "content": "Thursday's ETF Movers: XBI, XLE"
+    },
+    "tweet4": {
+      "content": "Thursday's ETF Movers: XBI, XLE"
+    },
+    "tweet5": {
+      "content": "Top Stock Reports for Apple, Comcast & Morgan Stanley"
+    },
+    "tweet6": {
+      "content": "Thursday Sector Laggards: Utilities, Energy"
+    },
+    "tweet7": {
+      "content": "Thursday Sector Laggards: Utilities, Energy"
+    },
+    "tweet8": {
+      "content": "Why oil is going higher: Strategist"
+    },
+    "tweet9": {
+      "content": "US to Drive Global Oil Production Growth in the Next Decade"
+    },
+    "tweet10": {
+      "content": "U.S. Oil Prices Jump as EIA Reports Largest Draw Since 2016"
+    }
+  },
+  "day124": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: ConocoPhillips, Hess, Valero, Marathon Oil and Helix"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: ConocoPhillips, Hess, Valero, Marathon Oil and Helix"
+    },
+    "tweet3": {
+      "content": "Will OPEC Surprise Investors With Deeper Cut in Oil Volumes?"
+    },
+    "tweet4": {
+      "content": "Will OPEC Surprise Investors With Deeper Cut in Oil Volumes?"
+    },
+    "tweet5": {
+      "content": "Should You Invest in the Fidelity MSCI Energy Index ETF (FENY)?"
+    },
+    "tweet6": {
+      "content": "The Zacks Analyst Blog Highlights: ConocoPhillips, Hess, Valero, Marathon Oil and Helix"
+    },
+    "tweet7": {
+      "content": "Energy Sector Update for 06/28/2019: PCG, RDS.A, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet8": {
+      "content": "Energy Sector Update for 06/28/2019: PCG, RDS.A, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet9": {
+      "content": "Will OPEC Surprise Investors With Deeper Cut in Oil Volumes?"
+    }
+  },
+  "day125": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day126": {
+    "tweet1": {
+      "content": "New Strong Sell Stocks for July 2nd"
+    },
+    "tweet2": {
+      "content": "New Strong Sell Stocks for July 2nd"
+    },
+    "tweet3": {
+      "content": "Energy Sector Update for 07/02/2019:  XOM, CVX, COMPANY_X, SLB, OXY, NOG"
+    },
+    "tweet4": {
+      "content": "Energy Sector Update for 07/02/2019:  XOM, CVX, COMPANY_X, SLB, OXY, NOG"
+    }
+  },
+  "day127": {
+    "tweet1": {
+      "content": "4 Oil Stocks to Sell Now"
+    },
+    "tweet2": {
+      "content": "Why US Oil Exports Might Fall"
+    }
+  },
+  "day128": {
+    "tweet1": {
+      "content": "U.S. Oil Futures Rise After 3rd Weekly Drop in Stockpiles"
+    }
+  },
+  "day129": {
+    "tweet1": {
+      "content": "Energy Sector Update for 07/08/2019: EQNR, LONE, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet2": {
+      "content": "Energy Sector Update for 07/08/2019: EQNR, LONE, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet3": {
+      "content": "Local drilling moves foreshadow life after Colorado's oil and gas reforms"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips (NYSE:COMPANY_X): Time For A Financial Health Check"
+    }
+  },
+  "day130": {
+    "tweet1": {
+      "content": "Energy Sector Update for 07/09/2019: APC, CVX, PBR, XOM, COMPANY_X, SLB, OXY"
+    },
+    "tweet2": {
+      "content": "Energy Sector Update for 07/09/2019: APC, CVX, PBR, XOM, COMPANY_X, SLB, OXY"
+    },
+    "tweet3": {
+      "content": "Analyzing the EIA’s Oil Inventory Data and Key Spreads"
+    },
+    "tweet4": {
+      "content": "See what the IHS Markit Score report has to say about ConocoPhillips."
+    }
+  },
+  "day131": {
+    "tweet1": {
+      "content": "Energy Sector Update for 07/10/2019: MDR, TOT, LNG, XOM, COMPANY_X, CVX, SLB, OXY"
+    },
+    "tweet2": {
+      "content": "Energy Sector Update for 07/10/2019: MDR, TOT, LNG, XOM, COMPANY_X, CVX, SLB, OXY"
+    },
+    "tweet3": {
+      "content": "See which Houston-based public energy cos. had the biggest changes in employees last year"
+    }
+  },
+  "day132": {
+    "tweet1": {
+      "content": "Top Research Reports for Adobe, Philip Morris & Mondelez"
+    },
+    "tweet2": {
+      "content": "Top Research Reports for Adobe, Philip Morris & Mondelez"
+    },
+    "tweet3": {
+      "content": "Energy Sector Update for 07/11/2019: COMPANY_X,TELL,OXY,CVE,CVE.TO"
+    },
+    "tweet4": {
+      "content": "Energy Sector Update for 07/11/2019: COMPANY_X,TELL,OXY,CVE,CVE.TO"
+    },
+    "tweet5": {
+      "content": "Tropical Storm Barry cuts Gulf oil output by more than 50%"
+    },
+    "tweet6": {
+      "content": "Top Research Reports for Adobe, Philip Morris & Mondelez"
+    },
+    "tweet7": {
+      "content": "Why the Earnings Surprise Streak Could Continue for ConocoPhillips (COMPANY_X)"
+    },
+    "tweet8": {
+      "content": "Oil Gets a Lift from EIA Inventory Data, Storm Supply Risks"
+    },
+    "tweet9": {
+      "content": "ConocoPhillips Announces Quarterly Dividend"
+    },
+    "tweet10": {
+      "content": "Which Energy Stocks Missed Oil’s Upside?"
+    },
+    "tweet11": {
+      "content": "South Texas Drilling Permit Roundup: Penn Virginia pulls ahead during the holiday"
+    }
+  },
+  "day133": {
+    "tweet1": {
+      "content": "Tropical Storm Barry puts oil refining in the Gulf Coast at risk"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet3": {
+      "content": "Oil Price Spurts as Tensions Intensify in the Strait of Hormuz"
+    },
+    "tweet4": {
+      "content": "Louisiana businesses brace for Tropical Storm Barry"
+    },
+    "tweet5": {
+      "content": "Noteworthy ETF Inflows: XLE, COMPANY_X, SLB, EOG"
+    },
+    "tweet6": {
+      "content": "Noteworthy ETF Inflows: XLE, COMPANY_X, SLB, EOG"
+    },
+    "tweet7": {
+      "content": "Chevron and ConocoPhillips Are the 2 Best Oil Stocks, Goldman Sachs Says"
+    },
+    "tweet8": {
+      "content": "Is a Beat Likely for Kinder Morgan (KMI) in Q2 Earnings?"
+    },
+    "tweet9": {
+      "content": "The Zacks Analyst Blog Highlights: Adobe, Philip Morris, Mondelez, ConocoPhillips and Tesla"
+    },
+    "tweet10": {
+      "content": "Energy Sector Update for 07/12/2019: EC, UPL, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet11": {
+      "content": "Energy Sector Update for 07/12/2019: EC, UPL, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet12": {
+      "content": "Should You Invest in the iShares U.S. Oil & Gas Exploration & Production ETF (IEO)?"
+    }
+  },
+  "day134": {
+    "tweet1": {
+      "content": "South Texas Drilling Permit Roundup: New player makes a move in Webb County"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: ConocoPhillips, Exxon Mobil, Royal Dutch Shell and Chevron"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: ConocoPhillips, Exxon Mobil, Royal Dutch Shell and Chevron"
+    },
+    "tweet4": {
+      "content": "The 10 Biggest Texas Stocks"
+    },
+    "tweet5": {
+      "content": "The 10 Biggest Texas Stocks"
+    },
+    "tweet6": {
+      "content": "The Zacks Analyst Blog Highlights: ConocoPhillips, Exxon Mobil, Royal Dutch Shell and Chevron"
+    },
+    "tweet7": {
+      "content": "The 10 Biggest Texas Stocks"
+    }
+  },
+  "day135": {
+    "tweet1": {
+      "content": "Brent-WTI Spread Could Impact US Oil Exports"
+    }
+  },
+  "day136": {
+    "tweet1": {
+      "content": "After Hours Most Active for Jul 17, 2019 :  PDBC, NFLX, VICI, VNQI, BAC, BP, QQQ, PETX, CZR, COMPANY_X, PG, KO"
+    },
+    "tweet2": {
+      "content": "After Hours Most Active for Jul 17, 2019 :  PDBC, NFLX, VICI, VNQI, BAC, BP, QQQ, PETX, CZR, COMPANY_X, PG, KO"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips Stock Upgraded: What You Need to Know"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips Stock Upgraded: What You Need to Know"
+    },
+    "tweet5": {
+      "content": "ConocoPhillips Stock Upgraded: What You Need to Know"
+    },
+    "tweet6": {
+      "content": "Factors to Know Ahead of Schlumberger's (SLB) Q2 Earnings"
+    },
+    "tweet7": {
+      "content": "Factors to Know Ahead of Schlumberger's (SLB) Q2 Earnings"
+    },
+    "tweet8": {
+      "content": "Ex-Div Reminder for ConocoPhillips (COMPANY_X)"
+    },
+    "tweet9": {
+      "content": "Ex-Div Reminder for ConocoPhillips (COMPANY_X)"
+    },
+    "tweet10": {
+      "content": "Energy Sector Update for 07/17/2019: E, REGI, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet11": {
+      "content": "Energy Sector Update for 07/17/2019: E, REGI, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet12": {
+      "content": "Factors to Know Ahead of Schlumberger's (SLB) Q2 Earnings"
+    },
+    "tweet13": {
+      "content": "ConocoPhillips a Top Socially Responsible Dividend Stock With 2.0% Yield (COMPANY_X)"
+    },
+    "tweet14": {
+      "content": "ConocoPhillips a Top Socially Responsible Dividend Stock With 2.0% Yield (COMPANY_X)"
+    },
+    "tweet15": {
+      "content": "ConocoPhillips (NYSE:COMPANY_X) Is About To Go Ex-Dividend, And It Pays A 0.5% Yield"
+    }
+  },
+  "day137": {
+    "tweet1": {
+      "content": "ConocoPhillips (COMPANY_X) Ex-Dividend Date Scheduled for July 19, 2019"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips (COMPANY_X) Ex-Dividend Date Scheduled for July 19, 2019"
+    },
+    "tweet3": {
+      "content": "U.S. Oil Stocks Fall for a Fifth Week, Fuel Supplies Swell"
+    }
+  },
+  "day138": {
+    "tweet1": {
+      "content": "ConocoPhillips (COMPANY_X) Gains As Market Dips: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Stable Dividend, Minimal Growth Makes Exxon Mobil Stock a Hold"
+    },
+    "tweet3": {
+      "content": "Stable Dividend, Minimal Growth Makes Exxon Mobil Stock a Hold"
+    },
+    "tweet4": {
+      "content": "Stable Dividend, Minimal Growth Makes Exxon Mobil Stock a Hold"
+    }
+  },
+  "day139": {
+    "tweet1": {
+      "content": "Will the Iran Factor Push Oil Higher This Week?"
+    },
+    "tweet2": {
+      "content": "UPDATE 1-Indonesia agrees to extend Corridor natural gas block contract for 20 years"
+    },
+    "tweet3": {
+      "content": "Should You Invest in the Fidelity MSCI Energy Index ETF (FENY)?"
+    },
+    "tweet4": {
+      "content": "Indonesia extends Corridor natural gas block contract for 20 years"
+    },
+    "tweet5": {
+      "content": "Wall Street ends higher as tech and oil stocks rally"
+    }
+  },
+  "day140": {
+    "tweet1": {
+      "content": "Earnings Preview: ConocoPhillips (COMPANY_X) Q2 Earnings Expected to Decline"
+    },
+    "tweet2": {
+      "content": "Earnings Preview: ConocoPhillips (COMPANY_X) Q2 Earnings Expected to Decline"
+    },
+    "tweet3": {
+      "content": "Earnings Preview: ConocoPhillips (COMPANY_X) Q2 Earnings Expected to Decline"
+    }
+  },
+  "day141": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day142": {
+    "tweet1": {
+      "content": "ConocoPhillips (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet2": {
+      "content": "What's in the Cards for ConocoPhillips' (COMPANY_X) Q2 Earnings?"
+    },
+    "tweet3": {
+      "content": "What's in the Cards for ConocoPhillips' (COMPANY_X) Q2 Earnings?"
+    },
+    "tweet4": {
+      "content": "Higher US Oil Exports: Has Iran Paved the Way?"
+    },
+    "tweet5": {
+      "content": "What's in the Cards for ConocoPhillips' (COMPANY_X) Q2 Earnings?"
+    },
+    "tweet6": {
+      "content": "Energy Sector Update for 07/25/2019: TOT, EQNR, CLB, XOM, COMPANY_X, CVX, SLB, OXY"
+    },
+    "tweet7": {
+      "content": "Energy Sector Update for 07/25/2019: TOT, EQNR, CLB, XOM, COMPANY_X, CVX, SLB, OXY"
+    },
+    "tweet8": {
+      "content": "Credibility Issues Are Going to Keep Weighing down BP Stock"
+    },
+    "tweet9": {
+      "content": "ConocoPhillips Bringing Know-How to Vaca Muerta"
+    }
+  },
+  "day143": {
+    "tweet1": {
+      "content": "Will ConocoPhillips Stock Gain After Its Q2 Earnings?"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips sells Sept Kimanis condensate to Exxon at discount - sources"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    }
+  },
+  "day144": {
+    "tweet1": {
+      "content": "Pre-Market Earnings Report for July 30, 2019 :  PG, MA, PFE, MRK, LLY, MO, COMPANY_X, ECL, MMC, HCA, ETN, PEG"
+    },
+    "tweet2": {
+      "content": "Pre-Market Earnings Report for July 30, 2019 :  PG, MA, PFE, MRK, LLY, MO, COMPANY_X, ECL, MMC, HCA, ETN, PEG"
+    },
+    "tweet3": {
+      "content": "What to Watch When ConocoPhillips Reports Its Q2 Results"
+    },
+    "tweet4": {
+      "content": "What to Watch When ConocoPhillips Reports Its Q2 Results"
+    },
+    "tweet5": {
+      "content": "Q2 Earnings Preview: ConocoPhillips"
+    },
+    "tweet6": {
+      "content": "What to Watch When ConocoPhillips Reports Its Q2 Results"
+    },
+    "tweet7": {
+      "content": "3 Top Oil Stocks to Buy This Month"
+    },
+    "tweet8": {
+      "content": "3 Top Oil Stocks to Buy This Month"
+    },
+    "tweet9": {
+      "content": "52-Week Lows"
+    },
+    "tweet10": {
+      "content": "3 Top Oil Stocks to Buy This Month"
+    }
+  },
+  "day145": {
+    "tweet1": {
+      "content": "ConocoPhillips Continued to Cash In During Q2"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips Continued to Cash In During Q2"
+    },
+    "tweet3": {
+      "content": "Energy Sector Update for 07/30/2019: EQM,MDR,BP,COMPANY_X"
+    },
+    "tweet4": {
+      "content": "Energy Sector Update for 07/30/2019: EQM,MDR,BP,COMPANY_X"
+    },
+    "tweet5": {
+      "content": "ConocoPhillips Continued to Cash In During Q2"
+    },
+    "tweet6": {
+      "content": "Energy Sector Update for 07/30/2019: MDR,BP,COMPANY_X"
+    },
+    "tweet7": {
+      "content": "Energy Sector Update for 07/30/2019: MDR,BP,COMPANY_X"
+    },
+    "tweet8": {
+      "content": "ConocoPhillips' (COMPANY_X) Q2 Earnings Miss on Lower Crude Prices"
+    },
+    "tweet9": {
+      "content": "ConocoPhillips' (COMPANY_X) Q2 Earnings Miss on Lower Crude Prices"
+    },
+    "tweet10": {
+      "content": "XLE, CVX, COMPANY_X, SLB: ETF Outflow Alert"
+    },
+    "tweet11": {
+      "content": "XLE, CVX, COMPANY_X, SLB: ETF Outflow Alert"
+    },
+    "tweet12": {
+      "content": "ConocoPhillips' (COMPANY_X) Q2 Earnings Miss on Lower Crude Prices"
+    },
+    "tweet13": {
+      "content": "ConocoPhillips (COMPANY_X) Q2 Earnings and Revenues Lag Estimates"
+    },
+    "tweet14": {
+      "content": "ConocoPhillips (COMPANY_X) Q2 Earnings and Revenues Lag Estimates"
+    },
+    "tweet15": {
+      "content": "Economic and Earnings Date Deluge"
+    },
+    "tweet16": {
+      "content": "Busy Morning for Investors: Trade, Data, Earnings for PFE, MRK, COMPANY_X & More"
+    },
+    "tweet17": {
+      "content": "ConocoPhillips Stock Is Slipping After Missing Earnings Estimates"
+    },
+    "tweet18": {
+      "content": "Energy Sector Update for 07/30/2019: COMPANY_X, BP, NOV, XOM, CVX, SLB, OXY"
+    },
+    "tweet19": {
+      "content": "Energy Sector Update for 07/30/2019: COMPANY_X, BP, NOV, XOM, CVX, SLB, OXY"
+    },
+    "tweet20": {
+      "content": "Even Boone Pickens Is Falling Out of Love With Oil"
+    },
+    "tweet21": {
+      "content": "Equifax Hack: 5 Biggest Credit Card Data Breaches"
+    },
+    "tweet22": {
+      "content": "ConocoPhillips (COMPANY_X) Q2 Earnings and Revenues Lag Estimates"
+    },
+    "tweet23": {
+      "content": "ConocoPhillips profit misses on lower crude prices, higher spending"
+    },
+    "tweet24": {
+      "content": "ConocoPhillips profit misses on lower crude prices, higher spending"
+    },
+    "tweet25": {
+      "content": "ConocoPhillips Q2 net income flat vs. year-earlier"
+    },
+    "tweet26": {
+      "content": "ConocoPhillips adjusted profit falls 11.6%"
+    },
+    "tweet27": {
+      "content": "ConocoPhillips Reports Second-Quarter 2019 Results; Delivered Strong Free Cash Flow and Financial Returns; Raised 2019 Planned Share Buybacks"
+    },
+    "tweet28": {
+      "content": "ConocoPhillips Earnings, Revenue Miss in Q2"
+    },
+    "tweet29": {
+      "content": "ConocoPhillips&apos;s Profits Flat in 2Q"
+    },
+    "tweet30": {
+      "content": "ConocoPhillips’s Profits Flat in 2Q"
+    }
+  },
+  "day146": {
+    "tweet1": {
+      "content": "Edited Transcript of COMPANY_X earnings conference call or presentation 30-Jul-19 4:00pm GMT"
+    },
+    "tweet2": {
+      "content": "3 Top Oil Stocks to Buy Right Now"
+    },
+    "tweet3": {
+      "content": "3 Top Oil Stocks to Buy Right Now"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips increases 2019 share buyback by $500M"
+    },
+    "tweet5": {
+      "content": "3 Top Oil Stocks to Buy Right Now"
+    },
+    "tweet6": {
+      "content": "ConocoPhillips: J.P. Morgan Cut Its Target Price"
+    },
+    "tweet7": {
+      "content": "UPDATE 1-Australia's FAR Ltd sees ruling on SNE arbitration by 2019 end"
+    },
+    "tweet8": {
+      "content": "ConocoPhillips Co (COMPANY_X) Q2 2019 Earnings Call Transcript"
+    },
+    "tweet9": {
+      "content": "ConocoPhillips Co (COMPANY_X) Q2 2019 Earnings Call Transcript"
+    },
+    "tweet10": {
+      "content": "ConocoPhillips Co (COMPANY_X) Q2 2019 Earnings Call Transcript"
+    }
+  },
+  "day147": {
+    "tweet1": {
+      "content": "Oil & Gas Stocks' Q2 Earnings Due on Aug 2: CVX, XOM & IMO"
+    }
+  },
+  "day148": {
+    "tweet1": {
+      "content": "Pay Up, Oil Traders. Trump’s Steel Tariffs Now Affect You Too"
+    },
+    "tweet2": {
+      "content": "10 Stock Picks That Should Love Lower Interest Rates"
+    },
+    "tweet3": {
+      "content": "UPDATE 3-ICC tribunal dismisses Conoco's $1.5 billion claim against PDVSA"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: Schlumberger, ConocoPhillips, Chevron, Exxon Mobil and Imperial Oil"
+    },
+    "tweet5": {
+      "content": "The Zacks Analyst Blog Highlights: Schlumberger, ConocoPhillips, Chevron, Exxon Mobil and Imperial Oil"
+    },
+    "tweet6": {
+      "content": "The 10 Biggest Energy Stocks"
+    },
+    "tweet7": {
+      "content": "The 10 Biggest Energy Stocks"
+    },
+    "tweet8": {
+      "content": "The 10 Biggest Energy Stocks"
+    },
+    "tweet9": {
+      "content": "The Zacks Analyst Blog Highlights: Schlumberger, ConocoPhillips, Chevron, Exxon Mobil and Imperial Oil"
+    },
+    "tweet10": {
+      "content": "Energy Sector Update for 08/02/2019: XOM, CVX, NOG, COMPANY_X, SLB, OXY"
+    },
+    "tweet11": {
+      "content": "Energy Sector Update for 08/02/2019: XOM, CVX, NOG, COMPANY_X, SLB, OXY"
+    },
+    "tweet12": {
+      "content": "Bad Week for Energy Stocks? Wait Till Next Year"
+    }
+  },
+  "day149": {
+    "tweet1": {
+      "content": "ConocoPhillips Stock Getting Very Oversold"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips Stock Getting Very Oversold"
+    },
+    "tweet3": {
+      "content": "52-Week Company Lows"
+    },
+    "tweet4": {
+      "content": "Should You Invest in the iShares U.S. Oil &amp; Gas Exploration &amp; Production ETF (IEO)?"
+    }
+  },
+  "day150": {
+    "tweet1": {
+      "content": "Top Research Reports: Chevron, AbbVie, Phillips 66 & More"
+    },
+    "tweet2": {
+      "content": "Top Research Reports: Chevron, AbbVie, Phillips 66 & More"
+    },
+    "tweet3": {
+      "content": "Top Research Reports: Chevron, AbbVie, Phillips 66 & More"
+    },
+    "tweet4": {
+      "content": "Top Research Reports: Chevron, AbbVie, Phillips 66 & More"
+    },
+    "tweet5": {
+      "content": "Top Research Reports: Chevron, AbbVie, Phillips 66 & More"
+    },
+    "tweet6": {
+      "content": "Donald Trump slaps broad new sanctions on Venezuelan government"
+    },
+    "tweet7": {
+      "content": "Trump slaps broad new sanctions on Venezuelan government"
+    }
+  },
+  "day151": {
+    "tweet1": {
+      "content": "Oil & Gas Stock Roundup: Exxon, Chevron, Shell Report Q2 Earnings"
+    }
+  },
+  "day152": {
+    "tweet1": {
+      "content": "XLE, COMPANY_X, SLB, EOG: Large Inflows Detected at ETF"
+    },
+    "tweet2": {
+      "content": "XLE, COMPANY_X, SLB, EOG: Large Inflows Detected at ETF"
+    }
+  },
+  "day153": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day154": {
+    "tweet1": {
+      "content": "3 Energy Stocks to Sell Now"
+    },
+    "tweet2": {
+      "content": "3 Energy Stocks to Sell Now"
+    },
+    "tweet3": {
+      "content": "3 Energy Stocks to Sell Now"
+    },
+    "tweet4": {
+      "content": "52-Week Company Lows"
+    }
+  },
+  "day155": {
+    "tweet1": {
+      "content": "South Texas Drilling Permit Roundup: A slow week for South Texas drilling"
+    },
+    "tweet2": {
+      "content": "Should You Invest in the Fidelity MSCI Energy Index ETF (FENY)?"
+    }
+  },
+  "day156": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day157": {
+    "tweet1": {
+      "content": "Energy Sector Update for 08/15/2019: PNRG, NS, XOM, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet2": {
+      "content": "Energy Sector Update for 08/15/2019: PNRG, NS, XOM, CVX, COMPANY_X, SLB, OXY"
+    }
+  },
+  "day158": {
+    "tweet1": {
+      "content": "IXC, COMPANY_X, SLB, EOG: Large Outflows Detected at ETF"
+    },
+    "tweet2": {
+      "content": "IXC, COMPANY_X, SLB, EOG: Large Outflows Detected at ETF"
+    },
+    "tweet3": {
+      "content": "U.S. Oil Supplies Up for 2nd Week, Adds to Bearish Sentiment"
+    },
+    "tweet4": {
+      "content": "Energy Sector Update for 08/16/2019: SAEX, XOM, CVX, COMPANY_X, SLB,OXY"
+    },
+    "tweet5": {
+      "content": "Energy Sector Update for 08/16/2019: SAEX, XOM, CVX, COMPANY_X, SLB,OXY"
+    }
+  },
+  "day159": {
+    "tweet1": {
+      "content": "Will API Inventory Data Show a Buildup?"
+    },
+    "tweet2": {
+      "content": "Monday Sector Leaders: Energy, Services"
+    },
+    "tweet3": {
+      "content": "Monday Sector Leaders: Energy, Services"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: Royal Dutch, ConocoPhillips, Valero, Phillips 66 and Marathon"
+    },
+    "tweet5": {
+      "content": "The Zacks Analyst Blog Highlights: Royal Dutch, ConocoPhillips, Valero, Phillips 66 and Marathon"
+    },
+    "tweet6": {
+      "content": "Oil & Gas US Integrated Industry Outlook: Prospects Gloomy"
+    },
+    "tweet7": {
+      "content": "Oil & Gas US Integrated Industry Outlook: Prospects Gloomy"
+    },
+    "tweet8": {
+      "content": "The Zacks Analyst Blog Highlights: Royal Dutch, ConocoPhillips, Valero, Phillips 66 and Marathon"
+    },
+    "tweet9": {
+      "content": "Oil & Gas US Integrated Industry Outlook: Prospects Gloomy"
+    }
+  },
+  "day160": {
+    "tweet1": {
+      "content": "T Boone Pickens' BP Capital Buys 5 Stocks in 2nd Quarter"
+    },
+    "tweet2": {
+      "content": "US warns Greece over Iranian oil tanker, Aramco picks lead underwriters"
+    },
+    "tweet3": {
+      "content": "Energy Sector Update for 08/20/2019: SDRL, XOM, EQNR, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet4": {
+      "content": "Energy Sector Update for 08/20/2019: SDRL, XOM, EQNR, CVX, COMPANY_X, SLB, OXY"
+    },
+    "tweet5": {
+      "content": "U.S. shale producers challenge pipeline operator's Trump steel-tariff surcharge -filing"
+    }
+  },
+  "day161": {
+    "tweet1": {
+      "content": "Oil steadies as US crude inventories drop"
+    }
+  },
+  "day162": {
+    "tweet1": {
+      "content": "Does ConocoPhillips's (NYSE:COMPANY_X) CEO Pay Matter?"
+    }
+  },
+  "day163": {
+    "tweet1": {
+      "content": "U.S. Gasoline & Distillates Stocks Up, Cushing Supplies Slump"
+    }
+  },
+  "day164": {
+    "tweet1": {
+      "content": "Don’t Count on High Returns With Exxon Mobil"
+    },
+    "tweet2": {
+      "content": "Don’t Count on High Returns With Exxon Mobil"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Royal Dutch Shell, Chevron, ConocoPhillips, Phillips 66 and Marathon Petroleum"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: Royal Dutch Shell, Chevron, ConocoPhillips, Phillips 66 and Marathon Petroleum"
+    },
+    "tweet5": {
+      "content": "Don’t Count on High Returns With Exxon Mobil"
+    },
+    "tweet6": {
+      "content": "ConocoPhillips to Hold Third-Quarter Earnings Conference Call on Tuesday, Oct. 29"
+    },
+    "tweet7": {
+      "content": "The Zacks Analyst Blog Highlights: Royal Dutch Shell, Chevron, ConocoPhillips, Phillips 66 and Marathon Petroleum"
+    }
+  },
+  "day165": {
+    "tweet1": {
+      "content": "Will API Inventory Data Support Oil Prices?"
+    },
+    "tweet2": {
+      "content": "Noteworthy ETF Outflows: XLE, COMPANY_X, SLB, EOG"
+    },
+    "tweet3": {
+      "content": "Noteworthy ETF Outflows: XLE, COMPANY_X, SLB, EOG"
+    },
+    "tweet4": {
+      "content": "Energy Sector Update for 08/27/2019: TOT, PTR, PBR, PAA, PAGP, COMPANY_X, ECA, XOM, CVX, SLB, OXY"
+    },
+    "tweet5": {
+      "content": "Energy Sector Update for 08/27/2019: TOT, PTR, PBR, PAA, PAGP, COMPANY_X, ECA, XOM, CVX, SLB, OXY"
+    },
+    "tweet6": {
+      "content": "ConocoPhillips sells Oct-loading Bayu Undan condensate at discount - sources"
+    }
+  },
+  "day166": {
+    "tweet1": {
+      "content": "This Tiny Nation Should Beware China's Belt and Road"
+    },
+    "tweet2": {
+      "content": "Enbridge Oil-Shipping Revamp Hits Snag as Regulator Steps In"
+    },
+    "tweet3": {
+      "content": "Oil on the rise as US inventories fall, BP sells Alaska operations to Hillcorp"
+    },
+    "tweet4": {
+      "content": "BP's Alaska Exit Is a Sign of Oil's Times"
+    }
+  },
+  "day167": {
+    "tweet1": {
+      "content": "Is ConocoPhillips Ready for a Rebound?"
+    },
+    "tweet2": {
+      "content": "Oil Rises After EIA Reports Bullish Surprise on All Fronts"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips (COMPANY_X) Down 12.1% Since Last Earnings Report: Can It Rebound?"
+    },
+    "tweet4": {
+      "content": "Stock Market News for Aug 29, 2019"
+    },
+    "tweet5": {
+      "content": "Stock Market News for Aug 29, 2019"
+    },
+    "tweet6": {
+      "content": "The Math Shows QSY Can Go To $94"
+    },
+    "tweet7": {
+      "content": "The Math Shows QSY Can Go To $94"
+    },
+    "tweet8": {
+      "content": "ConocoPhillips (COMPANY_X) Down 12.1% Since Last Earnings Report: Can It Rebound?"
+    },
+    "tweet9": {
+      "content": "Is ConocoPhillips Ready for a Rebound?"
+    }
+  },
+  "day168": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, Chevron, ConocoPhillips, Valero Energy and Marathon Petroleum"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, Chevron, ConocoPhillips, Valero Energy and Marathon Petroleum"
+    }
+  },
+  "day169": {
+    "tweet1": {
+      "content": "This Oil Company Is Pounding the Table That Its Stock Is Cheap"
+    },
+    "tweet2": {
+      "content": "This Oil Company Is Pounding the Table That Its Stock Is Cheap"
+    },
+    "tweet3": {
+      "content": "Energy Sector Update for 09/03/2019: COMPANY_X, CXO"
+    },
+    "tweet4": {
+      "content": "Energy Sector Update for 09/03/2019: COMPANY_X, CXO"
+    },
+    "tweet5": {
+      "content": "S&P 500 Analyst Moves: COMPANY_X"
+    },
+    "tweet6": {
+      "content": "S&P 500 Analyst Moves: COMPANY_X"
+    },
+    "tweet7": {
+      "content": "Saudi Aramco replaces chair ahead of expected IPO"
+    }
+  },
+  "day170": {
+    "tweet1": {
+      "content": "XLE, COMPANY_X, SLB, EOG: Large Outflows Detected at ETF"
+    },
+    "tweet2": {
+      "content": "XLE, COMPANY_X, SLB, EOG: Large Outflows Detected at ETF"
+    },
+    "tweet3": {
+      "content": "Why Oil Stocks Got Crushed in August"
+    },
+    "tweet4": {
+      "content": "Should You Invest in the Fidelity MSCI Energy Index ETF (FENY)?"
+    }
+  },
+  "day171": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day172": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day173": {
+    "tweet1": {
+      "content": "ConocoPhillips (NYSE:COMPANY_X) Has A Pretty Healthy Balance Sheet"
+    }
+  },
+  "day174": {
+    "tweet1": {
+      "content": "Should You Invest in the iShares U.S. Oil & Gas Exploration & Production ETF (IEO)?"
+    }
+  },
+  "day175": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day176": {
+    "tweet1": {
+      "content": "The Energy Select Sector SPDR Fund Experiences Big Outflow"
+    },
+    "tweet2": {
+      "content": "The Energy Select Sector SPDR Fund Experiences Big Outflow"
+    },
+    "tweet3": {
+      "content": "U.S. Oil Ends Lower Even as EIA Reveals Drop in Inventories"
+    },
+    "tweet4": {
+      "content": "Energy Sector Update for 09/12/2019: TOPS, TRNX, XOM, COMPANY_X, SLB, OXY"
+    },
+    "tweet5": {
+      "content": "Energy Sector Update for 09/12/2019: TOPS, TRNX, XOM, COMPANY_X, SLB, OXY"
+    }
+  },
+  "day177": {
+    "tweet1": {
+      "content": "ConocoPhillips (COMPANY_X) Gains As Market Dips: What You Should Know"
+    }
+  },
+  "day178": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day179": {
+    "tweet1": {
+      "content": "ConocoPhillips Could be the Best Oil Stock to Ride Out Recent Volatility"
+    },
+    "tweet2": {
+      "content": "Top Research Reports for Chevron, Walmart & ConocoPhillips"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips (COMPANY_X) Looks Good: Stock Adds 9.1% in Session"
+    }
+  },
+  "day180": {
+    "tweet1": {
+      "content": "Chevron-backed Seattle startup scores breakthrough deal with Toyota"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Chevron, Walmart, ConocoPhillips, TransDigm and Phillips 66 Partners"
+    }
+  },
+  "day181": {
+    "tweet1": {
+      "content": "Crude Prices Drop Amid Surprise Growth in U.S. Stockpiles"
+    },
+    "tweet2": {
+      "content": "7 lsquo;Strong Buyrsquo; Oil Stocks to Buy Now"
+    }
+  },
+  "day182": {
+    "tweet1": {
+      "content": "ConocoPhillips (COMPANY_X) Gains As Market Dips: What You Should Know"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, Chevron, ConocoPhillips, Valero Energy and Phillips 66"
+    }
+  },
+  "day183": {
+    "tweet1": {
+      "content": "3 Stocks to Buy in the Fourth Quarter"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips to Boost Winter Upstream Activities in Alaska"
+    }
+  },
+  "day184": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day185": {
+    "tweet1": {
+      "content": "Oil & Gas Stock Roundup: Tellurian's LNG Deal, Equinor's Gas Find & More"
+    }
+  },
+  "day186": {
+    "tweet1": {
+      "content": "Key Reasons Why U.S. Oil Prices Fell for 2nd Straight Day"
+    },
+    "tweet2": {
+      "content": "Should You Invest in the Fidelity MSCI Energy Index ETF (FENY)?"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips Australia awards Barossa project contract to Allseas Marine"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips Allots EPCI Contract for Barossa Pipeline"
+    }
+  },
+  "day187": {
+    "tweet1": {
+      "content": "ConocoPhillips (COMPANY_X) Gains As Market Dips: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Does ConocoPhillips (NYSE:COMPANY_X) Have A Good P/E Ratio?"
+    }
+  },
+  "day188": {
+    "tweet1": {
+      "content": "UPDATE 1-Chrysaor completes acquisition of Conoco's UK North Sea assets"
+    },
+    "tweet2": {
+      "content": "Chrysaor completes acquisition of Conoco's UK North Sea assets"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips Completes $2.7 Billion Sale of United Kingdom E&P Subsidiaries"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips Completes $2.7B UK Asset Sale to Chrysaor"
+    }
+  },
+  "day189": {
+    "tweet1": {
+      "content": "Conoco’s Shift to Keep Canadian Synthetic Oil Under Pressure"
+    },
+    "tweet2": {
+      "content": "Conoco&apos;s Move to Keep Canadian Synthetic Crude Under Fire"
+    }
+  },
+  "day190": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day191": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day192": {
+    "tweet1": {
+      "content": "Noble (NBL) Ups Sales Volume View From Offshore Israel Assets"
+    }
+  },
+  "day193": {
+    "tweet1": {
+      "content": "3 Major Indexes Are Positive on Monday"
+    },
+    "tweet2": {
+      "content": "Conoco Stock Is Up the Oil Company Boosted Its Dividend"
+    },
+    "tweet3": {
+      "content": "Things You Should Know About the EIA Crude Inventory Report"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips raises quarterly dividend by 38% to 42 cents, to buy back $3 billion of stock in 2020"
+    },
+    "tweet5": {
+      "content": "ConocoPhillips Announces 38 Percent Increase in Quarterly Dividend; Expects to Repurchase $3 Billion of Shares in 2020; Reiterates Continued Commitment to Return More Than 30 Percent of Cash From Operations Annually Via Dividend and Buybacks"
+    },
+    "tweet6": {
+      "content": "[video]ConocoPhillips Jumps on Dividend Boost, Plans for $3 Billion Buyback"
+    },
+    "tweet7": {
+      "content": "Stocks - GE, Dish, ConocoPhillips Rise in Premarket; GM Falls"
+    }
+  },
+  "day194": {
+    "tweet1": {
+      "content": "Conoco and Saudi Aramco Know What You Want"
+    },
+    "tweet2": {
+      "content": "Conoco and Saudi Aramco Know What You Want"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, ConocoPhillips, Valero Energy, Phillips 66 and Marathon Petroleum"
+    }
+  },
+  "day195": {
+    "tweet1": {
+      "content": "Big Oil Tries To Buy Back Investors"
+    },
+    "tweet2": {
+      "content": "Oil & Gas Stock Roundup: ExxonMobil & Shell's Q3 Updates, ConocoPhillips' Dividend Hike"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips (COMPANY_X): Are Hedge Funds Right About This Stock?"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips Rewards Investors With Dividend Hike & Buyback"
+    }
+  },
+  "day196": {
+    "tweet1": {
+      "content": "Former ConocoPhillips campus in Energy Corridor officially listed for sale"
+    },
+    "tweet2": {
+      "content": "Crude Prices Hold Steady After Mixed EIA Inventory Data"
+    }
+  },
+  "day197": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, ConocoPhillips, Valero, Marathon and Dril-Quip"
+    }
+  },
+  "day198": {
+    "tweet1": {
+      "content": "3 ‘Perfect 10’ Stocks That Could Win Big"
+    },
+    "tweet2": {
+      "content": "Stock Market News For Oct 14, 2019"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips to sell more international assets for $1.4B"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips Inks Deal to Sell $1.4B Australia-West Assets"
+    },
+    "tweet5": {
+      "content": "ConocoPhillips Selling Australia-West Assets to Santos for $1.39 Billion"
+    },
+    "tweet6": {
+      "content": "Santos Targets Asia LNG Growth With $1.4 Billion Conoco Deal"
+    },
+    "tweet7": {
+      "content": "ConocoPhillips to Divest Some Australia Assets"
+    }
+  },
+  "day199": {
+    "tweet1": {
+      "content": "Oil & Gas Stock Roundup: ConocoPhillips' Australia Asset Sale, Phillips 66's Buyback & More"
+    },
+    "tweet2": {
+      "content": "What’s Behind The Bearish Bias In Oil Markets?"
+    },
+    "tweet3": {
+      "content": "Top Analyst Reports for Intel, Oracle & Novo Nordisk"
+    },
+    "tweet4": {
+      "content": "I Ran A Stock Scan For Earnings Growth And ConocoPhillips (NYSE:COMPANY_X) Passed With Ease"
+    }
+  },
+  "day200": {
+    "tweet1": {
+      "content": "Warren Buffett on His 'Most Fun' Personal Investment"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: ConocoPhillips, Phillips 66, BP and TOTAL"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Intel, Oracle, Novo Nordisk, ConocoPhillips and Advanced Micro Devices"
+    },
+    "tweet4": {
+      "content": "Are Investors Falling Out of Love With Oil & Gas Mergers?"
+    }
+  },
+  "day201": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day202": {
+    "tweet1": {
+      "content": "ConocoPhillips Stock Looks Cheap After a Selloff"
+    },
+    "tweet2": {
+      "content": "Saudi Aramco to delay launch of its IPO"
+    },
+    "tweet3": {
+      "content": "Things You Should Know About the EIA Crude Inventory Report"
+    },
+    "tweet4": {
+      "content": "Should You Invest in the Fidelity MSCI Energy Index ETF (FENY)?"
+    }
+  },
+  "day203": {
+    "tweet1": {
+      "content": "Cenovus Energy Inc. -- Moody's changes Cenovus' outlook to positive"
+    },
+    "tweet2": {
+      "content": "New Strong Sell Stocks for October 21st"
+    }
+  },
+  "day204": {
+    "tweet1": {
+      "content": "Oil Companies Rejected by Supreme Court on Climate Change Suits"
+    },
+    "tweet2": {
+      "content": "Oil & Gas Stock Roundup: Schlumberger & Halliburton Report Q3 Earnings"
+    }
+  },
+  "day205": {
+    "tweet1": {
+      "content": "Top Analyst Reports for salesforce, Lockheed Martin & Intuit"
+    }
+  },
+  "day206": {
+    "tweet1": {
+      "content": "Louisiana Land & Exploration Company -- Moody's announces completion of a periodic review of ratings of ConocoPhillips"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: salesforce.com, Lockheed Martin, Intuit, Disney and ConocoPhillips"
+    },
+    "tweet3": {
+      "content": "Will ConocoPhillips (COMPANY_X) Disappoint This Earnings Season?"
+    },
+    "tweet4": {
+      "content": "Should You Invest in the iShares U.S. Oil & Gas Exploration & Production ETF (IEO)?"
+    }
+  },
+  "day207": {
+    "tweet1": {
+      "content": "Is ConocoPhillips the Best of the Battered E&P Group?"
+    }
+  },
+  "day208": {
+    "tweet1": {
+      "content": "Boeing CEO heads to Capitol Hill — What to know in markets Tuesday"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips Q3 Earnings Outlook"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips Reports Earnings Tomorrow. Why Its Investor Day Is More Important."
+    }
+  },
+  "day209": {
+    "tweet1": {
+      "content": "US Indexes Close Lower Tuesday After 4-Day Rally"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips Stock above Key Level after Earnings"
+    },
+    "tweet3": {
+      "content": "Conoco Ramps Up Cash to Be Antithesis of Shale Sector"
+    },
+    "tweet4": {
+      "content": "Behind The List: These Houston-based publicly traded companies had the largest asset volume in 2018"
+    },
+    "tweet5": {
+      "content": "ConocoPhillips' (COMPANY_X) Q3 Earnings Beat on Production Surge"
+    },
+    "tweet6": {
+      "content": "S&P 500 rises further into record territory; Google miss weighs on tech shares"
+    },
+    "tweet7": {
+      "content": "UPDATE: ConocoPhillips profit tops estimates, to offer 10-year capital plan at Nov. analyst day"
+    },
+    "tweet8": {
+      "content": "ConocoPhillips (COMPANY_X) Q3 Earnings and Revenues Beat Estimates"
+    },
+    "tweet9": {
+      "content": "UPDATE 2-ConocoPhillips profit beats estimates on higher production"
+    },
+    "tweet10": {
+      "content": "ConocoPhillips profit beats estimates on higher production"
+    },
+    "tweet11": {
+      "content": "ConocoPhillips profit beats estimates on higher production"
+    },
+    "tweet12": {
+      "content": "ConocoPhillips profit beats estimates on higher production"
+    },
+    "tweet13": {
+      "content": "ConocoPhillips profit tops estimates, to offer 10-year capital plan at Nov. analyst day"
+    },
+    "tweet14": {
+      "content": "ConocoPhillips Reports Third-Quarter 2019 Results; Returns-Focused Value Proposition Continues to Deliver"
+    },
+    "tweet15": {
+      "content": "ConocoPhillips Falls Despite Strong Quarterly Results as U.S. Production Rises"
+    },
+    "tweet16": {
+      "content": "ConocoPhillips Climbs on Strong Quarterly Results as U.S. Production Rises"
+    },
+    "tweet17": {
+      "content": "ConocoPhillips Profit Beats Estimates"
+    }
+  },
+  "day210": {
+    "tweet1": {
+      "content": "ConocoPhillips faces delay at gas plant"
+    },
+    "tweet2": {
+      "content": "Edited Transcript of COMPANY_X earnings conference call or presentation 29-Oct-19 4:00pm GMT"
+    }
+  },
+  "day211": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day212": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day213": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day214": {
+    "tweet1": {
+      "content": "Behind The List: Houston public companies show rapid two-year growth"
+    }
+  },
+  "day215": {
+    "tweet1": {
+      "content": "ConocoPhillips to Host Analyst & Investor Meeting Nov. 19"
+    },
+    "tweet2": {
+      "content": "South Texas Drilling Permit Roundup: Records show declining interest in Central Texas field"
+    }
+  },
+  "day216": {
+    "tweet1": {
+      "content": "US Indexes Close Higher Thursday With News on Trade"
+    },
+    "tweet2": {
+      "content": "Occidental Stock Hits 14-Year Low on Fears of a Dividend Cut"
+    },
+    "tweet3": {
+      "content": "Frontera Announces Third Quarter 2019 Results"
+    }
+  },
+  "day217": {
+    "tweet1": {
+      "content": "Increasing Output and IMO 2020: Oil Price Outlook Stays Low as Headwinds Abound"
+    },
+    "tweet2": {
+      "content": "3 “Perfect 10” Energy Stocks to Power Returns"
+    },
+    "tweet3": {
+      "content": "Top Energy Stocks for November 2019"
+    }
+  },
+  "day218": {
+    "tweet1": {
+      "content": "Should You Invest in the Fidelity MSCI Energy Index ETF (FENY)?"
+    },
+    "tweet2": {
+      "content": "Indonesia signs 20-year production sharing contract for Corridor block"
+    }
+  },
+  "day219": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day220": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day221": {
+    "tweet1": {
+      "content": "Norway approves ConocoPhillips field development"
+    }
+  },
+  "day222": {
+    "tweet1": {
+      "content": "U.S. Oil Producers Churn Out Unprecedented Level of Oil"
+    },
+    "tweet2": {
+      "content": "AM Best Affirms Credit Ratings of Sooner Insurance Company"
+    },
+    "tweet3": {
+      "content": "Should You Invest in the iShares U.S. Oil & Gas Exploration & Production ETF (IEO)?"
+    }
+  },
+  "day223": {
+    "tweet1": {
+      "content": "ConocoPhillips Investor Day Is Tomorrow. Capital Spending Is Key to Its ‘Best in Class’ Status."
+    }
+  },
+  "day224": {
+    "tweet1": {
+      "content": "Oil Falls Most in Seven Weeks Amid Supply Rise, Trade Impasse"
+    },
+    "tweet2": {
+      "content": "Top Research Reports for JPMorgan, Altria Group & ConocoPhillips"
+    },
+    "tweet3": {
+      "content": "Conoco Plans Share Buyback That’s Almost 50% of Market Value"
+    },
+    "tweet4": {
+      "content": "Conoco's 2020s Plan Is to Embrace the FUD"
+    },
+    "tweet5": {
+      "content": "ConocoPhillips Stock Is Rising on Upbeat Investor Day"
+    },
+    "tweet6": {
+      "content": "UPDATE 5-ConocoPhillips targets $50 bln free cash flow over next decade"
+    },
+    "tweet7": {
+      "content": "ConocoPhillips Analyst & Investor Meeting Reaffirms Commitment to Disciplined, Returns-Focused Strategy; Company Outlines Compelling 2020-2029 Plan"
+    },
+    "tweet8": {
+      "content": "ConocoPhillips Unveils its 10-Year Plan Operational Plan"
+    }
+  },
+  "day225": {
+    "tweet1": {
+      "content": "US Indexes Close Lower Wednesday"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: JPMorgan Chase, Altria, ConocoPhillips, The Travelers Companies and Twitter"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips Lays Out Plans for Next Decade, Aims $50B FCF"
+    }
+  },
+  "day226": {
+    "tweet1": {
+      "content": "Oil Price Gains 3.4% for the Day: What's Behind the Rise?"
+    }
+  },
+  "day227": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, ConocoPhillips, Valero Energy, Marathon Petroleum and Phillips 66"
+    },
+    "tweet2": {
+      "content": "Shale's Haves and Have-Nots Fight for Fuel"
+    }
+  },
+  "day228": {
+    "tweet1": {
+      "content": "Crestone Peak Resources strikes deal to nearly triple its Denver-Julesburg Basin lease"
+    },
+    "tweet2": {
+      "content": "Noble Energy (NBL) Signs $430M Natural Gas Deal with Egypt"
+    },
+    "tweet3": {
+      "content": "A Trio of Turnarounds in Big Oil"
+    }
+  },
+  "day229": {
+    "tweet1": {
+      "content": "ConocoPhillips files motion to seize Citgo shares to collect Venezuela award"
+    },
+    "tweet2": {
+      "content": "Oil giant confirms sale of acreage to Crestone Peak Resources"
+    },
+    "tweet3": {
+      "content": "Oil & Gas Stock Roundup: ConocoPhillips' 10-Year Plan, HollyFrontier's Dividend Boost"
+    }
+  },
+  "day230": {
+    "tweet1": {
+      "content": "UPDATE 1-ConocoPhillips seeks seizure of Citgo parent to collect on PDVSA award"
+    }
+  },
+  "day231": {
+    "tweet1": {
+      "content": "Don’t Write Off Energy Stocks Yet"
+    },
+    "tweet2": {
+      "content": "US to Become Net Oil Exporter in 2020: Shale Drillers to Gain"
+    },
+    "tweet3": {
+      "content": "Here's a Look at the EIA's Weekly Petroleum Status Report"
+    },
+    "tweet4": {
+      "content": "As U.S. Majors Cool on Australia, Japan’s Inpex Sees Opportunity"
+    }
+  },
+  "day232": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Pioneer Natural Resources, Diamondback Energy, Callon Petroleum, EOG Resources and ConocoPhillips"
+    }
+  },
+  "day233": {
+    "tweet1": {
+      "content": "Should You Invest in the Fidelity MSCI Energy Index ETF (FENY)?"
+    }
+  },
+  "day234": {
+    "tweet1": {
+      "content": "Equinor Keeps Pace With Johan Sverdrup's Oil Production Goal"
+    }
+  },
+  "day235": {
+    "tweet1": {
+      "content": "Stock Market Live Updates: Saudi Aramco shares priced at top of range in world's biggest IPO"
+    },
+    "tweet2": {
+      "content": "Oil Drops From 2 1/2-Month High Amid Clouded OPEC+ Intentions"
+    },
+    "tweet3": {
+      "content": "The Oil Company Built To Survive The Bear Market"
+    },
+    "tweet4": {
+      "content": "Oil Price Gains 4.2% in a Day: What's Behind the Rally?"
+    }
+  },
+  "day236": {
+    "tweet1": {
+      "content": "Six Oil Stocks To Survive The Shale Bust"
+    }
+  },
+  "day237": {
+    "tweet1": {
+      "content": "U.S. Shale Producers to Gain as OPEC+ Deepens Output Cuts"
+    },
+    "tweet2": {
+      "content": "Should You Invest in the iShares U.S. Oil & Gas Exploration & Production ETF (IEO)?"
+    }
+  },
+  "day238": {
+    "tweet1": {
+      "content": "The 10 Best Energy Stocks to Buy for 2020"
+    },
+    "tweet2": {
+      "content": "Here's Why You Should Hold ConocoPhillips in Your Portfolio"
+    }
+  },
+  "day239": {
+    "tweet1": {
+      "content": "One market watcher's warning to Saudi Aramco: 'The future is not oil'"
+    },
+    "tweet2": {
+      "content": "Chevron Ushers in Oil’s Era of the Sober-Major"
+    }
+  },
+  "day240": {
+    "tweet1": {
+      "content": "ConocoPhillips to Hold Fourth-Quarter Earnings Conference Call on Tuesday, Feb. 4"
+    },
+    "tweet2": {
+      "content": "Crude Price Falls on Surprise Build in U.S. Inventories"
+    }
+  },
+  "day241": {
+    "tweet1": {
+      "content": "Top Stock Reports for Danaher, Petrobras & Fiserv"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Chevron, ConocoPhillips, Valero, Marathon and Murphy USA"
+    },
+    "tweet3": {
+      "content": "Even After Its Latest Moves, Chesapeake Energy Stock Is Still Too Risky"
+    }
+  },
+  "day242": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Danaher, Petrobras, Fiserv, CME and ConocoPhillips"
+    }
+  },
+  "day243": {
+    "tweet1": {
+      "content": "ConocoPhillips (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Oil Prices Head Higher Despite OPEC+ Skepticism"
+    },
+    "tweet3": {
+      "content": "8 Oil Stocks Goldman Sachs Says to Buy in 2020"
+    }
+  },
+  "day244": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day245": {
+    "tweet1": {
+      "content": "Here's What the Weekly EIA Crude Inventory Report Revealed"
+    }
+  },
+  "day246": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day247": {
+    "tweet1": {
+      "content": "Derailed Canadian Pacific train was carrying ConocoPhillips oil: media"
+    },
+    "tweet2": {
+      "content": "An Intrinsic Calculation For ConocoPhillips Company (NYSE:COMPANY_X) Suggests It's 23% Undervalued"
+    }
+  },
+  "day248": {
+    "tweet1": {
+      "content": "ConocoPhillips (COMPANY_X) Gains As Market Dips: What You Should Know"
+    }
+  },
+  "day249": {
+    "tweet1": {
+      "content": "Here are Wall Street’s favorite stocks for an oil-sector recovery in 2020"
+    },
+    "tweet2": {
+      "content": "Should You Invest in the Fidelity MSCI Energy Index ETF (FENY)?"
+    }
+  },
+  "day250": {
+    "tweet1": {
+      "content": "2019 Review: Most Favored Hedge Fund Stocks vs. ConocoPhillips Company (COMPANY_X)"
+    },
+    "tweet2": {
+      "content": "Shale's Amazing, World-Changing, Lousy Decade"
+    },
+    "tweet3": {
+      "content": "A Useful Tool: The Piotroski F-Score"
+    }
+  },
+  "day251": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day252": {
+    "tweet1": {
+      "content": "An ETF For A Sector Analysts Are Bullish On Heading Into 2020"
+    }
+  },
+  "day253": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day254": {
+    "tweet1": {
+      "content": "Energy Sector Poised for Growth: New Regulations and Political Unrest"
+    },
+    "tweet2": {
+      "content": "Markets have been pricing in uncertainty over Iran for 'a very, very long time'"
+    },
+    "tweet3": {
+      "content": "Stocks -  Tesla, BAT, Newmont Rise in Premarket; Incyte Falls"
+    }
+  },
+  "day255": {
+    "tweet1": {
+      "content": "7 Investing Resolutions to Follow in 2020"
+    },
+    "tweet2": {
+      "content": "Tweedy Browne Loosens Hold of MRC Global"
+    },
+    "tweet3": {
+      "content": "Top Energy Stocks for January 2020"
+    }
+  },
+  "day256": {
+    "tweet1": {
+      "content": "Market Indexes Lower, One analyst calls for a 15% correction"
+    },
+    "tweet2": {
+      "content": "New Strong Sell Stocks for January 7th"
+    }
+  },
+  "day257": {
+    "tweet1": {
+      "content": "BP to Divest $625M Matured North Sea Assets: Here's Why"
+    },
+    "tweet2": {
+      "content": "Top Picks 2020- ConocoPhillips COMPANY_X"
+    }
+  },
+  "day258": {
+    "tweet1": {
+      "content": "Chairman steps down from top board spot at Houston midstream giant"
+    },
+    "tweet2": {
+      "content": "Oil Price Retreats 4.9% in a Day: What's Behind the Plunge?"
+    },
+    "tweet3": {
+      "content": "MRC Global (MRC) to Benefit From Contract Wins & Projects"
+    }
+  },
+  "day259": {
+    "tweet1": {
+      "content": "ConocoPhillips (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Transocean Adds $352.9M to Backlog Since Last Fleet Status"
+    }
+  },
+  "day260": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day261": {
+    "tweet1": {
+      "content": "Can ConocoPhillips Company's (NYSE:COMPANY_X) ROE Continue To Surpass The Industry Average?"
+    },
+    "tweet2": {
+      "content": "South Texas Drilling Permit Roundup: Drillers focus on DeWitt County"
+    }
+  },
+  "day262": {
+    "tweet1": {
+      "content": "ConocoPhillips (COMPANY_X) a Must-Add to Your Portfolio: Here's Why"
+    }
+  },
+  "day263": {
+    "tweet1": {
+      "content": "ConocoPhillips (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Oil Will Stay Above $50 Per Barrel In 2020"
+    },
+    "tweet3": {
+      "content": "Equinor (EQNR) Wins 23 Production Licenses in NCS, Norway"
+    }
+  },
+  "day264": {
+    "tweet1": {
+      "content": "Is a Beat Likely for Kinder Morgan (KMI) in Q4 Earnings?"
+    },
+    "tweet2": {
+      "content": "Why ConocoPhillips (COMPANY_X) Stock Might be a Great Pick"
+    },
+    "tweet3": {
+      "content": "Trade Deal Impacts the Energy Sector: LNG to Gain the Most?"
+    }
+  },
+  "day265": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day266": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day267": {
+    "tweet1": {
+      "content": "Oil's Contractors Are Contracting, and That's Good"
+    }
+  },
+  "day268": {
+    "tweet1": {
+      "content": "ConocoPhillips (COMPANY_X) Stock Moves -0.82%: What You Should Know"
+    },
+    "tweet2": {
+      "content": "U.S. Crude Hits its Lowest Price in 2 Months: Here's Why"
+    },
+    "tweet3": {
+      "content": "Should You Invest in the iShares U.S. Oil & Gas Exploration & Production ETF (IEO)?"
+    },
+    "tweet4": {
+      "content": "Hess (HES) Gears Up for Q4 Earnings: What's in the Cards?"
+    },
+    "tweet5": {
+      "content": "Things to Know Before Marathon Petroleum's (MPC) Q4 Earnings"
+    },
+    "tweet6": {
+      "content": "MPLX Gears Up to Report Q4 Earnings: What's in the Cards?"
+    }
+  },
+  "day269": {
+    "tweet1": {
+      "content": "Coronavirus Fears Reveal Weakness in the Energy Sector"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, ConocoPhillips, Valero Energy, Marathon Petroleum and Talos Energy"
+    }
+  },
+  "day270": {
+    "tweet1": {
+      "content": "Traders Increase Short Interest In Big Oil Stocks"
+    },
+    "tweet2": {
+      "content": "Earnings Preview: ConocoPhillips (COMPANY_X) Q4 Earnings Expected to Decline"
+    },
+    "tweet3": {
+      "content": "South Texas Drilling Permit Roundup: ConocoPhillips kicks off 2020 energetically"
+    }
+  },
+  "day271": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day272": {
+    "tweet1": {
+      "content": "Will ConocoPhillips (COMPANY_X) Disappoint This Earnings Season?"
+    }
+  },
+  "day273": {
+    "tweet1": {
+      "content": "Exxon Mobil and Chevron Help Fuel Investor Revolt"
+    },
+    "tweet2": {
+      "content": "ExxonMobil (XOM) Q4 Earnings Lag Estimates on Weaker Margins"
+    },
+    "tweet3": {
+      "content": "Chrysaor talks to buy North Sea rival Siccar Point end -sources"
+    }
+  },
+  "day274": {
+    "tweet1": {
+      "content": "New Tech Could Unlock An Alaskan Oil Boom"
+    },
+    "tweet2": {
+      "content": "Q4 Earnings Preview: ConocoPhillips"
+    },
+    "tweet3": {
+      "content": "Day Ahead: Top 3 Things to Watch Feb. 4"
+    },
+    "tweet4": {
+      "content": "Enterprise (EPD) Q4 Earnings Meet Estimates, Revenues Beat"
+    }
+  },
+  "day275": {
+    "tweet1": {
+      "content": "US Stocks Rally on Tuesday"
+    },
+    "tweet2": {
+      "content": "Can OPEC+ Rescue Oil Markets Once Again?"
+    },
+    "tweet3": {
+      "content": "Coronavirus to slow down demand growth, says ConocoPhillips"
+    },
+    "tweet4": {
+      "content": "Conoco Works to Boost Its Immune System"
+    },
+    "tweet5": {
+      "content": "Oil Hovers Near $50 as Spreading Virus Imperils Crude Demand"
+    },
+    "tweet6": {
+      "content": "Economic Data Deluge"
+    },
+    "tweet7": {
+      "content": "ConocoPhillips (COMPANY_X) Misses on Q4 Earnings, Boosts Buyback"
+    },
+    "tweet8": {
+      "content": "Manufacturing Up, Construction Down, Q4 Earnings Mixed"
+    },
+    "tweet9": {
+      "content": "ConocoPhillips (COMPANY_X) Misses Q4 Earnings Estimates"
+    },
+    "tweet10": {
+      "content": "ConocoPhillips' outlook weighed down by coronavirus, disruptions in Malaysia, Libya"
+    },
+    "tweet11": {
+      "content": "ConocoPhillips misses profit expectations, adds $10 billion to stock buyback program"
+    },
+    "tweet12": {
+      "content": "ConocoPhillips reports 36.5% slump in quarterly profit"
+    },
+    "tweet13": {
+      "content": "ConocoPhillips Reports Fourth-Quarter and Full-Year 2019 Results; Announces Preliminary 2019 Year-End Reserves, Quarterly Dividend and Increase in Existing Share Repurchase Authorization to $25 Billion"
+    },
+    "tweet14": {
+      "content": "Cash Woes Leave Exxon Stock at a 10-Year Low"
+    },
+    "tweet15": {
+      "content": "ConocoPhillips Earnings, Revenue Miss in Q4"
+    }
+  },
+  "day276": {
+    "tweet1": {
+      "content": "Edited Transcript of COMPANY_X earnings conference call or presentation 4-Feb-20 5:00pm GMT"
+    },
+    "tweet2": {
+      "content": "CEO: ConocoPhillips eyes further divestment in early 2020"
+    }
+  },
+  "day277": {
+    "tweet1": {
+      "content": "Oil Gets a Lift from EIA Supply Data, Moves Back Above $50"
+    },
+    "tweet2": {
+      "content": "Retirees Should Know These 3 Facts About Required Minimum Distributions - February 06, 2020"
+    },
+    "tweet3": {
+      "content": "Is ConocoPhillips Company (NYSE:COMPANY_X) A Good Fit For Your Dividend Portfolio?"
+    }
+  },
+  "day278": {
+    "tweet1": {
+      "content": "T. Boone Pickens' BP Capital Adds 3 Energy Stocks to Portfolio"
+    },
+    "tweet2": {
+      "content": "Artisan Partners, FedEx, ConocoPhillips, Valero and Marathon Oil highlighted as Zacks Bull and Bear of the Day"
+    },
+    "tweet3": {
+      "content": "Should You Invest in the Fidelity MSCI Energy Index ETF (FENY)?"
+    },
+    "tweet4": {
+      "content": "Here's What Analysts Are Forecasting For ConocoPhillips Company After Its Yearly Results"
+    }
+  },
+  "day279": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day280": {
+    "tweet1": {
+      "content": "Oil & Gas Stock Roundup: TOTAL & BP Report Q4 Earnings"
+    }
+  },
+  "day281": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: TOTAL, BP, ConocoPhillips, Suncor Energy and National Oilwell Varco"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips Extends Bristow Contracts"
+    }
+  },
+  "day282": {
+    "tweet1": {
+      "content": "The S&P 500 Just Had Its 11th Record Close in 2020. Here’s Why It Can Keep Rising."
+    }
+  },
+  "day283": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, ConocoPhillips, Valero Energy, Marathon Petroleum and Chevron"
+    },
+    "tweet2": {
+      "content": "Woodside holds on to stake in Senegal oil field as FAR challenge fails"
+    },
+    "tweet3": {
+      "content": "Woodside holds on to stake in Senegal oil field as FAR challenge fails"
+    }
+  },
+  "day284": {
+    "tweet1": {
+      "content": "Texas regulator calls out state's worst, best companies for natural gas flaring"
+    }
+  },
+  "day285": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day286": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day287": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day288": {
+    "tweet1": {
+      "content": "Houston energy giant reduced headcount in 2019"
+    }
+  },
+  "day289": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day290": {
+    "tweet1": {
+      "content": "Energy Companies Find It Harder to Cover Their Rich Dividends as Oil Prices Fall"
+    }
+  },
+  "day291": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day292": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day293": {
+    "tweet1": {
+      "content": "Here's what Crestone Peak Resources is paying to buy ConocoPhillips' Colorado holdings"
+    }
+  },
+  "day294": {
+    "tweet1": {
+      "content": "ConocoPhillips Appoints Two New Members to Its Board of Directors"
+    },
+    "tweet2": {
+      "content": "A 10-Year Plan to Save Oil Frackers (From Themselves)"
+    }
+  },
+  "day295": {
+    "tweet1": {
+      "content": "Former Anadarko CEO lands new board gig"
+    },
+    "tweet2": {
+      "content": "Fluor and Anadarko Vets Join ConocoPhillips Board"
+    }
+  },
+  "day296": {
+    "tweet1": {
+      "content": "Frontera Delivers Strong Fourth Quarter and 2019 Financial and Operational Results"
+    },
+    "tweet2": {
+      "content": "Chevron and Exxon Share Faith in Oil But Pray Differently"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips (COMPANY_X) Down 15.9% Since Last Earnings Report: Can It Rebound?"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips Completes Sale of Two Lower 48 Assets"
+    }
+  },
+  "day297": {
+    "tweet1": {
+      "content": "6 Underperforming Guru Stocks"
+    },
+    "tweet2": {
+      "content": "Don't Give Up on Energy Stocks"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips Divests Niobara and Permian Assets"
+    }
+  },
+  "day298": {
+    "tweet1": {
+      "content": "Market Recap: Monday, February 9"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips to Hold First-Quarter Earnings Conference Call on Thursday, April 30"
+    },
+    "tweet3": {
+      "content": "2 CEOs Make Million-Dollar Buys"
+    },
+    "tweet4": {
+      "content": "Dow futures fall maximum amount allowed, poised to plunge 1,300 points at the open as oil prices deliver a punishing blow to Wall Street"
+    },
+    "tweet5": {
+      "content": "Oil stocks tumble across the board amid Saudi/Russia price war, energy ETF down 16%"
+    }
+  },
+  "day299": {
+    "tweet1": {
+      "content": "Is Now the Time to Buy Energy Stocks?"
+    },
+    "tweet2": {
+      "content": "Market Recap: Tuesday, March 10 "
+    },
+    "tweet3": {
+      "content": "A Sliding Share Price Has Us Looking At ConocoPhillips's (NYSE:COMPANY_X) P/E Ratio"
+    }
+  },
+  "day300": {
+    "tweet1": {
+      "content": "Could Warren Buffett Be Considering Buying Energy Stocks?"
+    },
+    "tweet2": {
+      "content": "Big Oil Prepares To Suffer In 2020"
+    }
+  },
+  "day301": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day302": {
+    "tweet1": {
+      "content": "7 Drowning Energy Stocks to Avoid for Now"
+    },
+    "tweet2": {
+      "content": "Four opportunities for procrastinators in a declining market"
+    }
+  },
+  "day303": {
+    "tweet1": {
+      "content": "Stock market rout doubles pain for energy firms that took shares for deals"
+    }
+  },
+  "day304": {
+    "tweet1": {
+      "content": "Exxon and Chevron are ‘dividend aristocrats’, but for how long?"
+    }
+  },
+  "day305": {
+    "tweet1": {
+      "content": "U.S. Oil Plunges to $25 a Barrel"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips makes $2B cut to spending, share repurchases amid low oil prices"
+    },
+    "tweet3": {
+      "content": "Eni to cut spending and buyback plans due to coronavirus fears"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips Cuts '20 Capital-Outlay Budget and Share-Buyback Plan Due to Oil-Price Drop"
+    },
+    "tweet5": {
+      "content": "You're Still Buying MLPs? Get a Magnifying Glass"
+    },
+    "tweet6": {
+      "content": "U.S. Oil Plunges to Below $25 a Barrel"
+    },
+    "tweet7": {
+      "content": "ConocoPhillips to reduce capex, output and share repurchase program"
+    },
+    "tweet8": {
+      "content": "ConocoPhillips to cut 2020 capex by 10%, rein development and slow share buybacks"
+    },
+    "tweet9": {
+      "content": "ConocoPhillips Responds to Recent Oil Market Downturn"
+    }
+  },
+  "day306": {
+    "tweet1": {
+      "content": "Moving Average Crossover Alert: ConocoPhillips"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips Slashes 2020 Capex as Oil Price Remains Soft"
+    }
+  },
+  "day307": {
+    "tweet1": {
+      "content": "5 Cheap Guru Stocks With High Dividend Yields"
+    },
+    "tweet2": {
+      "content": "Hess, ConocoPhillips, and Chevron Stocks Are So Cheap, They’re Worth Buying"
+    },
+    "tweet3": {
+      "content": "Diamondback Energy Stock Isn’t Worth Chasing Here"
+    },
+    "tweet4": {
+      "content": "Indonesia Energy: A Cheap Oil and Gas Stock With Strong Unit Economics"
+    }
+  },
+  "day308": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day309": {
+    "tweet1": {
+      "content": "Oil & Gas Stock Roundup: More E&P Companies Cut Capital Spending"
+    },
+    "tweet2": {
+      "content": "Chevron and Conoco Point the Way for Exxon"
+    },
+    "tweet3": {
+      "content": "South Texas Drilling Permit Roundup: ConocoPhillips still making moves in Eagle Ford"
+    },
+    "tweet4": {
+      "content": "A Sliding Share Price Has Us Looking At ConocoPhillips's (NYSE:COMPANY_X) P/E Ratio"
+    }
+  },
+  "day310": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day311": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day312": {
+    "tweet1": {
+      "content": "5 Energy Companies With the Strength to Weather the Coronavirus Storm"
+    },
+    "tweet2": {
+      "content": "Chevron Stock Shows Just How Much the World Has Changed"
+    }
+  },
+  "day313": {
+    "tweet1": {
+      "content": "Pay gap between ConocoPhillips' CEO and median employee widens"
+    }
+  },
+  "day314": {
+    "tweet1": {
+      "content": "What Warren Buffett's Irish Bank Investments Can Teach Us"
+    },
+    "tweet2": {
+      "content": "Analysts Just Slashed Their ConocoPhillips (NYSE:COMPANY_X) Earnings Forecasts"
+    }
+  },
+  "day315": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day316": {
+    "tweet1": {
+      "content": "Stocks - US Futures Point Higher as Crude Oil Gains"
+    }
+  },
+  "day317": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day318": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day319": {
+    "tweet1": {
+      "content": "ConocoPhillips: Time To Buy"
+    },
+    "tweet2": {
+      "content": "A Contrary Call ConocoPhillips"
+    }
+  },
+  "day320": {
+    "tweet1": {
+      "content": "Oil companies cut production, bracing for ‘lower for longer’ crude prices"
+    }
+  },
+  "day321": {
+    "tweet1": {
+      "content": "3 Financially Strong Oil Companies to Consider as Price War Ends"
+    }
+  },
+  "day322": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day323": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day324": {
+    "tweet1": {
+      "content": "A Rising Share Price Has Us Looking Closely At ConocoPhillips's (NYSE:COMPANY_X) P/E Ratio"
+    }
+  },
+  "day325": {
+    "tweet1": {
+      "content": "Oil Closes Under $20 for Second Day Amid Historic Demand Loss"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips cuts more production, other spending to save another $3B"
+    },
+    "tweet3": {
+      "content": "Energy CEO on oil prices: It's a 'train wreck in full speed'"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips to Cut Oil Production, Spending Amid Crude Price Collapse"
+    },
+    "tweet5": {
+      "content": "Conoco Slashing North American Output in Biggest Oil Cutback"
+    },
+    "tweet6": {
+      "content": "ConocoPhillips Spending Cuts Show Depth of the Oil Bust"
+    },
+    "tweet7": {
+      "content": "ConocoPhillips cuts U.S. oil output by 30%, largest so far"
+    },
+    "tweet8": {
+      "content": "ConocoPhillips to curtail production, suspend buybacks"
+    },
+    "tweet9": {
+      "content": "ConcopPhillips suspends share buybacks, pulls guidance and announces further spending cuts"
+    },
+    "tweet10": {
+      "content": "ConocoPhillips to Voluntarily Curtail 225,000 Gross Barrels of Oil Per Day; Reduces 2020 Cash Uses by Additional $3 Billion for Total Reduction of Over $5 Billion"
+    },
+    "tweet11": {
+      "content": "Stocks - Tech Stocks Help Wall Street Edge Higher"
+    },
+    "tweet12": {
+      "content": "ConocoPhillips slashes oil output and spending plans"
+    }
+  },
+  "day326": {
+    "tweet1": {
+      "content": "US Indexes Close Higher Friday and for the April 17 Week"
+    },
+    "tweet2": {
+      "content": "Storage Fears Drive Oil Below $18"
+    },
+    "tweet3": {
+      "content": "Here's What ConocoPhillips is Doing to Deal With Coronavirus"
+    },
+    "tweet4": {
+      "content": "Oil Anchored Near $20 Set for Weekly Loss on Feeble Demand"
+    }
+  },
+  "day327": {
+    "tweet1": {
+      "content": "U.S. oil futures trade negative for first time in history"
+    }
+  },
+  "day328": {
+    "tweet1": {
+      "content": "Stocks tumble as Brent crude dips to 18-year low "
+    },
+    "tweet2": {
+      "content": "US Drillers Remove Maximum Oil Rigs in More Than 5 Years"
+    },
+    "tweet3": {
+      "content": "US STOCKS-Wall St set to slide as sub-zero U.S. crude adds to pandemic worries"
+    },
+    "tweet4": {
+      "content": "US STOCKS-Futures slide as sub-zero U.S. crude adds to pandemic jitters"
+    },
+    "tweet5": {
+      "content": "US STOCKS-Futures slide as U.S. crude crashes below zero"
+    }
+  },
+  "day329": {
+    "tweet1": {
+      "content": "Top Energy Stocks for April 2020"
+    },
+    "tweet2": {
+      "content": "Oil & Gas Stock Roundup: Schlumberger & Halliburton's Q1, Conoco's Capex Cut & More"
+    }
+  },
+  "day330": {
+    "tweet1": {
+      "content": "US Indexes End Flat on Thursday"
+    },
+    "tweet2": {
+      "content": "Were Hedge Funds Right About ConocoPhillips (COMPANY_X)?"
+    },
+    "tweet3": {
+      "content": "We may test oil's record lows again in mid-May: Analyst"
+    },
+    "tweet4": {
+      "content": "Analysts Estimate ConocoPhillips (COMPANY_X) to Report a Decline in Earnings: What to Look Out for"
+    },
+    "tweet5": {
+      "content": "Oil could soon fall to -$100 per barrel: Energy analyst"
+    }
+  },
+  "day331": {
+    "tweet1": {
+      "content": "The Shock of Subzero Oil Will Shake the U.S. Energy Industry. 4 Stocks Worth a Look."
+    },
+    "tweet2": {
+      "content": "Oil Producer Earnings Will Be Rough, but These Companies Could Persevere"
+    },
+    "tweet3": {
+      "content": "Don’t Get Burned: How to — and How Not to — Invest in Oil"
+    },
+    "tweet4": {
+      "content": "The Oil Market Has Gotten Weird. Here’s How Investors Can Make Sense of It."
+    }
+  },
+  "day332": {
+    "tweet1": {
+      "content": "ConocoPhillips (COMPANY_X) to Report Q1 Earnings: What to Expect?"
+    }
+  },
+  "day333": {
+    "tweet1": {
+      "content": "What Fracker Earnings Really Need Are Fewer Frackers"
+    }
+  },
+  "day334": {
+    "tweet1": {
+      "content": "Australia's Origin Energy posts 18% fall in quarterly APLNG revenue"
+    },
+    "tweet2": {
+      "content": "US Indexes Rally on Wednesday"
+    }
+  },
+  "day335": {
+    "tweet1": {
+      "content": "Origin Energy Finance Limited -- Moody's affirms Origin Energy' Baa2/P-2 ratings; outlook remains stable"
+    },
+    "tweet2": {
+      "content": "Shale producer Concho takes $12.6 bln charge, cuts 2020 spending again"
+    },
+    "tweet3": {
+      "content": "Tesla turns negative after David Einhorn questions billing practices"
+    },
+    "tweet4": {
+      "content": "Medicare Eases Testing Rules; NYC Subway Shutdown: Virus Update"
+    },
+    "tweet5": {
+      "content": "ConocoPhillips (COMPANY_X) Tops Q1 Earnings Estimates, Keeps Dividend"
+    },
+    "tweet6": {
+      "content": "ConocoPhillips Stock Rises on Strong Earnings Report"
+    },
+    "tweet7": {
+      "content": "ConocoPhillips Has Surprisingly Strong Earnings Despite Crude's Crash"
+    },
+    "tweet8": {
+      "content": "ConocoPhillips (COMPANY_X) Surpasses Q1 Earnings Estimates"
+    },
+    "tweet9": {
+      "content": "ConocoPhillips to sharply cut oil production as low prices hit earnings"
+    },
+    "tweet10": {
+      "content": "ConocoPhillips Reports First-Quarter 2020 Results; Announces Quarterly Dividend and Additional Curtailments"
+    },
+    "tweet11": {
+      "content": "ConocoPhillips takes axe to production after $1.7bn loss"
+    }
+  },
+  "day336": {
+    "tweet1": {
+      "content": "Edited Transcript of COMPANY_X earnings conference call or presentation 30-Apr-20 4:00pm GMT"
+    },
+    "tweet2": {
+      "content": "US Indexes Lower Friday on New Tariff Warnings"
+    },
+    "tweet3": {
+      "content": "The Great Shale Shut-In Has Begun, Making Good on Trump’s Pledge"
+    },
+    "tweet4": {
+      "content": "10 Energy Company Bonds That Could Reward Investors"
+    },
+    "tweet5": {
+      "content": "Exxon Sees Uptrend As Earnings Top; Chevron Mixed As Capex Cut Again"
+    },
+    "tweet6": {
+      "content": "U.S. oil prices climb by nearly 17% for the week as OPEC+ production cuts begin"
+    },
+    "tweet7": {
+      "content": "Exxon Earnings Top, Chevron Mixed As Capital Spending Cut Again"
+    },
+    "tweet8": {
+      "content": "Exxon Mobil Earnings Top, While Chevron Cuts Capital Spending Again After Revenue Miss"
+    },
+    "tweet9": {
+      "content": "ConocoPhillips Announces Additional Curtailments; Remains Better Positioned in E&P"
+    },
+    "tweet10": {
+      "content": "ConocoPhillips Co (COMPANY_X) Q1 2020 Earnings Call Transcript"
+    }
+  },
+  "day337": {
+    "tweet1": {
+      "content": "US Indexes End With Gains Monday"
+    },
+    "tweet2": {
+      "content": "Oil Rallies for Fourth Day as U.S. Crude Build Seen Slowing"
+    },
+    "tweet3": {
+      "content": "Texas Oil Quotas ‘Dead,’ Says Regulator Who Touted Them"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips Stock Added to Goldman Sachs Conviction List"
+    }
+  },
+  "day338": {
+    "tweet1": {
+      "content": "U.S. oil climbs nearly 20% as traders bet on demand pickup as lockdowns ease"
+    }
+  },
+  "day339": {
+    "tweet1": {
+      "content": "Why ConocoPhillips Shares Jumped 36.7% in April"
+    },
+    "tweet2": {
+      "content": "Energy Roundtable: If I Had to Buy 1 Oil Stock, This Would Be It"
+    }
+  },
+  "day340": {
+    "tweet1": {
+      "content": "Top Stock Reports for Procter & Gamble, Exxon Mobil & Adobe"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: ExxonMobil, Chevron, Royal Dutch Shell, Equinor and ConocoPhillips"
+    }
+  },
+  "day341": {
+    "tweet1": {
+      "content": "EXPLAINER-Not as bad as it looks? Pemex's $24 bln loss mostly accounting distortion"
+    }
+  },
+  "day342": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day343": {
+    "tweet1": {
+      "content": "7 Best Energy Stocks to Ride Out Oil's Recovery"
+    }
+  },
+  "day344": {
+    "tweet1": {
+      "content": "Now we know: ETFs have made the investing world a better place"
+    },
+    "tweet2": {
+      "content": "3 Top Oil Stocks to Buy Right Now"
+    }
+  },
+  "day345": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day346": {
+    "tweet1": {
+      "content": "US Stocks Close Slightly Higher Friday Despite Retail Report"
+    },
+    "tweet2": {
+      "content": "Eni appoints Citi to sell Australia gas assets - sources"
+    }
+  },
+  "day347": {
+    "tweet1": {
+      "content": "U.S. Supreme Court declines to hear Venezuela's appeal in Crystallex case"
+    },
+    "tweet2": {
+      "content": "David Seaton Just Bought 2400% More Shares In ConocoPhillips (NYSE:COMPANY_X)"
+    }
+  },
+  "day348": {
+    "tweet1": {
+      "content": "Goldman Sachs: 3 Stocks With Double-Digit Upside"
+    }
+  },
+  "day349": {
+    "tweet1": {
+      "content": "ConocoPhillips Announces Don E. Wallette, Jr. to Retire After 39 Years with the Company"
+    }
+  },
+  "day350": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day351": {
+    "tweet1": {
+      "content": "Despite Challenges, Consider BP Stock a Bottom-Fisher’s Buy"
+    }
+  },
+  "day352": {
+    "tweet1": {
+      "content": "ConocoPhillips Gets Approval to Use Valaris Rig for Ekofisk"
+    }
+  },
+  "day353": {
+    "tweet1": {
+      "content": "Is ConocoPhillips (COMPANY_X) A Good Stock To Buy?"
+    },
+    "tweet2": {
+      "content": "Oil & Gas Stock Roundup: Halliburton Lowers Dividend, National Oilwell Stops Paying"
+    }
+  },
+  "day354": {
+    "tweet1": {
+      "content": "ConocoPhillips Completes Sale of Interests in Australia-West"
+    }
+  },
+  "day355": {
+    "tweet1": {
+      "content": "Top Energy Stocks for June 2020"
+    },
+    "tweet2": {
+      "content": "Climate Crusaders vs. Big Oil: Who Will Win the Legal Row?"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips Closes Australian Asset Divestment to Santos"
+    }
+  },
+  "day356": {
+    "tweet1": {
+      "content": "US Indexes Start the Month of June Slightly Higher"
+    }
+  },
+  "day357": {
+    "tweet1": {
+      "content": "Oil & Gas Stock Roundup: Occidental's 2nd Dividend Cut, Williams' Solar Push & More"
+    }
+  },
+  "day358": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day359": {
+    "tweet1": {
+      "content": "3 Ways To Play The Oil Price Bounce"
+    },
+    "tweet2": {
+      "content": "3 Top Oil Stocks to Buy in June"
+    }
+  },
+  "day360": {
+    "tweet1": {
+      "content": "US Indexes Gain Friday After Jobs Report"
+    }
+  },
+  "day361": {
+    "tweet1": {
+      "content": "6 Energy Stocks Trading With Low Price-Sales Ratios"
+    },
+    "tweet2": {
+      "content": "The 3 Safest Oil Dividends Right Now"
+    },
+    "tweet3": {
+      "content": "Sirius XM Radio Inc. -- Moody's assigns Ba3 rating to Sirius XM Radio's new senior unsecured notes"
+    }
+  },
+  "day362": {
+    "tweet1": {
+      "content": "ConocoPhillips to Hold Second-Quarter Earnings Conference Call on Thursday, July 30"
+    },
+    "tweet2": {
+      "content": "OFFICIAL CORRECTION: ConocoPhillips CEO says Chinese protocols helped it through coronavirus pandemic"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips CEO says Chinese protocols helped it through coronavirus pandemic"
+    }
+  },
+  "day363": {
+    "tweet1": {
+      "content": "Here's Why ConocoPhillips is Planning to Raise Production"
+    }
+  },
+  "day364": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day365": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day366": {
+    "tweet1": {
+      "content": "BP Submits to Brutal Reality on the Future of Oil"
+    }
+  },
+  "day367": {
+    "tweet1": {
+      "content": "Oil & Gas Stock Roundup: BP's $17.5B Writedown, ConocoPhillips' Production Plans & More"
+    }
+  },
+  "day368": {
+    "tweet1": {
+      "content": "Oil Declines on Signs of Rising U.S. Stockpiles, Covid Rebound"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips to Restart Normal Upstream Activities in Alaska"
+    }
+  },
+  "day369": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day370": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day371": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day372": {
+    "tweet1": {
+      "content": "Top Energy Stocks for July 2020"
+    },
+    "tweet2": {
+      "content": "5 Oil & Gas Stocks That Have Shown They Can Grow Safely"
+    }
+  },
+  "day373": {
+    "tweet1": {
+      "content": "Australia's FAR says Senegalese unit in default over Sangomar project"
+    }
+  },
+  "day374": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day375": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day376": {
+    "tweet1": {
+      "content": "U.S. Cases Rise 1.2%; Worst Yet to Come, WHO Says: Virus Update"
+    }
+  },
+  "day377": {
+    "tweet1": {
+      "content": "Oil Price Fundamental Daily Forecast – After Big API Draw, Bulls Hoping for Surprise in EIA Report"
+    },
+    "tweet2": {
+      "content": "Crude Posts Best Quarter Since 1990 After Historic Price Crash"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips to bring back some curtailed production"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips Plans to Restart Production in Alaska in July"
+    },
+    "tweet5": {
+      "content": "ConocoPhillips to restore curtailed production in Alaska in July"
+    },
+    "tweet6": {
+      "content": "ConocoPhillips to bring back some curtailed production"
+    },
+    "tweet7": {
+      "content": "ConocoPhillips Provides Update on Production Curtailment Activities"
+    },
+    "tweet8": {
+      "content": "Oil major ConocoPhillips deploys low-code tech to boost bottom line"
+    }
+  },
+  "day378": {
+    "tweet1": {
+      "content": "Sell Exxon Stock Ahead of Earnings, Buy Chevron ConocoPhillips, Says Goldman"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips to Revive Output, Expects Q2 Profit to Fall Y/Y"
+    }
+  },
+  "day379": {
+    "tweet1": {
+      "content": "US Indexes Close Higher to End the Shortened Week"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips Taps Low-Code Software to Help It Adapt to the Times"
+    }
+  },
+  "day380": {
+    "tweet1": {
+      "content": "Is ConocoPhillips (NYSE:COMPANY_X) Expensive For A Reason? A Look At Its Intrinsic Value"
+    }
+  },
+  "day381": {
+    "tweet1": {
+      "content": "Were Hedge Funds Right About Piling Into ConocoPhillips (COMPANY_X)?"
+    },
+    "tweet2": {
+      "content": "Here's Why You Should Buy ConocoPhillips Stock Right Now"
+    }
+  },
+  "day382": {
+    "tweet1": {
+      "content": "ConocoPhillips Announces Quarterly Dividend of 42 Cents Per Share"
+    }
+  },
+  "day383": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day384": {
+    "tweet1": {
+      "content": "Why ConocoPhillips Stock Plummeted in the First Half of 2020"
+    }
+  },
+  "day385": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day386": {
+    "tweet1": {
+      "content": "5 Energy Companies to Consider as New Coronavirus Cases Cause Concern"
+    }
+  },
+  "day387": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day388": {
+    "tweet1": {
+      "content": "Individual Investors Stick With Stocks Amid Rising Anxiety"
+    }
+  },
+  "day389": {
+    "tweet1": {
+      "content": "U.S. Oil Companies Are Drilling Again. Here’s Who’s Ramping Up."
+    }
+  },
+  "day390": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day391": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day392": {
+    "tweet1": {
+      "content": "U.S. oil major ConocoPhillips buys Canadian land from Kelt in $375 million deal"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips Announces Agreement to Acquire Liquids-Rich Montney Acreage from Kelt Exploration Ltd."
+    }
+  },
+  "day393": {
+    "tweet1": {
+      "content": "Earnings Preview: ConocoPhillips (COMPANY_X) Q2 Earnings Expected to Decline"
+    },
+    "tweet2": {
+      "content": "ConocoPhillips Boosts Montney Footprint With $375M Acquisition"
+    }
+  },
+  "day394": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day395": {
+    "tweet1": {
+      "content": "Top Energy Stocks for August 2020"
+    },
+    "tweet2": {
+      "content": "Is a Beat in Store for ConocoPhillips' (COMPANY_X) Q2 Earnings?"
+    }
+  },
+  "day396": {
+    "tweet1": {
+      "content": "Socially Conscious Investing Thrives Amid Pandemic"
+    }
+  },
+  "day397": {
+    "tweet1": {
+      "content": "3 Top Oil Stocks to Buy in August"
+    },
+    "tweet2": {
+      "content": "Is a Surprise Coming for ConocoPhilips (COMPANY_X) This Earnings Season?"
+    }
+  },
+  "day398": {
+    "tweet1": {
+      "content": "US Indexes Close Mostly Lower Thursday After GDP Report"
+    },
+    "tweet2": {
+      "content": "Oil Slides Most in a Month on Grim Economic Signals"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips (COMPANY_X) Q2 Earnings Miss on Low Crude Prices"
+    },
+    "tweet4": {
+      "content": "ConocoPhillips Earnings Lag Expectations on Weak Oil Market"
+    },
+    "tweet5": {
+      "content": "Total and Apache Stocks: 2 Winners From Otherwise Dismal Oil Earnings"
+    },
+    "tweet6": {
+      "content": "ConocoPhillips' Earnings Tumble Along With Oil Prices"
+    },
+    "tweet7": {
+      "content": "How Does ConocoPhillips's Debt Look Like?"
+    },
+    "tweet8": {
+      "content": "ConocoPhillips (COMPANY_X) Reports Q2 Loss, Misses Revenue Estimates"
+    },
+    "tweet9": {
+      "content": "ConcoPhillips posts wider-than-expected adjusted loss as weak oil price, slack demand during pandemic weigh"
+    },
+    "tweet10": {
+      "content": "ConocoPhillips to reverse most output cuts by end of third quarter"
+    },
+    "tweet11": {
+      "content": "ConocoPhillips Reports Second-Quarter 2020 Results"
+    },
+    "tweet12": {
+      "content": "Stocks - Qualcomm, PayPal Rise Premarket; ConocoPhillips Falls"
+    }
+  },
+  "day399": {
+    "tweet1": {
+      "content": "Oil Ends July Slightly up, With Foreboding Shadow of OPEC Supply"
+    },
+    "tweet2": {
+      "content": "Is Weakness In ConocoPhillips (NYSE:COMPANY_X) Stock A Sign That The Market Could be Wrong Given Its Strong Financial Prospects?"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips (COMPANY_X) Q2 2020 Earnings Call Transcript"
+    }
+  }
+}

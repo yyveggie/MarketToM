@@ -1,0 +1,574 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "SPAQ Is an Interesting Play in a Red-Hot EV Market"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Toyota, Hino team up to build fuel cell electric trucks for North America market"
+    },
+    "tweet2": {
+      "content": "Hino Trucks And Toyota Jointly Develop Class 8 Fuel Cell Electric Truck For North America"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "3 Things You Didn't Know About Electric-Vehicle Stocks"
+    },
+    "tweet2": {
+      "content": "Toyota & Hino Team Up to Develop Hydrogen Fuel Cell Trucks"
+    },
+    "tweet3": {
+      "content": "Toyota, Panasonic To Establish New Hybrid EV Battery Production Line In Japan"
+    },
+    "tweet4": {
+      "content": "Prime Planet Energy & Solutions To Begin Production Of Prismatic Lithium-ion Batteries "
+    },
+    "tweet5": {
+      "content": "Toyota-Panasonic venture to build lithium-ion batteries for hybrids in Japan"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "PlayStation Inventor Starts New Career Making Robots for No Pay"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "7 Growth Hacks for a Bulletproof Electric Car Portfolio"
+    },
+    "tweet2": {
+      "content": "Most popular brands during COVID-19, according to MBLM brand intimacy report"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Toyota Motor North America Announces Executive Changes"
+    },
+    "tweet2": {
+      "content": "Auto Stock Roundup: GPI's Stellar Preliminary Results, THO's Payout Hike & More"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "General Motors' Q3 Vehicle Sales Gather Momentum in China"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Mostly everyone is buying a new car during COVID-19: Shift.com co-CEO"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "SoftBank’s Son Presses Grab for Truce With Rival Gojek"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Workhouse Has a Tall Order to Climb"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Robotic kitchen startup YPC raises a $1.8M seed round"
+    },
+    "tweet2": {
+      "content": "Toyota bets on start-up Tugende's small loans to boost Africa business"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Tesla Earnings: What Happened With TSLA"
+    },
+    "tweet2": {
+      "content": "Apple’s Shifting Supply Chain Creates Boomtowns in Rural Vietnam"
+    },
+    "tweet3": {
+      "content": "The Argus Global Dividend Model Portfolio"
+    },
+    "tweet4": {
+      "content": "Moody's - No-deal Brexit could be more negative on UK automakers’ credit quality than COVID-19"
+    },
+    "tweet5": {
+      "content": "Moody's - No-deal Brexit could be more negative on UK automakers’ credit quality than COVID-19"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Japan to Use Wind, Batteries to Meet Lofty 2050 Carbon Goal"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Tesla’s EVs Are Really Profitable. Why Its Stock Could Trade at $720."
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "2021 Toyota Sienna Hits Dealerships This November"
+    },
+    "tweet2": {
+      "content": "Toyota-Panasonic battery JV to boost efficiency to catch up with Chinese rivals"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Toyota recalling 5.84 million vehicles for fuel pump issue"
+    },
+    "tweet2": {
+      "content": "Toyota boosts U.S. fuel pump recall to 3.34 million total vehicles"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Cross-Sector: Market Data Highlights"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Toyota Announces Partnership With 23XI Racing"
+    },
+    "tweet2": {
+      "content": "Toyota to invest $500 million in KDDI to deepen ties for 'connected car'"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Toyota Fuels Appetite For Adventure With Supras And Tacoma"
+    },
+    "tweet2": {
+      "content": "NIO stock touches all-time highs after doubling EV deliveries to a new monthly record"
+    },
+    "tweet3": {
+      "content": "Nikkei rebounds from 2-month low on upbeat domestic earnings"
+    },
+    "tweet4": {
+      "content": "Nikkei rebounds from 2-month low as earnings recover"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "‘We are impressed by the resiliency of the American consumer:’ Analyst on October auto sales"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Ed Laukes To Retire From Toyota Motor North America"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Toyota more than doubles profit forecast as China sales rebound from pandemic"
+    },
+    "tweet2": {
+      "content": "Toyota to double full-year profit forecast to more than $9.7 billion - media"
+    },
+    "tweet3": {
+      "content": "Toyota, Honda double profit outlook as China rebounds from pandemic"
+    },
+    "tweet4": {
+      "content": "Toyota to double FY operating profit forecast to above $9.7 bln -paper"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Toyota Doubles 2021 Operating Profit Forecast As China Demand Rebounds"
+    },
+    "tweet2": {
+      "content": "Toyota-backed startup Pony.ai raises $267 million in latest fundraising"
+    },
+    "tweet3": {
+      "content": "Toyota more than doubles full-year profit outlook"
+    },
+    "tweet4": {
+      "content": "Toyota more than doubles profit outlook as China sales rebound from pandemic"
+    },
+    "tweet5": {
+      "content": "Toyota RAV4 TRD Off-Road Named Compact SUV of Texas"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Why online car sales are surging amid COVID-19"
+    },
+    "tweet2": {
+      "content": "Toyota Motor Corporation (COMPANY_X) Q2 2021 Earnings Call Transcript"
+    },
+    "tweet3": {
+      "content": "Auto Stock Roundup: NAV-VWAGY Buyout Deal, GM's Q3 Earnings & More"
+    },
+    "tweet4": {
+      "content": "How Hydrogen Is and Isn’t the Future of Energy"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Lyft beats earnings estimates; co-founder says it's one of the best COVID-19 recovery stocks"
+    },
+    "tweet2": {
+      "content": "Nikola CEO: We are prepared to 'go to market alone if we have to,' without General Motors"
+    },
+    "tweet3": {
+      "content": "Toyota (COMPANY_X) Q3 Earnings & Sales Top Estimates, View Up"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "10th Annual Toyota Dream Car USA Art Contest Opens November 16"
+    },
+    "tweet2": {
+      "content": "Top Research Reports for Facebook, Verizon & Toyota Motor"
+    },
+    "tweet3": {
+      "content": "Toyota halts production at Indian plant after labour union strike"
+    },
+    "tweet4": {
+      "content": "Nissan's prospects brighten as China rebounds, but struggle ahead for weakened car maker"
+    },
+    "tweet5": {
+      "content": "Nissan's prospects brighten as China rebounds, but struggle ahead for weakened car maker"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Tesla rival Xpeng is differentiating itself in the electric car market"
+    },
+    "tweet2": {
+      "content": "BMW CEO says sees Toyota alliance going beyond 2025"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Facebook, Verizon, Toyota Motor, Novo Nordisk, Applied Materials and General Motors"
+    },
+    "tweet4": {
+      "content": "Toyota's Collaborative Safety Research Center to Launch New System Usability Research with Partners including University of Michigan and State Farm"
+    },
+    "tweet5": {
+      "content": "Iwatani Corporation of America and Toyota Collaborate to Bring Seven New Hydrogen Refueling Stations to Southern California"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Uber in talks to sell ATG self-driving unit to Aurora"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Tesla to Join S&P 500 Next Month as Largest-Ever New Member"
+    },
+    "tweet2": {
+      "content": "When Tesla Joins the S&P 500, You Know It’s Game Over"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Nissan's Britain business tough to sustain without Brexit trade deal - COO Gupta"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "China Defies Elon Musk’s Warnings and Pushes Ahead With Hydrogen"
+    },
+    "tweet2": {
+      "content": "Tesla slides to bottom of Consumer Reports’ reliability survey"
+    },
+    "tweet3": {
+      "content": "Toyota Financial Services Corporation -- Moody's announces completion of a periodic review of ratings of Toyota Motor Corporation"
+    },
+    "tweet4": {
+      "content": "Toyota Motor North America Announces Manufacturing Executive Changes"
+    },
+    "tweet5": {
+      "content": "Are Japan's Big 3 Automakers Lagging Behind in the EV Race?"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Cars that hold their value the best - and the worst"
+    },
+    "tweet2": {
+      "content": "3 Reasons to Avoid Nikola Stock as Hype Catches up to the EV Maker"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Tesla (TSLA) Will Be Part of the S&P 500 Come December"
+    },
+    "tweet2": {
+      "content": "The Michigan Moonshot Partners with Toyota and Cisco to Expand Wi-Fi Access in Detroit, Inkster, Flint and Washtenaw County, Michigan"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Black Market Launches Virtual Platform To Showcase Black Designers"
+    },
+    "tweet2": {
+      "content": "General Motors (GM) to Recall 6M Vehicles for Takata Airbag Issue"
+    },
+    "tweet3": {
+      "content": "Toyota Financial Services (South Africa) Ltd. -- Moody's downgrades Toyota Financial Services (South Africa) to (P)A3 from (P)A2; outlook negative"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Ford Can Be Fixed. Why Its Stock Could Double."
+    },
+    "tweet2": {
+      "content": "UK Auto Industry at Crossroads, Awaits Brexit Deal Conclusion"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "Ford says automakers should consider backing California emissions deal"
+    },
+    "tweet2": {
+      "content": "Auto Stock Roundup: General Motors (GM), Tesla (TSLA) Issue Recalls and More"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "Biden Win Is Pressuring Carmakers to Unite on Tailpipe Rules"
+    },
+    "tweet2": {
+      "content": "Coming Together for Giving Tuesday"
+    },
+    "tweet3": {
+      "content": "Volkswagen faces leadership crisis as CEO demands vote of confidence"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "Team Toyota Welcomes Four New Winter Athletes to All-Star Roster"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "U.S. November Auto Sales Recovery Loses Steam: Here's Why"
+    },
+    "tweet2": {
+      "content": "Stop Dissing Electric-Car Companies Already"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "Not Even Tesla Stock Can Ignore Gravity Forever"
+    },
+    "tweet2": {
+      "content": "7 Auto Stocks to Watch Going Into 2021"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "Uber Sells Self-Driving Unit to Aurora, Takes Startup Stake"
+    },
+    "tweet2": {
+      "content": "Uber Is Selling Its Self-Driving-Car Unit to Aurora"
+    },
+    "tweet3": {
+      "content": "Brexit: Toyota says no-deal outcome will be 'very negative'"
+    },
+    "tweet4": {
+      "content": "3 reasons Tesla isn’t our Company of the Year"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "We’re Still Only Halfway to Electric Cars"
+    },
+    "tweet2": {
+      "content": "Uber Sells Flying Taxi Division to Joby in Broader Retrenchment"
+    },
+    "tweet3": {
+      "content": "Nissan (NSANY) Renounces Trump Over California Emission Tussle"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "Toyota Glory 2020 Phase II Retail Auto Loan Credit Asset-backed Securities -- Moody's upgrades 13 ratings on notes issued by 9 Chinese auto ABS due to change in China's local currency country ceiling"
+    },
+    "tweet2": {
+      "content": "Moody's upgrades 13 ratings on notes issued by 9 Chinese auto ABS due to change in China's local currency country ceiling"
+    },
+    "tweet3": {
+      "content": "Bavarian Sky China 2018-2 Trust -- Moody's upgrades 13 ratings on notes issued by 9 Chinese auto ABS due to change in China's local currency country ceiling"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "Toyota Equips Kenworth Class 8 Truck With Updated Fuel Cell"
+    },
+    "tweet2": {
+      "content": "Top Car Stocks for Q1 2021"
+    },
+    "tweet3": {
+      "content": "Toyota Motor North America Announces Executive Changes"
+    },
+    "tweet4": {
+      "content": "Toyota Moves Closer to Production with Next Generation Fuel Cell Electric Technology for Zero-Emissions Heavy Duty Trucks"
+    },
+    "tweet5": {
+      "content": "First Heavy Duty Fuel Cell Electric Trucks Set for Delivery to Pilot Program Customers at Ports of L.A. and Long Beach"
+    },
+    "tweet6": {
+      "content": "Why QuantumScape Stock Is Down Today"
+    },
+    "tweet7": {
+      "content": "The Economic Consequences of a No-Deal Brexit"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "Tesla Stock Versus GE: A Tale of Two Bears"
+    },
+    "tweet2": {
+      "content": "Nikkei slips on worries over Brexit, U.S. stimulus"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "Apple's Globalization Plans Meet a Baton Charge in India"
+    },
+    "tweet2": {
+      "content": "Wall Street’s Dilemma: What Are Tesla’s Shares Worth?"
+    },
+    "tweet3": {
+      "content": "3 Electric Vehicle Stocks That Could Keep Gaining Into 2021"
+    },
+    "tweet4": {
+      "content": "Toyota (COMPANY_X) in Focus: Stock Moves 5.5% Higher"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "Ford Mustang Mach-E: Ford's First Serious Tesla Rival Deemed A Winner"
+    },
+    "tweet2": {
+      "content": "Every Step Counts - Toyota Releases its 2020 North American Environmental Report"
+    },
+    "tweet3": {
+      "content": "D. R. Horton, Express, Tesla, General Motors and Toyota Motor highlighted as Zacks Bull and Bear of the Day"
+    },
+    "tweet4": {
+      "content": "COMPANY_X, HMC & Others to Watch as Japan Revs Up EV Goals"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "Toyota Introduces Second-Generation Mirai Fuel Cell Electric Vehicle as Design and Technology Flagship Sedan"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "Toyota plans to shut UK and French plants early over border delays"
+    },
+    "tweet2": {
+      "content": "Why Investors Are Excited About These 2 Auto Stocks"
+    },
+    "tweet3": {
+      "content": "Tesla in S&P 500 is only a tiny step in company's ride to a $1 trillion valuation"
+    },
+    "tweet4": {
+      "content": "Is Toyota Motor Corp. (COMPANY_X) a Good Value Investor Stock Now?"
+    },
+    "tweet5": {
+      "content": "2 Electric Vehicle ETFs Charging Higher"
+    },
+    "tweet6": {
+      "content": "Tesla Investors Beware: Toyota's President Just Threw Shade on the EV Revolution"
+    },
+    "tweet7": {
+      "content": "Toyota Reveals Additional SEMA Builds Based on Supra and Tacoma"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "Apple reportedly working on an electric car sends the stock of this Bill Gates-backed battery startup surging"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "Nuro can now operate and charge for autonomous delivery services in California"
+    },
+    "tweet2": {
+      "content": "Twenty years ago Nissan squeezed suppliers, now it needs their help"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "Carmakers to avoid tariffs as Britain wins parts victory"
+    },
+    "tweet2": {
+      "content": "If Apple makes a $75K electric vehicle, here's how it would affect its bottom line"
+    },
+    "tweet3": {
+      "content": "The Silver Lining of 2020*"
+    },
+    "tweet4": {
+      "content": "RPT-Twenty years ago Nissan squeezed suppliers, now it needs their help"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "8 Questions With Nikola Head Of Manufacturing Mark Duchesne"
+    },
+    "tweet2": {
+      "content": "Cryptocurrency Is Not Necessarily the Future"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

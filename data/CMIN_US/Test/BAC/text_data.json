@@ -1,0 +1,865 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Bank of America wades into digital financial planning space"
+    },
+    "tweet2": {
+      "content": "EXCLUSIVE-Warburg Pincus, Gavea ready IPO of Brazil facilities company GPS -sources"
+    },
+    "tweet3": {
+      "content": "Bank of America wades into digital budgeting space"
+    },
+    "tweet4": {
+      "content": "BUZZ-U.S. STOCKS ON THE MOVE-TC PipeLines, energy stocks, big banks, Plug Power"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "After Hours Most Active for Oct 6, 2020 :  PCG, BWA, TLT, POOL, AAPL, COMPANY_X, CFFN, JEF, QQQ, CMCSA, LEVI, HIL"
+    },
+    "tweet2": {
+      "content": "JFrog Shares Jumped High Post-IPO, but Now It’s Time for Caution"
+    },
+    "tweet3": {
+      "content": "It's Profitable To Be Patient With Citigroup Stock"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "BUZZ-U.S. STOCKS ON THE MOVE-Workday, Stable Road Acquisition, RedHill Biopharma, Fox Corp, Disney"
+    },
+    "tweet2": {
+      "content": "Wells Fargo cuts more jobs as part of earlier cost-cutting drive"
+    },
+    "tweet3": {
+      "content": "Sovcomflot shares drop below IPO price tag in Moscow debut"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Mexico's Pemex plans bond to raise up to $1.5 bln to refinance debt, source says"
+    },
+    "tweet2": {
+      "content": "Bank of America to get into small dollar lending"
+    },
+    "tweet3": {
+      "content": "5 Things to Expect When Banks Report Q3 Earnings"
+    },
+    "tweet4": {
+      "content": "Sensor maker AMS plans new bonds, bridge loan to secure long-term financing"
+    },
+    "tweet5": {
+      "content": "JPMorgan pledges $30 billion to address racial wealth gap"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "RBC’s Cassidy on big bank earnings"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "S&P 500 Slumps: Oil Stocks Say We Got This! Big Banks, Coronavirus Drugmakers Say Not So Fast"
+    },
+    "tweet2": {
+      "content": "Here's How Much Investing $1,000 In Bank Of America At Great Recession Lows Would Be Worth Today"
+    },
+    "tweet3": {
+      "content": "Market Recap: Wednesday, October 14"
+    },
+    "tweet4": {
+      "content": "Stock Market Today: COVID Concerns Continue to Cool Stocks' Momentum"
+    },
+    "tweet5": {
+      "content": "Bank of America Corp. stock falls Wednesday, underperforms market"
+    },
+    "tweet6": {
+      "content": "Big banks are cautiously optimistic about the economic recovery"
+    },
+    "tweet7": {
+      "content": "Goldman Sachs Earnings Crush Views After Bank Of America, Wells Fargo Disappoint"
+    },
+    "tweet8": {
+      "content": "Venmo's New Credit Card, Square's New Investment, and a Preview of Bank Earnings"
+    },
+    "tweet9": {
+      "content": "Big banks offer cautious optimism over economic recovery"
+    },
+    "tweet10": {
+      "content": "Wells Fargo Q3 earnings miss on net interest income, Bank of America earnings disappoint"
+    },
+    "tweet11": {
+      "content": "Buy the worst? Here are 5 destroyed stocks for this bottom-fishing strategy"
+    },
+    "tweet12": {
+      "content": "Bank of America Shareholders Running For The Exits"
+    },
+    "tweet13": {
+      "content": "Merrill Lynch Results Hurt by Low-Rate Environment"
+    },
+    "tweet14": {
+      "content": "Bank of America, Wells Fargo earnings miss estimates due to low rate pressures"
+    },
+    "tweet15": {
+      "content": "Bank of America sees Q3 as the ‘bottom’ for net interest income"
+    },
+    "tweet16": {
+      "content": "Citi's investor call didn't impress this analyst yet he maintains a ‘buy’ rating, here's why"
+    },
+    "tweet17": {
+      "content": "Goldman Is Different From Other Bank Stocks. Its Earnings Prove It."
+    },
+    "tweet18": {
+      "content": "Markets move higher with major earnings, presidential election in focus"
+    },
+    "tweet19": {
+      "content": "Bank of America Earnings: Look Past the Headline Numbers"
+    },
+    "tweet20": {
+      "content": "BofA Traders Fall Short of Rivals as Revenue Forecast Missed"
+    },
+    "tweet21": {
+      "content": "Big Bank Stocks Are Dropping After Earnings Beats. Why Goldman Sachs Is Rising."
+    },
+    "tweet22": {
+      "content": "Bank of America, Wells Fargo, Goldman Sachs posts Q3 earnings reports"
+    },
+    "tweet23": {
+      "content": "BofA (COMPANY_X) Q3 Earnings Lag on Subdued Fee Income Performance"
+    },
+    "tweet24": {
+      "content": "Bank of America (COMPANY_X) Q3 Earnings and Revenues Miss Estimates"
+    },
+    "tweet25": {
+      "content": "Bank of America Earnings: What Happened with COMPANY_X"
+    },
+    "tweet26": {
+      "content": "Recap: Bank of America Q3 Earnings"
+    },
+    "tweet27": {
+      "content": "Bank of America's stock falls after profit beats, but revenue falls shy"
+    },
+    "tweet28": {
+      "content": "Bank of America Reports Third-Quarter 2020 Financial Results"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "Morgan Stanley Earnings Beat On Strong Trading Results"
+    },
+    "tweet2": {
+      "content": "Morgan Stanley has seen success in move towards 'sustainability' in third quarter: Analyst"
+    },
+    "tweet3": {
+      "content": "US Indexes Close Lower Wednesday"
+    },
+    "tweet4": {
+      "content": "Morgan Stanley’s Earnings Soared. The Stock Is Going Nowhere."
+    },
+    "tweet5": {
+      "content": "Company News for Oct 15, 2020"
+    },
+    "tweet6": {
+      "content": "Bank of America (COMPANY_X) Q3 2020 Earnings Call Transcript"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Bank of America Corp. stock outperforms market on strong trading day"
+    },
+    "tweet2": {
+      "content": "U.S. Retail Sales Top Estimates With Biggest Gain Since June"
+    },
+    "tweet3": {
+      "content": "The biggest US banks show the worst is yet to come for the economy"
+    },
+    "tweet4": {
+      "content": "WW International partners with Bank of America, Beyond Meat to close the nutrition gap"
+    },
+    "tweet5": {
+      "content": "Bank of America Issues 2020 Human Capital Management Report"
+    },
+    "tweet6": {
+      "content": "Warren Buffett embodies everything Make-A-Wish does: Richard Davis"
+    },
+    "tweet7": {
+      "content": "Jack Ma’s Ant Group Raises IPO Valuation Target to $280 Billion"
+    },
+    "tweet8": {
+      "content": "Debt buyers are betting on big banks — over the short term, at least"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Bank of America Corp. stock falls Monday, underperforms market"
+    },
+    "tweet2": {
+      "content": "Goldman Is Crushing It. Its Stock Remains a Bargain."
+    },
+    "tweet3": {
+      "content": "Goldman Sachs Traders Slow Down, But the Bank Doesn't"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Bank of America Corp. stock outperforms competitors on strong trading day"
+    },
+    "tweet2": {
+      "content": "Were Hedge Funds Right About Ditching Bank of America Corporation (COMPANY_X)?"
+    },
+    "tweet3": {
+      "content": "Bank of America names Fernando Vicario as new EU bank boss"
+    },
+    "tweet4": {
+      "content": "Bank of America names Fernando Vicario as new EU bank boss"
+    },
+    "tweet5": {
+      "content": "Jack Ma’s Ant Receives Hong Kong Exchange Approval for IPO"
+    },
+    "tweet6": {
+      "content": "Intel Agrees to Sell Storage Unit to SK Hynix for $9 Billion"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Bank of America Corp. stock falls Wednesday, underperforms market"
+    },
+    "tweet2": {
+      "content": "Bank of America Declares Quarterly Stock Dividends"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "China Fintech Firm Lufax Seeks Up to $2.36 Billion in IPO"
+    },
+    "tweet2": {
+      "content": "New Jersey picks muni market over Fed for $4 billion bond sale"
+    },
+    "tweet3": {
+      "content": "Big U.S. banks’ day of reckoning is delayed"
+    },
+    "tweet4": {
+      "content": "Bank of America Corp. stock rises Thursday, outperforms market"
+    },
+    "tweet5": {
+      "content": "Big Bank Earnings Recap"
+    },
+    "tweet6": {
+      "content": "What Does Bank of America Mean for Berkshire Hathaway's Stock?"
+    },
+    "tweet7": {
+      "content": "4 Buffett Stocks That Can Be Surefire Winners Over the Next Decade"
+    },
+    "tweet8": {
+      "content": "A Spectacular 1986 Goal Still Inspires Debate on BOE Policy"
+    },
+    "tweet9": {
+      "content": "Ant Investors Will Have to Commit Days Before U.S. Election"
+    },
+    "tweet10": {
+      "content": "McAfee’s IPO Raises $740 Million in Return to Public Market"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Bank of America Corp. stock rises Friday, still underperforms market"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Microsoft Teams With Adobe and C3.ai to Take on Salesforce on Its Home Turf"
+    },
+    "tweet2": {
+      "content": "Bank of America Corp. stock outperforms competitors despite losses on the day"
+    },
+    "tweet3": {
+      "content": "Citi ‘will be prepared’ for contested 2020 election: CEO Michael Corbat"
+    },
+    "tweet4": {
+      "content": "Citi CEO Corbat: Negative interest rates create 'strange' bubbles"
+    },
+    "tweet5": {
+      "content": "Citi CEO Corbat: US economy ‘performed better’ than expected amid COVID"
+    },
+    "tweet6": {
+      "content": "Bank of America Announces 10 Completed Equity Investments in Minority Depository Institutions and Community Development Financial Institution Banks"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Bank of America Corp. stock falls Tuesday, underperforms market"
+    },
+    "tweet2": {
+      "content": "Investors Remain in the Neutral Zone as Anxiety Stays High"
+    },
+    "tweet3": {
+      "content": "Bank of America Buys Stakes in 3 Minority-Focused Banks"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Bank of America Corp. stock outperforms market despite losses on the day"
+    },
+    "tweet2": {
+      "content": "Moody's Fully Supported Municipal & IRB Deals"
+    },
+    "tweet3": {
+      "content": "Moody's Fully Supported Municipal & IRB Deals"
+    },
+    "tweet4": {
+      "content": "Did You Miss Bank of America's (NYSE:COMPANY_X) 39% Share Price Gain?"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "1921 Tulsa Race Massacre Centennial Commission Receives $1 Million Grant From Bank of America for Greenwood Rising"
+    },
+    "tweet2": {
+      "content": "Influencers with Andy Serwer: Michael Corbat"
+    },
+    "tweet3": {
+      "content": "Citigroup CEO on government stimulus: We probably need another round"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Next Treasury Sec. 'should have the heart of Main Street and the head of Wall Street': Mike Mayo"
+    },
+    "tweet2": {
+      "content": "Gold Trims Monthly Loss With Dollar Steady Ahead of U.S. Vote"
+    },
+    "tweet3": {
+      "content": "China Fintech Firm Lufax Set to Raise $2.4 Billion in U.S. IPO"
+    },
+    "tweet4": {
+      "content": "Bank of America Still Likes European Stocks, Despite the New Lockdowns"
+    },
+    "tweet5": {
+      "content": "Consumers have shown ‘phenomenal resiliency’ amid coronavirus: Citigroup CEO"
+    },
+    "tweet6": {
+      "content": "Dark Web Hackers Say They Hold Keys to 10,000 Robinhood Accounts"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Mortgage Delinquencies, Eviction Notices Pile Up As Protections Wind Down"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Bank Stocks Are Rallying. Which Ones to Buy for 4 Different Election Scenarios."
+    },
+    "tweet2": {
+      "content": "Dow Rallies as Traders Hunt Value on Signs Biden Edging Trump"
+    },
+    "tweet3": {
+      "content": "Dow Rides Value Stocks Higher as Americans Vote"
+    },
+    "tweet4": {
+      "content": "Where Will Bank of America Be in 1 Year?"
+    },
+    "tweet5": {
+      "content": "Spiking Volatility in China Shows Global Markets Are Nervous"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Dow Shines as Late Biden Swing Muddies Trump Path to White House"
+    },
+    "tweet2": {
+      "content": "Bank stocks drop as Treasury yields sink amid election uncertainty"
+    },
+    "tweet3": {
+      "content": "Dow Racks Up Gains as Tech Shines Amid Tight White House Race"
+    },
+    "tweet4": {
+      "content": "Bond Market’s Big Short Teeters With Stimulus Bets Taking a Hit"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Fee Income Supports Big Banks' Q3 Earnings: What's Next?"
+    },
+    "tweet2": {
+      "content": "Warren Buffett and Robinhood Traders Own This Stock -- Should You?"
+    },
+    "tweet3": {
+      "content": "What Does Erica Mean to Bank of America's Stock?"
+    },
+    "tweet4": {
+      "content": "The 3 Best Robinhood Stocks to Buy in November"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Bank of America Is the First Major Bank to Get the Go-Ahead on Small-Dollar Loans"
+    },
+    "tweet2": {
+      "content": "Preferred-Stock Yields Are Dropping. Banks Are Taking Advantage."
+    },
+    "tweet3": {
+      "content": "ByteDance’s Chief Rival Files for $5 Billion Hong Kong IPO"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Gym Carnage Rolls On With YouFit Chain Filing for Bankruptcy"
+    },
+    "tweet2": {
+      "content": "Online Brokers Suffer Service Failures as Markets Surge"
+    },
+    "tweet3": {
+      "content": "Bank Stocks Break Out on Upbeat Covid-19 Vaccine Data"
+    },
+    "tweet4": {
+      "content": "Financial stocks soar, led by American Express after upbeat news on potential COVID-19 vaccine"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Bank Stocks Still Have Room to Run Even With Challenges, Analyst Says"
+    },
+    "tweet2": {
+      "content": "Buffett Has Spent $67 Billion on These 3 Stocks Since 2016"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "The 5 Most Popular Credit Card Companies"
+    },
+    "tweet2": {
+      "content": "Mexico Holds Key Rate in Surprise Pause to Easing Cycle"
+    },
+    "tweet3": {
+      "content": "This Big Bank Could Be a War on Cash Winner"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "What Stocks Did Warren Buffett’s Berkshire Buy in the 3rd Quarter? We Will Soon Find Out."
+    },
+    "tweet2": {
+      "content": "Retracement in Bank Stocks Provides Buying Opportunity"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Warren Buffett's Berkshire loads up on Pfizer, other pharma stocks in Q3; exits Costco"
+    },
+    "tweet2": {
+      "content": "Big U.S. Bank Merger Means Big Smiles All Around"
+    },
+    "tweet3": {
+      "content": "New Premium Guru Li Lu's 4 Holdings"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Bruce Berkowitz's Top 4 Buys in the 3rd Quarter"
+    },
+    "tweet2": {
+      "content": "Fund Managers Are the Most Bullish They’ve Been All Year as Pandemic Gloom Begins to Lift"
+    },
+    "tweet3": {
+      "content": "Airbnb Files for IPO Disclosing Pandemic’s Effect on Rentals"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Merrill Lynch Reinsurance Solutions Ltd. -- Moody's affirms Bank of America's ratings, outlook remains stable"
+    },
+    "tweet2": {
+      "content": "Merrill Lynch Japan Finance GK -- Moody's affirms Bank of America's ratings, outlook remains stable"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Canada Finance Company -- Moody's affirms Bank of America's ratings, outlook remains stable"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Bank of America Expands the Bank of America Institute for Women’s Entrepreneurship at Cornell"
+    },
+    "tweet2": {
+      "content": "How Bank Of America Has Become One Of Warren Buffett's Best Investments"
+    },
+    "tweet3": {
+      "content": "BofA's (COMPANY_X) Ratings Affirmed by Moody's, Outlook Stable"
+    },
+    "tweet4": {
+      "content": "Bank of America Announces $2.65 Million Jobs Initiative for Black and Hispanic-Latino Students in Texas"
+    },
+    "tweet5": {
+      "content": "Moody's Fully Supported Municipal & IRB Deals"
+    },
+    "tweet6": {
+      "content": "DirectBooks Launches Communications Platform for the Primary Issuance of Corporate Bonds"
+    },
+    "tweet7": {
+      "content": "Bank of America Gives 21 Higher Education Institutions $1 Million Each as Part of Recently Announced $25 Million Jobs Initiative"
+    },
+    "tweet8": {
+      "content": "Why a Coronavirus Vaccine is Good News for Banks"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Bank Stocks May Rebound, But there Are Better Ideas Than Wells Fargo"
+    },
+    "tweet2": {
+      "content": "Online Marketplace Wish Files for Initial Public Offering"
+    },
+    "tweet3": {
+      "content": "Return On Capital Employed Overview: Bank of America"
+    },
+    "tweet4": {
+      "content": "Fund Managers Are Very Bullish on the Economy. Is That a Good Sign?"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Tencent Invests Another $150 Million in Waterdrop for Expansion"
+    },
+    "tweet2": {
+      "content": "15 Largest French Companies By Market Cap"
+    },
+    "tweet3": {
+      "content": "Gurus Looking Down on the Banking Sector"
+    },
+    "tweet4": {
+      "content": "Bank Stock Rally May Be Short Lived"
+    },
+    "tweet5": {
+      "content": "Will Bank Of America Or Wells Fargo Stock Grow More By 2025?"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Do Hedge Funds Love Bank of America Corporation (COMPANY_X)?"
+    },
+    "tweet2": {
+      "content": "Wells Fargo gets a double upgrade as Raymond James analyst sees positive catalysts ‘finally on the horizon’"
+    },
+    "tweet3": {
+      "content": "The Dow hitting 30,000 may just be the start, hints investing legend"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Bank Of America Option Trader Makes $2.6M Bet The Stock Is Headed Lower By January"
+    },
+    "tweet2": {
+      "content": "Li Lu's Himalaya Capital Doubles Up on Facebook in 3rd Quarter"
+    },
+    "tweet3": {
+      "content": "Bank of America Jolts Traders With Flat Bonus Pool in Omen for Wall Street"
+    },
+    "tweet4": {
+      "content": "JD Unit Seeks up to $3.5 Billion in Asia’s Biggest Health IPO"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "BofA (COMPANY_X) Plans to Keep 2020-end Bonus Flat Year Over Year"
+    },
+    "tweet2": {
+      "content": "Top 10 Stocks Warren Buffett Just Bought"
+    },
+    "tweet3": {
+      "content": "16 Largest Financial Services Companies in the World"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "Citigroup and Wells Fargo Are Morgan Stanley’s Top Bank Stock Picks"
+    },
+    "tweet2": {
+      "content": "Greg Fleming's Keys to Creating Effective Deals"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "Bank of America (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Bank of America joins big U.S. banks that won’t finance oil in the Arctic refuge Trump opened to drilling"
+    },
+    "tweet3": {
+      "content": "Cyber Monday Is Now Every Day"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "Georgia Republican reportedly flipped shares of anti-malware company dozens of times while serving on Senate’s cybersecurity subcommittee"
+    },
+    "tweet2": {
+      "content": "Treasury Yields Have Soared This Week. What Investors Should Expect Now."
+    },
+    "tweet3": {
+      "content": "Bank of America Research Finds Small Business Owners Remained Resilient During a Challenging Year"
+    },
+    "tweet4": {
+      "content": "Salesforce to Buy Software Maker Slack for $27.7 Billion"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "GE Competitor Siemens Healthineers Gets 2 Upgrades. Here’s Why."
+    },
+    "tweet2": {
+      "content": "Washington State University Health Sciences Launches Life Sciences Incubator, sp3nw, Supported by $250,000 Grant From Bank of America"
+    },
+    "tweet3": {
+      "content": "How Risky Is Bank of America Stock?"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "‘Stop Trading’ Act for Congress Isn’t Stopping Much Trading"
+    },
+    "tweet2": {
+      "content": "Dow, S&P 500 Close at Records on Signs of Stimulus Near"
+    },
+    "tweet3": {
+      "content": "London Has Lost Its Clout, Brexit Deal or No Brexit Deal"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "Airbnb, DoorDash Boost Price Ranges Ahead of Mega IPO Week"
+    },
+    "tweet2": {
+      "content": "1 Cheap Stock to Buy Before 2021"
+    },
+    "tweet3": {
+      "content": "ROCE Insights For Bank of America"
+    },
+    "tweet4": {
+      "content": "The 2020 stock market legacy, according to this strategist"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "Shares of Warren Buffett’s Berkshire Hathaway Still Underperform. Why It’s Time to Buy."
+    },
+    "tweet2": {
+      "content": "3 Surefire Robinhood Stocks to Buy in December"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "Siebel-Led C3.ai More Than Doubles After $651 Million IPO"
+    },
+    "tweet2": {
+      "content": "Bank of America Joins CVS Health to Fund and Deliver Free Flu Vaccine Vouchers"
+    },
+    "tweet3": {
+      "content": "Siebel-Led C3.ai Exceeds IPO Target to Raise $651 Million"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "Federal Reserve steps up climate-change response and gets immediate backlash from some House Republicans"
+    },
+    "tweet2": {
+      "content": "California jobless fraud likely tops $2 billion, Bank of America says"
+    },
+    "tweet3": {
+      "content": "3 Warren Buffett Dividend Stocks You Can Buy Right Now"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "Bank of America to join the Netherlands as a primary dealer in 2021 -DSTA"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "Bank of America Declares Preferred Stock Dividends"
+    },
+    "tweet2": {
+      "content": "Top 6 Stocks in GuruFocus Users' Christmas Wish Lists"
+    },
+    "tweet3": {
+      "content": "Wish Is Poised to Price IPO at Least at Top of Range"
+    },
+    "tweet4": {
+      "content": "Chart Patterns Suggest Value Stocks Are Headed Higher"
+    },
+    "tweet5": {
+      "content": "Mizuho and Credit Suisse Join DirectBooks"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "Bank of America Announces Full Redemption of Depositary Shares Representing Interests in Its 6.200% Non-Cumulative Preferred Stock, Series CC"
+    },
+    "tweet2": {
+      "content": "Mexico Holds Rate in Split Decision as Inflation Slows Down"
+    },
+    "tweet3": {
+      "content": "Pandemic putting ‘further strain’ on systems banks use: IBM Hybrid Cloud SVP"
+    },
+    "tweet4": {
+      "content": "Give Citigroup’s Bankers a Three-Month Break. Why Not?"
+    },
+    "tweet5": {
+      "content": "How Markets Can Defy Gravity Again in 2021"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "The Fed Just Said Banks Could Buy Back Stock Again. JPMorgan and Goldman Sachs Are Soaring."
+    },
+    "tweet2": {
+      "content": "JPMorgan OKs Massive Buyback After Stress Tests Clear Big Banks"
+    },
+    "tweet3": {
+      "content": "Stress Tests Clear Big Banks To Buy Back Shares Again In Q1"
+    },
+    "tweet4": {
+      "content": "Fed loosens restrictions on bank share buybacks after second stress test"
+    },
+    "tweet5": {
+      "content": "Dow Falls as Lawmakers Struggle to Find Breakthrough on Stimulus"
+    },
+    "tweet6": {
+      "content": "A More Upbeat Fed Will Decide On Bank Dividends, Buybacks For 2021"
+    },
+    "tweet7": {
+      "content": "Bank of America Could See an Upside Breakout Early Next Year"
+    },
+    "tweet8": {
+      "content": "Bank Of America Names Top 11 Stock Picks For 2021"
+    },
+    "tweet9": {
+      "content": "T-Bills Headed for 0% May Force the Fed’s Hand"
+    },
+    "tweet10": {
+      "content": "The 3 Best Warren Buffett Dividend Stocks to Buy Right Now"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "Banks Can Buy Back Stocks Again. Wall Street Is Cheering."
+    },
+    "tweet2": {
+      "content": "A Deep Dive Into nCino and the Silicon Valley Tech Exodus"
+    },
+    "tweet3": {
+      "content": "Financial sector holds despite fears of new coronavirus strain"
+    },
+    "tweet4": {
+      "content": "15 Largest NFL Stadiums in 2021"
+    },
+    "tweet5": {
+      "content": "ROCE Insights For Bank of America"
+    },
+    "tweet6": {
+      "content": "Banks Climb as Fed Permits Stock Buybacks to Resume"
+    },
+    "tweet7": {
+      "content": "The Fed Says Banks Can Buy Back Stock Again. JPMorgan and Goldman Sachs Are Soaring."
+    },
+    "tweet8": {
+      "content": "Dow Jones Futures Tumble On New Covid Strain; Stock Market Rally Mulls Stimulus Deal Vote, 3 Dow Giants Jump"
+    },
+    "tweet9": {
+      "content": "Banks stocks rally to buck broader market selloff after Fed to allow share buybacks again"
+    },
+    "tweet10": {
+      "content": "Bank Stocks Are Going to Be Higher Next Year, Expert Says"
+    },
+    "tweet11": {
+      "content": "Dow Jones Futures: Stock Market Rally Mulls 'Finalized' Stimulus Deal; Three Dow Giants Set To Jump"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "Bank of America (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Saudi’s $360 Billion Wealth Fund Rejigs Top Leadership"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "Market Recap: Wednesday, December 23"
+    },
+    "tweet2": {
+      "content": "3 Major Regional Bank Stocks to Watch Amid Coronavirus Woes"
+    },
+    "tweet3": {
+      "content": "3 High-Yield Dividend Stocks I'd Buy Right Now"
+    },
+    "tweet4": {
+      "content": "1 Fintech Company to Put on Your Radar"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "Zacks Industry Outlook Highlights: JPMorgan, Bank of America and Citigroup"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "Pensions Swamped in a Sea of Negative Real Rates"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "Bank of America (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "Warren Buffett's Top 5 Holdings Post Mixed Performances in 2020"
+    },
+    "tweet2": {
+      "content": "PayPal (PYPL) Closing Out Historic Year"
+    },
+    "tweet3": {
+      "content": "5 Reasons to Pick JPMorgan (JPM) Over Bank of America (COMPANY_X)"
+    }
+  }
+}

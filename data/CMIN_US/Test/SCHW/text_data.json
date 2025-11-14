@@ -1,0 +1,535 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "New Strong Sell Stocks for October 1st"
+    },
+    "tweet2": {
+      "content": "U.S. Initial Jobless Claims Fell to 837,000 Last Week"
+    },
+    "tweet3": {
+      "content": "Can Charles Schwab Stock Rebound From Large Drops?"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Week’s Best: Schwab, TD Ameritrade to Become One Soon"
+    },
+    "tweet2": {
+      "content": "Two prominent Trump allies say he'll step down if he loses but echo unfounded fraud fears"
+    },
+    "tweet3": {
+      "content": "Schwab-Ameritrade Deal Gets Regulatory Nod, To Close Soon"
+    },
+    "tweet4": {
+      "content": "Even Tesla Can Be a Penny Stock with Fractional Shares"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "After Hours Most Active for Oct 5, 2020 :  COMPANY_X, AMTD, CSCO, AAPL, PCG, MRO, MS, PFE, VIPS, BND, SGMS, QQQ"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Schwab Closes on TD Ameritrade Acquisition"
+    },
+    "tweet2": {
+      "content": "Schwab Closes on TD Ameritrade Acquisition"
+    },
+    "tweet3": {
+      "content": "Schwab-TD Ameritrade Merger Closes, Creating Giant RIA Custodian"
+    },
+    "tweet4": {
+      "content": "Former TD Ameritrade Chairman of the Board Joe Moglia bids farewell to the online broker in the wake of the Schwab acquisition and announces his plans for the future"
+    },
+    "tweet5": {
+      "content": "TD Gets 13.5% Stake In Charles Schwab Following Completion Of TD Ameritrade Transaction "
+    },
+    "tweet6": {
+      "content": "Schwab Completes Acquisition of TD Ameritrade"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "After Hours Most Active for Oct 7, 2020 :  COMPANY_X, IO, TWTR, MRO, CMCSA, FCX, SGMS, WFC, AAPL, UNIT, MSFT, RUN"
+    },
+    "tweet2": {
+      "content": "These 3 Stocks Would Benefit if Governments Send More Stimulus Checks"
+    },
+    "tweet3": {
+      "content": "Schwab Closes TD Ameritrade Buyout, Creates a Broker Behemoth"
+    },
+    "tweet4": {
+      "content": "Is Thinkorswim Sunk Now That Schwab Owns TD Ameritrade?"
+    },
+    "tweet5": {
+      "content": "Schwab Completes TD Ameritrade Takeover; Analyst Sees 39% Upside"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "TD Ameritrade Holding Corporation -- Moody's affirms TD Ameritrade senior debt at A2, outlook stable"
+    },
+    "tweet2": {
+      "content": "Morgan Stanley Eyed Eaton Vance for Several Years, CEO Says"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Week’s Best: Goodbye, TD Ameritrade"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Increased Client Activity to Aid Schwab (COMPANY_X) Q3 Earnings"
+    },
+    "tweet2": {
+      "content": "Charles Schwab Recognized as Most Trusted Online Broker by Investor’s Business Daily"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Is The Charles Schwab Corporation's (NYSE:COMPANY_X) Shareholder Ownership Skewed Towards Insiders?"
+    },
+    "tweet2": {
+      "content": "Earnings Outlook for Charles Schwab"
+    },
+    "tweet3": {
+      "content": "Most Boomer Investors Are Confident About Their Retirement Despite Pandemic and Market Uncertainties"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "Tech Wrecks S&P 500: Most Stocks Gain Today, but Facebook, Other Tech Giants Crash the Party"
+    },
+    "tweet2": {
+      "content": "The Stock Market Is Strong -- Just Look at Morgan Stanley and Schwab"
+    },
+    "tweet3": {
+      "content": "Charles Schwab Earnings Beat But Key Growth Metric Weakens"
+    },
+    "tweet4": {
+      "content": "Robinhood Internal Probe Finds Hackers Hit Almost 2,000 Accounts"
+    },
+    "tweet5": {
+      "content": "Charles Schwab (COMPANY_X) Struggling Despite Upbeat Quarter"
+    },
+    "tweet6": {
+      "content": "P/E Ratio Insights for Charles Schwab"
+    },
+    "tweet7": {
+      "content": "Schwab (COMPANY_X) Q3 Earnings Beat, Revenues Decline Y/Y"
+    },
+    "tweet8": {
+      "content": "Recap: Charles Schwab Q3 Earnings"
+    },
+    "tweet9": {
+      "content": "Schwab Reports Third Quarter Earnings Per Share of $.48 GAAP, $.51 Adjusted(1)"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Week’s Best: Executive Exodus at Schwab"
+    },
+    "tweet2": {
+      "content": "The Election May Make Markets Volatile. Brokers Are Raising Margin Requirements to Prepare."
+    },
+    "tweet3": {
+      "content": "Company News for Oct 16, 2020"
+    },
+    "tweet4": {
+      "content": "Even Apple Is a Penny Stock With Fractional Shares"
+    },
+    "tweet5": {
+      "content": "Analyst Report: Charles Schwab Corp."
+    },
+    "tweet6": {
+      "content": "Market Digest: TFC, COMPANY_X"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "'Account takeovers have exploded... bad actors know this is the best time to strike': Expert on Robinhood data hack"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Were Hedge Funds Right About Crowding The Charles Schwab Corporation (COMPANY_X)?"
+    },
+    "tweet2": {
+      "content": "Robinhood doesn’t require security step that’s standard on most competing online brokerages"
+    },
+    "tweet3": {
+      "content": "Schwab Survey: Employees With Company Stock Plans Welcome More Financial Advice as COVID-19 Drives Participants to Exercise or Sell Shares"
+    },
+    "tweet4": {
+      "content": "News Flash: Analysts Just Made A Sizeable Upgrade To Their The Charles Schwab Corporation (NYSE:COMPANY_X) Forecasts"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Why Cedar Creek Partners is Betting on Charles Schwab (COMPANY_X) Stock"
+    },
+    "tweet2": {
+      "content": "Interactive Brokers (IBKR) Q3 Earnings Meet, DARTs Rise Y/Y"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Analyst Report: The Charles Schwab Corporation"
+    },
+    "tweet2": {
+      "content": "Schwab Declares Common Stock Dividend and Declares Preferred Stock Dividends"
+    },
+    "tweet3": {
+      "content": "Schwab Adds Low-Cost Market-Cap-Weighted and Blended ETF Model Portfolios to Riskalyze Platform, Enabling Advisors to Create and Compare Investment Portfolios Based on Client Risk Tolerance"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Charles Schwab to cut about 1,000 jobs"
+    },
+    "tweet2": {
+      "content": "Charles Schwab to cut about 1,000 jobs"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Charles Schwab to Lay Off 1,000 Employees"
+    },
+    "tweet2": {
+      "content": "Schwab Independent Advisor Outlook Study Indicates Advisors Remain Optimistic Despite Challenges of COVID-19 Environment"
+    },
+    "tweet3": {
+      "content": "Charles Schwab Cuts About 1,000 Jobs in Wake of TD Ameritrade Merger"
+    },
+    "tweet4": {
+      "content": "Charles Schwab Stock Slips After Plan to Cut 3% of Workforce"
+    },
+    "tweet5": {
+      "content": "Microsoft, AMD, Las Vegas Sands, Amy Coney Barrett - 5 Things You Must Know Tuesday"
+    },
+    "tweet6": {
+      "content": "Charles Schwab To Ax 3% Of Workforce To Rid of 'Redundant' Roles Post TD Ameritrade Merger"
+    },
+    "tweet7": {
+      "content": "Charles Schwab to lay off 1,000 workers following TD Ameritrade merger"
+    },
+    "tweet8": {
+      "content": "Charles Schwab to Cut 1,000 Jobs in TD Ameritrade Integration"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Independent Advisors Embrace New Possibilities for Continued Growth and Development in Virtual Environment"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Analyst Report: The Charles Schwab Corporation"
+    },
+    "tweet2": {
+      "content": "Cross-Sector: Market Data Highlights"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "LPL Financial (LPLA) Q3 Earnings Beat, Revenues Improve Y/Y"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Is Schwab Fundamental U.S. Broad Market Index ETF (FNDB) a Strong ETF Right Now?"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Cross-Sector: Market Data Highlights"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Online Brokers Suffer Service Failures as Markets Surge"
+    },
+    "tweet2": {
+      "content": "Charles Schwab Honors 2020 Local Heroes for Their Work With Veterans, Mental Illness and Financial Literacy"
+    },
+    "tweet3": {
+      "content": "Schwab, Vanguard, Other Brokerages Suffer Outages as Investors Rush to Trade on Pfizer Vaccine News"
+    },
+    "tweet4": {
+      "content": "Schwab reports users may have issues with brokerage's website as stocks hit records"
+    },
+    "tweet5": {
+      "content": "Charles Schwab (NYSE:COMPANY_X) Could Be A Buy For Its Upcoming Dividend"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "The 1 Way the COVID-19 Crisis Could Actually Help Your Retirement"
+    },
+    "tweet2": {
+      "content": "Most Boomer Veterans Are Confident About Their Retirement Despite Pandemic and Market Uncertainties"
+    },
+    "tweet3": {
+      "content": "Schwab Advisor Services Surpasses $10 Million in Grants to Support and Develop the Next Generation of RIA Talent"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Buy Schwab Stock Because a Steeper Yield Curve Is Coming, Deutsche Bank Says"
+    },
+    "tweet2": {
+      "content": "5 Brokerage Execs On 2020 Market Trends: 'Trading Has Become Cool Again'"
+    },
+    "tweet3": {
+      "content": "Benzinga's Top Upgrades, Downgrades For November 11, 2020"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Schwab Announces Patent Pending Data Analytics Algorithm"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Schwab Reports Monthly Activity Highlights"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "ETF Strategies to Gain From US Market Optimism"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Schwab (COMPANY_X) October Metrics Improve on TD Ameritrade Buyout"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Charles Schwab Earns Key Rating Upgrade; Fundamentals Play Catch-Up"
+    },
+    "tweet2": {
+      "content": "Schwab Report: Self-Directed 401(k) Balances Show Steady Growth in Q3; Advised Accounts Reflect Broader Diversification and Higher Account Balances"
+    },
+    "tweet3": {
+      "content": "Shareholders Tried to Combat Racial Inequality Through 48 Resolutions This Year. Here’s How Fund Companies Voted."
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Tesla Stock Will See Demand From More Than Just Index Funds. Here Are the Stocks That Might Suffer."
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "Why The Charles Schwab Corporation (COMPANY_X) Stock Might be a Great Pick?"
+    },
+    "tweet2": {
+      "content": "Is Schwab Fundamental U.S. Broad Market Index ETF (FNDB) a Strong ETF Right Now?"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "Why Schwab Stock Stands to Gain More Than Rivals From Rising Rates"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "Hewlett Packard Enterprise to Leave Silicon Valley for Texas"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "Shares of TD Bank Open Flat After Q4 Earnings Beat Estimates"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "Is COMPANY_X A Good Stock To Buy Now?"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Charles Schwab Corp, Goldman Sachs and Micron Technology"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "Schwab Declares Preferred Stock Dividend"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "Schwab Asset Management Solutions Recognized by Pensions & Investments as a Best Place to Work in Money Management"
+    },
+    "tweet2": {
+      "content": "Schwab Reports Monthly Activity Highlights"
+    },
+    "tweet3": {
+      "content": "Silicon Valley VCs Contemplate a Pandemic Move, but Where?"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "Will an IPO Help Robinhood Survive Zero-Commission Trade Battle?"
+    },
+    "tweet2": {
+      "content": "Schwab's (COMPANY_X) November Metrics Improve on Upbeat Markets"
+    },
+    "tweet3": {
+      "content": "Charles Schwab's (COMPANY_X) Shares March Higher, Can It Continue?"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Charles Schwab, Interactive Brokers Group and The Goldman Sachs"
+    },
+    "tweet2": {
+      "content": "LPL Financial's (LPLA) November Assets Rise on Solid Markets"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "With Vaccine Distribution, What Stocks Do I Buy?"
+    },
+    "tweet2": {
+      "content": "Millennials' Favorite Trading App Settles SEC Probe, But More Legal Battles Remain"
+    },
+    "tweet3": {
+      "content": "Is Charles Schwab Stock a Buy?"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "Robinhood Will Restrict Access to MLPs and Other Investments"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "Top 10 ESG Stocks Al Gore’s $25 Billion Hedge Fund Is Buying"
+    },
+    "tweet2": {
+      "content": "Is Schwab Fundamental U.S. Broad Market Index ETF (FNDB) a Strong ETF Right Now?"
+    },
+    "tweet3": {
+      "content": "PRESS DIGEST-British Business - Dec 22"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "3 Brokerage Stocks Set to Soar Even in the Zero-Commission Era"
+    },
+    "tweet2": {
+      "content": "How Has Apple Soared Nearly 70% This Year, But Still Only Costs $1?"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "Santander (SC) Fined $4.75M for Credit Reporting Violation"
+    },
+    "tweet2": {
+      "content": "Key Things To Understand About Charles Schwab's (NYSE:COMPANY_X) CEO Pay Cheque"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "5 Reasons That Make Schwab (COMPANY_X) Stock Worth Betting on Now"
+    },
+    "tweet2": {
+      "content": "Companies Are Fleeing California. Blame Bad Government."
+    },
+    "tweet3": {
+      "content": "Is SWRSX a Strong Bond Fund Right Now?"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "Here’s How to Prepare Your Portfolio for the New Year, According to Charles Schwab’s Liz Ann Sonders"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "Is Schwab International Core Equity (SICNX) a Strong Mutual Fund Pick Right Now?"
+    },
+    "tweet2": {
+      "content": "Is Schwab MarketTrack Growth Investor (SWHGX) a Strong Mutual Fund Pick Right Now?"
+    }
+  }
+}

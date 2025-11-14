@@ -1,0 +1,346 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Gains But Lags Market: What You Should Know"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Dow Jones Futures Up, Tech Futures Signal Strong Stock Market Rally Despite Stimulus Talks At 'Impasse'; Apple iPhone, Amazon Prime Day On Tap"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Stocks Mixed But This Dow Jones Stock Rises; Two Chip Stocks Break Out"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Breaks Out Before Earnings"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "This High-Growth Chip Stock Just Beat Guidance and Raised Its Dividend"
+    },
+    "tweet2": {
+      "content": "COMPANY_X HOLDING NV (COMPANY_X) Q3 2020 Earnings Call Transcript"
+    },
+    "tweet3": {
+      "content": "Chip-Gear Maker COMPANY_X Beats Third-Quarter Targets, Gives In-Line Outlook"
+    },
+    "tweet4": {
+      "content": "COMPANY_X held back by stalled sales of big earning tools"
+    },
+    "tweet5": {
+      "content": "COMPANY_X reports €4.0 billion net sales at 47.5% gross margin in Q3 2020"
+    },
+    "tweet6": {
+      "content": "European Stocks Mixed; Central Bankers Take Spotlight"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "U.S.-China Trade War Hobbles China's Semiconductor Industry Ambitions And Rattles Stocks"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "COMPANY_X reports transactions under its current share buyback program"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "The U.S.-China Conflict Over Chips Is About to Get Uglier"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "COMPANY_X reports transactions under its current share buyback program"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "COMPANY_X Shows Rising Relative Strength, Earning A Stock Upgrade"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "In China, Big Tech Isn't the Enemy. It's the Strategy"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "COMPANY_X reports transactions under its current share buyback program"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "COMPANY_X reports transactions under its current share buyback program"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "A Look Into COMPANY_X's Price Over Earnings"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "COMPANY_X reports transactions under its current share buyback program"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Samsung Intensifies Chip Wars With Bet It Can Catch TSMC by 2022"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Applied Materials Hits 80-Plus Relative Strength Rating Benchmark"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "COMPANY_X reports transactions under its current share buyback program"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "COMPANY_X reports transactions under its current share buyback program"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "Axcelis Stock Sees Its Composite Rating Rise To 96"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Gains As Market Dips: What You Should Know"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "COMPANY_X reports transactions under its current share buyback program"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "Stocks Showing Market Leadership: Advanced Energy Industries Earns 91 RS Rating"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Gains As Market Dips: What You Should Know"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "COMPANY_X reports transactions under its current share buyback program"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "How a Winning Global Fund Finds Stocks With Curb Appeal"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "Has COMPANY_X Holding N.V. (COMPANY_X) Outpaced Other Computer and Technology Stocks This Year?"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "COMPANY_X reports transactions under its current share buyback program"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Gains As Market Dips: What You Should Know"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "Here's Why COMPANY_X (COMPANY_X) is a Great Momentum Stock to Buy"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Applied Materials Poised To Gain From Chip-Gear Spending Growth"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

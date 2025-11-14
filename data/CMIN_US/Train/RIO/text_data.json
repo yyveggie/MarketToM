@@ -1,0 +1,4097 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "Cleveland-Cliffs Inc. (CLF) Ex-Dividend Date Scheduled for January 03, 2019"
+    },
+    "tweet2": {
+      "content": "Cleveland-Cliffs Inc. (CLF) Ex-Dividend Date Scheduled for January 03, 2019"
+    },
+    "tweet3": {
+      "content": "Royal Gold, Inc. (RGLD) Ex-Dividend Date Scheduled for January 03, 2019"
+    },
+    "tweet4": {
+      "content": "Royal Gold, Inc. (RGLD) Ex-Dividend Date Scheduled for January 03, 2019"
+    },
+    "tweet5": {
+      "content": "Asian Shares Tumble As China Data Disappoints"
+    },
+    "tweet6": {
+      "content": "Asian Shares Tumble As China Data Disappoints"
+    },
+    "tweet7": {
+      "content": "COMPANY_X Plans to Delay Ex-CEO&apos;s Bonus Again Amid Guinea Probe"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Can COMPANY_X Tinto plc’s (LON:COMPANY_X) ROE Continue To Surpass The Industry Average?"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Asian Markets Mixed Amid Cautious Trade"
+    },
+    "tweet2": {
+      "content": "Asian Markets Mixed Amid Cautious Trade"
+    },
+    "tweet3": {
+      "content": "Australian Market Modestly Higher"
+    },
+    "tweet4": {
+      "content": "Australian Market Modestly Higher"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Asian Markets Higher As U.S.-China Trade Talks Extended"
+    },
+    "tweet2": {
+      "content": "Asian Markets Higher As U.S.-China Trade Talks Extended"
+    },
+    "tweet3": {
+      "content": "Australian Market Extends Gains"
+    },
+    "tweet4": {
+      "content": "Australian Market Extends Gains"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Why Goldman Sachs Expects Iron Ore Prices to Drop to $60"
+    },
+    "tweet2": {
+      "content": "BHP Group Limited (BHP) Ex-Dividend Date Scheduled for January 10, 2019"
+    },
+    "tweet3": {
+      "content": "BHP Group Limited (BHP) Ex-Dividend Date Scheduled for January 10, 2019"
+    },
+    "tweet4": {
+      "content": "Caledonia Mining Corporation Plc (CMCL) Ex-Dividend Date Scheduled for January 10, 2019"
+    },
+    "tweet5": {
+      "content": "Caledonia Mining Corporation Plc (CMCL) Ex-Dividend Date Scheduled for January 10, 2019"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Asian Markets Mostly Higher With Modest Gains"
+    },
+    "tweet2": {
+      "content": "Asian Markets Mostly Higher With Modest Gains"
+    },
+    "tweet3": {
+      "content": "Australian Market Modestly Higher"
+    },
+    "tweet4": {
+      "content": "Australian Market Modestly Higher"
+    },
+    "tweet5": {
+      "content": "Blaze damages COMPANY_X Tinto's Cape Lambert iron-ore export facility"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Palladium Still Isn’t Pricey Enough"
+    },
+    "tweet2": {
+      "content": "Palladium Still Isn’t Pricey Enough"
+    },
+    "tweet3": {
+      "content": "Asian Shares Broadly Higher After Dovish Fed Comments"
+    },
+    "tweet4": {
+      "content": "Asian Shares Broadly Higher After Dovish Fed Comments"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Asian Markets Higher Ahead Of Brexit Vote"
+    },
+    "tweet2": {
+      "content": "Asian Markets Higher Ahead Of Brexit Vote"
+    },
+    "tweet3": {
+      "content": "Australian Market Modestly Higher"
+    },
+    "tweet4": {
+      "content": "Australian Market Modestly Higher"
+    },
+    "tweet5": {
+      "content": "Alcoa Stock: Analysts Might Be a Little Too Optimistic"
+    },
+    "tweet6": {
+      "content": "Alcoa: 2019 Might Be the Real Test"
+    },
+    "tweet7": {
+      "content": "Lab-grown diamonds will survive Big Diamond’s attempt to kill them, startup says"
+    },
+    "tweet8": {
+      "content": "[$$] COMPANY_X Tinto Declares Force Majeure on Some Iron-ore Contracts After Fire"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Asian Markets Mixed After Brexit Deal Defeat"
+    },
+    "tweet2": {
+      "content": "Asian Markets Mixed After Brexit Deal Defeat"
+    },
+    "tweet3": {
+      "content": "Mining’s Biggest Jobs Are Up for Grabs. Here Are the Contenders"
+    },
+    "tweet4": {
+      "content": "Australian Market Modestly Higher In Choppy Trade"
+    },
+    "tweet5": {
+      "content": "Australian Market Modestly Higher In Choppy Trade"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "Asian Markets Mostly Higher With Modest Gains"
+    },
+    "tweet2": {
+      "content": "Asian Markets Mostly Higher With Modest Gains"
+    },
+    "tweet3": {
+      "content": "Australian Market Extends Gains"
+    },
+    "tweet4": {
+      "content": "Australian Market Extends Gains"
+    },
+    "tweet5": {
+      "content": "Asian Shares Mostly Higher Despite Brexit Blues"
+    },
+    "tweet6": {
+      "content": "Asian Shares Mostly Higher Despite Brexit Blues"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto's 2019 iron ore guidance at lower end of forecasts"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto Q4 Iron Ore Shipments Down 3%"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Tinto Q4 Iron Ore Shipments Down 3%"
+    },
+    "tweet4": {
+      "content": "Alcoa: Strong Q4 Numbers Can’t Hide Its Weakness"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Walmart and CVS ink a deal, American Express falls short, Apple partners with pharma giant"
+    },
+    "tweet2": {
+      "content": "Walmart and CVS ink a deal, American Express falls short, Apple partners with pharma giant"
+    },
+    "tweet3": {
+      "content": "[$$] COMPANY_X Tinto flags up shareholder returns as it points to ‘solid’ quarter"
+    },
+    "tweet4": {
+      "content": "[$$] COMPANY_X Tinto Shipments Rise"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Tinto's 2019 iron ore guidance at lower end of forecasts"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Asian Markets Mostly Lower"
+    },
+    "tweet2": {
+      "content": "Asian Markets Mostly Lower"
+    },
+    "tweet3": {
+      "content": "Australian Market Extends Losses"
+    },
+    "tweet4": {
+      "content": "Australian Market Extends Losses"
+    },
+    "tweet5": {
+      "content": "Here’s What Markets Expect for Freeport’s Earnings Call"
+    },
+    "tweet6": {
+      "content": "Freeport-McMoRan’s Q4 Earnings: The Word on Wall Street"
+    },
+    "tweet7": {
+      "content": "New Strong Sell Stocks for January 22nd"
+    },
+    "tweet8": {
+      "content": "New Strong Sell Stocks for January 22nd"
+    },
+    "tweet9": {
+      "content": "New Strong Sell Stocks for January 22nd"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Asian Markets Mostly Higher Amid Cautious Trades"
+    },
+    "tweet2": {
+      "content": "Asian Markets Mostly Higher Amid Cautious Trades"
+    },
+    "tweet3": {
+      "content": "Australian Market Modestly Higher"
+    },
+    "tweet4": {
+      "content": "Australian Market Modestly Higher"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Tinto plc (LON:COMPANY_X): Should The Future Outlook Worry You?"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Freeport-McMoRan Inc (FCX) Q4 2018 Earnings Conference Call Transcript"
+    },
+    "tweet2": {
+      "content": "Freeport-McMoRan Stock Is Down following Its Q4 Miss"
+    },
+    "tweet3": {
+      "content": "FOCUS-U.S. copper projects gain steam thanks to electric vehicle trend"
+    },
+    "tweet4": {
+      "content": "Focus: U.S. copper projects gain steam thanks to electric vehicle trend"
+    },
+    "tweet5": {
+      "content": "U.S. copper projects gain steam thanks to electric vehicle trend"
+    },
+    "tweet6": {
+      "content": "FOCUS-U.S. copper projects gain steam thanks to electric vehicle trend"
+    },
+    "tweet7": {
+      "content": "Asian Shares End Flat To Higher"
+    },
+    "tweet8": {
+      "content": "Asian Shares End Flat To Higher"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Is Freeport-McMoRan Preparing for an Eventual Sale?"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Why China’s Iron Ore Demand Could Soon Weaken"
+    },
+    "tweet2": {
+      "content": "Asian Markets Lower After U.S. Files Criminal Charges Against Huawei"
+    },
+    "tweet3": {
+      "content": "Asian Markets Lower After U.S. Files Criminal Charges Against Huawei"
+    },
+    "tweet4": {
+      "content": "Australian Market Declines"
+    },
+    "tweet5": {
+      "content": "Australian Market Declines"
+    },
+    "tweet6": {
+      "content": "Could China’s Slowdown Weigh on Iron Ore Prices This Year?"
+    },
+    "tweet7": {
+      "content": "Mesabi Trust (MSB) Ex-Dividend Date Scheduled for January 29, 2019"
+    },
+    "tweet8": {
+      "content": "Mesabi Trust (MSB) Ex-Dividend Date Scheduled for January 29, 2019"
+    },
+    "tweet9": {
+      "content": "Freeport-McMoRan: Should You Think Like Warren Buffett"
+    },
+    "tweet10": {
+      "content": "[$$] UK mining stocks rally on expectation for rising iron ore prices"
+    },
+    "tweet11": {
+      "content": "[$$] The London Report: Talk of M&S deal lifts Ocado"
+    },
+    "tweet12": {
+      "content": "MarketPulse Europe - Miners Buck Gloomy Trend Ahead of Fed, Key Trade Talks"
+    },
+    "tweet13": {
+      "content": "[$$] Vale: mud blow"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Asian Markets Mostly Lower Ahead Of Fed Decision, Trade Talks"
+    },
+    "tweet2": {
+      "content": "Asian Markets Mostly Lower Ahead Of Fed Decision, Trade Talks"
+    },
+    "tweet3": {
+      "content": "Australian Market Modestly Higher"
+    },
+    "tweet4": {
+      "content": "Australian Market Modestly Higher"
+    },
+    "tweet5": {
+      "content": "What China’s Steel Price Trends Could Mean for Iron Ore Miners"
+    },
+    "tweet6": {
+      "content": "China’s Steel Production Outlook Remains Muted"
+    },
+    "tweet7": {
+      "content": "Mongolia, overseas investigators probe Oyu Tolgoi corruption claims as ex-minister re-arrested"
+    },
+    "tweet8": {
+      "content": "De Beers Diamond Sales Plunge"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Asian Markets Higher On Dovish Fed"
+    },
+    "tweet2": {
+      "content": "Asian Markets Higher On Dovish Fed"
+    },
+    "tweet3": {
+      "content": "Australian Market Edges Higher"
+    },
+    "tweet4": {
+      "content": "Australian Market Edges Higher"
+    },
+    "tweet5": {
+      "content": "Shares of Iron Ore Stocks Soar After Vale's Production Cuts"
+    },
+    "tweet6": {
+      "content": "Shares of Iron Ore Stocks Soar After Vale's Production Cuts"
+    },
+    "tweet7": {
+      "content": "New Strong Buy Stocks for January 30th"
+    },
+    "tweet8": {
+      "content": "New Strong Buy Stocks for January 30th"
+    },
+    "tweet9": {
+      "content": "Why Is Cleveland-Cliffs Stock Soaring More than 15% Today?"
+    },
+    "tweet10": {
+      "content": "New Strong Buy Stocks for January 30th"
+    },
+    "tweet11": {
+      "content": "Cleveland-Cliffs' stock soars to pace NYSE gainers after Vale cuts iron ore production"
+    },
+    "tweet12": {
+      "content": "[$$] Australian miners head for best day in 2 years on Brazil worries"
+    },
+    "tweet13": {
+      "content": "Could China Balance Growth with Risk through Credit Growth?"
+    },
+    "tweet14": {
+      "content": "Vale's Brazil disaster to prompt buyers to take more Australian iron ore"
+    },
+    "tweet15": {
+      "content": "Former Mongolia minister in corruption probe released on bail"
+    },
+    "tweet16": {
+      "content": "[$$] Vale to cut iron ore production by 10% after Brazil disaster"
+    },
+    "tweet17": {
+      "content": "[$$] Vale to cut production 10% as miner responds to Brazil disaster"
+    },
+    "tweet18": {
+      "content": "Asian Shares Mixed Despite Apple Relief"
+    },
+    "tweet19": {
+      "content": "Asian Shares Mixed Despite Apple Relief"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Northwest Acquisitions ULC -- Moody's downgrades Northwest Acquisition to B3; outlook Stable"
+    },
+    "tweet2": {
+      "content": "Asian Markets Pare Gains After China Manufacturing Data"
+    },
+    "tweet3": {
+      "content": "Asian Markets Pare Gains After China Manufacturing Data"
+    },
+    "tweet4": {
+      "content": "Australian Market Modestly Higher"
+    },
+    "tweet5": {
+      "content": "Australian Market Modestly Higher"
+    },
+    "tweet6": {
+      "content": "[$$] Australian miners head for best week since 2016 as Vale fallout widens"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Wall Street Witnesses Best January in 3 Decades: 5 Winners"
+    },
+    "tweet2": {
+      "content": "Wall Street Witnesses Best January in 3 Decades: 5 Winners"
+    },
+    "tweet3": {
+      "content": "Wall Street Witnesses Best January in 3 Decades: 5 Winners"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Asian Markets Mixed In Holiday-thinned Trade"
+    },
+    "tweet2": {
+      "content": "Asian Markets Mixed In Holiday-thinned Trade"
+    },
+    "tweet3": {
+      "content": "Australian Market Notably Higher Ahead Of RBA Decision"
+    },
+    "tweet4": {
+      "content": "Australian Market Notably Higher Ahead Of RBA Decision"
+    },
+    "tweet5": {
+      "content": "Top Ranked Income Stocks to Buy for February 4th"
+    },
+    "tweet6": {
+      "content": "Top Ranked Income Stocks to Buy for February 4th"
+    },
+    "tweet7": {
+      "content": "The Zacks Analyst Blog Highlights: Banco Macro, AdvanSix, Sotherly, COMPANY_X Tinto and Resources Connection"
+    },
+    "tweet8": {
+      "content": "The Zacks Analyst Blog Highlights: Banco Macro, AdvanSix, Sotherly, COMPANY_X Tinto and Resources Connection"
+    },
+    "tweet9": {
+      "content": "Top Ranked Income Stocks to Buy for February 4th"
+    },
+    "tweet10": {
+      "content": "The Zacks Analyst Blog Highlights: Banco Macro, AdvanSix, Sotherly, COMPANY_X Tinto and Resources Connection"
+    },
+    "tweet11": {
+      "content": "Barrick Is ‘Paranoid’ About Tailings Dams: Africa Mining Update"
+    },
+    "tweet12": {
+      "content": "[$$] COMPANY_X Tinto ready to back industry-wide response to Brazil dam collapse"
+    },
+    "tweet13": {
+      "content": "Asian Shares Broadly Higher After Strong US Jobs Data"
+    },
+    "tweet14": {
+      "content": "Asian Shares Broadly Higher After Strong US Jobs Data"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: UnitedHealth, Banco Bradesco, Itau, Banco Santander and COMPANY_X"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: UnitedHealth, Banco Bradesco, Itau, Banco Santander and COMPANY_X"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: UnitedHealth, Banco Bradesco, Itau, Banco Santander and COMPANY_X"
+    },
+    "tweet4": {
+      "content": "[$$] Australian miners climb after Vale ordered to halt dam use"
+    },
+    "tweet5": {
+      "content": "Gold deal rush sweeps by broader mining sector"
+    },
+    "tweet6": {
+      "content": "Asian Shares Mixed In Thin Holiday Trade"
+    },
+    "tweet7": {
+      "content": "Asian Shares Mixed In Thin Holiday Trade"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Asian Markets Mostly Higher"
+    },
+    "tweet2": {
+      "content": "Asian Markets Mostly Higher"
+    },
+    "tweet3": {
+      "content": "Australian Market Advances"
+    },
+    "tweet4": {
+      "content": "Australian Market Advances"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Tinto (Commercial Paper) plc -- Moody's upgrades all COMPANY_X Tinto Group ratings to A2; outlook stable"
+    },
+    "tweet6": {
+      "content": "The Latest Updates From the Vale Dam Disaster in Brazil"
+    },
+    "tweet7": {
+      "content": "Hi-Crush (HCLP) Q4 Earnings Miss, Revenues Beat Estimates"
+    },
+    "tweet8": {
+      "content": "Hi-Crush (HCLP) Q4 Earnings Miss, Revenues Beat Estimates"
+    },
+    "tweet9": {
+      "content": "Hi-Crush (HCLP) Q4 Earnings Miss, Revenues Beat Estimates"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Ashland (ASH) Beats Q1 Earnings, Misses Revenue Estimates"
+    },
+    "tweet2": {
+      "content": "Ashland (ASH) Beats Q1 Earnings, Misses Revenue Estimates"
+    },
+    "tweet3": {
+      "content": "Royal Gold (RGLD) Earnings Beat Estimates in Q2, Rise Y/Y"
+    },
+    "tweet4": {
+      "content": "Royal Gold (RGLD) Earnings Beat Estimates in Q2, Rise Y/Y"
+    },
+    "tweet5": {
+      "content": "Royal Gold (RGLD) Earnings Beat Estimates in Q2, Rise Y/Y"
+    },
+    "tweet6": {
+      "content": "Ashland (ASH) Beats Q1 Earnings, Misses Revenue Estimates"
+    },
+    "tweet7": {
+      "content": "Vale: More Issues after the Dam Disaster"
+    },
+    "tweet8": {
+      "content": "Asian Shares Mixed As Investors Await US-China Talks"
+    },
+    "tweet9": {
+      "content": "Asian Shares Mixed As Investors Await US-China Talks"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Which Analysts Expect Iron Ore Prices to Breach $100 and Why?"
+    },
+    "tweet2": {
+      "content": "Vale’s Loss Is Its Peers’ Gain—More Upside for Miners?"
+    },
+    "tweet3": {
+      "content": "ArcelorMittal's (MT) Earnings and Revenues Rise Y/Y in Q4"
+    },
+    "tweet4": {
+      "content": "Will Iron Ore Breach $100 in the Wake of Vale’s Dam Collapse?"
+    },
+    "tweet5": {
+      "content": "See How Hecla Mining Ranks Among Analysts' Top Metals Picks"
+    },
+    "tweet6": {
+      "content": "See How Hecla Mining Ranks Among Analysts' Top Metals Picks"
+    },
+    "tweet7": {
+      "content": "Arconic (ARNC) Beats Earnings & Revenue Estimates in Q4"
+    },
+    "tweet8": {
+      "content": "Steel Dynamic to Buy 75% Stake in United Steel Supply"
+    },
+    "tweet9": {
+      "content": "Southern Copper Corporation (SCCO) Ex-Dividend Date Scheduled for February 11, 2019"
+    },
+    "tweet10": {
+      "content": "Southern Copper Corporation (SCCO) Ex-Dividend Date Scheduled for February 11, 2019"
+    },
+    "tweet11": {
+      "content": "[$$] Stocks to watch: Anglo American, Centrica, Superdry, Daimler, Unite"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "The Remote Island Sitting on $58 Billion of Gold and Copper"
+    },
+    "tweet2": {
+      "content": "Why COMPANY_X Tinto Stock Soared 12.3% in January"
+    },
+    "tweet3": {
+      "content": "Why COMPANY_X Tinto Stock Soared 12.3% in January"
+    },
+    "tweet4": {
+      "content": "Why COMPANY_X Tinto Stock Soared 12.3% in January"
+    },
+    "tweet5": {
+      "content": "Steel Dynamic to Buy 75% Stake in United Steel Supply"
+    },
+    "tweet6": {
+      "content": "Steel Dynamic to Buy 75% Stake in United Steel Supply"
+    },
+    "tweet7": {
+      "content": "Arconic (ARNC) Beats Earnings & Revenue Estimates in Q4"
+    },
+    "tweet8": {
+      "content": "Arconic (ARNC) Beats Earnings & Revenue Estimates in Q4"
+    },
+    "tweet9": {
+      "content": "ArcelorMittal's (MT) Earnings and Revenues Rise Y/Y in Q4"
+    },
+    "tweet10": {
+      "content": "ArcelorMittal's (MT) Earnings and Revenues Rise Y/Y in Q4"
+    },
+    "tweet11": {
+      "content": "Why Iron Ore Is Up 20% This Year"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Cleveland-Cliffs (CLF) Lags Earnings, Sales Estimates in Q4"
+    },
+    "tweet2": {
+      "content": "Cleveland-Cliffs (CLF) Lags Earnings, Sales Estimates in Q4"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Tinto (COMPANY_X) Stock Upgraded to Buy"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Tinto (COMPANY_X) Stock Upgraded to Buy"
+    },
+    "tweet5": {
+      "content": "Cleveland-Cliffs (CLF) Lags Earnings, Sales Estimates in Q4"
+    },
+    "tweet6": {
+      "content": "Take-Two, Las Vegas Sands, Unilever, COMPANY_X Tinto and Celgene highlighted as Zacks Bull and Bear of the Day"
+    },
+    "tweet7": {
+      "content": "Take-Two, Las Vegas Sands, Unilever, COMPANY_X Tinto and Celgene highlighted as Zacks Bull and Bear of the Day"
+    },
+    "tweet8": {
+      "content": "Don’t Count Mining Stocks Out in a Slowdown, Goldman Sachs Says"
+    },
+    "tweet9": {
+      "content": "Southern Copper (SCCO) Earnings & Sales Miss Estimates in Q4"
+    },
+    "tweet10": {
+      "content": "Southern Copper (SCCO) Earnings & Sales Miss Estimates in Q4"
+    },
+    "tweet11": {
+      "content": "Take-Two, Las Vegas Sands, Unilever, COMPANY_X Tinto and Celgene highlighted as Zacks Bull and Bear of the Day"
+    },
+    "tweet12": {
+      "content": "How Vale’s Dam Burst Could Benefit Cleveland Cliffs"
+    },
+    "tweet13": {
+      "content": "Southern Copper (SCCO) Earnings & Sales Miss Estimates in Q4"
+    },
+    "tweet14": {
+      "content": "COLUMN-Vale iron ore dam disaster may force China steel mills to change: Russell"
+    },
+    "tweet15": {
+      "content": "Copper Is Stuck Between a Rock and a Hard Place"
+    },
+    "tweet16": {
+      "content": "COLUMN-Vale iron ore dam disaster may force China steel mills to change: Russell"
+    },
+    "tweet17": {
+      "content": "[$$] Stocks to watch: Plus500, Michelin, Omnicom, Coty, Spire, Britvic"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Why Freeport-McMoRan Is Surging Today"
+    },
+    "tweet2": {
+      "content": "Huntsman (HUN) Q4 Earnings Miss, Revenues Beat Estimates"
+    },
+    "tweet3": {
+      "content": "Huntsman (HUN) Q4 Earnings Miss, Revenues Beat Estimates"
+    },
+    "tweet4": {
+      "content": "Huntsman (HUN) Q4 Earnings Miss, Revenues Beat Estimates"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Top Ranked Income Stocks to Buy for February 15th"
+    },
+    "tweet2": {
+      "content": "Top Ranked Income Stocks to Buy for February 15th"
+    },
+    "tweet3": {
+      "content": "Top Ranked Income Stocks to Buy for February 15th"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "BHP Can&apos;t Rescue Iron-Ore Market After Brazil Dam Disaster"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "U.S. Silica (SLCA) Looks Good: Stock Adds 5.6% in Session"
+    },
+    "tweet2": {
+      "content": "U.S. Silica (SLCA) Looks Good: Stock Adds 5.6% in Session"
+    },
+    "tweet3": {
+      "content": "Freeport Looks Solid as Long-Awaited Supply Disruption Hits"
+    },
+    "tweet4": {
+      "content": "U.S. Silica (SLCA) Looks Good: Stock Adds 5.6% in Session"
+    },
+    "tweet5": {
+      "content": "Glencore Brings the End of Thermal Coal a Step Closer"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Will copper’s revival last? China is the X-factor"
+    },
+    "tweet2": {
+      "content": "Top Ranked Income Stocks to Buy for February 22nd"
+    },
+    "tweet3": {
+      "content": "Top Ranked Income Stocks to Buy for February 22nd"
+    },
+    "tweet4": {
+      "content": "Top Ranked Income Stocks to Buy for February 22nd"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Analyzing Alcoa’s 2019 Outlook"
+    },
+    "tweet2": {
+      "content": "Is Alcoa Undervalued like Analysts’ Estimates Suggest?"
+    },
+    "tweet3": {
+      "content": "Should You Expect More Gains from Alcoa in 2019?"
+    },
+    "tweet4": {
+      "content": "Mining Billionaire Ends Bitter Guinea Dispute After Months of Secret Negotiations"
+    },
+    "tweet5": {
+      "content": "[$$] Beny Steinmetz and Mick Davis eye Guinea’s iron potential"
+    },
+    "tweet6": {
+      "content": "[$$] Beny Steinmetz ends iron ore dispute with Guinea"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Top Ranked Income Stocks to Buy for February 26th"
+    },
+    "tweet2": {
+      "content": "Top Ranked Income Stocks to Buy for February 26th"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Boeing, GlaxoSmithKline and COMPANY_X Tinto"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: Boeing, GlaxoSmithKline and COMPANY_X Tinto"
+    },
+    "tweet5": {
+      "content": "Royal Gold Inks Deal With Cupric to Acquire Silver Stream"
+    },
+    "tweet6": {
+      "content": "Royal Gold Inks Deal With Cupric to Acquire Silver Stream"
+    },
+    "tweet7": {
+      "content": "Top Ranked Income Stocks to Buy for February 26th"
+    },
+    "tweet8": {
+      "content": "The Zacks Analyst Blog Highlights: Boeing, GlaxoSmithKline and COMPANY_X Tinto"
+    },
+    "tweet9": {
+      "content": "Royal Gold Inks Deal With Cupric to Acquire Silver Stream"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto (COMPANY_X) Q4 2018 Earnings Conference Call Transcript"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto (COMPANY_X) Q4 2018 Earnings Conference Call Transcript"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Tinto (COMPANY_X) Q4 2018 Earnings Conference Call Transcript"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Tinto Returns Record $13.5 Billion to Shareholders in 2018"
+    },
+    "tweet5": {
+      "content": "Agnico Eagle Mines Limited (AEM) Ex-Dividend Date Scheduled for February 28, 2019"
+    },
+    "tweet6": {
+      "content": "Agnico Eagle Mines Limited (AEM) Ex-Dividend Date Scheduled for February 28, 2019"
+    },
+    "tweet7": {
+      "content": "Moving Average Crossover Alert: COMPANY_X Tinto"
+    },
+    "tweet8": {
+      "content": "Moving Average Crossover Alert: COMPANY_X Tinto"
+    },
+    "tweet9": {
+      "content": "Stocks making the biggest moves premarket: Lowe's, Best Buy, Weight Watchers, Office Depot & more"
+    },
+    "tweet10": {
+      "content": "Moving Average Crossover Alert: COMPANY_X Tinto"
+    },
+    "tweet11": {
+      "content": "[$$] European Equities Market Talk Roundup"
+    },
+    "tweet12": {
+      "content": "COMPANY_X Tinto hands investors surprise $4bn payout after earnings hit high"
+    },
+    "tweet13": {
+      "content": "[$$] COMPANY_X Tinto Offers Record Returns as Miners Shower Investors With Cash"
+    },
+    "tweet14": {
+      "content": "[$$] COMPANY_X Tinto's Green Growth Dilemma"
+    },
+    "tweet15": {
+      "content": "COMPANY_X Tinto posts best underlying earnings in four years, offloads cash"
+    },
+    "tweet16": {
+      "content": "[$$] COMPANY_X Tinto to Pay Special Dividend as Profit Jumps"
+    },
+    "tweet17": {
+      "content": "[$$] COMPANY_X Tinto shareholders in line for $4bn payday"
+    },
+    "tweet18": {
+      "content": "[$$] COMPANY_X Tinto announces $4bn special dividend"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Top Ranked Income Stocks to Buy for February 28th"
+    },
+    "tweet2": {
+      "content": "Top Ranked Income Stocks to Buy for February 28th"
+    },
+    "tweet3": {
+      "content": "Pan American Silver Corp. (PAAS) Ex-Dividend Date Scheduled for March 01, 2019"
+    },
+    "tweet4": {
+      "content": "Pan American Silver Corp. (PAAS) Ex-Dividend Date Scheduled for March 01, 2019"
+    },
+    "tweet5": {
+      "content": "Why Is Analyst Sentiment for COMPANY_X Tinto Turning Negative Lately?"
+    },
+    "tweet6": {
+      "content": "COMPANY_X Tinto Beats 2018 Estimates and Declares Special Dividend"
+    },
+    "tweet7": {
+      "content": "Top Ranked Income Stocks to Buy for February 28th"
+    },
+    "tweet8": {
+      "content": "[$$] COMPANY_X Tinto chief pockets 12 per cent pay rise for 2018"
+    },
+    "tweet9": {
+      "content": "Validea David Dreman Strategy Daily Upgrade Report - 2/28/2019"
+    },
+    "tweet10": {
+      "content": "Validea David Dreman Strategy Daily Upgrade Report - 2/28/2019"
+    },
+    "tweet11": {
+      "content": "[$$] Stocks to watch: Aston Martin, RSA, Bakkavor, HP, Zalando, Metro"
+    },
+    "tweet12": {
+      "content": "[$$] COMPANY_X Tinto to Deliver Record Returns as Mining Firms Shower Investors With Cash"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Top Ranked Income Stocks to Buy for March 1st"
+    },
+    "tweet2": {
+      "content": "Top Ranked Income Stocks to Buy for March 1st"
+    },
+    "tweet3": {
+      "content": "Major Miner COMPANY_X Hauls In Billions Of Dollars From Seaborne Iron Ore"
+    },
+    "tweet4": {
+      "content": "Top Ranked Income Stocks to Buy for March 1st"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "[$$] Anglo American chief’s pay more than doubled last year"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "Moody’s Downgrade and Potential Fines Weaken Vale’s Outlook"
+    },
+    "tweet2": {
+      "content": "Newmont Mining Corporation (NEM) Ex-Dividend Date Scheduled for March 06, 2019"
+    },
+    "tweet3": {
+      "content": "Newmont Mining Corporation (NEM) Ex-Dividend Date Scheduled for March 06, 2019"
+    },
+    "tweet4": {
+      "content": "Buy 5 Low-Beta Stocks to Stay Safe in Volatile Market"
+    },
+    "tweet5": {
+      "content": "Buy 5 Low-Beta Stocks to Stay Safe in Volatile Market"
+    },
+    "tweet6": {
+      "content": "Vale’s Problems Are Compounding after Dam Collapse"
+    },
+    "tweet7": {
+      "content": "Buy 5 Low-Beta Stocks to Stay Safe in Volatile Market"
+    },
+    "tweet8": {
+      "content": "Edited Transcript of COMPANY_X.L earnings conference call or presentation 27-Feb-19 8:30am GMT"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "Undercover Down Under - Miners study gum leaves, groundwater for new finds"
+    },
+    "tweet2": {
+      "content": "Hudbay Minerals Inc. (HBM) Ex-Dividend Date Scheduled for March 07, 2019"
+    },
+    "tweet3": {
+      "content": "Hudbay Minerals Inc. (HBM) Ex-Dividend Date Scheduled for March 07, 2019"
+    },
+    "tweet4": {
+      "content": "BHP Group Limited (BHP) Ex-Dividend Date Scheduled for March 07, 2019"
+    },
+    "tweet5": {
+      "content": "BHP Group Limited (BHP) Ex-Dividend Date Scheduled for March 07, 2019"
+    },
+    "tweet6": {
+      "content": "McEwen Mining Inc. (MUX) Ex-Dividend Date Scheduled for March 07, 2019"
+    },
+    "tweet7": {
+      "content": "McEwen Mining Inc. (MUX) Ex-Dividend Date Scheduled for March 07, 2019"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "Hedge fund Odey's new commodity fund goes short on COMPANY_X copper mine - FT"
+    },
+    "tweet2": {
+      "content": "[$$] Odey bets against COMPANY_X Tinto with fund run by miner’s ex-employee"
+    },
+    "tweet3": {
+      "content": "[$$] Odey launches new fund with bet against COMPANY_X’s Mongolian mine"
+    },
+    "tweet4": {
+      "content": "[$$] Stocks to watch: NMC Health, Quiz, BHP, COMPANY_X Tinto, Ultra Electronics"
+    },
+    "tweet5": {
+      "content": "Stocks - U.S. Futures Slip as Huawei Sues U.S. Government"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "China’s February Copper Imports Gave Mixed Signals"
+    },
+    "tweet2": {
+      "content": "Alcoa: Concerns Persist despite Fall in Chinese Aluminum Exports"
+    },
+    "tweet3": {
+      "content": "Alcoa’s Aluminum Exports Continue to Rise, Concerns Persist"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Tinto talking to Apple on next step of carbon-free aluminium project"
+    },
+    "tweet5": {
+      "content": "[$$] COMPANY_X/Odey: Genghis can’t"
+    },
+    "tweet6": {
+      "content": "[$$] Best of Lex: your weekly round-up"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "Top Ranked Income Stocks to Buy for March 11th"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "Mining’s Dirty Secret Won’t Survive a Changing Climate"
+    },
+    "tweet2": {
+      "content": "Mining’s Dirty Secret Won’t Survive a Changing Climate"
+    },
+    "tweet3": {
+      "content": "Top Ranked Income Stocks to Buy for March 11th"
+    },
+    "tweet4": {
+      "content": "Franco-Nevada Corporation (FNV) Ex-Dividend Date Scheduled for March 13, 2019"
+    },
+    "tweet5": {
+      "content": "Franco-Nevada Corporation (FNV) Ex-Dividend Date Scheduled for March 13, 2019"
+    },
+    "tweet6": {
+      "content": "Nexa Resources S.A. (NEXA) Ex-Dividend Date Scheduled for March 13, 2019"
+    },
+    "tweet7": {
+      "content": "Nexa Resources S.A. (NEXA) Ex-Dividend Date Scheduled for March 13, 2019"
+    },
+    "tweet8": {
+      "content": "Goldcorp Inc. (GG) Ex-Dividend Date Scheduled for March 13, 2019"
+    },
+    "tweet9": {
+      "content": "Goldcorp Inc. (GG) Ex-Dividend Date Scheduled for March 13, 2019"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "Gold Fields Limited (GFI) Ex-Dividend Date Scheduled for March 14, 2019"
+    },
+    "tweet2": {
+      "content": "Gold Fields Limited (GFI) Ex-Dividend Date Scheduled for March 14, 2019"
+    },
+    "tweet3": {
+      "content": "Alamos Gold Inc. (AGI) Ex-Dividend Date Scheduled for March 14, 2019"
+    },
+    "tweet4": {
+      "content": "Alamos Gold Inc. (AGI) Ex-Dividend Date Scheduled for March 14, 2019"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "Is Britain Headed for a Soft Brexit? 5 Picks"
+    },
+    "tweet2": {
+      "content": "Is Britain Headed for a Soft Brexit? 5 Picks"
+    },
+    "tweet3": {
+      "content": "Is Britain Headed for a Soft Brexit? 5 Picks"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: COMPANY_X Tinto, Smith & Nephew, Endava, AstraZeneca and British American Tobacco"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: COMPANY_X Tinto, Smith & Nephew, Endava, AstraZeneca and British American Tobacco"
+    },
+    "tweet3": {
+      "content": "Has COMPANY_X Tinto (COMPANY_X) Outpaced Other Basic Materials Stocks This Year?"
+    },
+    "tweet4": {
+      "content": "Has COMPANY_X Tinto (COMPANY_X) Outpaced Other Basic Materials Stocks This Year?"
+    },
+    "tweet5": {
+      "content": "The Zacks Analyst Blog Highlights: COMPANY_X Tinto, Smith & Nephew, Endava, AstraZeneca and British American Tobacco"
+    },
+    "tweet6": {
+      "content": "Has COMPANY_X Tinto (COMPANY_X) Outpaced Other Basic Materials Stocks This Year?"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto Must Face SEC Suit Over Coal Assets"
+    },
+    "tweet2": {
+      "content": "U.S. judge says COMPANY_X Tinto must face SEC fraud case"
+    },
+    "tweet3": {
+      "content": "U.S. judge says COMPANY_X Tinto must face SEC fraud case"
+    },
+    "tweet4": {
+      "content": "U.S. judge says SEC may pursue COMPANY_X Tinto fraud case"
+    },
+    "tweet5": {
+      "content": "Miners, banks thrust FTSE 100 to sixth day of gains"
+    },
+    "tweet6": {
+      "content": "COMPANY_X asks shareholders to vote against emissions resolution"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "AngloGold Ashanti Limited (AU) Ex-Dividend Date Scheduled for March 21, 2019"
+    },
+    "tweet2": {
+      "content": "AngloGold Ashanti Limited (AU) Ex-Dividend Date Scheduled for March 21, 2019"
+    },
+    "tweet3": {
+      "content": "Cyclone Lurks Off West Australia as Storm Hits Major Mine"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "Analyst Favorites: Peabody Energy Corp Ranks As a Top Metals Pick"
+    },
+    "tweet2": {
+      "content": "Analyst Favorites: Peabody Energy Corp Ranks As a Top Metals Pick"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "Vale’s Production Is Strong, Investors Await Q4 Results"
+    },
+    "tweet2": {
+      "content": "Why Vale’s Problems Will Likely Continue"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "Yamana Gold Inc. (AUY) Ex-Dividend Date Scheduled for March 28, 2019"
+    },
+    "tweet2": {
+      "content": "Yamana Gold Inc. (AUY) Ex-Dividend Date Scheduled for March 28, 2019"
+    },
+    "tweet3": {
+      "content": "Kirkland Lake Gold Ltd. (KL) Ex-Dividend Date Scheduled for March 28, 2019"
+    },
+    "tweet4": {
+      "content": "Kirkland Lake Gold Ltd. (KL) Ex-Dividend Date Scheduled for March 28, 2019"
+    },
+    "tweet5": {
+      "content": "Osisko Gold Royalties Ltd (OR) Ex-Dividend Date Scheduled for March 28, 2019"
+    },
+    "tweet6": {
+      "content": "Osisko Gold Royalties Ltd (OR) Ex-Dividend Date Scheduled for March 28, 2019"
+    },
+    "tweet7": {
+      "content": "Were Hedge Funds Right About Buying COMPANY_X Tinto Group (COMPANY_X)?"
+    },
+    "tweet8": {
+      "content": "COMPANY_X Tinto Group (LON:COMPANY_X) Is A Real Dividend Rock Star - Here Is Why"
+    },
+    "tweet9": {
+      "content": "Lex letter from Lausanne: Miners seek a clean break"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "Freeport-McMoRan’s Valuation: What’s Priced In?"
+    },
+    "tweet2": {
+      "content": "Alcoa Could Be in for Another Challenge"
+    },
+    "tweet3": {
+      "content": "Alcoa’s Outlook Looks Murky amid Conflicting Indicators"
+    },
+    "tweet4": {
+      "content": "Could Iron Ore Gain from Vale’s Large Production Cut Expectation?"
+    },
+    "tweet5": {
+      "content": "Vale’s Q4 Results: Why Analysts’ Sentiments Are Trending Down"
+    },
+    "tweet6": {
+      "content": "Vale’s Dam Burst Has Yet to Fully Reflect in CLF’s Prices"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "EXCLUSIVE: Cyclone Veronica Clobbers Port Walcott - Months Of Disruption"
+    },
+    "tweet2": {
+      "content": "The Downgrades Are Piling Up for Vale after the Dam Disaster"
+    },
+    "tweet3": {
+      "content": "Supply Disruptions Raise Our Near-Term Iron Ore Price Forecast"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "Plan to Mine the Moon Gives Australia Opening in New Space Era"
+    },
+    "tweet2": {
+      "content": "Is COMPANY_X Tinto (COMPANY_X) Stock Outpacing Its Basic Materials Peers This Year?"
+    },
+    "tweet3": {
+      "content": "Is COMPANY_X Tinto (COMPANY_X) Stock Outpacing Its Basic Materials Peers This Year?"
+    },
+    "tweet4": {
+      "content": "Is COMPANY_X Tinto (COMPANY_X) Stock Outpacing Its Basic Materials Peers This Year?"
+    },
+    "tweet5": {
+      "content": "Rusal targets 2021 to roll out carbon-free aluminium"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "Top Ranked Income Stocks to Buy for April 2nd"
+    },
+    "tweet2": {
+      "content": "Top Ranked Income Stocks to Buy for April 2nd"
+    },
+    "tweet3": {
+      "content": "Top Ranked Income Stocks to Buy for April 2nd"
+    },
+    "tweet4": {
+      "content": "Iron Ore Majors Admit Cyclone Veronica Damage"
+    },
+    "tweet5": {
+      "content": "Iron ore prices rise after miners cut output forecasts"
+    },
+    "tweet6": {
+      "content": "Is COMPANY_X Tinto (COMPANY_X) a Suitable Stock for Value Investors Now?"
+    },
+    "tweet7": {
+      "content": "Is COMPANY_X Tinto (COMPANY_X) a Suitable Stock for Value Investors Now?"
+    },
+    "tweet8": {
+      "content": "Is COMPANY_X Tinto (COMPANY_X) a Suitable Stock for Value Investors Now?"
+    },
+    "tweet9": {
+      "content": "BHP trims iron ore production estimate after Cyclone Veronica"
+    },
+    "tweet10": {
+      "content": "StockBeat: European Stocks Pause for Breath After Monday Rally"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "6 Top-Ranked Stocks to Ensure a Recession-Proof Portfolio"
+    },
+    "tweet2": {
+      "content": "6 Top-Ranked Stocks to Ensure a Recession-Proof Portfolio"
+    },
+    "tweet3": {
+      "content": "6 Top-Ranked Stocks to Ensure a Recession-Proof Portfolio"
+    },
+    "tweet4": {
+      "content": "Cleveland-Cliffs Inc. (CLF) Ex-Dividend Date Scheduled for April 04, 2019"
+    },
+    "tweet5": {
+      "content": "Cleveland-Cliffs Inc. (CLF) Ex-Dividend Date Scheduled for April 04, 2019"
+    },
+    "tweet6": {
+      "content": "Royal Gold, Inc. (RGLD) Ex-Dividend Date Scheduled for April 04, 2019"
+    },
+    "tweet7": {
+      "content": "Royal Gold, Inc. (RGLD) Ex-Dividend Date Scheduled for April 04, 2019"
+    },
+    "tweet8": {
+      "content": "Wheaton Precious Metals Corp. (WPM) Ex-Dividend Date Scheduled for April 04, 2019"
+    },
+    "tweet9": {
+      "content": "Wheaton Precious Metals Corp. (WPM) Ex-Dividend Date Scheduled for April 04, 2019"
+    },
+    "tweet10": {
+      "content": "Iron ore bursts above $90 a tonne on supply crunch fears"
+    }
+  },
+  "day65": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: COMPANY_X Tinto, Phillips 66, Manulife Financial, ONEOK and Prudential"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: COMPANY_X Tinto, Phillips 66, Manulife Financial, ONEOK and Prudential"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: COMPANY_X Tinto, Phillips 66, Manulife Financial, ONEOK and Prudential"
+    },
+    "tweet4": {
+      "content": "World&apos;s Largest Iron Ore Port Expects Higher Exports Post Vale Disaster"
+    }
+  },
+  "day66": {
+    "tweet1": {
+      "content": "Ethical investors ask miners to publish tailings dam details"
+    },
+    "tweet2": {
+      "content": "Mongolia lawmakers seek to rewrite Oyu Tolgoi deal"
+    }
+  },
+  "day67": {
+    "tweet1": {
+      "content": "The 5 Most Promising Gold Stocks Of 2019"
+    },
+    "tweet2": {
+      "content": "EXCLUSIVE: Fire At The Port Of Dampier Damages Iron Ore Screen-Houses"
+    },
+    "tweet3": {
+      "content": "Cyclone Wallace Spares Port Walcott But Iron Ore Exports Disrupted"
+    },
+    "tweet4": {
+      "content": "Brexit, oil prices nudge London markets lower"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Tinto signs off on $500m South Africa project"
+    }
+  },
+  "day68": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto says fire damages Pilbara iron ore operation"
+    },
+    "tweet2": {
+      "content": "CRU-CESCO-COMPANY_X Tinto to join World Bank's green mining program"
+    },
+    "tweet3": {
+      "content": "CRU-CESCO-Antofagasta to stay put on dividend policy but will return cash to shareholders"
+    },
+    "tweet4": {
+      "content": "Alternative Investments to Add to Your Portfolio in the 2nd Quarter"
+    },
+    "tweet5": {
+      "content": "EXCLUSIVE: COMPANY_X Tinto Admits To Fire Damage At Dampier"
+    },
+    "tweet6": {
+      "content": "CRU-CESCO-COMPANY_X Tinto to join World Bank's green mining program"
+    },
+    "tweet7": {
+      "content": "Mongolia mining minister rules out Oyu Tolgoi deal changes"
+    }
+  },
+  "day69": {
+    "tweet1": {
+      "content": "Could Chinese Port Inventories Decline amid Supply Tightness"
+    },
+    "tweet2": {
+      "content": "Iron Ore Prices Rally as Miners Cut Their Shipment Estimates"
+    },
+    "tweet3": {
+      "content": "Is the Party Just Getting Started for Iron Ore Miners?"
+    },
+    "tweet4": {
+      "content": "CRU-CESCO-From turbines to thermostats: Copper miners eyes high-tech demand"
+    },
+    "tweet5": {
+      "content": "New Strong Buy Stocks for April 10th"
+    },
+    "tweet6": {
+      "content": "New Strong Buy Stocks for April 10th"
+    },
+    "tweet7": {
+      "content": "Univar to Distribute Plant-Based Products of Axiom Foods"
+    },
+    "tweet8": {
+      "content": "Univar to Distribute Plant-Based Products of Axiom Foods"
+    },
+    "tweet9": {
+      "content": "New Strong Buy Stocks for April 10th"
+    },
+    "tweet10": {
+      "content": "Caledonia Mining Corporation Plc (CMCL) Ex-Dividend Date Scheduled for April 11, 2019"
+    },
+    "tweet11": {
+      "content": "Caledonia Mining Corporation Plc (CMCL) Ex-Dividend Date Scheduled for April 11, 2019"
+    },
+    "tweet12": {
+      "content": "Univar to Distribute Plant-Based Products of Axiom Foods"
+    },
+    "tweet13": {
+      "content": "COMPANY_X faces rebellion from biggest shareholder"
+    }
+  },
+  "day70": {
+    "tweet1": {
+      "content": "Ashland to Hike Price of Composites Products in North America"
+    },
+    "tweet2": {
+      "content": "Ashland to Hike Price of Composites Products in North America"
+    },
+    "tweet3": {
+      "content": "Allegheny (ATI) Extends Purchase Agreement With Rolls-Royce"
+    },
+    "tweet4": {
+      "content": "Allegheny (ATI) Extends Purchase Agreement With Rolls-Royce"
+    },
+    "tweet5": {
+      "content": "Allegheny (ATI) Extends Purchase Agreement With Rolls-Royce"
+    },
+    "tweet6": {
+      "content": "Ashland to Hike Price of Composites Products in North America"
+    },
+    "tweet7": {
+      "content": "Buenaventura Mining Company Inc. (BVN) Ex-Dividend Date Scheduled for April 12, 2019"
+    },
+    "tweet8": {
+      "content": "Buenaventura Mining Company Inc. (BVN) Ex-Dividend Date Scheduled for April 12, 2019"
+    },
+    "tweet9": {
+      "content": "Why Is Barclays Optimistic on the Iron Ore Price Outlook?"
+    },
+    "tweet10": {
+      "content": "Credit Suisse Is Expecting a Push in Iron Ore Prices on Supply Deficit"
+    }
+  },
+  "day71": {
+    "tweet1": {
+      "content": "Newmont's (NEM) Shareholders Clear Goldcorp Transaction"
+    },
+    "tweet2": {
+      "content": "Newmont's (NEM) Shareholders Clear Goldcorp Transaction"
+    },
+    "tweet3": {
+      "content": "Newmont's (NEM) Shareholders Clear Goldcorp Transaction"
+    }
+  },
+  "day72": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto cuts FY iron ore guidance after cyclone hits first-quarter shipments"
+    },
+    "tweet2": {
+      "content": "European shares edge higher on trade optimism; U.S. bank earnings weigh"
+    },
+    "tweet3": {
+      "content": "Newmont Mining Corporation (NEM) Ex-Dividend Date Scheduled for April 16, 2019"
+    },
+    "tweet4": {
+      "content": "Newmont Mining Corporation (NEM) Ex-Dividend Date Scheduled for April 16, 2019"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Tinto cuts 2019 iron ore outlook on cyclone damage"
+    },
+    "tweet6": {
+      "content": "Market report: Investors give COMPANY_X Tinto&apos;s Arizona cash plan the cold shoulder"
+    },
+    "tweet7": {
+      "content": "European shares subdued after U.S.-China trade deal hopes"
+    },
+    "tweet8": {
+      "content": "European shares subdued after U.S.-China trade deal hopes"
+    },
+    "tweet9": {
+      "content": "What to expect from COMPANY_X Tinto and BHP's results"
+    },
+    "tweet10": {
+      "content": "COMPANY_X Tinto to boost investment in sprawling US copper project"
+    },
+    "tweet11": {
+      "content": "Mick Davis comeback orchestrated by Beny Steinmetz’s group"
+    },
+    "tweet12": {
+      "content": "China Isn&apos;t Ready for Iron Deficit, Industry Veteran Warns"
+    }
+  },
+  "day73": {
+    "tweet1": {
+      "content": "London markets higher on unemployment data"
+    },
+    "tweet2": {
+      "content": "German optimism, China stimulus kicks Europe markets into gear"
+    },
+    "tweet3": {
+      "content": "PRESS DIGEST- Financial Times - April 16"
+    }
+  },
+  "day74": {
+    "tweet1": {
+      "content": "European Stocks Open Steady as Miners Slump, Automakers Advance"
+    },
+    "tweet2": {
+      "content": "BHP cuts iron ore production outlook after Australian cyclone"
+    }
+  },
+  "day75": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day76": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day77": {
+    "tweet1": {
+      "content": "Iron Ore Prices Could Be Supported after Vale’s Mine Restart"
+    },
+    "tweet2": {
+      "content": "Vale: No Production Upgrade despite Authorization to Reopen Mine"
+    }
+  },
+  "day78": {
+    "tweet1": {
+      "content": "Cleveland Cliffs: Realized Price Expectations in 2019"
+    }
+  },
+  "day79": {
+    "tweet1": {
+      "content": "Cleveland-Cliffs’ Upside: Vale’s Dam Burst and Supply Disruptions"
+    }
+  },
+  "day80": {
+    "tweet1": {
+      "content": "Mesabi Trust (MSB) Ex-Dividend Date Scheduled for April 29, 2019"
+    },
+    "tweet2": {
+      "content": "Mesabi Trust (MSB) Ex-Dividend Date Scheduled for April 29, 2019"
+    }
+  },
+  "day81": {
+    "tweet1": {
+      "content": "Freeport-McMoRan: What to Expect after Last Week’s Sell-Off"
+    }
+  },
+  "day82": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto CEO says 'firmly believes' U.S., China to make trade pact"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto CEO explains why the company is investing in sustainable mining practices"
+    },
+    "tweet3": {
+      "content": "Industry Watchdog Alleges Northern Dynasty Misled Investors"
+    },
+    "tweet4": {
+      "content": "Glencore shrinks production estimates, sinking Europe markets"
+    }
+  },
+  "day83": {
+    "tweet1": {
+      "content": "Southern Copper Corporation (SCCO) Ex-Dividend Date Scheduled for May 02, 2019"
+    },
+    "tweet2": {
+      "content": "Southern Copper Corporation (SCCO) Ex-Dividend Date Scheduled for May 02, 2019"
+    },
+    "tweet3": {
+      "content": "Why COMPANY_X Tinto Group's (LON:COMPANY_X) CEO Pay Matters To You"
+    }
+  },
+  "day84": {
+    "tweet1": {
+      "content": "Mining powerhouse COMPANY_X Tinto switches to renewable energy at Utah facility"
+    },
+    "tweet2": {
+      "content": "Mining powerhouse COMPANY_X Tinto switches to renewable energy at Utah facility"
+    },
+    "tweet3": {
+      "content": "Strong banks and weak miners tug Europe markets in opposite directions"
+    }
+  },
+  "day85": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day86": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day87": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto to buy autonomous mining truck fleet from Caterpillar"
+    }
+  },
+  "day88": {
+    "tweet1": {
+      "content": "Follow copper to see if market bulls keep running: analyst"
+    },
+    "tweet2": {
+      "content": "Big Four miners languish amid demand, ESG, capex concerns"
+    }
+  },
+  "day89": {
+    "tweet1": {
+      "content": "Vale’s Production Loss Has Become Its Peers’ Gain—Here’s How"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto shipping more aluminium to Europe as U.S. demand slows"
+    },
+    "tweet3": {
+      "content": "Can Deleveraging Help Vale Offset Lower Iron Ore Production In Q1 2019?"
+    },
+    "tweet4": {
+      "content": "Can Deleveraging Help Vale Offset Lower Iron Ore Production In Q1 2019?"
+    }
+  },
+  "day90": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day91": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day92": {
+    "tweet1": {
+      "content": "Over 40% of minority shareholders of Turquoise Hill oppose independent directors"
+    },
+    "tweet2": {
+      "content": "COMPANY_X-controlled Turquoise Hill suffers investor revolt"
+    },
+    "tweet3": {
+      "content": "Norsk Hydro looks to master magnetism to keep carbon promise"
+    },
+    "tweet4": {
+      "content": "FOCUS-Norsk Hydro looks to master magnetism to keep carbon promise"
+    }
+  },
+  "day93": {
+    "tweet1": {
+      "content": "Pressure builds on Turquoise Hill after investor revolt"
+    },
+    "tweet2": {
+      "content": "What Are Analysts Saying About COMPANY_X Tinto Group's (LON:COMPANY_X) Future?"
+    }
+  },
+  "day94": {
+    "tweet1": {
+      "content": "Huawei fails to rattle European markets"
+    },
+    "tweet2": {
+      "content": "A New Diamond-Mining Boat Will Hoover Up Gems Off Namibia’s Coast"
+    }
+  },
+  "day95": {
+    "tweet1": {
+      "content": "Why Iron Ore Prices Could Have More Upside after Breaching $100"
+    },
+    "tweet2": {
+      "content": "Pan American Silver Corp. (PAAS) Ex-Dividend Date Scheduled for May 20, 2019"
+    },
+    "tweet3": {
+      "content": "Pan American Silver Corp. (PAAS) Ex-Dividend Date Scheduled for May 20, 2019"
+    }
+  },
+  "day96": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day97": {
+    "tweet1": {
+      "content": "The Global Diamond Glut Worsens"
+    }
+  },
+  "day98": {
+    "tweet1": {
+      "content": "Wheaton Precious Metals Corp. (WPM) Ex-Dividend Date Scheduled for May 23, 2019"
+    },
+    "tweet2": {
+      "content": "Wheaton Precious Metals Corp. (WPM) Ex-Dividend Date Scheduled for May 23, 2019"
+    },
+    "tweet3": {
+      "content": "Top Miner BHP Sees an End to the Era of Coal"
+    }
+  },
+  "day99": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day100": {
+    "tweet1": {
+      "content": "Top 5 Steel Stocks of 2019"
+    }
+  },
+  "day101": {
+    "tweet1": {
+      "content": "iShares Commodities Select Strategy ETF Experiences Big Outflow"
+    },
+    "tweet2": {
+      "content": "iShares Commodities Select Strategy ETF Experiences Big Outflow"
+    },
+    "tweet3": {
+      "content": "Record China Steel Production Supports Iron Ore despite Trade War"
+    },
+    "tweet4": {
+      "content": "Why Iron Ore Prices Are Bucking the Downtrend in Metals Prices"
+    }
+  },
+  "day102": {
+    "tweet1": {
+      "content": "Barrick Gold Corporation (GOLD) Ex-Dividend Date Scheduled for May 30, 2019"
+    },
+    "tweet2": {
+      "content": "Barrick Gold Corporation (GOLD) Ex-Dividend Date Scheduled for May 30, 2019"
+    },
+    "tweet3": {
+      "content": "Agnico Eagle Mines Limited (AEM) Ex-Dividend Date Scheduled for May 30, 2019"
+    },
+    "tweet4": {
+      "content": "Agnico Eagle Mines Limited (AEM) Ex-Dividend Date Scheduled for May 30, 2019"
+    },
+    "tweet5": {
+      "content": "If You Like EPS Growth Then Check Out COMPANY_X Tinto Group (LON:COMPANY_X) Before It's Too Late"
+    }
+  },
+  "day103": {
+    "tweet1": {
+      "content": "Top Ranked Income Stocks to Buy for May 30th"
+    },
+    "tweet2": {
+      "content": "Top Ranked Income Stocks to Buy for May 30th"
+    },
+    "tweet3": {
+      "content": "Top Ranked Income Stocks to Buy for May 30th"
+    }
+  },
+  "day104": {
+    "tweet1": {
+      "content": "New Strong Buy Stocks for May 31st"
+    },
+    "tweet2": {
+      "content": "New Strong Buy Stocks for May 31st"
+    },
+    "tweet3": {
+      "content": "New Strong Buy Stocks for May 31st"
+    }
+  },
+  "day105": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day106": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: COMPANY_X Tinto, Blackrock and Roku"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: COMPANY_X Tinto, Blackrock and Roku"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: COMPANY_X Tinto, Blackrock and Roku"
+    },
+    "tweet4": {
+      "content": "Newmont Goldcorp Corporation (NEM) Ex-Dividend Date Scheduled for June 05, 2019"
+    },
+    "tweet5": {
+      "content": "Newmont Goldcorp Corporation (NEM) Ex-Dividend Date Scheduled for June 05, 2019"
+    }
+  },
+  "day107": {
+    "tweet1": {
+      "content": "Silvercorp Metals Inc. (SVM) Ex-Dividend Date Scheduled for June 06, 2019"
+    },
+    "tweet2": {
+      "content": "Silvercorp Metals Inc. (SVM) Ex-Dividend Date Scheduled for June 06, 2019"
+    }
+  },
+  "day108": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day109": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day110": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day111": {
+    "tweet1": {
+      "content": "6 Guru Stocks With Low Price-Sales Ratios"
+    },
+    "tweet2": {
+      "content": "Franco-Nevada Corporation (FNV) Ex-Dividend Date Scheduled for June 12, 2019"
+    },
+    "tweet3": {
+      "content": "Franco-Nevada Corporation (FNV) Ex-Dividend Date Scheduled for June 12, 2019"
+    }
+  },
+  "day112": {
+    "tweet1": {
+      "content": "Vale’s Woes Keep Mounting"
+    },
+    "tweet2": {
+      "content": "Are Insiders Selling COMPANY_X Tinto Group (LON:COMPANY_X) Stock?"
+    }
+  },
+  "day113": {
+    "tweet1": {
+      "content": "Vale’s Woes Keep Mounting"
+    },
+    "tweet2": {
+      "content": "Vale’s Woes Keep Mounting"
+    }
+  },
+  "day114": {
+    "tweet1": {
+      "content": "Supply or Demand: What Will Weigh on Iron Ore Prices More?"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto reveals government contracts"
+    }
+  },
+  "day115": {
+    "tweet1": {
+      "content": "Miners Pull ASX 200 Down, NZX 50 and Singapore Are Down Too"
+    }
+  },
+  "day116": {
+    "tweet1": {
+      "content": "New Strong Buy Stocks for June 18th"
+    },
+    "tweet2": {
+      "content": "New Strong Buy Stocks for June 18th"
+    },
+    "tweet3": {
+      "content": "Iron Ore Prices Surge to 5-Year High on Supply Crunch Fears"
+    },
+    "tweet4": {
+      "content": "Iron Ore Prices Surge to 5-Year High on Supply Crunch Fears"
+    },
+    "tweet5": {
+      "content": "Iron Ore Prices Surge to 5-Year High on Supply Crunch Fears"
+    },
+    "tweet6": {
+      "content": "New Strong Buy Stocks for June 18th"
+    }
+  },
+  "day117": {
+    "tweet1": {
+      "content": "Are You Looking for a Top Momentum Pick? Why COMPANY_X Tinto (COMPANY_X) is a Great Choice"
+    },
+    "tweet2": {
+      "content": "Are You Looking for a Top Momentum Pick? Why COMPANY_X Tinto (COMPANY_X) is a Great Choice"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Tinto’s Production Cut Could Propel Iron Ore Prices"
+    },
+    "tweet4": {
+      "content": "Are You Looking for a Top Momentum Pick? Why COMPANY_X Tinto (COMPANY_X) is a Great Choice"
+    },
+    "tweet5": {
+      "content": "Investors Whipsawed as Iron Ore’s Dramatic Year Continues"
+    },
+    "tweet6": {
+      "content": "Pre-Market Most Active for Jun 19, 2019 :  MLNT, MGI, VALE, AXTA, CALA, COMPANY_X, AMD, NOK, CLF, CHWY, BYND, FB"
+    },
+    "tweet7": {
+      "content": "Pre-Market Most Active for Jun 19, 2019 :  MLNT, MGI, VALE, AXTA, CALA, COMPANY_X, AMD, NOK, CLF, CHWY, BYND, FB"
+    },
+    "tweet8": {
+      "content": "ASX Inched Closer to New High, KOSPI and Singapore Gained Big"
+    },
+    "tweet9": {
+      "content": "COMPANY_X Tinto cuts production guidance for most important commodity"
+    }
+  },
+  "day118": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto's Autonomous Trains Can't Work In North America...Yet"
+    },
+    "tweet2": {
+      "content": "RPT-COLUMN-Australian resource companies are becoming renewable energy believers: Russell"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Tinto Renews Work on Giant Guinea Iron Ore Deposit"
+    },
+    "tweet4": {
+      "content": "COLUMN-Australian resource companies are becoming renewable energy believers: Russell"
+    }
+  },
+  "day119": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto poaches Morgan Stanley analyst as new IR head"
+    },
+    "tweet2": {
+      "content": "The Winners and Losers From Surging Iron Ore Prices"
+    }
+  },
+  "day120": {
+    "tweet1": {
+      "content": "ASX Recovers, KOSPI Is Flat, and Singapore Index Retreats"
+    }
+  },
+  "day121": {
+    "tweet1": {
+      "content": "Top Ranked Income Stocks to Buy for June 25th"
+    },
+    "tweet2": {
+      "content": "Top Ranked Income Stocks to Buy for June 25th"
+    },
+    "tweet3": {
+      "content": "Gold Price Hits Highest in Nearly Six Years: 5 Top Picks"
+    },
+    "tweet4": {
+      "content": "Gold Price Hits Highest in Nearly Six Years: 5 Top Picks"
+    },
+    "tweet5": {
+      "content": "Top Ranked Income Stocks to Buy for June 25th"
+    },
+    "tweet6": {
+      "content": "How the NZ50, ASX, Singapore, and KOSPI Indexes Fared Today"
+    },
+    "tweet7": {
+      "content": "How NZ50, ASX, Singapore, KOSPI Indexes Fared Today"
+    },
+    "tweet8": {
+      "content": "Gold Price Hits Highest in Nearly Six Years: 5 Top Picks"
+    },
+    "tweet9": {
+      "content": "London markets down as Boris Johnson campaign struggles"
+    },
+    "tweet10": {
+      "content": "European markets down as G-20 preparations begin"
+    },
+    "tweet11": {
+      "content": "Walmart Is Now Ethical Enough for Norway’s $1 Trillion Wealth Fund"
+    },
+    "tweet12": {
+      "content": "UPDATE 2-Norway wealth fund allowed to invest again in Walmart, COMPANY_X Tinto, others"
+    },
+    "tweet13": {
+      "content": "Norway’s wealth fund lifts restrictions on some multinationals"
+    },
+    "tweet14": {
+      "content": "Norway wealth fund allowed to invest again in Walmart, COMPANY_X Tinto, others"
+    },
+    "tweet15": {
+      "content": "Supply squeeze in iron ore catches miners on the hop"
+    }
+  },
+  "day122": {
+    "tweet1": {
+      "content": "FEATURE-Democratic but deadlocked, Mongolia braces for &quot;inevitable&quot; political change"
+    },
+    "tweet2": {
+      "content": "Is iShares Edge MSCI Multifactor Intl ETF (INTF) a Strong ETF Right Now?"
+    },
+    "tweet3": {
+      "content": "Is iShares Edge MSCI Multifactor Intl ETF (INTF) a Strong ETF Right Now?"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: AngloGold, COMPANY_X Tinto, SSR, Franco-Nevada and BHP"
+    },
+    "tweet5": {
+      "content": "The Zacks Analyst Blog Highlights: AngloGold, COMPANY_X Tinto, SSR, Franco-Nevada and BHP"
+    },
+    "tweet6": {
+      "content": "KOSPI Is Flat, but ASX, NZ50, and Singapore Indexes Lose Slightly"
+    },
+    "tweet7": {
+      "content": "5 High-Yielding Stocks Jumped in 2019 and Still Hold Momentum"
+    },
+    "tweet8": {
+      "content": "5 High-Yielding Stocks Jumped in 2019 and Still Hold Momentum"
+    },
+    "tweet9": {
+      "content": "Is iShares Edge MSCI Multifactor Intl ETF (INTF) a Strong ETF Right Now?"
+    },
+    "tweet10": {
+      "content": "Kirkland Lake Gold Ltd. (KL) Ex-Dividend Date Scheduled for June 27, 2019"
+    },
+    "tweet11": {
+      "content": "Kirkland Lake Gold Ltd. (KL) Ex-Dividend Date Scheduled for June 27, 2019"
+    },
+    "tweet12": {
+      "content": "Yamana Gold Inc. (AUY) Ex-Dividend Date Scheduled for June 27, 2019"
+    },
+    "tweet13": {
+      "content": "Yamana Gold Inc. (AUY) Ex-Dividend Date Scheduled for June 27, 2019"
+    },
+    "tweet14": {
+      "content": "Osisko Gold Royalties Ltd (OR) Ex-Dividend Date Scheduled for June 27, 2019"
+    },
+    "tweet15": {
+      "content": "Osisko Gold Royalties Ltd (OR) Ex-Dividend Date Scheduled for June 27, 2019"
+    },
+    "tweet16": {
+      "content": "The Zacks Analyst Blog Highlights: AngloGold, COMPANY_X Tinto, SSR, Franco-Nevada and BHP"
+    },
+    "tweet17": {
+      "content": "5 High-Yielding Stocks Jumped in 2019 and Still Hold Momentum"
+    }
+  },
+  "day123": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto Stock Will Fall Because Iron Ore Prices Will Drop, Analyst Says"
+    }
+  },
+  "day124": {
+    "tweet1": {
+      "content": "BMO Downgrades COMPANY_X Tinto on Expected Pullback in Iron Ore Prices"
+    },
+    "tweet2": {
+      "content": "China iron ore posts best quarter in 2-1/2 years on supply issues"
+    }
+  },
+  "day125": {
+    "tweet1": {
+      "content": "Australia's Iron Exports to Drop for First Time in 18 Years"
+    }
+  },
+  "day126": {
+    "tweet1": {
+      "content": "Cleveland-Cliffs Inc. (CLF) Ex-Dividend Date Scheduled for July 03, 2019"
+    },
+    "tweet2": {
+      "content": "Cleveland-Cliffs Inc. (CLF) Ex-Dividend Date Scheduled for July 03, 2019"
+    },
+    "tweet3": {
+      "content": "Royal Gold, Inc. (RGLD) Ex-Dividend Date Scheduled for July 03, 2019"
+    },
+    "tweet4": {
+      "content": "Royal Gold, Inc. (RGLD) Ex-Dividend Date Scheduled for July 03, 2019"
+    },
+    "tweet5": {
+      "content": "Asian markets mixed as investors mull significance of trade truce"
+    }
+  },
+  "day127": {
+    "tweet1": {
+      "content": "Asia-Pacific Update: Most Indexes Fall—with a Few Exceptions"
+    }
+  },
+  "day128": {
+    "tweet1": {
+      "content": "Top Mining Stocks Sink As China Probes This 'Abnormal' Activity"
+    },
+    "tweet2": {
+      "content": "Iron Ore: Chinese Steel Mills Urge Probe into Price Spike"
+    },
+    "tweet3": {
+      "content": "European markets hit by German manufacturing woes and strong U.S. jobs data"
+    },
+    "tweet4": {
+      "content": "Mining giants and housebuilders drag London markets down"
+    },
+    "tweet5": {
+      "content": "Iron Ore: Chinese Steel Mills Urge Probe into Price Spike"
+    }
+  },
+  "day129": {
+    "tweet1": {
+      "content": "China's Price Probe Drags Iron Ore Down From 5-Year High"
+    },
+    "tweet2": {
+      "content": "China's Price Probe Drags Iron Ore Down From 5-Year High"
+    },
+    "tweet3": {
+      "content": "China's Price Probe Drags Iron Ore Down From 5-Year High"
+    }
+  },
+  "day130": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day131": {
+    "tweet1": {
+      "content": "Why COMPANY_X Tinto Stock Rose a Hefty 28% in the First Six Months of 2019"
+    },
+    "tweet2": {
+      "content": "Why COMPANY_X Tinto Stock Rose a Hefty 28% in the First Six Months of 2019"
+    },
+    "tweet3": {
+      "content": "Most Asia-Pacific Indexes Gain as Markets Wait for Powell"
+    },
+    "tweet4": {
+      "content": "Why COMPANY_X Tinto Stock Rose a Hefty 28% in the First Six Months of 2019"
+    },
+    "tweet5": {
+      "content": "Caledonia Mining Corporation Plc (CMCL) Ex-Dividend Date Scheduled for July 11, 2019"
+    },
+    "tweet6": {
+      "content": "Caledonia Mining Corporation Plc (CMCL) Ex-Dividend Date Scheduled for July 11, 2019"
+    }
+  },
+  "day132": {
+    "tweet1": {
+      "content": "Gold Price Pop on Powell's Rate Cut Signal: 5 Top Picks"
+    },
+    "tweet2": {
+      "content": "Gold Price Pop on Powell's Rate Cut Signal: 5 Top Picks"
+    },
+    "tweet3": {
+      "content": "BHP Is Latest Giant Miner to Plan Exit From Thermal Coal"
+    },
+    "tweet4": {
+      "content": "Gold Price Pop on Powell's Rate Cut Signal: 5 Top Picks"
+    },
+    "tweet5": {
+      "content": "Shrinking demand to eclipse supply issues in tin market"
+    }
+  },
+  "day133": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Franco-Nevada, Royal Gold, COMPANY_X Tinto, SSR and BHP"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Franco-Nevada, Royal Gold, COMPANY_X Tinto, SSR and BHP"
+    },
+    "tweet3": {
+      "content": "Olin (OLN) Announces the Pricing of Senior Notes Due 2029"
+    },
+    "tweet4": {
+      "content": "Olin (OLN) Announces the Pricing of Senior Notes Due 2029"
+    },
+    "tweet5": {
+      "content": "China’s Iron Ore Imports Drop, Will Prices Stay Elevated?"
+    },
+    "tweet6": {
+      "content": "The Zacks Analyst Blog Highlights: Franco-Nevada, Royal Gold, COMPANY_X Tinto, SSR and BHP"
+    },
+    "tweet7": {
+      "content": "Olin (OLN) Announces the Pricing of Senior Notes Due 2029"
+    },
+    "tweet8": {
+      "content": "COMPANY_X Tinto Group (LON:COMPANY_X) Delivered A Better ROE Than Its Industry"
+    },
+    "tweet9": {
+      "content": "Australian Thermal Coal Leaves Investors Cold"
+    },
+    "tweet10": {
+      "content": "The World’s Biggest Diamond Mine Is Closing"
+    }
+  },
+  "day134": {
+    "tweet1": {
+      "content": "ArcelorMittal (MT) Declares Pricing of Notes Due 2024 & 2029"
+    },
+    "tweet2": {
+      "content": "ArcelorMittal (MT) Declares Pricing of Notes Due 2024 & 2029"
+    },
+    "tweet3": {
+      "content": "ArcelorMittal (MT) Declares Pricing of Notes Due 2024 & 2029"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Tinto warns of cost blowout at major copper project"
+    },
+    "tweet5": {
+      "content": "Iron Ore Won't Soar Forever"
+    }
+  },
+  "day135": {
+    "tweet1": {
+      "content": "BHP Forecasts Iron Ore to Rebound After Annual Output Declines"
+    },
+    "tweet2": {
+      "content": "Here's Why Turquoise Hill Resources Tumbled Today"
+    },
+    "tweet3": {
+      "content": "Here's Why Turquoise Hill Resources Tumbled Today"
+    },
+    "tweet4": {
+      "content": "Here&apos;s Why Turquoise Hill Resources Tumbled Today"
+    },
+    "tweet5": {
+      "content": "AK Steel Declares Labor Agreement Ratification at Butler Works"
+    },
+    "tweet6": {
+      "content": "AK Steel Declares Labor Agreement Ratification at Butler Works"
+    },
+    "tweet7": {
+      "content": "AK Steel Declares Labor Agreement Ratification at Butler Works"
+    },
+    "tweet8": {
+      "content": "Asian markets little changed as investors await earnings reports"
+    },
+    "tweet9": {
+      "content": "COMPANY_X Tinto/Oyu Tolgoi: Mongolian mishaps"
+    },
+    "tweet10": {
+      "content": "COMPANY_X Tinto warns of delay and cost blowout at Mongolia copper mine"
+    },
+    "tweet11": {
+      "content": "COMPANY_X Tinto hits cost blowout at Mongolia copper expansion"
+    }
+  },
+  "day136": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto Falls After Posting 2nd-Quarter Production Results"
+    }
+  },
+  "day137": {
+    "tweet1": {
+      "content": "Univar Starts Distribution Deal with Novozymes in Canada"
+    },
+    "tweet2": {
+      "content": "Univar Starts Distribution Deal with Novozymes in Canada"
+    },
+    "tweet3": {
+      "content": "Univar Starts Distribution Deal with Novozymes in Canada"
+    }
+  },
+  "day138": {
+    "tweet1": {
+      "content": "Is WisdomTree International Hedged Quality Dividend Growth Fund (IHDG) a Strong ETF Right Now?"
+    },
+    "tweet2": {
+      "content": "Is WisdomTree International Hedged Quality Dividend Growth Fund (IHDG) a Strong ETF Right Now?"
+    },
+    "tweet3": {
+      "content": "Is WisdomTree International Hedged Quality Dividend Growth Fund (IHDG) a Strong ETF Right Now?"
+    },
+    "tweet4": {
+      "content": "Alcoa's Q2 2019: Macroeconomic Headwinds And Restructuring Charges Weigh Heavily On Revenue And Bottom Line"
+    },
+    "tweet5": {
+      "content": "Alcoa's Q2 2019: Macroeconomic Headwinds And Restructuring Charges Weigh Heavily On Revenue And Bottom Line"
+    },
+    "tweet6": {
+      "content": "COMPANY_X Tinto under fire as Mongolia presses for mine deal changes"
+    },
+    "tweet7": {
+      "content": "Nucor (NUE) Surpasses Q2 Earnings, Lags Revenue Estimates"
+    },
+    "tweet8": {
+      "content": "Nucor (NUE) Surpasses Q2 Earnings, Lags Revenue Estimates"
+    },
+    "tweet9": {
+      "content": "Nucor (NUE) Surpasses Q2 Earnings, Lags Revenue Estimates"
+    }
+  },
+  "day139": {
+    "tweet1": {
+      "content": "Has COMPANY_X Tinto (COMPANY_X) Outpaced Other Basic Materials Stocks This Year?"
+    },
+    "tweet2": {
+      "content": "RPT-COLUMN-COMPANY_X Tinto's Mongolia copper problems highlight frontier country risks: Russell"
+    },
+    "tweet3": {
+      "content": "COLUMN-COMPANY_X Tinto's Mongolia copper problems highlight frontier country risks: Russell"
+    }
+  },
+  "day140": {
+    "tweet1": {
+      "content": "Sherwin-Williams (SHW) Q2 Earnings Top, Sales Miss Estimates"
+    },
+    "tweet2": {
+      "content": "Sherwin-Williams (SHW) Q2 Earnings Top, Sales Miss Estimates"
+    },
+    "tweet3": {
+      "content": "UPDATE 1-BHP makes $400 million climate-change emissions pledge"
+    },
+    "tweet4": {
+      "content": "Sherwin-Williams (SHW) Q2 Earnings Top, Sales Miss Estimates"
+    },
+    "tweet5": {
+      "content": "Aluminum producers in Canada cash in on U.S. tariff exemption"
+    },
+    "tweet6": {
+      "content": "Aluminium producers in Canada cash in on U.S. tariff exemption"
+    },
+    "tweet7": {
+      "content": "Has COMPANY_X Tinto (COMPANY_X) Outpaced Other Basic Materials Stocks This Year?"
+    },
+    "tweet8": {
+      "content": "Has COMPANY_X Tinto (COMPANY_X) Outpaced Other Basic Materials Stocks This Year?"
+    },
+    "tweet9": {
+      "content": "The former COMPANY_X Tinto adviser who became mining’s Big Short"
+    }
+  },
+  "day141": {
+    "tweet1": {
+      "content": "Miners weigh on London as broker calls top for iron ore"
+    },
+    "tweet2": {
+      "content": "Shares in major iron ore miners fall"
+    },
+    "tweet3": {
+      "content": "Stocks to watch: COMPANY_X Tinto, Aston Martin, ITV, Marston’s, Trainline"
+    }
+  },
+  "day142": {
+    "tweet1": {
+      "content": "EBRD open to funding discussions on COMPANY_X’s Mongolia copper project"
+    },
+    "tweet2": {
+      "content": "Mining Executives Split on Who Bears Burden of Climate Change"
+    },
+    "tweet3": {
+      "content": "Anglo American joins the share buyback club"
+    }
+  },
+  "day143": {
+    "tweet1": {
+      "content": "Is iShares Edge MSCI Multifactor Intl ETF (INTF) a Strong ETF Right Now?"
+    },
+    "tweet2": {
+      "content": "Is iShares Edge MSCI Multifactor Intl ETF (INTF) a Strong ETF Right Now?"
+    },
+    "tweet3": {
+      "content": "Is iShares Edge MSCI Multifactor Intl ETF (INTF) a Strong ETF Right Now?"
+    },
+    "tweet4": {
+      "content": "Mesabi Trust (MSB) Ex-Dividend Date Scheduled for July 29, 2019"
+    },
+    "tweet5": {
+      "content": "Mesabi Trust (MSB) Ex-Dividend Date Scheduled for July 29, 2019"
+    },
+    "tweet6": {
+      "content": "What Kind Of Shareholders Own COMPANY_X Tinto Group (LON:COMPANY_X)?"
+    }
+  },
+  "day144": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day145": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto Sees Hammer Chart Pattern: Time to Buy?"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto Sees Hammer Chart Pattern: Time to Buy?"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Tinto Sees Hammer Chart Pattern: Time to Buy?"
+    }
+  },
+  "day146": {
+    "tweet1": {
+      "content": "UPDATE 1-COMPANY_X Tinto-controlled Turquoise Hill swings to loss on Mongolia mine woes"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto-controlled Turquoise Hill swings to loss on Mongolia mine woes"
+    },
+    "tweet3": {
+      "content": "Turquoise Hill of Canada swings to loss on impairment charge at Mongolia mine"
+    },
+    "tweet4": {
+      "content": "Glencore’s Troubles Pile Up While Rivals Get Rich on Iron Ore"
+    },
+    "tweet5": {
+      "content": "What Do Investors Need To Know About COMPANY_X Tinto Group's (LON:COMPANY_X) Future?"
+    }
+  },
+  "day147": {
+    "tweet1": {
+      "content": "COMPANY_X Makes Notable Cross Below Critical Moving Average"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Makes Notable Cross Below Critical Moving Average"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Tinto is Oversold"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Tinto is Oversold"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Tinto addresses operational problems, delivers record payout"
+    },
+    "tweet6": {
+      "content": "COMPANY_X Tinto announces $1bn special dividend"
+    },
+    "tweet7": {
+      "content": "StockBeat: PMIs Help Markets Shake off Fed Disappointment"
+    },
+    "tweet8": {
+      "content": "COMPANY_X has ‘watching brief’ on M&A opportunities"
+    }
+  },
+  "day148": {
+    "tweet1": {
+      "content": "The Iron Ore Boom Looks Like It’s About to Go Bust"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto plc (COMPANY_X) Q2 2019 Earnings Call Transcript"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Tinto plc (COMPANY_X) Q2 2019 Earnings Call Transcript"
+    },
+    "tweet4": {
+      "content": "Iron ore on course for 8 per cent weekly fall"
+    }
+  },
+  "day149": {
+    "tweet1": {
+      "content": "UPDATE 2-European stocks dive to 2-month lows on China worries"
+    },
+    "tweet2": {
+      "content": "The Top Miners Are Split on How to Chase the EV Battery Boom"
+    }
+  },
+  "day150": {
+    "tweet1": {
+      "content": "Edited Transcript of COMPANY_X.L earnings conference call or presentation 1-Aug-19 9:00am GMT"
+    },
+    "tweet2": {
+      "content": "See How Arch Coal Ranks Among Analysts' Top Picks With Strong Buyback Activity"
+    },
+    "tweet3": {
+      "content": "See How Arch Coal Ranks Among Analysts' Top Picks With Strong Buyback Activity"
+    },
+    "tweet4": {
+      "content": "Ex-Dividend Reminder: Columbus McKinnon Corp., COMPANY_X Tinto and Sonoco Products"
+    },
+    "tweet5": {
+      "content": "Ex-Dividend Reminder: Columbus McKinnon Corp., COMPANY_X Tinto and Sonoco Products"
+    },
+    "tweet6": {
+      "content": "Southern Copper Corporation (SCCO) Ex-Dividend Date Scheduled for August 07, 2019"
+    },
+    "tweet7": {
+      "content": "Southern Copper Corporation (SCCO) Ex-Dividend Date Scheduled for August 07, 2019"
+    }
+  },
+  "day151": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day152": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto CEO Defends Company as ‘Cash Machine’ Amid Stock Retreat"
+    },
+    "tweet2": {
+      "content": "Do Barclays, JP Morgan, And Credit Suisse Agree On Vale’s Stock Price Estimate?"
+    },
+    "tweet3": {
+      "content": "Do Barclays, JP Morgan, And Credit Suisse Agree On Vale’s Stock Price Estimate?"
+    }
+  },
+  "day153": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto's Resolution copper project in Arizona moves step closer"
+    },
+    "tweet2": {
+      "content": "See How COMPANY_X Tinto Ranks Among Analysts' Top Metals Picks"
+    },
+    "tweet3": {
+      "content": "See How COMPANY_X Tinto Ranks Among Analysts' Top Metals Picks"
+    }
+  },
+  "day154": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day155": {
+    "tweet1": {
+      "content": "The Iron Ore Market Really Isn’t So Bleak, Goldman Sachs Says"
+    }
+  },
+  "day156": {
+    "tweet1": {
+      "content": "Is COMPANY_X Tinto Set To Increase Its Global Iron Ore Market Share As Vale Falters?"
+    },
+    "tweet2": {
+      "content": "Is COMPANY_X Tinto Set To Increase Its Global Iron Ore Market Share As Vale Falters?"
+    },
+    "tweet3": {
+      "content": "Iron Ore Stocks Rise After Goldman Boosts Price Outlook"
+    }
+  },
+  "day157": {
+    "tweet1": {
+      "content": "Southern Copper's Tia Maria Construction License Suspended"
+    },
+    "tweet2": {
+      "content": "Southern Copper's Tia Maria Construction License Suspended"
+    },
+    "tweet3": {
+      "content": "Pan American Silver Corp. (PAAS) Ex-Dividend Date Scheduled for August 16, 2019"
+    },
+    "tweet4": {
+      "content": "Pan American Silver Corp. (PAAS) Ex-Dividend Date Scheduled for August 16, 2019"
+    },
+    "tweet5": {
+      "content": "Southern Copper's Tia Maria Construction License Suspended"
+    }
+  },
+  "day158": {
+    "tweet1": {
+      "content": "Copper Prices May Take Off as Supply Tightens"
+    }
+  },
+  "day159": {
+    "tweet1": {
+      "content": "Did COMPANY_X Tinto Group's (LON:COMPANY_X) Share Price Deserve to Gain 64%?"
+    }
+  },
+  "day160": {
+    "tweet1": {
+      "content": "Is iShares Edge MSCI Multifactor Intl ETF (INTF) a Strong ETF Right Now?"
+    },
+    "tweet2": {
+      "content": "Is iShares Edge MSCI Multifactor Intl ETF (INTF) a Strong ETF Right Now?"
+    },
+    "tweet3": {
+      "content": "BHP Should Stand Pat on Copper"
+    }
+  },
+  "day161": {
+    "tweet1": {
+      "content": "Wheaton Precious Metals Corp. (WPM) Ex-Dividend Date Scheduled for August 22, 2019"
+    },
+    "tweet2": {
+      "content": "Wheaton Precious Metals Corp. (WPM) Ex-Dividend Date Scheduled for August 22, 2019"
+    }
+  },
+  "day162": {
+    "tweet1": {
+      "content": "Is The Chinese Slowdown Set To Eat Over $2.5 Billion From ArcelorMittal’s Revenue Base?"
+    },
+    "tweet2": {
+      "content": "Is The Chinese Slowdown Set To Eat Over $2.5 Billion From ArcelorMittal’s Revenue Base?"
+    }
+  },
+  "day163": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day164": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day165": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day166": {
+    "tweet1": {
+      "content": "Barrick Gold Corporation (GOLD) Ex-Dividend Date Scheduled for August 29, 2019"
+    },
+    "tweet2": {
+      "content": "Barrick Gold Corporation (GOLD) Ex-Dividend Date Scheduled for August 29, 2019"
+    },
+    "tweet3": {
+      "content": "Agnico Eagle Mines Limited (AEM) Ex-Dividend Date Scheduled for August 29, 2019"
+    },
+    "tweet4": {
+      "content": "Agnico Eagle Mines Limited (AEM) Ex-Dividend Date Scheduled for August 29, 2019"
+    }
+  },
+  "day167": {
+    "tweet1": {
+      "content": "There May Be a Fortune Buried in a Forgotten Corner of Europe"
+    }
+  },
+  "day168": {
+    "tweet1": {
+      "content": "Miners and cooling trade tensions extend British stock rally"
+    }
+  },
+  "day169": {
+    "tweet1": {
+      "content": "Is COMPANY_X Tinto Group’s (LON:COMPANY_X) 18% ROCE Any Good?"
+    }
+  },
+  "day170": {
+    "tweet1": {
+      "content": "Gold Fields Limited (GFI) Ex-Dividend Date Scheduled for September 05, 2019"
+    },
+    "tweet2": {
+      "content": "Gold Fields Limited (GFI) Ex-Dividend Date Scheduled for September 05, 2019"
+    },
+    "tweet3": {
+      "content": "Hudbay Minerals Inc. (HBM) Ex-Dividend Date Scheduled for September 05, 2019"
+    },
+    "tweet4": {
+      "content": "Hudbay Minerals Inc. (HBM) Ex-Dividend Date Scheduled for September 05, 2019"
+    },
+    "tweet5": {
+      "content": "BHP Group Limited (BHP) Ex-Dividend Date Scheduled for September 05, 2019"
+    },
+    "tweet6": {
+      "content": "BHP Group Limited (BHP) Ex-Dividend Date Scheduled for September 05, 2019"
+    }
+  },
+  "day171": {
+    "tweet1": {
+      "content": "Why Cleveland-Cliffs Lost Steam After A Revenue Growth Of 50% Over The Previous 2 Years"
+    },
+    "tweet2": {
+      "content": "Why Cleveland-Cliffs Lost Steam After A Revenue Growth Of 50% Over The Previous 2 Years"
+    }
+  },
+  "day172": {
+    "tweet1": {
+      "content": "Japan buyer agrees to pay Q4 aluminium premium of $97/T, 10% lower than Q3"
+    }
+  },
+  "day173": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day174": {
+    "tweet1": {
+      "content": "Newmont Goldcorp Corporation (NEM) Ex-Dividend Date Scheduled for September 11, 2019"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp Corporation (NEM) Ex-Dividend Date Scheduled for September 11, 2019"
+    },
+    "tweet3": {
+      "content": "Franco-Nevada Corporation (FNV) Ex-Dividend Date Scheduled for September 11, 2019"
+    },
+    "tweet4": {
+      "content": "Franco-Nevada Corporation (FNV) Ex-Dividend Date Scheduled for September 11, 2019"
+    }
+  },
+  "day175": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day176": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day177": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day178": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day179": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day180": {
+    "tweet1": {
+      "content": "New Strong Sell Stocks for September 18th"
+    }
+  },
+  "day181": {
+    "tweet1": {
+      "content": "StockBeat: European Stocks Rise in Wake of Fed's &quot;Hawkish Cut&quot;"
+    }
+  },
+  "day182": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day183": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day184": {
+    "tweet1": {
+      "content": "UPDATE 2-Brexit worries pressure London shares, Europe steady"
+    }
+  },
+  "day185": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto ties up with China’s steelmaker Baowu to cut emissions"
+    }
+  },
+  "day186": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto sees rosy future for diamonds despite end of Argyle"
+    }
+  },
+  "day187": {
+    "tweet1": {
+      "content": "Businesses Finally Think Big About Cutting Emissions"
+    },
+    "tweet2": {
+      "content": "Here's What COMPANY_X Tinto Group's (LON:COMPANY_X) P/E Ratio Is Telling Us"
+    },
+    "tweet3": {
+      "content": "Japan Q4 aluminium premiums set at $97/T, down 10% Q/Q"
+    }
+  },
+  "day188": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto scraps plans for sale or IPO of Canadian iron-ore unit"
+    },
+    "tweet2": {
+      "content": "PRESS DIGEST- Wall Street Journal - Sept. 30"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Tinto scraps plans for Canadian iron ore unit sale, floatation - WSJ"
+    }
+  },
+  "day189": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day190": {
+    "tweet1": {
+      "content": "Northwest Acquisitions ULC -- Moody's downgrades Northwest Acquisitions to Caa1; outlook negative"
+    }
+  },
+  "day191": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day192": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day193": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day194": {
+    "tweet1": {
+      "content": "Vale Expects to Conclude Dam Burst Disbursements by 2022"
+    }
+  },
+  "day195": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day196": {
+    "tweet1": {
+      "content": "Here is What Hedge Funds Think About COMPANY_X Tinto Group  (COMPANY_X)"
+    }
+  },
+  "day197": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day198": {
+    "tweet1": {
+      "content": "UPDATE 1-At least two dead in Guinea protests against change to constitution"
+    },
+    "tweet2": {
+      "content": "European stocks slink back on warier view of U.S.-China, Brexit talks"
+    },
+    "tweet3": {
+      "content": "Does COMPANY_X Tinto Group (LON:COMPANY_X) Have A Healthy Balance Sheet?"
+    }
+  },
+  "day199": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto sees rebound in Western Australia iron ore production"
+    }
+  },
+  "day200": {
+    "tweet1": {
+      "content": "European shares tepid before Brexit talks resume"
+    }
+  },
+  "day201": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day202": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day203": {
+    "tweet1": {
+      "content": "6 Stocks Outperforming the Market"
+    },
+    "tweet2": {
+      "content": "Norway’s $1 Trillion Fund Builds COMPANY_X Stake After Dirty Mine Sold"
+    }
+  },
+  "day204": {
+    "tweet1": {
+      "content": "COMPANY_X to Produce Lithium in California, Joining Electric Car Battery Race"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto has ‘eureka moment’ with California lithium discovery"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Tinto studying ways to produce lithium from waste rock at California mine"
+    }
+  },
+  "day205": {
+    "tweet1": {
+      "content": "Australia shares end flat as healthcare hurts, utilities batter NZ"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto smelter closure risk rocks New Zealand's top power supplier"
+    },
+    "tweet3": {
+      "content": "Premarket London:  Antofagasta Sees Modest Hit From Chile Riots"
+    }
+  },
+  "day206": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day207": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day208": {
+    "tweet1": {
+      "content": "Miner Seeks Answers Amid Indonesia Nickel Shock: LME Week Update"
+    }
+  },
+  "day209": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day210": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day211": {
+    "tweet1": {
+      "content": "Is COMPANY_X Tinto Group's (LON:COMPANY_X) CEO Paid At A Competitive Rate?"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto expects higher costs for flagship iron ore business"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Tinto Says Iron Ore Shipments to Rise in 2020 and Beyond"
+    }
+  },
+  "day212": {
+    "tweet1": {
+      "content": "London stocks boosted by commodity companies"
+    }
+  },
+  "day213": {
+    "tweet1": {
+      "content": "U.K. stocks boom on hopes for China trade deal"
+    }
+  },
+  "day214": {
+    "tweet1": {
+      "content": "The 5 Most Promising Gold Companies For 2020"
+    }
+  },
+  "day215": {
+    "tweet1": {
+      "content": "Depressed aluminium market tells a sorry tale of global demand"
+    }
+  },
+  "day216": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day217": {
+    "tweet1": {
+      "content": "London stocks slip as commodity-related stocks, banks weigh"
+    }
+  },
+  "day218": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day219": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day220": {
+    "tweet1": {
+      "content": "6 Undervalued Stocks According to the Peter Lynch Value"
+    }
+  },
+  "day221": {
+    "tweet1": {
+      "content": "BHP’s new boss shows miners are turning to low-carbon leaders"
+    },
+    "tweet2": {
+      "content": "BHP’s New Boss Shows Mining Is Still Nervous"
+    }
+  },
+  "day222": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day223": {
+    "tweet1": {
+      "content": "Mining trade group voices concerns on proposed tailings dam standards"
+    }
+  },
+  "day224": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto’s Giant Mongolia Project Dealt Another Blow"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto says Mongolian mine agreements are legal"
+    }
+  },
+  "day225": {
+    "tweet1": {
+      "content": "A Trio of Mining Favorites- Copper, Gold and Iron Ore"
+    }
+  },
+  "day226": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto faces having to renegotiate terms of Mongolian copper project"
+    },
+    "tweet2": {
+      "content": "Mongolia parliament seeks ‘improved contracts’ for COMPANY_X Tinto mine"
+    }
+  },
+  "day227": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day228": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day229": {
+    "tweet1": {
+      "content": "Here's Why I Think COMPANY_X Tinto Group (LON:COMPANY_X) Is An Interesting Stock"
+    },
+    "tweet2": {
+      "content": "Mongolia says COMPANY_X-led copper project will go ahead"
+    },
+    "tweet3": {
+      "content": "COMPANY_X’s Mongolia copper project will go ahead"
+    }
+  },
+  "day230": {
+    "tweet1": {
+      "content": "Canada's First Quantum may team-up with COMPANY_X Tinto to develop Peru copper mine"
+    },
+    "tweet2": {
+      "content": "REFILE-Canada's First Quantum may team-up with COMPANY_X Tinto to develop Peru copper mine"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Tinto Declares Force Majeure on Canadian Aluminum Sales"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Spending $4 Billion on Iron Ore Pipeline Amid China Demand"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Tinto and First Quantum in talks over Peru mine"
+    },
+    "tweet6": {
+      "content": "COMPANY_X and First Quantum in talks over Peru mine"
+    }
+  },
+  "day231": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day232": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day233": {
+    "tweet1": {
+      "content": "U.S. copper frenzy grows as COMPANY_X Tinto plans $1.5 bln Utah mine expansion"
+    }
+  },
+  "day234": {
+    "tweet1": {
+      "content": "Buying Iron Ore Is Getting More Like Shopping on Amazon"
+    },
+    "tweet2": {
+      "content": "10 Bargain Blue Chips with Improving Growth Prospects"
+    },
+    "tweet3": {
+      "content": "Violent Protests Shut Down Key COMPANY_X Tinto Mine in South Africa"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Tinto halts work at South African mine over escalating violence"
+    }
+  },
+  "day235": {
+    "tweet1": {
+      "content": "Apple Buys First Carbon-Free Aluminum from COMPANY_X-Alcoa Venture"
+    },
+    "tweet2": {
+      "content": "Apple Buys First Carbon-Free Aluminum from COMPANY_X-Alcoa Venture"
+    },
+    "tweet3": {
+      "content": "Apple buys first-ever carbon-free aluminum from Alcoa-COMPANY_X Tinto venture"
+    },
+    "tweet4": {
+      "content": "Alcoa's Australian smelter needs cheaper power to stay open past 2021 - partner"
+    }
+  },
+  "day236": {
+    "tweet1": {
+      "content": "Bougainville island faces copper ‘curse’ amid independence vote"
+    },
+    "tweet2": {
+      "content": "Bougainville independence vote raises spectre of ‘resource curse’"
+    }
+  },
+  "day237": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day238": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day239": {
+    "tweet1": {
+      "content": "Wall Street Is Finally Getting Bullish About Mining. Here Are 2 Stocks to Buy."
+    },
+    "tweet2": {
+      "content": "Gold’s Deal Blitz Could Draw In the Rest of the Mining Sector"
+    },
+    "tweet3": {
+      "content": "Copper at 4-1/2-Month High on Solid Imports Data From China"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Tinto Notes Mongolian Parliament Resolution on Oyu Tolgoi"
+    },
+    "tweet5": {
+      "content": "First Quantum Says No Takeover Bid from COMPANY_X Tinto or Jiangxi"
+    }
+  },
+  "day240": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day241": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto Offers Responsibly Produced Aluminium From Pacific Operations"
+    }
+  },
+  "day242": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day243": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day244": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day245": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day246": {
+    "tweet1": {
+      "content": "Steelmageddon and 4 More Reasons Why U.S. Steel Cut Its Dividend"
+    },
+    "tweet2": {
+      "content": "Water around COMPANY_X Tinto's Madagascar mine is high in lead, uranium - study"
+    }
+  },
+  "day247": {
+    "tweet1": {
+      "content": "Should You Buy COMPANY_X Tinto Group (LON:COMPANY_X) For Its Dividend?"
+    }
+  },
+  "day248": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day249": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day250": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day251": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto Restarts South Africa Mine as Security Improves"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto to Resume Operations at Richards Bay Minerals"
+    }
+  },
+  "day252": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day253": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day254": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto Increases Donation to Australian Red Cross for Bushfire Relief and Recovery Efforts"
+    }
+  },
+  "day255": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day256": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day257": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day258": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day259": {
+    "tweet1": {
+      "content": "Exclusive: NMDC lined up to mine multibillion-dollar diamond deposit in Madhya Pradesh"
+    }
+  },
+  "day260": {
+    "tweet1": {
+      "content": "3 Potentially Overlooked Large Caps"
+    }
+  },
+  "day261": {
+    "tweet1": {
+      "content": "StockBeat: Red Metal Rally Keeps Mining Sector in the Green"
+    }
+  },
+  "day262": {
+    "tweet1": {
+      "content": "Should We Be Delighted With COMPANY_X Tinto Group's (LON:COMPANY_X) ROE Of 28%?"
+    }
+  },
+  "day263": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto Releases Fourth Quarter Production Results"
+    },
+    "tweet2": {
+      "content": "Iron ore outlook rests on Vale’s tricky rebound"
+    }
+  },
+  "day264": {
+    "tweet1": {
+      "content": "Baltic index dips on subdued demand for capesize vessels"
+    },
+    "tweet2": {
+      "content": "Premarket London: COMPANY_X Tinto Production Slips; Premier Foods Posts Sweet Q3 Numbers"
+    }
+  },
+  "day265": {
+    "tweet1": {
+      "content": "Resilient Chinese Steel Industry Holds Promise for Iron Ore"
+    },
+    "tweet2": {
+      "content": "The Iron Ore Party Is Drawing to a Close"
+    }
+  },
+  "day266": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day267": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day268": {
+    "tweet1": {
+      "content": "How the Iron Ore Market Works (VALE, COMPANY_X)"
+    }
+  },
+  "day269": {
+    "tweet1": {
+      "content": "American Pacific Mining Signs Letter of Intent to Purchase Broadway Gold’s Interest in the Madison Cu-Au Project Under Option with COMPANY_X Tinto"
+    }
+  },
+  "day270": {
+    "tweet1": {
+      "content": "GRAPHIC-Why the 'devil' coronavirus has hit European stocks hard"
+    },
+    "tweet2": {
+      "content": "The Horse Breeder, the Novelist and the $60 Billion Mine"
+    },
+    "tweet3": {
+      "content": "The Coronavirus Won’t Wreck the Commodities Market"
+    }
+  },
+  "day271": {
+    "tweet1": {
+      "content": "The Big Dirty Secret of the World's Biggest Companies"
+    },
+    "tweet2": {
+      "content": "RPT-GRAPHIC-Why the 'devil' coronavirus has hit European stocks hard"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Tinto’s Australian Supplier Portal"
+    }
+  },
+  "day272": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day273": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day274": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day275": {
+    "tweet1": {
+      "content": "The Race Is On for Iron Ore Riches Buried Under an African Jungle"
+    }
+  },
+  "day276": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto launches new Australian payment terms"
+    }
+  },
+  "day277": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto Supports China’s Fight Against Novel Coronavirus Outbreak"
+    }
+  },
+  "day278": {
+    "tweet1": {
+      "content": "Is COMPANY_X Tinto (COMPANY_X) A Suitable Pick for Value Investors?"
+    }
+  },
+  "day279": {
+    "tweet1": {
+      "content": "Singapore Braces as Coronavirus Cases Emerge in Finance Hub"
+    }
+  },
+  "day280": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day281": {
+    "tweet1": {
+      "content": "Iron Ore’s Brazilian Rain Dance Looks Premature"
+    },
+    "tweet2": {
+      "content": "COMPANY_X weighs closure of Icelandic smelter as it struggles with power costs"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Tinto to review future of ISAL smelter"
+    }
+  },
+  "day282": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day283": {
+    "tweet1": {
+      "content": "EU launches anti-dumping investigation on China aluminium products"
+    }
+  },
+  "day284": {
+    "tweet1": {
+      "content": "Chinese copper smelting activity slips in January - satellite index"
+    },
+    "tweet2": {
+      "content": "BHP Can Afford to Go a Lot Greener"
+    }
+  },
+  "day285": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day286": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto seeks international arbitration on tax dispute with Mongolia"
+    },
+    "tweet2": {
+      "content": "Oyu Tolgoi to pursue international arbitration"
+    },
+    "tweet3": {
+      "content": "RPT-INSIGHT-Fires and climate fears rattle Australia's giant coal lobby"
+    },
+    "tweet4": {
+      "content": "Fires and climate fears rattle Australia's giant coal lobby"
+    },
+    "tweet5": {
+      "content": "INSIGHT-Fires and climate fears rattle Australia's giant coal lobby"
+    }
+  },
+  "day287": {
+    "tweet1": {
+      "content": "How an Iron-Ore Billionaire Escapes ESG Scrutiny"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto board changes"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Tinto looks to diversify board with addition of more women"
+    }
+  },
+  "day288": {
+    "tweet1": {
+      "content": "Markets Are Waking Up to the Virus Reality"
+    }
+  },
+  "day289": {
+    "tweet1": {
+      "content": "RPT-COLUMN-Iron ore shows rain can triumph over China virus fears: Russell"
+    },
+    "tweet2": {
+      "content": "COLUMN-Iron ore shows rain can triumph over China virus fears: Russell"
+    }
+  },
+  "day290": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto to invest $1 billion to help meet new climate change targets"
+    },
+    "tweet2": {
+      "content": "Shares tumble again as pandemic fears deepen"
+    },
+    "tweet3": {
+      "content": "COMPANY_X CEO Says World Must Sacrifice Growth to Meet Climate Goals"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Tinto Is Digging Mostly Into Its Pocket"
+    },
+    "tweet5": {
+      "content": "Miner COMPANY_X Tinto posts biggest profit in eight years"
+    },
+    "tweet6": {
+      "content": "Mining Giant COMPANY_X Tinto Flags Virus Uncertainty Threat"
+    },
+    "tweet7": {
+      "content": "COMPANY_X Tinto 2019 full year results presentation"
+    },
+    "tweet8": {
+      "content": "COMPANY_X Tinto chief rejects setting greenhouse targets for customers"
+    },
+    "tweet9": {
+      "content": "COMPANY_X Tinto announces full-year ordinary dividend of $6.2 billion (382 US cents per share), including record final ordinary dividend of $3.7 billion (231 US cents per share), resulting in total cash returns of $7.2 billion (443 US cents per share)"
+    },
+    "tweet10": {
+      "content": "COMPANY_X Tinto boss pledges zero emissions by 2050"
+    }
+  },
+  "day291": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day292": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto chief executive’s 2019 pay leaps 27 per cent"
+    }
+  },
+  "day293": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day294": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day295": {
+    "tweet1": {
+      "content": "Activist investor lashes out at COMPANY_X Tinto’s climate change strategy"
+    },
+    "tweet2": {
+      "content": "Global aluminium producers offer Q2 premiums of $98-$105/T -sources"
+    }
+  },
+  "day296": {
+    "tweet1": {
+      "content": "China to Approve Developing Guinea’s Giant Simandou Iron Ore Mine"
+    },
+    "tweet2": {
+      "content": "China Gives Global Miners an African Headache"
+    },
+    "tweet3": {
+      "content": "Activist investors tighten screws on COMPANY_X Tinto's emissions plan"
+    }
+  },
+  "day297": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day298": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day299": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day300": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day301": {
+    "tweet1": {
+      "content": "Here is What Hedge Funds Think About COMPANY_X Tinto plc  (COMPANY_X)"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto agrees to pay bonus to former CEO despite investigation "
+    },
+    "tweet3": {
+      "content": "COMPANY_X Tinto to pay ex-CEO's deferred bonus with interest"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Tinto to pay ex-CEO's deferred bonus with interest"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Tinto pays former chief executive’s deferred incentive plan awards"
+    }
+  },
+  "day302": {
+    "tweet1": {
+      "content": "London stocks bounce, but set for biggest weekly loss since the financial crisis"
+    }
+  },
+  "day303": {
+    "tweet1": {
+      "content": "Oyu Tolgoi work slows due to Mongolia's coronavirus curbs -COMPANY_X Tinto"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto provides update on Oyu Tolgoi project"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Tinto slows expansion of Oyu Tolgoi copper mine in Mongolia "
+    }
+  },
+  "day304": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day305": {
+    "tweet1": {
+      "content": "Update on COMPANY_X Tinto Kennecott after SLC earthquake"
+    }
+  },
+  "day306": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day307": {
+    "tweet1": {
+      "content": "Markets Now - Friday 20th March 2020"
+    }
+  },
+  "day308": {
+    "tweet1": {
+      "content": "Virus-control measures to hit COMPANY_X Tinto operations in South Africa, Canada"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto update on COVID-19"
+    },
+    "tweet3": {
+      "content": "Metals Buckle Under Virus Double Whammy"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Tinto whistleblower refers allegations to financial regulators"
+    }
+  },
+  "day309": {
+    "tweet1": {
+      "content": "StockBeat: The Harder the Fall, the Higher They Bounce"
+    }
+  },
+  "day310": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Freeport-McMoRan, Teck Resources, Vale, COMPANY_X Tinto and Southern Copper"
+    }
+  },
+  "day311": {
+    "tweet1": {
+      "content": "European stocks retreat, having rallied before Senate passage of stimulus bill"
+    }
+  },
+  "day312": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day313": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day314": {
+    "tweet1": {
+      "content": "Caught out by big market swings, traders rushed to short U.K. stocks in March. That’s a 40% surge since the same time last year."
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto to scale back New Zealand aluminium smelter due to virus"
+    }
+  },
+  "day315": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day316": {
+    "tweet1": {
+      "content": "PENTWATER FILES PROXY CIRCULAR FOR SHAREHOLDERS OF TURQUOISE HILL RESOURCES LTD. (TSX:TRQ) (NYSE:TRQ)"
+    }
+  },
+  "day317": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto faces fresh investor revolt over Mongolia mine"
+    }
+  },
+  "day318": {
+    "tweet1": {
+      "content": "Canned Food Sprees Won’t Save Aluminum"
+    }
+  },
+  "day319": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto discloses details of the $7.6 billion taxes paid in 2019"
+    },
+    "tweet2": {
+      "content": "GRAPHIC-Bets on potential mining defaults surge on worsening sector outlook"
+    }
+  },
+  "day320": {
+    "tweet1": {
+      "content": "TURQUOISE HILL'S RESPONSE TO PENTWATER CIRCULAR REINFORCES NEED FOR EFFECTIVE MINORITY SHAREHOLDER REPRESENTATION ON TURQUOISE HILL BOARD (TSX:TRQ) (NYSE:TRQ)"
+    }
+  },
+  "day321": {
+    "tweet1": {
+      "content": "Avoid This Mining Stock Next Month"
+    }
+  },
+  "day322": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day323": {
+    "tweet1": {
+      "content": "American Pacific Mining Signs Definitive Agreement on Madison Metals’ Interest in the Permitted Madison Copper Gold Project in Montana, under Option with COMPANY_X Tinto"
+    }
+  },
+  "day324": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day325": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto releases first quarter production results"
+    }
+  },
+  "day326": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto increases COVID-19 screening measures at Perth Airport"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto expects rising commodity demand from China"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Tinto gains as China demand for steel recovers"
+    },
+    "tweet4": {
+      "content": "Fortune Will Favor Miners with Nerves of Steel"
+    }
+  },
+  "day327": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day328": {
+    "tweet1": {
+      "content": "As Oil Crashes, Iron Ore's Still Rocking"
+    }
+  },
+  "day329": {
+    "tweet1": {
+      "content": "COLUMN-New aluminium crisis looms as output rises in demand void: Andy Home"
+    }
+  },
+  "day330": {
+    "tweet1": {
+      "content": "Northwest Acquisitions ULC -- Moody's downgrades Northwest Acquisitions ULC's PDR to D-PD following insolvency protection filing"
+    },
+    "tweet2": {
+      "content": "Diamonds Need Some New Best Friends"
+    },
+    "tweet3": {
+      "content": "Mine Shutdowns Plague Metals Even as Some Slowly Return to Work"
+    },
+    "tweet4": {
+      "content": "RPT-COLUMN-New aluminium crisis looms as output rises in demand void: Andy Home"
+    }
+  },
+  "day331": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto Finance (USA) Limited -- Moody's affirms all COMPANY_X Tinto group ratings; outlook stable"
+    }
+  },
+  "day332": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day333": {
+    "tweet1": {
+      "content": "World's mine workers resist quick restart amid coronavirus"
+    }
+  },
+  "day334": {
+    "tweet1": {
+      "content": "Lithium developer ioneer forecasts high margins for Nevada project"
+    }
+  },
+  "day335": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day336": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day337": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto contributes $10 million to support COVID-19 community initiatives across Canada and United States"
+    }
+  },
+  "day338": {
+    "tweet1": {
+      "content": "Royal Flying Doctor Service and COMPANY_X Tinto partner to improve remote and rural Queensland health services"
+    },
+    "tweet2": {
+      "content": "Belgium brings back its bling with reopening of world's largest diamond hub"
+    },
+    "tweet3": {
+      "content": "Even Proxy Advisers Are Split Over Mining’s Emissions Debate"
+    }
+  },
+  "day339": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day340": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day341": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day342": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day343": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day344": {
+    "tweet1": {
+      "content": "How To Play The Next Big Rally In Gold"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto supporting WA jobs as COVID-19 recovery phase ramps up"
+    }
+  },
+  "day345": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day346": {
+    "tweet1": {
+      "content": "5 Cheap Foreign Stocks That Are Perfect for Dividend Investors"
+    }
+  },
+  "day347": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day348": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day349": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day350": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day351": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day352": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day353": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto says it can extract strategic mineral from metal plant processing waste"
+    },
+    "tweet2": {
+      "content": "Central bankers highlight post-Covid climate risks; ESG earnings calls; Fallen angels; COMPANY_X Tinto blows up Australian heritage site"
+    }
+  },
+  "day354": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day355": {
+    "tweet1": {
+      "content": "Australian court rules against Fortescue in indigenous rights case"
+    }
+  },
+  "day356": {
+    "tweet1": {
+      "content": "Global aluminium producer seeks Q3 premium of $85/T from Japan buyers-sources"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto apologises for blowing up 46,000-year-old Aboriginal site"
+    }
+  },
+  "day357": {
+    "tweet1": {
+      "content": "Blasts at Ancient Aboriginal Site Expose Widening ESG Frontline"
+    }
+  },
+  "day358": {
+    "tweet1": {
+      "content": "Australia’s iron ore miners exploit supply gap as Covid-19 hobbles rivals"
+    }
+  },
+  "day359": {
+    "tweet1": {
+      "content": "Iron-Ore Prices Surge on Impending Demand-Supply Imbalance"
+    }
+  },
+  "day360": {
+    "tweet1": {
+      "content": "Traditional owners say COMPANY_X Tinto knew importance of caves razed for mine"
+    }
+  },
+  "day361": {
+    "tweet1": {
+      "content": "Iron Ore Prices Surge as Vale Ordered to Shut Itabira Mines"
+    }
+  },
+  "day362": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day363": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day364": {
+    "tweet1": {
+      "content": "New Strong Buy Stocks For June 11th"
+    },
+    "tweet2": {
+      "content": "Australian state says BHP can disturb 40 sacred sites in mine expansion"
+    },
+    "tweet3": {
+      "content": "Top Ranked Income Stocks to Buy for June 11th"
+    }
+  },
+  "day365": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day366": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto in need of redemption after blasting Aboriginal site"
+    }
+  },
+  "day367": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: VALE, BHP, COMPANY_X and FSUGY"
+    },
+    "tweet2": {
+      "content": "Australia’s Pension Giant Pressing COMPANY_X Over Heritage Site Blasts"
+    }
+  },
+  "day368": {
+    "tweet1": {
+      "content": "CORRECTED-Copper sustainable group expects more members following COMPANY_X Tinto's units"
+    },
+    "tweet2": {
+      "content": "MEDIA-Dominion Diamond sues Diavik mine partner for breach of contract, other allegations- CBC News"
+    }
+  },
+  "day369": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto announces details of board-led heritage process review"
+    }
+  },
+  "day370": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto Group (COMPANY_X): Hedge Funds De-risking"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto launches board-led review into sacred caves blast"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Tinto launches internal review after sacred caves blast"
+    }
+  },
+  "day371": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day372": {
+    "tweet1": {
+      "content": "Australia Sacred Sites Seen Remaining Under Threat After Mine Law Reform"
+    }
+  },
+  "day373": {
+    "tweet1": {
+      "content": "Pentwater Issues Letter to Turquoise Hill Calling for Increased Transparency in Financial Disclosures and Urges Shareholders to Vote for Pentwater’s Proposals to Restore Accountability"
+    }
+  },
+  "day374": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day375": {
+    "tweet1": {
+      "content": "Top Ranked Momentum Stocks to Buy for June 26th"
+    },
+    "tweet2": {
+      "content": "Top Ranked Income Stocks to Buy for June 26th"
+    },
+    "tweet3": {
+      "content": "Is COMPANY_X Tinto Group's (LON:COMPANY_X) Stock's Recent Performance Being Led By Its Attractive Financial Prospects?"
+    }
+  },
+  "day376": {
+    "tweet1": {
+      "content": "BHP Overstayed in Petroleum. Time to Exit"
+    },
+    "tweet2": {
+      "content": "COMPANY_X avoids $1bn bill for Mongolian power plant in Gobi desert"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Tinto reaches power supply deal with Mongolia for Oyu Tolgoi mine"
+    }
+  },
+  "day377": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto adds a strategy and development role to the executive committee"
+    }
+  },
+  "day378": {
+    "tweet1": {
+      "content": "A Miner Blew Up Ancient Human History. An Industry May Pay"
+    }
+  },
+  "day379": {
+    "tweet1": {
+      "content": "Turquoise Hill to defer any interim funding talks on Mongolian mine with COMPANY_X Tinto"
+    },
+    "tweet2": {
+      "content": "Oyu Tolgoi mine design confirms project schedule and cost ranges and update to Ore Reserves and Mineral Resources"
+    }
+  },
+  "day380": {
+    "tweet1": {
+      "content": "Minera Escondida Limitada -- Moody's announces completion of a periodic review of ratings of Minera Escondida Limitada"
+    }
+  },
+  "day381": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day382": {
+    "tweet1": {
+      "content": "NZAS terminates electricity contract and plans to wind-down operations following strategic review"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Tinto’s aboriginal desecration shows folly of rote ESG"
+    }
+  },
+  "day383": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto to shutter NZ aluminium smelter, putting jobs and economy in peril"
+    },
+    "tweet2": {
+      "content": "Aboriginal groups call for COMPANY_X to lose human rights status after caves blast"
+    }
+  },
+  "day384": {
+    "tweet1": {
+      "content": "Japan buyers agree to pay Q3 aluminium premium of $79/T - sources"
+    }
+  },
+  "day385": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day386": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day387": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day388": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto releases second quarter production results"
+    },
+    "tweet2": {
+      "content": "Is COMPANY_X Tinto (COMPANY_X) Outperforming Other Basic Materials Stocks This Year?"
+    }
+  },
+  "day389": {
+    "tweet1": {
+      "content": "Miner COMPANY_X Tinto Has Made an Upside Breakout - Go Long"
+    },
+    "tweet2": {
+      "content": "Baltic index inches up on rising capesize rates"
+    },
+    "tweet3": {
+      "content": "Warren Buffett may have found a stock he likes — his own"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Says Threat of Virus Second Wave Is Roiling Raw Materials"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Tinto posts strong second quarter iron ore shipments, sees China demand recovery"
+    }
+  },
+  "day390": {
+    "tweet1": {
+      "content": "Iron Ore’s African Future Is Slowly Advancing, COMPANY_X Tinto Says"
+    }
+  },
+  "day391": {
+    "tweet1": {
+      "content": "Australia's iron ore exports to China strong, but weak global demand indicates mixed coronavirus recovery"
+    }
+  },
+  "day392": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto files complaint with Icelandic Competition Authority over ISAL smelter power agreement"
+    },
+    "tweet2": {
+      "content": "Australia shares fall as record virus cases dent investor sentiment"
+    }
+  },
+  "day393": {
+    "tweet1": {
+      "content": "Top Ranked Income Stocks to Buy for July 23rd"
+    }
+  },
+  "day394": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day395": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto reveals maiden Resource at Winu and new discovery"
+    },
+    "tweet2": {
+      "content": "Top Ranked Income Stocks to Buy for July 27th"
+    }
+  },
+  "day396": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto Reveals Maiden Resource At Winu, New Gold Discovery"
+    }
+  },
+  "day397": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto plc (COMPANY_X) Q2 2020 Earnings Call Transcript"
+    },
+    "tweet2": {
+      "content": "What Kind Of Shareholders Own COMPANY_X Tinto Group (LON:COMPANY_X)?"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Tinto Can Stay Stuck in a Profitable Rut, For Now"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Tinto Gets Closer to Building Game-Changer African Iron Mine"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Tinto touts 'V-shaped' China recovery as it beats profit expectations"
+    },
+    "tweet6": {
+      "content": "COMPANY_X Tinto Raises Dividend on Strength in Iron Ore"
+    },
+    "tweet7": {
+      "content": "COMPANY_X Tinto declares interim ordinary dividend of $2.5 billion"
+    },
+    "tweet8": {
+      "content": "COMPANY_X Tinto first-half profit drops 4%"
+    },
+    "tweet9": {
+      "content": "PRESS DIGEST-Financial Times - July 29"
+    }
+  },
+  "day398": {
+    "tweet1": {
+      "content": "COMPANY_X Tinto progresses the Jadar lithium project to feasibility study stage"
+    }
+  },
+  "day399": {
+    "tweet1": {
+      "content": "5 Bargain Stocks With High Dividend Yields"
+    },
+    "tweet2": {
+      "content": "Australian miners COMPANY_X Tinto and Fortescue post record iron ore shipments as China industrial recovery continues"
+    }
+  }
+}

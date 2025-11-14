@@ -1,0 +1,652 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "After Hours Most Active for Oct 1, 2020 :  VICI, AAPL, SLB, COMPANY_X, SGMS, MSFT, HST, MNST, APA, RUN, GE, VZ"
+    },
+    "tweet2": {
+      "content": "Best ETFs for 2020: The AdvisorShares Vice ETF Saved by SAM and TMO"
+    },
+    "tweet3": {
+      "content": "Stocks Are Expensive. These 14 Are Cheap and Could Grow."
+    },
+    "tweet4": {
+      "content": "Cramer Gives His Opinion On AbbVie, Snowflake And More"
+    },
+    "tweet5": {
+      "content": "7 Dividend Stocks Perfect for a Retiree’s Portfolio"
+    },
+    "tweet6": {
+      "content": "AbbVie: New Brunswick, British Columbia List SKYRIZI On Its Provincial Formulary "
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "COMPANY_X LONG TERM SHAREHOLDER ALERT: The Schall Law Firm Announces it is Investigating Claims Against AbbVie Inc. and Encourages Investors with Losses to Contact the Firm"
+    },
+    "tweet2": {
+      "content": "AbbVie to Present New Data From 15 Abstracts at the 2020 Virtual Migraine Trust International Symposium"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "HIV treatment has no benefit for hospitalised COVID-19 patients - study"
+    },
+    "tweet2": {
+      "content": "Are You Looking for a High-Growth Dividend Stock? AbbVie (COMPANY_X) Could Be a Great Choice"
+    },
+    "tweet3": {
+      "content": "9 Dividend Stocks That Can Help Anyone Looking for Income"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "AbbVie to Host Third-Quarter 2020 Earnings Conference Call"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "AbbVie (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "AbbVie Is Undervalued and Offers a High Yield"
+    },
+    "tweet3": {
+      "content": "Allergan Aesthetics To Acquire Luminera's Dermal Filler Business - Quick Facts "
+    },
+    "tweet4": {
+      "content": "Allergan Aesthetics, an AbbVie Company, Acquires Innovative Luminera Dermal Filler Business"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "President Trump getting Regeneron treatment is 'wrong and unethical': Dr. Ezekiel Emanuel"
+    },
+    "tweet2": {
+      "content": "Should We Be Delighted With AbbVie Inc.'s (NYSE:COMPANY_X) ROE Of 47%?"
+    },
+    "tweet3": {
+      "content": "What Does AbbVie's Debt Look Like?"
+    },
+    "tweet4": {
+      "content": "Allergan Aesthetics To Present Data From 4 Abstracts At The 2020 American Society For Dermatologic Surgery Virtual Meeting"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "AbbVie (COMPANY_X) Stock Moves -0.55%: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Lilly's Mirikizumab Retains Efficacy in Crohn's Disease Study"
+    },
+    "tweet3": {
+      "content": "NIH to test AbbVie, Boehringer Ingelheim drug in combination with remdesivr"
+    },
+    "tweet4": {
+      "content": "Coronavirus update: J&J and Eli Lilly trials hit pause as US doubles down on antibody therapies"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Better Buy: AbbVie vs. Johnson & Johnson"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "Remdesivir didn't reduce mortality among COVID-19 in WHO study: Report"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: JNJ, Eli Lilly, Merck, AbbVie and GSK"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "VENCLEXTA® (venetoclax) Receives FDA Full Approval for Acute Myeloid Leukemia (AML)"
+    },
+    "tweet2": {
+      "content": "Coronavirus update: Global COVID-19 cases top 38.9 million as trial of promising therapy finds it does not stop patients dying"
+    },
+    "tweet3": {
+      "content": "Study finds remdesivir, hydroxychloroquine have 'little' impact on mortality in COVID-19 patients"
+    },
+    "tweet4": {
+      "content": "5 High-Yield Stocks for 5%-Plus Dividend Payouts"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "AbbVie Submits Anti-Inflammatory Drug Rinvoq for FDA, Europe Approval for Atopic Dermatitis"
+    },
+    "tweet2": {
+      "content": "Analyst Report: AbbVie Inc."
+    },
+    "tweet3": {
+      "content": "AbbVie Submits Regulatory Applications to FDA and EMA for RINVOQ™ (upadacitinib) in Atopic Dermatitis"
+    },
+    "tweet4": {
+      "content": "Roche (RHHBY), AbbVie's Leukemia Drug Venclexta Get Full FDA Nod"
+    },
+    "tweet5": {
+      "content": "AbbVie Announces Commencement of Registered Exchange Offers"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "AbbVie (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Were Hedge Funds Right About Crowding AbbVie Inc (COMPANY_X)?"
+    },
+    "tweet3": {
+      "content": "AbbVie (COMPANY_X) Files for Rinvoq in Atopic Dermatitis in US & EU"
+    },
+    "tweet4": {
+      "content": "AbbVie Submits US, EU Rinvoq Applications For Atopic Dermatitis"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Are You Looking for a High-Growth Dividend Stock? AbbVie (COMPANY_X) Could Be a Great Choice"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Healthcare to Post Solid Q3 Earnings Growth: ETFs in Focus"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "AbbVie (COMPANY_X) Reports Next Week: Wall Street Expects Earnings Growth"
+    },
+    "tweet2": {
+      "content": "Benzinga's Top Upgrades, Downgrades For October 23, 2020"
+    },
+    "tweet3": {
+      "content": "Healthcare to Post Solid Q3 Earnings Growth: ETFs in Focus"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "AbbVie (COMPANY_X) Stock Moves -0.5%: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Will AbbVie (COMPANY_X) Q3 Earnings Recover From Coronavirus Woes?"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "3 Stocks You Can Still Buy on Sale in a Ridiculously Expensive Market"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Amgen’s Earnings and Sales Climb, Driven by Its Biosimilars"
+    },
+    "tweet2": {
+      "content": "Top 5 Trades of the Eaton Vance Worldwide Health Sciences Fund"
+    },
+    "tweet3": {
+      "content": "Will Humira, Cancer Drugs Drive AbbVie (COMPANY_X) Q3 Earnings?"
+    },
+    "tweet4": {
+      "content": "AbbVie Highlights Innovative Research for People with Rheumatic Diseases with New Data at ACR Convergence 2020"
+    },
+    "tweet5": {
+      "content": "Allergan, an AbbVie Company, Announces Positive Phase 3 Topline Results for Investigational AGN-190584 for the Treatment of Presbyopia"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Earnings Preview: AbbVie"
+    },
+    "tweet2": {
+      "content": "The Daily Biotech Pulse: Novartis Acquires Gene Therapy Company, Moderna's Japanese Vaccine Supply Deal"
+    },
+    "tweet3": {
+      "content": "AbbVie to Present New Analyses from Pivotal Phase 3 Studies for RINVOQ™ (upadacitinib) in Atopic Dermatitis"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "AbbVie Earnings Top Views On Rising Humira Sales"
+    },
+    "tweet2": {
+      "content": "How AbbVie Beat Expectations in Q3"
+    },
+    "tweet3": {
+      "content": "AbbVie Stock Is Rising Because Earnings Got a Botox Shot"
+    },
+    "tweet4": {
+      "content": "Analyst Report: AbbVie Inc."
+    },
+    "tweet5": {
+      "content": "AbbVie (COMPANY_X) Beats on Q3 Earnings & Sales, Ups 2020 Guidance"
+    },
+    "tweet6": {
+      "content": "AbbVie Posts Stronger-Than-Expected Earnings as Humira Sales Rise 4%"
+    },
+    "tweet7": {
+      "content": "AbbVie (COMPANY_X) Q3 Earnings and Revenues Top Estimates"
+    },
+    "tweet8": {
+      "content": "AbbVie: Q3 Earnings Insights"
+    },
+    "tweet9": {
+      "content": "AbbVie beats earnings expectations, raises its outlook and boosts dividend"
+    },
+    "tweet10": {
+      "content": "AbbVie raises profit outlook on Botox recovery signs, new drugs growth"
+    },
+    "tweet11": {
+      "content": "AbbVie raises 2020 profit forecast as COVID-19 hit eases"
+    },
+    "tweet12": {
+      "content": "AbbVie Reports Third-Quarter 2020 Financial Results"
+    },
+    "tweet13": {
+      "content": "AbbVie, Inc. to Host Earnings Call"
+    },
+    "tweet14": {
+      "content": "2 No-Brainer Dividend Stocks Yielding More Than 4%"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Neurocrine (NBIX) to Report Q3 Earnings: What's in Store?"
+    },
+    "tweet2": {
+      "content": "Company News for Nov 2, 2020"
+    },
+    "tweet3": {
+      "content": "Morning Bell With Jim Cramer: Alphabet Had the Best Quarter"
+    },
+    "tweet4": {
+      "content": "Cheap Growth Is Hard to Find. Here Are 9 Stocks to Consider."
+    },
+    "tweet5": {
+      "content": "3 Top Stocks With High Dividend Yields"
+    },
+    "tweet6": {
+      "content": "3 Dividend Stocks to Supplement Your Social Security"
+    },
+    "tweet7": {
+      "content": "These 4 Companies Boosted Their Dividends This Week"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "3 ‘Strong Buy’ Stocks With at Least 5% Dividend Yield"
+    },
+    "tweet2": {
+      "content": "Bristol Myers Says Its Psoriasis Drug Outperformed Amgen’s Otezla"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "AbbVie Shares Soar on 3rd-Quarter Results, Bright Outlook"
+    },
+    "tweet2": {
+      "content": "Republican Hold On Senate Seen As Plus For Drug Companies"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "AbbVie to Highlight Blood Cancer Leadership and Advancing Oncology Pipeline at the ASH 62ND Annual Meeting"
+    },
+    "tweet2": {
+      "content": "AbbVie (COMPANY_X) in Focus: Stock Moves 7.4% Higher"
+    },
+    "tweet3": {
+      "content": "Analyst Report: AbbVie Inc."
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Ironwood (IRWD) Q3 Earnings Beat on Solid Linzess Sales"
+    },
+    "tweet2": {
+      "content": "AbbVie Joins The Coronavirus Drug Hunt — Is AbbVie Stock A Buy?"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Dr. Alice Chen on what the next steps are for Pfizer after company finds COVID-19 vaccine to be 90% effective"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "5 Leading Healthcare Stocks Surging On Pent-Up Demand"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "AbbVie to Present at the Wolfe Research Healthcare Conference"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Top Analyst Reports for AbbVie, Square & Honda Motor"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Warren Buffett Bought 4 Pharma Giants in Q3"
+    },
+    "tweet2": {
+      "content": "Warren Buffett Buys 6 Stocks in 3rd Quarter, Dumps Costco"
+    },
+    "tweet3": {
+      "content": "Warren Buffett Goes On Drug Stock Buying Spree, Trims Top Holding Apple"
+    },
+    "tweet4": {
+      "content": "Warren Buffett Was A Big Buyer Of Drug Stocks In Q3, Including Covid Vaccine Developer"
+    },
+    "tweet5": {
+      "content": "Warren Buffett's Berkshire Hathaway reports new stakes in AbbVie, Pfizer, Merck, Bristol-Myers Squibb"
+    },
+    "tweet6": {
+      "content": "Warren Buffett's Berkshire loads up on Pfizer, other pharma stocks in Q3; exits Costco"
+    },
+    "tweet7": {
+      "content": "15 Largest Drug Companies in the World"
+    },
+    "tweet8": {
+      "content": "The Zacks Analyst Blog Highlights: AbbVie, Square, Honda Motor, Canadian Pacific Railway and Wayfair"
+    },
+    "tweet9": {
+      "content": "3 Recession Proof Stocks to Buy Now"
+    },
+    "tweet10": {
+      "content": "Is AbbVie (COMPANY_X) a Suitable Stock for Value Investors Now?"
+    },
+    "tweet11": {
+      "content": "Allergan Aesthetics Celebrates Second Annual BOTOX® Cosmetic (onabotulinumtoxinA) Day"
+    },
+    "tweet12": {
+      "content": "What Is A Dividend? Plus The 5 Best Dividend Stocks Now"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Looking Into AbbVie's Return On Capital Employed"
+    },
+    "tweet2": {
+      "content": "Big Pharma Gains on Warren Buffett's Big Covid-19 Bet"
+    },
+    "tweet3": {
+      "content": "What Does AbbVie's Debt Look Like?"
+    },
+    "tweet4": {
+      "content": "Warren Buffett Likes Stocks Again"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "AbbVie Announces Expiration and Final Results of Registered Exchange Offers"
+    },
+    "tweet2": {
+      "content": "Here's Exactly Why Warren Buffett Loaded Up on Big Pharma Stocks"
+    },
+    "tweet3": {
+      "content": "15 Largest Biotech Companies in the World"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Jim Simons' Firm's Top 5 Sells of the 3rd Quarter"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Warren Buffett Just Bought These Stocks"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "3 Dividend Stocks Gurus Like"
+    },
+    "tweet2": {
+      "content": "Did AbbVie Inc. (NYSE:COMPANY_X) Insiders Buy Up More Shares?"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Be Like Buffett and Wager on Pfizer. Here’s How to Do It With Options."
+    },
+    "tweet2": {
+      "content": "5 High-Yield Dividend Stocks to Watch"
+    },
+    "tweet3": {
+      "content": "AbbVie to Present at the Evercore ISI Conference and Piper Sandler Healthcare Conference"
+    },
+    "tweet4": {
+      "content": "Enanta Pharmaceuticals Inc (ENTA) Q4 2020 Earnings Call Transcript"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "3 Dividend Aristocrats For Safe Dividends And High Total Returns"
+    },
+    "tweet2": {
+      "content": "How is Abbvie Inc (NYSE: COMPANY_X) Preparing For Life After Humira?"
+    },
+    "tweet3": {
+      "content": "Only these five dividend stocks made the cut in a ‘safer and better’ screen"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Best Dividend Stocks for December 2020"
+    },
+    "tweet2": {
+      "content": "Pharma Stock Roundup: AZN COVID-19 Vaccine Interim Data, PFE Emergency Use Appeal"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "Is AbbVie (COMPANY_X) A Good Stock To Buy Now?"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "New Advances in Treating Difficult Blood Cancers From Johnson & Johnson and Others"
+    },
+    "tweet2": {
+      "content": "3 Pharma Stocks With Dividends Above 4% to Buy Now"
+    },
+    "tweet3": {
+      "content": "AbbVie to Host Virtual Immunology Strategic Update"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "Top Stock Reports for Facebook, Netflix & AbbVie"
+    },
+    "tweet2": {
+      "content": "AbbVie and Frontier Medicines Establish Global Partnership to Discover and Develop Novel Therapies and E3 Degraders Against Difficult-to-Drug Targets"
+    },
+    "tweet3": {
+      "content": "Frontier Medicines and AbbVie Establish Global Partnership to Discover and Develop Novel Therapies and E3 Degraders Against Difficult-to-Drug Targets"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "Warren Buffett’s Woodstock for Capitalists Going Virtual Again in 2021"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Facebook, Netflix, AbbVie, American Airlines and Micron Technology"
+    },
+    "tweet3": {
+      "content": "AbbVie (COMPANY_X) Signs New Cancer/Immunology Deal With Frontier"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "Pharma Stock Roundup: Approval of PFE/BNTX Coronavirus Vaccine in UK, Other Updates"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "Former Allergan CEO: Pfizer's $19.50 COVID-19 vaccine dose price 'is a pretty good bargain'"
+    },
+    "tweet2": {
+      "content": "10 Dividend Stocks Warren Buffett Likes the Most"
+    },
+    "tweet3": {
+      "content": "Upadacitinib (RINVOQ™) Meets Primary and All Ranked Secondary Endpoints in First Phase 3 Induction Study in Ulcerative Colitis"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "RINVOQ™ (upadacitinib) Achieved Superiority Versus DUPIXENT® (dupilumab) For Primary and All Ranked Secondary Endpoints in Phase 3b Head-to-Head Study in Adults with Atopic Dermatitis"
+    },
+    "tweet2": {
+      "content": "AbbVie's (COMPANY_X) Rinvoq Meets Goal in Ulcerative Colitis Study"
+    },
+    "tweet3": {
+      "content": "The Daily Biotech Pulse: Key Vaccine Adcom Review For Pfizer-BioNTech, Puma, Immutep, G1 Rally On Breast Cancer Conference Presentations"
+    },
+    "tweet4": {
+      "content": "3 Warren Buffett Dividend Stocks You Can Buy Right Now"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "3 Large-Cap Dividend Stocks to Buy and Hold Before 2021"
+    },
+    "tweet2": {
+      "content": "Pharma Stock Roundup: FDA Panel's Nod to PFE/BNTX Coronavirus Vaccine, Other Updates"
+    },
+    "tweet3": {
+      "content": "CHMP Recommends the Approvals of RINVOQ™ (Upadacitinib) for the Treatment of Adults with Active Psoriatic Arthritis and Ankylosing Spondylitis"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "3 Health Care Companies That Recently Raised Dividends"
+    },
+    "tweet2": {
+      "content": "AbbVie's (COMPANY_X) Rinvoq Gets CHMP Nod for Two New Indications"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "AbbVie Inc. -- Moody's announces completion of a periodic review of ratings of AbbVie Inc."
+    },
+    "tweet2": {
+      "content": "Health Canada Approves VENCLEXTA® (venetoclax) in combination with azacitidine or low dose cytarabine for untreated Acute Myeloid Leukemia (AML)"
+    },
+    "tweet3": {
+      "content": "20 Biggest Healthcare Companies By Revenue"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "AbbVie (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Galapagos Stock Crumbles After Its Gilead Arthritis Deal Falls Apart"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "3 Dividend Stocks I'd Buy Right Now"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "AbbVie (NYSE:COMPANY_X) Has Gifted Shareholders With A Fantastic 124% Total Return On Their Investment"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "AbbVie (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet2": {
+      "content": "3 Stocks with Strong Dividends to Buy for Growth in 2021"
+    },
+    "tweet3": {
+      "content": "10 Best Healthcare Dividend Stocks"
+    },
+    "tweet4": {
+      "content": "Are Options Traders Betting on a Big Move in AbbVie (COMPANY_X) Stock?"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "Construction Partners, Surgery Partners, Qualcomm, AbbVie and Garmin as Zacks Bull and Bear of the Day"
+    },
+    "tweet2": {
+      "content": "IMBRUVICA® (ibrutinib) U.S. Prescribing Information Updated to Include Long-Term Data for Waldenström's Macroglobulinemia (WM)"
+    },
+    "tweet3": {
+      "content": "3 Stocks to Buy With Dividends Yielding More Than 4%"
+    },
+    "tweet4": {
+      "content": "Coronavirus Stimulus Checks: Top Stocks To Buy Now"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "The 1 Unstoppable Trend Most Likely to Make You Rich Over the Next Decade"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "AbbVie (COMPANY_X) Outperforms Industry Year to Date: Here's Why"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "AbbVie (COMPANY_X) Gains As Market Dips: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Top Analyst Reports for Johnson & Johnson, NVIDIA & Cisco"
+    },
+    "tweet3": {
+      "content": "Have $600 and 10 Years to Wait? Park It in These 3 Top Stocks"
+    },
+    "tweet4": {
+      "content": "3 Stocks That'll Turn Your $600 Stimulus Check Into a Money Machine"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Johnson & Johnson, NVIDIA, Cisco, AbbVie and Sony"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "3 Warren Buffett Stocks Worth Buying Now"
+    }
+  }
+}

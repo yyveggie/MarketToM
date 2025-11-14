@@ -1,0 +1,376 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "‘Better Days Are Ahead’ for Caterpillar. Its Stock Fell Anyway."
+    },
+    "tweet2": {
+      "content": "Caterpillar Stock Dropped After Earnings. Why Analysts Are More Upbeat."
+    },
+    "tweet3": {
+      "content": "WRAPUP 1-U.S. manufacturing activity near 1-1/2-year high; construction spending extends drop"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Caterpillar and CalAmp Extend Relationship on Industrial IoT Solutions"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Understanding Caterpillar's Unusual Options Activity"
+    },
+    "tweet2": {
+      "content": "Walt Disney, Nike share gains contribute to Dow's 319-point rally"
+    },
+    "tweet3": {
+      "content": "Caterpillar, Coca-Cola, and 4 More Stocks With Solid Dividends for a Pandemic-Stricken World"
+    },
+    "tweet4": {
+      "content": "Dow's 239-point climb led by gains for Walt Disney, Travelers stocks"
+    },
+    "tweet5": {
+      "content": "Six Large-Cap Stocks With Solid Dividends That Have Weathered the Pandemic"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Cross-Sector: Market Data Highlights"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "'Halftime Report' Traders Share Their Thoughts On Micron, Caterpillar And More"
+    },
+    "tweet2": {
+      "content": "Cisco, Chevron share losses contribute to Dow's 25-point fall"
+    },
+    "tweet3": {
+      "content": "Exxon Mobil, Chevron share losses contribute to Dow's 100-point fall"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "The Dow Gained 350 Points Because No Stimulus Is No Problem"
+    },
+    "tweet2": {
+      "content": "Stock Market Today: The Dow Heats Up as Tech Tones It Down"
+    },
+    "tweet3": {
+      "content": "Boeing, Caterpillar share gains contribute to Dow's 364-point rally"
+    },
+    "tweet4": {
+      "content": "Dow's nearly 300-point rally highlighted by gains for Boeing, Nike stocks"
+    },
+    "tweet5": {
+      "content": "Boeing, Caterpillar share gains lead Dow's nearly 150-point jump"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Apple Inc., Travelers share losses lead the way, but Dow flat"
+    },
+    "tweet2": {
+      "content": "Dow Jones Little Changed as Apple Bans Fortnite, Caterpillar Reports Rough July Sales"
+    },
+    "tweet3": {
+      "content": "Caterpillar's Coronavirus Woes Continue: Retail Machine Sales Tumble"
+    },
+    "tweet4": {
+      "content": "A Look Into Caterpillar's Price Over Earnings"
+    },
+    "tweet5": {
+      "content": "Caterpillar's rolling July retail machine sales drops 20%, but improves from June"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "Caterpillar (COMPANY_X) Reports Retail Sales Decline of 20% in July"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Deere Reports Earnings Tomorrow. Here’s What to Expect."
+    },
+    "tweet2": {
+      "content": "John Deere Reports Earnings on Friday. Here’s What Investors Can Expect."
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Apple Inc., Nike share gains lead Dow's 215-point climb"
+    },
+    "tweet2": {
+      "content": "Apple Inc., Nike share gains contribute to Dow's nearly 150-point climb"
+    },
+    "tweet3": {
+      "content": "Apple Inc., JPMorgan Chase share gains lead Dow's nearly 75-point jump"
+    },
+    "tweet4": {
+      "content": "9 Top Stocks to Buy for a Weakened Dollar"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "U.S. business borrowing for equipment recovers in July, says trade association"
+    },
+    "tweet2": {
+      "content": "Here's What To Make Of Caterpillar's (NYSE:COMPANY_X) Returns On Capital"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Forget AT&T: Here Are 2 Better Dividend Stocks"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Honeywell CEO expects a coronavirus treatment or vaccine by the end of 2020"
+    },
+    "tweet2": {
+      "content": "Bonds Are Safer Than They Look"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Battle Of The Stocks: Is Deere Or Caterpillar A Better Investment Right Now?"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Carter Worth Shares His Latest Catch-Up Trades: Caterpillar, Starbucks And More"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Dow's 150-point climb led by gains for Coca-Cola, Intel shares"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Caterpillar (COMPANY_X) Stock Moves -1.68%: What You Should Know"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Dow's nearly 200-point climb led by gains in shares of American Express, JPMorgan Chase"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Intel, Coca-Cola, Starbucks, Caterpillar and Zoetis"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Microsoft, Apple Inc. share gains lead Dow's nearly 675-point surge"
+    },
+    "tweet2": {
+      "content": "Caterpillar Is Metamorphosing Into a Bull"
+    },
+    "tweet3": {
+      "content": "Dow soars nearly 600 points on gains in Microsoft, Apple Inc. shares"
+    },
+    "tweet4": {
+      "content": "Caterpillar: Following the Global Economy"
+    },
+    "tweet5": {
+      "content": "Dow up 520 points on gains for Apple Inc., Microsoft stocks"
+    },
+    "tweet6": {
+      "content": "Hedge Funds Dipping Their Toes Back Into Caterpillar Inc. (COMPANY_X)"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Dow's 211-point fall led by losses for Apple Inc., Caterpillar stocks"
+    },
+    "tweet2": {
+      "content": "Caterpillar, UnitedHealth share losses lead Dow's 133-point drop"
+    },
+    "tweet3": {
+      "content": "Dow's 60-point drop led by losses for shares of Caterpillar, Johnson & Johnson"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Stock Market Today: Stocks End Wobbly Week With a Mixed Finish"
+    },
+    "tweet2": {
+      "content": "US STOCKS-Dow ends higher but Wall Street posts 2nd straight weekly drop on tech slide"
+    },
+    "tweet3": {
+      "content": "US STOCKS-Wall Street posts 2nd straight weekly drop on tech slide"
+    },
+    "tweet4": {
+      "content": "Dow climbs 70 points on gains for shares of Nike, Dow Inc."
+    },
+    "tweet5": {
+      "content": "Dow's 68-point climb led by gains for Nike, Dow Inc. stocks"
+    },
+    "tweet6": {
+      "content": "Nike, Amgen Inc. share gains lead Dow's 118-point jump"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Caterpillar (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Market Recap: Tuesday, September 15"
+    },
+    "tweet2": {
+      "content": "Why Caterpillar's Stock Is Trading Lower Today"
+    },
+    "tweet3": {
+      "content": "Dow Jones Rises 100 Points; Caterpillar Stock Down on Sales Slump; Walmart Launches Subscription Service; Microsoft Rolls Out Mobile Cloud Gaming"
+    },
+    "tweet4": {
+      "content": "COVID-19 Sends Caterpillar's Retail Machine Sales Tumbling for the 9th Straight Month"
+    },
+    "tweet5": {
+      "content": "Caterpillar, 3M and the Less-Than-Stellar Rebound in the Industrial Economy"
+    },
+    "tweet6": {
+      "content": "Caterpillar Reports Drop in Machine Sales Amid Sluggish Global Economy"
+    },
+    "tweet7": {
+      "content": "Caterpillar's stock falls after total machines retail sales falls in line with July, while E&T sales fall further"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Caterpillar Announces Appointment of New Vice President"
+    },
+    "tweet2": {
+      "content": "Caterpillar (COMPANY_X) Reverses After Weak August Sales"
+    },
+    "tweet3": {
+      "content": "Caterpillar's August Retail Sales Down 20% on Weak Demand"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Top Stock Reports for Novartis, Zoom Video & Caterpillar"
+    },
+    "tweet2": {
+      "content": "Where to Invest $5,000 Right Now"
+    },
+    "tweet3": {
+      "content": "Where to Invest $5,000 Right Now"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Why BofA Is Sidelined On Caterpillar"
+    },
+    "tweet2": {
+      "content": "Dow Jones Extends Losses As Apple Drops; Nasdaq Falls Deeper In The Red"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Novartis, Zoom Video, Caterpillar, Microsoft, Cisco, Clorox and LHC Group"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Dow drops nearly 550 points on losses in American Express, Dow Inc. stocks"
+    },
+    "tweet2": {
+      "content": "American Express, Dow Inc. share losses lead Dow's 767-point fall"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "'It's very important that we get the consumer going again': Portfolio Manager"
+    },
+    "tweet2": {
+      "content": "Electric Vehicles, E-Commerce Deliveries, & Diesel Innovations: CEO’s of UPS, dynaCERT, Workhorse Group, and Caterpillar Discuss Keeping The World Moving"
+    },
+    "tweet3": {
+      "content": "Are We Headed for Another Stock Market Crash?"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Caterpillar (COMPANY_X) Stock Moves -1.88%: What You Should Know"
+    },
+    "tweet2": {
+      "content": "U.S. business borrowing for equipment falls 24% in August- ELFA"
+    },
+    "tweet3": {
+      "content": "Three Machinery Stocks for the ‘Rise of Industrial Tech’"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Goldman Sachs, Apple Inc. share gains lead Dow's 286-point rally"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Goldman Sachs, Caterpillar share losses lead Dow's 67-point drop"
+    },
+    "tweet2": {
+      "content": "Caterpillar (COMPANY_X) to Gain From Cost Cuts Amid Weak Demand"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "7 Manufacturing Stocks to Buy for a Solid Foundation"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "7 Boring Infrastructure Stocks With Beautiful Upside Potential"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

@@ -1,0 +1,643 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "Most U.S. Shoppers Want Retailers to Close on Thanksgiving Day, Accenture Survey Reveals"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "10 Startups Selected for Accenture’s 2020 FinTech Innovation Lab Asia-Pacific"
+    },
+    "tweet2": {
+      "content": "Accenture Increases Cloud First Capabilities in Australia and New Zealand With Acquisition of SAP Specialist Provider Zag"
+    },
+    "tweet3": {
+      "content": "Accenture Names Bhaskar Ghosh Chief Strategy Officer; Simon Eaves Appointed Managing Director of UK and Ireland; Olly Benzecry Continues as Chairman of Accenture in UK and Ireland"
+    },
+    "tweet4": {
+      "content": "Accenture’s Research Predicts a More ‘Human’ Holiday Season"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Accenture to Acquire Myrtle Consulting Group to Expand Implementation of New Digital Manufacturing, Operations and Supply Chain Models for Clients"
+    },
+    "tweet2": {
+      "content": "Accenture Snaps Up Zag To Boost Cloud Capabilities In Australia, New Zealand"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Accenture Launches Vaccine Management Solution to Support COVID-19 Immunization Programs"
+    },
+    "tweet2": {
+      "content": "Accenture to Gain From Myrtle Consulting Buyout: Here's How"
+    },
+    "tweet3": {
+      "content": "Accenture to Acquire Avenai, Ottawa-Based Business and Technology Consultancy"
+    },
+    "tweet4": {
+      "content": "Accenture To Buy Myrtle To Improve Supply Chain Capabilities"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Accenture Sets Industry-Leading Net-Zero, Waste and Water Goals"
+    },
+    "tweet2": {
+      "content": "Accenture (COMPANY_X) to Gain From Avenai Acquisition: Here's How"
+    },
+    "tweet3": {
+      "content": "Choirock Mecard's Complete Victory in All Global Patent Disputes against Spin Master"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Accenture Unveils Net-Zero Emission, Waste and Water Goals"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "IDC MarketScape Names Accenture a Leader in Managed Security Services"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Accenture’s Life Insurance Platform Recognized in New Report from Gartner"
+    },
+    "tweet2": {
+      "content": "Takeda Accelerates Digital Transformation with Accenture and AWS"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Change Powers Accenture’s Biggest Brand Move in a Decade"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "FinTech Innovation Lab New York Now Accepting Applicants for 2021 Class"
+    },
+    "tweet2": {
+      "content": "Accenture Positioned as the Overall Leader and Market Maker in Two capioIT Reports on Salesforce Systems Integration"
+    },
+    "tweet3": {
+      "content": "State-Sponsored Hackers and Ransomware Gangs Are Diversifying Tactics to Inflict More Harm, According to Accenture Report"
+    },
+    "tweet4": {
+      "content": "Accenture, Best Buy Collaborate to Accelerate Technology Innovation"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Accenture and Blue Yonder Help Companies Accelerate Supply Chain Transformation in the Cloud"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Accenture (COMPANY_X) Announces the Completion of N3 Acquisition"
+    },
+    "tweet2": {
+      "content": "Accenture Completes Acquisition of B2B Sales Firm N3"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Accenture Together with SAP Takes Bold Steps to Move Clients Further Into the Cloud with Open Industry Solutions"
+    },
+    "tweet2": {
+      "content": "Accenture and ServiceNow Launch Dedicated Business Group to Help Organizations Transform Work"
+    },
+    "tweet3": {
+      "content": "Accenture and Springboard Enterprises Celebrate Women Transforming Industries"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Top 3rd-Quarter Trades of the Smead Value Fund"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Accenture and MIT Team to Create a Supply Chain Resilience Stress Test"
+    },
+    "tweet2": {
+      "content": "Accenture Buys Spain’s Enimbos In Cloud Push"
+    },
+    "tweet3": {
+      "content": "Transforming State Government Workforce is Critical to Improving Public Sector Adaptability and Response to Pandemic, According to Report from NASCA, NEOGOV and Accenture"
+    },
+    "tweet4": {
+      "content": "Accenture and MIT Team Up to Help Organizations Seize Opportunities from Industry and Technology Convergence"
+    },
+    "tweet5": {
+      "content": "Accenture Acquires Cloud-Native Provider Enimbos, Bolstering Cloud-First Capabilities in Spain and Portugal"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Accenture Named a Leader in Gartner’s 2020 Magic Quadrant for Data Center Outsourcing and Hybrid Managed Infrastructure Services, North America"
+    },
+    "tweet2": {
+      "content": "Accenture Life Insurance & Annuity Platform Wins Two XCelent Industry Awards"
+    },
+    "tweet3": {
+      "content": "Accenture Announces Intent to Acquire OpusLine and Create a Dedicated Health Practice in France"
+    },
+    "tweet4": {
+      "content": "Were Hedge Funds Right About Avoiding Accenture Plc (COMPANY_X)?"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Accenture Helping Siemens Gamesa Transform and Enhance Its HR Operations"
+    },
+    "tweet2": {
+      "content": "Accenture Federal Services and Criterion Systems Awarded Position on US Department of Agriculture IT Support Services Blanket Purchase Agreement"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Molekule's Award Winning Air Mini+ now available in Canada"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "CRAI vs. COMPANY_X: Which Stock Is the Better Value Option?"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Accenture Helps UPC Polska Tap Google Cloud to Deliver Next Generation Customer Experience"
+    },
+    "tweet2": {
+      "content": "Accenture Launches Project Spotlight, a New Approach to Venture Capital"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Accenture Recognized as a Leader Among Oracle SaaS Business Apps Services Providers"
+    },
+    "tweet2": {
+      "content": "Accenture Federal Services Wins $90 Million Contract to Help U.S. Air Force with Maintenance Repair and Overhaul Initiative"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Aon to Invest $30 Million and Create 10,000 Apprenticeships Nationwide by 2030"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Accenture Completes Acquisition of Avenai, Ottawa-based Business and Technology Consultancy"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Accenture (COMPANY_X) Closes Avenai Buyout, Boosts Canada Footprint"
+    },
+    "tweet2": {
+      "content": "Accenture, Orexo Team to Offer Digital Therapeutics Through INTIENT™ Platform"
+    },
+    "tweet3": {
+      "content": "Most Companies Continue to Struggle to Realize Full Business Value From Their Cloud Initiatives, Accenture Report Finds"
+    },
+    "tweet4": {
+      "content": "Accelerating the Growth of Female-Led Businesses"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Facebook Content Moderators Say Office Push Risks Lives"
+    },
+    "tweet2": {
+      "content": "CRAI or COMPANY_X: Which Is the Better Value Stock Right Now?"
+    },
+    "tweet3": {
+      "content": "Accenture Recognized as a Leader in Everest Group’s Data & Analytics Services PEAK Matrix® Assessment 2020"
+    },
+    "tweet4": {
+      "content": "Accenture Makes Strategic Investment in TripleBlind to Bolster Data Privacy and Increase Data Collaboration Opportunities"
+    },
+    "tweet5": {
+      "content": "‘Tis the Season for Predictions"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Accenture Federal Services Wins Federal Retirement Thrift Investment Board Contract to Improve Retirement Outcomes for Civil Service and Military 401K"
+    },
+    "tweet2": {
+      "content": "Accenture (COMPANY_X) Adds TripleBlind to Its Investment Portfolio"
+    },
+    "tweet3": {
+      "content": "Goldman Sachs Bullish On Accenture, Consulting Firm's Digital Acceleration"
+    },
+    "tweet4": {
+      "content": "Two-Thirds of Canadians Still Plan to Shop in Stores This Holiday Season, Accenture Survey Finds"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Accenture Acquires Arca to Bolster its 5G Network Capabilities"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Accenture Positioned as Leader in Digital Business Transformation Services by Independent Research Firm"
+    },
+    "tweet2": {
+      "content": "Accenture to Acquire End-to-End Analytics"
+    },
+    "tweet3": {
+      "content": "New Consumer Behaviors Will Shift US$3Trillion in Economic Value, Accenture Report Finds"
+    },
+    "tweet4": {
+      "content": "Institut Polytechnique de Paris and Accenture Form Strategic Partnership to Leverage Science and Technology to Address Major Societal, Economic, and Environmental Challenges"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Accenture (COMPANY_X) Snaps Up Arca to Strengthen 5G Capacities"
+    },
+    "tweet2": {
+      "content": "COVID-19 Increases Urgency for Banks to Transform Payment Systems as Digital Payments Soar, Finds Research from Accenture"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Accenture (COMPANY_X) Set to Gain From End-to-End Analytics Buyout"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "CNH Industrial to work with Microsoft, Accenture on 'smart' vehicles"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "New Consumer Behaviors Accelerate Need for Companies to Focus on Experience for Long-Term Growth, According to Research from Accenture Interactive"
+    },
+    "tweet2": {
+      "content": "Accenture Promotes 605 New Managing Directors and Appoints 63 New Senior Managing Directors"
+    },
+    "tweet3": {
+      "content": "Two-Thirds of U.S. Consumers Likely to Switch Healthcare Providers If COVID-19 is Poorly Managed, Accenture Report Reveals"
+    },
+    "tweet4": {
+      "content": "Accenture Helps Blueair Raise Manufacturing Productivity and Add New Services to its Connected Air Purifiers"
+    },
+    "tweet5": {
+      "content": "CNH Industrial (CNHI) Ties Up With Tech Giants for Digital Revamp"
+    },
+    "tweet6": {
+      "content": "nCino and Accenture Help Vancity Transform Its Commercial Lending Operations"
+    },
+    "tweet7": {
+      "content": "CNH Industrial, Accenture and Microsoft Collaborate to Develop Connected Industrial Vehicles"
+    },
+    "tweet8": {
+      "content": "Accenture Completes Acquisition of OpusLine"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "Accenture (COMPANY_X) Announces Completion of OpusLine Buyout"
+    },
+    "tweet2": {
+      "content": "Microsoft (MSFT) to Boost CNH Industrial's Digital Capabilities"
+    },
+    "tweet3": {
+      "content": "Halliburton Teams with Accenture to Accelerate Digital Supply Chain Transformation"
+    },
+    "tweet4": {
+      "content": "Companies with a Digitally Fluent Workforce Lead their Peers in Revenue Growth and Better Worker Satisfaction, Accenture Report Finds"
+    },
+    "tweet5": {
+      "content": "Less than One-Third of Wealth Managers in North America are Scaling AI Across Their Businesses, Accenture Report Finds"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "Accenture Nominates Beth E. Mooney, Former Chairman and CEO of KeyCorp, to Join Its Board of Directors"
+    },
+    "tweet2": {
+      "content": "A silver lining to 2020? Building genuine virtual relationships"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "Accenture (COMPANY_X) to Help Accelerate Halliburton's Digitalization"
+    },
+    "tweet2": {
+      "content": "Halliburton Partners Accenture to Enhance Digital Revolution"
+    },
+    "tweet3": {
+      "content": "Halliburton to Deploy New Supply Chain Model"
+    },
+    "tweet4": {
+      "content": "Google’s Co-Head of Ethical AI Says She Was Fired for Email"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "Accenture Federal Services Wins Contract to Modernize Client Case-Management System for the Administrative Office of the US Courts"
+    },
+    "tweet2": {
+      "content": "Rapid Shift to Digital Banking During COVID-19 Accelerating Erosion in Consumer Trust, Accenture Report Finds"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "BCSC alleges that Surrey investment management firm failed to carry out its duties and to ensure investments were suitable for clients"
+    },
+    "tweet2": {
+      "content": "Appian and Accenture Federal Services Team to Accelerate Acquisition Modernization for Government and Defense Organizations"
+    },
+    "tweet3": {
+      "content": "Accenture to Host Conference Call Thursday, Dec. 17, to Discuss First-Quarter Fiscal Year 2021 Results"
+    },
+    "tweet4": {
+      "content": "Is Accenture plc's (NYSE:COMPANY_X) Recent Performance Tethered To Its Attractive Financial Prospects?"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "3 'Magic Formula' Stocks Popular Among Gurus"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "Accenture (COMPANY_X) Expected to Beat Earnings Estimates: Can the Stock Move Higher?"
+    },
+    "tweet2": {
+      "content": "Accenture Named a Leader in ServiceNow Services by Analyst Firm Everest Group"
+    },
+    "tweet3": {
+      "content": "Accenture Recognized as a Leader in Everest Group’s PEAK Matrix for System Integrator Capabilities on AWS 2021"
+    },
+    "tweet4": {
+      "content": "Efma and Accenture Launch 6th Annual Innovation in Insurance Awards"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "Sweden Takes Another Step Toward a Digital Currency"
+    },
+    "tweet2": {
+      "content": "Accenture Helps Rakuten Mobile Launch Fully Virtualized Cloud-Native Mobile Network"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "2021 Will Redefine the 21st Century, According to \"Fjord Trends 2021\" Report from Accenture Interactive"
+    },
+    "tweet2": {
+      "content": "A Preview Of The Biggest Earnings Reports This Week"
+    },
+    "tweet3": {
+      "content": "2021 Will Redefine the 21st Century, According to \"Fjord Trends 2021\" Report from Accenture Interactive"
+    },
+    "tweet4": {
+      "content": "Is a Beat in the Cards for Accenture (COMPANY_X) in Q1 Earnings?"
+    },
+    "tweet5": {
+      "content": "Is a Surprise Coming for Accenture (COMPANY_X) This Earnings Season?"
+    },
+    "tweet6": {
+      "content": "Christie Smith Joins Accenture to Lead the CEO Transformational Change Journey Agenda"
+    },
+    "tweet7": {
+      "content": "Accenture Makes Strategic Investment in Reactive Technologies"
+    },
+    "tweet8": {
+      "content": "Is COMPANY_X A Good Stock To Buy Now?"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "Is Accenture's Dividend Safe?"
+    },
+    "tweet2": {
+      "content": "Accenture’s Holiday Shipping Study Names Top-performing Retailers"
+    },
+    "tweet3": {
+      "content": "A Preview Of Accenture's Earnings"
+    },
+    "tweet4": {
+      "content": "Generali Group and Accenture Form Joint Venture to Accelerate the Insurer’s Digital Transformation Strategy"
+    },
+    "tweet5": {
+      "content": "Accenture Federal Services Wins Contract to Help the Department of the Navy with Organizational Transformation Support to Increase Readiness"
+    },
+    "tweet6": {
+      "content": "Medable Named Life Sciences Innovation Champion in the Accenture HealthTech Innovation Challenge"
+    },
+    "tweet7": {
+      "content": "Accenture Named a Leader for Application and Digital Services in Capital Markets by Analyst Firm Everest Group"
+    },
+    "tweet8": {
+      "content": "Accenture and CereProc Introduce and Open Source the World’s First Comprehensive Non-Binary Voice Solution"
+    },
+    "tweet9": {
+      "content": "Accenture to Host Conference Call Tomorrow, Dec. 17, to Discuss First-Quarter Fiscal Year 2021 Results"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "Epam Stock Touches Buy Point As Accenture Earnings Boost Tech Services Firms"
+    },
+    "tweet2": {
+      "content": "Accenture Stock Pops As Earnings Top Views, Revenue Outlook Raised"
+    },
+    "tweet3": {
+      "content": "US STOCKS-Wall Street ends at record highs as investors eye fiscal stimulus"
+    },
+    "tweet4": {
+      "content": "Rite Aid, Accenture, Jabil: 5 Top Stock Gainers for Thursday"
+    },
+    "tweet5": {
+      "content": "Accenture's Quarterly Results Surpass All Expectations"
+    },
+    "tweet6": {
+      "content": "US STOCKS-S&P 500, Nasdaq hit record as investors eye fiscal stimulus"
+    },
+    "tweet7": {
+      "content": "S&P 500, Nasdaq Hit Record Highs As These Indexes Outperform"
+    },
+    "tweet8": {
+      "content": "Epam Stock Touches Buy Point As Accenture Earnings Boost Tech Services Firms"
+    },
+    "tweet9": {
+      "content": "Why Accenture Stock Popped Today"
+    },
+    "tweet10": {
+      "content": "Accenture PLC (COMPANY_X) Q1 2021 Earnings Call Transcript"
+    },
+    "tweet11": {
+      "content": "A Look Into Accenture's Price Over Earnings"
+    },
+    "tweet12": {
+      "content": "Dow, S&P 500, Nasdaq Close at Records as Stimulus Deal in Sight"
+    },
+    "tweet13": {
+      "content": "Accenture's (COMPANY_X) Q1 Earnings & Revenues Top, 2021 View Up"
+    },
+    "tweet14": {
+      "content": "In a Strong Sign for IT Spending, Accenture Earnings Top Estimates"
+    },
+    "tweet15": {
+      "content": "Dow Jones, Stocks Climb Amid Vaccine, Stimulus Expectations; Accenture, Cerence Score Breakouts"
+    },
+    "tweet16": {
+      "content": "ROCE Insights For Accenture"
+    },
+    "tweet17": {
+      "content": "CFOs Need Greater Real Time Data to Pivot from Measuring to Creating Value Amid COVID-19, Accenture Report Finds"
+    },
+    "tweet18": {
+      "content": "CORRECTING and REPLACING Accenture Reports Very Strong First-Quarter Results and Raises Business Outlook for Fiscal 2021"
+    },
+    "tweet19": {
+      "content": "Dow Jones, Stocks Rise Amid Rising Jobless Claims, Moderna Vaccine Review; Accenture, Cerence On Breakout Watch"
+    },
+    "tweet20": {
+      "content": "Accenture Surges on Earnings Beat, Raised Outlook"
+    },
+    "tweet21": {
+      "content": "Accenture Stock Rises As Fiscal Q1 Earnings, Revenue Top Estimates"
+    },
+    "tweet22": {
+      "content": "Accenture (COMPANY_X) Q1 Earnings and Revenues Beat Estimates"
+    },
+    "tweet23": {
+      "content": "Recap: Accenture Q1 Earnings"
+    },
+    "tweet24": {
+      "content": "Accenture's stock surges toward a record after profit and revenue beats, raised outlook"
+    },
+    "tweet25": {
+      "content": "Accenture Plc to Host Earnings Call"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "Accenture Is Set to Climb to New Heights"
+    },
+    "tweet2": {
+      "content": "Company News for Dec 18, 2020"
+    },
+    "tweet3": {
+      "content": "Stock Cheer: Cramer's 'Mad Money' Recap (Thursday 12/17/20)"
+    },
+    "tweet4": {
+      "content": "Jim Cramer: These Two Surprise Stocks Would Fit Any Portfolio"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "Top Analyst Reports for Alphabet, Comcast & Accenture"
+    },
+    "tweet2": {
+      "content": "NVEE vs. COMPANY_X: Which Stock Is the Better Value Option?"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: GOOGL, CMCSA, COMPANY_X, BA and TOT"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "The Technology Sector's 2020 and What It Means for 2021"
+    },
+    "tweet2": {
+      "content": "A Look at Stock Market News From Boeing, Twitter, Accenture, and More"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "Here's Why Investors Should Retain Accenture (COMPANY_X) Stock Now"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "Accenture (COMPANY_X): Strong Industry, Solid Earnings Estimate Revisions"
+    }
+  }
+}

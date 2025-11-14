@@ -1,0 +1,475 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "Morgan Stanley Launches Property & Casualty Insurance for High Net Worth Clients"
+    },
+    "tweet2": {
+      "content": "Morgan Stanley Awards $5 Million to Opportunity Finance Network to Support Equitable COVID-19 Recovery in Underserved Communities"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Morgan Stanley and Goldman Sachs Can Continue to Thrive Even as Fed Stimulus Grows. Here’s How."
+    },
+    "tweet2": {
+      "content": "Morgan Stanley: P&C Insurance for Wealthy Clients"
+    },
+    "tweet3": {
+      "content": "Morgan Stanley Teams Up With Brokers to Offer P&C Insurance"
+    },
+    "tweet4": {
+      "content": "Morgan Stanley Private Credit and Comvest Partners Announce Junior Capital Financing for von Drehle Corporation"
+    },
+    "tweet5": {
+      "content": "Morgan Stanley suspended from some French treasury bond deals -AFT"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Rocket to Cut IPO to About $2 Billion from $3.3 Billion"
+    },
+    "tweet2": {
+      "content": "Mnuchin’s Long-Bond Curve Ball Dares the Flatteners"
+    },
+    "tweet3": {
+      "content": "Commerzbank Beat Is Marred by Wirecard Hit in Dramatic Quarter"
+    },
+    "tweet4": {
+      "content": "Morgan Stanley Suspended From France’s Elite Bond Club"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Trouble at Calpers: Abrupt Exit Hits $400 Billion State Fund"
+    },
+    "tweet2": {
+      "content": "How To Invest In the Saudi Arabia Stock Exchange"
+    },
+    "tweet3": {
+      "content": "Edited Transcript of COMPANY_X.N earnings conference call or presentation 16-Jul-20 12:00pm GMT"
+    },
+    "tweet4": {
+      "content": "Goldman Can Continue to Outpace Other Big Banks, Analyst Says"
+    },
+    "tweet5": {
+      "content": "Presidio Petroleum Completes Acquisition of Assets from Templar Energy in Partnership with Morgan Stanley Energy Partners"
+    },
+    "tweet6": {
+      "content": "Ant Group Is Said to Pick CICC as Sponsor for its Shanghai IPO"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "SoftBank-Backed Beike Seeks Up to $2 Billion in U.S. IPO"
+    },
+    "tweet2": {
+      "content": "Helping Women and Multicultural Entrepreneurs Spread Their Wings"
+    },
+    "tweet3": {
+      "content": "Morgan Stanley Global Sports & Entertainment Named Institutional Financial Advisor for the NFL Players Association"
+    },
+    "tweet4": {
+      "content": "Europe Industry Rebound Gathers Steam as Output, Demand Increase"
+    },
+    "tweet5": {
+      "content": "Why Londoners Are Refusing to Return to the Office"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Airbnb Is Close to Filing to Go Public After Travel Rebound"
+    },
+    "tweet2": {
+      "content": "Airbnb May Finally File to Go Public This Month. Here’s Why."
+    },
+    "tweet3": {
+      "content": "Airbnb to confidentially file for IPO in August - WSJ"
+    },
+    "tweet4": {
+      "content": "More cash, less buzz for 2020 investment bank interns"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Tweedy Browne Adds Morgan Stanley, AbbVie to Portfolio"
+    },
+    "tweet2": {
+      "content": "Banks Are Prepared to Weather This Downturn, Analysts Say"
+    },
+    "tweet3": {
+      "content": "Morgan Stanley Wealth Sees Risks in Credit on U.S. Stimulus Woes"
+    },
+    "tweet4": {
+      "content": "Morgan Stanley Launches Sustainable Solutions Accelerator to Address Global Sustainability Challenges"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Corporate America worries WeChat ban could be bad for business- WSJ"
+    },
+    "tweet2": {
+      "content": "Palantir Plans Direct Listing for Late September"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "NFL players’ financial advisors look to ‘meet emotion with practicality’ as the 2020 season approaches"
+    },
+    "tweet2": {
+      "content": "Boris Johnson Has No Choice on Reopening Schools"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "There’s a Better Way to Identify When Recessions Start"
+    },
+    "tweet2": {
+      "content": "Robinhood Now Valued at $11.2 Billion After Latest Funding Round"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Bank of America Is Taking a Cautious Line. It’s One Reason to Buy the Stock."
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Morgan Stanley Announces $100,000 Grant to Doctors Without Borders to Support COVID-19 Recovery in Mexico and Brazil"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Jack Ma’s Ant Said to Target $225 Billion Valuation in IPO"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Software Developer Tools Company JFrog Adds to Tech IPO Rush"
+    },
+    "tweet2": {
+      "content": "Diversity In Finance Is Slowly Improving"
+    },
+    "tweet3": {
+      "content": "Food Delivery Giant Meituan’s Sales Beat Estimates"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Palantir Files for Direct Listing With Tech IPOs Surging"
+    },
+    "tweet2": {
+      "content": "Palantir Files for Direct Listing With Tech IPOs Surging"
+    },
+    "tweet3": {
+      "content": "The Fall Will Be Busy for IPOs. Snowflake, Asana Are Expected to Go Public in September."
+    },
+    "tweet4": {
+      "content": "Abu Dhabi Returns to Debt Market With Longest Gulf Bond Ever"
+    },
+    "tweet5": {
+      "content": "Here’s Why ‘Old Economy’ and European Stocks No Longer Go Together"
+    },
+    "tweet6": {
+      "content": "Doubts grow Alaska's Pebble Mine can satisfy new regulatory hurdles, shares tumble"
+    },
+    "tweet7": {
+      "content": "Jack Ma’s Ant Group Files for IPO in Hong Kong and Shanghai"
+    },
+    "tweet8": {
+      "content": "Credit Suisse Head of Asia Technology to Join Xiaomi as CFO"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Oil Fluctuates With Traders Assessing U.S. Gulf Hurricane Impact"
+    },
+    "tweet2": {
+      "content": "Morgan Stanley Wealth Management Launches Women Without Limits, a New Initiative to Empower Women and Girls Through Financial Literacy and Professional Development"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Financials participation in the market rally is 'the one thing that can really start to drive the market higher': Strategist"
+    },
+    "tweet2": {
+      "content": "Morgan Stanley Capital Services LLC -- Moody's continues to review Morgan Stanley for upgrade (A3 senior/Prime-2)"
+    },
+    "tweet3": {
+      "content": "Phone Giant Xiaomi Jumps to Two-Year High After Profit Beat"
+    },
+    "tweet4": {
+      "content": "Morgan Stanley-Run ESG Fund Is Biggest Japan Debut in 20 Years"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Here is What Hedge Funds Think About Morgan Stanley (COMPANY_X)"
+    },
+    "tweet2": {
+      "content": "CORRECTED-Banks eye layoffs as short-term crisis ends, long-term costs emerge"
+    },
+    "tweet3": {
+      "content": "Xiaomi’s Stock Surge Is a Big Turnaround After Post-IPO Struggles"
+    },
+    "tweet4": {
+      "content": "Bond Traders See ‘Green Light’ to Keep Driving the Curve Steeper"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "The Fed Is Fighting the Last War on Inflation"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Has Morgan Stanley (COMPANY_X) Outpaced Other Finance Stocks This Year?"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "FOCUS-Canada's RBC turns heads in U.S. with wealth management recruitment push"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Capital Requirements of Goldman Sachs and Morgan Stanley Slightly Lowered After Fed's Mistake"
+    },
+    "tweet2": {
+      "content": "Goldman Sachs, Morgan Stanley lower stress capital buffers after Fed's correction"
+    },
+    "tweet3": {
+      "content": "France, Italy Cases Surge; Campus Outbreaks Erupt: Virus Update"
+    },
+    "tweet4": {
+      "content": "Morgan Stanley Announces Revision to Stress Capital Buffer"
+    },
+    "tweet5": {
+      "content": "Fed issues corrected U.S. stress test results after identifying error in initial June release"
+    },
+    "tweet6": {
+      "content": "What Makes Morgan Stanley (COMPANY_X) Stock a Must Buy Right Now?"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Snowflake Attracts Berkshire, Salesforce to Technology IPO"
+    },
+    "tweet2": {
+      "content": "Jonathan Pruzan to Speak at the Barclays Global Financial Services Conference"
+    },
+    "tweet3": {
+      "content": "Here's Why I Think Morgan Stanley (NYSE:COMPANY_X) Might Deserve Your Attention Today"
+    },
+    "tweet4": {
+      "content": "Warburg Pincus Nears Deal to Invest in Vista’s Infoblox"
+    },
+    "tweet5": {
+      "content": "Warburg Pincus Nears Deal to Invest in Vista’s Infoblox"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Oil Rises With Stronger Equities and Tighter U.S. Gasoline View"
+    },
+    "tweet2": {
+      "content": "Morgan Stanley’s Rich Clients Shift to Hedge Funds for Defense"
+    },
+    "tweet3": {
+      "content": "Morgan Stanley and Mitsubishi UFJ Trust and Banking Corporation Enter Into a Strategic Alliance to Provide Stock Plan Solutions to Japanese Companies"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "NYC business leaders urge 'immediate action' from de Blasio to fix Big Apple's rot"
+    },
+    "tweet2": {
+      "content": "Bank Stocks’ Day in the Sun Could Be on the Way"
+    },
+    "tweet3": {
+      "content": "Top Ranked Income Stocks to Buy for September 10th"
+    },
+    "tweet4": {
+      "content": "Morgan Stanley Multicultural Innovation Lab to Double Cohort Size and Increase Investment Commitment in 2021"
+    },
+    "tweet5": {
+      "content": "Morgan Stanley's Shareworks Enters Alliance With Mitsubishi"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Delta Air Lines: Wait Until Next Year"
+    },
+    "tweet2": {
+      "content": "Morgan Stanley Fends Off JPMorgan to Stay on Top in Japan"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Nvidia Buys SoftBank’s Arm in Record $40 Billion Chip Deal"
+    },
+    "tweet2": {
+      "content": "Top Ranked Income Stocks to Buy for September 14th"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Morgan Stanley Declares Quarterly Dividends on Its Preferred Stock"
+    },
+    "tweet2": {
+      "content": "IPO Could Raise $298 Million for Investment Advisor StepStone"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "What's Next for Bank Stocks as Fed Aims for Increased Inflation?"
+    },
+    "tweet2": {
+      "content": "Snowflake Soars Into Tech Big Leagues With $70 Billion Value"
+    },
+    "tweet3": {
+      "content": "GE ‘s Upbeat Cash View Clashes With CEO Pay Deal"
+    },
+    "tweet4": {
+      "content": "Snowflake Prices IPO Above Marketed Range at $120 a Share"
+    },
+    "tweet5": {
+      "content": "Stepstone’s IPO Could Raise $298 Million for the Investment Advisor"
+    },
+    "tweet6": {
+      "content": "Morgan Stanley doesn't expect Q2 trading boom to continue"
+    },
+    "tweet7": {
+      "content": "Snowflake IPO Prices at $120 a Share. Now We Wait for the Opening Trade."
+    },
+    "tweet8": {
+      "content": "BOE Readies for Action as U.K. Faces a Turbulent End to 2020"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Goldman holds top rank in activism defense, Spotlight climbs- data"
+    },
+    "tweet2": {
+      "content": "Morgan Stanley Wealth Management Recognizes Employees Named to MAKERS Class of 2020"
+    },
+    "tweet3": {
+      "content": "Morningstar Conference Experts: Tips For Investment Income"
+    },
+    "tweet4": {
+      "content": "Is Morgan Stanley (COMPANY_X) Outperforming Other Finance Stocks This Year?"
+    },
+    "tweet5": {
+      "content": "Morgan Stanley Sustainable Reality Report Reveals Sustainable Funds Outperformed Traditional Funds and Reduced Investment Risk Despite Global Pandemic"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Moody's Fully Supported Municipal & IRB Deal"
+    },
+    "tweet2": {
+      "content": "Morgan Stanley Expects Q3 Trading Performance to Not Match Q2"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Morgan Stanley Vows &quot;Net-Zero Financed Emissions&quot; by 2050"
+    },
+    "tweet2": {
+      "content": "Morgan Stanley to Eliminate Net Emissions From Financing by 2050"
+    },
+    "tweet3": {
+      "content": "Morgan Stanley Announces Commitment to Reach Net-Zero Financed Emissions by 2050"
+    },
+    "tweet4": {
+      "content": "SCG Packaging Seeks to Raise Up to $1.27 Billion in Thai IPO"
+    },
+    "tweet5": {
+      "content": "INSIGHT-'Free money' for banks as investors pile into fractured gold market"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "A ‘Net-Zero’ Portfolio Is a Pipe Dream. Here’s What Investors Can Do Instead to Fight Climate Change."
+    },
+    "tweet2": {
+      "content": "Americans are hoarding trillions of dollars in cash before the presidential election: Morgan Stanley"
+    },
+    "tweet3": {
+      "content": "Credit Suisse, UBS Fight for China Bankers in Talent War"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Richard Li’s FWD Plans Up to $3 Billion Hong Kong IPO"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Analyst Report: Morgan Stanley"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Cybersecurity Software Firm McAfee Files for Nasdaq IPO"
+    },
+    "tweet2": {
+      "content": "Goldman and GM Among 34 Firms to Share Private Diversity Data"
+    },
+    "tweet3": {
+      "content": "Plug Power Pops on Morgan Stanley Upgrade"
+    },
+    "tweet4": {
+      "content": "China’s Sina Agrees to Go Private in Sweetened $2.6 Billion Deal"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "Morgan Stanley Receives Regulatory Approval to Acquire E*TRADE"
+    },
+    "tweet2": {
+      "content": "Morgan Stanley Schedules Quarterly Investor Conference Call"
+    },
+    "tweet3": {
+      "content": "Fed extends ban on share buybacks at big banks through Q4"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "Pool Set to Join S&P 500; Neogen & Simpson Manufacturing to Join S&P MidCap 400; Others to Join S&P SmallCap 600"
+    },
+    "tweet2": {
+      "content": "Tesla will have zero sales in China by 2030: analyst"
+    },
+    "tweet3": {
+      "content": "Wall Street banks net $64 billion in fees in bumper year for M&A and IPOs"
+    },
+    "tweet4": {
+      "content": "Morgan Stanley-E*Trade Financial Deal Gets Regulatory Nod"
+    }
+  }
+}

@@ -1,0 +1,601 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "3 Charts That Suggest Sin Stocks Are Headed Higher"
+    },
+    "tweet2": {
+      "content": "Abbott Announces Start of Study to Evaluate New Device to Treat Recurrent Atrial Fibrillation"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Biotechs Continue Strength Abbott Labs Still In Buy Zone"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Becton Dickinson Earnings Top, But BDX Stock Falls On Weak Sales"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Top Analyst Reports for Adobe, Abbott & Barrick Gold"
+    },
+    "tweet2": {
+      "content": "The Next Bull Run Will Be Harder For Sorrento Therapeutics"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Adobe, Abbott Laboratories, Barrick Gold, HSBC Holdings and Square"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "2 Top Stocks for Retirees"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "Is Abbott Laboratories' (NYSE:COMPANY_X) Recent Stock Performance Influenced By Its Fundamentals In Any Way?"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "MedTech Lifts S&P 500 Index: 3 Stocks With Upside Potential"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: QIAGEN, Merit Medical, OPKO, Abbott and Abiomed"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Medtronic profit falls nearly 44% as COVID-19 hurts demand"
+    },
+    "tweet2": {
+      "content": "XpresSpa Shares Jump Over 18%, As Company Says It Has Expedited Airport COVID-19 Screening"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Abbott wins U.S. approval for rapid COVID-19 test"
+    },
+    "tweet2": {
+      "content": "Abbott's Fast, $5, 15-Minute, Easy-to-Use COVID-19 Antigen Test Receives FDA Emergency Use Authorization; Mobile App Displays Test Results to Help Our Return to Daily Life; Ramping Production to 50 Million Tests a Month"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "GLOBAL MARKETS-Asian stocks may be choppy despite U.S. Fed inflation shift, COVID outlook"
+    },
+    "tweet2": {
+      "content": "U.S. Buys Almost All Abbott’s $5 Rapid Tests Made This Year"
+    },
+    "tweet3": {
+      "content": "Why Abbott Laboratories Stock Surged Today"
+    },
+    "tweet4": {
+      "content": "Jim Cramer: Here Comes the Biggest Test Yet"
+    },
+    "tweet5": {
+      "content": "Why a New COVID-19 Test Is Giving Shake Shack and Other Restaurants a Big Boost"
+    },
+    "tweet6": {
+      "content": "U.S. Deaths Top 180,000; Abbott Jumps on Fast Test: Virus Update"
+    },
+    "tweet7": {
+      "content": "Why Fluidigm Stock Plunged Today"
+    },
+    "tweet8": {
+      "content": "S&P 500 Airline Stocks, Cruise Stocks Surge on Abbott Labs FDA Approval, Federal Reserve Policy Change"
+    },
+    "tweet9": {
+      "content": "&quot;Great Reopening&quot; Gets 2 Big Boosts: Fed & Abbott"
+    },
+    "tweet10": {
+      "content": "Stock Market Today: Dow Claws Higher on a Bumpy Day of Trading"
+    },
+    "tweet11": {
+      "content": "New CDC Covid Testing Guidelines Have It Backward"
+    },
+    "tweet12": {
+      "content": "Dow and S&P Close Higher on Rapid Virus Test News"
+    },
+    "tweet13": {
+      "content": "Walmart Stock Leads Dow Jones Rally On TikTok News; China IPO Xpeng Soars In Debut"
+    },
+    "tweet14": {
+      "content": "US STOCKS-S&P, Dow close higher on new Fed inflation stance, COVID test hopes"
+    },
+    "tweet15": {
+      "content": "Nasdaq Falls 40; Fulgent, Fluidigm Collapse on COVID-19 Competition"
+    },
+    "tweet16": {
+      "content": "GLOBAL MARKETS-Shares, dollar climb as Fed lays out new inflation strategy"
+    },
+    "tweet17": {
+      "content": "Abbott Labs Stock Jumps After FDA Approves Its 15-Minute, $5 Coronavirus Test"
+    },
+    "tweet18": {
+      "content": "S&P 500 closes at record as investors parse Fed's historic policy shift"
+    },
+    "tweet19": {
+      "content": "Here's Why Quidel, Hologic, and Quest Diagnostics Shares Fell Today"
+    },
+    "tweet20": {
+      "content": "Trump Expected to Announce Deal With Abbott Laboratories for Rapid Coronavirus Tests"
+    },
+    "tweet21": {
+      "content": "Stock Market Today With Jim Cramer: Buy Abbott Shares"
+    },
+    "tweet22": {
+      "content": "Stocks Gain as Fed Changes Inflation Stance"
+    },
+    "tweet23": {
+      "content": "US STOCKS-S&P, Dow head higher on new Fed stance, COVID progress"
+    },
+    "tweet24": {
+      "content": "Trump administration makes $750 million deal to buy 150 million of Abbott's new coronavirus tests"
+    },
+    "tweet25": {
+      "content": "Abbott to Receive Order for 150 Million Rapid COVID-19 Tests"
+    },
+    "tweet26": {
+      "content": "Pacific Ethanol Stock Jumped 24% Today: What Investors Need To Know"
+    },
+    "tweet27": {
+      "content": "Stocks Give Up Some Gains After Fed Says Economy Can ‘Run Hot’"
+    },
+    "tweet28": {
+      "content": "Why Airline Shares Are Higher Today"
+    },
+    "tweet29": {
+      "content": "Trump administration to purchase 150 million Abbott COVID-19 tests for $750 mln"
+    },
+    "tweet30": {
+      "content": "Why Royal Caribbean, Carnival, and Norwegian Cruise Line Stocks Roared Back to Life This Morning"
+    },
+    "tweet31": {
+      "content": "Dow Jones Pares Gains As Stock Market Rally Fades; Nasdaq Goes Underwater"
+    },
+    "tweet32": {
+      "content": "Stocks Wobble as Fed Embarks on Easier Monetary Policy"
+    },
+    "tweet33": {
+      "content": "Why Co-Diagnostics, GenMark, Luminex, and Opko Stocks Are Sinking Today"
+    },
+    "tweet34": {
+      "content": "Dow Jones Boosted By 5 Key Stocks; Nasdaq Hits High As Intuitive Surgical Breaks Out"
+    },
+    "tweet35": {
+      "content": "Why Fulgent Genetics Is Crashing Today"
+    },
+    "tweet36": {
+      "content": "Dow Jones Spikes 300 Points On Fed Chief Powell Speech; Abbott Labs Soars 10% On Coronavirus Test FDA Approval"
+    },
+    "tweet37": {
+      "content": "TikTok Sale ‘Looming’ After CEO Departure"
+    },
+    "tweet38": {
+      "content": "Fed Lifts Stock Markets; Abbott's $5 Quick Test Gives Travel Stocks Big Gains"
+    },
+    "tweet39": {
+      "content": "Abbott’s $5 Rapid Covid Test Takes $22 Billion Bite Out of Peers"
+    },
+    "tweet40": {
+      "content": "US STOCKS-Fed's inflation push lifts S&P 500, Nasdaq to new highs"
+    },
+    "tweet41": {
+      "content": "Hurricane Laura Lashes the Gulf Coast"
+    },
+    "tweet42": {
+      "content": "Dow and S&P 500 Rally as Fed's Powell Announces Easier Monetary Policy"
+    },
+    "tweet43": {
+      "content": "Abbott Laboratories Shares Surge After Unveiling $5, 15-Minute Coronavirus Test"
+    },
+    "tweet44": {
+      "content": "A Look Into Abbott Laboratories's Price Over Earnings"
+    },
+    "tweet45": {
+      "content": "US STOCKS-Wall Street rises as Fed targets 2% average inflation"
+    },
+    "tweet46": {
+      "content": "Dow Jones Today, Stocks Mixed On Powell's 'Robust Update;' NetApp Stirs Database Stocks, Abbott Gets FDA Covid Nod"
+    },
+    "tweet47": {
+      "content": "Looking Into Abbott Laboratories's Return On Capital Employed"
+    },
+    "tweet48": {
+      "content": "Abbott Labs Soars to New Heights: The Stock's Next Technical Targets"
+    },
+    "tweet49": {
+      "content": "Abbott Stock Jumps Because a New Rapid Covid-19 Test Could Bring Huge Sales"
+    },
+    "tweet50": {
+      "content": "US STOCKS-Futures fall as jobless claims hover at 1 mln mark; focus shifts to Powell"
+    },
+    "tweet51": {
+      "content": "Dow Jones Today, Futures Flat After Jobs Data, Await Powell; NetApp Stirs Database Stocks, Abbott Gets FDA Covid Nod"
+    },
+    "tweet52": {
+      "content": "Abbott's stock jumps 9% following authorization of its rapid $5 COVID-19 test"
+    },
+    "tweet53": {
+      "content": "How Does Abbott Laboratories's Debt Look?"
+    },
+    "tweet54": {
+      "content": "Jerome Powell, Hurricane Laura, TikTok, Abbott - 5 Things You Must Know Thursday"
+    },
+    "tweet55": {
+      "content": "US STOCKS-Futures down ahead of Powell's speech on monetary policy"
+    },
+    "tweet56": {
+      "content": "Abercrombie & Fitch, Abbott Rise Premarket, Coty Falls"
+    },
+    "tweet57": {
+      "content": "Abbott Jumps 22% On Emergency Use Nod For Credit Card Size Covid-19 Test"
+    },
+    "tweet58": {
+      "content": "Top 5 Things to Know in the Market on Thursday, August 27th"
+    },
+    "tweet59": {
+      "content": "Abbott Gets FDA Emergency Use Approval For $5 Rapid COVID-19 Test"
+    },
+    "tweet60": {
+      "content": "Abbott Receives FDA Authorization for a $5 App-Enabled 15-Minute COVID-19 Test"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Abbott (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Apple Removes All Epic Games From App Store, Terminates Dev Account"
+    },
+    "tweet3": {
+      "content": "Waiting for COVID-19 testing results is 'still too long': Doctor"
+    },
+    "tweet4": {
+      "content": "Top Stock Reports for Verizon, Novartis & Abbott"
+    },
+    "tweet5": {
+      "content": "Hedge Funds Never Been This Bullish On Abbott Laboratories (COMPANY_X)"
+    },
+    "tweet6": {
+      "content": "Jim Cramer: Abbott Labs and the Rally in Travel"
+    },
+    "tweet7": {
+      "content": "Abbott Laboratories Meets 80-Plus Relative Strength Rating Benchmark"
+    },
+    "tweet8": {
+      "content": "China’s CanSino in Talks for Early Vaccine Approval"
+    },
+    "tweet9": {
+      "content": "Abbott Shares Climb as U.S. Buys Out Supply of New Covid-19 Test"
+    },
+    "tweet10": {
+      "content": "Price War in Coronavirus Test Space to Intensify Thanks to Abbott"
+    },
+    "tweet11": {
+      "content": "Company News for Aug 28, 2020"
+    },
+    "tweet12": {
+      "content": "Abbott (COMPANY_X) Looks Good: Stock Adds 7.9% in Session"
+    },
+    "tweet13": {
+      "content": "The Daily Biotech Pulse: Moderna Japanese Vaccine Deal Talk, Lipocine FDA Decision, Liver Congress Presentations"
+    },
+    "tweet14": {
+      "content": "XpresSpa Group’s Stock Drop Ignores the Potential of Pivot to Virus Testing"
+    },
+    "tweet15": {
+      "content": "Abbott Scores $760M US Gov Deal For Rapid Covid-19 Saliva Test"
+    },
+    "tweet16": {
+      "content": "GLOBAL MARKETS-Treasury yields, dollar gain after Fed's historic policy shift"
+    },
+    "tweet17": {
+      "content": "Trump administration to purchase 150 million Abbott COVID-19 tests for $750 million"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Verizon Communications, Novartis, Abbott Laboratories, AT&T, Intuitive Surgical and Northrop Grumman"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Abbott Lab, Quidel, Becton, Dickinson and Company, Hologic and Quest Diagnostics"
+    },
+    "tweet3": {
+      "content": "Coronavirus Impact on Consumer Behavior"
+    },
+    "tweet4": {
+      "content": "Abbott Analyst: Expert View On Rapid Coronavirus Antigen Test 'Clearly Bullish'"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Analyst Report: Abbott Laboratories"
+    },
+    "tweet2": {
+      "content": "Here’s what to know about Abbott’s 15-minute COVID-19 test"
+    },
+    "tweet3": {
+      "content": "In Canada, airlines face uphill climb to replace quarantines with COVID-19 testing"
+    },
+    "tweet4": {
+      "content": "U.S. to send millions of rapid COVID-19 tests to states to support school reopening, other tasks"
+    },
+    "tweet5": {
+      "content": "Why Abbott Stock Is Up"
+    },
+    "tweet6": {
+      "content": "Abbott's FreeStyle® Libre 2 iCGM System Now Available to Medicare Beneficiaries"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Abbot Labs: New COVID-19 Antibody Test Is a Game Changer, Says Analyst"
+    },
+    "tweet2": {
+      "content": "'Halftime Report' Traders Weigh In On DraftKings, Beyond Meat And More"
+    },
+    "tweet3": {
+      "content": "Why Co-Diagnostics Shares Sank Today While the Stock Market Jumped"
+    },
+    "tweet4": {
+      "content": "Roche Stock Is Rising Because the Company Has a Covid-19 Antigen Test"
+    },
+    "tweet5": {
+      "content": "Trump administration sending rapid COVID tests to states, CDC bars evictions"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Medicare Coverage for Libre 2 Boosts Abbott's CGM Prospects"
+    },
+    "tweet2": {
+      "content": "Abbott Announces Start of Trial to Evaluate the New Esprit™ BTK Drug-Eluting Resorbable Scaffold"
+    },
+    "tweet3": {
+      "content": "Fulgent Shares Up 10% On COVID-19 Testing Deal For New York Schools"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Abbott (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Quick Virus Testing, Traffic Trends, Bring Hope for Airlines"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Medtronic, Abbott Laboratories, Myriad Genetics, Zimmer Biomet and General Electric"
+    },
+    "tweet4": {
+      "content": "Next Coronavirus Market Crash: Where to Invest $1,000"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Why These 3 Coronavirus-Related Stocks Plummeted More Than 35% in August"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Consumer goods drive record in seaborne imports to U.S. in August, and medical test kits may have peaked, report finds"
+    },
+    "tweet2": {
+      "content": "Abbott Banks on EPD, Nutrition Growth to Beat Coronavirus Woes"
+    },
+    "tweet3": {
+      "content": "Why Shares of These 3 Coronavirus-Test Makers Saw Big Moves in August"
+    },
+    "tweet4": {
+      "content": "Moody's – US healthcare risk heat map - Overall outlook improves as patients return and COVID testing accelerates"
+    },
+    "tweet5": {
+      "content": "Why a $7B Fund Is Holding On to Disney and Alphabet Stock"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Cross-Sector: Market Data Highlights"
+    },
+    "tweet2": {
+      "content": "Quest Diagnostics (DGX) Could Enter New Downtrend"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Abbott (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Weekly Stock List"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Moody's – Outlook for the US medical products and devices industry revised to positive on higher earnings, increased demand"
+    },
+    "tweet2": {
+      "content": "The Argus Dividend Growth Portfolio"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Abbott (COMPANY_X) Gains As Market Dips: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Abbott Declares 387th Consecutive Quarterly Dividend"
+    },
+    "tweet3": {
+      "content": "Abbott Introduces Libre Sense Glucose Sport Biosensor in Europe, World's First Glucose Biosensor Designed for Athletes"
+    },
+    "tweet4": {
+      "content": "RPT-FOCUS-U.S. plans for hundreds of millions of cheap, fast COVID-19 tests"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Is Sorrento Stock Really Worth the Speculation?"
+    },
+    "tweet2": {
+      "content": "3 Dividend Stocks Perfect for Retirees"
+    },
+    "tweet3": {
+      "content": "20/20 GeneSystems Stock: Leveraging AI for More Accurate Cancer Screening"
+    },
+    "tweet4": {
+      "content": "Abbott Launches World's First Glucose Monitor for Athletes"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Abbott Launches Sports Biosensor in Europe, Boosts CGM Wing"
+    },
+    "tweet2": {
+      "content": "Abbott Receives CE Mark for Next-Generation MitraClip™ Heart Valve Repair Device to Treat Mitral Regurgitation"
+    },
+    "tweet3": {
+      "content": "Abbott Hosts Conference Call for Third-Quarter Earnings"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Abbott Wins European Approval for Latest MitraClip Heart Valve Device"
+    },
+    "tweet2": {
+      "content": "Lufthansa plans rapid COVID-19 testing starting October -executive"
+    },
+    "tweet3": {
+      "content": "4 Best Diabetes Device Stocks to Focus on Amid Coronavirus Crisis"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Abbott (COMPANY_X) Stock Moves -1.98%: What You Should Know"
+    },
+    "tweet2": {
+      "content": "3 Safe Coronavirus Stocks to Buy Ahead of a Market Crash"
+    },
+    "tweet3": {
+      "content": "FOCUS-Positive about flying? Airlines look to COVID tests that give results in minutes"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Jim Cramer: Abbott's Rapid Covid-19 Test and My Super Bowl Dreams"
+    },
+    "tweet2": {
+      "content": "Abbott's MitraClip G4 Receives CE Mark for Treatment of MR"
+    },
+    "tweet3": {
+      "content": "Everything Investors Need to Know About Coronavirus Tests"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Abbott Labs Stock Could Still Slip Lower"
+    },
+    "tweet2": {
+      "content": "Is JNJ Stock A Buy As Pharma Giant Starts Final-Phase Coronavirus Vaccine Trials?"
+    },
+    "tweet3": {
+      "content": "3 Dividend Aristocrats to Buy and Hold Forever"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "U.S. Cases Rise 0.4%; States to Get Rapid Tests: Virus Update"
+    },
+    "tweet2": {
+      "content": "Abbott Labs Gets European Approval For Newest Version Of Its Glucose Monitoring System"
+    },
+    "tweet3": {
+      "content": "Trump says 150 million Abbott rapid coronavirus tests will be distributed in 'the coming weeks'"
+    },
+    "tweet4": {
+      "content": "Under pressure over virus, Trump to announce more tests for states"
+    },
+    "tweet5": {
+      "content": "Abbott wins EU approval for smallest version of glucose monitoring device"
+    },
+    "tweet6": {
+      "content": "Abbott's FreeStyle® Libre 3 System Receives CE Mark - Features World's Smallest, Thinnest Sensor with Best-in-Class Performance at the Same Low Cost for People with Diabetes"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "U.S. Cases Rise 0.6%; Global Deaths Top 1 Million: Virus Update"
+    },
+    "tweet2": {
+      "content": "Abbott Gets the First Big Orders for Its Fast Covid Test"
+    },
+    "tweet3": {
+      "content": "Dow Loses 200 Points Ahead Of Debate, As This Key Stock Rallies"
+    },
+    "tweet4": {
+      "content": "120 Million Coronavirus Tests to Be Sold to Low- and Middle-Income Countries at Steep Discount"
+    },
+    "tweet5": {
+      "content": "Dow Jones Today, Stocks Slip After Rally; Abbott Labs Gets Covid Boost, Big Lots Soars On Guidance"
+    },
+    "tweet6": {
+      "content": "Here's When Bill Gates Thinks the Coronavirus Pandemic Will End"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

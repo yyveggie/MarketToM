@@ -1,0 +1,490 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock rises Monday, still underperforms market"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock rises Tuesday, still underperforms market"
+    },
+    "tweet2": {
+      "content": "Top Analyst Reports for UnitedHealth, Comcast & Exxon Mobil"
+    },
+    "tweet3": {
+      "content": "Optum Commits $1 Million in Pro Bono Services to Address Local Health and Wellness Needs in Partnership with John Muir Health"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock rises Wednesday, outperforms market"
+    },
+    "tweet2": {
+      "content": "Nasdaq Hits 11,000, But These Indexes Outperformed It"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: UnitedHealth, Comcast, Exxon Mobil, Microsoft, Accenture and Charter Communications"
+    },
+    "tweet4": {
+      "content": "UnitedHealth Group Board Authorizes Payment of Quarterly Dividend"
+    },
+    "tweet5": {
+      "content": "Health insurer Humana Q2 profit nearly doubles"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock rises Thursday, still underperforms market"
+    },
+    "tweet2": {
+      "content": "Return On Capital Employed Overview: UnitedHealth Group"
+    },
+    "tweet3": {
+      "content": "Cardinal's stock rises 2%; company had a $130 million impact as a result of the pandemic in the quarter"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock outperforms market on strong trading day"
+    },
+    "tweet2": {
+      "content": "5 Health Care Companies Outperforming the Market"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock outperforms market on strong trading day"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Home Depot, Walmart, UnitedHealth, McDonald's  and Johnson & Johnson"
+    },
+    "tweet3": {
+      "content": "Dow Jones Futures: Trump Extends Unemployment Benefits; Four Stock Market Rally Risks"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Ken Fisher's Top 4 Buys in the 2nd Quarter"
+    },
+    "tweet2": {
+      "content": "UnitedHealth Group Inc. stock falls Tuesday, underperforms market"
+    },
+    "tweet3": {
+      "content": "Physicians Provide Higher Quality Care Under Set Monthly Payments Instead of Being Paid Per Service, UnitedHealth Group Study Shows"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock rises Wednesday, outperforms market"
+    },
+    "tweet2": {
+      "content": "Dow Jones Rallies 308 Points; Why This Wall Street Expert Sees The S&P 500 At 3800 In 2021"
+    },
+    "tweet3": {
+      "content": "Dow Jones Rallies 308 Points, Challenges 28,000 Level Again; Will These Growth Stocks Win Big In Q3?"
+    },
+    "tweet4": {
+      "content": "Dow up 289 points on gains for shares of Microsoft, Apple Inc."
+    },
+    "tweet5": {
+      "content": "Dow Jones Today, Stocks Climb After Moderna Vaccine Deal; AMD Leads Chip Bounce; Tesla Announces Stock Split"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock falls Thursday, underperforms market"
+    },
+    "tweet2": {
+      "content": "Nasdaq Commands Gains; Why These Dow Stocks Are Near A Buy Point"
+    },
+    "tweet3": {
+      "content": "Morning Bell With Jim Cramer: Trading the Tesla Stock Split"
+    },
+    "tweet4": {
+      "content": "United Health Foundation Donates $750,000 to Support Maternal Health Needs of Georgia Amid COVID-19 Pandemic"
+    },
+    "tweet5": {
+      "content": "United Health Foundation Donates $1,250,000 to ECU to Support Maternal Health Needs of North Carolina Amid COVID-19 Pandemic"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock rises Friday, outperforms market"
+    },
+    "tweet2": {
+      "content": "UnitedHealth (COMPANY_X) Up 4.7% Since Last Earnings Report: Can It Continue?"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock underperforms Monday when compared to competitors"
+    },
+    "tweet2": {
+      "content": "Montgomery (County of) OH -- Moody's assigns Baa1 to Premier Health Partners' (OH) Ser. 2020; outlook negative"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock falls Tuesday, underperforms market"
+    },
+    "tweet2": {
+      "content": "Chevron, JPMorgan Chase share losses contribute to Dow's nearly 75-point fall"
+    },
+    "tweet3": {
+      "content": "Chevron, JPMorgan Chase share losses lead the way, but Dow flat"
+    },
+    "tweet4": {
+      "content": "5 Companies Reach 52-Week Highs"
+    },
+    "tweet5": {
+      "content": "Healthcare stocks are where you’ll see continued growth: strategist"
+    },
+    "tweet6": {
+      "content": "United Health Foundation Pledges $1.7 Million to Health Care Center for the Homeless to Expand Access to Primary Care in Florida"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock underperforms Wednesday when compared to competitors"
+    },
+    "tweet2": {
+      "content": "BGL Announces the Simultaneous Recapitalizations of Grandview Surgery Center and North East Surgery Center"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock falls Thursday, underperforms market"
+    },
+    "tweet2": {
+      "content": "Morehouse School of Medicine and UnitedHealth Group Collaborate to Help Expand COVID-19 Research and Health Equity for Individuals with Sickle Cell"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Glenn Greenberg's Top 2nd-Quarter Trades"
+    },
+    "tweet2": {
+      "content": "UnitedHealth Group Inc. stock rises Friday, still underperforms market"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock outperforms competitors despite losses on the day"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock rises Tuesday, outperforms market"
+    },
+    "tweet2": {
+      "content": "How coronavirus is disrupting long-term care insurance"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "UnitedHealth Group (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "UnitedHealth Group Inc. stock falls Wednesday, underperforms market"
+    },
+    "tweet3": {
+      "content": "UnitedHealth Group Inc. (COMPANY_X): Hedge Funds Are Cashing Out"
+    },
+    "tweet4": {
+      "content": "Walgreens Boots, UnitedHealth share losses contribute to Dow's nearly 75-point fall"
+    },
+    "tweet5": {
+      "content": "Stock market opens tepidly higher Wednesday but enough to notch intraday record highs for S&P 500 and Nasdaq"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock outperforms market on strong trading day"
+    },
+    "tweet2": {
+      "content": "S&P 500, Nasdaq Reverse Into The Red After Hitting New Highs, But These Blue Chips Jam"
+    },
+    "tweet3": {
+      "content": "Brave Warrior Cuts UnitedHealth, Alphabet"
+    },
+    "tweet4": {
+      "content": "State of Indiana Chooses UnitedHealthcare to Serve its Hoosier Care Connect Program Beneficiaries"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock rises Friday, outperforms market"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock underperforms Monday when compared to competitors"
+    },
+    "tweet2": {
+      "content": "UnitedHealth to Aid Eligible Medicaid Members in Indiana"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock rises Tuesday, still underperforms market"
+    },
+    "tweet2": {
+      "content": "UnitedHealth Group (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet3": {
+      "content": "UnitedHealthcare Donates $500,000 to Support Residents of Louisiana Affected by Hurricane Laura"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock rises Wednesday, outperforms market"
+    },
+    "tweet2": {
+      "content": "How to Profit From the Momentum Behind UnitedHealth Stock"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock outperforms market despite losses on the day"
+    },
+    "tweet2": {
+      "content": "A Tale of 3 Dow Jones Stocks; 2 to Buy and 1 to Avoid"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock falls Friday, underperforms market"
+    },
+    "tweet2": {
+      "content": "Dow drops nearly 450 points on losses for shares of Salesforce.com Inc., Visa"
+    },
+    "tweet3": {
+      "content": "Return On Capital Employed Overview: UnitedHealth Group"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock falls Tuesday, still outperforms market"
+    },
+    "tweet2": {
+      "content": "World-Champion Gymnast Aly Raisman Partners with Sanvello to Advance Mental Health Solutions"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "UnitedHealth Group (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "UnitedHealth Group Inc. stock rises Wednesday, still underperforms market"
+    },
+    "tweet3": {
+      "content": "Top Stock Reports for Alphabet, UnitedHealth & AbbVie"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Dow drops nearly 425 points on losses for Apple Inc., Microsoft stocks"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Alphabet, UnitedHealth, AbbVie, Adobe Systems and Anheuser-Busch"
+    },
+    "tweet3": {
+      "content": "Caterpillar, UnitedHealth share losses lead Dow's 133-point drop"
+    },
+    "tweet4": {
+      "content": "UnitedHealthcare and Sesame Workshop Team up to Help Families Grow in Healthy Ways"
+    },
+    "tweet5": {
+      "content": "UnitedHealthcare and Canopy Health Introduce Health Plan Delivering Lower Costs and a Patient-Focused Health Care Experience"
+    },
+    "tweet6": {
+      "content": "Postal Service changes have significantly delayed prescription drugs, report finds"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "UnitedHealthcare and Optum Take Action to Support People Affected by Ongoing Wildfires in Western States"
+    },
+    "tweet2": {
+      "content": "Dow down 39 points on losses in Salesforce.com Inc., Apple Inc. stocks"
+    },
+    "tweet3": {
+      "content": "UnitedHealthcare, Canopy Health Come Up With New Health Plan"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Olympic gold medalist Aly Raisman on partnership to increase mental health awareness for athletes"
+    },
+    "tweet2": {
+      "content": "Dow's nearly 350-point rally highlighted by gains for shares of American Express, Microsoft"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "UnitedHealth Group (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "15 Cities with Highest Uninsured Rates in America"
+    },
+    "tweet3": {
+      "content": "Here's What Makes UnitedHealth (COMPANY_X) an Attractive Stock"
+    },
+    "tweet4": {
+      "content": "Has UnitedHealth Group (COMPANY_X) Outpaced Other Medical Stocks This Year?"
+    },
+    "tweet5": {
+      "content": "Dell, HP, Lenovo and Acer to Announce New Eyesafe Products at the Blue Light Summit 2020 Presented by UnitedHealthcare, Eyesafe and TÜV Rheinland"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock falls Wednesday, still outperforms market"
+    },
+    "tweet2": {
+      "content": "Analyst Report: UnitedHealth Group Incorporated"
+    },
+    "tweet3": {
+      "content": "Dow's nearly 100-point jump led by gains for 3M, UnitedHealth stocks"
+    },
+    "tweet4": {
+      "content": "The Dow Jones' 5 Most Important Stocks"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock underperforms Thursday when compared to competitors"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock outperforms market on strong trading day"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: salesforce, Apple, Walmart and UnitedHealth"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Justice Ginsburg's Death Could Undo ObamaCare; UnitedHealth Stock, Centene Hit"
+    },
+    "tweet2": {
+      "content": "UnitedHealth Group Inc. stock falls Monday, underperforms market"
+    },
+    "tweet3": {
+      "content": "American Express, Honeywell International Inc. share losses lead Dow's 767-point drop"
+    },
+    "tweet4": {
+      "content": "Dow down nearly 850 points on losses for shares of American Express, Honeywell International Inc."
+    },
+    "tweet5": {
+      "content": "Dow's nearly 625-point drop led by losses in shares of American Express, UnitedHealth"
+    },
+    "tweet6": {
+      "content": "Healthcare Cos. Drop on Fears a Conservative Supreme Court Could Reverse ACA"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock falls Tuesday, underperforms market"
+    },
+    "tweet2": {
+      "content": "This Profitable IPO Has Soared In Value Ahead Of Pricing, Debut"
+    },
+    "tweet3": {
+      "content": "Dow drops nearly 50 points on losses for shares of Goldman Sachs, UnitedHealth"
+    },
+    "tweet4": {
+      "content": "United Health Foundation Partners with Florida State University to Establish Graduate-Level Concentration in Military Health"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "UnitedHealth Group (COMPANY_X) Stock Moves -0.72%: What You Should Know"
+    },
+    "tweet2": {
+      "content": "UnitedHealth Group Inc. stock falls Wednesday, still outperforms market"
+    },
+    "tweet3": {
+      "content": "GoodRx IPO Surges; Drug Shopping App Value Soars To $19 Billion"
+    },
+    "tweet4": {
+      "content": "GoodRx IPO Prices High At $33; Profitable Drug Shopping Site Stock Set To Debut"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "UnitedHealth Group Inc. stock rises Thursday, still underperforms market"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "4 Top Stock Trades for Monday: RAD, NCLH, PENN, COMPANY_X"
+    },
+    "tweet2": {
+      "content": "UnitedHealth Group Inc. stock rises Friday, outperforms market"
+    },
+    "tweet3": {
+      "content": "Boeing, Apple Inc. share gains contribute to Dow's 330-point rally"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: Alphabet, Visa, PetroChina, UnitedHealth and Honeywell"
+    },
+    "tweet5": {
+      "content": "Dow's 214-point climb led by gains for Boeing, Apple Inc. shares"
+    },
+    "tweet6": {
+      "content": "Why Centene Is the Most Important Healthcare Stock"
+    },
+    "tweet7": {
+      "content": "Boeing, Apple Inc. share gains contribute to Dow's 60-point jump"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "UnitedHealth Group Announces Earnings Release Date"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "UnitedHealthcare Donates $1 Million to Support Food Security and Housing Programs Offered by Catholic Charities of Southern Nevada"
+    },
+    "tweet2": {
+      "content": "Declining Stock and Solid Fundamentals: Is The Market Wrong About UnitedHealth Group Incorporated (NYSE:COMPANY_X)?"
+    },
+    "tweet3": {
+      "content": "UnitedHealthcare Introduces New Health Plan Offering Lower Premiums and a High-Performing Network in Kansas City"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: Dow, Salesforce, Apple, Walmart and UnitedHealth"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "Dow Jones Rises 330 Points, Leads Market Higher; Several Leading Stocks Break Out"
+    },
+    "tweet2": {
+      "content": "American Express, Walmart share gains contribute to Dow's 169-point climb"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "UnitedHealth Group (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "UnitedHealth Dives Into Digital Pharmacy With DivvyDose Buyout"
+    },
+    "tweet3": {
+      "content": "Top Analyst Reports for Alibaba, UnitedHealth & Merck"
+    },
+    "tweet4": {
+      "content": "Has UnitedHealth Group (COMPANY_X) Outpaced Other Medical Stocks This Year?"
+    },
+    "tweet5": {
+      "content": "UnitedHealthcare's 2021 Medicare Plans Bring Unique Solutions for Unique Times"
+    },
+    "tweet6": {
+      "content": "Dispute between W.H.O. and President Trump over coronavirus is ‘tragic’: Gayle Smith"
+    }
+  }
+}

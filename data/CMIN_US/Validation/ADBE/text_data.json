@@ -1,0 +1,664 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "Adobe Systems (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "It's Personal: AI Tech Giant Partners With IBM, Builds New Buy Zone"
+    },
+    "tweet3": {
+      "content": "Adobe&#039;s plans for an online content attribution standard could have big implications for misinformation"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Here's Why I Think Adobe (NASDAQ:COMPANY_X) Is An Interesting Stock"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Investor Advisory: Adobe Announces Webcast of Investor Conference Participation"
+    },
+    "tweet2": {
+      "content": "Adobe Finds Support"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Nasdaq Slumps 1.2%, Hurt By Software Sell-Off; Solar Stocks Are Flying — Here's Why"
+    },
+    "tweet2": {
+      "content": "Top Analyst Reports for Adobe, Abbott & Barrick Gold"
+    },
+    "tweet3": {
+      "content": "10 Biggest Software Companies"
+    },
+    "tweet4": {
+      "content": "Dow Jones Futures Fall: Apple, Facebook Soar, But These Clouds Loom Over Stock Market Rally"
+    },
+    "tweet5": {
+      "content": "Dow Jones Futures: Apple, Facebook Soar, But These Clouds Loom Over Stock Market Rally"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Adobe, Abbott Laboratories, Barrick Gold, HSBC Holdings and Square"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Adobe Systems (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Apple’s Subscription Bundles Don’t Move the Needle Enough"
+    },
+    "tweet2": {
+      "content": "Dow Jones Falls 100 Points Amid Surprise Jobless Data; Cisco Dives 12% On Earnings; Apple Hits All-Time High, While Tesla Jumps 6%"
+    },
+    "tweet3": {
+      "content": "‘Apple remembers the time it almost went bankrupt’ as it eyes future outlook: Analyst "
+    },
+    "tweet4": {
+      "content": "Dow Jones Futures Signal Stock Market Rally Pause; Tesla Stock, Three Giants In Buy Zones; Apple Ready To Bundle?"
+    },
+    "tweet5": {
+      "content": "Dow Jones Futures: Apple Leads Strong Stock Market Rally; Tesla Stock Split Triggers Buy Signals; Three Giants Rebound Bullishly"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Forget Wayfair, Buy DocuSign Instead"
+    },
+    "tweet2": {
+      "content": "Is Adobe Stock a Buy?"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "Adobe Systems (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "This Stock Doesn’t Need More Stimulus to Win"
+    },
+    "tweet3": {
+      "content": "Adobe vs DocuSign: Which Cloud Stock Looks Better Right Now?"
+    },
+    "tweet4": {
+      "content": "Dow Jones Futures: Stock Market Rally Sends Message; JD Earnings Top, Tesla Gets Price Target Hike"
+    },
+    "tweet5": {
+      "content": "Startups Tap a New Talent Pool: Pandemic-Weary College Students"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Dow Jones Falls 100 Points Amid Earnings From Home Depot, Walmart; S&P 500 Hits Record High, While Amazon, Tesla Jump"
+    },
+    "tweet2": {
+      "content": "SoftBank Bets $3.9 Billion on U.S. Giants From Amazon to Tesla"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Dow Jones Futures: Amazon, Google Flash Buy Signals In Stock Market Rally; Target, Lowe's Crush Views"
+    },
+    "tweet2": {
+      "content": "Dow Jones Futures: S&P 500 Hits Record High In Stock Market Rally; Amazon, Google Flash Buy Signals; Key Earnings On Tap"
+    },
+    "tweet3": {
+      "content": "4 Stocks That Turned $1,000 into $10,000"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "20 Best Blue-Chip Stocks for 2020 and Beyond"
+    },
+    "tweet2": {
+      "content": "Dow Jones Futures Fall: Four Reasons To Be Bullish About The Stock Market Rally; Apple, Tesla Hit Historic Levels"
+    },
+    "tweet3": {
+      "content": "3 More Stocks That Could Be Worth $1 Trillion In a Decade"
+    },
+    "tweet4": {
+      "content": "Strange Moves, Jobless Masses, Vaccine Hope, Adobe Advances: Market Recon"
+    },
+    "tweet5": {
+      "content": "Dow Jones Futures: Four Reasons To Be Bullish About The Stock Market Rally; Apple, Tesla Hit Historic Levels"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Adobe Systems (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Dow Jones Surges 300 Points On Trump's 'Very Good News', AstraZeneca's Coronavirus Vaccine; Apple, Tesla Reverse From Record Highs"
+    },
+    "tweet3": {
+      "content": "Do Institutions Own Adobe Inc. (NASDAQ:COMPANY_X) Shares?"
+    },
+    "tweet4": {
+      "content": "Adobe (COMPANY_X) Breaks Out to All-Time High"
+    },
+    "tweet5": {
+      "content": "Dow Jones Futures Rise On Apple Despite Long-Term Stock Market Rally Warning"
+    },
+    "tweet6": {
+      "content": "Dow Jones Futures: A Long-Term Stock Market Rally Warning; Trump Touts Coronavirus Plasma Approval"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Is Adobe (COMPANY_X) a Smart Long-term Buy?"
+    },
+    "tweet2": {
+      "content": "Better Buy: Adobe vs. CrowdStrike"
+    },
+    "tweet3": {
+      "content": "Global Markets Review: S&P 500 at Record Highs as Euro Wobbles"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Dow Jones Futures: Stock Market Rally Hot But Risks Rising; Fed Chief Jerome Powell Speech Key"
+    },
+    "tweet2": {
+      "content": "Hedge Funds Are Cashing Out Of Adobe Inc. (COMPANY_X)"
+    },
+    "tweet3": {
+      "content": "Dow Jones Today Positive, Nasdaq Futures Lead; Salesforce Spikes On Earnings; Apple Rebounds"
+    },
+    "tweet4": {
+      "content": "Why a Winning Growth Fund Likes PayPal and Autodesk Stock"
+    },
+    "tweet5": {
+      "content": "Dow Jones Today Lags, Nasdaq Futures Lead Mixed Premarket; Salesforce Spikes On Earnings; Apple Rebounds"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Stocks Flashing Renewed Technical Strength: Adobe Systems"
+    },
+    "tweet2": {
+      "content": "Adobe (COMPANY_X) Catches Eye: Stock Jumps 9.1%"
+    },
+    "tweet3": {
+      "content": "Dow Jones Futures: Hot Stock Market Rally Flashes More Warning Signs; Fed Chief Jerome Powell Speech Key"
+    },
+    "tweet4": {
+      "content": "S&P 500 Gains 35 Points, Another Record High as Tech Giants Soar"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Salesforce.com Soars After Joining IBD Long-Term Leaders List; Adobe, Alibaba Roar Higher"
+    },
+    "tweet2": {
+      "content": "Understanding Adobe's Unusual Options Activity"
+    },
+    "tweet3": {
+      "content": "4 Software Stocks to Buy Based on SaaS Strength"
+    },
+    "tweet4": {
+      "content": "Remote-Work Boom Mints Another Internet Billionaire"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Adobe Systems (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Analyzing Adobe's Unusual Options Activity"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Is DocuSign Stock a Buy?"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "These 74 stocks in the S&P 500 hit all-time records on Wednesday"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "DocuSign Projects Sales That Top Estimates on Remote-Work Demand"
+    },
+    "tweet2": {
+      "content": "Why Megacap Stocks Netflix, Salesforce, and Adobe All Fell More Than 5% Today"
+    },
+    "tweet3": {
+      "content": "US STOCKS-Wall St set to slip as tech rally pauses, jobless claims elevated"
+    },
+    "tweet4": {
+      "content": "US STOCKS-Futures slip as tech rally pauses; economic data awaited"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Tech pullback 'is more than healthy': Expert"
+    },
+    "tweet2": {
+      "content": "Why Adobe's Stock Is Falling Today"
+    },
+    "tweet3": {
+      "content": "How to Profit From Red-Hot Adobe Stock Before Earnings"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Nasdaq Rout Continues As Indexes Close Sharply Lower"
+    },
+    "tweet2": {
+      "content": "Options investors pull back on tech bets as U.S. stocks slammed"
+    },
+    "tweet3": {
+      "content": "How This E-Commerce Platform Quietly Powers a $9 Trillion Market"
+    },
+    "tweet4": {
+      "content": "Giant Trader Footprints Leave Trail to Tech Options Plays"
+    },
+    "tweet5": {
+      "content": "Dow Jones Futures Fall: How To Handle The Stock Market Rally As Tesla, Big Techs Tumble"
+    },
+    "tweet6": {
+      "content": "Dow Jones Futures Fall As Tesla, Big Techs Tumble; How To Handle The Stock Market Rally Now"
+    },
+    "tweet7": {
+      "content": "Dow Jones Futures: After Stock Market Rally Dive, What To Do Now; Tesla Gets S&P 500 Surprise"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Dow Jones Rises 660 Points; Tech Stocks Rebound"
+    },
+    "tweet2": {
+      "content": "A Look Into Adobe's Price Over Earnings"
+    },
+    "tweet3": {
+      "content": "How Disruption to Film and Music Production Hurt Avid Technology"
+    },
+    "tweet4": {
+      "content": "SoftBank Selloff Hits $17 Billion After Tech Exposure Fear Grows"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "$718 mln options unwind signals more caution on tech stocks"
+    },
+    "tweet2": {
+      "content": "US STOCKS-Wall St ends lower as tech struggles resume"
+    },
+    "tweet3": {
+      "content": "Adobe Getting Business Boost From Work-From-Home Trend"
+    },
+    "tweet4": {
+      "content": "Can Adobe Keep Climbing? The Key Area We're Watching"
+    },
+    "tweet5": {
+      "content": "The Zacks Analyst Blog Highlights: Alphabet, UnitedHealth, AbbVie, Adobe Systems and Anheuser-Busch"
+    },
+    "tweet6": {
+      "content": "Dow Jones Turns Negative After Early Morning Gains; Leaderboard Stocks Continue Finding Support"
+    },
+    "tweet7": {
+      "content": "Adobe to Webcast Q3 FY2020 Earnings Conference Call"
+    },
+    "tweet8": {
+      "content": "Zacks Earnings Trends Highlights: Oracle, Nike, FedEx and Adobe"
+    },
+    "tweet9": {
+      "content": "Adobe Tests Support Ahead Of Earnings"
+    },
+    "tweet10": {
+      "content": "Hold the Champagne, Big Nuke News, My Adobe Miscue: Market Recon"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Adobe Systems (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Stocks Mixed After Volatile Week; Tech Leaders Post Heavy Losses"
+    },
+    "tweet3": {
+      "content": "SoftBank Reconsiders Trading Strategy That Hurt Shares"
+    },
+    "tweet4": {
+      "content": "COVID-19 An Incremental Growth Catalyst For Adobe, Analyst Says In Upgrade"
+    },
+    "tweet5": {
+      "content": "Stocks To Watch With Earnings On Deck: Adobe Systems"
+    },
+    "tweet6": {
+      "content": "Dow Jones Jumps 250 Points, But Apple Slides; Tesla Rallies, Peloton Soars, But Nikola Dives 18%"
+    },
+    "tweet7": {
+      "content": "Unusual Options Activity Insight: Adobe"
+    },
+    "tweet8": {
+      "content": "Dow Jones Up But Stock Market Rally Fades Despite Peloton, Oracle Gains; Tesla To Export Made-In-China Cars"
+    },
+    "tweet9": {
+      "content": "Dow Jones Today Rises In Stock Market Rally Rebound As Peloton, Oracle Rise; Tesla To Export Made-In-China Cars"
+    },
+    "tweet10": {
+      "content": "Adobe (COMPANY_X) Gears Up for Q3 Earnings: What's in the Cards?"
+    },
+    "tweet11": {
+      "content": "Dow Jones Futures Signal Stock Market Rally With Apple, Peloton, Oracle Leading; Tesla To Export Made-In-China Cars"
+    },
+    "tweet12": {
+      "content": "Dow Jones Futures Rise: Riskier Than A Bear? Why This Stock Market Is So Dangerous; Peloton Jumps On Earnings"
+    },
+    "tweet13": {
+      "content": "Buy Adobe Stock for Long-Term Cloud Software Growth Before Q3 Earnings?"
+    },
+    "tweet14": {
+      "content": "Dow Jones Futures: Riskier Than A Bear? Why This Stock Market Is So Dangerous; Peloton Jumps On Earnings"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Stocks Regain Strength As Nasdaq Jumps 200 Points"
+    },
+    "tweet2": {
+      "content": "Investor Advisory: Adobe Announces Webcast of Investor Conference Participation"
+    },
+    "tweet3": {
+      "content": "Best Growth Stocks To Buy And Research"
+    },
+    "tweet4": {
+      "content": "Options Pits Buzzing Ahead of Adobe's Q3 Report"
+    },
+    "tweet5": {
+      "content": "Day Ahead: 3 Things to Watch for September 15"
+    },
+    "tweet6": {
+      "content": "A Second Look at Adobe Systems as Earnings Expected Tuesday"
+    },
+    "tweet7": {
+      "content": "Adobe Reports Earnings Tomorrow. Here’s What to Expect."
+    },
+    "tweet8": {
+      "content": "High Expectations Ahead of Adobe (COMPANY_X) Report"
+    },
+    "tweet9": {
+      "content": "Adobe Earnings Preview"
+    },
+    "tweet10": {
+      "content": "Why Adobe's Stock Is Trading Higher Today"
+    },
+    "tweet11": {
+      "content": "COVID-related U.S. e-commerce growth slows as store reopenings attract quarantine-fatigued customers: Adobe"
+    },
+    "tweet12": {
+      "content": "Adobe, FedEx, Lennar and Other Stocks to Watch This Week"
+    },
+    "tweet13": {
+      "content": "Oracle, Zoom Video, Lennar, Adobe and FedEx are part of Zacks Earnings Preview"
+    },
+    "tweet14": {
+      "content": "Adobe Is the Next Big Software Company to Report Earnings and Wall Street Is Increasingly Bullish"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Markets Slide into Green; FedEx, Adobe Beat Estimates"
+    },
+    "tweet2": {
+      "content": "Adobe Systems (COMPANY_X) Q3 Earnings and Revenues Top Estimates"
+    },
+    "tweet3": {
+      "content": "Adobe Reports Sales That Top Estimates on Creative Software"
+    },
+    "tweet4": {
+      "content": "Adobe Stock Climbs As Cloud Software Provider Beats Quarterly Targets"
+    },
+    "tweet5": {
+      "content": "Adobe Tops Earnings Estimates on Digital Media Strength"
+    },
+    "tweet6": {
+      "content": "Adobe Shares Climb After Profit and Revenue Beat Expectations"
+    },
+    "tweet7": {
+      "content": "Nasdaq Leads Market Higher As New Leaderboard Stocks Break Out"
+    },
+    "tweet8": {
+      "content": "Adobe: Q3 Earnings Insights"
+    },
+    "tweet9": {
+      "content": "Adobe shares rise 3% on revenue, earnings beat"
+    },
+    "tweet10": {
+      "content": "Adobe Stock Jumps As Cloud Software Provider Beats Quarterly Targets"
+    },
+    "tweet11": {
+      "content": "Adobe Reports Record Revenue"
+    },
+    "tweet12": {
+      "content": "Option Trader Bets $6.1M Against Adobe Ahead Of Earnings"
+    },
+    "tweet13": {
+      "content": "Nasdaq Soars 180 Points, Led By Tesla, Netflix, Qualcomm; Is A Big Quarter In Store For Adobe?"
+    },
+    "tweet14": {
+      "content": "Dow Jones Gains 225 Points As Tech Rally Continues; Apple, Tesla Jump; Nikola Dives 10% On SEC Investigation"
+    },
+    "tweet15": {
+      "content": "How to Trade Adobe After the Company Reports Earnings"
+    },
+    "tweet16": {
+      "content": "Why the Recession Can't Stop Adobe System's Growth"
+    },
+    "tweet17": {
+      "content": "Adobe Reports Earnings Today. Here’s What to Expect."
+    },
+    "tweet18": {
+      "content": "Dow Jones Futures: Stock Market Rally Gets A Win, Apple In Buy Zone; Tesla Rival Nikola Sinks On SEC Probe"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "5 Top Stock Trades for Thursday: COMPANY_X, GE, BA, GLD, GME"
+    },
+    "tweet2": {
+      "content": "How the biggest stocks from 2000 performed in subsequent years"
+    },
+    "tweet3": {
+      "content": "Adobe Analysts Mostly Bullish On Q3 Subscription Growth, Margin Expansion: 'The Great Digital Awakening'"
+    },
+    "tweet4": {
+      "content": "Dow Jones Leads Market With Nearly 200-Point Gain Ahead Of Fed"
+    },
+    "tweet5": {
+      "content": "Dow Jones Rallies 200 Points Ahead Of Fed; Stocks Mixed As Nasdaq Falters"
+    },
+    "tweet6": {
+      "content": "Nasdaq Loses Early Gains Despite Adobe Earnings; AMC Networks Makes Big Changes"
+    },
+    "tweet7": {
+      "content": "Adobe Continues Its Upward March With A New Record"
+    },
+    "tweet8": {
+      "content": "P/E Ratio Insights for Adobe"
+    },
+    "tweet9": {
+      "content": "Dow Jones Today, Stocks Open Higher Ahead Of Fed; Adobe, FedEx Earnings: Snowflake IPO Set To Debut"
+    },
+    "tweet10": {
+      "content": "Adobe (COMPANY_X) Q3 Earnings and Revenues Surpass Estimates"
+    },
+    "tweet11": {
+      "content": "Unity to Use IPO to Move Past Games to Real-World Challenges"
+    },
+    "tweet12": {
+      "content": "Dow Jones Today, Futures Edge Higher Ahead Of Fed; Adobe, FedEx Earnings: Snowflake IPO Set To Debut"
+    },
+    "tweet13": {
+      "content": "How Does Adobe's Debt Look?"
+    },
+    "tweet14": {
+      "content": "Snowflake's IPO, Fed Day, Trading Adobe, Cut Kraft?: Market Recon"
+    },
+    "tweet15": {
+      "content": "What Recession? Holiday Sales Projected to Rise in 2020 Despite Pandemic."
+    },
+    "tweet16": {
+      "content": "Adobe Tops 3Q Estimates Spurred By Cloud-Based Software Demand"
+    },
+    "tweet17": {
+      "content": "Analyst Report: Adobe Inc."
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "How Adobe Sharpened Its Sales Edge This Quarter"
+    },
+    "tweet2": {
+      "content": "Dow Jones Falls Over 250 Points; Apple, Tesla Slide"
+    },
+    "tweet3": {
+      "content": "Digital Transformation Keeps Adobe Afloat Again During Summer 2020"
+    },
+    "tweet4": {
+      "content": "Where to Invest $5,000 Right Now"
+    },
+    "tweet5": {
+      "content": "Adobe Continues Its Streak of Setting Revenue Records Despite the Pandemic"
+    },
+    "tweet6": {
+      "content": "Zacks Earnings Trends Highlights: Oracle, Adobe, Lennar and FedEx"
+    },
+    "tweet7": {
+      "content": "Dow Jones Futures Signal Key Test After Stock Market Rally Hits Resistance Following Fed Meeting"
+    },
+    "tweet8": {
+      "content": "Dow Jones Futures: Stock Market Rally Hits Resistance After Fed Meeting; Snowflake IPO Soars"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Why the Apple Watch Is a Big Deal"
+    },
+    "tweet2": {
+      "content": "'Nasdaq whale' closes more large options trades"
+    },
+    "tweet3": {
+      "content": "Morningstar | A Weekly Summary of Stock Ideas and Developments in the Companies We Cover"
+    },
+    "tweet4": {
+      "content": "Stock Market Rally Reverses Lower: Apple, Adobe, Nvidia, Nikola, Snowflake, TikTok, Fed Meeting In Focus"
+    },
+    "tweet5": {
+      "content": "Buffett's IPO Investment and Citigroup's Next CEO"
+    },
+    "tweet6": {
+      "content": "Earnings Recap For The Week Of September 18"
+    },
+    "tweet7": {
+      "content": "MARKETS: YF Premium Investment Idea: Adobe (COMPANY_X)"
+    },
+    "tweet8": {
+      "content": "Dow Jones Futures: Market Rally Against The Ropes; Tesla Leads Tech Futures Higher"
+    },
+    "tweet9": {
+      "content": "Dow Jones Futures: Stock Market Rally Against The Ropes As Apple, Amazon, Netflix, Tesla Fall; Do This Now"
+    },
+    "tweet10": {
+      "content": "Analyst Report: Adobe Inc"
+    },
+    "tweet11": {
+      "content": "Market Digest: FL, COMPANY_X"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Dow Jones Futures Tumble: Stock Market Rally Reeling On Coronavirus Cases, Suspicious Bank Moves"
+    },
+    "tweet2": {
+      "content": "Dow Jones Futures Loom With Stock Market Rally Still Fighting, But Bears Landing The Punches; Trump Backs TikTok Deal, Tesla Battery Day Due"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "How This Option Trade In Adobe Can Produce A 43% Return"
+    },
+    "tweet2": {
+      "content": "Is Adobe Stock A Buy Right Now? Here's What Earnings, COMPANY_X Chart Show"
+    },
+    "tweet3": {
+      "content": "Better Buy: Adobe vs. Microsoft"
+    },
+    "tweet4": {
+      "content": "Dow Jones Futures: Stock Market Rally Gets Boost From Apple, Big Techs; Tesla Falls On Elon Musk Battery Day News"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Adobe (COMPANY_X) Has Risen 73% in Last One Year, Outperforms Market"
+    },
+    "tweet2": {
+      "content": "Adobe&#039;s &#039;Liquid Mode&#039; uses AI to automatically redesign PDFs for mobile devices"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "How Adobe (COMPANY_X) Stock Stands Out in a Strong Industry"
+    },
+    "tweet2": {
+      "content": "3 Reasons I Bought Adobe Stock"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Snowflake, Homebuilders, Money Girl, and More"
+    },
+    "tweet2": {
+      "content": "Adobe Still In Buy Range"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Dow Jones Sinks Over 100 Points But These Leaders Trade In Buy Zones"
+    },
+    "tweet2": {
+      "content": "Adobe Stock: Using A Long Call Option Strategy To Gain Leveraged Exposure"
+    },
+    "tweet3": {
+      "content": "Dow Jones Futures: Stock Market Rally Needs This With Presidential Debate On Tap; 7 Leaders In Buy Zones"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

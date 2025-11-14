@@ -1,0 +1,643 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "Growth Stocks PayPal, COMPANY_X.com, Snowflake Forming Bullish Bases"
+    },
+    "tweet2": {
+      "content": "COMPANY_X.com (NASDAQ:COMPANY_X) Shareholders Have Enjoyed An Impressive 184% Share Price Gain"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "3 Stocks to Buy in October"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "The 21-Day Exponential Moving Average: Why This Is Your New Edge"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Top Stocks In Emerging Markets Are Racking Up Triple-Digit Gains"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "COMPANY_X.com Clears Short-term Resistance"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Why COMPANY_X.com Stock Was Climbing Today"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "10 Influential Chinese Entrepreneurs"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "COMPANY_X.com, Inc. (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Alibaba Takes Over China’s Top Hypermart Chain for $3.6 Billion"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Were Hedge Funds Right About Piling Into COMPANY_X.Com Inc (COMPANY_X)?"
+    },
+    "tweet2": {
+      "content": "COMPANY_X.com Nears Buy Point"
+    },
+    "tweet3": {
+      "content": "Dow Jones Futures Rise On Stimulus Deal Progress After Stock Market Rally Sell-Off; Apple's Flawed New Buy Point"
+    },
+    "tweet4": {
+      "content": "Didi Seeks 2021 Hong Kong IPO at $60 Billion Value, Reuters Says"
+    },
+    "tweet5": {
+      "content": "Analyst Report: COMPANY_X.com, Inc."
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Wait and See Whether or Not Nio Stock Can Stay in the Fast Lane"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Should You Wait Until After the Election to Buy COMPANY_X.com?"
+    },
+    "tweet2": {
+      "content": "Could The COMPANY_X.com, Inc. (NASDAQ:COMPANY_X) Ownership Structure Tell Us Something Useful?"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Tencent, IBD Stock Of The Day, Jumps Into Buy Zone After Court Ruling"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "AMD, Tesla, COMPANY_X.com Struggle With Early Buy Points, But This Is The Real Problem"
+    },
+    "tweet2": {
+      "content": "COMPANY_X.com Is Beating Amazon and Tesla to This Key Tech Milestone"
+    },
+    "tweet3": {
+      "content": "These Are the Stocks to Watch in a Biden Sweep: Election Guide"
+    },
+    "tweet4": {
+      "content": "The Pessimist’s Guide to Jack Ma’s Record-Breaking Ant IPO"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Pinduoduo, IBD Stock Of The Day, Takes A Social Road To E-Commerce"
+    },
+    "tweet2": {
+      "content": "These 3 Leaderboard Stocks Are Setting Up: Here's What To Look For"
+    },
+    "tweet3": {
+      "content": "TikTok’s Owner Sells Its First Consumer Gadget. And It’s a Lamp"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "These 3 Top Growth Stocks Are Testing Key Levels: Here's What To Look For"
+    },
+    "tweet2": {
+      "content": "Why COMPANY_X.com Stock Has More Than Doubled in 2020"
+    },
+    "tweet3": {
+      "content": "3 Stocks To Buy That Are Unafraid of Market Hobgoblins"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Dow Jones Futures Rise: Coronavirus, Election In Focus After Stock Market Sell-Off; What To Do Now"
+    },
+    "tweet2": {
+      "content": "Dow Jones Futures Jump: Coronavirus, Election In Focus After Stock Market Sell-Off; What To Do Now"
+    },
+    "tweet3": {
+      "content": "Dow Jones Futures Fall: Coronavirus, Election In Focus After Stock Market Sell-Off; What To Do Now"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Dow Jones Futures: Trump-Biden Face Off On Election Day; Tesla Retakes Key Level"
+    },
+    "tweet2": {
+      "content": "What the Scuttled Ant Group IPO Means for Other Chinese Stocks"
+    },
+    "tweet3": {
+      "content": "Alibaba Drops After China Suspends IPO of Finance Affiliate Ant"
+    },
+    "tweet4": {
+      "content": "Chinese Stocks To Watch: After 167% Gain, Alibaba, Amazon Rival COMPANY_X.com Tests New Breakout"
+    },
+    "tweet5": {
+      "content": "Magic Johnson Selling Gels Shows Why Alibaba Escaped Trump"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Dow Jones Futures: Investors Hail Election Results With Decisive Market Rally; Google, COMPANY_X.com, UnitedHealth Among 8 New Breakouts"
+    },
+    "tweet2": {
+      "content": "COMPANY_X.com, IBD Stock Of The Day, Jumps Into Buy Zone, Hits New High"
+    },
+    "tweet3": {
+      "content": "Alibaba, COMPANY_X.com Rival PDD Stock Gaps Up To Clear Buy Point"
+    },
+    "tweet4": {
+      "content": "Dow Jones, Nasdaq Rally As Trump Vs. Biden Remains In Balance; These Breakouts Flourish"
+    },
+    "tweet5": {
+      "content": "Nasdaq Up 470 Points, Leads Post-Election Day Gains; Google, Uber, COMPANY_X.com Break Out"
+    },
+    "tweet6": {
+      "content": "COMPANY_X.com Breaks Out To New Highs"
+    },
+    "tweet7": {
+      "content": "Dow Jones Futures Rise, While Tech Futures Soar; Trump Claims 'A Big WIN!' But Election Results Unclear"
+    },
+    "tweet8": {
+      "content": "Dow Jones Futures Jump And Tech Futures Soar, As Trump Seen Winning 3 Key Battleground States"
+    },
+    "tweet9": {
+      "content": "Dow Jones Futures Tumble 300 Points, While Tech Futures Soar, As Trump Seen Winning 3 Key Battleground States"
+    },
+    "tweet10": {
+      "content": "Dow Jones Futures Reverse Lower, As Trump-Biden Election Results Continue; Tesla Retakes Key Level"
+    },
+    "tweet11": {
+      "content": "Dow Jones Futures Jump 200 Points, As Trump-Biden Election Results Begin; Tesla Retakes Key Level"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Alibaba Earnings Beat, But Uncertainty Over Ant Group IPO Remains"
+    },
+    "tweet2": {
+      "content": "MercadoLibre Sees Its Composite Rating Rise To 97; Hits New High"
+    },
+    "tweet3": {
+      "content": "COMPANY_X.com (COMPANY_X) in Focus: Stock Moves 8% Higher"
+    },
+    "tweet4": {
+      "content": "Dow Jones Futures Jump As Strong Post-Election Market Rally Rolls On; Qualcomm, Alibaba, GM Lead Earnings Movers"
+    },
+    "tweet5": {
+      "content": "Dow Jones Futures Rise Sharply As Election Results Drive Decisive Market Rally; Google Leads 8 Breakouts"
+    },
+    "tweet6": {
+      "content": "Dow Jones Futures: Election Results Drive Decisive Market Rally; Google Leads 8 New Breakouts"
+    },
+    "tweet7": {
+      "content": "Analyst Report: COMPANY_X.com, Inc."
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Better Buy: Tencent vs. COMPANY_X.com"
+    },
+    "tweet2": {
+      "content": "Alibaba’s Slowing Sales Spook Investors On Edge Over Ant"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Alibaba Stock Drops As China Regulators Tighten Internet Scrutiny"
+    },
+    "tweet2": {
+      "content": "Chinese Internet Stocks Tumble Because Regulatory Risk Is Back"
+    },
+    "tweet3": {
+      "content": "COMPANY_X.com to Report Third Quarter 2020 Financial Results on November 16, 2020"
+    },
+    "tweet4": {
+      "content": "China gears up for world’s largest online shopping festival"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "What China's new antitrust rules mean for big tech companies like Alibaba"
+    },
+    "tweet2": {
+      "content": "How Singles' Day compares to Black Friday and Amazon Prime Day"
+    },
+    "tweet3": {
+      "content": "Alibaba’s stock falls after China regulator drafts anti-monopoly guidelines"
+    },
+    "tweet4": {
+      "content": "Alibaba Leads Chinese Internet Selloff Nearing $290 Billion"
+    },
+    "tweet5": {
+      "content": "China Clampdown on Big Tech Puts More Billionaires on Notice"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Alibaba’s Singles Day Sales Growth Keeps Pace"
+    },
+    "tweet2": {
+      "content": "Why COMPANY_X.com Stock Was Climbing Today"
+    },
+    "tweet3": {
+      "content": "Tencent Profit Surges 89% on Gaming"
+    },
+    "tweet4": {
+      "content": "Dow Jones Today Leads Early Decline, Powell Speech Pending; ServiceNow Jumps On Upgrade"
+    },
+    "tweet5": {
+      "content": "Dow Jones Today, Futures Mixed On Jobless Data, Powell Speech; ServiceNow Jumps On Upgrade"
+    },
+    "tweet6": {
+      "content": "Tencent May Be Too Awesome for Its Own Good"
+    },
+    "tweet7": {
+      "content": "Pinduoduo Shares Jump as Post-Covid Spending Lift Sales by 89%"
+    },
+    "tweet8": {
+      "content": "Down $290 Billion, China Tech Investors Wargame Worst-Case Scenarios"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "U.S. Equity Markets Rally to end Volatile Week"
+    },
+    "tweet2": {
+      "content": "4 Top Stock Trades for Monday: NIO, WMT, DIS, COMPANY_X"
+    },
+    "tweet3": {
+      "content": "Earnings Reports for the Week of Nov. 16-20 (HD, COMPANY_X, KSS, NIO, WMT)"
+    },
+    "tweet4": {
+      "content": "Tencent Climbs After Reassurances on China’s Internet Clampdown"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "COMPANY_X.com Third-Quarter Earnings Beat Views, Sales Match"
+    },
+    "tweet2": {
+      "content": "Dow Jones Hits All-Time High On Coronavirus Vaccine Hopes; Is A Breakout Over 30,000 Next?"
+    },
+    "tweet3": {
+      "content": "Why COMPANY_X.com Stock Was Falling Today"
+    },
+    "tweet4": {
+      "content": "COMPANY_X.com Third-Quarter Revenue Grows 30 Percent"
+    },
+    "tweet5": {
+      "content": "Dow Jones Soars 400 Points On Effective Moderna Coronavirus Vaccine; COMPANY_X.com Dives 8% On Earnings"
+    },
+    "tweet6": {
+      "content": "Price Over Earnings Overview: COMPANY_X.com"
+    },
+    "tweet7": {
+      "content": "Dow Jones Today Gets Vaccine Boost From Moderna; Nasdaq Recovers, Small Caps Lead"
+    },
+    "tweet8": {
+      "content": "COMPANY_X.com Tops Q3 Earnings Forecast, Falls Short On Revenues"
+    },
+    "tweet9": {
+      "content": "Dow Jones Today Gets A Vaccine Boost From Moderna; Small Caps Rally Hard, Nasdaq Lags"
+    },
+    "tweet10": {
+      "content": "Dow Jones Futures Jump As Moderna Coronavirus Vaccine Highly Effective; COMPANY_X.com Earnings Top"
+    },
+    "tweet11": {
+      "content": "COMPANY_X.com: Q3 Earnings Insights"
+    },
+    "tweet12": {
+      "content": "COMPANY_X.com Earnings Beat Views, Sales In Line; Chinese E-Commerce Giant Edges Higher"
+    },
+    "tweet13": {
+      "content": "COMPANY_X.com's stock gains after profit, revenue rise above expectations"
+    },
+    "tweet14": {
+      "content": "Dow Jones Futures: President Trump Defiant After Hinting At Concession; COMPANY_X.com Earnings Beat, Moderna Coronavirus Vaccine News Looms"
+    },
+    "tweet15": {
+      "content": "COMPANY_X.com Announces 2020 Third Quarter Results"
+    },
+    "tweet16": {
+      "content": "15 Largest Ecommerce Companies in the World"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "COMPANY_X.com (COMPANY_X) Q3 2020 Earnings Call Transcript"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Plunges After Growth, Margin Concerns Outweigh Sales Beat"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "COMPANY_X.com, Inc. Just Recorded A 129% EPS Beat: Here's What Analysts Are Forecasting Next"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "5 Reasons COMPANY_X.com Is Still an Undervalued Growth Stock"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "3 Quotes That Show Why COMPANY_X.com Is the Next Amazon"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "COMPANY_X.com Just Had One of Its Best Quarters, Ever"
+    },
+    "tweet2": {
+      "content": "COMPANY_X’s Logistics Unit Weighs IPO at $40 Billion Valuation"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Chinese E-Commerce Giant COMPANY_X.com to List Health Unit in Hong Kong"
+    },
+    "tweet2": {
+      "content": "E-Commerce Giant COMPANY_X.com Considers Spinning Off Another Business"
+    },
+    "tweet3": {
+      "content": "COMPANY_X.Com Unit Set For Asia's Largest-Ever Healthcare IPO Above $3B"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Unit Seeks up to $3.5 Billion in Asia’s Biggest Health IPO"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Unit Seeks up to $3.5 Billion in Asia’s Biggest Health IPO"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Big Names Line Up for IPOs as 2020 Draws to a Close"
+    },
+    "tweet2": {
+      "content": "A Look Into COMPANY_X.com's Price Over Earnings"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "China Stocks Delisting Threat Grows For Alibaba, COMPANY_X.com, Nio Amid House Vote, Kandi Fraud Allegations"
+    },
+    "tweet2": {
+      "content": "Why COMPANY_X.com Stock Was Falling Today"
+    },
+    "tweet3": {
+      "content": "Is COMPANY_X.Com Inc (COMPANY_X) A Good Stock To Buy Now?"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "IBD 50 Stock To Watch: Can Etsy Stock Make Good On Its Breakout?"
+    },
+    "tweet2": {
+      "content": "Retail survivors surge on the FTSE 100 after stores meltdown"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "House Passes China Stocks Delisting Bill; Threat Grows For Alibaba, COMPANY_X.com, Nio"
+    },
+    "tweet2": {
+      "content": "US moves on legislation that may deter Chinese stock listings: 'China is the only outlier,' says senator"
+    },
+    "tweet3": {
+      "content": "COMPANY_X.com Telemedicine Arm Raises $3.5B From Hong Kong's Largest IPO In 2020: WSJ"
+    },
+    "tweet4": {
+      "content": "Chinese health care platform COMPANY_X Health raises US$3.5 billion in Hong Kong's second largest IPO this year"
+    },
+    "tweet5": {
+      "content": "COMPANY_X to Raise $3.5 Billion in Biggest Asia Health-Care IPO"
+    },
+    "tweet6": {
+      "content": "COMPANY_X Health prices shares at $HK70.58, raises $3.48 bln in HK's biggest IPO in 2020 - term sheet"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "COMPANY_X.com's logistics unit is in talks with banks for what may be one of Hong Kong's most anticipated initial public offers of 2021"
+    },
+    "tweet2": {
+      "content": "Stimulus Plan Gains Traction, Jobless Claims, OPEC+ Meets - What's up in Markets"
+    },
+    "tweet3": {
+      "content": "House Passes China Delisting Bill, Sending to Trump for Approval. What That Means for Investors."
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "A Closer Look at COMPANY_X.com's 3 Big Spin-offs"
+    },
+    "tweet2": {
+      "content": "Is Wall Street Ready to Work on China Time?"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "COMPANY_X Health plans to use part of Hong Kong IPO proceeds to buy offline pharmacies"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Health Jumps 56% in Hong Kong Debut Amid Soaring Demand"
+    },
+    "tweet3": {
+      "content": "V-Day, FDA Data Dump, Uber's Self-Driving Haircut - What's up in Markets"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Health soars on stock market debut"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "China Is Nintendo’s Secret Weapon in War With PlayStation, Xbox"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Health’s IPO Is a Success. It May Be One Piece of COMPANY_X.com’s Listings Spree."
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "Delisting Chinese Companies Could Be Bad for Investors. But It’s the Right Thing to Do."
+    },
+    "tweet2": {
+      "content": "Calculating The Fair Value Of COMPANY_X.com, Inc. (NASDAQ:COMPANY_X)"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "Chinese e-commerce platform COMPANY_X.com kicks off digital yuan trial at Double Twelve shopping festival"
+    },
+    "tweet2": {
+      "content": "10 Best Chinese Stocks To Buy Now"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "Do Options Traders Know Something About COMPANY_X.com (COMPANY_X) Stock We Don't?"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "10 Best Stocks To Buy For 2021 According to Billionaire Stan Druckenmiller"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "IBD 50 Stocks To Watch: Will this Leading China Stock Get One Last 2020 Breakout?"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "Vipshop Holdings Limited -- Moody's affirms Vipshop's Baa1 issuer rating; outlook stable"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "Dow Jones, Stocks Open Mixed As Trump Balks At Coronavirus Bill; Clean Energy Rally Continues; Merck Rises On Covid Treatment Deal"
+    },
+    "tweet2": {
+      "content": "Jumia Stock Surged 600% in 2020. Is It a Buy for 2021?"
+    },
+    "tweet3": {
+      "content": "Dow Jones, Futures Inch Up As Trump Balks At Coronavirus Bill; Clean Energy Rally Continues; Merck Rises On Covid Treatment"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "Why Alibaba’s Stock Plunge Is Bad News for SoftBank"
+    },
+    "tweet2": {
+      "content": "Stocks Rise Into Short Holiday Session; EU/U.K. Strike Brexit Deal, Alibaba Dives"
+    },
+    "tweet3": {
+      "content": "A Look Into COMPANY_X.com's Price Over Earnings"
+    },
+    "tweet4": {
+      "content": "Dow Jones, Futures Rise Despite Stimulus, Brexit Delays; Bridgetown Leads SPAC Rally; Antitrust Action Hits Alibaba"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "Alibaba Stock Rebounds On Progress Over Remaking Ant Group"
+    },
+    "tweet2": {
+      "content": "Why COMPANY_X.com Stock Was Gaining Today"
+    },
+    "tweet3": {
+      "content": "Tuesday’s 10 Notable Market Movers in the Limelight"
+    },
+    "tweet4": {
+      "content": "Alibaba Is Under Scrutiny in China. Why an Analyst Still Likes the Stock."
+    },
+    "tweet5": {
+      "content": "Ant Group May Have to Become More Banklike. What Comes Next."
+    },
+    "tweet6": {
+      "content": "China’s First National Standard for Express Delivery Service by Unmanned Aircraft Jointly Formulated by EHang will be Effective from January 1, 2021"
+    },
+    "tweet7": {
+      "content": "Vipshop Holdings Limited -- Moody's affirms Vipshop's Baa1 issuer rating; outlook stable"
+    },
+    "tweet8": {
+      "content": "Alibaba Probe Stirs Worry About What’s Next for Chinese Tech"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "Chegg, Copart, COMPANY_X Stock Among Breakout Stocks To Watch Heading Into 2021"
+    },
+    "tweet2": {
+      "content": "Can COMPANY_X Rotate Back to Highs and Hit $100?"
+    },
+    "tweet3": {
+      "content": "COMPANY_X.com To Spin Off Cloud, AI Segment, Focus On Core Retail Business"
+    },
+    "tweet4": {
+      "content": "COMPANY_X.com Considers Spinoff of Cloud and AI Business"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "Alibaba Boosts Top China Play Near Buy Point; Nio Surges 1,100% This Year"
+    }
+  }
+}

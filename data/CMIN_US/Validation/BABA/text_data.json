@@ -1,0 +1,940 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "Matthews Pacific Tiger Fund's Biggest 2nd-Quarter Buys"
+    },
+    "tweet2": {
+      "content": "Matthews China Fund's Top 5 Trades"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: JD.com, MercadoLibre, Alibaba, Wayfair and Carvana"
+    },
+    "tweet4": {
+      "content": "Trump’s TikTok Assault Opens New Front in Tech War With China"
+    },
+    "tweet5": {
+      "content": "Goldman, BofA Left Off Ant IPO for Work With Alibaba Rivals"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Analyzing Alibaba Group Holding's Unusual Options Activity"
+    },
+    "tweet2": {
+      "content": "3 Growth Stocks to Buy and Hold for the Next 50 Years"
+    },
+    "tweet3": {
+      "content": "Why Alibaba Stock Gained 16% Last Month"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "A Taiwan Tech Company Bigger Than Foxconn (Not TSMC)"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Son’s SoftBank Poised to Return to Profit After Big Losses"
+    },
+    "tweet2": {
+      "content": "China’s Suning.com Expands Into Online Luxury Retail"
+    },
+    "tweet3": {
+      "content": "Ant Group Is Said to Pick CICC as Sponsor for its Shanghai IPO"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "4 Top Stock Trades for Monday: FSLY, COMPANY_X, DDOG, S&P 500"
+    },
+    "tweet2": {
+      "content": "Chances For Americans To Invest In Chinese Stocks 'TikTok' Down As U.S.-China Rift Grows"
+    },
+    "tweet3": {
+      "content": "China Stocks Hit By Trump Executive Order Targeting TikTok, WeChat"
+    },
+    "tweet4": {
+      "content": "Trump’s WeChat Ban Brings Cold War With China Into a Billion Homes"
+    },
+    "tweet5": {
+      "content": "Get Long Alibaba Stock Into Earnings With Confidence"
+    },
+    "tweet6": {
+      "content": "Dow Jones Today, Stocks Slump Despite July Payroll Surprise; China Stocks Dive On Trump Order; Biogen Gets FDA Nod"
+    },
+    "tweet7": {
+      "content": "TikTok Tug-of-War Ensnares App’s Affable Billionaire Founder"
+    },
+    "tweet8": {
+      "content": "Alibaba Group Will Announce June Quarter 2020 Results on August 20, 2020"
+    },
+    "tweet9": {
+      "content": "Trump Interrupts the China Day-Trading Party"
+    },
+    "tweet10": {
+      "content": "Inflation Is Coming, and Big Tech Won't Protect You"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "2 Top Chinese E-Commerce Stocks to Buy Right Now"
+    },
+    "tweet2": {
+      "content": "Asia Tech-Shares Selloff Seen as Buy Opportunity for Some Funds"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "SoftBank Is Targeting Over $10 Billion in Public Investing"
+    },
+    "tweet2": {
+      "content": "Daniel Loeb Adds Opportunistically to 3 Compounders"
+    },
+    "tweet3": {
+      "content": "SoftBank Moves Into Asset Management After Return to Profits"
+    },
+    "tweet4": {
+      "content": "SoftBank Gives Up Pretending It Isn't a Fund"
+    },
+    "tweet5": {
+      "content": "Total (China) Investment Partners With Alibaba to Drive Its Digital Transformation"
+    },
+    "tweet6": {
+      "content": "Tencent’s Grip on Music Weakens After NetEase-Universal Deal"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Here's Why Investors Should Hold on to Starbucks (SBUX) Stock"
+    },
+    "tweet2": {
+      "content": "P/E Ratio Insights for Alibaba"
+    },
+    "tweet3": {
+      "content": "Tencent's Retro Roots Juice Its Pandemic Profits"
+    },
+    "tweet4": {
+      "content": "Investors revalue Chinese tech giants after U.S. ban"
+    },
+    "tweet5": {
+      "content": "Trump’s WeChat Assault Endangers $280 Billion Tencent Rally"
+    },
+    "tweet6": {
+      "content": "Alibaba-backed Best to list delivery business in Hong Kong"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Buy Alibaba Stock Ahead of its Upcoming Earnings Release?"
+    },
+    "tweet2": {
+      "content": "Ray Dalio's Bridgewater Dumps Treasury Bond ETF, Boosts 5 Positions in 2nd Quarter"
+    },
+    "tweet3": {
+      "content": "Alibaba Earnings: What to look for from COMPANY_X"
+    },
+    "tweet4": {
+      "content": "Tencent Plays Down WeChat Ban After Results Beat Estimates"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "David Tepper's Top 5 Buys in the 2nd Quarter"
+    },
+    "tweet2": {
+      "content": "Biggest 2nd-Quarter Trades of Jeremy Grantham's Firm"
+    },
+    "tweet3": {
+      "content": "Sands Capital Trims Alibaba, Facebook, Visa"
+    },
+    "tweet4": {
+      "content": "Alibaba Forms A New Base"
+    },
+    "tweet5": {
+      "content": "SoftBank Scored a $600 Million Gain In the Latest Quarter After $10 Billion Stock Bet"
+    },
+    "tweet6": {
+      "content": "Alibaba, Xiaomi to join Hong Kong's Hang Seng Index"
+    },
+    "tweet7": {
+      "content": "Alibaba and Xiaomi Get Into Hong Kong’s Benchmark Index"
+    },
+    "tweet8": {
+      "content": "Alibaba, Xiaomi to join Hong Kong's Hang Seng Index"
+    },
+    "tweet9": {
+      "content": "Alibaba, Xiaomi, WuXi Biologics win green light to join the Hang Seng Index on September 7"
+    },
+    "tweet10": {
+      "content": "AI Unicorn SenseTime Is Said to Mull Hong Kong, China IPO"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "Buy Nvidia & Alibaba Stock Before Earnings as Big Tech Continues to Climb?"
+    },
+    "tweet2": {
+      "content": "86% of companies say U.S.-China tensions are impacting business: Survey"
+    },
+    "tweet3": {
+      "content": "Alibaba shares hold up in face of Trump threats"
+    },
+    "tweet4": {
+      "content": "Dow Jones Dips, But Home Depot, Walmart Jump Ahead Of Earnings; 4 Dow Stocks Near Buy Points"
+    },
+    "tweet5": {
+      "content": "3 Chinese Tech Stocks to Buy Right Now"
+    },
+    "tweet6": {
+      "content": "Dow Jones Futures Signal Gains; JD.com, Tesla Jump While Amazon, EBay Near New Buy Points"
+    },
+    "tweet7": {
+      "content": "HSI50 Gains After New Index Lineup Announced"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Steve Mandel's Lone Pine Exits Alibaba, Starts 4 Positions in the 2nd Quarter"
+    },
+    "tweet2": {
+      "content": "5 Reasons to Buy JD.com Stock Near Its All-Time High"
+    },
+    "tweet3": {
+      "content": "The 4 Questions Baidu Can’t Seem to Answer"
+    },
+    "tweet4": {
+      "content": "Alibaba (COMPANY_X) Gears Up for Q1 Earnings: What's in Store?"
+    },
+    "tweet5": {
+      "content": "Truist Securities Lifts Alibaba’s PT Ahead Of 1Q Results This Week"
+    },
+    "tweet6": {
+      "content": "China's Ant Group plans consumer finance firm in growth push ahead of IPO - sources"
+    },
+    "tweet7": {
+      "content": "China's Ant Group plans consumer finance firm in growth push ahead of IPO"
+    },
+    "tweet8": {
+      "content": "JD.com Sales Beat, Scores $830 Million Hillhouse Investment"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Daniel Loeb's Top 6 Trades in the 2nd Quarter"
+    },
+    "tweet2": {
+      "content": "Alibaba earnings: After COVID-19 recovery, U.S.-China tensions still loom"
+    },
+    "tweet3": {
+      "content": "3 Stocks with High Return on Equity Ratios"
+    },
+    "tweet4": {
+      "content": "Earnings Outlook for Alibaba Group Holding"
+    },
+    "tweet5": {
+      "content": "Can Strong Cloud Growth Propel Alibaba's (COMPANY_X) Q1 Earnings?"
+    },
+    "tweet6": {
+      "content": "Chinese AI Giant Blacklisted by Trump Thrives in Virus Era"
+    },
+    "tweet7": {
+      "content": "Chinese AI Giant Blacklisted by Trump Thrives in Virus Era"
+    },
+    "tweet8": {
+      "content": "Sea’s Pandemic Surge Is Currency for Some Bold M&A"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Nasdaq Hits Fresh Record High As Dow Lags; Apple Hits Record High"
+    },
+    "tweet2": {
+      "content": "Dow Rises In Spite Of Spike In Jobless Claims; Alibaba Nears Buy Point"
+    },
+    "tweet3": {
+      "content": "Alibaba Earnings: What What Happened"
+    },
+    "tweet4": {
+      "content": "Alibaba earnings have analysts cheering ‘V-shaped recovery’ but stock falls"
+    },
+    "tweet5": {
+      "content": "Buy or Sell Alibaba on Earnings? Let's Look at the Charts"
+    },
+    "tweet6": {
+      "content": "Alibaba Beats Quarterly Sales Estimates As Commerce, Cloud Businesses Grow"
+    },
+    "tweet7": {
+      "content": "PreMarket Prep Stock Of The Day: Alibaba"
+    },
+    "tweet8": {
+      "content": "Alibaba ‘Pitch Fest’ Holds Singles’ Day Promise for Smaller Brands"
+    },
+    "tweet9": {
+      "content": "Dow Jones Reverses Higher After 166 Point Loss On Jobless Claims; Apple Hits Record High, While Alibaba, Nvidia Report Earnings"
+    },
+    "tweet10": {
+      "content": "Alibaba Beat Earnings Estimates. Why Its Stock Is Falling."
+    },
+    "tweet11": {
+      "content": "Alibaba Posts Strong Q2 Revenue as COVID-19 Crisis Boosts Online Business; Target Price $290"
+    },
+    "tweet12": {
+      "content": "Trump Threat Hinders Alibaba (COMPANY_X) After Strong Quarter"
+    },
+    "tweet13": {
+      "content": "Alibaba’s Domestic Business Has ‘Fully Recovered’ to Pre-Pandemic Levels"
+    },
+    "tweet14": {
+      "content": "Alibaba Earnings and Sales Top Estimates, but Stock Slips"
+    },
+    "tweet15": {
+      "content": "Alibaba Tops Q1 Earnings Forecast On Online Spending Surge"
+    },
+    "tweet16": {
+      "content": "Bonawyn Eison Sees Unusual Options Activity In Alibaba"
+    },
+    "tweet17": {
+      "content": "Don’t Touch These 3 Chinese Tech Stocks"
+    },
+    "tweet18": {
+      "content": "Alibaba Appeals to Trump, Says it Supports U.S. Businesses"
+    },
+    "tweet19": {
+      "content": "Alibaba’s Growth Isn’t the Recovery You Were Looking For"
+    },
+    "tweet20": {
+      "content": "Dow Jones Futures Fall After Stock Market Rally Retreat On Fed Concerns; Alibaba, Nvidia Earnings Strong"
+    },
+    "tweet21": {
+      "content": "Alibaba Declares Full Recovery From COVID-19 With Q1 Results"
+    },
+    "tweet22": {
+      "content": "China’s Alibaba Says Business Is Back to Normal, Quarterly Profits Hit $5.6 Billion"
+    },
+    "tweet23": {
+      "content": "Alibaba Group: Q1 Earnings Insights"
+    },
+    "tweet24": {
+      "content": "Alibaba earnings top expectations as pandemic drives increased digital purchases"
+    },
+    "tweet25": {
+      "content": "Alibaba beats estimates as pandemic fuels online, cloud computing demand"
+    },
+    "tweet26": {
+      "content": "Alibaba Group Announces June Quarter 2020 Results"
+    },
+    "tweet27": {
+      "content": "Trump Adds to Earnings Threat as Alibaba Challenged in China"
+    },
+    "tweet28": {
+      "content": "Dow Jones Futures: Stock Market Rally Retreats On Fed Concerns; Nvidia Earnings Strong, Alibaba On Tap"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "SoftBank Continues to Make Risky Bets. Here’s Why The Stock Remains Attractive."
+    },
+    "tweet2": {
+      "content": "4 Top Stock Trades for Monday: NVDA, COMPANY_X, PLUG, GME"
+    },
+    "tweet3": {
+      "content": "Post-Earnings Alibaba (COMPANY_X) Opportunity"
+    },
+    "tweet4": {
+      "content": "Dow Jones Jumps 200 Points, Helped By Bullish Gain For Apple Stock; Nvidia, AMD Lead Nasdaq 100"
+    },
+    "tweet5": {
+      "content": "Alibaba Stock Remains a Strong Buy Despite Growing U.S.-China Tensions"
+    },
+    "tweet6": {
+      "content": "Better Buy: Tencent vs. Alibaba"
+    },
+    "tweet7": {
+      "content": "Alibaba's Strong Fiscal Q1 Earnings Put These ETFs in Focus"
+    },
+    "tweet8": {
+      "content": "Wall Street Weighs In On Alibaba's Impressive User Growth, Investing In The Future"
+    },
+    "tweet9": {
+      "content": "Alibaba to select small U.S. businesses for Singles Day participation at upcoming virtual event"
+    },
+    "tweet10": {
+      "content": "Alibaba (COMPANY_X) Surpasses Q1 Earnings & Revenue Estimates"
+    },
+    "tweet11": {
+      "content": "Alibaba tells Trump we 'support American brands'"
+    },
+    "tweet12": {
+      "content": "Jack Ma’s Ant Said to Target $225 Billion Valuation in IPO"
+    },
+    "tweet13": {
+      "content": "Alibaba Group Holding Ltd. (COMPANY_X) Q1 2021 Earnings Call Transcript"
+    },
+    "tweet14": {
+      "content": "Alibaba Touts Post-Virus Rebound While Watching ‘Fluid’ U.S."
+    },
+    "tweet15": {
+      "content": "Alibaba Touts Post-Virus Rebound While Watching ‘Fluid’ U.S."
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Boeing, Dow Stock Fuel Dow Jones Breakout; New Issue Rocket Surges To New High"
+    },
+    "tweet2": {
+      "content": "Dow Up 250 Points, Zoom Retreats; This Megacap Growth Stock Breaks Out"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Alibaba and Amazon"
+    },
+    "tweet4": {
+      "content": "Top Research Reports for Apple, Alibaba, Sony & Others"
+    },
+    "tweet5": {
+      "content": "Alibaba Breaks Out"
+    },
+    "tweet6": {
+      "content": "Dow Jones Surges 300 Points On Trump's 'Very Good News', AstraZeneca's Coronavirus Vaccine; Apple, Tesla Reverse From Record Highs"
+    },
+    "tweet7": {
+      "content": "Maverick Capital Trims Fleetcor, Alibaba"
+    },
+    "tweet8": {
+      "content": "Dow Jones Futures Rise On Apple Despite Long-Term Stock Market Rally Warning"
+    },
+    "tweet9": {
+      "content": "Dow Jones Futures: A Long-Term Stock Market Rally Warning; Trump Touts Coronavirus Plasma Approval"
+    },
+    "tweet10": {
+      "content": "Trump Scrunity Stymies China-Focused Venture Fundraising"
+    },
+    "tweet11": {
+      "content": "Taiwan tells Taobao e-commerce site to re-register or leave island"
+    },
+    "tweet12": {
+      "content": "Taiwan tells Alibaba's Taobao to re-register or leave"
+    },
+    "tweet13": {
+      "content": "Food Delivery Giant Meituan’s Sales Beat Estimates"
+    },
+    "tweet14": {
+      "content": "Alibaba Investors Swap U.S.-Listed Shares for Hong Kong"
+    },
+    "tweet15": {
+      "content": "Alibaba Investors Swap U.S.-Listed Shares for Hong Kong"
+    },
+    "tweet16": {
+      "content": "What Hong Kong Losing Its U.S. ‘Special Status’ Means"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "The Fall Will Be Busy for IPOs. Snowflake, Asana Are Expected to Go Public in September."
+    },
+    "tweet2": {
+      "content": "Dow Jones Dips 100 Points On Major Reshuffle; Electric carmaker Nio Surges Past Buy Point"
+    },
+    "tweet3": {
+      "content": "Dow Jones Lags As S&P 500, Nasdaq Head Toward New Closing Highs"
+    },
+    "tweet4": {
+      "content": "Pinduoduo Is Still Struggling to Compete With Alibaba and JD.com"
+    },
+    "tweet5": {
+      "content": "Dow Jones Drops As Consumer Confidence Offsets China Trade Deal News"
+    },
+    "tweet6": {
+      "content": "Dow Jones Falls 150 Points, Despite U.S.-China Trade Deal News; Best Buy Dives 7% On Earnings, While Salesforce Set To Report"
+    },
+    "tweet7": {
+      "content": "Better Buy: Alibaba vs. JD.com"
+    },
+    "tweet8": {
+      "content": "Dow Jones Today, Stocks Mixed On U.S.-China Trade Talks, Dow Index Changes; Alibaba Files For Ant IPO"
+    },
+    "tweet9": {
+      "content": "Jack Ma's Ant Group Marches Forward With Mega IPO"
+    },
+    "tweet10": {
+      "content": "Dow Jones Today, Futures Up On U.S.-China Trade Talks, Dow Jones Industrial Changes; Alibaba Files For Ant IPO"
+    },
+    "tweet11": {
+      "content": "Jack Ma's Ant Group Moves Forward With Mega IPO"
+    },
+    "tweet12": {
+      "content": "Dow Jones Futures Jump On U.S.-China News; Best Buy Tumbles 5% On Earnings"
+    },
+    "tweet13": {
+      "content": "This Ant Will Be an Undisputed Market Heavyweight"
+    },
+    "tweet14": {
+      "content": "3 Robinhood Stocks You Can Hold Until Retirement"
+    },
+    "tweet15": {
+      "content": "Ant Group files IPO prospectus, says it earned $3.2 billion in first half"
+    },
+    "tweet16": {
+      "content": "Jack Ma's Ant Group files plans for dual listing in Hong Kong and Shanghai, showcasing profitable business"
+    },
+    "tweet17": {
+      "content": "Hong Kong intervenes for the third time in August to weaken local dollar as funds keep pouring in ahead of blockbuster IPOs"
+    },
+    "tweet18": {
+      "content": "Alibaba's Ant Group files for blockbuster Hong Kong, Shanghai dual listing"
+    },
+    "tweet19": {
+      "content": "Alibaba's Ant Group files for blockbuster Hong Kong, Shanghai dual listing"
+    },
+    "tweet20": {
+      "content": "Credit Suisse Head of Asia Technology to Join Xiaomi as CFO"
+    },
+    "tweet21": {
+      "content": "Tmall Luxury Connects High-End Brands with China’s &quot;New Luxury&quot; Gen Z Consumers"
+    },
+    "tweet22": {
+      "content": "Dow Jones Futures Rally On U.S.-China News: Coronavirus Vaccine News Fuels Stock Market Rally; 3 New Dow 30 Stocks Announced"
+    },
+    "tweet23": {
+      "content": "Dow Jones Futures: Coronavirus Vaccine News Fuels Stock Market Rally; 3 New Dow 30 Stocks Announced"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Post-Covid Cold War World Will Be Tough for Ant"
+    },
+    "tweet2": {
+      "content": "Julian Robertson's Top 2nd-Quarter Trades"
+    },
+    "tweet3": {
+      "content": "Top 2nd-Quarter Buys of Steven Cohen's Firm"
+    },
+    "tweet4": {
+      "content": "Bidding On Breakouts: Best Mutual Funds Bet $519 Million On Alibaba, Amazon Rival"
+    },
+    "tweet5": {
+      "content": "Exclusive: Alibaba puts India investment plan on hold amid China tensions - sources"
+    },
+    "tweet6": {
+      "content": "Prime Couture? Luxury Could Be Amazon’s Next Target."
+    },
+    "tweet7": {
+      "content": "Why Is Alibaba Expanding Its Online Gaming Business?"
+    },
+    "tweet8": {
+      "content": "China&#039;s Alibaba won&#039;t invest in Indian startups for at least six months, report says"
+    },
+    "tweet9": {
+      "content": "Exclusive: Alibaba puts India investment plan on hold amid China tensions, sources say"
+    },
+    "tweet10": {
+      "content": "Is Baozun Stock A Buy?"
+    },
+    "tweet11": {
+      "content": "Ant Group Plans What May Prove World's Largest Ever IPO"
+    },
+    "tweet12": {
+      "content": "Ant Group's mega IPO will reward staff and early investors, including the businesses of two of Hong Kong's wealthiest families"
+    },
+    "tweet13": {
+      "content": "Ant’s IPO Is Set to Make Group of Elite Insiders Very Rich"
+    },
+    "tweet14": {
+      "content": "Ant’s IPO Is Set to Make Group of Elite Insiders Very Rich"
+    },
+    "tweet15": {
+      "content": "Ant Group's key revenue drivers as it eyes $200 billion valuation"
+    },
+    "tweet16": {
+      "content": "Asia Pacific Stocks Stumble; Alibaba&#8217;s Hong Kong Shares Jump"
+    },
+    "tweet17": {
+      "content": "Ant IPO: China's mighty financial group heads for a mega market debut"
+    },
+    "tweet18": {
+      "content": "Ant Group Cites U.S. Risks in Filing for Hong Kong, Shanghai IPO"
+    },
+    "tweet19": {
+      "content": "Looks Like Trump Scared Alibaba Group Holding Limited (COMPANY_X) Investors"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Firms in Anbang Hotels Clash Said to Be ‘Trademark Trolls’"
+    },
+    "tweet2": {
+      "content": "Leju Holdings Ltd (LEJU) Q2 2020 Earnings Call Transcript"
+    },
+    "tweet3": {
+      "content": "Tiger Management Exits Alibaba, Cuts Amazon"
+    },
+    "tweet4": {
+      "content": "Alibaba In Talks To Become Top Holder In Chinese Courier YTO – Report"
+    },
+    "tweet5": {
+      "content": "Phone Giant Xiaomi Jumps to Two-Year High After Profit Beat"
+    },
+    "tweet6": {
+      "content": "Exclusive: Alibaba in talks to hike stake in Chinese courier YTO Express"
+    },
+    "tweet7": {
+      "content": "Exclusive: Alibaba in talks to hike stake in Chinese courier YTO Express"
+    },
+    "tweet8": {
+      "content": "It Took a Pandemic for Xiaomi to Realize Its Vision"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Amazon Isn’t Synonymous With Luxury. That May Be Changing."
+    },
+    "tweet2": {
+      "content": "Salesforce.com Soars After Joining IBD Long-Term Leaders List; Adobe, Alibaba Roar Higher"
+    },
+    "tweet3": {
+      "content": "Buy Alibaba Stock While It’s Still at a Good Valuation"
+    },
+    "tweet4": {
+      "content": "SoftBank Group to Sell $12.5 Billion of Wireless Unit Stock"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "You Think FAANG Is Distorting the S&P? Consider ATM"
+    },
+    "tweet2": {
+      "content": "Alibaba to Further Invest in Yunda, Boost Delivery Services"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "TikTok Interest Shows Walmart's Hidden Value"
+    },
+    "tweet2": {
+      "content": "ByteDance Chief Reconsiders TikTok Options After New China Rules"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Who Could Possibly Want Hot Pot Right Now? Investors"
+    },
+    "tweet2": {
+      "content": "This Breakout Index Identifies The Best Growth Stocks To Buy And Watch"
+    },
+    "tweet3": {
+      "content": "Airbnb Rebuffs Approach From Bill Ackman’s SPAC"
+    },
+    "tweet4": {
+      "content": "Is Alibaba Stock a Buy?"
+    },
+    "tweet5": {
+      "content": "China&#039;s logistics titan YTO nets close to $1B from Alibaba in overseas push"
+    },
+    "tweet6": {
+      "content": "Alibaba Doubles Stake In Logistics Company YTO Express With $1B Investment"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "India Bans Over a Hundred More Chinese Apps as Tensions Escalate"
+    },
+    "tweet2": {
+      "content": "Ant’s Mega IPO Sets Up Jack Ma to Escalate War With Tencent"
+    },
+    "tweet3": {
+      "content": "Ant’s Mega IPO Sets Up Jack Ma to Escalate War With Tencent"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Alibaba.com Taxis Toward The B2B e-Commerce Runway"
+    },
+    "tweet2": {
+      "content": "3 Coming IPOs That Should Be on Your Radar"
+    },
+    "tweet3": {
+      "content": "Family-Held Companies Produce Superior Returns—and Have This Year, Credit Suisse Says"
+    },
+    "tweet4": {
+      "content": "See Which Tech Titans, IPO Stocks The Best Mutual Funds Are Buying"
+    },
+    "tweet5": {
+      "content": "SoftBank Is Said to Consider Bid for TikTok in India"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "How Alibaba Stock Gained 14.4% Last Month"
+    },
+    "tweet2": {
+      "content": "Why Alibaba's Stock Is Trading Lower Today"
+    },
+    "tweet3": {
+      "content": "Beyond Meat’s New China Factory Could Help the Stock Live Up to Its Hype"
+    },
+    "tweet4": {
+      "content": "These Stocks Will Benefit From Covid-Related Trends"
+    },
+    "tweet5": {
+      "content": "Temasek’s China Exposure Surpasses Singapore for First Time"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Billionaire David Tepper Honed In On These 6 Stocks"
+    },
+    "tweet2": {
+      "content": "10 Most Profitable Companies in the World"
+    },
+    "tweet3": {
+      "content": "SoftBank Buybacks Raise Prospect of Management Buyout, Analyst Says"
+    },
+    "tweet4": {
+      "content": "SoftBank Is Said to Get $12 Billion in Wireless Stock Orders"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Ambani’s Reliance to Offer $20 Billion Stake in Retail Arm to Amazon"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "A Look Into Alibaba's Price Over Earnings"
+    },
+    "tweet2": {
+      "content": "Understanding Alibaba Group Holding's Unusual Options Activity"
+    },
+    "tweet3": {
+      "content": "TikTok Owner to Spend Billions in Singapore After U.S. Ban"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Tencent Picks Singapore as Asia Hub After India, U.S. Bans"
+    },
+    "tweet2": {
+      "content": "Part of Uber's Stake in Grab to Be Acquired by Alibaba"
+    },
+    "tweet3": {
+      "content": "2 Top Robinhood Stocks You Can Buy and Hold for a Decade"
+    },
+    "tweet4": {
+      "content": "Alibaba Is in Talks to Invest $3 Billion in Grab"
+    },
+    "tweet5": {
+      "content": "Alibaba in Talks to Invest $3 Billion in Ride-Hailing Giant Grab"
+    },
+    "tweet6": {
+      "content": "Allegro to Cash In on Online Shopping Boom With Warsaw IPO"
+    },
+    "tweet7": {
+      "content": "Alibaba in talks to invest $3 billion in Grab: Bloomberg"
+    },
+    "tweet8": {
+      "content": "Alibaba in talks to invest $3 billion in Grab: Bloomberg News"
+    },
+    "tweet9": {
+      "content": "SoftBank to Raise $10.4 Billion in Sale of Wireless Unit Stock"
+    },
+    "tweet10": {
+      "content": "SoftBank Doesn't Have an Identity Crisis. Much"
+    },
+    "tweet11": {
+      "content": "SoftBank Soars After Arm Deal, Renewed Talks to Go Private"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Amazon Launches Luxury Store on App With Just One Brand So Far"
+    },
+    "tweet2": {
+      "content": "4 Ways U.S. Investors Can Get a Piece of Ant Group's IPO"
+    },
+    "tweet3": {
+      "content": "Ambani Puts Carlyle, SoftBank on Waiting List for Reliance Retail Stakes"
+    },
+    "tweet4": {
+      "content": "Technical Assessment: Bullish in the Intermediate-Term"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Singapore Wants Cold War’s Casualties, Not Cash"
+    },
+    "tweet2": {
+      "content": "Comparing Amazon's vs. Alibaba's Business Models"
+    },
+    "tweet3": {
+      "content": "Berry Global: IBD 50 Stock With 69% EPS, 50% Sales Growth, Packages New Base"
+    },
+    "tweet4": {
+      "content": "Alibaba Could Rally Still Further in the Months Ahead"
+    },
+    "tweet5": {
+      "content": "Cargill Went Shopping for China Assets on Jack Ma’s Auction Site"
+    },
+    "tweet6": {
+      "content": "NYSE-listed Chinese delivery firm ZTO Express to raise up to US$1.6 billion in Hong Kong secondary listing"
+    },
+    "tweet7": {
+      "content": "Exclusive: Alibaba, China Mobile weigh $443 mln investment in blacklisted Dahua - sources"
+    },
+    "tweet8": {
+      "content": "Alibaba Group opens China factory as part of new manufacturing initiative"
+    },
+    "tweet9": {
+      "content": "Alibaba Group opens China factory in new manufacturing initiative"
+    },
+    "tweet10": {
+      "content": "Alibaba Unveils New Manufacturing Digital Factory"
+    },
+    "tweet11": {
+      "content": "Alibaba’s Newest Business: Modernizing China’s Factories"
+    },
+    "tweet12": {
+      "content": "Exclusive: Alibaba, China Mobile weigh $443 million investment in blacklisted Dahua - sources"
+    },
+    "tweet13": {
+      "content": "Exclusive: Alibaba, China Mobile weigh $443 million investment in blacklisted Dahua - sources"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Alibaba (COMPANY_X) to Invest $3B in Grab, Boost Asian Presence"
+    },
+    "tweet2": {
+      "content": "Alibaba Cloud Digitalizes Sports Events with More AI Solutions"
+    },
+    "tweet3": {
+      "content": "Alibaba Debuts Cloud Computer, Delivery Robots at Cloud Computing Conference"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Short Sellers Piling Into Chinese Stocks As Trade Tensions Rise"
+    },
+    "tweet2": {
+      "content": "IBD Stock Of The Day: This China Cloud IPO Stock Shows Strength In Volatile Market"
+    },
+    "tweet3": {
+      "content": "World's Top 10 Internet Companies"
+    },
+    "tweet4": {
+      "content": "Alibaba Group to Host Investor Day"
+    },
+    "tweet5": {
+      "content": "A Continuous Journey of Digital Transformation, Alibaba Cloud and Its Global Customers at Apsara 2020"
+    },
+    "tweet6": {
+      "content": "SoftBank’s Sale of Wireless Stock Said to Draw Excess Demand"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Treasury Has $541 Billion of Dirty Little Secrets"
+    },
+    "tweet2": {
+      "content": "Jack Ma's Ant Group Lifts IPO Plan to $35 Billion"
+    },
+    "tweet3": {
+      "content": "Alibaba Retests Buy Area, Holds Support"
+    },
+    "tweet4": {
+      "content": "Alibaba's Latest Launches Boost Computing, E-commerce Strength"
+    },
+    "tweet5": {
+      "content": "Better Buy: Alibaba vs. Alphabet"
+    },
+    "tweet6": {
+      "content": "Alibaba's Ant Financial Aims To Raise World's Largest Ever IPO At $35B"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Top 20 Richest People In The World"
+    },
+    "tweet2": {
+      "content": "Dow Jones Futures: Stock Market Rally Gets Boost From Apple, Big Techs; Tesla Falls On Elon Musk Battery Day News"
+    },
+    "tweet3": {
+      "content": "Better Buy: Baidu vs. Alibaba"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Singapore Blue-Chip Veteran to Raise Funds for New Venture Firm"
+    },
+    "tweet2": {
+      "content": "Magic Leap Tried to Create an Alternate Reality. Its Founder Was Already in One"
+    },
+    "tweet3": {
+      "content": "Richard Li’s FWD Plans Up to $3 Billion Hong Kong IPO"
+    },
+    "tweet4": {
+      "content": "Daily Spotlight: Inflation Ticks Higher"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "'Halftime Report' Traders Weigh In On Slack, CBS And Alibaba"
+    },
+    "tweet2": {
+      "content": "American Image Awards Recognizes Fashion Industry’s Resilience"
+    },
+    "tweet3": {
+      "content": "China’s new richest person is a bottled water tycoon"
+    },
+    "tweet4": {
+      "content": "Ant Plans $17.5 Billion Hong Kong IPO, No Cornerstones"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "JD.com, IBD Stock Of The Day, Remains One To Watch In A Tough Market"
+    },
+    "tweet2": {
+      "content": "JMIA Stock Shows It’s Possible to Shop for Value Rather Than Buying Hype"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Alibaba’s Investor Event Has Started. What Wall Street Is Saying."
+    },
+    "tweet2": {
+      "content": "BofA Bullish On Alibaba As Investor Conference Kicks Off"
+    },
+    "tweet3": {
+      "content": "Alibaba, PepsiCo, Micron, Chevron, and Other Stocks to Watch This Week"
+    },
+    "tweet4": {
+      "content": "Analyst Report: Alibaba Group Holding Limited"
+    },
+    "tweet5": {
+      "content": "Crypto Broker Sees Users Drawn to Bots to Beat Volatile Trading"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Dow Jones Futures: Stock Market Rally Attempt Stumbles Ahead Of Trump-Biden Debate; Tesla Vehicle Deliveries Due"
+    },
+    "tweet2": {
+      "content": "IBD 50 Stocks To Watch: Chinese Retail Leader Alibaba Rebounds From Key Support Level"
+    },
+    "tweet3": {
+      "content": "Alibaba's Offline/Online Business Models Expand Market Opportunity, Analyst Says"
+    },
+    "tweet4": {
+      "content": "Analyzing Alibaba Group Holding's Unusual Options Activity"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

@@ -1,0 +1,844 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "COMPANY_X Raises Its Dividend by 10%"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Why Isn’t Everyone Investing in Stocks?"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Got $1,000? Now Is a Perfect Time to Invest in These Robinhood Favorites"
+    },
+    "tweet2": {
+      "content": "5 Stocks That Miss Your Morning Commute"
+    },
+    "tweet3": {
+      "content": "Best Stocks for YEAR_X: PEER_COMPANY Stock Has Greatly Improved Its Outlook"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "UK watchdog bans Bitcoin-based products for retail investors"
+    },
+    "tweet2": {
+      "content": "Will This Small Change Boost COMPANY_X' Share Price?"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Forget Coca-Cola, COMPANY_X Is a Better Dividend Stock"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Say Goodbye to Your Local Coffee Shop in America’s Cafe Shakeup"
+    },
+    "tweet2": {
+      "content": "McDonald’s Boosts Dividend as U.S. Sales Turn Positive"
+    },
+    "tweet3": {
+      "content": "5 Food and Service Industry Stocks That Thames Capital Has Been Gorging On"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Dunkin' Vs. COMPANY_X: Which Chain Won National Coffee Day?"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Beyond Meat Launching Plant-Based Burgers at More KFC China Locations"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "PEER_COMPANY Earnings Preview Shows It Isn't Out of the Woods Yet"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "COMPANY_X Plans Mentorships, Data Reports in Diversity Effort"
+    },
+    "tweet2": {
+      "content": "Watch out for Dunkin' Spicy Ghost Pepper Donut mania: stock strategist"
+    },
+    "tweet3": {
+      "content": "COMPANY_X to launch program focused on diversity"
+    },
+    "tweet4": {
+      "content": "COMPANY_X announces new diversity targets, links executive compensation to hitting goals"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "Addressing inequality in America"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Announces Q4 and Fiscal Year YEAR_X Results Conference Call"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Links Pay to Diversity Targets, Releases More Data"
+    },
+    "tweet4": {
+      "content": "Fastly Stock’s Tumble Is a Warning to Tech Investors Everywhere"
+    },
+    "tweet5": {
+      "content": "4 Stocks to Start Your Investing Right Now"
+    },
+    "tweet6": {
+      "content": "Could COMPANY_X Be a Millionaire-Maker Stock?"
+    },
+    "tweet7": {
+      "content": "Tata Group Chases E-Commerce Deals to Bolster Retail"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Stock Market Today With Jim Cramer: Boeing's Election Choice"
+    },
+    "tweet2": {
+      "content": "America badly needs more stimulus, former longtime PEER_PRODUCT CEO says"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Stock Moves -1.04%: What You Should Know"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "3 Great Stocks for Low-Risk Investors"
+    },
+    "tweet2": {
+      "content": "Moody's - US restaurant industry outlook moved to stable as consumers gradually return to dining out, restrictions slowly ease"
+    },
+    "tweet3": {
+      "content": "Moody's - US restaurant industry outlook moved to stable as consumers gradually return to dining out, restrictions slowly ease"
+    },
+    "tweet4": {
+      "content": "Better Buy: COMPANY_X vs. Domino's Pizza"
+    },
+    "tweet5": {
+      "content": "4 Fast-Food Stocks Worth Betting On"
+    },
+    "tweet6": {
+      "content": "Photo of COMPANY_X Holiday At-Home Portrait Series with Nate Berkus Available on Business Wire's Website and the Associated Press Photo Network"
+    },
+    "tweet7": {
+      "content": "How Retailers Use Artificial Intelligence to Know What You Want to Buy Before You Do"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Impossible Foods CEO:‘Beyond Meat is not our competition', the incumbent animal industry is"
+    },
+    "tweet2": {
+      "content": "Return On Capital Employed Overview: COMPANY_X"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Expected to Beat Earnings Estimates: Can the Stock Move Higher?"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "3 Things You'll Want to Know When COMPANY_X Announces Earnings"
+    },
+    "tweet2": {
+      "content": "3 Things You'll Want to Know When COMPANY_X Announces Earnings"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "COMPANY_X, Yum sales likely recovered, but new costs may weigh"
+    },
+    "tweet2": {
+      "content": "Were These Hedge Funds Right About Dumping COMPANY_X (COMPANY_X)?"
+    },
+    "tweet3": {
+      "content": "Dunkin' Brands Stock: What to Watch When It Reports Earnings"
+    },
+    "tweet4": {
+      "content": "Dunkin' Brands Stock: What to Watch When It Reports Earnings"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "COMPANY_X Earnings: What to Look For From COMPANY_X"
+    },
+    "tweet2": {
+      "content": "Here's why 10,000 Burger King drive-thrus are going digital"
+    },
+    "tweet3": {
+      "content": "What's in the Offing for COMPANY_X (COMPANY_X) in Q4 Earnings?"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Reports Earnings Thursday. Here’s What to Expect."
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Restaurant Stocks' Oct 29 Earnings Roster: COMPANY_X, YUM & More"
+    },
+    "tweet2": {
+      "content": "Should You Buy COMPANY_X (COMPANY_X) Ahead of Earnings?"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "COMPANY_X Beat Earnings Expectations as Stores Reopened. Shares Are Down."
+    },
+    "tweet2": {
+      "content": "Big Tech (Mostly) Blows Doors Off Estimates: AAPL, AMZN, GOOGL, FB & COMPANY_X"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Earnings: What Happened with COMPANY_X"
+    },
+    "tweet4": {
+      "content": "COMPANY_X (COMPANY_X) Beats Q4 Earnings and Revenue Estimates"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Earnings Beat, But Stock Falls On Mixed Outlook"
+    },
+    "tweet6": {
+      "content": "COMPANY_X Signals Worst Is Past Following Quarterly Sales Drop"
+    },
+    "tweet7": {
+      "content": "COMPANY_X sees hotter-than-expected earnings for YEAR_X"
+    },
+    "tweet8": {
+      "content": "Recap: COMPANY_X Q4 Earnings"
+    },
+    "tweet9": {
+      "content": "COMPANY_X says it lost $1.2 billion in fiscal Q4 sales because of the pandemic"
+    },
+    "tweet10": {
+      "content": "COMPANY_X Reports Q4 Fiscal YEAR_X Results"
+    },
+    "tweet11": {
+      "content": "COMPANY_X Earnings Due With COMPANY_X Near Buy Point As Coffee Chain Banks On Digital-Led Rebound"
+    },
+    "tweet12": {
+      "content": "The Returns At COMPANY_X (NASDAQ:COMPANY_X) Provide Us With Signs Of What's To Come"
+    },
+    "tweet13": {
+      "content": "Watch Now: Here's What’s Moving Markets - October 29 (Video)"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Coffee Klatch: Corporates Stir Up Rewards; Indie Shops Face Closure"
+    },
+    "tweet2": {
+      "content": "Jim Lebenthal On The Future Of COMPANY_X"
+    },
+    "tweet3": {
+      "content": "Coffee in the coronavirus era: COMPANY_X and Dunkin' forced to close hundreds of stores"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: Amazon, Google, Facebook, COMPANY_X and Apple"
+    },
+    "tweet5": {
+      "content": "3 Stocks for Beginners to Put Their Trust In"
+    },
+    "tweet6": {
+      "content": "U.S. Personal Income, Spending Increase by More Than Forecast"
+    },
+    "tweet7": {
+      "content": "COMPANY_X (COMPANY_X) Q4 Earnings & Revenues Surpass Estimates"
+    },
+    "tweet8": {
+      "content": "COMPANY_X CEO on how he's building a resilient company during the coronavirus pandemic"
+    },
+    "tweet9": {
+      "content": "COMPANY_X Cools Despite Quarterly Earnings Beat"
+    },
+    "tweet10": {
+      "content": "P/E Ratio Insights for COMPANY_X"
+    },
+    "tweet11": {
+      "content": "COMPANY_X CEO Talks Store Traffic, Growth Drivers, Chinese Consumers"
+    },
+    "tweet12": {
+      "content": "Etsy, Spotify, and COMPANY_X: What These Investors Were Watching"
+    },
+    "tweet13": {
+      "content": "COMPANY_X Predicts a Robust Growth Rebound Over the Next Year"
+    },
+    "tweet14": {
+      "content": "Analyst Report: COMPANY_X"
+    },
+    "tweet15": {
+      "content": "COMPANY_X (COMPANY_X) DATE_REF Earnings Call Transcript"
+    },
+    "tweet16": {
+      "content": "There’s No Proof Yet That PEER_COMPANY Deserves Investment"
+    },
+    "tweet17": {
+      "content": "COMPANY_X Foresees Revenue And Margin Recovery By YEAR_X"
+    },
+    "tweet18": {
+      "content": "COMPANY_X Tops 4Q Estimates, Sees Strong Global Comps In DATE_REF"
+    },
+    "tweet19": {
+      "content": "COMPANY_X Posts Better-Than-Expected Profit in Q4, Forecasts a Strong Recovery in DATE_REF"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "COMPANY_X Just Beat Earnings Expectations: Here's What Analysts Think Will Happen Next"
+    },
+    "tweet2": {
+      "content": "Morning Bell With Jim Cramer: Alphabet Had the Best Quarter"
+    },
+    "tweet3": {
+      "content": "Companies' future tax rates may hinge on election results"
+    },
+    "tweet4": {
+      "content": "Dunkin' Brands is going private in an $8.8 billion deal by Arby's owner— why it's not a shock"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Plans Laos Entry But Will Find It Tough In A Market Dominated By Local Vendors"
+    },
+    "tweet6": {
+      "content": "COMPANY_X to open in Laos as part of Asian expansion"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Will ETFs Gain on COMPANY_X' Q4 Earnings Beat Amid Pandemic?"
+    },
+    "tweet2": {
+      "content": "Why you can now finally get chicken thighs from this buffalo wing chain"
+    },
+    "tweet3": {
+      "content": "COMPANY_X' COVID-19 Recovery Accelerates"
+    },
+    "tweet4": {
+      "content": "COMPANY_X' COVID-19 Recovery Accelerates"
+    },
+    "tweet5": {
+      "content": "Get Paid While You Wait: 3 Top Dividend Stocks in the Food Industry"
+    },
+    "tweet6": {
+      "content": "Analyst Report: COMPANY_X"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "PEER_COMPANY Earnings: What to Watch"
+    },
+    "tweet2": {
+      "content": "PEER_COMPANY Earnings: What to Watch"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Big Tech Reports"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Will Offer Free Collectible Cups Starting Friday"
+    },
+    "tweet3": {
+      "content": "Morning Bell With Jim Cramer: Buy Healthcare Stocks"
+    },
+    "tweet4": {
+      "content": "COMPANY_X holiday coffee flavors and cups heading to stores on Friday"
+    },
+    "tweet5": {
+      "content": "Analyst Report: COMPANY_X."
+    },
+    "tweet6": {
+      "content": "Market Digest: EL, ETN, NOK, COMPANY_X, TMO, CHTR, CARR, OTIS"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Better Buy: COMPANY_X vs. PEER_COMPANY"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Sees a Brighter Fiscal YEAR_X Ahead"
+    },
+    "tweet3": {
+      "content": "3 Takeaways From COMPANY_X' Q4 Earnings"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Beyond Meat Stock Tumbles After McDonald’s Launches McPlant"
+    },
+    "tweet2": {
+      "content": "Top Stock Reports for NVIDIA, Netflix & COMPANY_X"
+    },
+    "tweet3": {
+      "content": "3 Top Consumer Discretionary Stocks to Watch in November"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: NVIDIA, Netflix, COMPANY_X, Pfizer, Estee Lauder and Stryker"
+    },
+    "tweet2": {
+      "content": "Target Is Partnering With Ulta Beauty — and Is One Step Closer to Becoming the 21st Century Department Store"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Beyond Meat pizza will help Pizza Hut become America's favorite again, interim president says"
+    },
+    "tweet2": {
+      "content": "PEER_COMPANY Takes a Big Step Forward"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Up 20% in 3 Months: Can the Bull Run Continue?"
+    },
+    "tweet2": {
+      "content": "COMPANY_X' Better-Than-Expected Fourth Quarter Means Growth Is on the Horizon"
+    },
+    "tweet3": {
+      "content": "Investing $1,000 in These Top Stocks Would Be Brilliant As We Edge Closer to a Coronavirus Vaccine"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Why The COMPANY_X Red Cup Day Was 'Shockingly Effective'"
+    },
+    "tweet2": {
+      "content": "Winter Is Coming. Get a New Hobby."
+    },
+    "tweet3": {
+      "content": "The PEER_COMPANY of the future will revolve around your 5G iPhone"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Beyond Meat moves closer to its perfect burger"
+    },
+    "tweet2": {
+      "content": "Covid-19 Is Still a Risk to Earnings, but Companies Are Increasingly Confident in Dividends"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Analyzing COMPANY_X's Unusual Options Activity"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "COMPANY_X Raises Pay for Baristas Amid Climbing U.S. Wages"
+    },
+    "tweet2": {
+      "content": "COMPANY_X to hike U.S. employee pay at least 10%: memo"
+    },
+    "tweet3": {
+      "content": "Better Buy: Disney vs. COMPANY_X"
+    },
+    "tweet4": {
+      "content": "15 Best Gourmet Coffee Brands In The World"
+    },
+    "tweet5": {
+      "content": "15 Largest Beverage Companies in the World"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "COMPANY_X raises pay wages for baristas amid pandemic"
+    },
+    "tweet2": {
+      "content": "Bill Ackman is auctioning off a lunch meeting and promises to make it 'worth the while'"
+    },
+    "tweet3": {
+      "content": "Nvidia, AstraZeneca, COMPANY_X, Macy's - 5 Things You Must Know Thursday"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Hikes US Barista Wages By 10% In Preparation For Biden Presidency: Report"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Raising Employee Pay at Least 10%: Reports"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Slowing Retail Sales Could Lead to a Channel"
+    },
+    "tweet2": {
+      "content": "President-elect Biden's tax plan will likely make companies leave the US: NYC billionaire businessman"
+    },
+    "tweet3": {
+      "content": "A Vaccine Helps COMPANY_X and Shake Shack Stock, but Only One Is a Buy"
+    },
+    "tweet4": {
+      "content": "COMPANY_X to Raise Store Employee Pay by at Least 10%"
+    },
+    "tweet5": {
+      "content": "COMPANY_X barista who declined to wear 'PRIDE' T-shirt sues over firing"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "A Lesson From COMPANY_X"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "COMPANY_X to Host Biennial Investor Day on DATE_REF"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Dividends? Growth? Why Not Both?"
+    },
+    "tweet2": {
+      "content": "3 Stocks to Help You Build Retirement Wealth"
+    },
+    "tweet3": {
+      "content": "3 Growth Stocks to Buy and Hold for the Next 50 Years"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "3 Stocks You Can Keep Forever"
+    },
+    "tweet2": {
+      "content": "3 Dividend Stocks Perfect for Retirees"
+    },
+    "tweet3": {
+      "content": "15 Largest Fast Food Companies in the World"
+    },
+    "tweet4": {
+      "content": "Asia Coffee Comeback Props Up Biggest Specialty Grower in Brazil"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "Is COMPANY_X (COMPANY_X) A Good Stock To Buy Now?"
+    },
+    "tweet2": {
+      "content": "World’s Biggest Coffee Crop Is Wilting in a Relentless Dry Spell"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "Why COMPANY_X Is a Buy Ahead of Its Investor Day"
+    },
+    "tweet2": {
+      "content": "COMPANY_X to offer free coffee to frontline workers throughout December"
+    },
+    "tweet3": {
+      "content": "Oyo Has $1 Billion to Fund Operations Until IPO, CEO Tells Employees"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "COMPANY_X’ (NASDAQ:COMPANY_X) 100% Return Could Be Coming At A Cost"
+    },
+    "tweet3": {
+      "content": "Why COMPANY_X Stock Rose 12.7% in November"
+    },
+    "tweet4": {
+      "content": "COMPANY_X offers free coffee to frontline responders during December"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "There Is No Money in High-end Coffee For Guatemalan Growers"
+    },
+    "tweet2": {
+      "content": "Here’s What to Expect From COMPANY_X’ Investor Day"
+    },
+    "tweet3": {
+      "content": "COMPANY_X To Provide Free Coffee To COVID-19 First Responders This Holiday Season"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "It’s Stock Pickers’ Time to Shine. The Market Is Less Macro-Driven Now."
+    },
+    "tweet2": {
+      "content": "COMPANY_X stock rallies to another record after analysts boost price target ahead of Investor Day"
+    },
+    "tweet3": {
+      "content": "Is Wall Street Ready to Work on China Time?"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "Hopes Are High for COMPANY_X’ Investor Day"
+    },
+    "tweet2": {
+      "content": "ROCE Insights For COMPANY_X"
+    },
+    "tweet3": {
+      "content": "Why There Will Be Little Holiday Cheer for Restaurant Stocks This Year"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "3 Restaurant Stocks Investors Should Own Ahead Of Vaccine Rollout"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "COMPANY_X Raises Long-Term Forecast"
+    },
+    "tweet2": {
+      "content": "COMPANY_X stock rises after retailer's guidance calls for 'significant' YEAR_X rebound"
+    },
+    "tweet3": {
+      "content": "COMPANY_X eyes walk-thru stores, technology to power post-pandemic growth"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Outlines Vision for the Future and Reaffirms Strategy for Continued Growth at Scale, Updates Ongoing Growth Model Signaling Company is Stronger and More Resilient Than Ever"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Boosts Outlook, Sees 20,000 More Cafes With Worst Over"
+    },
+    "tweet6": {
+      "content": "Top Coffee Stocks for DATE_REF"
+    },
+    "tweet7": {
+      "content": "COMPANY_X Names Mellody Hobson Non-Executive Chairman"
+    },
+    "tweet8": {
+      "content": "COMPANY_X names Mellody Hobson non-executive board chair"
+    },
+    "tweet9": {
+      "content": "COMPANY_X Names Hobson Chair in Gain for Black Directors"
+    },
+    "tweet10": {
+      "content": "COMPANY_X Taps a Black Director, Mellody Hobson, as Chairwoman"
+    },
+    "tweet11": {
+      "content": "Where Will COMPANY_X Be in 5 Years?"
+    },
+    "tweet12": {
+      "content": "COMPANY_X names Mellody Hobson as non-executive board chair"
+    },
+    "tweet13": {
+      "content": "COMPANY_X Announces the Appointment of Mellody Hobson as Non-Executive Chair of the Board"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "Dow Jones Down Modestly While Nasdaq Leads Market; Airbnb IPO Soars"
+    },
+    "tweet2": {
+      "content": "COMPANY_X' China Business Recovers and the Charts Climb to New All-Time Highs"
+    },
+    "tweet3": {
+      "content": "COMPANY_X says cold beverages have driven more than $1 billion in sales over the last three years"
+    },
+    "tweet4": {
+      "content": "Dow Jones Loses 100 Points As Market Weighs Jobless Claims; Watch These Hot IPO Stocks"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Climbs After Forecast - What Wall Street Is Saying"
+    },
+    "tweet6": {
+      "content": "COMPANY_X to add oat milk to menus nationwide in spring YEAR_X, debut new Shaken Iced PRODUCT_COFFEE drink"
+    },
+    "tweet7": {
+      "content": "COMPANY_X Piping Hot After Long-Term Guidance Update"
+    },
+    "tweet8": {
+      "content": "COMPANY_X Casually Lays Out a Plan to Dethrone PEER_COMPANY"
+    },
+    "tweet9": {
+      "content": "Dow Jones, Stocks Turn Mixed After Jobless Claims Surge; Vaccine Hearing Looms; Tesla Gets A Downgrade"
+    },
+    "tweet10": {
+      "content": "COMPANY_X (COMPANY_X) Hikes Long-term Guidance, Shares Rise"
+    },
+    "tweet11": {
+      "content": "COMPANY_X' surging as company eyes 55,000 stores by YEAR_X"
+    },
+    "tweet12": {
+      "content": "Dow Jones Futures Dip, Tesla Stock Downgrade Drags On Nasdaq As Jobs Data, FDA Vaccine Hearing Loom"
+    },
+    "tweet13": {
+      "content": "COMPANY_X's Debt Overview"
+    },
+    "tweet14": {
+      "content": "COMPANY_X Headed for Outsized Growth, Shares Pop"
+    },
+    "tweet15": {
+      "content": "What Do Wall Street Analysts Think After COMPANY_X Investor Day?"
+    },
+    "tweet16": {
+      "content": "COMPANY_X Perks Up on Positive YEAR_X Outlook"
+    },
+    "tweet17": {
+      "content": "COMPANY_X To Introduce Iced Shaken PRODUCT_COFFEE, Oatmilk As Cold Beverages Drive Growth"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "The Empires Strike Back: COMPANY_X and Disney Can Still Offer Investors Growth."
+    },
+    "tweet2": {
+      "content": "Q4 Earnings Season Update and Analyst Reports for BHP, COMPANY_X & Snap"
+    },
+    "tweet3": {
+      "content": "PEER_COMPANY Stock Is Just Not a Viable Bet Anymore"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "If You Put $1000 Into COMPANY_X Stock Last January, Here's How Much You'd Have Now"
+    },
+    "tweet2": {
+      "content": "COMPANY_X (COMPANY_X) Gains As Market Dips: What You Should Know"
+    },
+    "tweet3": {
+      "content": "COMPANY_X to Participate at the Wolfe Research Consumer Access Day"
+    },
+    "tweet4": {
+      "content": "COMPANY_X COO Roz Brewer on how the company has adjusted business due to COVID-19"
+    },
+    "tweet5": {
+      "content": "Battered restaurant industry needs coronavirus stimulus help now: Dunkin' Brands chairman"
+    },
+    "tweet6": {
+      "content": "Peloton Interactive Stock Gets Modest Bump From Nasdaq 100 Inclusion"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "COMPANY_X suspends U.S. Happy Hours due to crowd concerns as COVID-19 surges"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Isn't Done Growing in the U.S."
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "Domino's to pay frontline workers nearly $10M in holiday bonuses in effort to 'put people first'"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "Wells Fargo Commercial Mortgage Trust YEAR_X-SG1 -- Moody's affirms two and downgrades one class of WFCM YEAR_X-SG1"
+    },
+    "tweet2": {
+      "content": "Wells Fargo Commercial Mortgage Tr YEAR_X-SG1 -- Moody's affirms two and downgrades one class of WFCM YEAR_X-SG1"
+    },
+    "tweet3": {
+      "content": "50 of 100 Largest U.S. Public Companies Agree to Release Key Diversity Data"
+    },
+    "tweet4": {
+      "content": "PEER_COMPANY to pay US$180 million to settle SEC charges of accounting fraud as it inflated numbers to rival COMPANY_X"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "COMPANY_X vs. Dunkin' taste test — which coffee chain has the superior holiday drinks?"
+    },
+    "tweet2": {
+      "content": "Better Buy: PEER_COMPANY vs. COMPANY_X"
+    },
+    "tweet3": {
+      "content": "3 Great Stocks for Low-Risk Investors"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "What to Make of COMPANY_X' Optimism"
+    },
+    "tweet2": {
+      "content": "COMPANY_X (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet3": {
+      "content": "How BlackRock Is Encouraging Companies to Go Green"
+    },
+    "tweet4": {
+      "content": "Want to Grow Your Money? Buy COMPANY_X"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "Why COMPANY_X's Stock Just Hit a New High"
+    },
+    "tweet2": {
+      "content": "2 Stocks Worth Holding Forever"
+    },
+    "tweet3": {
+      "content": "YEAR_X Stock Market Review"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "Beyond Meat, Impossible Foods, Oatly: The alternative food brands that defined COVID-19 era eating"
+    },
+    "tweet2": {
+      "content": "PEER_COMPANY, Burger King and other fast food giants see a 52% decline in foot traffic in December: RPT"
+    },
+    "tweet3": {
+      "content": "Better Buy: Costco vs. COMPANY_X"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Gains As Market Dips: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Retail’s Boom-and-Bust YEAR_X, in 10 Charts"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "Markets Close Higher on Penultimate Trading Day of YEAR_X"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Brews Up Some Improved Technical Strength As Year Ends"
+    },
+    "tweet3": {
+      "content": "COMPANY_X (COMPANY_X) Up 20% YTD: Can the Rally Continue in YEAR_X?"
+    },
+    "tweet4": {
+      "content": "2 Best Robinhood Stocks to Buy for YEAR_X"
+    },
+    "tweet5": {
+      "content": "3 Great Dividend Stocks Whose Payouts Could Double"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "PEER_COMPANY or COMPANY_X: Which Stock is More Appetizing?"
+    },
+    "tweet2": {
+      "content": "Don't Waste Your Money on Penny Stocks -- These Large-Cap Stocks Are Better Buys"
+    },
+    "tweet3": {
+      "content": "COMPANY_X May Be Building Out Walk-Thru Stores -- Will More Businesses Follow Suit?"
+    },
+    "tweet4": {
+      "content": "How to Find the Best Dividend Stocks"
+    }
+  }
+}

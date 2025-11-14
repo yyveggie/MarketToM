@@ -1,0 +1,4376 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Here's Why You Should Hold Deere Stock in Your Portfolio"
+    },
+    "tweet2": {
+      "content": "Here's Why You Should Hold Deere Stock in Your Portfolio"
+    },
+    "tweet3": {
+      "content": "Better Buy for 2019: Caterpillar vs. Deere"
+    },
+    "tweet4": {
+      "content": "Better Buy for 2019: Caterpillar vs. Deere"
+    },
+    "tweet5": {
+      "content": "Better Buy for 2019: Caterpillar vs. Deere"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Noteworthy Tuesday Option Activity: FB, AAPL, COMPANY_X"
+    },
+    "tweet2": {
+      "content": "Noteworthy Tuesday Option Activity: FB, AAPL, COMPANY_X"
+    },
+    "tweet3": {
+      "content": "The Four Key Questions to Consider Before Buying Caterpillar Stock"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Correction: Gadget Show-New Exhibitors story"
+    },
+    "tweet2": {
+      "content": "Correction: Gadget Show-New Exhibitors story"
+    },
+    "tweet3": {
+      "content": "Why Tractor Supply Stock Slumped 12.3% in December"
+    },
+    "tweet4": {
+      "content": "See what the IHS Markit Score report has to say about Deere & Co."
+    },
+    "tweet5": {
+      "content": "We're techy, too! Deere, Tide maker head to CES gadget show"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Deere Launches L-Series Mid-Size Loaders"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Chinese consumers are taking sides in the trade war and that's bad news for US companies: Cramer"
+    },
+    "tweet2": {
+      "content": "Nothing Runs Like A Deere At CES; Farm Gear Giant Crashes Gadget Show"
+    },
+    "tweet3": {
+      "content": "Agribusiness ETF Experiences Big Outflow"
+    },
+    "tweet4": {
+      "content": "Agribusiness ETF Experiences Big Outflow"
+    },
+    "tweet5": {
+      "content": "[$$] Deere, Siemens Adapt to Industrial AI"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "John Deere Credit Compania Financiera S.A. -- Moody´s affirms all ratings of John Deere Credit Compañía Financiera"
+    },
+    "tweet2": {
+      "content": "Cummins Announces CFO Change"
+    },
+    "tweet3": {
+      "content": "Deere Gets Six Agricultural Innovation Awards"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Is Deere & Company’s (NYSE:COMPANY_X) CEO Paid At A Competitive Rate?"
+    },
+    "tweet2": {
+      "content": "See what the IHS Markit Score report has to say about Deere & Co."
+    },
+    "tweet3": {
+      "content": "Deere touts AI, self-driving tractor"
+    },
+    "tweet4": {
+      "content": "John Deere Credit Compania Financiera S.A. -- Moody´s affirms all ratings of John Deere Credit Compañía Financiera"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "Top Analyst Reports for Procter & Gamble, NVIDIA & Bristol-Myers"
+    },
+    "tweet2": {
+      "content": "On the autofarm: China turns to driverless tractors, combines to overhaul agriculture"
+    },
+    "tweet3": {
+      "content": "On the autofarm: China turns to driverless tractors, combines to overhaul agriculture"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Notable Thursday Option Activity: FUL, COMPANY_X, FSLR"
+    },
+    "tweet2": {
+      "content": "Notable Thursday Option Activity: FUL, COMPANY_X, FSLR"
+    },
+    "tweet3": {
+      "content": "John Deere wants to remind the world that it’s a tech company"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: Procter & Gamble, NVIDIA, Bristol-Myers, Deere and Ecolab"
+    },
+    "tweet5": {
+      "content": "Edited Transcript of COMPANY_X earnings conference call or presentation 21-Nov-18 3:00pm GMT"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Stock Market News For Jan 22, 2019"
+    },
+    "tweet2": {
+      "content": "Stock Market News For Jan 22, 2019"
+    },
+    "tweet3": {
+      "content": "December Manufacturing Output Records 10-Month High: 5 Picks"
+    },
+    "tweet4": {
+      "content": "December Manufacturing Output Records 10-Month High: 5 Picks"
+    },
+    "tweet5": {
+      "content": "Stock Market News For Jan 22, 2019"
+    },
+    "tweet6": {
+      "content": "December Manufacturing Output Records 10-Month High: 5 Picks"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: DXP Enterprises, Milacron, Twin Disc, Deere and Colfax"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: DXP Enterprises, Milacron, Twin Disc, Deere and Colfax"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: DXP Enterprises, Milacron, Twin Disc, Deere and Colfax"
+    },
+    "tweet4": {
+      "content": "See what the IHS Markit Score report has to say about Deere & Co."
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Top Analyst Reports for Caterpillar, Microsoft & General Dynamics"
+    },
+    "tweet2": {
+      "content": "Top Analyst Reports for Caterpillar, Microsoft & General Dynamics"
+    },
+    "tweet3": {
+      "content": "Top Analyst Reports for Caterpillar, Microsoft & General Dynamics"
+    },
+    "tweet4": {
+      "content": "See what the IHS Markit Score report has to say about Deere & Co."
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "How Caterpillar Stock Performed since Its Q3 Earnings"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Caterpillar, Microsoft, General Dynamics, IBM and Deere"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Caterpillar, Microsoft, General Dynamics, IBM and Deere"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: Caterpillar, Microsoft, General Dynamics, IBM and Deere"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Stocks - Dow Dragged Down by Caterpillar, Nvidia"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "3M’s Q4 2018 Earnings Beat Estimates, Stock Trades in the Green"
+    },
+    "tweet2": {
+      "content": "See what the IHS Markit Score report has to say about Deere & Co."
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Key Takeaways From Caterpillar's Q4"
+    },
+    "tweet2": {
+      "content": "Key Takeaways From Caterpillar's Q4"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "See what the IHS Markit Score report has to say about Deere & Co."
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Nvidia, Deere Among Hot Stocks With Upcoming Earnings"
+    },
+    "tweet2": {
+      "content": "AI’s Rising Tide Lifts Industry Verticals"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Luminex Corp (LMNX) Q4 2018 Earnings Conference Call Transcript"
+    },
+    "tweet2": {
+      "content": "Luminex Corp (LMNX) Q4 2018 Earnings Conference Call Transcript"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Alamo Group to introduce new multifunction tractor"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Deere (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Noteworthy Thursday Option Activity: FIS, COMPANY_X, TPR"
+    },
+    "tweet3": {
+      "content": "Noteworthy Thursday Option Activity: FIS, COMPANY_X, TPR"
+    },
+    "tweet4": {
+      "content": "How Many Deere & Company (NYSE:COMPANY_X) Shares Do Institutions Own?"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Deere (COMPANY_X) Earnings Expected to Grow: Should You Buy?"
+    },
+    "tweet2": {
+      "content": "Stock Market News For Feb 8, 2019"
+    },
+    "tweet3": {
+      "content": "See what the IHS Markit Score report has to say about Deere & Co."
+    },
+    "tweet4": {
+      "content": "Cramer Remix: If the market drops tomorrow, buy this stock"
+    },
+    "tweet5": {
+      "content": "Cramer Remix: If the market drops tomorrow, buy this stock"
+    },
+    "tweet6": {
+      "content": "Cramer&apos;s lightning round: Morgan Stanley has great opportunity"
+    },
+    "tweet7": {
+      "content": "Cramer's lightning round: Morgan Stanley has great opportunity"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Earnings Growth Deceleration Details"
+    },
+    "tweet2": {
+      "content": "Deere (COMPANY_X) to Report Q1 Earnings: What's in the Offing?"
+    },
+    "tweet3": {
+      "content": "Deere (COMPANY_X) to Report Q1 Earnings: What's in the Offing?"
+    },
+    "tweet4": {
+      "content": "Earnings Potpourri: Coca-Cola, Deere, Cisco Report This Week, But Trade Talks Dominate"
+    },
+    "tweet5": {
+      "content": "Stock Market News For Feb 8, 2019"
+    },
+    "tweet6": {
+      "content": "Stock Market News For Feb 8, 2019"
+    },
+    "tweet7": {
+      "content": "Deere (COMPANY_X) Earnings Expected to Grow: Should You Buy?"
+    },
+    "tweet8": {
+      "content": "Deere (COMPANY_X) Earnings Expected to Grow: Should You Buy?"
+    },
+    "tweet9": {
+      "content": "Deere (COMPANY_X) to Report Q1 Earnings: What's in the Offing?"
+    },
+    "tweet10": {
+      "content": "Top 5 Things to Know in the Market on Monday"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "XLI, UPS, CSX, COMPANY_X: Large Outflows Detected at ETF"
+    },
+    "tweet2": {
+      "content": "XLI, UPS, CSX, COMPANY_X: Large Outflows Detected at ETF"
+    },
+    "tweet3": {
+      "content": "Why Loeb Cut Exposure to Netflix, Microsoft, and Alibaba in Q4"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "5 Must See Earnings Charts"
+    },
+    "tweet2": {
+      "content": "5 Must See Earnings Charts"
+    },
+    "tweet3": {
+      "content": "Deere Stock Dips on Downgrade"
+    },
+    "tweet4": {
+      "content": "Deere Stock Dips on Downgrade"
+    },
+    "tweet5": {
+      "content": "5 Must See Earnings Charts"
+    },
+    "tweet6": {
+      "content": "Deere Stock Dips on Downgrade"
+    },
+    "tweet7": {
+      "content": "Bank Of America Downgrades Deere After Big Run"
+    },
+    "tweet8": {
+      "content": "Deere is crushing Caterpillar this year, but experts say that's about to change"
+    },
+    "tweet9": {
+      "content": "Deere Stock Could Get Stuck in the Mud After Earnings, Analyst Says"
+    },
+    "tweet10": {
+      "content": "Deere downgraded as trade talk deadline nears: 'Soybean tariffs need to disappear'"
+    },
+    "tweet11": {
+      "content": "Stocks making the biggest moves premarket: Hilton Worldwide, Dish Network, Deere, GM & more"
+    },
+    "tweet12": {
+      "content": "Stocks making the biggest moves premarket: Hilton Worldwide, Dish Network, Deere, GM & more"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Noteworthy Thursday Option Activity: R, COMPANY_X, FB"
+    },
+    "tweet2": {
+      "content": "Noteworthy Thursday Option Activity: R, COMPANY_X, FB"
+    },
+    "tweet3": {
+      "content": "Pre-Market Earnings Report for February 15, 2019 :  PEP, ENB, COMPANY_X, MCO, FTS, NWL, YNDX, WBC, CHH, POR, SXT, DAN"
+    },
+    "tweet4": {
+      "content": "Pre-Market Earnings Report for February 15, 2019 :  PEP, ENB, COMPANY_X, MCO, FTS, NWL, YNDX, WBC, CHH, POR, SXT, DAN"
+    },
+    "tweet5": {
+      "content": "10 Hot Stocks Leading the Market’s Blitz Higher"
+    },
+    "tweet6": {
+      "content": "Will Deere (COMPANY_X) Stock Continue to Climb After Q1 Earnings?"
+    },
+    "tweet7": {
+      "content": "Will Deere (COMPANY_X) Stock Continue to Climb After Q1 Earnings?"
+    },
+    "tweet8": {
+      "content": "Day Ahead: Top 3 Things to Watch"
+    },
+    "tweet9": {
+      "content": "Will Deere (COMPANY_X) Stock Continue to Climb After Q1 Earnings?"
+    },
+    "tweet10": {
+      "content": "Can Deere’s Q1 Adjusted EPS Beat Analysts’ Estimates?"
+    },
+    "tweet11": {
+      "content": "Deere Reports Earnings With Positive Technicals"
+    },
+    "tweet12": {
+      "content": "Analyzing Deere’s Expected First-Quarter Revenues"
+    },
+    "tweet13": {
+      "content": "Beware the Risks Facing Deere Stock"
+    },
+    "tweet14": {
+      "content": "Deere: Analysts’ Views before Its Q1 Earnings"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Deere & Co (COMPANY_X) Q1 2019 Earnings Conference Call Transcript"
+    },
+    "tweet2": {
+      "content": "Deere & Co (COMPANY_X) Q1 2019 Earnings Conference Call Transcript"
+    },
+    "tweet3": {
+      "content": "Deere Earnings: COMPANY_X Stock Dips on Q1 Miss"
+    },
+    "tweet4": {
+      "content": "Deere Earnings: COMPANY_X Stock Dips on Q1 Miss"
+    },
+    "tweet5": {
+      "content": "Deere & Co (COMPANY_X) Q1 2019 Earnings Conference Call Transcript"
+    },
+    "tweet6": {
+      "content": "Mid-Afternoon Market Update: Dow Up 350 Points; TriNet Group Shares Climb On Earnings Beat"
+    },
+    "tweet7": {
+      "content": "Mid-Afternoon Market Update: Dow Up 350 Points; TriNet Group Shares Climb On Earnings Beat"
+    },
+    "tweet8": {
+      "content": "Deere Earnings Miss As Farm Equipment Giant Blames Trump Tariffs"
+    },
+    "tweet9": {
+      "content": "Dow rises for eighth straight week, S&P 500 posts 2.5% weekly advance"
+    },
+    "tweet10": {
+      "content": "Mid-Day Market Update: Crude Oil Up Over 2%; TrueCar Shares Fall Following Downbeat Earnings"
+    },
+    "tweet11": {
+      "content": "Mid-Day Market Update: Crude Oil Up Over 2%; TrueCar Shares Fall Following Downbeat Earnings"
+    },
+    "tweet12": {
+      "content": "Mid-Day Update: Wall Street Applauds Trade Progress"
+    },
+    "tweet13": {
+      "content": "Mid-Day Update: Wall Street Applauds Trade Progress"
+    },
+    "tweet14": {
+      "content": "Deere's Q1 earnings hurt by higher costs, trade war"
+    },
+    "tweet15": {
+      "content": "Mixed Bag: Econ Data & Q4 Earnings: PEP, COMPANY_X, AXL"
+    },
+    "tweet16": {
+      "content": "Mixed Bag: Econ Data & Q4 Earnings: PEP, COMPANY_X, AXL"
+    },
+    "tweet17": {
+      "content": "Economic and Earnings Data Deluge"
+    },
+    "tweet18": {
+      "content": "Economic and Earnings Data Deluge"
+    },
+    "tweet19": {
+      "content": "Stocks - Dow Wraps up Eighth Weekly Gain on US-China Trade Hopes"
+    },
+    "tweet20": {
+      "content": "Mid-Morning Market Update: Markets Open Higher; Deere Earnings Miss Expectations"
+    },
+    "tweet21": {
+      "content": "Mid-Morning Market Update: Markets Open Higher; Deere Earnings Miss Expectations"
+    },
+    "tweet22": {
+      "content": "Deere (COMPANY_X) Earnings Miss, Revenues Beat Estimates in Q1"
+    },
+    "tweet23": {
+      "content": "Deere (COMPANY_X) Earnings Miss, Revenues Beat Estimates in Q1"
+    },
+    "tweet24": {
+      "content": "Deere Earnings: COMPANY_X Stock Dips on Q1 Miss"
+    },
+    "tweet25": {
+      "content": "Deere&apos;s CEO Calls Out Tariffs, Trade as Profit Disappoints"
+    },
+    "tweet26": {
+      "content": "Deere, hit on both sides of trade war, posts weak 1Q earns"
+    },
+    "tweet27": {
+      "content": "Deere, hit on both sides of trade war, posts weak 1Q earns"
+    },
+    "tweet28": {
+      "content": "Deere (COMPANY_X) Lags Q1 Earnings Estimates"
+    },
+    "tweet29": {
+      "content": "Deere (COMPANY_X) Lags Q1 Earnings Estimates"
+    },
+    "tweet30": {
+      "content": "Economic and Earnings Data Deluge"
+    },
+    "tweet31": {
+      "content": "Mixed Bag: Econ Data & Q4 Earnings: PEP, COMPANY_X, AXL"
+    },
+    "tweet32": {
+      "content": "Deere Valentine: Tractor Maker's Latest Results Not Exactly A Love Letter To Shareholders"
+    },
+    "tweet33": {
+      "content": "US Stock Futures Trading Higher as Trade Deal Moves Forward, Shutdown Averted"
+    },
+    "tweet34": {
+      "content": "US Stock Futures Trading Higher as Trade Deal Moves Forward, Shutdown Averted"
+    },
+    "tweet35": {
+      "content": "Deere (COMPANY_X) Earnings Miss, Revenues Beat Estimates in Q1"
+    },
+    "tweet36": {
+      "content": "It’s a Very Bad Day for U.S. Farmers"
+    },
+    "tweet37": {
+      "content": "Deere (COMPANY_X) Lags Q1 Earnings Estimates"
+    },
+    "tweet38": {
+      "content": "Deere cites trade war issues for earnings miss; shares fall"
+    },
+    "tweet39": {
+      "content": "US Stock Futures Propped Up by Upbeat Trade Headlines"
+    },
+    "tweet40": {
+      "content": "US Stock Futures Propped Up by Upbeat Trade Headlines"
+    },
+    "tweet41": {
+      "content": "Deere Stock Falls After Earnings, but Things Aren’t That Bad"
+    },
+    "tweet42": {
+      "content": "Wall Street Futures Edge Higher on U.S.-China Trade Talk Progress"
+    },
+    "tweet43": {
+      "content": "New York's Epic Amazon Failure; Buffett's 13-F; Traders Play It Safe Into Close"
+    },
+    "tweet44": {
+      "content": "Earnings Reaction History: Deere & Company, 30.0% Follow-Through Indicator, 5.2% Sensitive"
+    },
+    "tweet45": {
+      "content": "Earnings Reaction History: Deere & Company, 30.0% Follow-Through Indicator, 5.2% Sensitive"
+    },
+    "tweet46": {
+      "content": "Deere Q1 profit falls short of estimates as sales beat"
+    },
+    "tweet47": {
+      "content": "Deere & Co Misses Q1 Earnings Estimate, Remains 'Cautiously Optimistic' For 2019"
+    },
+    "tweet48": {
+      "content": "Deere Reports First-Quarter Income of $498 Million"
+    },
+    "tweet49": {
+      "content": "Deere's Q1 earnings miss Wall Street's estimates"
+    },
+    "tweet50": {
+      "content": "Stocks - NVIDIA Jumps in Premarket, Pepsi Rises, Applied Materials, Oracle Decline"
+    },
+    "tweet51": {
+      "content": "Top 5 Things to Know in the Market on Friday"
+    },
+    "tweet52": {
+      "content": "[$$] Trade concerns weigh on earnings at tractor maker Deere"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Company News For Feb 19, 2019"
+    },
+    "tweet2": {
+      "content": "Company News For Feb 19, 2019"
+    },
+    "tweet3": {
+      "content": "Company News For Feb 19, 2019"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Report: Exploring Fundamental Drivers Behind Deere, Iron Mountain, Pioneer Natural Resources, Paramount Group, SPX, and Cass Information — New Horizons, Emerging Trends, and Upcoming Developments"
+    },
+    "tweet2": {
+      "content": "8 High-Return Stocks to Lead the Late Bull Market"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Industrial Stocks’ Fastest Start in 10 Years May Hit a Brick Wall"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Near-Term Prospects for Farm Equipment Stocks Appear Bleak"
+    },
+    "tweet2": {
+      "content": "Near-Term Prospects for Farm Equipment Stocks Appear Bleak"
+    },
+    "tweet3": {
+      "content": "Trump’s farmer bailout just hit $7.7 billion – but 'it no way makes us whole'"
+    },
+    "tweet4": {
+      "content": "Near-Term Prospects for Farm Equipment Stocks Appear Bleak"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Noteworthy Monday Option Activity: KSS, COMPANY_X, UPS"
+    },
+    "tweet2": {
+      "content": "Noteworthy Monday Option Activity: KSS, COMPANY_X, UPS"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Does UBS’s Caterpillar Downgrade Signal an Economic Slowdown?"
+    },
+    "tweet2": {
+      "content": "Caterpillar double-downgraded from Buy to Sell by UBS, shares tumble"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Deere Announces Regular Quarterly Dividend"
+    },
+    "tweet2": {
+      "content": "Deere & Company Announces Quarterly Dividend"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Top Analyst Reports for Comcast, Deere & Exelon"
+    },
+    "tweet2": {
+      "content": "DowDuPont: Analysts’ Views after Its Q4 Earnings"
+    },
+    "tweet3": {
+      "content": "John Deere Owner Trust 2019 -- Moody's assigns provisional ratings to John Deere Owner Trust 2019"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Here's what to expect from the stock market next month"
+    },
+    "tweet2": {
+      "content": "Deere Bets on Favorable Demand & Acquisitions Amid Cost Woes"
+    },
+    "tweet3": {
+      "content": "Deere Bets on Favorable Demand & Acquisitions Amid Cost Woes"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: Comcast, Deere and Exelon"
+    },
+    "tweet5": {
+      "content": "LRCX Named A Top Socially Responsible Dividend Stock"
+    },
+    "tweet6": {
+      "content": "LRCX Named A Top Socially Responsible Dividend Stock"
+    },
+    "tweet7": {
+      "content": "Deere Bets on Favorable Demand & Acquisitions Amid Cost Woes"
+    },
+    "tweet8": {
+      "content": "Deere Board elects John May as President, Chief Operating Officer"
+    },
+    "tweet9": {
+      "content": "Top Analyst Reports for Comcast, Deere & Exelon"
+    },
+    "tweet10": {
+      "content": "Top Analyst Reports for Comcast, Deere & Exelon"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "3 Buy-Rated Stocks Primed to Gain from a China Trade Deal"
+    },
+    "tweet2": {
+      "content": "3 Buy-Rated Stocks Primed to Gain from a China Trade Deal"
+    },
+    "tweet3": {
+      "content": "4 Best Stocks to Gain on U.S.-China Trade Optimism"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Walmart, Ford, Deere & Company and A. O. Smith"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Walmart, Ford, Deere & Company and A. O. Smith"
+    },
+    "tweet3": {
+      "content": "3M Launches Expanded Beam Ferrule and Connector System"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: Walmart, Ford, Deere & Company and A. O. Smith"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "How John Deere's autonomous vehicles are besting self-driving concept cars"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "Stocks Moving After Hours: Casey's, ADT, Forterra, F5 Networks, Deere, Stamps.com"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "See what the IHS Markit Score report has to say about Deere & Co."
+    },
+    "tweet2": {
+      "content": "AI Brings Results in Addressing Energy Consumption Problems"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "Notable Wednesday Option Activity: KSU, COMPANY_X, REGN"
+    },
+    "tweet2": {
+      "content": "Notable Wednesday Option Activity: KSU, COMPANY_X, REGN"
+    },
+    "tweet3": {
+      "content": "Does Deere & Company (NYSE:COMPANY_X) Have A Good P/E Ratio?"
+    },
+    "tweet4": {
+      "content": "Corindus Vascular Robotics Inc (CVRS) Q4 2018 Earnings Conference Call Transcript"
+    },
+    "tweet5": {
+      "content": "Corindus Vascular Robotics Inc (CVRS) Q4 2018 Earnings Conference Call Transcript"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "Why Corindus Vascular Robotics Shares Are Rising Today"
+    },
+    "tweet2": {
+      "content": "Why Corindus Vascular Robotics Shares Are Rising Today"
+    },
+    "tweet3": {
+      "content": "John Deere Owner Trust 2019 -- Moody's assigns definitive ratings to John Deere Owner Trust 2019"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "AGCO Signs Deal With Digital Agriculture Firm Solinftec"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "The Dow Drops 347 Points as Bonds Throw Market a Curve"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "Here is What Hedge Funds Really Think About Deere & Company (COMPANY_X)"
+    },
+    "tweet2": {
+      "content": "Deere & Company (COMPANY_X) Ex-Dividend Date Scheduled for March 28, 2019"
+    },
+    "tweet3": {
+      "content": "Deere & Company (COMPANY_X) Ex-Dividend Date Scheduled for March 28, 2019"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "Is Deere a Buy?"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "Noteworthy Tuesday Option Activity: COMPANY_X, TECD, NUE"
+    },
+    "tweet2": {
+      "content": "Noteworthy Tuesday Option Activity: COMPANY_X, TECD, NUE"
+    },
+    "tweet3": {
+      "content": "Favorable Markets, Acquisition Aid Deere Amid Cost Woes"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day65": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day66": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day67": {
+    "tweet1": {
+      "content": "Stock Market News For Apr 8, 2019"
+    },
+    "tweet2": {
+      "content": "Trump Gutted Green Rules But Plans to Run on His Environmental Credentials "
+    }
+  },
+  "day68": {
+    "tweet1": {
+      "content": "A Closer Look At Deere’s Revenue Breakdown"
+    },
+    "tweet2": {
+      "content": "A Closer Look At Deere’s Revenue Breakdown"
+    }
+  },
+  "day69": {
+    "tweet1": {
+      "content": "Delta Air Lines Inc (DAL) Q1 2019 Earnings Call Transcript"
+    },
+    "tweet2": {
+      "content": "Delta Air Lines Inc (DAL) Q1 2019 Earnings Call Transcript"
+    },
+    "tweet3": {
+      "content": "Want to fix your own iPhone? Minnesota could be first to pass right to repair laws"
+    },
+    "tweet4": {
+      "content": "Noteworthy Wednesday Option Activity: COMPANY_X, DTE, UAL"
+    },
+    "tweet5": {
+      "content": "Noteworthy Wednesday Option Activity: COMPANY_X, DTE, UAL"
+    }
+  },
+  "day70": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day71": {
+    "tweet1": {
+      "content": "What Is Deere & Company's (NYSE:COMPANY_X) Share Price Doing?"
+    }
+  },
+  "day72": {
+    "tweet1": {
+      "content": "9 popular companies that paid $0 in taxes for 2018"
+    }
+  },
+  "day73": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day74": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day75": {
+    "tweet1": {
+      "content": "Notable Thursday Option Activity: COMPANY_X, PYPL, MO"
+    },
+    "tweet2": {
+      "content": "Notable Thursday Option Activity: COMPANY_X, PYPL, MO"
+    },
+    "tweet3": {
+      "content": "4 Stocks Surging on China’s Turnaround"
+    },
+    "tweet4": {
+      "content": "Deere names five employees as John Deere Fellows"
+    }
+  },
+  "day76": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day77": {
+    "tweet1": {
+      "content": "5 Companies Reach 52-Week Highs"
+    },
+    "tweet2": {
+      "content": "LECO Named Top 25 SAFE Dividend Stock Increasing Payments For Decades"
+    },
+    "tweet3": {
+      "content": "LECO Named Top 25 SAFE Dividend Stock Increasing Payments For Decades"
+    }
+  },
+  "day78": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day79": {
+    "tweet1": {
+      "content": "Noteworthy Thursday Option Activity: COMPANY_X, PFPT, MRVL"
+    },
+    "tweet2": {
+      "content": "Noteworthy Thursday Option Activity: COMPANY_X, PFPT, MRVL"
+    }
+  },
+  "day80": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day81": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day82": {
+    "tweet1": {
+      "content": "Trade war and sagging prices push U.S. family farmers to leave the field"
+    },
+    "tweet2": {
+      "content": "Trade war and sagging prices push U.S. family farmers to leave the field"
+    },
+    "tweet3": {
+      "content": "Trade war and sagging prices push U.S. family farmers to leave the field"
+    }
+  },
+  "day83": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day84": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day85": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day86": {
+    "tweet1": {
+      "content": "US stocks slide after threat from Trump to raise tariffs"
+    },
+    "tweet2": {
+      "content": "US stocks slide after threat from Trump to raise tariffs"
+    },
+    "tweet3": {
+      "content": "EXPLAINER-Who pays Trump's tariffs, China or U.S. customers and companies?"
+    },
+    "tweet4": {
+      "content": "Noteworthy Monday Option Activity: COMPANY_X, IQV, TRIP"
+    },
+    "tweet5": {
+      "content": "Noteworthy Monday Option Activity: COMPANY_X, IQV, TRIP"
+    },
+    "tweet6": {
+      "content": "Surprise threat from Trump to raise tariffs sinks stocks"
+    },
+    "tweet7": {
+      "content": "Boasting A 30% Return On Equity, Is Deere  Company (NYSE:COMPANY_X) A Top Quality Stock?"
+    }
+  },
+  "day87": {
+    "tweet1": {
+      "content": "Noteworthy ETF Outflows: IWV, MS, NSC, COMPANY_X"
+    },
+    "tweet2": {
+      "content": "Noteworthy ETF Outflows: IWV, MS, NSC, COMPANY_X"
+    },
+    "tweet3": {
+      "content": "Stock Market News For May 7, 2019"
+    },
+    "tweet4": {
+      "content": "Stock Market News For May 7, 2019"
+    },
+    "tweet5": {
+      "content": "Stock Market News For May 7, 2019"
+    },
+    "tweet6": {
+      "content": "Illinois Tool Works a Top Ranked SAFE Dividend Stock With 2.6% Yield (ITW)"
+    },
+    "tweet7": {
+      "content": "Illinois Tool Works a Top Ranked SAFE Dividend Stock With 2.6% Yield (ITW)"
+    },
+    "tweet8": {
+      "content": "See what the IHS Markit Score report has to say about Deere & Co."
+    },
+    "tweet9": {
+      "content": "Jobs Are Booming in Trump Country, But Pay Lags"
+    },
+    "tweet10": {
+      "content": "U.S. Says It Will Raise Tariffs After China Reneges on Vows"
+    }
+  },
+  "day88": {
+    "tweet1": {
+      "content": "Corindus Vascular Robotics, Inc. (COMPANY_X) (CVRS) Q1 2019 Earnings Call Transcript"
+    },
+    "tweet2": {
+      "content": "Corindus Vascular Robotics, Inc. (COMPANY_X) (CVRS) Q1 2019 Earnings Call Transcript"
+    },
+    "tweet3": {
+      "content": "Why Corindus Vascular Robotics Is Soaring Today"
+    },
+    "tweet4": {
+      "content": "Why Corindus Vascular Robotics Is Soaring Today"
+    },
+    "tweet5": {
+      "content": "Stock Market News For May 8, 2019"
+    },
+    "tweet6": {
+      "content": "Stock Market News For May 8, 2019"
+    },
+    "tweet7": {
+      "content": "JKF's Underlying Holdings Imply 10% Gain Potential"
+    },
+    "tweet8": {
+      "content": "JKF's Underlying Holdings Imply 10% Gain Potential"
+    },
+    "tweet9": {
+      "content": "Stock Market News For May 8, 2019"
+    }
+  },
+  "day89": {
+    "tweet1": {
+      "content": "COMPANY_X Crosses Below Key Moving Average Level"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Crosses Below Key Moving Average Level"
+    },
+    "tweet3": {
+      "content": "Stock Market News For May 9, 2019"
+    },
+    "tweet4": {
+      "content": "Stock Market News For May 9, 2019"
+    },
+    "tweet5": {
+      "content": "Stock Market News For May 9, 2019"
+    }
+  },
+  "day90": {
+    "tweet1": {
+      "content": "What is Weighing on Macy's (M) & other Department Store Stocks?"
+    },
+    "tweet2": {
+      "content": "What is Weighing on Macy's (M) & other Department Store Stocks?"
+    },
+    "tweet3": {
+      "content": "Trade war tensions continued their drag on stocks, which had their worst week of the year"
+    },
+    "tweet4": {
+      "content": "What is Weighing on Macy's (M) & other Department Store Stocks?"
+    },
+    "tweet5": {
+      "content": "Deere (COMPANY_X) Earnings Expected to Grow: Should You Buy?"
+    },
+    "tweet6": {
+      "content": "Deere (COMPANY_X) Earnings Expected to Grow: Should You Buy?"
+    },
+    "tweet7": {
+      "content": "Deere (COMPANY_X) Earnings Expected to Grow: Should You Buy?"
+    },
+    "tweet8": {
+      "content": "'We have a little bit of a shareholder baby-boomer repurchase obligation': Mayville CEO on its IPO"
+    },
+    "tweet9": {
+      "content": "TOPLive Starts: Follow Developments in U.S.-China Tariffs Spat"
+    }
+  },
+  "day91": {
+    "tweet1": {
+      "content": "Buy Deere (COMPANY_X) Stock Before Q2 2019 Earnings Amid Renewed Trade War Fears?"
+    },
+    "tweet2": {
+      "content": "Noteworthy Monday Option Activity: COMPANY_X, TUP, VAC"
+    },
+    "tweet3": {
+      "content": "Noteworthy Monday Option Activity: COMPANY_X, TUP, VAC"
+    },
+    "tweet4": {
+      "content": "Deere is Oversold"
+    },
+    "tweet5": {
+      "content": "Deere is Oversold"
+    },
+    "tweet6": {
+      "content": "Deere Stock Is Falling as the Trade Conflict Gets Worse"
+    },
+    "tweet7": {
+      "content": "Analysts Expect Deere’s Equipment Revenue to Grow by 4.5%"
+    },
+    "tweet8": {
+      "content": "This Week: Cisco Systems and Deere results, housing starts"
+    },
+    "tweet9": {
+      "content": "Weekly Market Summary: Trade Dispute Sparks Return of Volatility"
+    },
+    "tweet10": {
+      "content": "Weekly Market Summary: Trade Dispute Sparks Return of Volatility"
+    },
+    "tweet11": {
+      "content": "Can Deere’s Q2 Adjusted EPS Beat Wall Street Estimates?"
+    },
+    "tweet12": {
+      "content": "How Deere Stock Has Performed since Q1 Results"
+    }
+  },
+  "day92": {
+    "tweet1": {
+      "content": "Deere (COMPANY_X) to Report Q2 Earnings: What's in the Offing?"
+    },
+    "tweet2": {
+      "content": "Deere (COMPANY_X) to Report Q2 Earnings: What's in the Offing?"
+    },
+    "tweet3": {
+      "content": "Sell Deere Stock Because Wall Street Is Starting to Worry About Farming"
+    },
+    "tweet4": {
+      "content": "See what the IHS Markit Score report has to say about Deere & Co."
+    },
+    "tweet5": {
+      "content": "Deere, Apple, Retail in Focus as U.S. Releases Tariff List"
+    },
+    "tweet6": {
+      "content": "Ralph Lauren posts beat, changes at Tencent Music, more headaches for Boeing"
+    },
+    "tweet7": {
+      "content": "Ralph Lauren posts beat, changes at Tencent Music, more headaches for Boeing"
+    },
+    "tweet8": {
+      "content": "As Trade Tensions Ease Slightly, Tech, Industrial Shares In Focus"
+    },
+    "tweet9": {
+      "content": "Deere (COMPANY_X) to Report Q2 Earnings: What's in the Offing?"
+    },
+    "tweet10": {
+      "content": "A Trade War Agriculture Pair Trade From JPMorgan"
+    },
+    "tweet11": {
+      "content": "Trump Will Talk Up G-20 Deal If Stocks Fall 10%, Analyst Says"
+    },
+    "tweet12": {
+      "content": "US STOCKS-Wall Street poised for gains after Monday's heavy selloff"
+    },
+    "tweet13": {
+      "content": "JP Morgan says US farmers are facing a crisis from trade war, downgrades Deere&apos;s stock"
+    },
+    "tweet14": {
+      "content": "US STOCKS-Futures steady after Monday's drastic selloff"
+    },
+    "tweet15": {
+      "content": "Deere, Apple, Retail in Focus as U.S. Releases Fresh Tariff List"
+    },
+    "tweet16": {
+      "content": "Deere&apos;s stock falls after J.P. Morgan turns bearish as agriculture fundamentals deteriorates"
+    },
+    "tweet17": {
+      "content": "What Analysts Recommend for Deere ahead of Q2 Earnings"
+    },
+    "tweet18": {
+      "content": "Meet Your Unlikely Safe Havens: Faux Meat, Bitcoin: Taking Stock"
+    },
+    "tweet19": {
+      "content": "US-China trade battle to sting Deere as tariffs hit farmers, JPMorgan warns"
+    },
+    "tweet20": {
+      "content": "Buy Deere (COMPANY_X) Stock Before Q2 2019 Earnings Amid Renewed Trade War Fears?"
+    },
+    "tweet21": {
+      "content": "Buy Deere (COMPANY_X) Stock Before Q2 2019 Earnings Amid Renewed Trade War Fears?"
+    }
+  },
+  "day93": {
+    "tweet1": {
+      "content": "Homebuilders Still Look Positive"
+    },
+    "tweet2": {
+      "content": "This Week's 5 Must-See Earnings Charts"
+    },
+    "tweet3": {
+      "content": "This Week's 5 Must-See Earnings Charts"
+    },
+    "tweet4": {
+      "content": "This Week's 5 Must-See Earnings Charts"
+    }
+  },
+  "day94": {
+    "tweet1": {
+      "content": "Pre-Market Earnings Report for May 17, 2019 :  COMPANY_X, CAE, LX"
+    },
+    "tweet2": {
+      "content": "Pre-Market Earnings Report for May 17, 2019 :  COMPANY_X, CAE, LX"
+    },
+    "tweet3": {
+      "content": "Wall Street Is Starting to Bail on Deere Stock"
+    },
+    "tweet4": {
+      "content": "Robots Take the Wheel as Autonomous Farm Machines Hit Fields"
+    },
+    "tweet5": {
+      "content": "AutoZone (AZO) to Release Q3 Earnings: What's in Store?"
+    },
+    "tweet6": {
+      "content": "AutoZone (AZO) to Release Q3 Earnings: What's in Store?"
+    },
+    "tweet7": {
+      "content": "AutoZone (AZO) to Release Q3 Earnings: What's in Store?"
+    },
+    "tweet8": {
+      "content": "Deere Reports Earnings Tomorrow. Here’s What to Expect."
+    }
+  },
+  "day95": {
+    "tweet1": {
+      "content": "Why Deere, UP Fintech Holding, and Baidu Slumped Today"
+    },
+    "tweet2": {
+      "content": "Why Deere, UP Fintech Holding, and Baidu Slumped Today"
+    },
+    "tweet3": {
+      "content": "Deere & Company Earnings: COMPANY_X Stock Dives on Q2 Miss"
+    },
+    "tweet4": {
+      "content": "Deere & Company Earnings: COMPANY_X Stock Dives on Q2 Miss"
+    },
+    "tweet5": {
+      "content": "Deere, 3M, Pinterest slip while Cray soars on buyout"
+    },
+    "tweet6": {
+      "content": "Mid-Afternoon Market Update: Cray Jumps Following Acquisition News; Pinterest Shares Plummet"
+    },
+    "tweet7": {
+      "content": "Mid-Afternoon Market Update: Cray Jumps Following Acquisition News; Pinterest Shares Plummet"
+    },
+    "tweet8": {
+      "content": "Why Deere, UP Fintech Holding, and Baidu Slumped Today"
+    },
+    "tweet9": {
+      "content": "Stocks close lower as trade-related uncertainty overshadows strong data"
+    },
+    "tweet10": {
+      "content": "Consumer Sector Update for 05/17/2019: SFLY,WTRH,UA,UAA,COMPANY_X"
+    },
+    "tweet11": {
+      "content": "Consumer Sector Update for 05/17/2019: SFLY,WTRH,UA,UAA,COMPANY_X"
+    },
+    "tweet12": {
+      "content": "Markets Right Now: Stocks closing lower Friday"
+    },
+    "tweet13": {
+      "content": "Stocks end lower as trade woes whipsaw markets"
+    },
+    "tweet14": {
+      "content": "A Dispatch From the Trade-War Front"
+    },
+    "tweet15": {
+      "content": "Deere Earnings Miss, Guidance Cut As China Trade War Heats Up"
+    },
+    "tweet16": {
+      "content": "5 Top Stock Trades for Monday: TSLA, BIDU, IQ, COMPANY_X, MU"
+    },
+    "tweet17": {
+      "content": "Trump didn't exactly fuel the stock market"
+    },
+    "tweet18": {
+      "content": "Consumer Sector Update for 05/17/2019: WTRH,UA,UAA,COMPANY_X"
+    },
+    "tweet19": {
+      "content": "Consumer Sector Update for 05/17/2019: WTRH,UA,UAA,COMPANY_X"
+    },
+    "tweet20": {
+      "content": "Economic expansion poised to become longest in U.S. history, leading indicators show"
+    },
+    "tweet21": {
+      "content": "Mid-Day Market Update: U.S. Stocks Turn Positive; Baidu Shares Fall On Earnings Miss"
+    },
+    "tweet22": {
+      "content": "Mid-Day Market Update: U.S. Stocks Turn Positive; Baidu Shares Fall On Earnings Miss"
+    },
+    "tweet23": {
+      "content": "Deere Misses Q2 Earnings Estimate, Cuts 2019 Forecast, on Trade War Caution"
+    },
+    "tweet24": {
+      "content": "JP Morgan analyst on why she sees Deere as 'skewed to the downside'"
+    },
+    "tweet25": {
+      "content": "US STOCKS-Trade tensions keep Wall Street under pressure"
+    },
+    "tweet26": {
+      "content": "China Replies to Trump"
+    },
+    "tweet27": {
+      "content": "China Replies to Trump"
+    },
+    "tweet28": {
+      "content": "Trade war, heavy rains weigh on Deere & Co."
+    },
+    "tweet29": {
+      "content": "Trade war, heavy rains weigh on Deere & Co."
+    },
+    "tweet30": {
+      "content": "Mid-Morning Market Update: Markets Open Lower; Deere Earnings Miss Views"
+    },
+    "tweet31": {
+      "content": "Mid-Morning Market Update: Markets Open Lower; Deere Earnings Miss Views"
+    },
+    "tweet32": {
+      "content": "Deere blames escalating trade war for worsening outlook"
+    },
+    "tweet33": {
+      "content": "Stocks on the Move: Baidu, Tesla, Deere & Co."
+    },
+    "tweet34": {
+      "content": "Deere & Company Earnings: COMPANY_X Stock Dives on Q2 Miss"
+    },
+    "tweet35": {
+      "content": "US STOCKS-Wall Street seesaws amid heightened trade tensions"
+    },
+    "tweet36": {
+      "content": "Stocks pare early losses as strong economic data offset trade jitters"
+    },
+    "tweet37": {
+      "content": "Deere (COMPANY_X) Q2 Earnings Lag Estimates, Trims FY19 Guidance"
+    },
+    "tweet38": {
+      "content": "Deere (COMPANY_X) Q2 Earnings Lag Estimates, Trims FY19 Guidance"
+    },
+    "tweet39": {
+      "content": "China Retorts to Trump's Huawei Attack, Deere (COMPANY_X) Reports Mixed Q2"
+    },
+    "tweet40": {
+      "content": "China Retorts to Trump's Huawei Attack, Deere (COMPANY_X) Reports Mixed Q2"
+    },
+    "tweet41": {
+      "content": "S&P 500 Movers: COMPANY_X, AMAT"
+    },
+    "tweet42": {
+      "content": "S&P 500 Movers: COMPANY_X, AMAT"
+    },
+    "tweet43": {
+      "content": "Deere blames escalating trade war for worsening outlook"
+    },
+    "tweet44": {
+      "content": "Is Deere & Co Stock Cheap? Hard to Say"
+    },
+    "tweet45": {
+      "content": "ETF Spotlight: Agribusiness ETF follows Deere as the company's shares sink"
+    },
+    "tweet46": {
+      "content": "China Replies to Trump"
+    },
+    "tweet47": {
+      "content": "Deere (COMPANY_X) Lags Q2 Earnings Estimates"
+    },
+    "tweet48": {
+      "content": "Deere (COMPANY_X) Lags Q2 Earnings Estimates"
+    },
+    "tweet49": {
+      "content": "China Retorts to Trump's Huawei Attack, Deere (COMPANY_X) Reports Mixed Q2"
+    },
+    "tweet50": {
+      "content": "US STOCKS-Wall St falls after China's tough talk on trade"
+    },
+    "tweet51": {
+      "content": "Stocks Slide As China Trade War Hopes Fade; Deere, Baidu Take Earnings Dives"
+    },
+    "tweet52": {
+      "content": "Deere (COMPANY_X) Q2 Earnings Lag Estimates, Trims FY19 Guidance"
+    },
+    "tweet53": {
+      "content": "Deere Slumps as Trade War Dims Outlook for Top Tractor Maker"
+    },
+    "tweet54": {
+      "content": "Trade War Puts Deere in the Headlights"
+    },
+    "tweet55": {
+      "content": "Stock Futures Down As China Trade War Deal Fades; Deere, Baidu Take Earnings Dives"
+    },
+    "tweet56": {
+      "content": "Deere’s Earnings Fall Short, Highlighting a Bad Year in Farming"
+    },
+    "tweet57": {
+      "content": "US-China trade war prompts John Deere to cut 2019 outlook"
+    },
+    "tweet58": {
+      "content": "Stocks making the biggest moves premarket: Tesla, Amazon, Boeing, Under Armour & more"
+    },
+    "tweet59": {
+      "content": "Deere Posts Mixed Q2 Results, Guidance Cut"
+    },
+    "tweet60": {
+      "content": "Deere (COMPANY_X) Lags Q2 Earnings Estimates"
+    },
+    "tweet61": {
+      "content": "Deere Reports Second-Quarter Net Income of $1.135 Billion"
+    },
+    "tweet62": {
+      "content": "Deere Reports Second-Quarter Net Income of $1.135 Billion"
+    },
+    "tweet63": {
+      "content": "Deere&apos;s stock sinks after profit miss, downbeat sales outlook"
+    },
+    "tweet64": {
+      "content": "Deere profit misses; cuts FY19 profit and sales outlook"
+    },
+    "tweet65": {
+      "content": "Stocks -  Pinterest, Uber, Deere Fall in Premarket; Applied Materials Rises"
+    }
+  },
+  "day96": {
+    "tweet1": {
+      "content": "PayPal Stock Will Continue to Ring the Register for Investors"
+    },
+    "tweet2": {
+      "content": "PayPal Stock Will Continue to Ring the Register for Investors"
+    },
+    "tweet3": {
+      "content": "Tariffs, Trade Cloud Short-Term Future For Deere, But RBC Says Plow Ahead"
+    },
+    "tweet4": {
+      "content": "John Deere's Weak Q2 Results Drag Down Agribusiness ETFs"
+    },
+    "tweet5": {
+      "content": "John Deere's Weak Q2 Results Drag Down Agribusiness ETFs"
+    },
+    "tweet6": {
+      "content": "Company News For May 20, 2019"
+    },
+    "tweet7": {
+      "content": "Company News For May 20, 2019"
+    },
+    "tweet8": {
+      "content": "PayPal Stock Will Continue to Ring the Register for Investors"
+    },
+    "tweet9": {
+      "content": "John Deere's Weak Q2 Results Drag Down Agribusiness ETFs"
+    },
+    "tweet10": {
+      "content": "Agco&apos;s stock falls after BofA Merrill turns bearish on concerns over farming equipment demand"
+    },
+    "tweet11": {
+      "content": "Company News For May 20, 2019"
+    },
+    "tweet12": {
+      "content": "Why Trump would be OK with a 10% nosedive in the stock market"
+    },
+    "tweet13": {
+      "content": "Deere just succumbed to the bears, and there could be more pain ahead, experts warn"
+    },
+    "tweet14": {
+      "content": "Deere just succumbed to the bears, and there could be more pain ahead, experts warn"
+    }
+  },
+  "day97": {
+    "tweet1": {
+      "content": "Noteworthy Tuesday Option Activity: KSS, KMB, COMPANY_X"
+    },
+    "tweet2": {
+      "content": "Noteworthy Tuesday Option Activity: KSS, KMB, COMPANY_X"
+    },
+    "tweet3": {
+      "content": "How Did Deere’s Agriculture and Turf Segment Perform in Q2?"
+    },
+    "tweet4": {
+      "content": "Deere’s Q2 Equipment Operations Revenue Reports 5.4% Growth"
+    },
+    "tweet5": {
+      "content": "Deere Plummets on Earnings Miss and Weak Guidance"
+    },
+    "tweet6": {
+      "content": "Brazil farmers struggle for internet signal as tech floods sector"
+    },
+    "tweet7": {
+      "content": "2 Stocks to be Wary Of (And One Defensive Play)"
+    }
+  },
+  "day98": {
+    "tweet1": {
+      "content": "Bear of the Day: Lindsay Corporation (LNN)"
+    },
+    "tweet2": {
+      "content": "Bear of the Day: Lindsay Corporation (LNN)"
+    },
+    "tweet3": {
+      "content": "COMPANY_X’s Construction and Forestry Segment Reports Expanded Q2 Margin"
+    },
+    "tweet4": {
+      "content": "Bear of the Day: Lindsay Corporation (LNN)"
+    }
+  },
+  "day99": {
+    "tweet1": {
+      "content": "Deere's Outlook Dims, Just Don't Blame the Trade War"
+    },
+    "tweet2": {
+      "content": "Deere's Outlook Dims, Just Don't Blame the Trade War"
+    },
+    "tweet3": {
+      "content": "Pay close attention to this stock index ahead of Memorial Day"
+    },
+    "tweet4": {
+      "content": "Deere&apos;s Outlook Dims, Just Don&apos;t Blame the Trade War"
+    }
+  },
+  "day100": {
+    "tweet1": {
+      "content": "Top Stock Reports for Medtronic, TJX Companies & Deere"
+    }
+  },
+  "day101": {
+    "tweet1": {
+      "content": "Jamie Dimon: U.S.-China trade fight is becoming a 'real issue' for investors"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Medtronic, TJX, Deere, Incyte and Netapp"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Medtronic, TJX, Deere, Incyte and Netapp"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: Medtronic, TJX, Deere, Incyte and Netapp"
+    }
+  },
+  "day102": {
+    "tweet1": {
+      "content": "Wednesday Sector Leaders: Technology & Communications, Industrial"
+    },
+    "tweet2": {
+      "content": "Wednesday Sector Leaders: Technology & Communications, Industrial"
+    },
+    "tweet3": {
+      "content": "Daily Dividend Report: MRK, COMPANY_X, CBS, NOV, DKS, VGR"
+    },
+    "tweet4": {
+      "content": "Daily Dividend Report: MRK, COMPANY_X, CBS, NOV, DKS, VGR"
+    },
+    "tweet5": {
+      "content": "Stocks drop as bond yields extend declines"
+    },
+    "tweet6": {
+      "content": "Noteworthy Wednesday Option Activity: DVA, JNJ, COMPANY_X"
+    },
+    "tweet7": {
+      "content": "Noteworthy Wednesday Option Activity: DVA, JNJ, COMPANY_X"
+    },
+    "tweet8": {
+      "content": "4 Dow Jones Stocks Being Crushed"
+    },
+    "tweet9": {
+      "content": "Stocks - S&P Slumps as China's Rare-Earth Threat Buries Shares"
+    },
+    "tweet10": {
+      "content": "USDA's $16B Farm Aid Plan: Relief for Farm Equipment Industry"
+    },
+    "tweet11": {
+      "content": "USDA's $16B Farm Aid Plan: Relief for Farm Equipment Industry"
+    },
+    "tweet12": {
+      "content": "Deere & Company Announces Quarterly Dividend"
+    },
+    "tweet13": {
+      "content": "USDA's $16B Farm Aid Plan: Relief for Farm Equipment Industry"
+    },
+    "tweet14": {
+      "content": "Cut Your Stock Market Risk by Investing in Farming"
+    }
+  },
+  "day103": {
+    "tweet1": {
+      "content": "What We Think Of Deere & Company’s (NYSE:COMPANY_X) Investment Potential"
+    }
+  },
+  "day104": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day105": {
+    "tweet1": {
+      "content": "Deere a Top Socially Responsible Dividend Stock With 2.2% Yield (COMPANY_X)"
+    },
+    "tweet2": {
+      "content": "Deere a Top Socially Responsible Dividend Stock With 2.2% Yield (COMPANY_X)"
+    }
+  },
+  "day106": {
+    "tweet1": {
+      "content": "Caterpillar or Deere: Which Industrial Stock is a Better Pick?"
+    },
+    "tweet2": {
+      "content": "Caterpillar or Deere: Which Industrial Stock is a Better Pick?"
+    },
+    "tweet3": {
+      "content": "Caterpillar or Deere: Which Industrial Stock is a Better Pick?"
+    }
+  },
+  "day107": {
+    "tweet1": {
+      "content": "John Deere Credit Compania Financiera S.A. -- Moody's rates John Deere Credit Compañía Financiera S.A.'s expected senior debt"
+    },
+    "tweet2": {
+      "content": "Deere to Bank on Construction Demand Till Agriculture Picks Up"
+    },
+    "tweet3": {
+      "content": "Deere to Bank on Construction Demand Till Agriculture Picks Up"
+    },
+    "tweet4": {
+      "content": "Deere to Bank on Construction Demand Till Agriculture Picks Up"
+    }
+  },
+  "day108": {
+    "tweet1": {
+      "content": "Dow rallies on report Trump administration is considering delaying tariffs on Mexico"
+    }
+  },
+  "day109": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day110": {
+    "tweet1": {
+      "content": "Why Deere & Co. Shares Fell 15.4% in May"
+    },
+    "tweet2": {
+      "content": "Why Deere & Co. Shares Fell 15.4% in May"
+    },
+    "tweet3": {
+      "content": "See what the IHS Markit Score report has to say about Deere & Co."
+    },
+    "tweet4": {
+      "content": "Edited Transcript of COMPANY_X earnings conference call or presentation 17-May-19 2:00pm GMT"
+    }
+  },
+  "day111": {
+    "tweet1": {
+      "content": "Noteworthy Tuesday Option Activity: COMPANY_X, TXN, KEM"
+    },
+    "tweet2": {
+      "content": "Noteworthy Tuesday Option Activity: COMPANY_X, TXN, KEM"
+    },
+    "tweet3": {
+      "content": "JLD-Laguë Acquires Quebec Peterbilt Dealer Transdiff"
+    },
+    "tweet4": {
+      "content": "See what the IHS Markit Score report has to say about Deere & Co."
+    }
+  },
+  "day112": {
+    "tweet1": {
+      "content": "Top Research Reports for Microsoft, Facebook & Bank of America"
+    },
+    "tweet2": {
+      "content": "Top Research Reports for Microsoft, Facebook & Bank of America"
+    },
+    "tweet3": {
+      "content": "Top Research Reports for Microsoft, Facebook & Bank of America"
+    },
+    "tweet4": {
+      "content": "Here's Why You Should Hold Deere Stock in Your Portfolio Now"
+    },
+    "tweet5": {
+      "content": "Here's Why You Should Hold Deere Stock in Your Portfolio Now"
+    },
+    "tweet6": {
+      "content": "Here's Why You Should Hold Deere Stock in Your Portfolio Now"
+    },
+    "tweet7": {
+      "content": "As Solid as It Is, Looming Fears Will Hold Back Caterpillar Stock"
+    },
+    "tweet8": {
+      "content": "As Solid as It Is, Looming Fears Will Hold Back Caterpillar Stock"
+    },
+    "tweet9": {
+      "content": "As Solid as It Is, Looming Fears Will Hold Back Caterpillar Stock"
+    }
+  },
+  "day113": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Microsoft, Facebook, Bank of America, American Express and Deere"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Microsoft, Facebook, Bank of America, American Express and Deere"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Microsoft, Facebook, Bank of America, American Express and Deere"
+    },
+    "tweet4": {
+      "content": "See what the IHS Markit Score report has to say about Deere & Co."
+    }
+  },
+  "day114": {
+    "tweet1": {
+      "content": "Here’s What Hedge Funds Think About Deere & Company (COMPANY_X)"
+    }
+  },
+  "day115": {
+    "tweet1": {
+      "content": "Floods Could Cause Corn Prices — and Deere Stock — to Rise"
+    },
+    "tweet2": {
+      "content": "Deere (NYSE:COMPANY_X) Shareholders Booked A 76% Gain In The Last Three Years"
+    },
+    "tweet3": {
+      "content": "Deere Climbs on Bullish Baird Note"
+    },
+    "tweet4": {
+      "content": "Deere and Corteva Stock Look Ripe for Buying, Analysts Say"
+    }
+  },
+  "day116": {
+    "tweet1": {
+      "content": "Deere (COMPANY_X) Shares Cross Above 200 DMA"
+    },
+    "tweet2": {
+      "content": "Deere (COMPANY_X) Shares Cross Above 200 DMA"
+    },
+    "tweet3": {
+      "content": "See what the IHS Markit Score report has to say about Deere & Co."
+    }
+  },
+  "day117": {
+    "tweet1": {
+      "content": "Noteworthy Wednesday Option Activity: COMPANY_X, JWN, CBOE"
+    },
+    "tweet2": {
+      "content": "Noteworthy Wednesday Option Activity: COMPANY_X, JWN, CBOE"
+    },
+    "tweet3": {
+      "content": "Top Stock Reports for Deere, Las Vegas Sands & Vertex"
+    },
+    "tweet4": {
+      "content": "Stock Market News For Jun 19, 2019"
+    },
+    "tweet5": {
+      "content": "Stock Market News For Jun 19, 2019"
+    },
+    "tweet6": {
+      "content": "Stock Market News For Jun 19, 2019"
+    },
+    "tweet7": {
+      "content": "COMPANY_X Crosses Above Average Analyst Target"
+    },
+    "tweet8": {
+      "content": "COMPANY_X Crosses Above Average Analyst Target"
+    }
+  },
+  "day118": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Deere, Las Vegas Sands, Vertex, Tesla and Keurig Dr Pepper"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Deere, Las Vegas Sands, Vertex, Tesla and Keurig Dr Pepper"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Deere, Las Vegas Sands, Vertex, Tesla and Keurig Dr Pepper"
+    }
+  },
+  "day119": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day120": {
+    "tweet1": {
+      "content": "Deere & Company News: Why COMPANY_X Stock Is Climbing Higher Today"
+    },
+    "tweet2": {
+      "content": "Deere & Company News: Why COMPANY_X Stock Is Climbing Higher Today"
+    },
+    "tweet3": {
+      "content": "Deere (COMPANY_X) Gains As Market Dips: What You Should Know"
+    },
+    "tweet4": {
+      "content": "U.S. business borrowing for equipment rises 18% in May - ELFA"
+    },
+    "tweet5": {
+      "content": "Georgia companies brace for potential new tariffs on Chinese imports (Video)"
+    },
+    "tweet6": {
+      "content": "Jefferies Upgrades Deere, Cites 'Significantly Improved Farmer Income Outlook'"
+    },
+    "tweet7": {
+      "content": "Deere Stock Is Set to Gain From ‘Significant Additional Upside’"
+    },
+    "tweet8": {
+      "content": "Deere Climbs on Jefferies Upgrade to Buy"
+    },
+    "tweet9": {
+      "content": "Stocks - Caesars Entertainment, Deere Rise Premarket; Spotify, Bristol-Myers Falls"
+    }
+  },
+  "day121": {
+    "tweet1": {
+      "content": "Trump’s 2020 Campaign: US Farmers’ Anger Could Be a Challenge"
+    },
+    "tweet2": {
+      "content": "3 ETFs to Plow Gains in John Deere"
+    },
+    "tweet3": {
+      "content": "Deere Double Top Could Signal 25% Decline"
+    },
+    "tweet4": {
+      "content": "Deere (COMPANY_X) Gains As Market Dips: What You Should Know"
+    },
+    "tweet5": {
+      "content": "Deere (COMPANY_X) Gains As Market Dips: What You Should Know"
+    }
+  },
+  "day122": {
+    "tweet1": {
+      "content": "Notable Wednesday Option Activity: SYNA, RUN, COMPANY_X"
+    },
+    "tweet2": {
+      "content": "Notable Wednesday Option Activity: SYNA, RUN, COMPANY_X"
+    },
+    "tweet3": {
+      "content": "Deere & Company (COMPANY_X) Ex-Dividend Date Scheduled for June 27, 2019"
+    },
+    "tweet4": {
+      "content": "Deere & Company (COMPANY_X) Ex-Dividend Date Scheduled for June 27, 2019"
+    },
+    "tweet5": {
+      "content": "2 Upgrades for Deere; What’s the Story?"
+    }
+  },
+  "day123": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day124": {
+    "tweet1": {
+      "content": "FVD, BOIL: Big ETF Inflows"
+    },
+    "tweet2": {
+      "content": "FVD, BOIL: Big ETF Inflows"
+    },
+    "tweet3": {
+      "content": "If Trump can’t secure a trade truce, watch for these stocks to get hammered"
+    }
+  },
+  "day125": {
+    "tweet1": {
+      "content": "Deere (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Deere (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet3": {
+      "content": "Deere (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet4": {
+      "content": "Deere and AGCO Stock Should See Boosts From China Trade Truce"
+    }
+  },
+  "day126": {
+    "tweet1": {
+      "content": "Why Shares of Deere & Co. Soared 18.2% in June"
+    },
+    "tweet2": {
+      "content": "Why Shares of Deere & Co. Soared 18.2% in June"
+    },
+    "tweet3": {
+      "content": "Why Shares of Deere & Co. Soared 18.2% in June"
+    },
+    "tweet4": {
+      "content": "Trade War Truce a Relief for Agricultural Equipment Industry"
+    },
+    "tweet5": {
+      "content": "Trade War Truce a Relief for Agricultural Equipment Industry"
+    },
+    "tweet6": {
+      "content": "Trade War Truce a Relief for Agricultural Equipment Industry"
+    }
+  },
+  "day127": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day128": {
+    "tweet1": {
+      "content": "Extreme weather takes economic toll on Midwest, damages total $12.5 billion"
+    }
+  },
+  "day129": {
+    "tweet1": {
+      "content": "Notable Monday Option Activity: MU, COMPANY_X, VMW"
+    },
+    "tweet2": {
+      "content": "Notable Monday Option Activity: MU, COMPANY_X, VMW"
+    },
+    "tweet3": {
+      "content": "Trump Touts Environmental Record After Rolling Back Protections"
+    },
+    "tweet4": {
+      "content": "Should Deere & Company (NYSE:COMPANY_X) Be Part Of Your Dividend Portfolio?"
+    }
+  },
+  "day130": {
+    "tweet1": {
+      "content": "Farm Equipment Industry Near-Term Outlook Bright"
+    },
+    "tweet2": {
+      "content": "Farm Equipment Industry Near-Term Outlook Bright"
+    },
+    "tweet3": {
+      "content": "Farm Equipment Industry Near-Term Outlook Bright"
+    },
+    "tweet4": {
+      "content": "See what the IHS Markit Score report has to say about Deere & Co."
+    }
+  },
+  "day131": {
+    "tweet1": {
+      "content": "Deere and Agco Stocks Are Likely to Be Volatile Because Wall Street Can’t Make Up Its Mind"
+    },
+    "tweet2": {
+      "content": "Deere&apos;s stock falls after UBS downgrades"
+    },
+    "tweet3": {
+      "content": "Deere's stock falls after UBS downgrades"
+    },
+    "tweet4": {
+      "content": "UBS Downgrades Deere, Expects Near-Term Weakness In Farming Equipment Demand"
+    },
+    "tweet5": {
+      "content": "Deere Downgraded at UBS to Neutral; Stock Slips"
+    },
+    "tweet6": {
+      "content": "Stocks - Tesla, Comcast Rise Premarket; Levi Falls"
+    }
+  },
+  "day132": {
+    "tweet1": {
+      "content": "Delta Air Lines Inc (COMPANY_X) (DAL) Q2 2019 Earnings Call Transcript"
+    },
+    "tweet2": {
+      "content": "Delta Air Lines Inc (COMPANY_X) (DAL) Q2 2019 Earnings Call Transcript"
+    },
+    "tweet3": {
+      "content": "Trump Says He’ll Summon Companies After Social Media ‘Summit’"
+    },
+    "tweet4": {
+      "content": "John Deere Owner Trust 2019-B -- Moody's assigns provisional ratings to John Deere Owner Trust 2019-B"
+    },
+    "tweet5": {
+      "content": "White House Pulls the Plug on Proposed Drug-Rebate Overhaul"
+    }
+  },
+  "day133": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day134": {
+    "tweet1": {
+      "content": "Buy Deere Stock Because There Will Be No Global Recession, Analyst Says"
+    }
+  },
+  "day135": {
+    "tweet1": {
+      "content": "Agree To Purchase Deere & Co. At $120, Earn 4.3% Using Options"
+    },
+    "tweet2": {
+      "content": "Agree To Purchase Deere & Co. At $120, Earn 4.3% Using Options"
+    }
+  },
+  "day136": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day137": {
+    "tweet1": {
+      "content": "Top Stock Reports for Johnson & Johnson, NextEra & Deere"
+    },
+    "tweet2": {
+      "content": "Top Stock Reports for Johnson & Johnson, NextEra & Deere"
+    },
+    "tweet3": {
+      "content": "Top Stock Reports for Johnson & Johnson, NextEra & Deere"
+    }
+  },
+  "day138": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Johnson & Johnson, NextEra, Deere, Cintas and Canadian Pacific"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Johnson & Johnson, NextEra, Deere, Cintas and Canadian Pacific"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Johnson & Johnson, NextEra, Deere, Cintas and Canadian Pacific"
+    }
+  },
+  "day139": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day140": {
+    "tweet1": {
+      "content": "[video]Deere Looks Ready for a Breakout"
+    }
+  },
+  "day141": {
+    "tweet1": {
+      "content": "Caterpillar Shares Inch Lower on Disappointing 2nd-Quarter Results"
+    },
+    "tweet2": {
+      "content": "Noteworthy Wednesday Option Activity: COMPANY_X, BMY, IP"
+    },
+    "tweet3": {
+      "content": "Noteworthy Wednesday Option Activity: COMPANY_X, BMY, IP"
+    },
+    "tweet4": {
+      "content": "John Deere Owner Trust 2019-B -- Moody's assigns definitive ratings to John Deere Owner Trust 2019-B"
+    }
+  },
+  "day142": {
+    "tweet1": {
+      "content": "4 Blue-Chip Stocks Under Pressure on Earnings"
+    },
+    "tweet2": {
+      "content": "4 Blue-Chip Stocks Under Pressure on Earnings"
+    },
+    "tweet3": {
+      "content": "4 Blue-Chip Stocks Under Pressure on Earnings"
+    }
+  },
+  "day143": {
+    "tweet1": {
+      "content": "Is Deere (NYSE:COMPANY_X) A Risky Investment?"
+    }
+  },
+  "day144": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day145": {
+    "tweet1": {
+      "content": "5 Companies Hit 52-Week Highs"
+    },
+    "tweet2": {
+      "content": "Why Did Caterpillar Stock Rise 2X in 3 Years?"
+    },
+    "tweet3": {
+      "content": "Why Did Caterpillar Stock Rise 2X in 3 Years?"
+    },
+    "tweet4": {
+      "content": "Deere & Co (COMPANY_X) President, COO John C May Ii Sold $888,760 of Shares"
+    }
+  },
+  "day146": {
+    "tweet1": {
+      "content": "How Does Deere & Co Make Money? (TTC, AGCO)"
+    }
+  },
+  "day147": {
+    "tweet1": {
+      "content": "Luminex Corp (COMPANY_X) (LMNX) Q2 2019 Earnings Call Transcript"
+    },
+    "tweet2": {
+      "content": "Luminex Corp (COMPANY_X) (LMNX) Q2 2019 Earnings Call Transcript"
+    }
+  },
+  "day148": {
+    "tweet1": {
+      "content": "Stock Market News for Aug 02, 2019"
+    }
+  },
+  "day149": {
+    "tweet1": {
+      "content": "Deere & Co. Enters Oversold Territory"
+    },
+    "tweet2": {
+      "content": "Deere & Co. Enters Oversold Territory"
+    },
+    "tweet3": {
+      "content": "China's Yuan devaluation sends U.S. stocks to worst day of 2019"
+    }
+  },
+  "day150": {
+    "tweet1": {
+      "content": "The Trade War’s Ugly New Phase Could Bring a Recession. What Investors Should Do."
+    },
+    "tweet2": {
+      "content": "This is Why Deere (COMPANY_X) is a Great Dividend Stock"
+    },
+    "tweet3": {
+      "content": "This is Why Deere (COMPANY_X) is a Great Dividend Stock"
+    },
+    "tweet4": {
+      "content": "This is Why Deere (COMPANY_X) is a Great Dividend Stock"
+    }
+  },
+  "day151": {
+    "tweet1": {
+      "content": "White House Invites Tech Companies to Discuss Violent Extremism"
+    },
+    "tweet2": {
+      "content": "6 Sector ETFs in Tight Spot on Renewed Trade Tensions"
+    },
+    "tweet3": {
+      "content": "Analysts Expect SCIU Will Reach $36"
+    },
+    "tweet4": {
+      "content": "Analysts Expect SCIU Will Reach $36"
+    }
+  },
+  "day152": {
+    "tweet1": {
+      "content": "Why Corindus Vascular Robotics Is Skyrocketing"
+    },
+    "tweet2": {
+      "content": "Why Corindus Vascular Robotics Is Skyrocketing"
+    },
+    "tweet3": {
+      "content": "Trump Keeps Accidentally Igniting Dollar With His Trade War"
+    }
+  },
+  "day153": {
+    "tweet1": {
+      "content": "Farm equipment maker Deere's dealers reel from trade war, bad weather"
+    },
+    "tweet2": {
+      "content": "Farm equipment maker Deere's dealers reel from trade war, bad weather"
+    },
+    "tweet3": {
+      "content": "Would a Currency War Help Boeing, CAT, COMPANY_X, and GE?"
+    },
+    "tweet4": {
+      "content": "Deere (COMPANY_X) Earnings Expected to Grow: Should You Buy?"
+    },
+    "tweet5": {
+      "content": "Deere (COMPANY_X) Earnings Expected to Grow: Should You Buy?"
+    },
+    "tweet6": {
+      "content": "Deere (COMPANY_X) Earnings Expected to Grow: Should You Buy?"
+    }
+  },
+  "day154": {
+    "tweet1": {
+      "content": "5 Top Stock Trades for Tuesday: ROKU, PINS, NFLX, MCD"
+    },
+    "tweet2": {
+      "content": "Factors Setting the Tone for Deere (COMPANY_X) in Q3 Earnings"
+    },
+    "tweet3": {
+      "content": "Factors Setting the Tone for Deere (COMPANY_X) in Q3 Earnings"
+    },
+    "tweet4": {
+      "content": "Does This Valuation Of Deere & Company (NYSE:COMPANY_X) Imply Investors Are Overpaying?"
+    },
+    "tweet5": {
+      "content": "CSX, Caterpillar, JPMorgan, Macy's, Wal-Mart, Deere & Co., Nvidia and Applied Materials are part of Zacks Earnings Preview"
+    },
+    "tweet6": {
+      "content": "CSX, Caterpillar, JPMorgan, Macy's, Wal-Mart, Deere & Co., Nvidia and Applied Materials are part of Zacks Earnings Preview"
+    },
+    "tweet7": {
+      "content": "Factors Setting the Tone for Deere (COMPANY_X) in Q3 Earnings"
+    },
+    "tweet8": {
+      "content": "CSX, Caterpillar, JPMorgan, Macy's, Wal-Mart, Deere & Co., Nvidia and Applied Materials are part of Zacks Earnings Preview"
+    },
+    "tweet9": {
+      "content": "5 Utility Stocks You Should Buy Right Now"
+    }
+  },
+  "day155": {
+    "tweet1": {
+      "content": "What to Expect from Deere & Company's (COMPANY_X) Q3 Earnings"
+    },
+    "tweet2": {
+      "content": "What to Expect from Deere & Company's (COMPANY_X) Q3 Earnings"
+    },
+    "tweet3": {
+      "content": "What to Expect from Deere & Company's (COMPANY_X) Q3 Earnings"
+    },
+    "tweet4": {
+      "content": "The USDA Dropped a Corn Bombshell. What It Means for Deere and Other Stocks."
+    },
+    "tweet5": {
+      "content": "5 Top Stock Trades for Tuesday: ROKU, PINS, NFLX, MCD"
+    },
+    "tweet6": {
+      "content": "5 Top Stock Trades for Tuesday: ROKU, PINS, NFLX, MCD"
+    }
+  },
+  "day156": {
+    "tweet1": {
+      "content": "Deere & Co. (COMPANY_X) Earnings Preview: Trade War and Tractors"
+    }
+  },
+  "day157": {
+    "tweet1": {
+      "content": "Top Analyst Reports: Deere, Baxter & More"
+    },
+    "tweet2": {
+      "content": "Top Analyst Reports: Deere, Baxter & More"
+    },
+    "tweet3": {
+      "content": "Pre-Market Earnings Report for August 16, 2019 :  COMPANY_X, QD, MSGN, NAT, GHG"
+    },
+    "tweet4": {
+      "content": "Pre-Market Earnings Report for August 16, 2019 :  COMPANY_X, QD, MSGN, NAT, GHG"
+    },
+    "tweet5": {
+      "content": "Top Analyst Reports: Deere, Baxter & More"
+    },
+    "tweet6": {
+      "content": "A Preview Of Deere's Q3 Earnings"
+    },
+    "tweet7": {
+      "content": "Day Ahead - Top 3 Things to Watch"
+    },
+    "tweet8": {
+      "content": "Deere Reports Earnings Tomorrow. Here’s What to Expect."
+    }
+  },
+  "day158": {
+    "tweet1": {
+      "content": "What Happened in the Stock Market Today"
+    },
+    "tweet2": {
+      "content": "What Happened in the Stock Market Today"
+    },
+    "tweet3": {
+      "content": "What Happened in the Stock Market Today"
+    },
+    "tweet4": {
+      "content": "Deere blames earnings miss on U.S.-China trade war"
+    },
+    "tweet5": {
+      "content": "Deere Makes Risky Call Farmers Will Use Bailout Cash on Tractors"
+    },
+    "tweet6": {
+      "content": "Deere Makes Risky Call Farmers Will Use Bailout Cash on Tractors"
+    },
+    "tweet7": {
+      "content": "Deere blames Q3 earnings miss on the trade war"
+    },
+    "tweet8": {
+      "content": "Deere's (COMPANY_X) Earnings and Revenues Miss Estimates in Q3"
+    },
+    "tweet9": {
+      "content": "Deere's (COMPANY_X) Earnings and Revenues Miss Estimates in Q3"
+    },
+    "tweet10": {
+      "content": "Housing Data Mixed, Deere Misses Q3 Estimates"
+    },
+    "tweet11": {
+      "content": "Housing Data Mixed, Deere Misses Q3 Estimates"
+    },
+    "tweet12": {
+      "content": "Mixed Housing Data for July"
+    },
+    "tweet13": {
+      "content": "Mixed Housing Data for July"
+    },
+    "tweet14": {
+      "content": "Deere Eyes Cost Cuts to Defend Margins Squeezed by Farm Pain"
+    },
+    "tweet15": {
+      "content": "Deere Stock Is Rising After Disappointing Earnings. Here’s Why."
+    },
+    "tweet16": {
+      "content": "Deere Gains as Savings Vow, Forecast Ease Investors’ Alarm"
+    },
+    "tweet17": {
+      "content": "The Zacks Analyst Blog Highlights: Deere, Baxter, EPAM Systems, NiSource and Universal Display"
+    },
+    "tweet18": {
+      "content": "The Zacks Analyst Blog Highlights: Deere, Baxter, EPAM Systems, NiSource and Universal Display"
+    },
+    "tweet19": {
+      "content": "Deere's (COMPANY_X) Earnings and Revenues Miss Estimates in Q3"
+    },
+    "tweet20": {
+      "content": "Companies to watch: Deere falls short, Nvidia posts beat, Applied Materials posts big quarter"
+    },
+    "tweet21": {
+      "content": "Deere says farmers are apprehensive and scaling back big purchases"
+    },
+    "tweet22": {
+      "content": "Mixed Housing Data for July"
+    },
+    "tweet23": {
+      "content": "Deere (COMPANY_X) Misses Q3 Earnings and Revenue Estimates"
+    },
+    "tweet24": {
+      "content": "Deere (COMPANY_X) Misses Q3 Earnings and Revenue Estimates"
+    },
+    "tweet25": {
+      "content": "Deere trims earnings forecast on trade war effects"
+    },
+    "tweet26": {
+      "content": "Deere trims earnings forecast on trade war effects"
+    },
+    "tweet27": {
+      "content": "Companies to Watch: Deere falls short, Nvidia posts beat, Applied Materials posts big quarter"
+    },
+    "tweet28": {
+      "content": "Housing Data Mixed, Deere Misses Q3 Estimates"
+    },
+    "tweet29": {
+      "content": "The Zacks Analyst Blog Highlights: Deere, Baxter, EPAM Systems, NiSource and Universal Display"
+    },
+    "tweet30": {
+      "content": "Deere Earnings Came Up Short. What It Means for the Stock."
+    },
+    "tweet31": {
+      "content": "[video]Dow Rises for a Second Day as Investors Seek Out Bargains to Close Wild Week"
+    },
+    "tweet32": {
+      "content": "Deere (COMPANY_X) Misses Q3 Earnings and Revenue Estimates"
+    },
+    "tweet33": {
+      "content": "Buy Deere Despite Missed Earnings as Guidance Is Optimistic"
+    },
+    "tweet34": {
+      "content": "Deere Reports Q3 Earnings Miss, Cuts Guidance"
+    },
+    "tweet35": {
+      "content": "Deere Misses Q3 Earnings Estimate as Trade Uncertainty Clouds Agricultural Unit"
+    },
+    "tweet36": {
+      "content": "Deere cuts profit outlook again as trade war hits farmers"
+    },
+    "tweet37": {
+      "content": "Deere shares dip 2.8% premarket after profit miss in weak agricultural sector"
+    },
+    "tweet38": {
+      "content": "UPDATE 1-Deere cuts full-year earnings forecast after profits miss estimates"
+    },
+    "tweet39": {
+      "content": "Deere Reports Third-Quarter Net Income of $899 Million"
+    },
+    "tweet40": {
+      "content": "Deere Reports Third-Quarter Net Income of $899 Million"
+    },
+    "tweet41": {
+      "content": "[video]Stocks Rise for a Second Day as Investors Seek Out Bargains to Close Wild Week"
+    },
+    "tweet42": {
+      "content": "Stocks - Wall Street Gains as Recession Fears Fade, Nvidia Boosts Tech"
+    },
+    "tweet43": {
+      "content": "Deere Is Investable and Is Certainly Not Overvalued"
+    },
+    "tweet44": {
+      "content": "Top 5 Things to Know in the Market on Friday"
+    }
+  },
+  "day159": {
+    "tweet1": {
+      "content": "A US recession is probably coming so investors should just deal with it"
+    },
+    "tweet2": {
+      "content": "Company News For Aug 19, 2019"
+    },
+    "tweet3": {
+      "content": "Company News For Aug 19, 2019"
+    },
+    "tweet4": {
+      "content": "Deere Analyst Says Company Took Earnings Miss And Guidance Cut 'In Stride'"
+    },
+    "tweet5": {
+      "content": "John Deere Misses But Shares Up: Agribusiness ETFs in Focus"
+    },
+    "tweet6": {
+      "content": "John Deere Misses But Shares Up: Agribusiness ETFs in Focus"
+    },
+    "tweet7": {
+      "content": "Company News For Aug 19, 2019"
+    },
+    "tweet8": {
+      "content": "John Deere Misses But Shares Up: Agribusiness ETFs in Focus"
+    }
+  },
+  "day160": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day161": {
+    "tweet1": {
+      "content": "Stakeholder Capitalism Will Fail If It’s Just Talk"
+    }
+  },
+  "day162": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day163": {
+    "tweet1": {
+      "content": "Soybeans Sink as China Hikes Tariffs on American Farm Products"
+    },
+    "tweet2": {
+      "content": "Trump Orders Biofuel Boost in Bid to Temper Farm State Anger"
+    },
+    "tweet3": {
+      "content": "Construction Demand to Buoy Deere Till Agriculture Picks Up"
+    },
+    "tweet4": {
+      "content": "Construction Demand to Buoy Deere Till Agriculture Picks Up"
+    },
+    "tweet5": {
+      "content": "Construction Demand to Buoy Deere Till Agriculture Picks Up"
+    }
+  },
+  "day164": {
+    "tweet1": {
+      "content": "10 Companies Using AI to Grow"
+    },
+    "tweet2": {
+      "content": "10 Companies Using AI to Grow"
+    },
+    "tweet3": {
+      "content": "Wall Street Rebounds Monday"
+    },
+    "tweet4": {
+      "content": "10 Companies Using AI to Grow"
+    },
+    "tweet5": {
+      "content": "Is It a Good Time to Buy Deere Again?"
+    },
+    "tweet6": {
+      "content": "Is It a Good Time to Buy Deere Again?"
+    },
+    "tweet7": {
+      "content": "3 Casualties of China's New Tariffs"
+    },
+    "tweet8": {
+      "content": "3 Casualties of China's New Tariffs"
+    },
+    "tweet9": {
+      "content": "Is It a Good Time to Buy Deere Again?"
+    }
+  },
+  "day165": {
+    "tweet1": {
+      "content": "Deere & Company Announces Quarterly Dividend"
+    },
+    "tweet2": {
+      "content": "Deere & Company Announces Quarterly Dividend"
+    },
+    "tweet3": {
+      "content": "Winners & Losers From the U.S.-China Trade Problem"
+    }
+  },
+  "day166": {
+    "tweet1": {
+      "content": "Notable Wednesday Option Activity: TTEC, COMPANY_X, TECD"
+    },
+    "tweet2": {
+      "content": "Notable Wednesday Option Activity: TTEC, COMPANY_X, TECD"
+    },
+    "tweet3": {
+      "content": "Daily Dividend Report: COMPANY_X, KBAL, COTY, LZB, LCII"
+    },
+    "tweet4": {
+      "content": "Daily Dividend Report: COMPANY_X, KBAL, COTY, LZB, LCII"
+    },
+    "tweet5": {
+      "content": "The Zacks Analyst Blog Highlights: Microsoft, Alliant Energy, General Motors, Caterpillar and Deere & Company"
+    },
+    "tweet6": {
+      "content": "The Zacks Analyst Blog Highlights: Microsoft, Alliant Energy, General Motors, Caterpillar and Deere & Company"
+    },
+    "tweet7": {
+      "content": "The Zacks Analyst Blog Highlights: Microsoft, Alliant Energy, General Motors, Caterpillar and Deere & Company"
+    }
+  },
+  "day167": {
+    "tweet1": {
+      "content": "China's Tariffs Strike Another Blow to Agricultural Stocks"
+    },
+    "tweet2": {
+      "content": "China's Tariffs Strike Another Blow to Agricultural Stocks"
+    },
+    "tweet3": {
+      "content": "China's Tariffs Strike Another Blow to Agricultural Stocks"
+    },
+    "tweet4": {
+      "content": "Deere names new CEO"
+    },
+    "tweet5": {
+      "content": "Deere Appoints New CEO, With Allen Staying on as Chairman"
+    },
+    "tweet6": {
+      "content": "Deere names COO John May as CEO"
+    },
+    "tweet7": {
+      "content": "Deere names John C. May as CEO, effective November 4"
+    },
+    "tweet8": {
+      "content": "Deere & Company Board Elects John May as CEO and Board Member"
+    },
+    "tweet9": {
+      "content": "Deere Appoints Long-Time Exec John May as Next CEO"
+    },
+    "tweet10": {
+      "content": "Deere names John May new chief executive"
+    }
+  },
+  "day168": {
+    "tweet1": {
+      "content": "Top Research Reports for Boeing, Starbucks & 3M"
+    },
+    "tweet2": {
+      "content": "Top Research Reports for Boeing, Starbucks & 3M"
+    },
+    "tweet3": {
+      "content": "Top Research Reports for Boeing, Starbucks & 3M"
+    }
+  },
+  "day169": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Boeing, Starbucks, 3M, Deere and Dollar General"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Boeing, Starbucks, 3M, Deere and Dollar General"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Boeing, Starbucks, 3M, Deere and Dollar General"
+    },
+    "tweet4": {
+      "content": "US companies raise $28bn of cheap debt in a single day"
+    },
+    "tweet5": {
+      "content": "US companies rush to take advantage of cheap credit"
+    }
+  },
+  "day170": {
+    "tweet1": {
+      "content": "Is Apple (AAPL) Stock a Safe Buy After Bond Sale, Ahead of iPhone Event?"
+    },
+    "tweet2": {
+      "content": "Mario Gabelli Comments on Deere & Co."
+    },
+    "tweet3": {
+      "content": "Mario Gabelli's Gabelli Asset Fund 2nd-Quarter Shareholder Commentary"
+    },
+    "tweet4": {
+      "content": "SWK Named Top 25 SAFE Dividend Stock Increasing Payments For Decades"
+    },
+    "tweet5": {
+      "content": "SWK Named Top 25 SAFE Dividend Stock Increasing Payments For Decades"
+    }
+  },
+  "day171": {
+    "tweet1": {
+      "content": "5 Industrial Stocks to Buy Now For 2025, Says RBC Capital"
+    }
+  },
+  "day172": {
+    "tweet1": {
+      "content": "Edited Transcript of COMPANY_X earnings conference call or presentation 16-Aug-19 2:00pm GMT"
+    }
+  },
+  "day173": {
+    "tweet1": {
+      "content": "Failed Afghan Talks Underscore Trump’s Foreign Policy Setbacks"
+    },
+    "tweet2": {
+      "content": "Deere Report Highlights Unique Position to Deliver Sustainable Outcomes"
+    },
+    "tweet3": {
+      "content": "Deere Report Highlights Unique Position to Deliver Sustainable Outcomes"
+    }
+  },
+  "day174": {
+    "tweet1": {
+      "content": "Bonds, Apple Event, Uber and Lyft Bill & Buy Ciena Stock - Free Lunch"
+    },
+    "tweet2": {
+      "content": "Bond Bonanza Gives Traders a Chance to Tidy Up"
+    }
+  },
+  "day175": {
+    "tweet1": {
+      "content": "COMT, BHP, COMPANY_X, SHW: Large Inflows Detected at ETF"
+    },
+    "tweet2": {
+      "content": "COMT, BHP, COMPANY_X, SHW: Large Inflows Detected at ETF"
+    },
+    "tweet3": {
+      "content": "Trade War Weighs on U.S. Agriculture, Brazil-Argentina Wins"
+    },
+    "tweet4": {
+      "content": "Morgan Stanley Sees 4 Stocks With Big Upside Even at Market's Peak"
+    },
+    "tweet5": {
+      "content": "Deere’s Largest Shareholder, Bill Gates, Now Owns More Than 10%"
+    },
+    "tweet6": {
+      "content": "Deere’s Largest Investor, Bill Gates, Bought Up More Stock"
+    },
+    "tweet7": {
+      "content": "Is Deere Finally Ready for an Upside Breakout?"
+    }
+  },
+  "day176": {
+    "tweet1": {
+      "content": "5 Industrial Companies to Consider as Trade Talks Resume"
+    },
+    "tweet2": {
+      "content": "Deere Slumps as Wells Fargo Issues a Downgrade"
+    },
+    "tweet3": {
+      "content": "Caterpillar and Deere Are Among 7 Stocks to Track as Construction Activity Slows"
+    },
+    "tweet4": {
+      "content": "Wells Fargo Downgrades Deere And Caterpillar, Sees 'Likely Need To Cut Production Soon'"
+    },
+    "tweet5": {
+      "content": "The Zacks Analyst Blog Highlights: Deere, AGCO, CNH, Nutrien and Mosaic"
+    },
+    "tweet6": {
+      "content": "Trump Rules Out Unilateral Move on Cutting Capital Gains Tax"
+    }
+  },
+  "day177": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day178": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day179": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day180": {
+    "tweet1": {
+      "content": "John Deere Credit Compania Financiera S.A. -- Moody's announces completion of a periodic review of ratings of John Deere Credit Compania Financiera S.A."
+    }
+  },
+  "day181": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day182": {
+    "tweet1": {
+      "content": "Traders Show Jitters Heading Into Weekend"
+    }
+  },
+  "day183": {
+    "tweet1": {
+      "content": "5 Winners From U.S.-China's &quot;Constructive&quot; Trade Talks"
+    }
+  },
+  "day184": {
+    "tweet1": {
+      "content": "Construction Markets, Wirtgen Buyout Aid Deere Amid Cost Woes"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Walmart, Deere & Company, Ford, Boeing and Intel"
+    }
+  },
+  "day185": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day186": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day187": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day188": {
+    "tweet1": {
+      "content": "Why Fundamental Investors Might Love Deere & Company (NYSE:COMPANY_X)"
+    },
+    "tweet2": {
+      "content": "One Bond Market Quietly Set Records in Turbulent September"
+    }
+  },
+  "day189": {
+    "tweet1": {
+      "content": "UPDATE 2-Deere to lay off 163 U.S. workers as trade war dents equipment demand"
+    },
+    "tweet2": {
+      "content": "Deere to lay off 163 manufacturing workers in U.S."
+    }
+  },
+  "day190": {
+    "tweet1": {
+      "content": "PMI Data Sees Trump Blame the Fed: Is He Right?"
+    },
+    "tweet2": {
+      "content": "Cummins Hits Milepost on 3-Millionth Engine Output for RAM"
+    }
+  },
+  "day191": {
+    "tweet1": {
+      "content": "Here is Hedge Funds’ 25th Most Popular Stock Pick"
+    }
+  },
+  "day192": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day193": {
+    "tweet1": {
+      "content": "Deere (COMPANY_X) Lays Off 163 Employees to Cope With Low Demand"
+    }
+  },
+  "day194": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Deere & Company, Lindsay, AGCO and Alamo Group"
+    }
+  },
+  "day195": {
+    "tweet1": {
+      "content": "CAT Dividend Continues amid Slowdown Worries"
+    },
+    "tweet2": {
+      "content": "Stock Market News For Oct 9, 2019"
+    },
+    "tweet3": {
+      "content": "Hedge Funds Are Betting On Deere & Company (COMPANY_X)"
+    }
+  },
+  "day196": {
+    "tweet1": {
+      "content": "Sector ETFs to Face Risk if Trade Talks Stall"
+    },
+    "tweet2": {
+      "content": "China-U.S. Set to Talk With Global Economy Facing Trade Crucible"
+    }
+  },
+  "day197": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day198": {
+    "tweet1": {
+      "content": "Deere to acquire Unimil, provider of aftermarkets parts for sugarcane harvesters"
+    },
+    "tweet2": {
+      "content": "Deere to acquire Unimil, provider of aftermarkets parts for sugarcane harvesters"
+    },
+    "tweet3": {
+      "content": "PG&E, Boeing, Deere, Sears, Apple: Companies to Watch"
+    },
+    "tweet4": {
+      "content": "Stock Market News For Oct 14, 2019"
+    },
+    "tweet5": {
+      "content": "5 Stocks in Focus on U.S.-China Partial Trade Truce"
+    }
+  },
+  "day199": {
+    "tweet1": {
+      "content": "Buy Deere Stock After the Corn Bombshell Was a Dud, Analysts Say"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Microsoft, KLA-Tencor, QUALCOMM, YUM! Brands and Deere & Co."
+    },
+    "tweet3": {
+      "content": "Earnings Season Just Started. Here Are 12 Stocks That Could Come Out Losers."
+    },
+    "tweet4": {
+      "content": "Deere (COMPANY_X) to Buy Unimil, Expand Sugarcane Business in Brazil"
+    },
+    "tweet5": {
+      "content": "What Kind Of Shareholders Own Deere & Company (NYSE:COMPANY_X)?"
+    },
+    "tweet6": {
+      "content": "Earnings Season Is Starting. Here Are 12 Stocks That Could Come Out Losers."
+    }
+  },
+  "day200": {
+    "tweet1": {
+      "content": "Will These 3 Giant Companies Blow It Again?"
+    }
+  },
+  "day201": {
+    "tweet1": {
+      "content": "Trump Vowed to Save Coal, Now Miners Are Getting Laid Off"
+    }
+  },
+  "day202": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day203": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day204": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day205": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day206": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day207": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day208": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day209": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day210": {
+    "tweet1": {
+      "content": "Low Rates and Low Inflation? Not Always on Main Street"
+    }
+  },
+  "day211": {
+    "tweet1": {
+      "content": "China Doubts Long-Term Trade Deal Possible With Trump"
+    },
+    "tweet2": {
+      "content": "Is Deere & Company's (NYSE:COMPANY_X) P/E Ratio Really That Good?"
+    },
+    "tweet3": {
+      "content": "Deere Finally Breaks Out, so Fire Up Your Engine and Buy"
+    }
+  },
+  "day212": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day213": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day214": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day215": {
+    "tweet1": {
+      "content": "Diamond Hill Continues to Buy Baidu, Deere"
+    }
+  },
+  "day216": {
+    "tweet1": {
+      "content": "CES Innovation Awards honors John Deere in Tech for a Better World category"
+    },
+    "tweet2": {
+      "content": "Trump-Xi Trade Summit May Slip to December, Be Outside U.S."
+    }
+  },
+  "day217": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day218": {
+    "tweet1": {
+      "content": "Trump’s Road to Impeachment Paved by All the President’s Yes Men"
+    }
+  },
+  "day219": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day220": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day221": {
+    "tweet1": {
+      "content": "8 Undervalued Stocks Diamond Hill Capital Continues to Buy"
+    },
+    "tweet2": {
+      "content": "Deere and Other Farming Stocks Are a Puzzle. Why Wall Street Can’t Agree."
+    }
+  },
+  "day222": {
+    "tweet1": {
+      "content": "Wall Street Is Confused About Farming. If the Weather Improves, Investors Could Win."
+    },
+    "tweet2": {
+      "content": "FOCUS-Deere workers grapple with fallout from Trump's trade war"
+    },
+    "tweet3": {
+      "content": "Deere workers grapple with fallout from Trump's trade war"
+    }
+  },
+  "day223": {
+    "tweet1": {
+      "content": "Why Deere & Company’s (NYSE:COMPANY_X) Return On Capital Employed Might Be A Concern"
+    }
+  },
+  "day224": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day225": {
+    "tweet1": {
+      "content": "Trump’s 2020 Campaign Collides With Trade War at Apple Plant"
+    },
+    "tweet2": {
+      "content": "Analysts Estimate Deere (COMPANY_X) to Report a Decline in Earnings: What to Look Out for"
+    }
+  },
+  "day226": {
+    "tweet1": {
+      "content": "7 Earnings Reports to Watch Next Week"
+    }
+  },
+  "day227": {
+    "tweet1": {
+      "content": "Pullback in Farming Equipment Stocks Offers Opportunity"
+    },
+    "tweet2": {
+      "content": "Deere (COMPANY_X) to Report Q4 Earnings: What's in the Offing?"
+    }
+  },
+  "day228": {
+    "tweet1": {
+      "content": "Deere’s Strategy Matters More Than the Weather. That’s Good for the Stock."
+    }
+  },
+  "day229": {
+    "tweet1": {
+      "content": "Deere Earnings Are Coming. Here’s What to Expect."
+    },
+    "tweet2": {
+      "content": "More Retail Results Pour In Ahead Of Holiday After Monday's Record-Setting Session"
+    },
+    "tweet3": {
+      "content": "5 Earnings Charts to Watch This Thanksgiving Week"
+    }
+  },
+  "day230": {
+    "tweet1": {
+      "content": "Stocks close at new records on rosier U.S. economic data, trade deal hopes"
+    },
+    "tweet2": {
+      "content": "Stock Market Live Updates: Record highs amid strong economic data"
+    },
+    "tweet3": {
+      "content": "US STOCKS-Solid data, trade hopes lift Wall St to records"
+    },
+    "tweet4": {
+      "content": "Deere Loses Buy Point As 'Lingering Trade Tensions' Hit Outlook"
+    },
+    "tweet5": {
+      "content": "Top 5 Holdings of Al Gore's Generation Investment Management"
+    },
+    "tweet6": {
+      "content": "Stocks edge up to new records on rosier economic data, trade deal hopes"
+    },
+    "tweet7": {
+      "content": "US STOCKS-Strong data, trade optimism propel Wall St to record levels"
+    },
+    "tweet8": {
+      "content": "Deere Stock Is Sliding, Autodesk Soars, as the Dow Holds Its Ground"
+    },
+    "tweet9": {
+      "content": "US STOCKS-Robust data, trade deal hopes push Wall St to record levels"
+    },
+    "tweet10": {
+      "content": "Deere warns of lower profits in 2020 on lingering trade tensions"
+    },
+    "tweet11": {
+      "content": "Deere's Dour Outlook Tests Faith in Manufacturing Rebound"
+    },
+    "tweet12": {
+      "content": "Deere's Dour Outlook Tests Faith in Manufacturing Rebound"
+    },
+    "tweet13": {
+      "content": "Deere Trades Lower Despite Q4 Sales Beat, Forecasts Drop In Agriculture Sales"
+    },
+    "tweet14": {
+      "content": "US STOCKS-Wall St at record levels on trade hopes, robust economic data"
+    },
+    "tweet15": {
+      "content": "Deere's (COMPANY_X) Earnings and Revenues Trump Estimates in Q4"
+    },
+    "tweet16": {
+      "content": "Stocks modestly higher after another round of stock-market records, economic data"
+    },
+    "tweet17": {
+      "content": "Stocks open modestly higher after another round of stock-market records, economic data"
+    },
+    "tweet18": {
+      "content": "Deere Outlook Disappoints as Trade War Keeps Farmers Frugal"
+    },
+    "tweet19": {
+      "content": "Deere Shares Drop After Grim Earnings. That’s Bad News for Construction Equipment Stocks."
+    },
+    "tweet20": {
+      "content": "Deere blames farmers' caution, trade tensions for Q4 profit dip"
+    },
+    "tweet21": {
+      "content": "December selloff warning from strategist who predicted last year’s rout"
+    },
+    "tweet22": {
+      "content": "Stocks edge to record highs after round of upbeat economic data"
+    },
+    "tweet23": {
+      "content": "John Deere beats on earnings but warns over trade tensions"
+    },
+    "tweet24": {
+      "content": "US STOCKS-Wall St set to edge higher at open on trade optimism, upbeat data"
+    },
+    "tweet25": {
+      "content": "Deere warns of lower profits in 2020 on lingering trade tensions"
+    },
+    "tweet26": {
+      "content": "Benzinga Pro's Stocks To Watch For Wednesday, Nov. 27th, 2019: COMPANY_X, ADSK, GES, MNK, AMZN"
+    },
+    "tweet27": {
+      "content": "Deere Offers Grim Financial Guidance. It’s Bad News for Construction Equipment Stocks."
+    },
+    "tweet28": {
+      "content": "The Issue With Deere Is Its Guidance"
+    },
+    "tweet29": {
+      "content": "U.S. Stocks Set to Open Higher, but These Stocks Are Falling"
+    },
+    "tweet30": {
+      "content": "Deere (COMPANY_X) Q4 Earnings and Revenues Top Estimates"
+    },
+    "tweet31": {
+      "content": "Deere Earnings Narrowly Beat, But Stock Falls On Weak Guidance Amid 'Lingering Trade Tensions'"
+    },
+    "tweet32": {
+      "content": "UPDATE 4-Deere warns of lower profits in 2020 on lingering trade tensions"
+    },
+    "tweet33": {
+      "content": "Deere shares slide 4.3% premarket after company issues profit warning for fiscal 2020"
+    },
+    "tweet34": {
+      "content": "Deere reports higher sales, but cites uncertainties in agriculture sector"
+    },
+    "tweet35": {
+      "content": "Deere Announces Net Income of $3.253 Billion for Year"
+    },
+    "tweet36": {
+      "content": "Dow Slips After Hitting Record High, Trump Says U.S. Close to Deal With China"
+    },
+    "tweet37": {
+      "content": "Stocks - Wall Street Opens Slightly Higher After Upbeat Data"
+    },
+    "tweet38": {
+      "content": "Deere in the Headlights: Where's the Stock Headed After Earnings?"
+    },
+    "tweet39": {
+      "content": "Stocks - Deere, Boeing Fall Premarket; Apple, Tesla Rise"
+    },
+    "tweet40": {
+      "content": "10 ‘Stellar’ Growth Stocks for a ‘Range-Bound’ Bull Market"
+    },
+    "tweet41": {
+      "content": "Stocks - U.S. Futures Push for Santa Rally, Trade Deal in “Final Throes&quot;"
+    },
+    "tweet42": {
+      "content": "Deere & Co Forecasts 2020 Agricultural Sales Slide Amid Global Trade Uncertainty"
+    },
+    "tweet43": {
+      "content": "Do Hedge Funds Love Deere & Company (COMPANY_X)?"
+    },
+    "tweet44": {
+      "content": "Deere slashes profit forecasts on farm industry pain"
+    }
+  },
+  "day231": {
+    "tweet1": {
+      "content": "Two Dead in London Bridge Terror Attack, Police Say: U.K. Update"
+    },
+    "tweet2": {
+      "content": "The Dow Is Sliding, but Tech Data Stock Is Taking Off"
+    },
+    "tweet3": {
+      "content": "Deere shares slide on profit warning as uncertain farmers are not buying equipment"
+    },
+    "tweet4": {
+      "content": "Farm machinery makers, Brazil banks working on private financing - Deere"
+    }
+  },
+  "day232": {
+    "tweet1": {
+      "content": "Profit Takers Abound as Stocks Pull Back"
+    },
+    "tweet2": {
+      "content": "Deere Stock Downgraded Again. Here’s What Worries Wall Street."
+    },
+    "tweet3": {
+      "content": "Deere shares fall in early trade after BofA Merrill Lynch downgrade"
+    },
+    "tweet4": {
+      "content": "Roku Stock Is Sliding as the Dow Starts December With a Gain"
+    }
+  },
+  "day233": {
+    "tweet1": {
+      "content": "New Strong Sell Stocks for December 3rd"
+    }
+  },
+  "day234": {
+    "tweet1": {
+      "content": "Top Analyst Reports for TOTAL, Broadcom & United Parcel Service"
+    },
+    "tweet2": {
+      "content": "Deere & Company Announces Quarterly Dividend"
+    }
+  },
+  "day235": {
+    "tweet1": {
+      "content": "Deere & Co. Might Not Be Worth Your Money"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: TOTAL, Broadcom, United Parcel Service, Deere and HP"
+    },
+    "tweet3": {
+      "content": "Farming Innovations Aid Deere Amid Poor Agricultural Market"
+    },
+    "tweet4": {
+      "content": "Stock Market News for Dec 5, 2019"
+    }
+  },
+  "day236": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day237": {
+    "tweet1": {
+      "content": "How to Trade Earnings Volatility for Deere Stock"
+    }
+  },
+  "day238": {
+    "tweet1": {
+      "content": "Kudlow: Dec. 15 tariffs ‘are still on the table’"
+    },
+    "tweet2": {
+      "content": "A Closer Look At Deere & Company's (NYSE:COMPANY_X) Impressive ROE"
+    }
+  },
+  "day239": {
+    "tweet1": {
+      "content": "Edited Transcript of COMPANY_X earnings conference call or presentation 27-Nov-19 3:00pm GMT"
+    }
+  },
+  "day240": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day241": {
+    "tweet1": {
+      "content": "John Deere Credit Compania Financiera S.A. -- Moody's rates John Deere Credit Compañía Financiera S.A.'s proposed senior bonds"
+    },
+    "tweet2": {
+      "content": "Trade Deal Cut in Principle? Sector ETFs to Soar"
+    }
+  },
+  "day242": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day243": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day244": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day245": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day246": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day247": {
+    "tweet1": {
+      "content": "John Deere Capital Corporation -- Moody's announces completion of a periodic review of ratings of Deere & Company"
+    }
+  },
+  "day248": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day249": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day250": {
+    "tweet1": {
+      "content": "Why Is Deere (COMPANY_X) Up 3.4% Since Last Earnings Report?"
+    }
+  },
+  "day251": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day252": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day253": {
+    "tweet1": {
+      "content": "Top Stock Reports for Pfizer, BP & Fidelity National Information Services"
+    },
+    "tweet2": {
+      "content": "Can You Imagine How Chuffed Deere's (NYSE:COMPANY_X) Shareholders Feel About Its 103% Share Price Gain?"
+    }
+  },
+  "day254": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Pfizer, BP, Fidelity National Information Services, Deere & Company and Equity Residential"
+    }
+  },
+  "day255": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day256": {
+    "tweet1": {
+      "content": "Delta Is Using CES to Talk About Better Baggage Handling, Shorter Lines, and More Wi-Fi"
+    }
+  },
+  "day257": {
+    "tweet1": {
+      "content": "Deere bets on cost cuts, services push to boost profits"
+    }
+  },
+  "day258": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day259": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day260": {
+    "tweet1": {
+      "content": "New Strong Sell Stocks for January 13th"
+    }
+  },
+  "day261": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day262": {
+    "tweet1": {
+      "content": "Market Morning: Trade Deal Signing, Bitcoin Fracas, Trump Rages at Apple, Jet Fuel Rain"
+    }
+  },
+  "day263": {
+    "tweet1": {
+      "content": "How farms can be part of the climate change solution: US Agriculture Secretary"
+    },
+    "tweet2": {
+      "content": "Deere Aims to Reap Billions With ‘Corn Warrior’ Technologies"
+    }
+  },
+  "day264": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day265": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day266": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day267": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day268": {
+    "tweet1": {
+      "content": "John Deere names 4 new companies in its startup collaborator program"
+    },
+    "tweet2": {
+      "content": "At US$172, Is It Time To Put Deere & Company (NYSE:COMPANY_X) On Your Watch List?"
+    },
+    "tweet3": {
+      "content": "6 Cheap Stocks With Low Price-Sales Ratios"
+    }
+  },
+  "day269": {
+    "tweet1": {
+      "content": "Sonos Should Give Up Hardware-Only Business Model"
+    },
+    "tweet2": {
+      "content": "Arcosa, Deere and Company, McDonald's, Darden Restaurants and Denny's highlighted as Zacks Bull and Bear of the Day"
+    },
+    "tweet3": {
+      "content": "Bear of the Day: Deere and Company (COMPANY_X)"
+    }
+  },
+  "day270": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day271": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day272": {
+    "tweet1": {
+      "content": "WRAPUP 14-U.S. ramps up anti-coronavirus measures at border as impact spreads"
+    },
+    "tweet2": {
+      "content": "Virus Raises Worry China Won’t Meet U.S. Trade-Deal Pledges"
+    }
+  },
+  "day273": {
+    "tweet1": {
+      "content": "Deere temporarily closes its facilities in China because of coronavirus"
+    }
+  },
+  "day274": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day275": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day276": {
+    "tweet1": {
+      "content": "Construction Machinery Stocks Dig in at Support"
+    }
+  },
+  "day277": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day278": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day279": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day280": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day281": {
+    "tweet1": {
+      "content": "First Eagle Investment Cuts 3M, Microsoft"
+    }
+  },
+  "day282": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day283": {
+    "tweet1": {
+      "content": "Analysts Estimate Deere (COMPANY_X) to Report a Decline in Earnings: What to Look Out for"
+    },
+    "tweet2": {
+      "content": "Trump’s Fed Nominee Shelton Faces Doubts Among GOP Senators"
+    }
+  },
+  "day284": {
+    "tweet1": {
+      "content": "Expeditors International, Norwegian Cruise line, WalMart and Deere are part of Zacks Earnings Preview"
+    }
+  },
+  "day285": {
+    "tweet1": {
+      "content": "Buy Up and Down Deere (COMPANY_X) Stock Ahead of Q1 2020 Earnings?"
+    },
+    "tweet2": {
+      "content": "John Deere Credit Compania Financiera S.A. -- Moody's rates John Deere Credit Compañía Financiera S.A.'s proposed senior bonds"
+    },
+    "tweet3": {
+      "content": "Al Gore’s Firm Sold Deere, Analog Devices, and Microsoft Stock. Here’s What It’s Buying."
+    }
+  },
+  "day286": {
+    "tweet1": {
+      "content": "Day Ahead: Top 3 Things to Watch for Feb. 21"
+    },
+    "tweet2": {
+      "content": "U.S. manufacturers scramble for costly alternatives as coronavirus cuts Chinese supplies"
+    },
+    "tweet3": {
+      "content": "China Stimulus Doesn't Translate Into US Strength As Deere Prepares To Report Friday"
+    },
+    "tweet4": {
+      "content": "Deere Reports Earnings on Friday. Here’s What to Expect."
+    }
+  },
+  "day287": {
+    "tweet1": {
+      "content": "Deere Helps Agribusiness ETFs Shake Off Market Weakness"
+    },
+    "tweet2": {
+      "content": "The Dow Fell 228 Points Because the U.S. Economy Took a Hit in February"
+    },
+    "tweet3": {
+      "content": "US Indexes Lower Friday and for the Week"
+    },
+    "tweet4": {
+      "content": "U.S. stocks slump, ending two week win streak, led by tech sector as coronavirus worries ratchet higher"
+    },
+    "tweet5": {
+      "content": "US STOCKS-Coronavirus fears, U.S. business data drag down Wall Street"
+    },
+    "tweet6": {
+      "content": "4 Top Stock Trades for Monday: WORK, GLD, COMPANY_X, DBX"
+    },
+    "tweet7": {
+      "content": "US STOCKS-Wall St drops as coronavirus fears, business activity data weigh"
+    },
+    "tweet8": {
+      "content": "Coronavirus Caution Keeps High-Flying Deere’s Feet on the Ground"
+    },
+    "tweet9": {
+      "content": "US STOCKS-Wall St slides as gloomy data adds to coronavirus fears"
+    },
+    "tweet10": {
+      "content": "The Dow Is Down More than 200 Points. This Time There’s More to Blame Than the Coronavirus."
+    },
+    "tweet11": {
+      "content": "US STOCKS-Wall St slides as gloomy data adds to coronavirus fears"
+    },
+    "tweet12": {
+      "content": "Stocks - S&P Posts First Loss in Three Weeks Amid Rout in Chip Stocks"
+    },
+    "tweet13": {
+      "content": "Deere's shares hit all-time high on unexpected rise in quarterly profit"
+    },
+    "tweet14": {
+      "content": "Deere Is Seeing Green After Earnings: How to Trade the Stock Now"
+    },
+    "tweet15": {
+      "content": "Deere Trades higher After Major Q1 Earnings Beat"
+    },
+    "tweet16": {
+      "content": "Tech stocks lead Wall Street slide as coronavirus worries rise"
+    },
+    "tweet17": {
+      "content": "Deere posts profit surprise"
+    },
+    "tweet18": {
+      "content": "Deere Sows Earnings Beat as Trade Deal Emboldens Farmers"
+    },
+    "tweet19": {
+      "content": "John Deere says farm sector shows 'early signs of stabilization'"
+    },
+    "tweet20": {
+      "content": "Financial Sector Stocks Could Be In Focus Today As Treasury Yields Falter, But Deere Shines"
+    },
+    "tweet21": {
+      "content": "Deere Surges Most Since 2016 on Surprise Growth in Farm Recovery"
+    },
+    "tweet22": {
+      "content": "Stocks - Deere, Sprint Surge in Premarket; Virgin Galactic Stalls"
+    },
+    "tweet23": {
+      "content": "Deere's (COMPANY_X) Earnings and Revenues Trump Estimates in Q1"
+    },
+    "tweet24": {
+      "content": "Stocks open modestly lower as Nasdaq heads for back-to-back losses"
+    },
+    "tweet25": {
+      "content": "Deere Stock Is Surging but the Dow and Oil Are Under Pressure Again"
+    },
+    "tweet26": {
+      "content": "US STOCKS-Wall St set to fall again as coronavirus spreads beyond China"
+    },
+    "tweet27": {
+      "content": "Stocks - Wall Street Set to Snap 2-Week Win Streak as Virus Jitters Return"
+    },
+    "tweet28": {
+      "content": "US STOCKS-Futures slide as coronavirus spreads beyond China"
+    },
+    "tweet29": {
+      "content": "Deere (COMPANY_X) Q1 Earnings and Revenues Top Estimates"
+    },
+    "tweet30": {
+      "content": "‘Overprotected’ investors could get stung in the next recession, warns top Barclays strategist"
+    },
+    "tweet31": {
+      "content": "Deere Smashes Earnings. The Stock Is Soaring."
+    },
+    "tweet32": {
+      "content": "Deere Reports First-Quarter Income of $517 Million"
+    },
+    "tweet33": {
+      "content": "Deere's unexpected rise in quarterly profits sends shares soaring"
+    },
+    "tweet34": {
+      "content": "Deere tops forecasts on fourth quarter as it reiterates full-year view"
+    },
+    "tweet35": {
+      "content": "Stocks - Wall Street Opens Lower as Fed Officials Damp Rate Hopes"
+    },
+    "tweet36": {
+      "content": "Deere profits boosted by relaxation of US-China trade spat"
+    }
+  },
+  "day288": {
+    "tweet1": {
+      "content": "Company News for Feb 24, 2020"
+    },
+    "tweet2": {
+      "content": "Deere (COMPANY_X) Looks Good: Stock Adds 7% in Session"
+    },
+    "tweet3": {
+      "content": "Deere Breaks Out From Channel Amid Farming Turnaround"
+    }
+  },
+  "day289": {
+    "tweet1": {
+      "content": "Deere recognized as one of the World's Most Ethical Companies"
+    },
+    "tweet2": {
+      "content": "Deere recognized as one of the World's Most Ethical Companies"
+    },
+    "tweet3": {
+      "content": "FOCUS-Deere taps tractor-hailing tech in bid to break ground in Africa"
+    },
+    "tweet4": {
+      "content": "John Deere hopes to break ground in Africa through tractor-hailing tech"
+    },
+    "tweet5": {
+      "content": "Deere taps tractor-hailing tech in bid to break ground in Africa"
+    }
+  },
+  "day290": {
+    "tweet1": {
+      "content": "Most New Infections Now Outside China, WHO Says: Virus Update"
+    },
+    "tweet2": {
+      "content": "Deere & Company Announces Quarterly Dividend"
+    },
+    "tweet3": {
+      "content": "Deere & Company Announces Quarterly Dividend"
+    }
+  },
+  "day291": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day292": {
+    "tweet1": {
+      "content": "Deere & Co. to indefinitely lay off 42 employees in Waterloo, Iowa - statement"
+    }
+  },
+  "day293": {
+    "tweet1": {
+      "content": "John Deere Owner Trust 2020 -- Moody's assigns provisional ratings to John Deere Owner Trust 2020"
+    },
+    "tweet2": {
+      "content": "Deere names CEO John May chairman"
+    },
+    "tweet3": {
+      "content": "Allen elects to retire as Deere Board chairman May 1st"
+    }
+  },
+  "day294": {
+    "tweet1": {
+      "content": "Top Analyst Reports for Merck, Novartis & Mondelez"
+    }
+  },
+  "day295": {
+    "tweet1": {
+      "content": "Deere Strong on Farm Income, Construction Segment a Sore Spot"
+    },
+    "tweet2": {
+      "content": "Edited Transcript of COMPANY_X earnings conference call or presentation 21-Feb-20 3:00pm GMT"
+    }
+  },
+  "day296": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day297": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day298": {
+    "tweet1": {
+      "content": "IBD Rating Upgrades: Deere & Company Flashes Improved Relative Price Strength"
+    }
+  },
+  "day299": {
+    "tweet1": {
+      "content": "Agriculture Investments Could Pay Off in This Market"
+    }
+  },
+  "day300": {
+    "tweet1": {
+      "content": "John Deere Owner Trust 2020 -- Moody's assigns definitive ratings to John Deere Owner Trust 2020"
+    },
+    "tweet2": {
+      "content": "Bargain Buys- EVs, Renewables and Climate Change Plays"
+    }
+  },
+  "day301": {
+    "tweet1": {
+      "content": "Hedge Funds Are Buying Deere & Company (COMPANY_X)"
+    }
+  },
+  "day302": {
+    "tweet1": {
+      "content": "Is Deere & Company (NYSE:COMPANY_X) An Attractive Dividend Stock?"
+    }
+  },
+  "day303": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day304": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day305": {
+    "tweet1": {
+      "content": "‘The Fed and the authorities need to be a bit more precise’:iQ Capital USA"
+    }
+  },
+  "day306": {
+    "tweet1": {
+      "content": "How Does Deere's (NYSE:COMPANY_X) P/E Compare To Its Industry, After The Share Price Drop?"
+    }
+  },
+  "day307": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day308": {
+    "tweet1": {
+      "content": "Deere (COMPANY_X) Stock Moves -0.43%: What You Should Know"
+    },
+    "tweet2": {
+      "content": "These Miners Cut Production Due To Coronavirus; John Deere Pulls Guidance"
+    },
+    "tweet3": {
+      "content": "John Deere Withdraws 2020 Financial Outlook"
+    }
+  },
+  "day309": {
+    "tweet1": {
+      "content": "Deere, World’s Biggest Tractor Maker, Halts Output in Brazil"
+    },
+    "tweet2": {
+      "content": "Farm Equipment Makers Pull Guidances on Coronavirus Impact"
+    },
+    "tweet3": {
+      "content": "Tractor Makers Stung by Trade Wars Now Face Virus Cutbacks"
+    }
+  },
+  "day310": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day311": {
+    "tweet1": {
+      "content": "Brazil farm machinery sales, manufacturing slump amid coronavirus"
+    },
+    "tweet2": {
+      "content": "Deere & Company (NYSE:COMPANY_X) Stock Goes Ex-Dividend In Just 3 Days"
+    }
+  },
+  "day312": {
+    "tweet1": {
+      "content": "Wall Street Looks at Coronavirus’s Impact on Machinery. Caterpillar and Deere Are in Focus."
+    },
+    "tweet2": {
+      "content": "What Made You Think the Rally Wouldn’t Get Sold?: Taking Stock"
+    }
+  },
+  "day313": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day314": {
+    "tweet1": {
+      "content": "Top Research Reports for American Tower, Equinix & Deere"
+    }
+  },
+  "day315": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: American Tower, Equinix, Deere, NVIDIA and NextEra"
+    },
+    "tweet2": {
+      "content": "There’s More Pain Ahead for Already-Beleaguered Factories"
+    }
+  },
+  "day316": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day317": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day318": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day319": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day320": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day321": {
+    "tweet1": {
+      "content": "Deere Begins Production Of Protective Face Shields For Health-Care Workers"
+    },
+    "tweet2": {
+      "content": "Deere Begins Production Of Protective Face Shields For Health-Care Workers"
+    }
+  },
+  "day322": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day323": {
+    "tweet1": {
+      "content": "America's manufacturing activity is about to crash by the most since World War II: Goldman Sachs"
+    },
+    "tweet2": {
+      "content": "Pandemic survival plans: U.S. businesses scramble to conserve cash, boost liquidity"
+    }
+  },
+  "day324": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day325": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day326": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Caterpillar, Terex, Deere & Company, AGCO and Sharps Compliance"
+    }
+  },
+  "day327": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day328": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day329": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day330": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day331": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day332": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day333": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day334": {
+    "tweet1": {
+      "content": "The Stock Market Can Keep Rallying, or Get Crushed. How to Win Either Way."
+    }
+  },
+  "day335": {
+    "tweet1": {
+      "content": "Trump Mulls Punishing China; Gilead Readies Drugs: Virus Update"
+    }
+  },
+  "day336": {
+    "tweet1": {
+      "content": "Massif Capital is Bullish on Star Bulk (SBLK), Bearish on John Deere (COMPANY_X)"
+    },
+    "tweet2": {
+      "content": "Verizon Executive Erwin Joins Deere Board of Directors"
+    },
+    "tweet3": {
+      "content": "Verizon Executive Erwin Joins Deere Board of Directors"
+    }
+  },
+  "day337": {
+    "tweet1": {
+      "content": "Were Hedge Funds Right About Deere & Company (COMPANY_X)?"
+    }
+  },
+  "day338": {
+    "tweet1": {
+      "content": "Nine stocks that face dividend-cut risks from analysts who ‘restate’ the earnings reports of 32,000 companies"
+    }
+  },
+  "day339": {
+    "tweet1": {
+      "content": "Charts Suggest Agriculture Sector Could Head Higher"
+    }
+  },
+  "day340": {
+    "tweet1": {
+      "content": "How Deere, Caterpillar kept plants running during the coronavirus outbreak"
+    },
+    "tweet2": {
+      "content": "How Deere, Caterpillar kept plants running during the coronavirus outbreak"
+    }
+  },
+  "day341": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day342": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day343": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day344": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day345": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day346": {
+    "tweet1": {
+      "content": "Earnings Preview: Deere (COMPANY_X) Q2 Earnings Expected to Decline"
+    }
+  },
+  "day347": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day348": {
+    "tweet1": {
+      "content": "Deere (COMPANY_X) to Report Q2 Earnings: What's in the Offing?"
+    }
+  },
+  "day349": {
+    "tweet1": {
+      "content": "Deere Reports Earnings on Friday. Here’s What to Expect."
+    }
+  },
+  "day350": {
+    "tweet1": {
+      "content": "Fed's Powell: U.S. economy faces ‘great uncertainty’"
+    },
+    "tweet2": {
+      "content": "Deere Reports Earnings Tomorrow. Here’s What Wall Street Is Saying."
+    },
+    "tweet3": {
+      "content": "Ford Is the Poster Child for America's Grand Reopening"
+    }
+  },
+  "day351": {
+    "tweet1": {
+      "content": "Stock market news live updates: Stocks end mixed, but rise on the week, as US-China tensions mount"
+    },
+    "tweet2": {
+      "content": "Deere Beats on Earnings, Misses on Guidance Amid Virus Barriers"
+    },
+    "tweet3": {
+      "content": "Deere Blows Past Analyst Estimates, but Takes Guidance Way Down"
+    },
+    "tweet4": {
+      "content": "3 Stocks to Watch Friday"
+    },
+    "tweet5": {
+      "content": "Dow sags ahead of Memorial Day weekend as investors watch China-U.S. tensions"
+    },
+    "tweet6": {
+      "content": "Deere Stock Gaps Higher and Fades - Here's the Trade"
+    },
+    "tweet7": {
+      "content": "What Investors Should Know About Deere's 2nd-Quarter Results"
+    },
+    "tweet8": {
+      "content": "Stocks - Dow Notches Weekly Win After Cutting Losses to End Flat"
+    },
+    "tweet9": {
+      "content": "John Deere reports strong earnings in Q2, warns of trouble ahead from COVID-19"
+    },
+    "tweet10": {
+      "content": "Market Tumbles on Hong Kong Tensions"
+    },
+    "tweet11": {
+      "content": "Hong Kong Tensions Sell Indexes Worldwide; Plus COMPANY_X, FL"
+    },
+    "tweet12": {
+      "content": "Stocks - Dow Eases From Lows, but Sentiment Fragile as U.S.-China Tensions Flare"
+    },
+    "tweet13": {
+      "content": "Deere sales slide but beat expectations; Foot Locker posts wider than expected loss"
+    },
+    "tweet14": {
+      "content": "Deere's (COMPANY_X) Earnings and Revenues Beat Estimates in Q2"
+    },
+    "tweet15": {
+      "content": "Deere Tops Q2 Profit Forecast, Warns on '20 Equipment Sales"
+    },
+    "tweet16": {
+      "content": "John Deere Tops Q2 Profit Forecast, Warns on 2020 Equipment Sales Slump Amid COVID-19 Pandemic"
+    },
+    "tweet17": {
+      "content": "Deere (COMPANY_X) Tops Q2 Earnings and Revenue Estimates"
+    },
+    "tweet18": {
+      "content": "Deere Crushed Earnings Estimates. Its Stock Is Flying."
+    },
+    "tweet19": {
+      "content": "Deere: Q2 Earnings Insights"
+    },
+    "tweet20": {
+      "content": "Deere signals recovery as U.S. farmers to benefit from relief program"
+    },
+    "tweet21": {
+      "content": "Focused on Safe Operations, Deere Reports Second Quarter Net Income of $665.8 Million"
+    },
+    "tweet22": {
+      "content": "Focused on Safe Operations, Deere Reports Second Quarter Net Income of $665.8 Million"
+    },
+    "tweet23": {
+      "content": "Deere's stock gains after profit and revenue fall, but beat expectations"
+    },
+    "tweet24": {
+      "content": "Deere's stock gains after profit and revenue fall, but beat expectations"
+    },
+    "tweet25": {
+      "content": "Deere profit slumps 41% as farm equipment demand crashes"
+    },
+    "tweet26": {
+      "content": "Alibaba, Deere, Foot Locker earnings on deck: What to know in markets Friday"
+    }
+  },
+  "day352": {
+    "tweet1": {
+      "content": "John Deere Q2 Results Put Agribusiness ETFs in Focus"
+    }
+  },
+  "day353": {
+    "tweet1": {
+      "content": "MARKETS: YF Premium Investment Idea: Deere & Company (COMPANY_X)"
+    },
+    "tweet2": {
+      "content": "Deere & Company Announces Quarterly Dividend"
+    },
+    "tweet3": {
+      "content": "Deere & Company Announces Quarterly Dividend"
+    }
+  },
+  "day354": {
+    "tweet1": {
+      "content": "Deere Hurt by Weak Agricultural, Construction Equipment Demand"
+    }
+  },
+  "day355": {
+    "tweet1": {
+      "content": "Is Deere & Company (COMPANY_X) Going to Burn These Hedge Funds?"
+    },
+    "tweet2": {
+      "content": "Deere Board elects John Stone as President, Worldwide Construction & Forestry and Power Systems"
+    },
+    "tweet3": {
+      "content": "Deere Board elects John Stone as President, Worldwide Construction & Forestry and Power Systems"
+    }
+  },
+  "day356": {
+    "tweet1": {
+      "content": "Monday Morning Market Highlights"
+    }
+  },
+  "day357": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day358": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day359": {
+    "tweet1": {
+      "content": "Should You Be Tempted To ‘Sell’ Deere & Company (COMPANY_X) Stock"
+    }
+  },
+  "day360": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day361": {
+    "tweet1": {
+      "content": "Toyota Industries Corporation -- Moody's confirms Toyota Industries' A2 ratings; outlook negative"
+    }
+  },
+  "day362": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day363": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day364": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day365": {
+    "tweet1": {
+      "content": "U.S. manufacturers struggle to keep workers in face of weak demand"
+    }
+  },
+  "day366": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day367": {
+    "tweet1": {
+      "content": "Trump Team Weighs $1 Trillion for Infrastructure to Spur Economy"
+    }
+  },
+  "day368": {
+    "tweet1": {
+      "content": "Focused on Unlocking Customer Value, Deere Announces New Operating Model"
+    },
+    "tweet2": {
+      "content": "Focused on Unlocking Customer Value, Deere Announces New Operating Model"
+    },
+    "tweet3": {
+      "content": "Edited Transcript of COMPANY_X earnings conference call or presentation 22-May-20 2:00pm GMT"
+    }
+  },
+  "day369": {
+    "tweet1": {
+      "content": "What stocks to watch as markets shift amid coronavirus recovery"
+    }
+  },
+  "day370": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day371": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day372": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day373": {
+    "tweet1": {
+      "content": "Can Deere & Company's (NYSE:COMPANY_X) ROE Continue To Surpass The Industry Average?"
+    }
+  },
+  "day374": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day375": {
+    "tweet1": {
+      "content": "It's not just coronavirus: Why US-China relations are worsening on 'almost every front'"
+    }
+  },
+  "day376": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day377": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day378": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day379": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day380": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day381": {
+    "tweet1": {
+      "content": "Trump Insists That Schools Open, But Teachers Aren’t So Sure"
+    },
+    "tweet2": {
+      "content": "Were Hedge Funds Right About Souring On Deere & Company (COMPANY_X)?"
+    }
+  },
+  "day382": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day383": {
+    "tweet1": {
+      "content": "Cross-Sector: Market Data Highlights"
+    },
+    "tweet2": {
+      "content": "John Deere Owner Trust 2020-B -- Moody's assigns provisional ratings to John Deere Owner Trust 2020-B"
+    }
+  },
+  "day384": {
+    "tweet1": {
+      "content": "Deere Cotton-Bale Packager Seeks Ban on Alleged China Knockoffs"
+    },
+    "tweet2": {
+      "content": "John Deere Owner Trust 2020-B -- Moody's assigns provisional ratings to John Deere Owner Trust 2020-B"
+    },
+    "tweet3": {
+      "content": "John Deere Owner Trust 2020-B -- Moody's assigns provisional ratings to John Deere Owner Trust 2020-B"
+    }
+  },
+  "day385": {
+    "tweet1": {
+      "content": "Farming Appears to be the Place to Look for Growth in the Second Half"
+    }
+  },
+  "day386": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day387": {
+    "tweet1": {
+      "content": "Deere Price Strength Climbs As 'Real Economy' Stocks Move Into Spotlight"
+    },
+    "tweet2": {
+      "content": "The Manufacturing Sector Is on the Mend, New York Factory Survey Suggests"
+    }
+  },
+  "day388": {
+    "tweet1": {
+      "content": "Cross-Sector: Market Data Highlights"
+    }
+  },
+  "day389": {
+    "tweet1": {
+      "content": "Buy Deere Stock Because the Farm-Equipment Market Is Strong"
+    }
+  },
+  "day390": {
+    "tweet1": {
+      "content": "Do Institutions Own Deere & Company (NYSE:COMPANY_X) Shares?"
+    },
+    "tweet2": {
+      "content": "Giant Wireless Sale Offers 5G Spectrum Sliced Into 22,631 Pieces"
+    }
+  },
+  "day391": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day392": {
+    "tweet1": {
+      "content": "John Deere Owner Trust 2020-B -- Moody's assigns definitive ratings to John Deere Owner Trust 2020-B"
+    }
+  },
+  "day393": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day394": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day395": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day396": {
+    "tweet1": {
+      "content": "'Halftime Report' Traders Share Their Thoughts On Deere, Square And More"
+    }
+  },
+  "day397": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day398": {
+    "tweet1": {
+      "content": "Cross-Sector: Market Data Highlights"
+    },
+    "tweet2": {
+      "content": "Is Deere (COMPANY_X) Stock a Solid Choice Right Now?"
+    }
+  },
+  "day399": {
+    "tweet1": {
+      "content": "3 Zacks Rank #1s Making New Highs"
+    },
+    "tweet2": {
+      "content": "Moving Average Crossover Alert: Deere & Company"
+    }
+  }
+}

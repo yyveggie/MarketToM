@@ -1,0 +1,4331 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "Taiwan Shares Predicted To Rebound On Thursday"
+    },
+    "tweet2": {
+      "content": "Taiwan Shares Predicted To Rebound On Thursday"
+    },
+    "tweet3": {
+      "content": "5 Stocks to Watch as China Talks Tough on Taiwan"
+    },
+    "tweet4": {
+      "content": "Why Should You Retain Cadence (CDNS) Stock in Your Portfolio?"
+    },
+    "tweet5": {
+      "content": "Why Should You Retain Cadence (CDNS) Stock in Your Portfolio?"
+    },
+    "tweet6": {
+      "content": "Why Should You Retain Cadence (CDNS) Stock in Your Portfolio?"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "More Pain Predicted For Taiwan Stock Market"
+    },
+    "tweet2": {
+      "content": "More Pain Predicted For Taiwan Stock Market"
+    },
+    "tweet3": {
+      "content": "Dow Jones Futures Plunge On Apple Warning, But Here's The Big Stock Market Test"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "zGlue pitches 'chiplets' to make custom chips for startups"
+    },
+    "tweet2": {
+      "content": "AMD Stock Rose 8% on Ryzen 3000 Series Announcement"
+    },
+    "tweet3": {
+      "content": "Taiwan Stock Market May Add To Its Winnings"
+    },
+    "tweet4": {
+      "content": "Taiwan Stock Market May Add To Its Winnings"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Rebound Expected For Taiwan Stock Market"
+    },
+    "tweet2": {
+      "content": "Rebound Expected For Taiwan Stock Market"
+    },
+    "tweet3": {
+      "content": "Notable ETF Outflow Detected - SMH, COMPANY_X, AVGO, TXN"
+    },
+    "tweet4": {
+      "content": "Notable ETF Outflow Detected - SMH, COMPANY_X, AVGO, TXN"
+    },
+    "tweet5": {
+      "content": "Should Semiconductor Investors Worry about Apple’s Weak Guidance?"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "David Herro Comments on Taiwan Semiconductor Manufacturing Co"
+    },
+    "tweet2": {
+      "content": "David Herro's 4th Quarter Oakmark Global Fund Commentary"
+    },
+    "tweet3": {
+      "content": "Taiwan Stock Market May Add To Its Winnings"
+    },
+    "tweet4": {
+      "content": "Taiwan Stock Market May Add To Its Winnings"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Technology Sector Update for 01/10/2019: COMPANY_X,AMD,TWTR,T,DEL"
+    },
+    "tweet2": {
+      "content": "Technology Sector Update for 01/10/2019: COMPANY_X,AMD,TWTR,T,DEL"
+    },
+    "tweet3": {
+      "content": "Rebound Predicted For Taiwan Stock Market"
+    },
+    "tweet4": {
+      "content": "Rebound Predicted For Taiwan Stock Market"
+    },
+    "tweet5": {
+      "content": "Technology Sector Update for 01/10/2019: ERIC, TWTR, COMPANY_X, MSFT, AAPL, IBM, CSCO, GOOG"
+    },
+    "tweet6": {
+      "content": "Technology Sector Update for 01/10/2019: ERIC, TWTR, COMPANY_X, MSFT, AAPL, IBM, CSCO, GOOG"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "AMD's CTO Talks to TheStreet About Next Gen Chips and Keeping Up With Rivals"
+    },
+    "tweet2": {
+      "content": "Taiwan Bourse Likely To Give Up Support At 9,700 Points"
+    },
+    "tweet3": {
+      "content": "Taiwan Bourse Likely To Give Up Support At 9,700 Points"
+    },
+    "tweet4": {
+      "content": "AMD Announces 7 nm Ryzen CPU Range at CES 2019"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Intel May Announce Next CEO before Q4 2018 Earnings"
+    },
+    "tweet2": {
+      "content": "Apple’s Weak iPhone Sales Could Show in TSMC’s Q4 2018 Earnings"
+    },
+    "tweet3": {
+      "content": "What Q4 Semiconductor Earnings May Have in Store for Investors"
+    },
+    "tweet4": {
+      "content": "Taiwan Stock Market Inherits Firm Lead"
+    },
+    "tweet5": {
+      "content": "Taiwan Stock Market Inherits Firm Lead"
+    },
+    "tweet6": {
+      "content": "AMD’s Efficiency Ratios Could Improve Further in 2019"
+    },
+    "tweet7": {
+      "content": "TSMC&apos;s $39 Billion Wipeout Will Only Get Worse, Analysts Say"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "Pre-Market Earnings Report for January 17, 2019 :  MS, COMPANY_X, BBT, PPG, MTB, KEY, FAST, CBSH, SBNY, MTG, HOMB, WNS"
+    },
+    "tweet2": {
+      "content": "Pre-Market Earnings Report for January 17, 2019 :  MS, COMPANY_X, BBT, PPG, MTB, KEY, FAST, CBSH, SBNY, MTG, HOMB, WNS"
+    },
+    "tweet3": {
+      "content": "Taiwan Bourse Expected To Remain Rangebound"
+    },
+    "tweet4": {
+      "content": "Taiwan Bourse Expected To Remain Rangebound"
+    },
+    "tweet5": {
+      "content": "Taiwan Semiconductor Q4 Earnings Preview"
+    },
+    "tweet6": {
+      "content": "SMH, COMPANY_X, TXN, AVGO: Large Inflows Detected at ETF"
+    },
+    "tweet7": {
+      "content": "SMH, COMPANY_X, TXN, AVGO: Large Inflows Detected at ETF"
+    },
+    "tweet8": {
+      "content": "A Big Week Looms for Chip ETFs"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Technology Sector Update for 01/17/2019: HMNY,COMPANY_X,GOOG,GOOGL,PLXS"
+    },
+    "tweet2": {
+      "content": "Technology Sector Update for 01/17/2019: HMNY,COMPANY_X,GOOG,GOOGL,PLXS"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Stock Wavers As Contract Chipmaker Offers Weak Outlook"
+    },
+    "tweet4": {
+      "content": "Takeaways for Apple, Intel and Others from Taiwan Semi's Earnings and Guidance"
+    },
+    "tweet5": {
+      "content": "Taiwan Bourse To Test Resistance At 9,800-Point Level"
+    },
+    "tweet6": {
+      "content": "Taiwan Bourse To Test Resistance At 9,800-Point Level"
+    },
+    "tweet7": {
+      "content": "Technology Sector Update for 01/17/2019: COMPANY_X,GOOG,GOOGL,PLXS"
+    },
+    "tweet8": {
+      "content": "Technology Sector Update for 01/17/2019: COMPANY_X,GOOG,GOOGL,PLXS"
+    },
+    "tweet9": {
+      "content": "Netflix Earnings Preview and Results from MS, COMPANY_X, FAST, & PPG"
+    },
+    "tweet10": {
+      "content": "Semiconductor Slowdown Scare Could Be Shortsighted"
+    },
+    "tweet11": {
+      "content": "TSMC’s Q1 Guidance Anticipates Its Steepest Revenue Fall in Years"
+    },
+    "tweet12": {
+      "content": "Taiwan Semiconductor Gives Gloomy Outlook on Smartphone Demand"
+    },
+    "tweet13": {
+      "content": "Taiwan Semiconductor Gives Gloomy Outlook on Smartphone Demand"
+    },
+    "tweet14": {
+      "content": "COMPANY_X Stock Drops As Contract Chipmaker Offers Weak Outlook"
+    },
+    "tweet15": {
+      "content": "Taiwan Semiconductor Gives Gloomy Outlook on Smartphone Demand"
+    },
+    "tweet16": {
+      "content": "Taiwan Semi stock falls after outlook misses expectations"
+    },
+    "tweet17": {
+      "content": "Taiwan Semiconductor Sales Forecast Hammers Chipmakers as Apple Warning Ripples"
+    },
+    "tweet18": {
+      "content": "Technology Sector Update for 01/17/2019: PLXS, COMPANY_X, GOOG, GOOGL, MSFT, IBM, CSCO, AAPL"
+    },
+    "tweet19": {
+      "content": "Technology Sector Update for 01/17/2019: PLXS, COMPANY_X, GOOG, GOOGL, MSFT, IBM, CSCO, AAPL"
+    },
+    "tweet20": {
+      "content": "Taiwan Semiconductor Slides as Smartphone Slowdown Spreads Pain to Semis"
+    },
+    "tweet21": {
+      "content": "Taiwan Semiconductor Was Down a Lot Even Before Bearish Guidance: What's Next?"
+    },
+    "tweet22": {
+      "content": "Dow Futures Drop 47 Points Because Resistance Isn't Futile"
+    },
+    "tweet23": {
+      "content": "Dow Futures Drop 47 Points Because Resistance Isn't Futile"
+    },
+    "tweet24": {
+      "content": "MarketPulse: Western Digital Dives as Analysts Sound Alarm Bell on Earnings"
+    },
+    "tweet25": {
+      "content": "Earnings Reaction History: Taiwan Semiconductor Mfg. Co. Ltd., 55.6% Follow-Through Indicator, 2.5% Sensitive"
+    },
+    "tweet26": {
+      "content": "Earnings Reaction History: Taiwan Semiconductor Mfg. Co. Ltd., 55.6% Follow-Through Indicator, 2.5% Sensitive"
+    },
+    "tweet27": {
+      "content": "Apple supplier TSMC predicts sharp revenue drop as iPhone decline hits"
+    },
+    "tweet28": {
+      "content": "TSMC offers gloomy revenue forecast, slams chipmaker shares"
+    },
+    "tweet29": {
+      "content": "TSMC offers gloomy revenue forecast, slams chipmaker shares"
+    },
+    "tweet30": {
+      "content": "TSMC&apos;s Dismal Outlook Muddies Picture for iPhone Demand"
+    },
+    "tweet31": {
+      "content": "Thought 2018 Was Ugly for Tech? It’s Only Getting Worse"
+    },
+    "tweet32": {
+      "content": "TSMC Q4 profit up 0.7 pct, in line with market forecasts"
+    },
+    "tweet33": {
+      "content": "TSMC Q4 Net Income Edges Up On Higher Demand; Warns On Q1"
+    },
+    "tweet34": {
+      "content": "TSMC Q4 Net Income Edges Up On Higher Demand; Warns On Q1"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Apple Bull Weighs Impact Of Taiwan Semiconductor Guidance Cut, Battery Replacement"
+    },
+    "tweet2": {
+      "content": "Netflix Earnings Preview and Results from MS, COMPANY_X, FAST, & PPG"
+    },
+    "tweet3": {
+      "content": "Netflix Earnings Preview and Results from MS, COMPANY_X, FAST, & PPG"
+    },
+    "tweet4": {
+      "content": "[$$] Intel's Tough Act to Follow"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "TSMC’s Process Node Strength Reflects in Its Q4 Revenue"
+    },
+    "tweet2": {
+      "content": "Taiwan Bourse Tipped To Run Out Of Steam"
+    },
+    "tweet3": {
+      "content": "Taiwan Bourse Tipped To Run Out Of Steam"
+    },
+    "tweet4": {
+      "content": "TSMC Warns of Weak Demand in the First Half of 2019"
+    },
+    "tweet5": {
+      "content": "Intel’s 2018 and 2019 Revenues at a Glance"
+    },
+    "tweet6": {
+      "content": "Could TSMC’s Guidance Mark the Start of a Semiconductor Slowdown?"
+    },
+    "tweet7": {
+      "content": "Why the First Half of 2019 Will Be Tough for Intel"
+    },
+    "tweet8": {
+      "content": "[$$] China’s ability to make computer chips still ‘years behind’ industry leaders"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Recovery Predicted For Taiwan Stock Market"
+    },
+    "tweet2": {
+      "content": "Recovery Predicted For Taiwan Stock Market"
+    },
+    "tweet3": {
+      "content": "1 Way This Apple Supplier Is Trying to Cut Costs"
+    },
+    "tweet4": {
+      "content": "1 Way This Apple Supplier Is Trying to Cut Costs"
+    },
+    "tweet5": {
+      "content": "Don’t Jump on Nvidia Stock Just Yet, It Might Stay Stuck Awhile"
+    },
+    "tweet6": {
+      "content": "What Challenges Lie Ahead for Intel’s Next CEO?"
+    },
+    "tweet7": {
+      "content": "1 Way This Apple Supplier Is Trying to Cut Costs"
+    },
+    "tweet8": {
+      "content": "What Could Impact TSMC’s Profitability This Year"
+    },
+    "tweet9": {
+      "content": "Intel’s Margins Set to Normalize after Reaching a Peak in Q3"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "7 Semiconductor Stocks to Buy Now"
+    },
+    "tweet2": {
+      "content": "Taiwan Bourse May Extend Thursday's Gains"
+    },
+    "tweet3": {
+      "content": "Taiwan Bourse May Extend Thursday's Gains"
+    },
+    "tweet4": {
+      "content": "NVIDIA Breaks Out to Test Reaction Highs"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Western Digital Surges as Bullish Second-Half Outlook Offsets Weak Q2 Earnings"
+    },
+    "tweet2": {
+      "content": "SOXX, XLNX, ADI, COMPANY_X: ETF Outflow Alert"
+    },
+    "tweet3": {
+      "content": "SOXX, XLNX, ADI, COMPANY_X: ETF Outflow Alert"
+    },
+    "tweet4": {
+      "content": "Texas Instruments’ Strong Earnings Revive Investor Confidence"
+    },
+    "tweet5": {
+      "content": "Texas Instruments’ Q4 Revenues Highlight Semiconductor Slowdown"
+    },
+    "tweet6": {
+      "content": "Chip Companies: Trade War Brings Back 2009 Declines"
+    },
+    "tweet7": {
+      "content": "This Apple Supplier Is Feeling the Pain of Low Factory Utilization"
+    },
+    "tweet8": {
+      "content": "7 Semiconductor Stocks to Buy Now&#160;"
+    },
+    "tweet9": {
+      "content": "7 Semiconductor Stocks to Buy Now&#160;"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Entegris Inc. -- Moody's affirms Entegris's Ba1 CFR and other ratings on merger with Versum; outlook stable"
+    },
+    "tweet2": {
+      "content": "TSMC says chemical defect hurts production"
+    },
+    "tweet3": {
+      "content": "Rally May Stall For Taiwan Stock Market"
+    },
+    "tweet4": {
+      "content": "Rally May Stall For Taiwan Stock Market"
+    },
+    "tweet5": {
+      "content": "NVIDIA Retests Lows After Lowering Guidance"
+    },
+    "tweet6": {
+      "content": "Is Taiwan Semiconductor a Buy?"
+    },
+    "tweet7": {
+      "content": "Is Taiwan Semiconductor a Buy?"
+    },
+    "tweet8": {
+      "content": "Is Taiwan Semiconductor a Buy?"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Technology Sector Update for 01/29/2019: HRS,SANM,XRX,COMPANY_X"
+    },
+    "tweet2": {
+      "content": "Technology Sector Update for 01/29/2019: HRS,SANM,XRX,COMPANY_X"
+    },
+    "tweet3": {
+      "content": "More Pain Predicted For Taiwan Stock Market"
+    },
+    "tweet4": {
+      "content": "More Pain Predicted For Taiwan Stock Market"
+    },
+    "tweet5": {
+      "content": "Technology Sector Update for 01/29/2019: SANM, XRX, COMPANY_X"
+    },
+    "tweet6": {
+      "content": "Technology Sector Update for 01/29/2019: SANM, XRX, COMPANY_X"
+    },
+    "tweet7": {
+      "content": "Market Participants Hold Their Collective Breath Ahead of Apple Earnings"
+    },
+    "tweet8": {
+      "content": "Texas Instruments Incorporated (TXN) Ex-Dividend Date Scheduled for January 30, 2019"
+    },
+    "tweet9": {
+      "content": "Texas Instruments Incorporated (TXN) Ex-Dividend Date Scheduled for January 30, 2019"
+    },
+    "tweet10": {
+      "content": "3 Tech Stocks That Pay You to Own Them"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "KLAC Stock Rises Over 3% on Fiscal Q2 2019 Revenue Beat"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Headwinds Reverse NVIDIA’s Fortunes"
+    },
+    "tweet2": {
+      "content": "NVE Corporation (NVEC) Ex-Dividend Date Scheduled for February 01, 2019"
+    },
+    "tweet3": {
+      "content": "NVE Corporation (NVEC) Ex-Dividend Date Scheduled for February 01, 2019"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "After Hours Most Active for Feb 1, 2019 :  CZR, FLEX, DRQ, BAC, CFG, MSFT, QQQ, COMPANY_X, AAPL, IGT, INTC, MGM"
+    },
+    "tweet2": {
+      "content": "After Hours Most Active for Feb 1, 2019 :  CZR, FLEX, DRQ, BAC, CFG, MSFT, QQQ, COMPANY_X, AAPL, IGT, INTC, MGM"
+    },
+    "tweet3": {
+      "content": "Intel Stock Awaits Likely Rebound Under Interim-Turned-Permanent CEO Swan"
+    },
+    "tweet4": {
+      "content": "Apple Suppliers Face More Declines as Sales Slump"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "3 Top Chip Stock Ideas for 2019 From Citi"
+    },
+    "tweet2": {
+      "content": "3 Top Chip Stock Ideas for 2019 From Citi"
+    },
+    "tweet3": {
+      "content": "Intel’s New CEO’s Plan to Tackle Various Challenges"
+    },
+    "tweet4": {
+      "content": "These 3 Chip Stocks Have Plenty of Upside, Citi Says"
+    },
+    "tweet5": {
+      "content": "Xilinx, Inc. (XLNX) Ex-Dividend Date Scheduled for February 05, 2019"
+    },
+    "tweet6": {
+      "content": "Xilinx, Inc. (XLNX) Ex-Dividend Date Scheduled for February 05, 2019"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Intel Corporation (INTC) Ex-Dividend Date Scheduled for February 06, 2019"
+    },
+    "tweet2": {
+      "content": "Intel Corporation (INTC) Ex-Dividend Date Scheduled for February 06, 2019"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "The Smartest People on Wall Street Are Buying These 3 Stocks -- Should You?"
+    },
+    "tweet2": {
+      "content": "The Smartest People on Wall Street Are Buying These 3 Stocks -- Should You?"
+    },
+    "tweet3": {
+      "content": "Intel a Top Socially Responsible Dividend Stock With 2.5% Yield (INTC)"
+    },
+    "tweet4": {
+      "content": "Intel a Top Socially Responsible Dividend Stock With 2.5% Yield (INTC)"
+    },
+    "tweet5": {
+      "content": "Can Semiconductor Industry Sustain Momentum in 2019?"
+    },
+    "tweet6": {
+      "content": "[$$] TSMC: floundering foundry"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "AMD’s 2019 Growth Revolves around Market Share Gain"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "What Drove AMD’s Computing Revenue to Its Four-Year High?"
+    },
+    "tweet2": {
+      "content": "5 Chip Stocks with Big Upside in a Down Market"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "AMD Remains Free Cash Flow Negative"
+    },
+    "tweet2": {
+      "content": "How AMD Plans to Improve Its Gross Margin amid Downturn"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Silicon Motion Technology Corporation (SIMO) Ex-Dividend Date Scheduled for February 14, 2019"
+    },
+    "tweet2": {
+      "content": "Silicon Motion Technology Corporation (SIMO) Ex-Dividend Date Scheduled for February 14, 2019"
+    },
+    "tweet3": {
+      "content": "AMD’s Data Center Business Is Set to Take Market Share from Intel"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Semiconductor ETF Experiences Big Inflow"
+    },
+    "tweet2": {
+      "content": "Semiconductor ETF Experiences Big Inflow"
+    },
+    "tweet3": {
+      "content": "Pre-Market Most Active for Feb 15, 2019 :  TAK, CGC, NVDA, CZR, CRON, ACB, SQQQ, AMD, QQQ, RDS/B, APHA, COMPANY_X"
+    },
+    "tweet4": {
+      "content": "Pre-Market Most Active for Feb 15, 2019 :  TAK, CGC, NVDA, CZR, CRON, ACB, SQQQ, AMD, QQQ, RDS/B, APHA, COMPANY_X"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Can Taiwan Semiconductor Find Life Beyond Smartphones?"
+    },
+    "tweet2": {
+      "content": "Applied Materials, Inc. (AMAT) Ex-Dividend Date Scheduled for February 20, 2019"
+    },
+    "tweet3": {
+      "content": "Applied Materials, Inc. (AMAT) Ex-Dividend Date Scheduled for February 20, 2019"
+    },
+    "tweet4": {
+      "content": "Microchip Technology Incorporated (MCHP) Ex-Dividend Date Scheduled for February 20, 2019"
+    },
+    "tweet5": {
+      "content": "Microchip Technology Incorporated (MCHP) Ex-Dividend Date Scheduled for February 20, 2019"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "3 Winners from Samsung&apos;s Galaxy S10 Launch Event"
+    },
+    "tweet2": {
+      "content": "Bullish Two Hundred Day Moving Average Cross - COMPANY_X"
+    },
+    "tweet3": {
+      "content": "Bullish Two Hundred Day Moving Average Cross - COMPANY_X"
+    },
+    "tweet4": {
+      "content": "Why Qualcomm's Newest 5G Chip Is a Big Deal"
+    },
+    "tweet5": {
+      "content": "Why Qualcomm's Newest 5G Chip Is a Big Deal"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "3 Winners from Samsung's Galaxy S10 Launch Event"
+    },
+    "tweet2": {
+      "content": "3 Winners from Samsung's Galaxy S10 Launch Event"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "4 ETFs to Invest in Soaring Semiconductor Stocks"
+    },
+    "tweet2": {
+      "content": "Skyworks Solutions, Inc. (SWKS) Ex-Dividend Date Scheduled for February 25, 2019"
+    },
+    "tweet3": {
+      "content": "Skyworks Solutions, Inc. (SWKS) Ex-Dividend Date Scheduled for February 25, 2019"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "AMLP, SMH: Big ETF Outflows"
+    },
+    "tweet2": {
+      "content": "AMLP, SMH: Big ETF Outflows"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "CWI, COMPANY_X, ITUB, LUKOY: Large Outflows Detected at ETF"
+    },
+    "tweet2": {
+      "content": "CWI, COMPANY_X, ITUB, LUKOY: Large Outflows Detected at ETF"
+    },
+    "tweet3": {
+      "content": "Power Integrations, Inc. (POWI) Ex-Dividend Date Scheduled for February 27, 2019"
+    },
+    "tweet4": {
+      "content": "Power Integrations, Inc. (POWI) Ex-Dividend Date Scheduled for February 27, 2019"
+    },
+    "tweet5": {
+      "content": "Maxim Integrated Products, Inc. (MXIM) Ex-Dividend Date Scheduled for February 27, 2019"
+    },
+    "tweet6": {
+      "content": "Maxim Integrated Products, Inc. (MXIM) Ex-Dividend Date Scheduled for February 27, 2019"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Analog Devices, Inc. (ADI) Ex-Dividend Date Scheduled for February 28, 2019"
+    },
+    "tweet2": {
+      "content": "Analog Devices, Inc. (ADI) Ex-Dividend Date Scheduled for February 28, 2019"
+    },
+    "tweet3": {
+      "content": "Skyworks Solutions, Inc. (SWKS) Ex-Dividend Date Scheduled for February 28, 2019"
+    },
+    "tweet4": {
+      "content": "Skyworks Solutions, Inc. (SWKS) Ex-Dividend Date Scheduled for February 28, 2019"
+    },
+    "tweet5": {
+      "content": "NVIDIA Corporation (NVDA) Ex-Dividend Date Scheduled for February 28, 2019"
+    },
+    "tweet6": {
+      "content": "NVIDIA Corporation (NVDA) Ex-Dividend Date Scheduled for February 28, 2019"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Is Taiwan Semiconductor Under Threat From a Chinese Chipmaker?"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "After Hours Most Active for Mar 1, 2019 :  ABEV, GE, XOM, PFE, AR, COMPANY_X, SGMS, AAPL, SHY, MSFT, MCHI, INTC"
+    },
+    "tweet2": {
+      "content": "After Hours Most Active for Mar 1, 2019 :  ABEV, GE, XOM, PFE, AR, COMPANY_X, SGMS, AAPL, SHY, MSFT, MCHI, INTC"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "NVIDIA Launches Mid-Range Turing GPUs to Boost Gaming Revenue"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "Cadence Rolls Out LPDDR5 Solution, Expands IP Portfolio"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "SMH, COMPANY_X, TXN, NVDA: ETF Inflow Alert"
+    },
+    "tweet2": {
+      "content": "SMH, COMPANY_X, TXN, NVDA: ETF Inflow Alert"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "Arm, Cadence and Xilinx Introduce First Arm Neoverse System Development Platform for Next-Generation Cloud-to-Edge Infrastructure, Implemented on TSMC 7nm Process Technology"
+    },
+    "tweet2": {
+      "content": "Survey: AMD’s EPYC Server CPUs Are Popular"
+    },
+    "tweet3": {
+      "content": "iPhones Are Improving Every Year Thanks to an Obscure Japanese Company"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "Cadence, Xilinx, Arm & TSMC Unite, Launches Neoverse N1 SDP"
+    },
+    "tweet2": {
+      "content": "Cadence, Xilinx, Arm & TSMC Unite, Launches Neoverse N1 SDP"
+    },
+    "tweet3": {
+      "content": "Cadence, Xilinx, Arm & TSMC Unite, Launches Neoverse N1 SDP"
+    },
+    "tweet4": {
+      "content": "AMD and NVIDIA Launch New GPUs in 2019 to Boost Growth in Gaming"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "Semiconductor ETF Experiences Big Outflow"
+    },
+    "tweet2": {
+      "content": "Semiconductor ETF Experiences Big Outflow"
+    },
+    "tweet3": {
+      "content": "NXP Semiconductors N.V. (NXPI) Ex-Dividend Date Scheduled for March 15, 2019"
+    },
+    "tweet4": {
+      "content": "NXP Semiconductors N.V. (NXPI) Ex-Dividend Date Scheduled for March 15, 2019"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "This Chip Stock Is Ready to Change Direction"
+    },
+    "tweet2": {
+      "content": "STMicroelectronics N.V. (STM) Ex-Dividend Date Scheduled for March 18, 2019"
+    },
+    "tweet3": {
+      "content": "STMicroelectronics N.V. (STM) Ex-Dividend Date Scheduled for March 18, 2019"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "Semiconductor Stocks Jump After Broadcom Earnings"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "Apple Has Another Huawei Problem"
+    },
+    "tweet2": {
+      "content": "Apple Has Another Huawei Problem"
+    },
+    "tweet3": {
+      "content": "Apple Has Another Huawei Problem"
+    },
+    "tweet4": {
+      "content": "Cabot Microelectronics Corporation (CCMP) Ex-Dividend Date Scheduled for March 20, 2019"
+    },
+    "tweet5": {
+      "content": "Cabot Microelectronics Corporation (CCMP) Ex-Dividend Date Scheduled for March 20, 2019"
+    },
+    "tweet6": {
+      "content": "Broadcom Inc. (AVGO) Ex-Dividend Date Scheduled for March 20, 2019"
+    },
+    "tweet7": {
+      "content": "Broadcom Inc. (AVGO) Ex-Dividend Date Scheduled for March 20, 2019"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "Notable ETF Outflow Detected - SMH, COMPANY_X, NVDA, TXN"
+    },
+    "tweet2": {
+      "content": "Notable ETF Outflow Detected - SMH, COMPANY_X, NVDA, TXN"
+    },
+    "tweet3": {
+      "content": "AMAT Named A Top Socially Responsible Dividend Stock"
+    },
+    "tweet4": {
+      "content": "AMAT Named A Top Socially Responsible Dividend Stock"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "Do Hedge Funds Love Taiwan Semiconductor Mfg. Co. Ltd.  (COMPANY_X)?"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "Cypress Semiconductor Corporation (CY) Ex-Dividend Date Scheduled for March 27, 2019"
+    },
+    "tweet2": {
+      "content": "Cypress Semiconductor Corporation (CY) Ex-Dividend Date Scheduled for March 27, 2019"
+    },
+    "tweet3": {
+      "content": "Kulicke and Soffa Industries, Inc. (KLIC) Ex-Dividend Date Scheduled for March 27, 2019"
+    },
+    "tweet4": {
+      "content": "Kulicke and Soffa Industries, Inc. (KLIC) Ex-Dividend Date Scheduled for March 27, 2019"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "Monolithic Power Systems, Inc. (MPWR) Ex-Dividend Date Scheduled for March 28, 2019"
+    },
+    "tweet2": {
+      "content": "Monolithic Power Systems, Inc. (MPWR) Ex-Dividend Date Scheduled for March 28, 2019"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "NVIDIA Unlikely to Compete with AMD on 7-nm Node"
+    },
+    "tweet2": {
+      "content": "TXN Named A Top Socially Responsible Dividend Stock"
+    },
+    "tweet3": {
+      "content": "TXN Named A Top Socially Responsible Dividend Stock"
+    },
+    "tweet4": {
+      "content": "Marvell Technology Group Ltd. (MRVL) Ex-Dividend Date Scheduled for April 02, 2019"
+    },
+    "tweet5": {
+      "content": "Marvell Technology Group Ltd. (MRVL) Ex-Dividend Date Scheduled for April 02, 2019"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "There are two key reasons to be optimistic about chip stocks"
+    },
+    "tweet2": {
+      "content": "Apple’s Major Supplier Takes One for the Team"
+    },
+    "tweet3": {
+      "content": "Apple’s Major Supplier Takes One for the Team"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "Stocks End Up on Reports U.S.-China Trade Deal Close to Being Done"
+    },
+    "tweet2": {
+      "content": "Stocks Up Slightly on Reports U.S.-China Trade Deal Close to Being Done"
+    },
+    "tweet3": {
+      "content": "What's Next for AMD, Intel (INTC), Nvidia (NVDA) & Micron (MU) Stock?"
+    },
+    "tweet4": {
+      "content": "How Intel Is Gearing Up to Compete with AMD in the CPU Market"
+    },
+    "tweet5": {
+      "content": "Stocks Higher on Reports U.S.-China Trade Deal Close to Being Done"
+    },
+    "tweet6": {
+      "content": "Why AMD Stock Is Soaring Today"
+    },
+    "tweet7": {
+      "content": "Three stocks that could prove profitable for investors smart enough to ignore market ‘anomalies’"
+    },
+    "tweet8": {
+      "content": "Stocks Up Modestly on Reports U.S.-China Trade Deal Close to Being Done"
+    },
+    "tweet9": {
+      "content": "Ready to PLAY? Jim Cramer Talks Dave & Buster's and Semiconductors"
+    },
+    "tweet10": {
+      "content": "AMD, Micron Trade Higher After Report Says TSMC Seeing Smartphone Order Increase"
+    },
+    "tweet11": {
+      "content": "Semiconductor Stocks Surge as Taiwan Semi Signals Smartphone Strength"
+    }
+  },
+  "day65": {
+    "tweet1": {
+      "content": "4 High-Quality Semiconductor Companies to Consider on Improving Trade Talks"
+    },
+    "tweet2": {
+      "content": "A Pair of Semiconductor Stock Buys: AMD and Micron"
+    },
+    "tweet3": {
+      "content": "A Pair of Semiconductor Stock Buys: AMD and Micron"
+    },
+    "tweet4": {
+      "content": "How’s AMD Progressing in the CPU Market?"
+    },
+    "tweet5": {
+      "content": "Micron Stock Is Heating up for the Long-Term Growth"
+    },
+    "tweet6": {
+      "content": "Micron Stock Is Heating up for the Long-Term Growth"
+    },
+    "tweet7": {
+      "content": "A Pair of Semiconductor Stock Buys: AMD and Micron"
+    },
+    "tweet8": {
+      "content": "Advanced Micro Devices Rose 8.5% on April 3"
+    },
+    "tweet9": {
+      "content": "Micron Stock Is Heating up for the Long-Term Growth"
+    }
+  },
+  "day66": {
+    "tweet1": {
+      "content": "Chip Stocks Are on a Roll: 5 Solid Buys"
+    },
+    "tweet2": {
+      "content": "Advanced Micro Devices: What to Expect in 2019"
+    }
+  },
+  "day67": {
+    "tweet1": {
+      "content": "Should Intel Worry about AMD’s Progress in the CPU Market?"
+    },
+    "tweet2": {
+      "content": "TSMC’s Earnings to Bottom Out in Q1 before Returning to Growth"
+    },
+    "tweet3": {
+      "content": "How Important Are Apple’s Orders for Intel?"
+    }
+  },
+  "day68": {
+    "tweet1": {
+      "content": "AMD: Why Are Wall Street Analysts Bullish?"
+    },
+    "tweet2": {
+      "content": "What Do 7nm Chips Mean to AMD Investors?"
+    },
+    "tweet3": {
+      "content": "AMD Stock Crossed $29 before Its Q1 Earnings"
+    },
+    "tweet4": {
+      "content": "Is SPDR S&P Emerging Markets Dividend ETF (EDIV) a Strong ETF Right Now?"
+    },
+    "tweet5": {
+      "content": "Is SPDR S&P Emerging Markets Dividend ETF (EDIV) a Strong ETF Right Now?"
+    },
+    "tweet6": {
+      "content": "Is SPDR S&P Emerging Markets Dividend ETF (EDIV) a Strong ETF Right Now?"
+    }
+  },
+  "day69": {
+    "tweet1": {
+      "content": "Qualcomm Takes a Crack at AI in the Data Center"
+    },
+    "tweet2": {
+      "content": "Technology Sector Update for 04/10/2019: SFET, IZEA, COMPANY_X, MSFT, AAPL, IBM, CSCO, GOOG"
+    },
+    "tweet3": {
+      "content": "Technology Sector Update for 04/10/2019: SFET, IZEA, COMPANY_X, MSFT, AAPL, IBM, CSCO, GOOG"
+    }
+  },
+  "day70": {
+    "tweet1": {
+      "content": "AMD’s and NVIDIA’s Q1 Earnings May Bottom Out on GPU Weakness"
+    },
+    "tweet2": {
+      "content": "Reduced Memory Spending to Hit Earnings of AMAT, KLAC, and LRCX"
+    },
+    "tweet3": {
+      "content": "Qualcomm Takes a Crack at AI in the Data Center"
+    },
+    "tweet4": {
+      "content": "Qualcomm Takes a Crack at AI in the Data Center"
+    }
+  },
+  "day71": {
+    "tweet1": {
+      "content": "Noteworthy ETF Outflows: SMH, COMPANY_X, ASML, AMAT"
+    },
+    "tweet2": {
+      "content": "Noteworthy ETF Outflows: SMH, COMPANY_X, ASML, AMAT"
+    }
+  },
+  "day72": {
+    "tweet1": {
+      "content": "Samsung Is Still Building Plenty of Chips for Qualcomm"
+    },
+    "tweet2": {
+      "content": "Samsung Is Still Building Plenty of Chips for Qualcomm"
+    },
+    "tweet3": {
+      "content": "Samsung Is Still Building Plenty of Chips for Qualcomm"
+    }
+  },
+  "day73": {
+    "tweet1": {
+      "content": "Technology Sector Update for 04/16/2019: VUZI,QCOM,WDC,COMPANY_X,AAPL,EA"
+    },
+    "tweet2": {
+      "content": "Technology Sector Update for 04/16/2019: VUZI,QCOM,WDC,COMPANY_X,AAPL,EA"
+    },
+    "tweet3": {
+      "content": "5 Spectacular Large Cap Earnings Charts"
+    },
+    "tweet4": {
+      "content": "5 Spectacular Large Cap Earnings Charts"
+    },
+    "tweet5": {
+      "content": "Technology Sector Update for 04/16/2019: COMPANY_X,AAPL,WDC,EA"
+    },
+    "tweet6": {
+      "content": "Technology Sector Update for 04/16/2019: COMPANY_X,AAPL,WDC,EA"
+    },
+    "tweet7": {
+      "content": "5 Spectacular Large Cap Earnings Charts"
+    }
+  },
+  "day74": {
+    "tweet1": {
+      "content": "Pre-Market Earnings Report for April 18, 2019 :  PM, UNP, HON, AXP, DHR, SLB, COMPANY_X, BBT, TRV, STI, PPG, BX"
+    },
+    "tweet2": {
+      "content": "Pre-Market Earnings Report for April 18, 2019 :  PM, UNP, HON, AXP, DHR, SLB, COMPANY_X, BBT, TRV, STI, PPG, BX"
+    },
+    "tweet3": {
+      "content": "TSMC Files Annual Report on Form 20-F for 2018"
+    }
+  },
+  "day75": {
+    "tweet1": {
+      "content": "Chip Foundry TSMC Hits Buy Point After First-Quarter Earnings Beat"
+    },
+    "tweet2": {
+      "content": "Stocks Reverse Higher As Pinterest Stock Goes Public, Zoom Soars On IPO"
+    },
+    "tweet3": {
+      "content": "Taiwan Semiconductor Manufacturing Company Limited (COMPANY_X) Q1 2019 Earnings Call Transcript"
+    },
+    "tweet4": {
+      "content": "Taiwan Semiconductor Manufacturing Company Limited (COMPANY_X) Q1 2019 Earnings Call Transcript"
+    },
+    "tweet5": {
+      "content": "TSMC Earnings Edge Views, But Chip Foundry Guides Low For Sales"
+    },
+    "tweet6": {
+      "content": "Taiwan Semiconductor Manufacturing Company Limited (COMPANY_X) Q1 2019 Earnings Call Transcript"
+    },
+    "tweet7": {
+      "content": "Technology Sector Update for 04/18/2019: TEAM, CHKP, COMPANY_X, MSFT, AAPL, IBM, CSCO, GOOG"
+    },
+    "tweet8": {
+      "content": "Technology Sector Update for 04/18/2019: TEAM, CHKP, COMPANY_X, MSFT, AAPL, IBM, CSCO, GOOG"
+    },
+    "tweet9": {
+      "content": "Stocks making the biggest moves premarket: Blackstone, American Express, Honeywell & more"
+    },
+    "tweet10": {
+      "content": "Stocks making the biggest moves premarket: Blackstone, American Express, Honeywell & more"
+    },
+    "tweet11": {
+      "content": "Earnings Reaction History: Taiwan Semiconductor Mfg. Co. Ltd., 55.6% Follow-Through Indicator, 2.3% Sensitive"
+    },
+    "tweet12": {
+      "content": "Earnings Reaction History: Taiwan Semiconductor Mfg. Co. Ltd., 55.6% Follow-Through Indicator, 2.3% Sensitive"
+    },
+    "tweet13": {
+      "content": "TSMC upbeat on chip outlook after Apple-Qualcomm settlement; first quarter disappoints"
+    },
+    "tweet14": {
+      "content": "Taiwan chipmaker TSMC suffers biggest earnings fall in 7 years"
+    },
+    "tweet15": {
+      "content": "TSMC Expects Another Weak Quarter as Smartphone Woes Persist"
+    },
+    "tweet16": {
+      "content": "TSMC Expects Another Weak Quarter as Smartphone Woes Persist"
+    },
+    "tweet17": {
+      "content": "TSMC books steepest quarterly profit drop in over seven years"
+    }
+  },
+  "day76": {
+    "tweet1": {
+      "content": "Noteworthy ETF Outflows: SMH, COMPANY_X, AVGO, ASML"
+    },
+    "tweet2": {
+      "content": "Noteworthy ETF Outflows: SMH, COMPANY_X, AVGO, ASML"
+    },
+    "tweet3": {
+      "content": "Lam Research stock gains after B. Riley upgrades to buy"
+    }
+  },
+  "day77": {
+    "tweet1": {
+      "content": "This Tech Leader Is Hiking Its Dividend 25% -- With Even More to Come in 2020"
+    },
+    "tweet2": {
+      "content": "This Tech Leader Is Hiking Its Dividend 25% -- With Even More to Come in 2020"
+    },
+    "tweet3": {
+      "content": "This Tech Leader Is Hiking Its Dividend 25% -- With Even More to Come in 2020"
+    }
+  },
+  "day78": {
+    "tweet1": {
+      "content": "TSMC Banks on Mobile and High-Performance Computing for Growth"
+    },
+    "tweet2": {
+      "content": "TSMC’s Revenue Hits the Bottom in First Quarter"
+    },
+    "tweet3": {
+      "content": "TSMC’s First-Quarter Earnings Suggest Growth in Coming Quarters"
+    },
+    "tweet4": {
+      "content": "Texas Instruments’ First-Quarter Earnings Highlights"
+    },
+    "tweet5": {
+      "content": "Samsung invests in logic chip R&D to take on Qualcomm and TSMC"
+    },
+    "tweet6": {
+      "content": "Samsung Plans $116 Billion Splurge on Chips to Take On Intel"
+    }
+  },
+  "day79": {
+    "tweet1": {
+      "content": "Better Pricing, New Product Release Could Boost Micron Stock"
+    },
+    "tweet2": {
+      "content": "Better Pricing, New Product Release Could Boost Micron Stock"
+    },
+    "tweet3": {
+      "content": "TSMC’s Capital Spending Focus Is High-Performance Computing"
+    },
+    "tweet4": {
+      "content": "TSMC’s First-Quarter Profit Margins Fall to Seven-Year Low"
+    },
+    "tweet5": {
+      "content": "Better Pricing, New Product Release Could Boost Micron Stock"
+    },
+    "tweet6": {
+      "content": "TSMC’s 2019 Guidance: Semiconductor Demand Should Recover"
+    }
+  },
+  "day80": {
+    "tweet1": {
+      "content": "Texas Instruments’ Q1 2019 Revenue Hit by Semiconductor Weakness"
+    },
+    "tweet2": {
+      "content": "Intel Stock Falls More than 9% on Guidance Miss"
+    },
+    "tweet3": {
+      "content": "Intel’s 5G Modem Exit, CPU Supply Shortage, and 10 nm Progress"
+    },
+    "tweet4": {
+      "content": "How Will Investment in Advanced Nodes Help TSMC?"
+    }
+  },
+  "day81": {
+    "tweet1": {
+      "content": "After Hours Most Active for Apr 29, 2019 :  CNHI, CZR, NEM, ZNGA, V, COMPANY_X, QQQ, AMD, TJX, LX, HLT, AAPL"
+    },
+    "tweet2": {
+      "content": "After Hours Most Active for Apr 29, 2019 :  CNHI, CZR, NEM, ZNGA, V, COMPANY_X, QQQ, AMD, TJX, LX, HLT, AAPL"
+    },
+    "tweet3": {
+      "content": "What TXN’s Q1 Revenue Says about the Semiconductor Industry"
+    }
+  },
+  "day82": {
+    "tweet1": {
+      "content": "Intel: Beyond the Weak Guidance"
+    },
+    "tweet2": {
+      "content": "Why AMD Stock Fell 2.5% ahead of Q1 Earnings"
+    }
+  },
+  "day83": {
+    "tweet1": {
+      "content": "How Are Semiconductor Companies Doing This Quarter?"
+    },
+    "tweet2": {
+      "content": "AMD Stock Rises on Q1 Earnings Beat and 7 nm Product Update"
+    },
+    "tweet3": {
+      "content": "Semiconductor ETF ‘SMH’ Up 32%, Can Keep Flying High"
+    },
+    "tweet4": {
+      "content": "Want to Trade Apple Suppliers? Asian Market Holidays Limit Your Choices"
+    }
+  },
+  "day84": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Intel, Texas Instruments, Xilinx, Lam and Taiwan"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Intel, Texas Instruments, Xilinx, Lam and Taiwan"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Intel, Texas Instruments, Xilinx, Lam and Taiwan"
+    }
+  },
+  "day85": {
+    "tweet1": {
+      "content": "Chip companies face worst downturn in a decade, analysis contends"
+    },
+    "tweet2": {
+      "content": "Intel Corporation (INTC) Ex-Dividend Date Scheduled for May 06, 2019"
+    },
+    "tweet3": {
+      "content": "Intel Corporation (INTC) Ex-Dividend Date Scheduled for May 06, 2019"
+    },
+    "tweet4": {
+      "content": "Asian markets pull back on Fed’s stance, lower expectations for trade deal"
+    }
+  },
+  "day86": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day87": {
+    "tweet1": {
+      "content": "Silicon Motion Technology Corporation (SIMO) Ex-Dividend Date Scheduled for May 08, 2019"
+    },
+    "tweet2": {
+      "content": "Silicon Motion Technology Corporation (SIMO) Ex-Dividend Date Scheduled for May 08, 2019"
+    }
+  },
+  "day88": {
+    "tweet1": {
+      "content": "After Hours Most Active for May 8, 2019 :  DWDP, NLY, KDMN, PFE, DIS, COMPANY_X"
+    },
+    "tweet2": {
+      "content": "After Hours Most Active for May 8, 2019 :  DWDP, NLY, KDMN, PFE, DIS, COMPANY_X"
+    },
+    "tweet3": {
+      "content": "Rising Semiconductor Demand Forecast For The Second Half"
+    }
+  },
+  "day89": {
+    "tweet1": {
+      "content": "Analysts Expect TDIV Will Reach $43"
+    },
+    "tweet2": {
+      "content": "Analysts Expect TDIV Will Reach $43"
+    },
+    "tweet3": {
+      "content": "NVE Corporation (NVEC) Ex-Dividend Date Scheduled for May 10, 2019"
+    },
+    "tweet4": {
+      "content": "NVE Corporation (NVEC) Ex-Dividend Date Scheduled for May 10, 2019"
+    }
+  },
+  "day90": {
+    "tweet1": {
+      "content": "Intel's 3-Year Outlook May Be Weak, But Its Technology Roadmap Is Intriguing"
+    },
+    "tweet2": {
+      "content": "Apple Partner Starts Building Chips for the Next Generation of iPhones"
+    }
+  },
+  "day91": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day92": {
+    "tweet1": {
+      "content": "Xilinx, Inc. (XLNX) Ex-Dividend Date Scheduled for May 15, 2019"
+    },
+    "tweet2": {
+      "content": "Xilinx, Inc. (XLNX) Ex-Dividend Date Scheduled for May 15, 2019"
+    }
+  },
+  "day93": {
+    "tweet1": {
+      "content": "Wait Out the Storm in Nvidia Stock"
+    },
+    "tweet2": {
+      "content": "Wait Out the Storm in Nvidia Stock"
+    },
+    "tweet3": {
+      "content": "Wait Out the Storm in Nvidia Stock"
+    }
+  },
+  "day94": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day95": {
+    "tweet1": {
+      "content": "Huawei and suppliers make plans to face U.S. trade blacklist - Nikkei"
+    },
+    "tweet2": {
+      "content": "Huawei and suppliers make plans to face U.S. trade blacklist: Nikkei"
+    },
+    "tweet3": {
+      "content": "Taiwan Semiconductor Manufacturing Co Ltd -- Moody's announces completion of a periodic review of ratings of Taiwan Semiconductor Manufacturing Co Ltd"
+    },
+    "tweet4": {
+      "content": "Microchip Technology Incorporated (MCHP) Ex-Dividend Date Scheduled for May 20, 2019"
+    },
+    "tweet5": {
+      "content": "Microchip Technology Incorporated (MCHP) Ex-Dividend Date Scheduled for May 20, 2019"
+    },
+    "tweet6": {
+      "content": "Skyworks Solutions, Inc. (SWKS) Ex-Dividend Date Scheduled for May 20, 2019"
+    },
+    "tweet7": {
+      "content": "Skyworks Solutions, Inc. (SWKS) Ex-Dividend Date Scheduled for May 20, 2019"
+    },
+    "tweet8": {
+      "content": "Validea Warren Buffett Strategy Daily Upgrade Report - 5/17/2019"
+    },
+    "tweet9": {
+      "content": "Validea Warren Buffett Strategy Daily Upgrade Report - 5/17/2019"
+    }
+  },
+  "day96": {
+    "tweet1": {
+      "content": "Taiwan Semiconductor Manufacturing Becomes Oversold (COMPANY_X)"
+    },
+    "tweet2": {
+      "content": "Taiwan Semiconductor Manufacturing Becomes Oversold (COMPANY_X)"
+    }
+  },
+  "day97": {
+    "tweet1": {
+      "content": "Applied Materials, Inc. (AMAT) Ex-Dividend Date Scheduled for May 22, 2019"
+    },
+    "tweet2": {
+      "content": "Applied Materials, Inc. (AMAT) Ex-Dividend Date Scheduled for May 22, 2019"
+    }
+  },
+  "day98": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day99": {
+    "tweet1": {
+      "content": "Semiconductor ETF Experiences Big Outflow"
+    },
+    "tweet2": {
+      "content": "Semiconductor ETF Experiences Big Outflow"
+    },
+    "tweet3": {
+      "content": "U.S. stock futures tumble as China trade spat continues to unsettle investors"
+    },
+    "tweet4": {
+      "content": "Emerging World&apos;s Three Biggest Stocks Are Now Down $170 Billion"
+    },
+    "tweet5": {
+      "content": "Taiwan's TSMC says chip shipments to Huawei not affected by U.S. ban"
+    }
+  },
+  "day100": {
+    "tweet1": {
+      "content": "TSMC's Stock Looks Reasonably Priced as it Keeps Executing Well"
+    },
+    "tweet2": {
+      "content": "Intel Stock Could Still Have a Long Way to Fall"
+    },
+    "tweet3": {
+      "content": "Huawei has enough inventory to &apos;weather&apos; US blacklist for months: Analyst"
+    },
+    "tweet4": {
+      "content": "Huawei has enough inventory to 'weather' US blacklist for months: Analyst"
+    }
+  },
+  "day101": {
+    "tweet1": {
+      "content": "AMD and Intel Unveil Their Latest Chips at Computex: 5 Key Takeaways"
+    },
+    "tweet2": {
+      "content": "Maxim Integrated Products, Inc. (MXIM) Ex-Dividend Date Scheduled for May 29, 2019"
+    },
+    "tweet3": {
+      "content": "Maxim Integrated Products, Inc. (MXIM) Ex-Dividend Date Scheduled for May 29, 2019"
+    }
+  },
+  "day102": {
+    "tweet1": {
+      "content": "The China Trade War Is Unhealthy"
+    },
+    "tweet2": {
+      "content": "Power Integrations, Inc. (POWI) Ex-Dividend Date Scheduled for May 30, 2019"
+    },
+    "tweet3": {
+      "content": "Power Integrations, Inc. (POWI) Ex-Dividend Date Scheduled for May 30, 2019"
+    },
+    "tweet4": {
+      "content": "Analog Devices, Inc. (ADI) Ex-Dividend Date Scheduled for May 30, 2019"
+    },
+    "tweet5": {
+      "content": "Analog Devices, Inc. (ADI) Ex-Dividend Date Scheduled for May 30, 2019"
+    },
+    "tweet6": {
+      "content": "NVIDIA Corporation (NVDA) Ex-Dividend Date Scheduled for May 30, 2019"
+    },
+    "tweet7": {
+      "content": "NVIDIA Corporation (NVDA) Ex-Dividend Date Scheduled for May 30, 2019"
+    },
+    "tweet8": {
+      "content": "TSMC&apos;s Worst Month Since 2008 Has Investors Feeling Whipsawed"
+    },
+    "tweet9": {
+      "content": "TSMC&apos;s Worst Month Since 2008 Has Investors Feeling Whipsawed"
+    }
+  },
+  "day103": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day104": {
+    "tweet1": {
+      "content": "5 Large-Cap Semiconductor Stocks to Buy Right Now"
+    }
+  },
+  "day105": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Fujifilm, NXP Semiconductor, Taiwan Semiconductor Manufacturing, XILINX and Advanced Micro Devices"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Fujifilm, NXP Semiconductor, Taiwan Semiconductor Manufacturing, XILINX and Advanced Micro Devices"
+    },
+    "tweet3": {
+      "content": "Notable ETF Outflow Detected - SMH, COMPANY_X, QCOM, TXN"
+    },
+    "tweet4": {
+      "content": "Notable ETF Outflow Detected - SMH, COMPANY_X, QCOM, TXN"
+    },
+    "tweet5": {
+      "content": "The Zacks Analyst Blog Highlights: Fujifilm, NXP Semiconductor, Taiwan Semiconductor Manufacturing, XILINX and Advanced Micro Devices"
+    }
+  },
+  "day106": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day107": {
+    "tweet1": {
+      "content": "UPDATE 2-Huawei denies report that orders to key suppliers cut after U.S. blacklisting"
+    },
+    "tweet2": {
+      "content": "REFILE-Huawei cuts orders to key suppliers after U.S. blacklisting -Nikkei"
+    }
+  },
+  "day108": {
+    "tweet1": {
+      "content": "5 Stocks Boosting Book Value"
+    }
+  },
+  "day109": {
+    "tweet1": {
+      "content": "Is It Time to Hold Your Horses on AMD Stock?"
+    },
+    "tweet2": {
+      "content": "Is Taiwan Semiconductor Mfg. Co. Ltd.  (COMPANY_X) A Good Stock To Buy?"
+    }
+  },
+  "day110": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day111": {
+    "tweet1": {
+      "content": "Keywise Capital Management’s Return, AUM, and Holdings"
+    }
+  },
+  "day112": {
+    "tweet1": {
+      "content": "Taiwan and Thailand Indexes Rise as Other Asian Indexes Fall"
+    },
+    "tweet2": {
+      "content": "NXP Semiconductors N.V. (NXPI) Ex-Dividend Date Scheduled for June 13, 2019"
+    },
+    "tweet3": {
+      "content": "NXP Semiconductors N.V. (NXPI) Ex-Dividend Date Scheduled for June 13, 2019"
+    }
+  },
+  "day113": {
+    "tweet1": {
+      "content": "Indian and Indonesian Indexes Stay Steady, but Taiwan Index Falls"
+    },
+    "tweet2": {
+      "content": "China chip industry insiders voice caution on catch-up efforts"
+    },
+    "tweet3": {
+      "content": "China chip industry insiders voice caution on catch-up efforts"
+    }
+  },
+  "day114": {
+    "tweet1": {
+      "content": "STMicroelectronics N.V. (STM) Ex-Dividend Date Scheduled for June 17, 2019"
+    },
+    "tweet2": {
+      "content": "STMicroelectronics N.V. (STM) Ex-Dividend Date Scheduled for June 17, 2019"
+    }
+  },
+  "day115": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day116": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day117": {
+    "tweet1": {
+      "content": "Foxconn Game of Thrones Looms as Its King Abdicates"
+    },
+    "tweet2": {
+      "content": "Foxconn Game of Thrones Looms as Its King Abdicates"
+    },
+    "tweet3": {
+      "content": "Noteworthy ETF Inflows: SMH, COMPANY_X, QCOM, TXN"
+    },
+    "tweet4": {
+      "content": "Noteworthy ETF Inflows: SMH, COMPANY_X, QCOM, TXN"
+    }
+  },
+  "day118": {
+    "tweet1": {
+      "content": "Broadcom Inc. (AVGO) Ex-Dividend Date Scheduled for June 21, 2019"
+    },
+    "tweet2": {
+      "content": "Broadcom Inc. (AVGO) Ex-Dividend Date Scheduled for June 21, 2019"
+    }
+  },
+  "day119": {
+    "tweet1": {
+      "content": "Does &quot;Freedom Weighting&quot; Make a Better EM ETF?"
+    },
+    "tweet2": {
+      "content": "Cabot Microelectronics Corporation (CCMP) Ex-Dividend Date Scheduled for June 24, 2019"
+    },
+    "tweet3": {
+      "content": "Cabot Microelectronics Corporation (CCMP) Ex-Dividend Date Scheduled for June 24, 2019"
+    },
+    "tweet4": {
+      "content": "Taiwan Semiconductor Manufacturing Company Ltd. (COMPANY_X) Ex-Dividend Date Scheduled for June 24, 2019"
+    },
+    "tweet5": {
+      "content": "Taiwan Semiconductor Manufacturing Company Ltd. (COMPANY_X) Ex-Dividend Date Scheduled for June 24, 2019"
+    }
+  },
+  "day120": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day121": {
+    "tweet1": {
+      "content": "Global Tech Is Weaker Than It Looks"
+    },
+    "tweet2": {
+      "content": "Why Advanced Micro Devices Stock Pulled Back From $34 In The Past Week"
+    },
+    "tweet3": {
+      "content": "Why Advanced Micro Devices Stock Pulled Back From $34 In The Past Week"
+    },
+    "tweet4": {
+      "content": "Chipmakers to See Slow Phone Sales: Morgan Stanley"
+    },
+    "tweet5": {
+      "content": "These 2 Nvidia and Intel Suppliers May Surge on AI"
+    },
+    "tweet6": {
+      "content": "Cypress Semiconductor Corporation (CY) Ex-Dividend Date Scheduled for June 26, 2019"
+    },
+    "tweet7": {
+      "content": "Cypress Semiconductor Corporation (CY) Ex-Dividend Date Scheduled for June 26, 2019"
+    }
+  },
+  "day122": {
+    "tweet1": {
+      "content": "AMD Stock Is Still a Good Buy as It Begins Leveling Off"
+    },
+    "tweet2": {
+      "content": "AMD Stock Is Still a Good Buy as It Begins Leveling Off"
+    },
+    "tweet3": {
+      "content": "Kulicke and Soffa Industries, Inc. (KLIC) Ex-Dividend Date Scheduled for June 27, 2019"
+    },
+    "tweet4": {
+      "content": "Kulicke and Soffa Industries, Inc. (KLIC) Ex-Dividend Date Scheduled for June 27, 2019"
+    },
+    "tweet5": {
+      "content": "Monolithic Power Systems, Inc. (MPWR) Ex-Dividend Date Scheduled for June 27, 2019"
+    },
+    "tweet6": {
+      "content": "Monolithic Power Systems, Inc. (MPWR) Ex-Dividend Date Scheduled for June 27, 2019"
+    },
+    "tweet7": {
+      "content": "Indian Indexes Are in the Green"
+    }
+  },
+  "day123": {
+    "tweet1": {
+      "content": "Notable ETF Outflow Detected - SMH, COMPANY_X, TXN, NVDA"
+    },
+    "tweet2": {
+      "content": "Notable ETF Outflow Detected - SMH, COMPANY_X, TXN, NVDA"
+    }
+  },
+  "day124": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day125": {
+    "tweet1": {
+      "content": "Applied Materials to Buy Kokusai From KKR for $2.2 Billion"
+    },
+    "tweet2": {
+      "content": "Huawei Reprieve Is Good and Bad News for Asia Tech Stocks"
+    },
+    "tweet3": {
+      "content": "Better Buy: Advanced Micro Devices vs. Intel"
+    },
+    "tweet4": {
+      "content": "Better Buy: Advanced Micro Devices vs. Intel"
+    }
+  },
+  "day126": {
+    "tweet1": {
+      "content": "Easing of China trade war is helping this beleaguered tech sector the most"
+    }
+  },
+  "day127": {
+    "tweet1": {
+      "content": "Asia-Pacific Update: Most Indexes Fall—with a Few Exceptions"
+    }
+  },
+  "day128": {
+    "tweet1": {
+      "content": "3 Reasons to Take a Shot at Nvidia Stock Now"
+    },
+    "tweet2": {
+      "content": "3 Reasons to Take a Shot at Nvidia Stock Now"
+    },
+    "tweet3": {
+      "content": "3 Reasons to Take a Shot at Nvidia Stock Now"
+    }
+  },
+  "day129": {
+    "tweet1": {
+      "content": "COMPANY_X Crosses Below Key Moving Average Level"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Crosses Below Key Moving Average Level"
+    },
+    "tweet3": {
+      "content": "SMH, COMPANY_X, TXN, NVDA: ETF Inflow Alert"
+    },
+    "tweet4": {
+      "content": "SMH, COMPANY_X, TXN, NVDA: ETF Inflow Alert"
+    }
+  },
+  "day130": {
+    "tweet1": {
+      "content": "Japan-Korea Spat Threatens to Upend Global Technology Chain"
+    }
+  },
+  "day131": {
+    "tweet1": {
+      "content": "Spiros Segalas' Top 5 Buys of the 2nd Quarter"
+    },
+    "tweet2": {
+      "content": "TSMC's Sales Beat Is Encouraging News for Chip Stocks"
+    },
+    "tweet3": {
+      "content": "Technology Sector Update for 07/10/2019: VISL, CMCSA, HLIT, COMPANY_X, MSFT, AAPL, IBM, CSCO, GOOG"
+    },
+    "tweet4": {
+      "content": "Technology Sector Update for 07/10/2019: VISL, CMCSA, HLIT, COMPANY_X, MSFT, AAPL, IBM, CSCO, GOOG"
+    },
+    "tweet5": {
+      "content": "Marvell Technology Group Ltd. (MRVL) Ex-Dividend Date Scheduled for July 11, 2019"
+    },
+    "tweet6": {
+      "content": "Marvell Technology Group Ltd. (MRVL) Ex-Dividend Date Scheduled for July 11, 2019"
+    }
+  },
+  "day132": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day133": {
+    "tweet1": {
+      "content": "United Microelectronics Corporation (UMC) Ex-Dividend Date Scheduled for July 15, 2019"
+    },
+    "tweet2": {
+      "content": "United Microelectronics Corporation (UMC) Ex-Dividend Date Scheduled for July 15, 2019"
+    }
+  },
+  "day134": {
+    "tweet1": {
+      "content": "Asian markets recover after China’s GDP growth fails to meet already low expectations"
+    }
+  },
+  "day135": {
+    "tweet1": {
+      "content": "SMH, COMPANY_X, TXN, MU: Large Outflows Detected at ETF"
+    },
+    "tweet2": {
+      "content": "SMH, COMPANY_X, TXN, MU: Large Outflows Detected at ETF"
+    }
+  },
+  "day136": {
+    "tweet1": {
+      "content": "Pre-Market Earnings Report for July 18, 2019 :  UNH, HON, PM, UNP, DHR, MS, COMPANY_X, BBT, BX, NVS, STI, PPG"
+    },
+    "tweet2": {
+      "content": "Pre-Market Earnings Report for July 18, 2019 :  UNH, HON, PM, UNP, DHR, MS, COMPANY_X, BBT, BX, NVS, STI, PPG"
+    },
+    "tweet3": {
+      "content": "One Chipmaker May Tell ETF Traders Everything About Earnings"
+    }
+  },
+  "day137": {
+    "tweet1": {
+      "content": "Technology Sector Update for 07/18/2019: MU,IBM,COMPANY_X,SAP"
+    },
+    "tweet2": {
+      "content": "Technology Sector Update for 07/18/2019: MU,IBM,COMPANY_X,SAP"
+    },
+    "tweet3": {
+      "content": "Taiwan Semiconductor Manufacturing Stock Rises On Improving Demand"
+    },
+    "tweet4": {
+      "content": "Is the 5G Boom Starting? A Huge Options Trade Thinks So"
+    },
+    "tweet5": {
+      "content": "Technology Sector Update for 07/18/2019: IBM,COMPANY_X,SAP"
+    },
+    "tweet6": {
+      "content": "Technology Sector Update for 07/18/2019: IBM,COMPANY_X,SAP"
+    },
+    "tweet7": {
+      "content": "Taiwan Semiconductor Manufacturing Co., Ltd. to Host Earnings Call"
+    },
+    "tweet8": {
+      "content": "TSMC's Outlook Is Good News for Chip Equipment Makers -- And Maybe Also Apple"
+    },
+    "tweet9": {
+      "content": "It Could Be An Epic Day For These Chip ETFs"
+    },
+    "tweet10": {
+      "content": "Technology Sector Update for 07/18/2019: LLNW, SAP, COMPANY_X, MSFT, AAPL, IBM, CSCO, GOOG"
+    },
+    "tweet11": {
+      "content": "Technology Sector Update for 07/18/2019: LLNW, SAP, COMPANY_X, MSFT, AAPL, IBM, CSCO, GOOG"
+    },
+    "tweet12": {
+      "content": "UPDATE 4-TSMC expects 5G to drive earnings, flags S.Korea-Japan spat as risk"
+    },
+    "tweet13": {
+      "content": "TSMC Sees Second Half Chip Sector Rebound as 5G, Smartphone Demand Returns"
+    },
+    "tweet14": {
+      "content": "Apple Chip Supplier’s Solid Performance Shows Resilience in Trade Fight"
+    },
+    "tweet15": {
+      "content": "Apple Chip Supplier’s Solid Performance Shows Resilience in Trade Fight"
+    },
+    "tweet16": {
+      "content": "TSMC earnings slide moderates after strong June sales"
+    },
+    "tweet17": {
+      "content": "TSMC expects 5G earnings boost, flags South Korea-Japan spat as risk"
+    },
+    "tweet18": {
+      "content": "TSMC expects 5G to drive earnings, flags South Korea-Japan spat as risk"
+    },
+    "tweet19": {
+      "content": "TSMC Counts on New IPhones for Revival After Trade War Hit"
+    },
+    "tweet20": {
+      "content": "TSMC Counts on New iPhones for Revival After Trade War Hit"
+    }
+  },
+  "day138": {
+    "tweet1": {
+      "content": "TSMC’s and Samsung’s Rivalry Fuels Rumors"
+    },
+    "tweet2": {
+      "content": "TSMC’s Earnings Give Semiconductor Investors Hope"
+    },
+    "tweet3": {
+      "content": "Japan shares jump as Fed signals month-end rate cut, chip sector lead gains"
+    },
+    "tweet4": {
+      "content": "Apple-Chipmaker TSMC’s Outlook Shines as Industry Stabilizes"
+    }
+  },
+  "day139": {
+    "tweet1": {
+      "content": "Taiwan Semi CEO: These 2 Technologies Are Powering the Next Semi Upcycle"
+    },
+    "tweet2": {
+      "content": "IBD Stock Of The Day Taps Into Chip Stock Rally As AMD, Micron, Intel Advance"
+    },
+    "tweet3": {
+      "content": "Inside Samsung’s $116bn plan to overtake chip rivals"
+    }
+  },
+  "day140": {
+    "tweet1": {
+      "content": "A Steady Emerging Market Investors Aren’t Impressed With"
+    }
+  },
+  "day141": {
+    "tweet1": {
+      "content": "Noteworthy ETF Outflows: SMH, COMPANY_X, TXN, MU"
+    },
+    "tweet2": {
+      "content": "Noteworthy ETF Outflows: SMH, COMPANY_X, TXN, MU"
+    }
+  },
+  "day142": {
+    "tweet1": {
+      "content": "Semiconductor Companies Still Counting On Second-Half Recovery"
+    },
+    "tweet2": {
+      "content": "NVE Corporation (NVEC) Ex-Dividend Date Scheduled for July 26, 2019"
+    },
+    "tweet3": {
+      "content": "NVE Corporation (NVEC) Ex-Dividend Date Scheduled for July 26, 2019"
+    },
+    "tweet4": {
+      "content": "Apple Suppliers See Demand for New IPhones Stabilizing This Year"
+    }
+  },
+  "day143": {
+    "tweet1": {
+      "content": "Marijuana & Blockchain ETFs: Should You Buy?"
+    },
+    "tweet2": {
+      "content": "Marijuana & Blockchain ETFs: Should You Buy?"
+    },
+    "tweet3": {
+      "content": "Another Semiconductor Bellwether Points to Chip Strength in the Second Half"
+    },
+    "tweet4": {
+      "content": "Marijuana & Blockchain ETFs: Should You Buy?"
+    }
+  },
+  "day144": {
+    "tweet1": {
+      "content": "Texas Instruments Incorporated (TXN) Ex-Dividend Date Scheduled for July 30, 2019"
+    },
+    "tweet2": {
+      "content": "Texas Instruments Incorporated (TXN) Ex-Dividend Date Scheduled for July 30, 2019"
+    }
+  },
+  "day145": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day146": {
+    "tweet1": {
+      "content": "AMD Sales Forecast Misses on Tepid Game-Console Chip Demand"
+    }
+  },
+  "day147": {
+    "tweet1": {
+      "content": "Signs of an End to the Tech Slump Offer Hope to Asia’s Economies"
+    },
+    "tweet2": {
+      "content": "Advanced Micro Devices: Playing for Scale"
+    },
+    "tweet3": {
+      "content": "Is SPDR S&amp;P Emerging Markets Dividend ETF (EDIV) a Strong ETF Right Now?"
+    },
+    "tweet4": {
+      "content": "Is SPDR S&amp;P Emerging Markets Dividend ETF (EDIV) a Strong ETF Right Now?"
+    },
+    "tweet5": {
+      "content": "Noteworthy ETF Inflows: SMH, COMPANY_X, TXN, MU"
+    },
+    "tweet6": {
+      "content": "Noteworthy ETF Inflows: SMH, COMPANY_X, TXN, MU"
+    },
+    "tweet7": {
+      "content": "Intel Gives Chip Stocks Their Third Boost in a Week"
+    },
+    "tweet8": {
+      "content": "Is SPDR S&amp;P Emerging Markets Dividend ETF (EDIV) a Strong ETF Right Now?"
+    }
+  },
+  "day148": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day149": {
+    "tweet1": {
+      "content": "Xilinx, Inc. (XLNX) Ex-Dividend Date Scheduled for August 06, 2019"
+    },
+    "tweet2": {
+      "content": "Xilinx, Inc. (XLNX) Ex-Dividend Date Scheduled for August 06, 2019"
+    },
+    "tweet3": {
+      "content": "Intel Corporation (INTC) Ex-Dividend Date Scheduled for August 06, 2019"
+    },
+    "tweet4": {
+      "content": "Intel Corporation (INTC) Ex-Dividend Date Scheduled for August 06, 2019"
+    }
+  },
+  "day150": {
+    "tweet1": {
+      "content": "Analyst Favorites With Strong Buyback Activity: Applied Materials Ranks As a Top Pick"
+    },
+    "tweet2": {
+      "content": "Analyst Favorites With Strong Buyback Activity: Applied Materials Ranks As a Top Pick"
+    },
+    "tweet3": {
+      "content": "4 Nanotech Stocks to Watch for Explosive Innovation"
+    },
+    "tweet4": {
+      "content": "4 Nanotech Stocks to Watch for Explosive Innovation"
+    },
+    "tweet5": {
+      "content": "4 Nanotech Stocks to Watch for Explosive Innovation"
+    }
+  },
+  "day151": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day152": {
+    "tweet1": {
+      "content": "INTC Named A Top Socially Responsible Dividend Stock"
+    },
+    "tweet2": {
+      "content": "INTC Named A Top Socially Responsible Dividend Stock"
+    }
+  },
+  "day153": {
+    "tweet1": {
+      "content": "StockBeat - Semis Swoon as Huawei Gets Caught Up in US-China Crossfire Again"
+    },
+    "tweet2": {
+      "content": "See How Intel Corp Ranks Among Analysts' Top Dow 30 Picks"
+    },
+    "tweet3": {
+      "content": "See How Intel Corp Ranks Among Analysts' Top Dow 30 Picks"
+    },
+    "tweet4": {
+      "content": "How Huawei Is Trying to Trade War-Proof Its Software"
+    }
+  },
+  "day154": {
+    "tweet1": {
+      "content": "Applied Materials Is Ready For AI: July Quarter Earning Thursday After Bell"
+    },
+    "tweet2": {
+      "content": "5 Stocks With High Business Predictability Ratings"
+    },
+    "tweet3": {
+      "content": "Trade War Lures Options Investors to Taiwan ETF"
+    },
+    "tweet4": {
+      "content": "Technology Sector Update for 08/12/2019: MSFT, AAPL, IBM, CSCO, GOOG, GOOGL, DXC, RDCM"
+    },
+    "tweet5": {
+      "content": "Technology Sector Update for 08/12/2019: MSFT, AAPL, IBM, CSCO, GOOG, GOOGL, DXC, RDCM"
+    },
+    "tweet6": {
+      "content": "ASE Technology Holding Co., Ltd. (ASX) Ex-Dividend Date Scheduled for August 13, 2019"
+    },
+    "tweet7": {
+      "content": "ASE Technology Holding Co., Ltd. (ASX) Ex-Dividend Date Scheduled for August 13, 2019"
+    }
+  },
+  "day155": {
+    "tweet1": {
+      "content": "Applied Materials Is Ready For AI: July Quarter Earning Thursday After Bell"
+    },
+    "tweet2": {
+      "content": "Applied Materials Is Ready For AI: July Quarter Earning Thursday After Bell"
+    }
+  },
+  "day156": {
+    "tweet1": {
+      "content": "Protect Your Wealth During the Next Bear Market"
+    },
+    "tweet2": {
+      "content": "Protect Your Wealth During the Next Bear Market"
+    }
+  },
+  "day157": {
+    "tweet1": {
+      "content": "Pre-Market Most Active for Aug 15, 2019 :  GE, TVIX, BABA, QQQ, COMPANY_X, AMD, TQQQ, SQQQ, PVTL, WMT, CSCO, DB"
+    },
+    "tweet2": {
+      "content": "Pre-Market Most Active for Aug 15, 2019 :  GE, TVIX, BABA, QQQ, COMPANY_X, AMD, TQQQ, SQQQ, PVTL, WMT, CSCO, DB"
+    },
+    "tweet3": {
+      "content": "NVIDIA Braces for AMD&apos;s 7nm GPUs"
+    }
+  },
+  "day158": {
+    "tweet1": {
+      "content": "Chipmakers on a Roll This Earnings Season: 3 Solid Buys"
+    },
+    "tweet2": {
+      "content": "Chipmakers on a Roll This Earnings Season: 3 Solid Buys"
+    }
+  },
+  "day159": {
+    "tweet1": {
+      "content": "1-800-Flowers.com, Macy???s, Power Integrations, NeoPhotonics and Taiwan Semiconductor highlighted as Zacks Bull and Bear of the Day"
+    },
+    "tweet2": {
+      "content": "1-800-Flowers.com, Macy???s, Power Integrations, NeoPhotonics and Taiwan Semiconductor highlighted as Zacks Bull and Bear of the Day"
+    },
+    "tweet3": {
+      "content": "Three 5G Stocks Poised to Soar Over the Next Decade"
+    },
+    "tweet4": {
+      "content": "Microchip Technology Incorporated (MCHP) Ex-Dividend Date Scheduled for August 20, 2019"
+    },
+    "tweet5": {
+      "content": "Microchip Technology Incorporated (MCHP) Ex-Dividend Date Scheduled for August 20, 2019"
+    },
+    "tweet6": {
+      "content": "Three 5G Stocks Poised to Soar Over the Next Decade"
+    },
+    "tweet7": {
+      "content": "Semiconductor Startup Shows Off the World’s Biggest Processor"
+    }
+  },
+  "day160": {
+    "tweet1": {
+      "content": "Applied Materials, Inc. (AMAT) Ex-Dividend Date Scheduled for August 21, 2019"
+    },
+    "tweet2": {
+      "content": "Applied Materials, Inc. (AMAT) Ex-Dividend Date Scheduled for August 21, 2019"
+    }
+  },
+  "day161": {
+    "tweet1": {
+      "content": "AMD Stock Can Gain 87%: Fund Manager"
+    }
+  },
+  "day162": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day163": {
+    "tweet1": {
+      "content": "AMD Tech Advantage Over Intel Is Here to Stay"
+    },
+    "tweet2": {
+      "content": "Skyworks Solutions, Inc. (SWKS) Ex-Dividend Date Scheduled for August 26, 2019"
+    },
+    "tweet3": {
+      "content": "Skyworks Solutions, Inc. (SWKS) Ex-Dividend Date Scheduled for August 26, 2019"
+    }
+  },
+  "day164": {
+    "tweet1": {
+      "content": "Globalfoundries Sues TSMC; Seeks Import Ban on IPhone Parts"
+    },
+    "tweet2": {
+      "content": "GlobalFoundries sues its largest competitor for patent infringement"
+    },
+    "tweet3": {
+      "content": "GlobalFoundries sues Apple supplier TSMC, seeks iPhone import ban"
+    }
+  },
+  "day165": {
+    "tweet1": {
+      "content": "Maxim Integrated Products, Inc. (MXIM) Ex-Dividend Date Scheduled for August 28, 2019"
+    },
+    "tweet2": {
+      "content": "Maxim Integrated Products, Inc. (MXIM) Ex-Dividend Date Scheduled for August 28, 2019"
+    },
+    "tweet3": {
+      "content": "NVIDIA Corporation (NVDA) Ex-Dividend Date Scheduled for August 28, 2019"
+    },
+    "tweet4": {
+      "content": "NVIDIA Corporation (NVDA) Ex-Dividend Date Scheduled for August 28, 2019"
+    },
+    "tweet5": {
+      "content": "UPDATE 1-GlobalFoundries sues TSMC, wants US import ban on some products"
+    },
+    "tweet6": {
+      "content": "GlobalFoundries sues TSMC, wants U.S. import ban on some products"
+    },
+    "tweet7": {
+      "content": "GlobalFoundries sues TSMC, wants U.S. import ban on some products"
+    },
+    "tweet8": {
+      "content": "GlobalFoundries seeks to ban U.S. import of TSMC clients' products"
+    },
+    "tweet9": {
+      "content": "TSMC Sued in Patent Infringement Case"
+    },
+    "tweet10": {
+      "content": "TSMC Sued in Patent Infringement Case"
+    }
+  },
+  "day166": {
+    "tweet1": {
+      "content": "Can Intel Compete with NVIDIA in the AI Space?"
+    },
+    "tweet2": {
+      "content": "Power Integrations, Inc. (POWI) Ex-Dividend Date Scheduled for August 29, 2019"
+    },
+    "tweet3": {
+      "content": "Power Integrations, Inc. (POWI) Ex-Dividend Date Scheduled for August 29, 2019"
+    },
+    "tweet4": {
+      "content": "Analog Devices, Inc. (ADI) Ex-Dividend Date Scheduled for August 29, 2019"
+    },
+    "tweet5": {
+      "content": "Analog Devices, Inc. (ADI) Ex-Dividend Date Scheduled for August 29, 2019"
+    }
+  },
+  "day167": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day168": {
+    "tweet1": {
+      "content": "Notable ETF Outflow Detected - SMH, COMPANY_X, MU, ASML"
+    },
+    "tweet2": {
+      "content": "Notable ETF Outflow Detected - SMH, COMPANY_X, MU, ASML"
+    }
+  },
+  "day169": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day170": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day171": {
+    "tweet1": {
+      "content": "5 Semiconductor Companies Gurus Agree On"
+    }
+  },
+  "day172": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day173": {
+    "tweet1": {
+      "content": "SMH, COMPANY_X, TXN, MU: ETF Inflow Alert"
+    },
+    "tweet2": {
+      "content": "SMH, COMPANY_X, TXN, MU: ETF Inflow Alert"
+    }
+  },
+  "day174": {
+    "tweet1": {
+      "content": "Technology Sector Update for 09/10/2019: WDC,OLED,COMPANY_X,HEI"
+    },
+    "tweet2": {
+      "content": "Technology Sector Update for 09/10/2019: WDC,OLED,COMPANY_X,HEI"
+    },
+    "tweet3": {
+      "content": "Technology Sector Update for 09/10/2019: OLED,COMPANY_X,HEI"
+    },
+    "tweet4": {
+      "content": "Technology Sector Update for 09/10/2019: OLED,COMPANY_X,HEI"
+    },
+    "tweet5": {
+      "content": "Technology Sector Update for 09/10/2019: WB, PHR, COMPANY_X, MSFT, AAPL, CSCO, IBM, GOOG"
+    },
+    "tweet6": {
+      "content": "Technology Sector Update for 09/10/2019: WB, PHR, COMPANY_X, MSFT, AAPL, CSCO, IBM, GOOG"
+    },
+    "tweet7": {
+      "content": "Huawei and Samsung’s New 5G Chips Pose Threat to Qualcomm"
+    }
+  },
+  "day175": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day176": {
+    "tweet1": {
+      "content": "4 5-Star Companies to Consider as Dow Eclipses 27,000"
+    },
+    "tweet2": {
+      "content": "NXP Semiconductors N.V. (NXPI) Ex-Dividend Date Scheduled for September 13, 2019"
+    },
+    "tweet3": {
+      "content": "NXP Semiconductors N.V. (NXPI) Ex-Dividend Date Scheduled for September 13, 2019"
+    }
+  },
+  "day177": {
+    "tweet1": {
+      "content": "Advanced Micro Devices, Inc. -- Moody's upgrades Advanced Micro Devices' CFR to Ba2 and senior unsecured rating to Ba3; outlook positive"
+    },
+    "tweet2": {
+      "content": "Sarah Ketterer's Favorite Tech Stocks"
+    },
+    "tweet3": {
+      "content": "3 Charts That Suggest Traders Are Bullish on Taiwan"
+    }
+  },
+  "day178": {
+    "tweet1": {
+      "content": "Is SPDR S&P Emerging Markets Dividend ETF (EDIV) a Strong ETF Right Now?"
+    }
+  },
+  "day179": {
+    "tweet1": {
+      "content": "TSMC's Manufacturing Tech Lead Is Starting to Pay Off in a Bigger Way"
+    },
+    "tweet2": {
+      "content": "Hidden tech gems to invest in now, picked by a mutual-fund manager with a great track record"
+    }
+  },
+  "day180": {
+    "tweet1": {
+      "content": "AMD Falls on Fears of a 7 nm Supply Shortage"
+    }
+  },
+  "day181": {
+    "tweet1": {
+      "content": "5 Companies Growing Earnings"
+    }
+  },
+  "day182": {
+    "tweet1": {
+      "content": "AMD Takes the Zen Family Tradition Forward"
+    }
+  },
+  "day183": {
+    "tweet1": {
+      "content": "These 3 Long-Term Dividend Payers Offer a High Forward Yield"
+    }
+  },
+  "day184": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day185": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day186": {
+    "tweet1": {
+      "content": "AMD Stock Falls 3.6% on Ryzen 3950X Delay"
+    }
+  },
+  "day187": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day188": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day189": {
+    "tweet1": {
+      "content": "Apple supplier TSMC counter-sues GlobalFoundries"
+    },
+    "tweet2": {
+      "content": "TSMC counter-sues U.S. chip rival GlobalFoundries for patent infringement"
+    },
+    "tweet3": {
+      "content": "4 Rebounding Chip Stocks Poised to Rise Higher Amid Holiday Sales"
+    },
+    "tweet4": {
+      "content": "TSMC counter-sues US chip rival GlobalFoundries for patent infringement"
+    }
+  },
+  "day190": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day191": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day192": {
+    "tweet1": {
+      "content": "Taiwan Semiconductor Wins Deals To Make Artificial Intelligence Chips"
+    },
+    "tweet2": {
+      "content": "Here is Hedge Funds’ 30th Most Popular Stock Pick"
+    }
+  },
+  "day193": {
+    "tweet1": {
+      "content": "Hedge Funds Have Never Been More Bullish On Taiwan Semiconductor Manufacturing Company Limited  (COMPANY_X)"
+    }
+  },
+  "day194": {
+    "tweet1": {
+      "content": "NVIDIA to Fight AMD’s ‘NVIDIA Killer’ with Ampere"
+    },
+    "tweet2": {
+      "content": "TSMC (COMPANY_X) is a Great Momentum Stock: Should You Buy?"
+    }
+  },
+  "day195": {
+    "tweet1": {
+      "content": "From patent battles to trade wars, GlobalFoundries faces tough tests"
+    }
+  },
+  "day196": {
+    "tweet1": {
+      "content": "Is Taiwan Semiconductor Manufacturing Company (COMPANY_X) Stock Outpacing Its Computer and Technology Peers This Year?"
+    }
+  },
+  "day197": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day198": {
+    "tweet1": {
+      "content": "Taiwan Semi (COMPANY_X) to Report Q3 Earnings: What to Expect?"
+    }
+  },
+  "day199": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day200": {
+    "tweet1": {
+      "content": "Taiwan Semiconductor Manufacturing Reports Earnings Tomorrow. Here’s What to Expect."
+    },
+    "tweet2": {
+      "content": "Chip Gear-Maker ASML’s Sales Outlook Beats Analyst Estimates"
+    },
+    "tweet3": {
+      "content": "Boxinyuan International Co., Ltd. -- Moody's assigns first-time Ba2 ratings to Nanjing Pukou Economic Development; outlook stable"
+    }
+  },
+  "day201": {
+    "tweet1": {
+      "content": "TSMC Just Showed Its Chips Are Hot"
+    },
+    "tweet2": {
+      "content": "TSMC Just Showed Its Chips Are Hot"
+    },
+    "tweet3": {
+      "content": "Taiwan Semiconductor Beats Forecasts, Signals Chip Industry Upswing"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Stock Nudges Lower After Good Third Quarter"
+    },
+    "tweet5": {
+      "content": "Chip Stocks Rise on TSMC Earnings Beat for Q3"
+    },
+    "tweet6": {
+      "content": "Taiwan Semiconductor Outshines the Competition"
+    },
+    "tweet7": {
+      "content": "Taiwan Semiconductor Stock Is Down After Beating Earnings and Raising Capex Plans"
+    },
+    "tweet8": {
+      "content": "Major indexes higher as UK, EU reach new Brexit deal"
+    },
+    "tweet9": {
+      "content": "Taiwan Semiconductor Beats Q3 Forecasts, Signals Chip Industry Upswing"
+    },
+    "tweet10": {
+      "content": "Chipmaker TSMC boosts capex by up to $5 billion, sees fourth quarter sales jump on smartphones"
+    },
+    "tweet11": {
+      "content": "UPDATE 3-Chipmaker TSMC boosts capex by up to $5 bln, sees Q4 sales jump on smartphones"
+    },
+    "tweet12": {
+      "content": "TSMC third-quarter profit rises 13.5%, beats market forecasts"
+    },
+    "tweet13": {
+      "content": "TSMC Boosts Q4 Revenue Forecast; Apple Supplier Sees Solid Smartphone Demand"
+    },
+    "tweet14": {
+      "content": "Semiconductor Advisors' Maire on TSMC, Samsung"
+    }
+  },
+  "day202": {
+    "tweet1": {
+      "content": "TSMC Topples Intel for the Chip Crown"
+    },
+    "tweet2": {
+      "content": "Dow Jones Erases Weekly Gain On Boeing, J&J; JPMorgan, UnitedHealth Rise, Netflix, ASML Fall"
+    },
+    "tweet3": {
+      "content": "Smartphone Investors Seem Happy with TSMC’s Earnings"
+    },
+    "tweet4": {
+      "content": "Dow Jones Slashes Weekly Gain; JPMorgan, UnitedHealth Rise, But Boeing, Netflix, ASML Fall"
+    },
+    "tweet5": {
+      "content": "Dow Jones Moves Higher On JPMorgan, UnitedHealth; Netflix, ASML Fall: Weekly Review"
+    },
+    "tweet6": {
+      "content": "Has Intel Stock Found a Catalyst?"
+    },
+    "tweet7": {
+      "content": "Tech sector leads Nikkei to 10-month high, profit-taking hits Topix"
+    },
+    "tweet8": {
+      "content": "[video]TSMC's Outlook Once More Looks Good for Apple, Chip Equipment Firms and Others"
+    },
+    "tweet9": {
+      "content": "Tech sector leads Nikkei rally after Brexit relief"
+    },
+    "tweet10": {
+      "content": "TSMC’s $15 Billion Splurge Galvanizes Hope of 5G-Led Rebound"
+    }
+  },
+  "day203": {
+    "tweet1": {
+      "content": "Semiconductor Stocks Are Breaking Out"
+    },
+    "tweet2": {
+      "content": "Sizing Up This Vital Semiconductor ETF"
+    }
+  },
+  "day204": {
+    "tweet1": {
+      "content": "Texas Instruments stock drops after weak outlook, drags on chip sector after hours"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Taiwan Semi, Target and D.R. Horton"
+    },
+    "tweet3": {
+      "content": "Taiwan Semiconductor Manufacturer, AMC Theatres, Boeing, American Airlines and Lockheed Martin highlighted as Zacks Bull and Bear of the Day"
+    },
+    "tweet4": {
+      "content": "Will Cloud & Azure Adoption Aid Microsoft (MSFT) Q1 Earnings?"
+    },
+    "tweet5": {
+      "content": "Cadence (CDNS) Earnings & Revenues Top Q3 Estimates, Up Y/Y"
+    },
+    "tweet6": {
+      "content": "Bull Of The Day: Taiwan Semiconductor Manufacturer Company (COMPANY_X)"
+    }
+  },
+  "day205": {
+    "tweet1": {
+      "content": "Intel (INTC) Thursday Earnings: Can It Prove Analysts Wrong?"
+    },
+    "tweet2": {
+      "content": "Tech Stocks' Q3 Earnings Lineup for Oct 24: INTC, TWTR & More"
+    },
+    "tweet3": {
+      "content": "Monolithic Power (MPWR) Q3 Earnings & Revenues Top Estimates"
+    }
+  },
+  "day206": {
+    "tweet1": {
+      "content": "Global Policy Uncertainty Spikes"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Texas Instruments, Intel, Micro Devices, TSMC and Nvidia"
+    },
+    "tweet3": {
+      "content": "ServiceNow (NOW) Q3 Earnings Beat Estimates, Revenues In Line"
+    },
+    "tweet4": {
+      "content": "Microsoft (MSFT) Q1 Earnings, Revenues Top Estimates, Up Y/Y"
+    }
+  },
+  "day207": {
+    "tweet1": {
+      "content": "Wall Street is back in love with chip stocks"
+    },
+    "tweet2": {
+      "content": "Flex (FLEX) Earnings Beat Estimates in Q2, Revenues Miss"
+    },
+    "tweet3": {
+      "content": "3 ‘Strong Buy’ Stocks Top Investors Are Buying"
+    }
+  },
+  "day208": {
+    "tweet1": {
+      "content": "TSMC, GlobalFoundries settle patent disputes"
+    },
+    "tweet2": {
+      "content": "Will GPU Product Rollouts & Tie-Ups Aid AMD's Q3 Earnings?"
+    }
+  },
+  "day209": {
+    "tweet1": {
+      "content": "Advanced Micro Devices Gives In-Line Revenue Forecast"
+    },
+    "tweet2": {
+      "content": "More Upside Could be Brewing For This Hot Semiconductor ETF"
+    },
+    "tweet3": {
+      "content": "Blackbaud (BLKB) Q3 Earnings & Revenues Surpass Estimates"
+    },
+    "tweet4": {
+      "content": "Akamai (AKAM) Earnings and Revenues Beat Estimates in Q3"
+    },
+    "tweet5": {
+      "content": "Is Taiwan Semiconductor Manufacturing Company (COMPANY_X) Outperforming Other Computer and Technology Stocks This Year?"
+    },
+    "tweet6": {
+      "content": "GlobalFoundries resolves patent battle with TSMC, patent lawsuits dismissed"
+    },
+    "tweet7": {
+      "content": "TSMC and GlobalFoundries resolve patent disputes"
+    }
+  },
+  "day210": {
+    "tweet1": {
+      "content": "Shopify (SHOP) Beats on Q3 Earnings & Revenues, Ups '19 View"
+    }
+  },
+  "day211": {
+    "tweet1": {
+      "content": "Chip-equipment companies suggest a recovery is on the way"
+    },
+    "tweet2": {
+      "content": "Mellanox (MLNX) Earnings & Revenues Beat Estimates in Q3"
+    },
+    "tweet3": {
+      "content": "Cree (CREE) Q1 Loss Narrower Than Expected, Revenues Beat"
+    },
+    "tweet4": {
+      "content": "Western Digital (WDC) Q1 Earnings & Revenues Top Estimates"
+    },
+    "tweet5": {
+      "content": "TSMC to Resist U.S. Call to Make Chips Domestically in Near Term"
+    }
+  },
+  "day212": {
+    "tweet1": {
+      "content": "Qorvo (QRVO) Q2 Earnings & Revenues Beat Estimates, Down Y/Y"
+    },
+    "tweet2": {
+      "content": "Tech, Emerging Markets Turbulence Lift This ETF"
+    }
+  },
+  "day213": {
+    "tweet1": {
+      "content": "This Star Chipmaker Really Doesn't Want to Pick Sides"
+    },
+    "tweet2": {
+      "content": "3 Bargain ETFs With U.S. Valuations at Nose-Bleed Highs"
+    }
+  },
+  "day214": {
+    "tweet1": {
+      "content": "Semis Riding October's High"
+    },
+    "tweet2": {
+      "content": "Groupon (GRPN) Earnings and Revenues Miss Estimates in Q3"
+    }
+  },
+  "day215": {
+    "tweet1": {
+      "content": "Model N (MODN) Earnings and Revenues Beat Estimates in Q4"
+    },
+    "tweet2": {
+      "content": "Match Group (MTCH) Q3 Earnings & Revenues Beat, Improve Y/Y"
+    },
+    "tweet3": {
+      "content": "Microchip (MCHP) Q2 Earnings In Line, Revenues Miss Estimates"
+    }
+  },
+  "day216": {
+    "tweet1": {
+      "content": "ANSYS (ANSS) Beats on Q3 Earnings & Revenues, Hikes View"
+    }
+  },
+  "day217": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day218": {
+    "tweet1": {
+      "content": "Top Stock Picks for Week of November 11, 2019"
+    }
+  },
+  "day219": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day220": {
+    "tweet1": {
+      "content": "Nvidia Earnings On The Horizon: Can The Semi Rally Continue?"
+    },
+    "tweet2": {
+      "content": "Bull Of The Day: Qualcomm (QCOM)"
+    },
+    "tweet3": {
+      "content": "Apple Assembler’s Profit Beat Signals Good iPhone 11 Demand"
+    }
+  },
+  "day221": {
+    "tweet1": {
+      "content": "Applied Materials Projects Strong Sales on Bounceback in Demand"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Nvidia, Intel, TSMC, Google and Microsoft"
+    },
+    "tweet3": {
+      "content": "Has Taiwan Semiconductor Manufacturing Company (COMPANY_X) Outpaced Other Computer and Technology Stocks This Year?"
+    }
+  },
+  "day222": {
+    "tweet1": {
+      "content": "Baron Funds' 3rd-Quarter Buys"
+    }
+  },
+  "day223": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day224": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day225": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day226": {
+    "tweet1": {
+      "content": "The Intel-AMD Showdown"
+    }
+  },
+  "day227": {
+    "tweet1": {
+      "content": "Time to Cash In the Chips on the Semiconductor Stocks"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Intel, Advanced Micro Devices, Alphabet, Taiwan Semiconductor and NVIDIA"
+    }
+  },
+  "day228": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day229": {
+    "tweet1": {
+      "content": "Hedge Funds Have Never Been This Bullish On Taiwan Semiconductor Mfg. Co. Ltd. (COMPANY_X)"
+    }
+  },
+  "day230": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day231": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day232": {
+    "tweet1": {
+      "content": "Is Taiwan Semiconductor Manufacturing Company (COMPANY_X) Outperforming Other Computer and Technology Stocks This Year?"
+    }
+  },
+  "day233": {
+    "tweet1": {
+      "content": "5 Asian Stocks Gurus Agree On"
+    }
+  },
+  "day234": {
+    "tweet1": {
+      "content": "Microchip (MCHP) Narrows Sales & Earnings Expectations for Q3"
+    }
+  },
+  "day235": {
+    "tweet1": {
+      "content": "Qualcomm's Latest Snapdragon Chip Announcements: 4 Takeaways"
+    }
+  },
+  "day236": {
+    "tweet1": {
+      "content": "3 Tech Stocks With Generous Yields for 2020"
+    }
+  },
+  "day237": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day238": {
+    "tweet1": {
+      "content": "Bitmain Chief Plots Crypto Comeback After Co-Founder Ouster"
+    }
+  },
+  "day239": {
+    "tweet1": {
+      "content": "What the Tech?"
+    }
+  },
+  "day240": {
+    "tweet1": {
+      "content": "Taiwan Semiconductor Sales Get Boost From Smartphone Chips"
+    }
+  },
+  "day241": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day242": {
+    "tweet1": {
+      "content": "Bitmain Rival’s Founder Arrested as War of Crypto Miners Heats up"
+    }
+  },
+  "day243": {
+    "tweet1": {
+      "content": "TSMC (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    }
+  },
+  "day244": {
+    "tweet1": {
+      "content": "AMD’s Chip Success Will Boost Taiwan Semiconductor Stock, Analyst Says"
+    }
+  },
+  "day245": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day246": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day247": {
+    "tweet1": {
+      "content": "TSMC (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Behind Samsung’s $116 Billion Bid for Chip Supremacy"
+    }
+  },
+  "day248": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day249": {
+    "tweet1": {
+      "content": "Taiwan Semiconductor Mfg. Co. Ltd.  (COMPANY_X) vs. Top 20 Hedge Fund Stocks in 2019"
+    }
+  },
+  "day250": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day251": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day252": {
+    "tweet1": {
+      "content": "TSMC (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Market Share Gains Will Keep Boosting AMD Stock"
+    }
+  },
+  "day253": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day254": {
+    "tweet1": {
+      "content": "Advanced Micro Devices Sets a New High"
+    },
+    "tweet2": {
+      "content": "Ousted Bitmain Co-Founder Wages Battle for Control in Court"
+    }
+  },
+  "day255": {
+    "tweet1": {
+      "content": "TSMC (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    }
+  },
+  "day256": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day257": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day258": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day259": {
+    "tweet1": {
+      "content": "Apple Made Investors Half a Trillion Dollars Last Year. Time to Hedge Your Bets."
+    }
+  },
+  "day260": {
+    "tweet1": {
+      "content": "TSMC Hires Ex-Intel Lobbyist to Deal With U.S.-China Tensions"
+    }
+  },
+  "day261": {
+    "tweet1": {
+      "content": "What's in Store for Taiwan Semiconductor (COMPANY_X) Q4 Earnings?"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Taiwan Semi, JD.com and America Movil SAB de CV"
+    },
+    "tweet3": {
+      "content": "TSMC, Samsung & Why Asia Chipmaker Profits Are Key"
+    }
+  },
+  "day262": {
+    "tweet1": {
+      "content": "Q4 Earnings Outlook For Taiwan Semiconductor"
+    }
+  },
+  "day263": {
+    "tweet1": {
+      "content": "GLOBAL MARKETS-Dollar gains, stocks scale fresh highs on data, trade deal"
+    },
+    "tweet2": {
+      "content": "5 Top Stock Trades for Friday: SIG, MSFT, TNDM"
+    },
+    "tweet3": {
+      "content": "TSMC's Strong Earnings Emphasizes Semiconductor Trends"
+    },
+    "tweet4": {
+      "content": "TSMC Earnings Positive For Apple, Semiconductor Equipment Makers"
+    },
+    "tweet5": {
+      "content": "GLOBAL MARKETS-Dollar gains, stocks scale fresh highs on data, trade deal"
+    },
+    "tweet6": {
+      "content": "Taiwan Semiconductor Boosted Its Capex Budget. Analysts Say That’s Good News for Chip Stocks."
+    },
+    "tweet7": {
+      "content": "What the tech industry likes about the initial U.S.-China trade deal"
+    },
+    "tweet8": {
+      "content": "TSMC's Sales and Capex Guidance Lived Up to Investors' High Hopes"
+    },
+    "tweet9": {
+      "content": "Dow Jones Futures: Taiwan Semiconductor's 5G Outlook Bullish For Apple, Chips; Tesla Falls On News"
+    },
+    "tweet10": {
+      "content": "Taiwanese Chipmaker Facing Pressure To Produce Chips In US"
+    },
+    "tweet11": {
+      "content": "The $150 Million Machine With $200 Billion at Stake for China"
+    },
+    "tweet12": {
+      "content": "The $150 Million Machine With $200 Billion at Stake for China"
+    },
+    "tweet13": {
+      "content": "Taiwan's TSMC forecasts sharp rise in Q1 revenue, bets on robust 5G demand"
+    },
+    "tweet14": {
+      "content": "Apple Chipmaker TSMC’s Profit Bigger Than Expected"
+    },
+    "tweet15": {
+      "content": "Chipmaker TSMC says ready for potential new US export controls"
+    },
+    "tweet16": {
+      "content": "Chipmaker TSMC sales boosted by smartphone demand"
+    },
+    "tweet17": {
+      "content": "Morgan Stanley, China Trade Deal, Apple, Schwab, XPO - 5 Things You Must Know Thursday"
+    },
+    "tweet18": {
+      "content": "Apple Chipmaker TSMC’s Profit Bigger Than Expected"
+    },
+    "tweet19": {
+      "content": "Taiwan's TSMC forecasts sharp rise in first quarter revenue, bets on robust 5G demand"
+    },
+    "tweet20": {
+      "content": "Apple Supplier TSMC Beats Q4 Profit Forecast Amid 5G-Lead Smartphone Rebound"
+    },
+    "tweet21": {
+      "content": "Ant Financial preps IPO as Visa and Mastercard eye China"
+    },
+    "tweet22": {
+      "content": "Specter of More U.S. Restrictions Weighs on Huawei"
+    }
+  },
+  "day264": {
+    "tweet1": {
+      "content": "Tech Daily: GOOGL, AMZN, AAPL, COMPANY_X, FB, MSFT"
+    }
+  },
+  "day265": {
+    "tweet1": {
+      "content": "Intel earnings: How Intel figures in data-center recovery is key"
+    },
+    "tweet2": {
+      "content": "Taiwan Semiconductor: The Dream Run May Continue"
+    },
+    "tweet3": {
+      "content": "5 Stocks With Recent Price Strength for a Solid Portfolio"
+    }
+  },
+  "day266": {
+    "tweet1": {
+      "content": "Good News Is Priced in, but Taiwan ETFs Can Climb Higher"
+    },
+    "tweet2": {
+      "content": "Zacks.com featured highlights include: Forterra, SYNNEX, Sony, Eagle Bancorp Montana and Taiwan Semiconductor Manufacturing"
+    },
+    "tweet3": {
+      "content": "ASML Chief Dismisses U.S., China Tensions as a Headache"
+    },
+    "tweet4": {
+      "content": "New Low-Cost iPhone to Enter Mass Production in February"
+    },
+    "tweet5": {
+      "content": "Apple Is Raising TSMC Chip Orders to Meet Strong iPhone Demand"
+    }
+  },
+  "day267": {
+    "tweet1": {
+      "content": "StockBeat: STMicro Nudges the Chipmaker Rally Onward"
+    }
+  },
+  "day268": {
+    "tweet1": {
+      "content": "Chip Stocks To Watch For As The Segment Rallies"
+    },
+    "tweet2": {
+      "content": "5G to IoT: 3 Long-Term Growth Stocks in the Tech Sector"
+    },
+    "tweet3": {
+      "content": "Intel Can’t Take Off Another Round in Chip Battle"
+    }
+  },
+  "day269": {
+    "tweet1": {
+      "content": "Zacks Investment Ideas feature highlights: Intel, Nvidia, Broadcom, TSMC and Qualcomm"
+    }
+  },
+  "day270": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day271": {
+    "tweet1": {
+      "content": "Foxconn says plans in place to meet production obligations after virus outbreak"
+    }
+  },
+  "day272": {
+    "tweet1": {
+      "content": "Samsung Profit Slides 38% With Stubborn Memory-Chip Slump"
+    },
+    "tweet2": {
+      "content": "Samsung Fails to Deliver the Expected Sunshine"
+    }
+  },
+  "day273": {
+    "tweet1": {
+      "content": "Emerging Markets Are the Next Hot Spot for Sustainable Investing"
+    }
+  },
+  "day274": {
+    "tweet1": {
+      "content": "Alphabet Cracks the Lid on a Black Box That’s Still Too Opaque"
+    },
+    "tweet2": {
+      "content": "Buy Applied Materials Stock Because It Will Beat Earnings Expectations, Analyst Says"
+    }
+  },
+  "day275": {
+    "tweet1": {
+      "content": "Most Interesting New ETFs"
+    }
+  },
+  "day276": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day277": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day278": {
+    "tweet1": {
+      "content": "Nvidia Q4 Earnings Preview: Will NVDA Stock Continue to Soar?"
+    },
+    "tweet2": {
+      "content": "This Is the Beginning of Another Great Run for Intel Stock"
+    },
+    "tweet3": {
+      "content": "3 Semiconductor Stocks to Buy After Strong Earnings for 2020 Chip Growth"
+    }
+  },
+  "day279": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day280": {
+    "tweet1": {
+      "content": "This Hedge Fund’s Top Picks Crushed The Index Funds"
+    }
+  },
+  "day281": {
+    "tweet1": {
+      "content": "Applied Materials Gives Bullish Outlook on Chip Industry Uptick"
+    }
+  },
+  "day282": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day283": {
+    "tweet1": {
+      "content": "STMicroelectronics Waiting on the IoT"
+    }
+  },
+  "day284": {
+    "tweet1": {
+      "content": "Taiwan Semi Stock Drops as U.S. Reportedly Considers New Huawei Chip Restrictions"
+    },
+    "tweet2": {
+      "content": "GLOBAL MARKETS-Apple virus warning shakes stocks, euro near three-year low"
+    },
+    "tweet3": {
+      "content": "US Considers Blocking Huawei From Working With US Companies"
+    },
+    "tweet4": {
+      "content": "Dow Jones Futures: Apple Warns On Coronavirus, Walmart Earnings Miss"
+    },
+    "tweet5": {
+      "content": "Exclusive: Samsung wins 5-nanometer modem chip contract from Qualcomm - sources"
+    },
+    "tweet6": {
+      "content": "Qualcomm Adds Another New Chip Aimed at Pushing 5G Adoption"
+    },
+    "tweet7": {
+      "content": "New Qualcomm chips aim to connect phones to disparate 5G networks"
+    },
+    "tweet8": {
+      "content": "GLOBAL MARKETS-Apple hits stocks, euro near three-year low"
+    },
+    "tweet9": {
+      "content": "Hong Kong shares slip as Apple's warning weighs on sentiment"
+    },
+    "tweet10": {
+      "content": "Topix sinks to near 4-month low as Apple warning hurts tech shares"
+    },
+    "tweet11": {
+      "content": "GLOBAL MARKETS-Stocks under pressure as Apple sounds warning on coronavirus"
+    },
+    "tweet12": {
+      "content": "Apple's Virus Cut Puts All Eyes on Tech Bellwether"
+    },
+    "tweet13": {
+      "content": "Apple's Virus Cut Puts All Eyes on Tech Bellwether"
+    },
+    "tweet14": {
+      "content": "Nikkei falls to two-week low as Apple warning hurts technology stocks"
+    },
+    "tweet15": {
+      "content": "GLOBAL MARKETS-Stocks fall after Apple warns on coronavirus impact"
+    },
+    "tweet16": {
+      "content": "GLOBAL MARKETS-U.S. stock futures retreat, Asia dips after Apple warns on virus impact"
+    }
+  },
+  "day285": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day286": {
+    "tweet1": {
+      "content": "Corvallis semiconductor startup snags $31M from industry heavyweights"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Nvidia, AMD, TSMC and Intel"
+    }
+  },
+  "day287": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day288": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day289": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day290": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day291": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day292": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day293": {
+    "tweet1": {
+      "content": "Huawei Makes End-Run Around U.S. Ban by Using Its Own Chips"
+    }
+  },
+  "day294": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day295": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day296": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day297": {
+    "tweet1": {
+      "content": "7 Tech Stocks to Buy on the Coronavirus Dip"
+    }
+  },
+  "day298": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Advanced Micro Devices, Intel, Taiwan Semiconductor, Smith Micro Software and The Rubicon Project"
+    }
+  },
+  "day299": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day300": {
+    "tweet1": {
+      "content": "Too Much Love for TSMC Proves Costly in Global Market Rout"
+    },
+    "tweet2": {
+      "content": "Too Much Love for TSMC Proves Costly in Global Market Rout"
+    }
+  },
+  "day301": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day302": {
+    "tweet1": {
+      "content": "Intel Stock Is Worth a Look When the Market Stabilizes"
+    }
+  },
+  "day303": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day304": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day305": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day306": {
+    "tweet1": {
+      "content": "TSMC (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    }
+  },
+  "day307": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day308": {
+    "tweet1": {
+      "content": "Shielded from Pandemic, Work Continues in World’s Cleanest Room"
+    }
+  },
+  "day309": {
+    "tweet1": {
+      "content": "Taiwan Semiconductor Manufacturing Co Ltd -- Moody's announces completion of a periodic review of ratings of Taiwan Semiconductor Manufacturing Co Ltd"
+    },
+    "tweet2": {
+      "content": "Nvidia stock gets an upgrade as analyst says medical use of GPUs could ramp due to COVID-19"
+    }
+  },
+  "day310": {
+    "tweet1": {
+      "content": "TSMC (COMPANY_X) Gains But Lags Market: What You Should Know"
+    }
+  },
+  "day311": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day312": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day313": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day314": {
+    "tweet1": {
+      "content": "TSMC (COMPANY_X) Stock Moves -0.06%: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Huawei Warns of ‘Pandora’s Box’ If U.S. Curbs Taiwan Supply"
+    }
+  },
+  "day315": {
+    "tweet1": {
+      "content": "The stock market is getting dangerously close to the ‘mother of support zones’"
+    }
+  },
+  "day316": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day317": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day318": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day319": {
+    "tweet1": {
+      "content": "Samsung’s Profit Beat Showcases a Rare Bright Spot in a Pandemic"
+    }
+  },
+  "day320": {
+    "tweet1": {
+      "content": "TSMC (COMPANY_X) Gains But Lags Market: What You Should Know"
+    }
+  },
+  "day321": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day322": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day323": {
+    "tweet1": {
+      "content": "‘Semiconductor stocks are a bellwether’ and confirm the market's view of growth: Prudential Financial Chief Market Strategist"
+    }
+  },
+  "day324": {
+    "tweet1": {
+      "content": "TSMC Files Annual Report on Form 20-F for 2019"
+    }
+  },
+  "day325": {
+    "tweet1": {
+      "content": "Taiwan Semiconductor Gets Lift From 5G, High-Performance Computing"
+    },
+    "tweet2": {
+      "content": "TSMC's Solid Full-Year Guidance Helps Chip Stocks Rally Again"
+    },
+    "tweet3": {
+      "content": "TSMC's Solid Full-Year Guidance Helps Chip Stocks Rally Again"
+    },
+    "tweet4": {
+      "content": "US STOCKS-S&P 500, Dow slip on grim earnings, coronavirus worries"
+    },
+    "tweet5": {
+      "content": "US STOCKS-S&P 500, Dow slip on grim earnings, coronavirus worries"
+    },
+    "tweet6": {
+      "content": "Taiwan Semiconductor Gets Lift From 5G, High-Performance Computing"
+    },
+    "tweet7": {
+      "content": "Taiwan Semiconductor’s Strong Earnings Are Lifting Chip Stocks"
+    },
+    "tweet8": {
+      "content": "The Zacks Analyst Blog Highlights: Intel, Advanced Micro Devices, NVIDIA and Taiwan Semiconductor Manufacturing"
+    },
+    "tweet9": {
+      "content": "US STOCKS-S&P 500, Dow slip on grim earnings, coronavirus worries"
+    },
+    "tweet10": {
+      "content": "Morning Market Stats in 5 Minutes"
+    },
+    "tweet11": {
+      "content": "Cramer Shares His Thoughts On Yext, Workday And More"
+    },
+    "tweet12": {
+      "content": "Taiwan Semiconductor: Q1 Earnings Insights"
+    },
+    "tweet13": {
+      "content": "TSMC doubles earnings on bumper chip sales despite pandemic "
+    },
+    "tweet14": {
+      "content": "Huawei chip unit orders up more domestic production as U.S. restrictions loom: sources"
+    },
+    "tweet15": {
+      "content": "TSMC's Outlook Isn’t the News You Were Hoping For"
+    },
+    "tweet16": {
+      "content": "TSMC reports $3.9B Q1 profit, but slashes outlook for the year"
+    },
+    "tweet17": {
+      "content": "Apple Chipmaker TSMC’s Profit Soars on iPhone Demand"
+    },
+    "tweet18": {
+      "content": "TSMC first-quarter profit almost doubles on chip demand but sees flat growth in second half"
+    },
+    "tweet19": {
+      "content": "TSMC first-quarter profit almost doubles but trims full-year revenue estimate on pandemic"
+    },
+    "tweet20": {
+      "content": "TSMC first-quarter net profit almost doubles on strong demand for faster chips"
+    }
+  },
+  "day326": {
+    "tweet1": {
+      "content": "Company News for Apr 17, 2020"
+    },
+    "tweet2": {
+      "content": "TSMC Shares Surge 7% on Robust Chip Demand Outlook"
+    },
+    "tweet3": {
+      "content": "TSMC Shares Surge 7% on Robust Chip Demand Outlook"
+    },
+    "tweet4": {
+      "content": "Nikkei scales 6-week high on hopes for virus treatment, U.S. plan to reopen"
+    },
+    "tweet5": {
+      "content": "Nikkei hits 5-week high on hopes of U.S. economy re-opening, cyclicals jump"
+    }
+  },
+  "day327": {
+    "tweet1": {
+      "content": "Earnings are set for their biggest dive since late 2009 — and it gets worse from here"
+    }
+  },
+  "day328": {
+    "tweet1": {
+      "content": "Shunned by U.S., Huawei Winning in China’s $170 Billion 5G Race"
+    },
+    "tweet2": {
+      "content": "Huawei Q1 revenue growth slows sharply amid U.S. ban, virus headwinds"
+    },
+    "tweet3": {
+      "content": "Huawei’s Growth Evaporates After Coronavirus Compounds U.S. Woes"
+    }
+  },
+  "day329": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day330": {
+    "tweet1": {
+      "content": "Intel stock falls after report says Apple plans to debut its own Mac chips in 2021"
+    },
+    "tweet2": {
+      "content": "Apple's Reported Work On Its Own Mac Processors Could Pay Off in Multiple Ways"
+    },
+    "tweet3": {
+      "content": "Apple's Reported Work On Its Own Mac Processors Could Pay Off in Multiple Ways"
+    }
+  },
+  "day331": {
+    "tweet1": {
+      "content": "Nvidia Reportedly Eyeing 5nm Chips Even As Apple, AMD Ramp Up Orders"
+    }
+  },
+  "day332": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day333": {
+    "tweet1": {
+      "content": "In a World More Reliant on Tech Than Ever, This Company Might Matter the Most of All"
+    },
+    "tweet2": {
+      "content": "Better Buy: AMD vs. Taiwan Semiconductor"
+    },
+    "tweet3": {
+      "content": "Autos Are Driving in the Chip Industry's Blind Spot"
+    }
+  },
+  "day334": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day335": {
+    "tweet1": {
+      "content": "Despite COVID-19, Taiwan Semiconductor Manufacturing Still a Top Income Stock"
+    }
+  },
+  "day336": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day337": {
+    "tweet1": {
+      "content": "Why Shares of Advanced Micro Devices Rose 15.2% in April"
+    },
+    "tweet2": {
+      "content": "Add a Trade War With China to the Covid-19 Worry List"
+    }
+  },
+  "day338": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day339": {
+    "tweet1": {
+      "content": "China Chipmaker’s $3 Billion Listing a Hedge Against U.S. Curbs"
+    }
+  },
+  "day340": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day341": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day342": {
+    "tweet1": {
+      "content": "Chip Equipment Makers Could Both Gain and Lose From New U.S. Policies"
+    },
+    "tweet2": {
+      "content": "4 Chip Stocks Driving The 'New Normal'"
+    },
+    "tweet3": {
+      "content": "Chip Stocks Driving The 'New Normal'"
+    },
+    "tweet4": {
+      "content": "White House Holds Talks With Intel, Taiwan Semiconductor About U.S. Chip Plants"
+    },
+    "tweet5": {
+      "content": "Tesla, Under Armour, Intel, Stage Stores - 5 Things You Must Know Monday"
+    },
+    "tweet6": {
+      "content": "Trump, Intel, TSMC Plan US 'Self-Sufficiency' In Semiconductors As Coronavirus Gives Supply-Chain Scare"
+    },
+    "tweet7": {
+      "content": "U.S. Won’t Tolerate Technology Fence-Sitters Any Longer"
+    },
+    "tweet8": {
+      "content": "U.S. Won’t Tolerate Technology Fence-Sitters Any Longer"
+    }
+  },
+  "day343": {
+    "tweet1": {
+      "content": "Trump Wants Intel to Build a New Chip Factory in the U.S. Analysts Are Skeptical."
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Taiwan Semiconductor, Nvidia, AMD, Qualcomm and Broadcom"
+    },
+    "tweet3": {
+      "content": "Companies Are Reassessing Far-Flung Supply Chains. What It Means For Investors."
+    }
+  },
+  "day344": {
+    "tweet1": {
+      "content": "American States Should Chase This Taiwan Company Instead"
+    },
+    "tweet2": {
+      "content": "Intel Capital invests in Chinese chip companies amid tech tensions"
+    }
+  },
+  "day345": {
+    "tweet1": {
+      "content": "Applied Materials’ Profits Fell Short. It’s Still a Good Day for Semiconductor Equipment Stocks."
+    },
+    "tweet2": {
+      "content": "Chip Equipment Makers Rally on Report of U.S. Fab, But Export Curbs Also Loom"
+    },
+    "tweet3": {
+      "content": "Taiwan's TSMC announces $12 billion U.S. chip factory"
+    },
+    "tweet4": {
+      "content": "A Trio of Growth Technology Stocks"
+    }
+  },
+  "day346": {
+    "tweet1": {
+      "content": "Taiwan Firm's U.S. Semiconductor Factory Plan Gets Mixed Response"
+    },
+    "tweet2": {
+      "content": "Taiwan Firm's U.S. Semiconductor Factory Plan Gets Mixed Response"
+    },
+    "tweet3": {
+      "content": "Chip Stocks Slump Following New Huawei Restrictions, TSMC Announcement"
+    },
+    "tweet4": {
+      "content": "Taiwan Firm's New U.S. Semiconductor Factory Gets Mixed Response"
+    },
+    "tweet5": {
+      "content": "Taiwan Semiconductor To Build a $12 Billion Chip Plant In Arizona"
+    },
+    "tweet6": {
+      "content": "U.S. Bans Huawei From Purchasing American Chips in Escalation of the Trade War"
+    },
+    "tweet7": {
+      "content": "U.S. Huawei Crackdown Spurs Selloff of Chip and Equipment Stocks"
+    },
+    "tweet8": {
+      "content": "Largest Contracted Chip Manufacturer Set To Open Plant In Arizona"
+    },
+    "tweet9": {
+      "content": "Trump administration moves to cut Huawei off from semiconductor suppliers"
+    },
+    "tweet10": {
+      "content": "New Strong Buy Stocks for May 15th"
+    },
+    "tweet11": {
+      "content": "Top Ranked Value Stocks to Buy for May 15th"
+    },
+    "tweet12": {
+      "content": "Taiwan's TSMC keeps eye on China with $12 billion U.S. plant"
+    },
+    "tweet13": {
+      "content": "Bank of America on the new world order: Bigger governments, tech wars, less privacy, and ‘health the new wealth’"
+    },
+    "tweet14": {
+      "content": "U.S. blocking shipments of semiconductors to Huawei Technologies: report"
+    },
+    "tweet15": {
+      "content": "TSMC Plans $12 Billion Arizona Plant, Will Create 1,600 Jobs In Latest U.S.-China Tech Skirmish"
+    },
+    "tweet16": {
+      "content": "PRESS DIGEST- New York Times business news - May 15"
+    },
+    "tweet17": {
+      "content": "TSMC Plans $12 Billion U.S. Chip Plant in Victory for Trump"
+    },
+    "tweet18": {
+      "content": "TSMC Plans $12 Billion U.S. Chip Plant in Victory for Trump"
+    },
+    "tweet19": {
+      "content": "PRESS DIGEST - Wall Street Journal - May 15"
+    },
+    "tweet20": {
+      "content": "Taiwanese Apple Supplier TSMC To Build $12B US Chip Factory After Months Of Pressure From Trump Administration"
+    },
+    "tweet21": {
+      "content": "Pompeo says TSMC's $12 bln investment to increase U.S. economic independence from China"
+    },
+    "tweet22": {
+      "content": "TSMC to build a $12 billion advanced semiconductor plant in Arizona with US government support"
+    },
+    "tweet23": {
+      "content": "Taiwanese group to build $12bn chipmaking plant in US"
+    },
+    "tweet24": {
+      "content": "Taiwanese semiconductor group to build $12bn chipmaking plant in US"
+    },
+    "tweet25": {
+      "content": "TSMC: straddling the divide"
+    },
+    "tweet26": {
+      "content": "Taiwan's TSMC to build Arizona chip plant as U.S.-China tech rivalry escalates"
+    }
+  },
+  "day347": {
+    "tweet1": {
+      "content": "Top Stock Picks for Week of May 18, 2020"
+    },
+    "tweet2": {
+      "content": "What Investors Need to Know as the U.S. Targets Chip Sales to Huawei"
+    },
+    "tweet3": {
+      "content": "U.S.-China Trade Spat Transcends 5G to Chipmaking Hegemony"
+    },
+    "tweet4": {
+      "content": "Top Ranked Income Stocks to Buy for May 18th"
+    },
+    "tweet5": {
+      "content": "Taiwan Semiconductor Manufacturing, Chipotle, Activision Blizzard, Glu Mobile and Zynga highlighted as Zacks Bull and Bear of the Day"
+    },
+    "tweet6": {
+      "content": "New Hostilities Over Huawei Threaten Collateral Damage for U.S. Techs"
+    },
+    "tweet7": {
+      "content": "Huawei Warns of ‘Terrible Price’ If U.S.-China Tensions Escalate"
+    },
+    "tweet8": {
+      "content": "Bull Of The Day: Taiwan Semiconductor Manufacturing Co. (COMPANY_X)"
+    },
+    "tweet9": {
+      "content": "TSMC reportedly stops taking orders from Huawei after new U.S. export controls"
+    },
+    "tweet10": {
+      "content": "TSMC stops new Huawei orders after U.S. restrictions - Nikkei"
+    },
+    "tweet11": {
+      "content": "TSMC stops new Huawei orders after U.S. restrictions: Nikkei"
+    },
+    "tweet12": {
+      "content": "China semiconductor fab SMIC gets $2.2 bln investment from gov't funds amid global chip spat"
+    },
+    "tweet13": {
+      "content": "U.S.-China Fight Over Chip Kingpin Rattles Tech Industry"
+    },
+    "tweet14": {
+      "content": "U.S.-China Fight Over Chip Kingpin Rattles Tech Industry"
+    }
+  },
+  "day348": {
+    "tweet1": {
+      "content": "New Nasdaq Restrictions on IPOs Could Be a Swipe at China — or Just About Investor Safety. What You Need to Know."
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Apple, Taiwan Semiconductor, Applied Materials, KLA and Lam Research"
+    },
+    "tweet3": {
+      "content": "Zacks.com featured highlights include: Taiwan Semiconductor Manufacturing Company, Dollar General, Kroger, Bristol-Myers Squibb and NIC"
+    },
+    "tweet4": {
+      "content": "US ‘surgical’ attack on Huawei will reshape tech supply chain"
+    }
+  },
+  "day349": {
+    "tweet1": {
+      "content": "New Strong Buy Stocks for May 20th"
+    },
+    "tweet2": {
+      "content": "Senate Democrats call for Trump administration to unveil details of TSMC plant deal"
+    }
+  },
+  "day350": {
+    "tweet1": {
+      "content": "Caxton Associates Exits Aptiv, Bank Of America"
+    },
+    "tweet2": {
+      "content": "Samsung Electronics breaks ground for sixth domestic contract chip manufacturing line"
+    },
+    "tweet3": {
+      "content": "Samsung Takes Another Step in $116 Billion Plan to Take on TSMC"
+    }
+  },
+  "day351": {
+    "tweet1": {
+      "content": "TSMC (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Is TSMC Becoming a Pawn in the Trade War Between the U.S. and China?"
+    }
+  },
+  "day352": {
+    "tweet1": {
+      "content": "Japan’s Hottest Stock Is Tiny Maker of $40 Million Machines"
+    }
+  },
+  "day353": {
+    "tweet1": {
+      "content": "Here is What Hedge Funds Think About Taiwan Semiconductor Mfg. Co. Ltd. (COMPANY_X)"
+    },
+    "tweet2": {
+      "content": "The Trump Administration’s War on Huawei Could Hurt These 3 Stocks"
+    },
+    "tweet3": {
+      "content": "Top Ranked Growth Stocks to Buy for May 27th"
+    },
+    "tweet4": {
+      "content": "There’s Far Less Bang in a Huawei Ban Now"
+    }
+  },
+  "day354": {
+    "tweet1": {
+      "content": "Little-Known Data Show Signs of a Tech Bounce"
+    },
+    "tweet2": {
+      "content": "TSMC Makes a Key Washington Hire To Help Navigate China Tensions"
+    }
+  },
+  "day355": {
+    "tweet1": {
+      "content": "TSMC (COMPANY_X) Gains But Lags Market: What You Should Know"
+    }
+  },
+  "day356": {
+    "tweet1": {
+      "content": "Semiconductor Companies Gear up to Seek Federal Funding to Open U.S. Plants"
+    }
+  },
+  "day357": {
+    "tweet1": {
+      "content": "Chinese Chipmaker Semiconductor Manufacturing International to Raise $2.8 Billion Via Shanghai Listing"
+    },
+    "tweet2": {
+      "content": "A semiconductor ‘cold war’ is heating up between the U.S. and China"
+    },
+    "tweet3": {
+      "content": "Here’s My Top Stock to Buy in June"
+    },
+    "tweet4": {
+      "content": "Why Applied Materials Rose 13.1% in May"
+    }
+  },
+  "day358": {
+    "tweet1": {
+      "content": "Global Semiconductor Sales Rise in May: 4 Stocks to Buy"
+    },
+    "tweet2": {
+      "content": "Taiwan Dangles $335 Million to Woo Foreign Chipmakers"
+    }
+  },
+  "day359": {
+    "tweet1": {
+      "content": "Taiwan Draws Up Plan to Woo $1.3 Billion of Annual Tech Research"
+    }
+  },
+  "day360": {
+    "tweet1": {
+      "content": "TSMC (COMPANY_X) Gains But Lags Market: What You Should Know"
+    }
+  },
+  "day361": {
+    "tweet1": {
+      "content": "Huawei Employees See Dire Threat to Future From Latest Trump Salvo"
+    }
+  },
+  "day362": {
+    "tweet1": {
+      "content": "Apple’s Mac Chip Switch Is Double Trouble for Intel"
+    },
+    "tweet2": {
+      "content": "Apple’s Mac Chip Switch Is Double Trouble for Intel"
+    },
+    "tweet3": {
+      "content": "Taiwan Semiconductor Secures Government Aid for U.S.-Based  Chip Plant"
+    },
+    "tweet4": {
+      "content": "Huawei’s 5G Patents Means U.S. Will Pay Despite Trump Ban"
+    },
+    "tweet5": {
+      "content": "Apple Plans to Announce Move to Its Own Mac Chips at WWDC"
+    },
+    "tweet6": {
+      "content": "TSMC falls into line with US export controls on Huawei"
+    },
+    "tweet7": {
+      "content": "TSMC Scores Subsidies and Picks Site for $12 Billion U.S. Plant"
+    },
+    "tweet8": {
+      "content": "TSMC says could fill order gap if unable to sell chips to Huawei"
+    },
+    "tweet9": {
+      "content": "Can the U.S. End China’s Control of the Global Supply Chain?"
+    }
+  },
+  "day363": {
+    "tweet1": {
+      "content": "U.S. lawmakers propose $22.8 bln in aid to semiconductor industry"
+    },
+    "tweet2": {
+      "content": "Will Taiwan Semiconductor Manufacturing Continue to Surge Higher?"
+    },
+    "tweet3": {
+      "content": "5 Must-Buy Tech Behemoths as Nasdaq Composite Touches 10,000"
+    }
+  },
+  "day364": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: NVIDIA, Applied Materials, Apple, ServiceNow and Taiwan Semiconductor Manufacturing"
+    }
+  },
+  "day365": {
+    "tweet1": {
+      "content": "TSMC (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Emerging Market Stocks Are a Mess—Except for This Group of Outperformers"
+    },
+    "tweet3": {
+      "content": "Intel Loses a Chip Wizard at the Worst Possible Time"
+    },
+    "tweet4": {
+      "content": "Engineers Found Guilty of Stealing Micron Secrets for China"
+    },
+    "tweet5": {
+      "content": "NXP Selects TSMC 5nm Process for Next Generation High Performance Automotive Platform"
+    }
+  },
+  "day366": {
+    "tweet1": {
+      "content": "Asia Electronics Sector Booms, Bucking Global Economic Slump"
+    },
+    "tweet2": {
+      "content": "Asia Electronics Sector Booms, Bucking Global Economic Slump"
+    }
+  },
+  "day367": {
+    "tweet1": {
+      "content": "5 Stocks to Tap the Nanotechnology Market Boom"
+    },
+    "tweet2": {
+      "content": "NXP Collaborates With TSMC to Enhance Automotive Platform"
+    }
+  },
+  "day368": {
+    "tweet1": {
+      "content": "[video]Telecom and Chip Equipment Capex Could Get a Boost from New Spending Bills"
+    },
+    "tweet2": {
+      "content": "Why Goldman Is Siding With China on This Huawei Play"
+    }
+  },
+  "day369": {
+    "tweet1": {
+      "content": "TSMC (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Semiconductor manufacturers reach deal to supply U.S. defense chips"
+    },
+    "tweet3": {
+      "content": "Dalio’s Bridgewater Warns of Possible ‘Lost Decade’ for Stocks"
+    }
+  },
+  "day370": {
+    "tweet1": {
+      "content": "Apple is under pressure over its App Store rules from the testy developers it will have to court at the upcoming WWDC"
+    },
+    "tweet2": {
+      "content": "Ignore Bearish Narratives and Make a Move Into AMD stock"
+    }
+  },
+  "day371": {
+    "tweet1": {
+      "content": "Apple-Made Computer Chips Coming to Mac, in Split From Intel"
+    },
+    "tweet2": {
+      "content": "Taiwan minister says TSMC has offset lost Huawei orders"
+    }
+  },
+  "day372": {
+    "tweet1": {
+      "content": "Dow Jones Futures Fall: Apple Fuels Record-Setting Coronavirus Stock Market Rally; Warren Buffett-Backed StoneCo Breaks Out"
+    },
+    "tweet2": {
+      "content": "Dow Jones Futures: Apple Fuels Record-Setting Coronavirus Stock Market Rally; Warren Buffett-Backed StoneCo Breaks Out"
+    },
+    "tweet3": {
+      "content": "Data center chip startup Ampere to release more powerful processor"
+    }
+  },
+  "day373": {
+    "tweet1": {
+      "content": "TSMC (COMPANY_X) Stock Moves -0.32%: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Cramer Weighs In On Halliburton, AstraZeneca And More"
+    },
+    "tweet3": {
+      "content": "The Top 10 Semiconductor Companies"
+    },
+    "tweet4": {
+      "content": "Dow Jones Dives 800 Points On Coronavirus Fears, As Stock Market Losses Mount; Netflix, StoneCo Give Up Buy Points"
+    },
+    "tweet5": {
+      "content": "Dow Jones Dives 500 Points On Coronavirus Fears; Netflix, StoneCo In New Buy Zones"
+    },
+    "tweet6": {
+      "content": "Taiwan Semiconductor Is Poised to Make a Run at New Highs"
+    },
+    "tweet7": {
+      "content": "Dow Jones Futures Tumble 300 Points After Apple Fuels Record Breaking Stock Market Rally; Netflix, StoneCo In Buy Zones"
+    },
+    "tweet8": {
+      "content": "Dow Jones Futures Drop After Apple Fuels Record Breaking Stock Market Rally; Netflix, StoneCo In Buy Zones"
+    },
+    "tweet9": {
+      "content": "Dow Jones Futures Turn Higher: Apple Fuels Record Breaking Stock Market Rally; Netflix, StoneCo In Buy Zones"
+    }
+  },
+  "day374": {
+    "tweet1": {
+      "content": "Moving Average Crossover Alert: Taiwan Semiconductor Manufacturing Company"
+    }
+  },
+  "day375": {
+    "tweet1": {
+      "content": "Taiwan Semiconductor:  A High-Tech Stock With a Promising Dividend Base"
+    }
+  },
+  "day376": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day377": {
+    "tweet1": {
+      "content": "Signature Select Canadian Fund's Top 5 Buys"
+    }
+  },
+  "day378": {
+    "tweet1": {
+      "content": "Zacks.com featured highlights include: Kroger, AbbVie, W.W. Grainger, West Pharmaceutical Services and Taiwan Semiconductor Manufacturing Company"
+    }
+  },
+  "day379": {
+    "tweet1": {
+      "content": "Taiwan Semiconductor Clears Buy Point"
+    }
+  },
+  "day380": {
+    "tweet1": {
+      "content": "Better Buy: Micron Technology vs. Taiwan Semiconductor"
+    },
+    "tweet2": {
+      "content": "Dear China, Enjoy This Bull Market. Love, Donald"
+    },
+    "tweet3": {
+      "content": "Chipmaker SMIC Eyes China’s Biggest Share Sale in a Decade"
+    }
+  },
+  "day381": {
+    "tweet1": {
+      "content": "Were Hedge Funds Right About Taiwan Semiconductor Mfg. Co. Ltd. (COMPANY_X)?"
+    },
+    "tweet2": {
+      "content": "Nvidia on Cusp of Topping Intel in Market Cap After 70% Gain"
+    },
+    "tweet3": {
+      "content": "Has Taiwan Semiconductor Manufacturing Company (COMPANY_X) Outpaced Other Computer and Technology Stocks This Year?"
+    }
+  },
+  "day382": {
+    "tweet1": {
+      "content": "China Tech Roller Coaster Is Just Starting Its Climb"
+    },
+    "tweet2": {
+      "content": "These 2 Wireless Stocks Will Benefit From 5G, Bernstein Says"
+    },
+    "tweet3": {
+      "content": "Nvidia Valuation Soars Past Intel on Graphics Chip Boom"
+    },
+    "tweet4": {
+      "content": "Global Semiconductor Sales Rise Month Over Month: 5 Winners"
+    },
+    "tweet5": {
+      "content": "Denmark's Orsted, Taiwan's TSMC sign world's largest renewable corporate power deal"
+    }
+  },
+  "day383": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day384": {
+    "tweet1": {
+      "content": "TSMC (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "TSMC Sales Shine After Virus Drives Demand for Datacenter Chips"
+    }
+  },
+  "day385": {
+    "tweet1": {
+      "content": "What's in Store for Taiwan Semiconductor's (COMPANY_X) Q2 Earnings?"
+    }
+  },
+  "day386": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day387": {
+    "tweet1": {
+      "content": "Semiconductor Companies: Where Are They In The Chip Cycle?"
+    },
+    "tweet2": {
+      "content": "SMIC's Shanghai listing tests if money alone can bring chip dominance to China"
+    }
+  },
+  "day388": {
+    "tweet1": {
+      "content": "5G and Data Center Demand Has Taiwan Semiconductor Riding High"
+    },
+    "tweet2": {
+      "content": "Taiwan Semiconductor Beats Targets On 5G, Data Center Chips"
+    },
+    "tweet3": {
+      "content": "Taiwan Semiconductor Manufacturing Company Limited (COMPANY_X) Q2 2020 Earnings Call Transcript"
+    },
+    "tweet4": {
+      "content": "TSMC Posts Record Q2 Profits, Sees Robust Chip Demand In 2020 Amid 5G Boost"
+    },
+    "tweet5": {
+      "content": "Better Buy: Advanced Micro Devices vs. Taiwan Semiconductor"
+    },
+    "tweet6": {
+      "content": "Dow Jones Futures: Who Will Lead Coronavirus Stock Market Rally? Netflix Earnings On Tap"
+    },
+    "tweet7": {
+      "content": "Taiwan Semiconductor: Q2 Earnings Insights"
+    },
+    "tweet8": {
+      "content": "iPhone Chipmaker TSMC Reports Massive Earnings Beat In Q2"
+    },
+    "tweet9": {
+      "content": "Taiwan Semiconductor Beats Q2 Targets On 5G, Data Center Chips"
+    },
+    "tweet10": {
+      "content": "Apple Chipmaker TSMC Raises Outlook in Sign of Tech’s Resilience"
+    },
+    "tweet11": {
+      "content": "TSMC Shrugs off Huawei Ban and Shows Who's King"
+    },
+    "tweet12": {
+      "content": "Top China Chipmaker SMIC More than Triples in Shanghai Debut"
+    },
+    "tweet13": {
+      "content": "TSMC logs record quarterly profit as clients clamour for advanced chips, outlook rosy"
+    },
+    "tweet14": {
+      "content": "TSMC second-quarter profit jumps 81% to record on demand for faster chips"
+    },
+    "tweet15": {
+      "content": "TSMC Q2 net profit jumps 81% on demand for faster chips"
+    },
+    "tweet16": {
+      "content": "SMIC shares surge in Shanghai debut after $6.6 bln offering"
+    },
+    "tweet17": {
+      "content": "SMIC shares surge in Shanghai debut after $6.6 bln offering"
+    }
+  },
+  "day389": {
+    "tweet1": {
+      "content": "Japanese shares extend falls as coronavirus worries persist"
+    },
+    "tweet2": {
+      "content": "REFILE-Japanese shares surrender early gains on coronavirus worries"
+    },
+    "tweet3": {
+      "content": "Singapore’s Hottest Stock Is Set to Continue Its Winning Streak"
+    }
+  },
+  "day390": {
+    "tweet1": {
+      "content": "Will Taiwan Semiconductor Continue to Surge Higher?"
+    },
+    "tweet2": {
+      "content": "These 3 Stocks Have a Killer Advantage"
+    }
+  },
+  "day391": {
+    "tweet1": {
+      "content": "Top Ranked Momentum Stocks to Buy for July 21st"
+    }
+  },
+  "day392": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: ASML, Taiwan Semiconductor Manufacturing Company and Limelight Networks"
+    },
+    "tweet2": {
+      "content": "Taiwan Semiconductor Manufacturing Company, Boot Barn, Snap, Texas Instruments and TD Ameritrade highlighted as Zacks Bull and Bear of the Day"
+    },
+    "tweet3": {
+      "content": "Bull Of The Day: Taiwan Semiconductor Manufacturing Co. (COMPANY_X)"
+    }
+  },
+  "day393": {
+    "tweet1": {
+      "content": "Intel Just Gave Investors Even More Reason to Worry"
+    },
+    "tweet2": {
+      "content": "Is Taiwan Semiconductor Manufacturing Company (COMPANY_X) Stock Outpacing Its Computer and Technology Peers This Year?"
+    }
+  },
+  "day394": {
+    "tweet1": {
+      "content": "Intel’s Manufacturing Delay Is a Red Flag for All Chip Stocks. Here’s Why."
+    },
+    "tweet2": {
+      "content": "5 Top Stock Trades for Monday: AMD, TSLA, NKLA, COMPANY_X, SAM"
+    },
+    "tweet3": {
+      "content": "Intel Stock Tanks On Production Delay For Next-Generation Chips"
+    },
+    "tweet4": {
+      "content": "AMD stock price closes above Intel's as next-gen chip saga takes surprise turn"
+    },
+    "tweet5": {
+      "content": "Intel (INTC) Plummets As The Company Falls Behind Moore's Law"
+    },
+    "tweet6": {
+      "content": "Why Taiwan Semiconductor Stock Jumped Today"
+    },
+    "tweet7": {
+      "content": "Intel Plunges as It Weighs Exit From Manufacturing Chips"
+    },
+    "tweet8": {
+      "content": "Intel faces massive Wall Street backlash on next-gen chip delay"
+    },
+    "tweet9": {
+      "content": "Intel chip delay forces shift to using more outside factories, shares drop"
+    },
+    "tweet10": {
+      "content": "Intel Slumps After Chip Production Process Delayed Again"
+    },
+    "tweet11": {
+      "content": "[video]Intel's Manufacturing Setback Must Be Music to AMD and TSMC's Ears"
+    }
+  },
+  "day395": {
+    "tweet1": {
+      "content": "The Tech Analyst Who Screamed Buy COMPANY_X at $50!"
+    },
+    "tweet2": {
+      "content": "Stock Market Today With Jim Cramer: The Semiconductor to Buy"
+    },
+    "tweet3": {
+      "content": "Taiwan Semiconductor Shares Spike 11%, Key Rating Jumps Amid Report Of Huge Chip Order"
+    },
+    "tweet4": {
+      "content": "Connectivity is as essential as water and electricity: HPE CEO"
+    },
+    "tweet5": {
+      "content": "Dow Jones Gains as Intel Reportedly Places Order With TSMC, Walgreens CEO Resigns"
+    },
+    "tweet6": {
+      "content": "Chipmaker TSMC Gains on Intel's Production and Delay Pain"
+    },
+    "tweet7": {
+      "content": "Why Sogou, Sohu.com, and Taiwan Semiconductor Manufacturing Stocks All Popped Today"
+    },
+    "tweet8": {
+      "content": "What Mark Cuban Says Could Be The Greatest Threat To America's Tech, Military Future"
+    },
+    "tweet9": {
+      "content": "Taiwan Semi's stock soars toward another record in wake of Intel's outsourcing announcement"
+    },
+    "tweet10": {
+      "content": "GLOBAL MARKETS-Gold roars to record high, dollar dives again"
+    },
+    "tweet11": {
+      "content": "GLOBAL MARKETS-Gold soars to record high, stocks stay uncertain"
+    },
+    "tweet12": {
+      "content": "TSMC’s $35 Billion Rally Puts Taiwan Stock Index Above 1990 Peak"
+    },
+    "tweet13": {
+      "content": "Gold Pierces Record as Dollar Sinks; Stocks Mixed: Markets Wrap"
+    },
+    "tweet14": {
+      "content": "GLOBAL MARKETS-Gold hits record high, stocks mixed as U.S.-China ties worsen"
+    },
+    "tweet15": {
+      "content": "Heavy Is the Head That Wears the Semiconductor Crown"
+    },
+    "tweet16": {
+      "content": "GLOBAL MARKETS-Gold hits record high as U.S.-China ties worsen, Asia stocks helped by tech"
+    },
+    "tweet17": {
+      "content": "Shares of Taiwan's TSMC soar after Intel's apparent manufacturing retreat"
+    }
+  },
+  "day396": {
+    "tweet1": {
+      "content": "Analyzing Taiwan Semiconductor's Unusual Options Activity"
+    },
+    "tweet2": {
+      "content": "Intel’s Latest Setback Should Please AMD Investors"
+    },
+    "tweet3": {
+      "content": "TSMC Pares Gains After $72 Billion Surge to Start the Week"
+    },
+    "tweet4": {
+      "content": "Samsung Electronics shares rally on Intel's chip outsourcing plan"
+    }
+  },
+  "day397": {
+    "tweet1": {
+      "content": "3 Tech Dividend Stocks to Buy in August"
+    },
+    "tweet2": {
+      "content": "Charts Suggest It's Time to Buy Into Emerging Markets"
+    },
+    "tweet3": {
+      "content": "3 ETFs Enjoying The Benefits of Taiwan Semiconductor Exposure"
+    },
+    "tweet4": {
+      "content": "Watch These 10 Stocks as Asian Tech Stands to Take $25 Billion Huawei Hit"
+    },
+    "tweet5": {
+      "content": "Huawei Supplier Hires Ex-U.S. Official as China Tensions Grow"
+    },
+    "tweet6": {
+      "content": "AMD Gains Chip Market Share at Intel’s Expense; Shares Surge"
+    }
+  },
+  "day398": {
+    "tweet1": {
+      "content": "10 Biggest Semiconductor Companies"
+    },
+    "tweet2": {
+      "content": "Semiconductor Short Sellers Take $800M Hit From AMD Earnings Beat"
+    },
+    "tweet3": {
+      "content": "Semiconductor ETF (SMH) Hits New 52-Week High"
+    },
+    "tweet4": {
+      "content": "Samsung Beats Earnings Estimates on Recovery of Chips, Gadget Sales"
+    }
+  },
+  "day399": {
+    "tweet1": {
+      "content": "3 Tailwinds Are Lifting TSMC’s Stock to New All-Time Highs"
+    }
+  }
+}

@@ -1,0 +1,1066 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "PEER_COMPANY: Through the Worst of the Storm?"
+    },
+    "tweet2": {
+      "content": "Dow's 200-point climb led by gains in shares of Microsoft, Merck"
+    },
+    "tweet3": {
+      "content": "Price Over Earnings Overview: COMPANY_X"
+    },
+    "tweet4": {
+      "content": "Shoppers Are Forming New Habits in the Pandemic. These Retailers Could Benefit."
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Planet Fitness reports bigger quarterly loss than expected; CEO aims to get people safely back to gym"
+    },
+    "tweet2": {
+      "content": "COMPANY_X (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet3": {
+      "content": "MEDIA-Black employees at COMPANY_X object to company's new ad - FT"
+    },
+    "tweet4": {
+      "content": "100-Year-Old Antitrust Laws Are No Match for Big Tech"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Dow rallies nearly 400 points on gains for shares of Walt Disney, Boeing"
+    },
+    "tweet2": {
+      "content": "Walt Disney, COMPANY_X share gains contribute to Dow's 319-point rally"
+    },
+    "tweet3": {
+      "content": "The Retail Misery Story Likely Continued In Q2; Earnings Ahead"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Preformed Line Products Announces Second Quarter And First Half YEAR_X Results"
+    },
+    "tweet2": {
+      "content": "Can PEER_COMPANY Sneakers Survive a Second Wave?"
+    },
+    "tweet3": {
+      "content": "Influencers with Andy Serwer: Misty Copeland"
+    },
+    "tweet4": {
+      "content": "PEER_COMPANY AG -- Moody's assigns A2/Prime-1 issuer ratings to PEER_COMPANY AG; outlook stable"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Trump’s WeChat Ban Brings Cold War With China Into a Billion Homes"
+    },
+    "tweet2": {
+      "content": "Misty Copeland: 'Hard balance' when I retained ties with PEER_COMPANY after ex-CEO Kevin Plank supported Trump"
+    },
+    "tweet3": {
+      "content": "Misty Copeland: I don't have the same beliefs as our President"
+    },
+    "tweet4": {
+      "content": "Invest in SoleSavy Stock to Get in on a Multi-Billion-Dollar Sneaker Niche"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Former COMPANY_X Execs Launch Female-Owned, Minorities-Focused Cannabis Consulting Group"
+    },
+    "tweet2": {
+      "content": "Dow Jones Rises As This Dow Leader Trades Inside A Key Buy Zone"
+    },
+    "tweet3": {
+      "content": "Nasdaq Scrapes Away Some Losses; Is It Time To Buy This Dow Jones Stock?"
+    },
+    "tweet4": {
+      "content": "Dow Jones Jumps 275 Points, Fueled By COMPANY_X Breakout; Software Stocks Slammed Again"
+    },
+    "tweet5": {
+      "content": "US STOCKS-Wall St mixed with stimulus in focus; Dow hits over 5-month high"
+    },
+    "tweet6": {
+      "content": "Foot Locker got a Q2 boost from government stimulus but Q3 could be a different story, analysts say"
+    },
+    "tweet7": {
+      "content": "Dow Jones Leads, Nasdaq Lags As Market Weighs Trump Orders, China Tensions"
+    },
+    "tweet8": {
+      "content": "Dow Jones Jumps 275 Points On Trump Executive Orders; Apple Gets Price-Target Hikes, While COMPANY_X Is Breaking Out Today"
+    },
+    "tweet9": {
+      "content": "Dow's nearly 300-point rally highlighted by gains for Boeing, COMPANY_X stocks"
+    },
+    "tweet10": {
+      "content": "COMPANY_X Breaks Out"
+    },
+    "tweet11": {
+      "content": "Boeing, Caterpillar share gains lead Dow's nearly 150-point jump"
+    },
+    "tweet12": {
+      "content": "Dow Jones Today, Stocks Gain Strength; Casinos Rally On IAC's MGM Stake; Apple Gets IPhone Demand Support"
+    },
+    "tweet13": {
+      "content": "Dow jumps 211 points on gains for shares of COMPANY_X, Boeing"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Stock Moves -0.28%: What You Should Know"
+    },
+    "tweet2": {
+      "content": "The obsession with Michael PRODUCT_FOOTWEAR (and his sneakers) shows no sign of abating"
+    },
+    "tweet3": {
+      "content": "The obsession with Michael PRODUCT_FOOTWEAR (and his sneakers) shows no sign of abating"
+    },
+    "tweet4": {
+      "content": "Dow Jones Pares Gain Of Over 250 Points; COMPANY_X Stock Trades In Buy Range"
+    },
+    "tweet5": {
+      "content": "Dow Jones Soars Above 28,000, Led By JPMorgan; 5 Top Growth Stocks Finding Support"
+    },
+    "tweet6": {
+      "content": "Dow Jones Jumps 325 Points On Russian Coronavirus Vaccine Claim; Visa Nears New Buy Point, While Tilray, Nio Report Earnings"
+    },
+    "tweet7": {
+      "content": "Dow Jones Futures Surge 300 Points On Russian Coronavirus Vaccine News; Tesla Rival Nio Jumps 11% On Earnings"
+    },
+    "tweet8": {
+      "content": "Dow Jones Futures: Trump Sparks 357-Point Blue Chip Rally; Tesla Rival Nikola Surges 22% On 'Game-Changer'"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "PVH Poaches COMPANY_X for New HR Chief"
+    },
+    "tweet2": {
+      "content": "Amazon descending onto malls is the logical next step: National Retail Federation chair"
+    },
+    "tweet3": {
+      "content": "Dow Jones Spikes 300 Points On Moderna Coronavirus Vaccine Deal; Apple Rebounds 3%, While Tesla Surges On Stock Split"
+    },
+    "tweet4": {
+      "content": "The Bad News for COMPANY_X in Foot Locker's Sales Update"
+    },
+    "tweet5": {
+      "content": "PVH Names Julie Fuller as Chief Human Resources Officer, Effective Jan. 1"
+    },
+    "tweet6": {
+      "content": "Go Long COMPANY_X as it Has Broken Out on the Upside"
+    },
+    "tweet7": {
+      "content": "Dow Jones Today, Stocks Climb After Moderna Vaccine Deal; AMD Leads Chip Bounce; Tesla Announces Stock Split"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Why Big Brand Stocks Are Dying"
+    },
+    "tweet2": {
+      "content": "Nasdaq Commands Gains; Why These Dow Stocks Are Near A Buy Point"
+    },
+    "tweet3": {
+      "content": "Apple’s Subscription Bundles Don’t Move the Needle Enough"
+    },
+    "tweet4": {
+      "content": "Unusual Options Activity Insight: COMPANY_X"
+    },
+    "tweet5": {
+      "content": "Apple Readies Subscription Bundles to Boost Digital Services"
+    },
+    "tweet6": {
+      "content": "COMPANY_X vs PEER_COMPANY: Which Stock Is Poised For A Better Run?"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Stocks Likely to Survive the U.S.-China Decoupling"
+    },
+    "tweet2": {
+      "content": "Dow Jones Drifts Higher; Three Leaderboard Stocks In Buy Zones"
+    },
+    "tweet3": {
+      "content": "Farfetch stock soars as the shift to digital, luxury market share gains and exclusive merchandise drive revenue"
+    },
+    "tweet4": {
+      "content": "3 of the Best Options Trades to Enter Now"
+    },
+    "tweet5": {
+      "content": "Dow Jones Today, Stocks Tightly Mixed As Stimulus Hopes Fade; Applied Materials Tops Views"
+    },
+    "tweet6": {
+      "content": "Why I'll Never Own PEER_COMPANY Stock"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "WW CEO on succeeding: Surround yourself with 'incredible talent' and make others successful"
+    },
+    "tweet3": {
+      "content": "Why you may not be able to buy things you really want this holiday season"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Stifel boosts COMPANY_X price target on continued e-commerce strength"
+    },
+    "tweet2": {
+      "content": "New York gyms to reopen: Planet Fitness CEO says his chain is ready to go"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Corporations Want Chief Diversity Officers, But Do They Want True Change?"
+    },
+    "tweet2": {
+      "content": "COMPANY_X's direct-to-consumer offense is 'on steroids:' Analyst"
+    },
+    "tweet3": {
+      "content": "Dow Jones Drifts Lower On Fed Coronavirus Worries; Amazon Nears Buy Zone"
+    },
+    "tweet4": {
+      "content": "'Halftime Report' Traders Advise Viewers On COMPANY_X, Netflix And More"
+    },
+    "tweet5": {
+      "content": "Dow flat in spite of gains for COMPANY_X, Visa shares"
+    },
+    "tweet6": {
+      "content": "Dow Jones Up As Apple Stock Makes History; S&P 500, Nasdaq Hit New Highs"
+    },
+    "tweet7": {
+      "content": "Dow up 87 points on gains for Goldman Sachs, COMPANY_X stocks"
+    },
+    "tweet8": {
+      "content": "Why Is Everyone Talking About COMPANY_X Stock?"
+    },
+    "tweet9": {
+      "content": "Target reports stellar Q2 earnings results  — one for the record books"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Market Still Lacking Some Conviction On Preformed Line Products Company (NASDAQ:PLPC)"
+    },
+    "tweet2": {
+      "content": "How retailers are combating surge in online counterfeits "
+    },
+    "tweet3": {
+      "content": "Dow Jones Today, Stocks Open Mixed After Jobs Data; Intel Jumps On Buyback; Synopsys Nails Breakout"
+    },
+    "tweet4": {
+      "content": "Dow Jones Today, Futures Slip After Jobs Data; Intel Jumps On Buyback; Synopsys Eyes Breakout"
+    },
+    "tweet5": {
+      "content": "3 Reasons to Avoid PEER_COMPANY Stock"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "20 Best Blue-Chip Stocks for YEAR_X and Beyond"
+    },
+    "tweet2": {
+      "content": "‘Back to School’ Is Not the Same. Here Are 4 Stock Picks to Play the Changes."
+    },
+    "tweet3": {
+      "content": "Dow Jones Leads Market Higher On Apple Stock Rise; Nasdaq Hits Fresh Highs"
+    },
+    "tweet4": {
+      "content": "Apple Inc., COMPANY_X share gains lead Dow's 215-point climb"
+    },
+    "tweet5": {
+      "content": "Dow Jones Extends Gains As Apple Rallies; Nasdaq Marks Record High"
+    },
+    "tweet6": {
+      "content": "Apple Inc., COMPANY_X share gains contribute to Dow's nearly 150-point climb"
+    },
+    "tweet7": {
+      "content": "7 Crowdfunding Investments to Revitalize Your Portfolio"
+    },
+    "tweet8": {
+      "content": "Better Buy: COMPANY_X vs. PEER_COMPANY Athletica"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "S&P 500, Nasdaq Hit Record Highs As Several Leaders Near Buy Points"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Why COMPANY_X's decision to cut ties with 9 major wholesalers is 'a positive': analyst"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Is Taking ‘Control of Its Own Destiny.’ Time to Buy."
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "S&P 500, Nasdaq Touch New Highs; Tech Stocks Lead"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Apple, COMPANY_X, Walt Disney, PG and MRK"
+    },
+    "tweet3": {
+      "content": "Prime Couture? Luxury Could Be Amazon’s Next Target."
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "COMPANY_X. Announces First Quarter Fiscal YEAR_X Earnings and Conference Call"
+    },
+    "tweet2": {
+      "content": "Pro sports athletes boycott games over Jacob Blake shooting"
+    },
+    "tweet3": {
+      "content": "Active Brands Reexamining Endorsement Deals in Intermittent Sports World"
+    },
+    "tweet4": {
+      "content": "Inside COMPANY_X’s New Community Store in L.A.’s Watts Neighborhood"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Amazon Isn’t Synonymous With Luxury. That May Be Changing."
+    },
+    "tweet2": {
+      "content": "These Hedge Funds Cashed Out Of COMPANY_X. (COMPANY_X) Too Soon"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet2": {
+      "content": "5 Best Stocks in the Dow in August"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Analyst Report: COMPANY_X."
+    },
+    "tweet2": {
+      "content": "COMPANY_X jumps into the maternity clothing market with the creation of COMPANY_X (M)"
+    },
+    "tweet3": {
+      "content": "Dow's nearly 75-point jump led by gains for Walmart, Apple Inc. stocks"
+    },
+    "tweet4": {
+      "content": "COMPANY_X jumps into the maternity clothing market with the creation of COMPANY_X (M)"
+    },
+    "tweet5": {
+      "content": "8 Best Stocks in the Dow in August"
+    },
+    "tweet6": {
+      "content": "Coffee, ketchup and COMPANY_X PRODUCT_FOOTWEAR: it's the COVID consumer economy"
+    },
+    "tweet7": {
+      "content": "INSIGHT-Coffee, ketchup and COMPANY_X PRODUCT_FOOTWEAR: it's the COVID consumer economy"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Why DraftKings Stock Jumped Today"
+    },
+    "tweet2": {
+      "content": "Macy's will probably disappear before you know it: strategist"
+    },
+    "tweet3": {
+      "content": "Michael PRODUCT_FOOTWEAR Places His Next Big-League Bet on DraftKings"
+    },
+    "tweet4": {
+      "content": "Foot Locker Sees Potential Outside of Malls"
+    },
+    "tweet5": {
+      "content": "NBA Legend Michael PRODUCT_FOOTWEAR Is Now a Special Advisor at DraftKings"
+    },
+    "tweet6": {
+      "content": "Why COMPANY_X's Shares Rose 14.6% in August"
+    },
+    "tweet7": {
+      "content": "Sadly, One Letter Perfectly Captures the Recovery"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "PEER_COMPANY vs COMPANY_X: Which Stock Does The Street Rate As ‘Strong Buy’?"
+    },
+    "tweet2": {
+      "content": "Technical Assessment: Bullish in the Intermediate-Term"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Top Growth Stocks Trigger Sell Rules; These Dow Stocks Show Resilience For Now"
+    },
+    "tweet2": {
+      "content": "9 High-Quality Value Stocks That May Be Poised for Liftoff"
+    },
+    "tweet3": {
+      "content": "10 High-Quality Value Stocks That May Be Poised for Liftoff"
+    },
+    "tweet4": {
+      "content": "Could PEER_COMPANY Be a Millionaire Maker Stock?"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Better Buy: COMPANY_X vs. World Wrestling Entertainment"
+    },
+    "tweet2": {
+      "content": "Peloton bike gets some big changes — here's how much it will cost and why investors should care"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "3 Safe Blue Chip Stocks to Buy as Market Bounces Back After Tech Selloff"
+    },
+    "tweet2": {
+      "content": "3 Best Retail Stocks to Buy Now"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Why COMPANY_X's Stock Is Trading Higher Today"
+    },
+    "tweet2": {
+      "content": "Black Friday shopping like we all know it is officially over because of COVID-19"
+    },
+    "tweet3": {
+      "content": "Dow Jones Stumbles Deeper In The Red, Nasdaq Gives Up Gains To Follow Suit"
+    },
+    "tweet4": {
+      "content": "Dow Jones Stumble Deeper In The Red, Nasdaq Gives Up Gains To Follow Suit"
+    },
+    "tweet5": {
+      "content": "Better Buy: COMPANY_X vs. Stitch Fix"
+    },
+    "tweet6": {
+      "content": "Dow Jones Loses Early Gains; Will These 5 Growth Stocks Lead In September?"
+    },
+    "tweet7": {
+      "content": "PEER_COMPANY Arches Back Toward Growth With Q2 Earnings"
+    },
+    "tweet8": {
+      "content": "Dow flat in spite of gains for Walt Disney, Salesforce.com Inc. shares"
+    },
+    "tweet9": {
+      "content": "Dow Jones Up But Trails Nasdaq; Will These 5 Growth Stocks Lead In September?"
+    },
+    "tweet10": {
+      "content": "Dow's nearly 200-point jump highlighted by gains in COMPANY_X, Walt Disney shares"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Is Crocs the PRODUCT_FOOTWEAR of Footwear? What That Could Mean for the Shares."
+    },
+    "tweet2": {
+      "content": "Stock Market Today: Stocks End Wobbly Week With a Mixed Finish"
+    },
+    "tweet3": {
+      "content": "Stocks Mixed After Volatile Week; Tech Leaders Post Heavy Losses"
+    },
+    "tweet4": {
+      "content": "Dow climbs 70 points on gains for shares of COMPANY_X, Dow Inc."
+    },
+    "tweet5": {
+      "content": "Dow's 68-point climb led by gains for COMPANY_X, Dow Inc. stocks"
+    },
+    "tweet6": {
+      "content": "Dow Jones Pares Gains, Nasdaq Dives As Tech Stocks Sell Off Again"
+    },
+    "tweet7": {
+      "content": "Golf sees huge upswing with women and young adults: ‘You can take your bag full of White Claws’"
+    },
+    "tweet8": {
+      "content": "COMPANY_X, Dow Inc. share gains contribute to Dow's 237-point jump"
+    },
+    "tweet9": {
+      "content": "COMPANY_X, Amgen Inc. share gains lead Dow's 118-point jump"
+    },
+    "tweet10": {
+      "content": "2 Top Robinhood Stocks to Buy After Last Week's Rout"
+    },
+    "tweet11": {
+      "content": "What Took Wall Street Banks So Long to Appoint a Female CEO?"
+    },
+    "tweet12": {
+      "content": "2 Top Growth Stocks to Buy on Robinhood"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Top Stock Reports for Toyota, COMPANY_X & Honeywell"
+    },
+    "tweet2": {
+      "content": "Why Walmart still wants in on the TikTok deal"
+    },
+    "tweet3": {
+      "content": "Peloton has nearly $2 billion in cash — and it plans to spend it"
+    },
+    "tweet4": {
+      "content": "The Pandemic Helped Crocs Kickstart Growth. Why the Stock Could Double."
+    },
+    "tweet5": {
+      "content": "Yahoo Finance Presents: Peloton CEO & Co-founder John Foley"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Expected to Beat Earnings Estimates: Can the Stock Move Higher?"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Price Targets Are Going Up. That Doesn’t Mean Every Analyst Loves the Stock."
+    },
+    "tweet3": {
+      "content": "Forget Gap, COMPANY_X Is a Better Growth Stock"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: Toyota Motor, COMPANY_X, Honeywell, Advanced Micro Devices and Anthem"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Buy COMPANY_X Stock Near Highs and Hold It for Long-Term Growth?"
+    },
+    "tweet2": {
+      "content": "Here are all the big retailers saying they will now be closed on Thanksgiving"
+    },
+    "tweet3": {
+      "content": "Comparing Amazon's vs. Alibaba's Business Models"
+    },
+    "tweet4": {
+      "content": "Kamala Harris may have made Timberland boots cool again"
+    },
+    "tweet5": {
+      "content": "Preformed Line Products Company Announces Quarterly Dividend"
+    },
+    "tweet6": {
+      "content": "COMPANY_X Stock Has Been on the Rise. Here’s Why 1 Analyst Thinks It Can Continue."
+    },
+    "tweet7": {
+      "content": "Is COMPANY_X Stock a Buy?"
+    },
+    "tweet8": {
+      "content": "Is Digital Strength Likely to Aid COMPANY_X's (COMPANY_X) Q1 Earnings?"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "COMPANY_X Doubling Down on Digital, New Product Introductions"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Flying High Ahead Of Earnings"
+    },
+    "tweet3": {
+      "content": "Peloton's major rival Tonal just raised $110 million from athletes like Stephen PEER_PRODUCT"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "COMPANY_X earnings preview: Orders canceled and retail partnerships cut but COMPANY_X is a ‘winner,’ analysts say"
+    },
+    "tweet2": {
+      "content": "Planet’s Satellites Used for Firefighters: Green Festival Update"
+    },
+    "tweet3": {
+      "content": "Dow Jones Sinks Nearly 400 Points; Tech-Heavy Nasdaq Leads Market Declines"
+    },
+    "tweet4": {
+      "content": "Better Buy: COMPANY_X vs. Ulta Beauty"
+    },
+    "tweet5": {
+      "content": "Dow Jones Falls 150 Points, As Nasdaq Extends Losses; Tesla Snaps Back, While Beyond Meat Dives On Downgrade"
+    },
+    "tweet6": {
+      "content": "US STOCKS-Wall Street falls in choppy trading as tech sell-off resumes"
+    },
+    "tweet7": {
+      "content": "Dow Jones Today, Stocks Mixed After U.S. Sets Sunday Shutdown For TikTok"
+    },
+    "tweet8": {
+      "content": "Dow Jones Today, Stocks Open Mixed After U.S. Sets Sunday Shutdown For TikTok"
+    },
+    "tweet9": {
+      "content": "COMPANY_X is Setting New Highs Ahead of Earnings"
+    },
+    "tweet10": {
+      "content": "Dow Jones Today Dips, Futures Mixed As U.S. Sets Sunday Shutdown For TikTok"
+    },
+    "tweet11": {
+      "content": "Can American Eagle Outfitters Succeed in Athleisure?"
+    },
+    "tweet12": {
+      "content": "Top Fund Avoids Fads, Sticks To Leaders Like Apple"
+    },
+    "tweet13": {
+      "content": "Avoid COMPANY_X Stock as Supply and Demand Troubles Mount"
+    },
+    "tweet14": {
+      "content": "Michelle Obama Voter-Registration Instagram Livestream Taps Jennifer Lopez, Zendaya, DJ Khaled and More"
+    },
+    "tweet15": {
+      "content": "‘One-Stop Shop,’ Brand Awareness and Product Fit Driving Retail Sales"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Evaluating COMPANY_X Stock Ahead of Q1 DATE_REF Earnings"
+    },
+    "tweet2": {
+      "content": "Preformed Line Products Company's (NASDAQ:PLPC) Recent Stock Performance Looks Decent- Can Strong Fundamentals Be the Reason?"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Stock Slips Ahead of Q1 Earnings Report"
+    },
+    "tweet4": {
+      "content": "Dow Jones Down Over 700 Points; This Big-Cap Stock Powers Higher Despite Market"
+    },
+    "tweet5": {
+      "content": "Analysts on COMPANY_X: We See Short-Term Disruption, Long-Term Dominance"
+    },
+    "tweet6": {
+      "content": "COMPANY_X Earnings: What to look for from COMPANY_X"
+    },
+    "tweet7": {
+      "content": "Key Earnings Week For Consumer Sentiment, With COMPANY_X Among Big Names On Schedule"
+    },
+    "tweet8": {
+      "content": "Earnings Preview: COMPANY_X"
+    },
+    "tweet9": {
+      "content": "Tread Carefully With COMPANY_X Stock"
+    },
+    "tweet10": {
+      "content": "4 Stocks I'll Hold Forever"
+    },
+    "tweet11": {
+      "content": "COMPANY_X Reports Earnings Tomorrow. Here’s What to Expect."
+    },
+    "tweet12": {
+      "content": "Dow Jones Futures Tumble: Stock Market Rally Reeling On Coronavirus Cases, Suspicious Bank Moves"
+    },
+    "tweet13": {
+      "content": "What to Expect in the Markets This Week"
+    },
+    "tweet14": {
+      "content": "3 Things to Watch in the Stock Market This Week"
+    },
+    "tweet15": {
+      "content": "COMPANY_X Reports Earnings on Tuesday. Here’s What to Expect."
+    },
+    "tweet16": {
+      "content": "Dow Jones Futures Loom With Stock Market Rally Still Fighting, But Bears Landing The Punches; Trump Backs TikTok Deal, Tesla Battery Day Due"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "COMPANY_X Does It Again"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Returns to Growth Amid Pandemic"
+    },
+    "tweet3": {
+      "content": "COMPANY_X and KB Home Beat on Earnings; Tesla's &quot;Battery Day&quot;"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Doubles Profit Estimates on Strong Digital Sales"
+    },
+    "tweet5": {
+      "content": "COMPANY_X (COMPANY_X) Q1 Earnings and Revenues Surpass Estimates"
+    },
+    "tweet6": {
+      "content": "Nasdaq Jumps 180 Points, Led By Amazon, PEER_COMPANY; Tesla Slumps Ahead Of Battery Day"
+    },
+    "tweet7": {
+      "content": "COMPANY_X Stock Jumps as Strong Digital Sales Fuel an Upbeat Quarter"
+    },
+    "tweet8": {
+      "content": "COMPANY_X Reports Q1 Earnings Beat, Digital Sales Up 82% YoY"
+    },
+    "tweet9": {
+      "content": "COMPANY_X Blows Past Analysts’ Estimates, Sending Stock Up High Single Digits"
+    },
+    "tweet10": {
+      "content": "COMPANY_X Earnings: What Happened with COMPANY_X"
+    },
+    "tweet11": {
+      "content": "COMPANY_X smashes revenue, profit estimates on North America online boom"
+    },
+    "tweet12": {
+      "content": "COMPANY_X beats revenue estimates on China demand, online boost"
+    },
+    "tweet13": {
+      "content": "COMPANY_X stock rallies after big earnings beat"
+    },
+    "tweet14": {
+      "content": "COMPANY_X. Reports Fiscal YEAR_X First Quarter Results"
+    },
+    "tweet15": {
+      "content": "COMPANY_X Earnings Due As Digital Prospects, 'Solitary Leisure' Lift Dow Stock"
+    },
+    "tweet16": {
+      "content": "Dow's 162-point jump led by gains for COMPANY_X, Microsoft shares"
+    },
+    "tweet17": {
+      "content": "Dow Jones Gains As Nasdaq Leads Way; Housing Stocks Make Constructive Moves"
+    },
+    "tweet18": {
+      "content": "Dow's nearly 100-point climb led by gains for shares of COMPANY_X, Microsoft"
+    },
+    "tweet19": {
+      "content": "Amazon Leads Overall and Retail Category in YEAR_X Loyalty Leaders List"
+    },
+    "tweet20": {
+      "content": "Nasdaq Leads Stock Gains, But Dow Lags; This Sector Rebounds"
+    },
+    "tweet21": {
+      "content": "COMPANY_X, Procter & Gamble share gains lead the way, but Dow flat"
+    },
+    "tweet22": {
+      "content": "COMPANY_X Reports Earnings Today. Here’s What to Expect."
+    },
+    "tweet23": {
+      "content": "COMPANY_X expected to return to profit as online sales, demand from China pick up"
+    },
+    "tweet24": {
+      "content": "How to Trade COMPANY_X When It Reports Earnings Tuesday"
+    },
+    "tweet25": {
+      "content": "Here's What To Make Of COMPANY_X's (NYSE:COMPANY_X) Returns On Capital"
+    },
+    "tweet26": {
+      "content": "COMPANY_X Reports After the Bell Tuesday, Here's How to Trade It"
+    },
+    "tweet27": {
+      "content": "COMPANY_X Earnings Rolling In After The Close, Following Powell Testimony To Congress"
+    },
+    "tweet28": {
+      "content": "Dow Jones Today, Stocks Flatten As Amazon Leads FANGs, COMPANY_X Up Ahead Of Earnings"
+    },
+    "tweet29": {
+      "content": "Dow Jones Today, Futures Mixed; Amazon Leads FANGs, COMPANY_X Rises Ahead Of Earnings"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Jim Cramer: Tesla, COMPANY_X, and a Tale of Expectations"
+    },
+    "tweet2": {
+      "content": "5 Retail Companies Trading Below the GF Value Line"
+    },
+    "tweet3": {
+      "content": "Dow Jones Sinks Over 500 Points But This Blue Chip Soars On Earnings"
+    },
+    "tweet4": {
+      "content": "US STOCKS-Wall Street closes lower on fears of a slowing economy"
+    },
+    "tweet5": {
+      "content": "COMPANY_X, JinkoSolar, SPI Energy: 5 Top Gainers for Wednesday"
+    },
+    "tweet6": {
+      "content": "The COMPANY_X Rebound Is Almost Complete"
+    },
+    "tweet7": {
+      "content": "Dow Jones Drops As Bears Batter Bulls; Apple Stock Surrenders Key Support"
+    },
+    "tweet8": {
+      "content": "Why PEER_COMPANY Stock Just Jumped 7%"
+    },
+    "tweet9": {
+      "content": "US STOCKS-Wall Street retreats as business activity slows, raising fears over economy"
+    },
+    "tweet10": {
+      "content": "Dow Jones Dives 400 Points As Selling Ramps Up; Nasdaq Drops Over 2%"
+    },
+    "tweet11": {
+      "content": "COMPANY_X stock surges 10% as fiscal YEAR_X revenue is expected to rise as much as low double digits"
+    },
+    "tweet12": {
+      "content": "Dow Jones Red Despite Big COMPANY_X Rally; Nasdaq Drops As Tech Stocks Sell Off"
+    },
+    "tweet13": {
+      "content": "Shark Bites: This Under-the-Radar Sporting Goods Play Has a Nice Setup"
+    },
+    "tweet14": {
+      "content": "COMPANY_X Analysts Bullish Following Earnings Beat: 'Long-Awaited, Structurally Higher Margins'"
+    },
+    "tweet15": {
+      "content": "US STOCKS-Wall Street retreats as business activity slows"
+    },
+    "tweet16": {
+      "content": "The Zacks Analyst Blog Highlights: TSLA, COMPANY_X, SFIX and KBH"
+    },
+    "tweet17": {
+      "content": "Why COMPANY_X Stock Surged Today"
+    },
+    "tweet18": {
+      "content": "Strong Online Sales Boost COMPANY_X's 1st-Quarter Results"
+    },
+    "tweet19": {
+      "content": "Dow Jones Reverses Lower, But COMPANY_X Surges On Earnings; Apple Downgraded, While Tesla Dives 9% After Battery Day"
+    },
+    "tweet20": {
+      "content": "US STOCKS-Wall Street retreats as business activity slows"
+    },
+    "tweet21": {
+      "content": "Stocks Tumble as Recovery Worries Add to Volatility, Tesla Slides"
+    },
+    "tweet22": {
+      "content": "The Consumer Sector – Latest Developments"
+    },
+    "tweet23": {
+      "content": "Dow Jones Climbs 150 Points, As COMPANY_X Surges On Earnings; Apple Downgraded, While Tesla Dives On Battery Day"
+    },
+    "tweet24": {
+      "content": "Stocks Waver as Recovery Worries Add to Volatility"
+    },
+    "tweet25": {
+      "content": "COMPANY_X, Johnson & Johnson share gains lead the way, but Dow flat"
+    },
+    "tweet26": {
+      "content": "COMPANY_X Shares Running Higher After Blowout Earnings, But Tesla Energy Running Down"
+    },
+    "tweet27": {
+      "content": "COMPANY_X’s Strong Earnings Kick Off a Sector Rally"
+    },
+    "tweet28": {
+      "content": "COMPANY_X’s Strong Earnings Kicks Off a Sector Rally"
+    },
+    "tweet29": {
+      "content": "COMPANY_X’s Earnings Were So Good Its Rivals PEER_COMPANY and PEER_COMPANY Are Rising"
+    },
+    "tweet30": {
+      "content": "COMPANY_X's stock rally keeping the Dow in positive territory"
+    },
+    "tweet31": {
+      "content": "US STOCKS-S&P 500, Nasdaq retreat as business activity dips"
+    },
+    "tweet32": {
+      "content": "Tesla's Battery Day Fizzles, J&J's Phase 3 Sizzles"
+    },
+    "tweet33": {
+      "content": "Dow Jones Today Jumps, Nasdaq Dips As COMPANY_X Rallies; J&J Vaccine Enters Phase 3"
+    },
+    "tweet34": {
+      "content": "COMPANY_X Soars to Record After Sales, Profit Surge Past Projections"
+    },
+    "tweet35": {
+      "content": "COMPANY_X shares set for record high after digital sales power stellar results"
+    },
+    "tweet36": {
+      "content": "COMPANY_X Shares Soar To Record High As Digital Sales Surge Leads Q1 Earnings Beat"
+    },
+    "tweet37": {
+      "content": "P/E Ratio Insights for COMPANY_X"
+    },
+    "tweet38": {
+      "content": "COMPANY_X, Boeing share gains contribute to Dow's 135-point climb"
+    },
+    "tweet39": {
+      "content": "Economic Data Deluge"
+    },
+    "tweet40": {
+      "content": "COMPANY_X Shares Just Hit an All-Time High: Inside the Quarter That Surprised Investors in the Best Possible Way"
+    },
+    "tweet41": {
+      "content": "Dow Trades Higher as COMPANY_X Surges on Big Earnings Beat"
+    },
+    "tweet42": {
+      "content": "COMPANY_X (COMPANY_X) Beats Q1 Earnings & Sales Estimates, Stock Rises"
+    },
+    "tweet43": {
+      "content": "Dow rises over 100 points as stocks continue rebound from selloff"
+    },
+    "tweet44": {
+      "content": "Dow Jones Today Jumps, Futures Mixed As COMPANY_X Rallies; J&J Vaccine Enters Phase 3"
+    },
+    "tweet45": {
+      "content": "Dow Futures Gain, COMPANY_X Soars To Record Peak, As Global Markets Rebound Despite Coronavirus Spike"
+    },
+    "tweet46": {
+      "content": "US STOCKS-COMPANY_X set to lift S&P 500, Dow ahead of business activity data"
+    },
+    "tweet47": {
+      "content": "COMPANY_X Stock Is Soaring. Yes, Its Earnings Were That Good."
+    },
+    "tweet48": {
+      "content": "Dow Jones Futures Jump 200 Points As COMPANY_X Soars 13% On Earnings; Tesla Dives On Battery Day"
+    },
+    "tweet49": {
+      "content": "COMPANY_X’s Earnings Were Incredible. How the Company Just Did It."
+    },
+    "tweet50": {
+      "content": "Dow Futures Leap Higher, COMPANY_X Soars To Record Peak, As Tech Leads Global Market Rebound"
+    },
+    "tweet51": {
+      "content": "What Tuesday Was, Nasdaq 100 Is Key, Halftime for a Vaccine, COMPANY_X Crushes It"
+    },
+    "tweet52": {
+      "content": "Tesla, COMPANY_X, Dow Futures, Aurora Cannabis - 5 Things You Must Know Wednesday"
+    },
+    "tweet53": {
+      "content": "COMPANY_X lifts S&P 500, Dow ahead of business activity data"
+    },
+    "tweet54": {
+      "content": "COMPANY_X set to lift S&P 500, Dow ahead of business activity data"
+    },
+    "tweet55": {
+      "content": "US STOCKS-Futures rise ahead of business activity data; COMPANY_X shines"
+    },
+    "tweet56": {
+      "content": "What Does COMPANY_X's Debt Look Like?"
+    },
+    "tweet57": {
+      "content": "COMPANY_X Shares Soar To All-Time High As Digital Sales Surge Leads Q1 Earnings Beat"
+    },
+    "tweet58": {
+      "content": "The DJIA Leads as Sloppy Rotational Action Continues"
+    },
+    "tweet59": {
+      "content": "COMPANY_X Stock Is Up 14%. Yes, Its Earnings Were That Good."
+    },
+    "tweet60": {
+      "content": "COMPANY_X Jumps After Reporting Surprise Earnings Gain, Accelerating Online Sales"
+    },
+    "tweet61": {
+      "content": "COMPANY_X Swooshes Higher After Digital Sales Soar"
+    },
+    "tweet62": {
+      "content": "European stocks extend recovery ahead of PMIs; PEER_COMPANY jumps"
+    },
+    "tweet63": {
+      "content": "COMPANY_X Pops 13% As 1Q Online Sales Jump 82%"
+    },
+    "tweet64": {
+      "content": "COMPANY_X Tramples Analyst Expectations With Its DATE_REF Results"
+    },
+    "tweet65": {
+      "content": "Dow Jones Futures: Amazon, Apple Fuel Stock Market Rally; COMPANY_X Soars On Earnings, While Tesla Dives 7% On Battery Day"
+    },
+    "tweet66": {
+      "content": "COMPANY_X expects permanent shift to online sales"
+    },
+    "tweet67": {
+      "content": "COMPANY_X (COMPANY_X) DATE_REF Earnings Call Transcript"
+    },
+    "tweet68": {
+      "content": "Analyst Report: COMPANY_X."
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Dow Jones Finishes Higher After Weak Jobless Claims Report As Tesla Shows This Bullish Chart Action"
+    },
+    "tweet2": {
+      "content": "COMPANY_X's new PRODUCT_FOOTWEAR 35 aims to combine 'culture and a functional shoe'"
+    },
+    "tweet3": {
+      "content": "Why COMPANY_X Is Pegged by an Analyst to See Big EPS Growth"
+    },
+    "tweet4": {
+      "content": "Amazon agreed to call it the 'Prime Bike,' says Echelon CEO"
+    },
+    "tweet5": {
+      "content": "Dow Jones Volatile on Elevated Unemployment Claims; COMPANY_X, Home Depot, and Goldman Sachs Talked Up by Analysts"
+    },
+    "tweet6": {
+      "content": "The Secret to COMPANY_X's Blowout Quarter"
+    },
+    "tweet7": {
+      "content": "COMPANY_X Cheers on Strong Digital Sales Show in Q1, Shares Up"
+    },
+    "tweet8": {
+      "content": "Morning Bell With Jim Cramer: Is Johnson & Johnson a Buy?"
+    },
+    "tweet9": {
+      "content": "Dow's nearly 50-point fall led by losses in shares of Boeing, COMPANY_X"
+    },
+    "tweet10": {
+      "content": "Despite Strong Fundaments, COMPANY_X Could See Price Weakness With the Broad Market"
+    },
+    "tweet11": {
+      "content": "COMPANY_X (COMPANY_X) Jumps: Stock Rises 8.8%"
+    },
+    "tweet12": {
+      "content": "Analyst Report: COMPANY_X."
+    },
+    "tweet13": {
+      "content": "Analyst Report: COMPANY_X."
+    },
+    "tweet14": {
+      "content": "Market Digest: CENT, MKC, COMPANY_X, WDC, CTLT"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "COMPANY_X Stock Looks Good for the Long Run"
+    },
+    "tweet2": {
+      "content": "Stock Market Correction Begins; Tesla Battery Day, COMPANY_X Earnings, TikTok Saga In Focus: Weekly Review"
+    },
+    "tweet3": {
+      "content": "At COMPANY_X, Waste Is Working New Wonders"
+    },
+    "tweet4": {
+      "content": "3 Fitness Stocks Whose Hard Work Can Reward You"
+    },
+    "tweet5": {
+      "content": "Unusual Options Activity Insight: COMPANY_X"
+    },
+    "tweet6": {
+      "content": "Preformed Line Products Company (NASDAQ:PLPC) Goes Ex-Dividend Soon"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "COMPANY_X Just Did It"
+    },
+    "tweet2": {
+      "content": "Has COMPANY_X (COMPANY_X) Outpaced Other Consumer Discretionary Stocks This Year?"
+    },
+    "tweet3": {
+      "content": "Mike Khouw Updates His COMPANY_X Options Trade"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Dow Jones Sinks Over 100 Points But These Leaders Trade In Buy Zones"
+    },
+    "tweet2": {
+      "content": "Stock Market Dips After Bullish Session; Beyond Meat, 3 Other Top Stocks Break Out To New Highs"
+    },
+    "tweet3": {
+      "content": "Why COMPANY_X Stock Is Up"
+    },
+    "tweet4": {
+      "content": "Dow Loses 200 Points Ahead Of Debate, As This Key Stock Rallies"
+    },
+    "tweet5": {
+      "content": "COMPANY_X: The Digital Moat Widens"
+    },
+    "tweet6": {
+      "content": "PEER_COMPANY AG -- Moody's assigns A2 rating to PEER_COMPANY' sustainability bond issuance"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "COMPANY_X Sees Room for Game-Changing Profitability Gains"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "The 7 Top Robinhood Stocks for October"
+    }
+  }
+}

@@ -1,0 +1,1252 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "iBio Is a Pure Spec Play That Remains a Day Trader’s Delight"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Report: COMPANY_X Paying Over $100 Million to Settle Baby Powder Lawsuits"
+    },
+    "tweet2": {
+      "content": "PEER_COMPANY Is Ready To Rally After 2-Month Market Correction"
+    },
+    "tweet3": {
+      "content": "COMPANY_X to pay more than $100 mln to settle over 1,000 talc lawsuits: Bloomberg"
+    },
+    "tweet4": {
+      "content": "7 Sizzling Hot Stocks to Buy Now Amid Even Hotter Politics"
+    },
+    "tweet5": {
+      "content": "Got $5,000? These 2 Dividend Stocks Are Cheap Buys Today"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "FDA Is Looking for More Clinical Trial Data. Why That Makes a Pre-Election Covid Vaccine Unlikely."
+    },
+    "tweet2": {
+      "content": "Approving the FDA guidelines ‘lays the seed that people can trust’ the vaccine that gets approved: senior fellow"
+    },
+    "tweet3": {
+      "content": "COMPANY_X stock falls Tuesday, still outperforms market"
+    },
+    "tweet4": {
+      "content": "PEER_COMPANY, BioNTech Start Approval Process For PRODUCT_VACCINE Candidate In Europe"
+    },
+    "tweet5": {
+      "content": "Coronavirus Latest: Tuesday, October 6"
+    },
+    "tweet6": {
+      "content": "Coronavirus update: Trump returns from Walter Reed, White House backs FDA vaccine guidelines"
+    },
+    "tweet7": {
+      "content": "FDA to require 2-month follow-up period for COVID-19 vaccines before authorization"
+    },
+    "tweet8": {
+      "content": "Russian PRODUCT_VACCINE trials have yet to start in Brazil, lagging rivals"
+    },
+    "tweet9": {
+      "content": "Trump's COVID-19 Treatment: Here Are the Stocks of All the Drugmakers Involved"
+    },
+    "tweet10": {
+      "content": "What's The Buzz About PEER_COMPANY's New Drugs?"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "PEER_COMPANY, PEER_COMPANY Have 2-Month Lead Over Coronavirus Vaccine Competitors: Analyst"
+    },
+    "tweet2": {
+      "content": "COMPANY_X stock rises Wednesday, still underperforms market"
+    },
+    "tweet3": {
+      "content": "Q&A: Where are we in the PRODUCT_VACCINE race?"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Why Shares of This Top Coronavirus Vaccine Hopeful Popped in September"
+    },
+    "tweet2": {
+      "content": "COMPANY_X stock rises Thursday, still underperforms market"
+    },
+    "tweet3": {
+      "content": "Coronavirus Latest: Thursday, October 8"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Announces European Commission Approval of Agreement to Supply 200 Million Doses of COMPANY_X's PRODUCT_VACCINE Candidate"
+    },
+    "tweet5": {
+      "content": "Here's How COMPANY_X (COMPANY_X) Will Roll Out Drug Sector Q3 Earnings"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Cannabis Use Is on the Rise. Where to Invest Now."
+    },
+    "tweet2": {
+      "content": "President Trump getting PEER_COMPANY treatment is 'wrong and unethical': Dr. Ezekiel Emanuel"
+    },
+    "tweet3": {
+      "content": "COMPANY_X stock outperforms market on strong trading day"
+    },
+    "tweet4": {
+      "content": "Coronavirus Latest: Friday, October 9"
+    },
+    "tweet5": {
+      "content": "Earnings Reports for the Week of Oct. 12-16 (COMPANY_X, JPM, UAL)"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "PEER_COMPANY pauses antibody trial over potential safety concern"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "ETFs to Minimize Volatility Amid Pausing Coronavirus Trials"
+    },
+    "tweet2": {
+      "content": "‘We need to test smarter’ by focusing on ‘high-risk populations’: doctor"
+    },
+    "tweet3": {
+      "content": "COMPANY_X stock falls Thursday, underperforms market"
+    },
+    "tweet4": {
+      "content": "PEER_COMPANY Acquisition Expands Efforts To Treat Neurological Diseases"
+    },
+    "tweet5": {
+      "content": "Influencers with Andy Serwer: Richard Davis"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "COMPANY_X -- Moody's assigns Aaa to COMPANY_X's sr. notes; outlook negative"
+    },
+    "tweet2": {
+      "content": "Look Past Covid Vaccine to COMPANY_X's Drug Portfolio"
+    },
+    "tweet3": {
+      "content": "‘The market is grappling with what the election means’: Darrell Cronk"
+    },
+    "tweet4": {
+      "content": "COMPANY_X stock rises Friday, outperforms market"
+    },
+    "tweet5": {
+      "content": "I think ‘we’re at the beginning of a third surge’ of coronavirus: Advancing Health Equity CEO"
+    },
+    "tweet6": {
+      "content": "Coronavirus Latest: Friday, October 16"
+    },
+    "tweet7": {
+      "content": "Misinformation is the 'biggest concern' leading up to election: CrowdStrike President"
+    },
+    "tweet8": {
+      "content": "Novavax Stock Looks Volatile As Vaccine Enthusiasm Wanes"
+    },
+    "tweet9": {
+      "content": "Can Cytonics Pivot Successfully to Covid-19 Therapeutics?"
+    },
+    "tweet10": {
+      "content": "The Zacks Analyst Blog Highlights: COMPANY_X, PEER_COMPANY, Target, Prudential Financial and Seagate Technology"
+    },
+    "tweet11": {
+      "content": "Coronavirus update: PEER_COMPANY seeks vaccine authorization in November; Medicare cuts delayed COVID-19 testing payments"
+    },
+    "tweet12": {
+      "content": "Biden Town Hall: 4 Key Investing Takeaways"
+    },
+    "tweet13": {
+      "content": "Ignore the Vaccine Noise, COMPANY_X Is in Rude Health, Says Top Analyst"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Analyst's Potential Buyout List Includes Alexion, Amarin and Biomarin"
+    },
+    "tweet2": {
+      "content": "Stock Market Today: Investors Lose Their Nerve as Relief Deadline Nears"
+    },
+    "tweet3": {
+      "content": "‘The most difficult phase of the epidemic is ahead of us’: doctor"
+    },
+    "tweet4": {
+      "content": "COMPANY_X stock falls Monday, underperforms market"
+    },
+    "tweet5": {
+      "content": "'Not just him': What Trump's antibody use says about the future of coronavirus treatments"
+    },
+    "tweet6": {
+      "content": "2 Stocks to Supplement Your Social Security Income"
+    },
+    "tweet7": {
+      "content": "Coronavirus cases surpass 40 million across the globe, 8 million in the U.S."
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "COMPANY_X stock rises Tuesday, still underperforms market"
+    },
+    "tweet2": {
+      "content": "Coronavirus Latest: Tuesday, October 20"
+    },
+    "tweet3": {
+      "content": "Covid-19 Vaccines Could Take a Critical Next Step in November — Just Not In Time for the Election"
+    },
+    "tweet4": {
+      "content": "Were Hedge Funds Right About Piling Into COMPANY_X (COMPANY_X)?"
+    },
+    "tweet5": {
+      "content": "PEER_COMPANY's PRODUCT_VACCINE timeline"
+    },
+    "tweet6": {
+      "content": "Now Is the Time to Go All-In on These 3 Breakout Stocks"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Coronavirus Latest: Wednesday, October 21"
+    },
+    "tweet2": {
+      "content": "COMPANY_X stock falls Wednesday, underperforms market"
+    },
+    "tweet3": {
+      "content": "Sorrento Therapeutics Is a Vaccine Movie That Investors Have Already Seen"
+    },
+    "tweet4": {
+      "content": "2 Late-Stage Coronavirus Vaccine Candidates in Limbo"
+    },
+    "tweet5": {
+      "content": "Dow Stutters as Traders Continue to Sweat on Stimulus Progress"
+    },
+    "tweet6": {
+      "content": "OxyContin maker Purdue reaches plea deal in opioid probe-sources"
+    },
+    "tweet7": {
+      "content": "EU signs supply deal with COMPANY_X on potential PRODUCT_VACCINE"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "US faces major hurdles for PRODUCT_VACCINE distribution: Vaccine advisory committee"
+    },
+    "tweet2": {
+      "content": "PEER_COMPANY PRODUCT_VACCINE Nears; Passes Key Milestone In Final Testing"
+    },
+    "tweet3": {
+      "content": "COMPANY_X stock outperforms market on strong trading day"
+    },
+    "tweet4": {
+      "content": "Coronavirus Latest: Thursday, October 22"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Announces Quarterly Dividend for Fourth Quarter YEAR_X"
+    },
+    "tweet6": {
+      "content": "FDA Covid Meeting Shows the Companies Behind the Vaccines"
+    },
+    "tweet7": {
+      "content": "PEER_COMPANY, PEER_COMPANY Vaccines, PEER_COMPANY Treatment In Focus As Health Firms Report Q3 Earnings"
+    },
+    "tweet8": {
+      "content": "COMPANY_X Stock: Break Of Support Presents Bearish Option Trade"
+    },
+    "tweet9": {
+      "content": "PEER_COMPANY, COMPANY_X urge clarity from FDA on future of PRODUCT_VACCINE trials once a vaccine is available"
+    },
+    "tweet10": {
+      "content": "Glaxo Vaccines Target Another Viral Threat"
+    },
+    "tweet11": {
+      "content": "PEER_COMPANY (AZN), COMPANY_X (COMPANY_X) Coronavirus Trials May Resume Soon"
+    },
+    "tweet12": {
+      "content": "What to expect from the FDA's PRODUCT_VACCINE meeting today"
+    },
+    "tweet13": {
+      "content": "Healthcare to Post Solid Q3 Earnings Growth: ETFs in Focus"
+    },
+    "tweet14": {
+      "content": "Intuitive Surgical Says Outlook Still Murky — Is ISRG Stock A Buy?"
+    },
+    "tweet15": {
+      "content": "Intuitive Surgical Says Outlook Still Murky — Is ISRG Stock A Buy?"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Is Kimberly-Clark's Pullback an Opportunity to Buy?"
+    },
+    "tweet2": {
+      "content": "COMPANY_X to resume U.S. part of PRODUCT_VACCINE clinical trial"
+    },
+    "tweet3": {
+      "content": "COMPANY_X PRODUCT_VACCINE Trial Set to Resume"
+    },
+    "tweet4": {
+      "content": "Remdesivir ‘is not a knock out punch’ but it does help patients ‘recover quicker’: doctor"
+    },
+    "tweet5": {
+      "content": "COMPANY_X stock rises Friday, still underperforms market"
+    },
+    "tweet6": {
+      "content": "COMPANY_X preparing to resume U.S. trial of PRODUCT_VACCINE candidate"
+    },
+    "tweet7": {
+      "content": "WRAPUP 8-PEER_COMPANY resumes U.S. PRODUCT_VACCINE trial and next week COMPANY_X prepares to do same"
+    },
+    "tweet8": {
+      "content": "Pharmaceutical companies ‘are doing a good job’ with efficacy and transparency: physician"
+    },
+    "tweet9": {
+      "content": "COMPANY_X coronavirus vaccine trial to resume soon - Washington Post"
+    },
+    "tweet10": {
+      "content": "Can Novavax Stock Overcome Growing Vaccine Distrust?"
+    },
+    "tweet11": {
+      "content": "Healthcare to Post Solid Q3 Earnings Growth: ETFs in Focus"
+    },
+    "tweet12": {
+      "content": "COVID-19 'Pool testing' in schools would give insight on how well masks in schools are doing: Dr. Dara Kass"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "COMPANY_X stock falls Monday, still outperforms market"
+    },
+    "tweet2": {
+      "content": "Covid Roundup: PEER_COMPANY's Vaccine Data; PEER_COMPANY's New Deal"
+    },
+    "tweet3": {
+      "content": "Covid Roundup: PEER_COMPANY's Vaccine Data; PEER_COMPANY's New Deal"
+    },
+    "tweet4": {
+      "content": "Fauci: Early COVID-19 vaccines will only prevent symptoms, not block the virus"
+    },
+    "tweet5": {
+      "content": "After Restarting Covid Vaccine Trial, PEER_COMPANY Has Good News for Older Adults"
+    },
+    "tweet6": {
+      "content": "What's the Best Way to Invest in Coronavirus Vaccine Stocks?"
+    },
+    "tweet7": {
+      "content": "What's the Best Way to Invest in Coronavirus Vaccine Stocks?"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "COMPANY_X stock falls Tuesday, underperforms market"
+    },
+    "tweet2": {
+      "content": "‘Someone, somewhere in the U.S. is getting overwhelmed’ with the rising numbers of covid cases: UC Davis Health"
+    },
+    "tweet3": {
+      "content": "PEER_COMPANY Earnings Beat But Sales Miss; Crucial PRODUCT_VACCINE Trials Advance"
+    },
+    "tweet4": {
+      "content": "Coronavirus Latest: Tuesday, October 27"
+    },
+    "tweet5": {
+      "content": "PEER_COMPANY Earnings Miss But Sales Beat; Crucial PRODUCT_VACCINE Trials Advance"
+    },
+    "tweet6": {
+      "content": "Investors Betting on a Coronavirus Vaccine Better Know Who Gets First Dibs in Global Pact"
+    },
+    "tweet7": {
+      "content": "Warren Buffett's 11 Longest-Held Stocks"
+    },
+    "tweet8": {
+      "content": "Warren Buffett's 11 Longest-Held Stocks"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "COMPANY_X stock outperforms market despite losses on the day"
+    },
+    "tweet2": {
+      "content": "‘We could see daily averages well over 1,000 deaths per day’ going into winter: doctor"
+    },
+    "tweet3": {
+      "content": "Coronavirus Latest: Wednesday, October 28"
+    },
+    "tweet4": {
+      "content": "3 Surefire Stocks to Watch In The Coronavirus Pandemic"
+    },
+    "tweet5": {
+      "content": "EU must step up response to COVID-19, Commission warns as infections spike"
+    },
+    "tweet6": {
+      "content": "PEER_COMPANY and COMPANY_X Resume Late-Stage Trials: How It Shakes Up the Coronavirus Vaccine Race"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Coronavirus Latest: Thursday, October 29"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "COMPANY_X plans to test its PRODUCT_VACCINE in ages 12-18 soon"
+    },
+    "tweet2": {
+      "content": "COMPANY_X plans test of its PRODUCT_VACCINE candidate in 12-18 year olds soon"
+    },
+    "tweet3": {
+      "content": "Looking Into COMPANY_X's Return On Capital Employed"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "COMPANY_X Strikes PRODUCT_VACCINE Manufacturing Deal With South Africa's Aspen"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Strikes PRODUCT_VACCINE Manufacturing Deal With Aspen"
+    },
+    "tweet3": {
+      "content": "South Africa's Aspen agrees initial deal to make COMPANY_X vaccine candidate"
+    },
+    "tweet4": {
+      "content": "South Africa's Aspen agrees initial deal to make COMPANY_X vaccine candidate"
+    },
+    "tweet5": {
+      "content": "South Africa's Aspen agrees with COMPANY_X to manufacture PRODUCT_VACCINE candidate"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Halozyme Therapeutics Deals With Drug Giants Spark Stock To New High"
+    },
+    "tweet2": {
+      "content": "COMPANY_X to appeal $2.12 bln talc verdict to U.S. Supreme Court"
+    },
+    "tweet3": {
+      "content": "Top Research Reports for Alphabet, COMPANY_X & Union Pacific"
+    },
+    "tweet4": {
+      "content": "Brazil's Anvisa gives nod for resumption of trial with COMPANY_X PRODUCT_VACCINE"
+    },
+    "tweet5": {
+      "content": "2 Lucrative Coronavirus Stocks to Buy Right Now"
+    },
+    "tweet6": {
+      "content": "3 Dividend Stocks That Can Generate Monthly Income for Your Portfolio"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Republican Hold On Senate Seen As Plus For Drug Companies"
+    },
+    "tweet2": {
+      "content": "Novavax Announces PRODUCT_VACCINE Supply Deal With Australia"
+    },
+    "tweet3": {
+      "content": "Psychedelic Drug Stock Jumps After State Ballot Legalizes Therapy"
+    },
+    "tweet4": {
+      "content": "Chilean president says regulators okay PEER_COMPANY COVID vaccine trial"
+    },
+    "tweet5": {
+      "content": "The Zacks Analyst Blog Highlights: Google, COMPANY_X, Union Pacific Corp, PEER_COMPANY, Charter Communications and Anheuser-Busch InBev"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Is It Time to Buy These 3 Dow Jones Stocks? Analysts Weigh In"
+    },
+    "tweet2": {
+      "content": "Q3 Earnings Fail to Impress Pharma ETFs"
+    },
+    "tweet3": {
+      "content": "If You Like Dividends, You Should Love These 3 Stocks"
+    },
+    "tweet4": {
+      "content": "Cardinal Health, AmerisourceBergen book billions in costs related to opioid lawsuits"
+    },
+    "tweet5": {
+      "content": "PEER_COMPANY Gets Chile, Peru Nod To Resume PRODUCT_VACCINE Trials"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "3 Stocks the T Rowe Price Equity Income and Yacktman Funds Agree On"
+    },
+    "tweet2": {
+      "content": "Dow Jones Up 1,800 Points In Election Week As Stock Market Stages Massive Rally"
+    },
+    "tweet3": {
+      "content": "Dow Jones Stalls As McConnell Resists Bigger Stimulus; This Leader Passes Buy Point"
+    },
+    "tweet4": {
+      "content": "COMPANY_X to Host Virtual Medical Devices Update"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Dr. Alice Chen on what the next steps are for PEER_COMPANY after company finds PRODUCT_VACCINE to be 90% effective"
+    },
+    "tweet2": {
+      "content": "Everything We Know About PEER_COMPANY’s PRODUCT_VACCINE"
+    },
+    "tweet3": {
+      "content": "A Handful of Start-Ups Is Developing Psychedelic Drugs for Mental Illnesses. It Could Be a Bad Trip for Investors."
+    },
+    "tweet4": {
+      "content": "Analyzing COMPANY_X's Unusual Options Activity"
+    },
+    "tweet5": {
+      "content": "PRODUCT_VACCINE must be released soon or stock market could drop more than 10%: Goldman Sachs"
+    },
+    "tweet6": {
+      "content": "COMPANY_X's (NYSE:COMPANY_X) Fundamentals Look Pretty Strong: Could The Market Be Wrong About The Stock?"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "'It would be devastating': Former Obama advisor Valerie Jarrett on possibility of the Supreme Court overturning the Affordable Care Act"
+    },
+    "tweet2": {
+      "content": "Supreme Court appears skeptical over ending Obamacare"
+    },
+    "tweet3": {
+      "content": "What Happens to the Other Vaccines Now?"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "PEER_COMPANY's PRODUCT_VACCINE breakthrough marks start of next bull market: strategist"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: PEER_COMPANY, BioNTech, PEER_COMPANY, PEER_COMPANY and COMPANY_X"
+    },
+    "tweet3": {
+      "content": "2 Recession-Proof Healthcare Stocks to Buy for YEAR_X"
+    },
+    "tweet4": {
+      "content": "5 Reasons Chasing PRODUCT_VACCINE Stocks Is a Bad Idea"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Dow Sinks As McConnell Digs In On Stimulus; This Warren Buffett Stock Breaks Out"
+    },
+    "tweet2": {
+      "content": "Psychedelic Drug IPO Explains Why It's Cautious On Oregon's Legalization"
+    },
+    "tweet3": {
+      "content": "COMPANY_X (COMPANY_X) Down 0.2% Since Last Earnings Report: Can It Rebound?"
+    },
+    "tweet4": {
+      "content": "Psychedelic Drug IPO Reports Wider Losses But Holds View On Key Data"
+    },
+    "tweet5": {
+      "content": "Covid Explosion in Denmark’s Mink Is Danger Sign for Vaccines"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "The challenges African countries face to get hold of the PRODUCT_VACCINE"
+    },
+    "tweet2": {
+      "content": "Price Over Earnings Overview: COMPANY_X"
+    },
+    "tweet3": {
+      "content": "Pharma Stock Roundup: PFE Coronavirus Data, FDA Emergency Tag for LLY COVID-19 Drug"
+    },
+    "tweet4": {
+      "content": "COMPANY_X (COMPANY_X) Seeks Label Expansion of PRODUCT_PHARMACEUTICAL Faspro Combination"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Oil Continues Up on Latest Vaccines Positivity"
+    },
+    "tweet2": {
+      "content": "‘I can’t imagine this is a long-term moneymaker:’ Desk strategist on vaccine profit for pharmaceutical companies"
+    },
+    "tweet3": {
+      "content": "15 Largest Drug Companies in the World"
+    },
+    "tweet4": {
+      "content": "Vaccine Hopes Push Markets To Frothy Levels: Stocks To Watch"
+    },
+    "tweet5": {
+      "content": "PEER_COMPANY, PEER_COMPANY’s potential Covid-19 vaccines are ‘encouraging’: Dr. Brian Garibaldi"
+    },
+    "tweet6": {
+      "content": "PEER_COMPANY CEO on PRODUCT_VACCINE effectiveness, emergency use period"
+    },
+    "tweet7": {
+      "content": "Why PEER_COMPANY’s Vaccine Win Is a Giant Leap Against Pandemics"
+    },
+    "tweet8": {
+      "content": "COMPANY_X (COMPANY_X) Expands BARDA Deal for PRODUCT_VACCINE Development"
+    },
+    "tweet9": {
+      "content": "COVID-19 – PEER_COMPANY Delivers Even More Impressive Results"
+    },
+    "tweet10": {
+      "content": "PEER_COMPANY (PFE) and the Headline Effect"
+    },
+    "tweet11": {
+      "content": "COMPANY_X Begins Two-Dose Phase 3 Trial Of PRODUCT_VACCINE"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "COMPANY_X could have data for U.S. authorization of PRODUCT_VACCINE by February - Reuters interview"
+    },
+    "tweet2": {
+      "content": "PEER_COMPANY Gets Wall Street Reappraisal After Its Positive PRODUCT_VACCINE News"
+    },
+    "tweet3": {
+      "content": "Tesla to Join S&P 500 Next Month as Largest-Ever New Member"
+    },
+    "tweet4": {
+      "content": "COMPANY_X to Address Racial and Social Injustice Through Platform that Aims to Eliminate Health Inequities for People of Color"
+    },
+    "tweet5": {
+      "content": "3 Dividend Aristocrats That Could Make You Rich"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Stocks Are on Hold. 3 Factors That Could Send Them Higher."
+    },
+    "tweet2": {
+      "content": "3 Surefire Stocks to Buy If the Market Crashes"
+    },
+    "tweet3": {
+      "content": "2 Great Dividend Stocks Whose Payouts Could Double"
+    },
+    "tweet4": {
+      "content": "Spain authorises Phase III trial of COMPANY_X PRODUCT_VACCINE"
+    },
+    "tweet5": {
+      "content": "15 Largest Biotech Companies in the World"
+    },
+    "tweet6": {
+      "content": "COMPANY_X (NYSE:COMPANY_X) Is About To Go Ex-Dividend, And It Pays A 2.7% Yield"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Alan Fournier's Top 5 Trades of the 3rd Quarter"
+    },
+    "tweet2": {
+      "content": "COVID-19 is ‘very real,’ not a hoax: ER Doctor"
+    },
+    "tweet3": {
+      "content": "It’s ‘extremely urgent’ Congress passes another stimulus bill to help hospitals: CEO"
+    },
+    "tweet4": {
+      "content": "Vaccines Fight Covid, But Can They Stop the Spread?"
+    },
+    "tweet5": {
+      "content": "PRODUCT_VACCINE Update – The Numbers are Impressive but the Markets Need More"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "U.S. sees spike in daily COVID-19 cases, hospitalizations surge"
+    },
+    "tweet2": {
+      "content": "7 Hot Stocks to Buy Before YEAR_X Ushers in Change"
+    },
+    "tweet3": {
+      "content": "PEER_COMPANY, PEER_COMPANY having similar efficacies is ‘quite encouraging’: Doctor on vaccine progress"
+    },
+    "tweet4": {
+      "content": "WHO advises against using Remdesivir to treat COVID-19"
+    },
+    "tweet5": {
+      "content": "COMPANY_X ordered to pay $120 million damages in New York baby powder case"
+    },
+    "tweet6": {
+      "content": "Is COMPANY_X (COMPANY_X) a Suitable Pick for Value Investors?"
+    },
+    "tweet7": {
+      "content": "Pharma Stock Roundup: PFE PRODUCT_VACCINE Final Analysis, FDA Updates & More"
+    },
+    "tweet8": {
+      "content": "PEER_COMPANY and partner BioNTech to seek emergency-use authorization for PRODUCT_VACCINE Friday"
+    },
+    "tweet9": {
+      "content": "Here's the Coronavirus Vaccine Maker That's Most Likely to Blow Past PEER_COMPANY and PEER_COMPANY"
+    },
+    "tweet10": {
+      "content": "Coronavirus update: PEER_COMPANY/BioNTech file for emergency vaccine use as WHO hits PEER_COMPANY's remdesivir"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Psychedelic Drug Stock's Biggest Investor Closes $125 Million Funding Round"
+    },
+    "tweet2": {
+      "content": "3 Dividend Stocks to Buy on Sale"
+    },
+    "tweet3": {
+      "content": "Coronavirus update: FDA OKs PEER_COMPANY antibody EUA; PEER_COMPANY shows positive vaccine results"
+    },
+    "tweet4": {
+      "content": "PEER_COMPANY vaccine is ‘highly suitable for people in the U.S. & Europe’: PEER_COMPANY exec"
+    },
+    "tweet5": {
+      "content": "10 Best Selling Products Online in YEAR_X"
+    },
+    "tweet6": {
+      "content": "Q&A: Where are we in the PRODUCT_VACCINE race?"
+    },
+    "tweet7": {
+      "content": "Bill Gates Says PEER_COMPANY, COMPANY_X, Novavax COVID-19 Vaccines All Likely To Prove 'Very Efficacious And Safe' By February"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "PEER_COMPANY Sales Hit Hardest by Pandemic"
+    },
+    "tweet2": {
+      "content": "PEER_COMPANY Set to Sell 160 Million Coronavirus Vaccine Doses to EU"
+    },
+    "tweet3": {
+      "content": "'Reflationary trends' are going to continue into YEAR_X: Research Affiliates"
+    },
+    "tweet4": {
+      "content": "EU strikes deal with PEER_COMPANY to supply up to 160 million COVID vaccine shots"
+    },
+    "tweet5": {
+      "content": "Pennant Investors Exits COMPANY_X, Cuts Amazon"
+    },
+    "tweet6": {
+      "content": "How Does PEER_COMPANY's PRODUCT_VACCINE Data Compare to Others'?"
+    },
+    "tweet7": {
+      "content": "Coronavirus vaccine: PEER_COMPANY could expand US trial to pursue 90% efficacious vaccine"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Overlook Novavax at the Risk of Incurring an Opportunity Cost"
+    },
+    "tweet2": {
+      "content": "COVID-19 is the ‘silent pandemic’, this surge is not like last spring: Robert Redfield"
+    },
+    "tweet3": {
+      "content": "3 Stocks to Help You Build Retirement Wealth"
+    },
+    "tweet4": {
+      "content": "What Does COMPANY_X's Debt Look Like?"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Peru secures 23.1 million future coronavirus vaccine doses from PEER_COMPANY, COVAX"
+    },
+    "tweet2": {
+      "content": "Stock market news live updates: Wall Street notches slim gains; Nasdaq, S&P 500 set new records"
+    },
+    "tweet3": {
+      "content": "Here's How Much Investing $1,000 In Major Coronavirus Vaccine Developers Before Their Announcements Would Fetch"
+    },
+    "tweet4": {
+      "content": "Should iShares Russell Top 200 Value ETF (IWX) Be on Your Investing Radar?"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "U.S. coronavirus cases pass 4 million in the month of November"
+    },
+    "tweet2": {
+      "content": "Is COMPANY_X (COMPANY_X) A Good Stock To Buy?"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "Activist Shareholders Press PEER_COMPANY, COMPANY_X, and Other Pharma Companies on Covid Vaccine Price and Access"
+    },
+    "tweet2": {
+      "content": "Want to Invest in Coronavirus Vaccines? Consider This First"
+    },
+    "tweet3": {
+      "content": "New Advances in Treating Difficult Blood Cancers From COMPANY_X and Others"
+    },
+    "tweet4": {
+      "content": "I’ve already been injected with a COVID vaccine. This is why I’m cheering for the Novavax underdog"
+    },
+    "tweet5": {
+      "content": "Cramer Weighs In On Peloton, COMPANY_X And More"
+    },
+    "tweet6": {
+      "content": "PEER_COMPANY (MRNA) Seeks Nod for Emergency Use of PRODUCT_VACCINE"
+    },
+    "tweet7": {
+      "content": "PEER_COMPANY (AZN) Forxiga Approved in Japan for Heart Failure"
+    },
+    "tweet8": {
+      "content": "New Survey Finds Critical Need for Education on Cataracts and Modern Treatment Options"
+    },
+    "tweet9": {
+      "content": "Here's Why COMPANY_X Is Still in the Coronavirus Vaccine Race"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "Coronavirus update: OWS official says '100% no interference with the FDA'"
+    },
+    "tweet2": {
+      "content": "These Covid-19 Vaccines Are Safe, Right?"
+    },
+    "tweet3": {
+      "content": "North Korea-linked hackers targeted COMPANY_X, Novavax in hunt for COVID research"
+    },
+    "tweet4": {
+      "content": "Why We Need All 5 of These Coronavirus Vaccine Companies to End the Pandemic"
+    },
+    "tweet5": {
+      "content": "Should iShares Morningstar LargeCap Value ETF (JKF) Be on Your Investing Radar?"
+    },
+    "tweet6": {
+      "content": "As U.K. is first to approve a COVID vaccine, this is why I volunteered for the Novavax trial"
+    },
+    "tweet7": {
+      "content": "COVID Vaccine Stocks Update: Where Things Stand Now"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Gains As Market Dips: What You Should Know"
+    },
+    "tweet2": {
+      "content": "PEER_COMPANY And PEER_COMPANY Face Their Biggest Challenge: Vaccinating The World"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Names Dr. Nadja West, retired United States Army lieutenant general and former United States Army Surgeon General to its Board of Directors"
+    },
+    "tweet4": {
+      "content": "Top Research Reports for Apple, Berkshire Hathaway & COMPANY_X"
+    },
+    "tweet5": {
+      "content": "This is why I volunteered for the Novavax PRODUCT_VACCINE trial, and am still cheering for the underdog"
+    },
+    "tweet6": {
+      "content": "Trump gets measured praise and criticism as COVID-19 vaccines sprint to finish line"
+    },
+    "tweet7": {
+      "content": "COMPANY_X (COMPANY_X) Acquires Rights for Hemera Biosciences' Gene Therapy"
+    },
+    "tweet8": {
+      "content": "PEER_COMPANY (ABBV) Signs New Cancer/Immunology Deal With Frontier"
+    },
+    "tweet9": {
+      "content": "South Korea Inks PRODUCT_VACCINE Deal With PEER_COMPANY: Reuters"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "The biggest challenges facing vaccine distribution"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Apple, Berkshire Hathaway, COMPANY_X, Lockheed Martin and PNC Financial Services Group"
+    },
+    "tweet3": {
+      "content": "A Trio of Stock Picks for a 'Buy and Hold' Approach"
+    },
+    "tweet4": {
+      "content": "COMPANY_X (COMPANY_X) Files BLA for Lung Cancer Candidate Amivantamab"
+    },
+    "tweet5": {
+      "content": "Pharma Stock Roundup: Approval of PFE/BNTX Coronavirus Vaccine in UK, Other Updates"
+    },
+    "tweet6": {
+      "content": "Best Bet in a Down Year: The Dividend Aristocrats"
+    },
+    "tweet7": {
+      "content": "3 COVID Vaccine Stocks to Invest in for the Long Run"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "People who get injured from COVID-19 vaccines could have a hard time getting compensated"
+    },
+    "tweet2": {
+      "content": "Fate Stock Soars After Novel Natural-Killer Treatment for Cancers Makes a Splash"
+    },
+    "tweet3": {
+      "content": "Race for Multiple Myeloma Drugs Not Moving Stocks — Yet"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "GLOBAL MARKETS-Stocks rise after upbeat vaccine news; sterling slips"
+    },
+    "tweet2": {
+      "content": "US STOCKS-Wall Street closes higher on vaccine lift; S&P 500, Nasdaq at records"
+    },
+    "tweet3": {
+      "content": "US STOCKS-Wall St closes higher on vaccine lift"
+    },
+    "tweet4": {
+      "content": "US STOCKS-Vaccine boost helps send Wall Street to record"
+    },
+    "tweet5": {
+      "content": "GLOBAL MARKETS-Stocks edge up following upbeat vaccine news; sterling dips"
+    },
+    "tweet6": {
+      "content": "US STOCKS-Nasdaq touches record high; Dow, S&P 500 lifted by COMPANY_X"
+    },
+    "tweet7": {
+      "content": "Dow Jones Leads As Nasdaq Struggles, Tesla Stock Slides On This Move"
+    },
+    "tweet8": {
+      "content": "US STOCKS-Wall St slips on rising coronavirus cases, Tesla drags Nasdaq lower"
+    },
+    "tweet9": {
+      "content": "3 COVID Stocks Not To Neglect"
+    },
+    "tweet10": {
+      "content": "P/E Ratio Insights for COMPANY_X"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Gains As Market Dips: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Markets Book Profits as Vaccine Rally Stalls; DASH Jumps 86% on IPO"
+    },
+    "tweet3": {
+      "content": "Nasdaq Hit Hard After A 1,785-Point Run Since Oct. 30; Will These Top Stocks Break Out?"
+    },
+    "tweet4": {
+      "content": "Former Allergan CEO: PEER_COMPANY's $19.50 PRODUCT_VACCINE dose price 'is a pretty good bargain'"
+    },
+    "tweet5": {
+      "content": "10 Dividend Stocks Warren Buffett Likes the Most"
+    },
+    "tweet6": {
+      "content": "Heading into Christmas 'we’ll see a spike on top of a spike': Doctor on COVID spread"
+    },
+    "tweet7": {
+      "content": "PEER_COMPANY Will Succeed, but Its Stock Already Reflects That, Says Needham"
+    },
+    "tweet8": {
+      "content": "IPO Market Set to Thrive in December"
+    },
+    "tweet9": {
+      "content": "2 Robinhood Stocks That Can Survive Another Market Crash"
+    },
+    "tweet10": {
+      "content": "Curis (CRIS) Skyrockets on Promising Phase I Pipeline Updates"
+    },
+    "tweet11": {
+      "content": "US STOCKS-S&P 500 set for record open on vaccine, stimulus bets"
+    },
+    "tweet12": {
+      "content": "New Investor? Here Are 3 Great Starter Stocks"
+    },
+    "tweet13": {
+      "content": "Is COMPANY_X a Great Dividend Stock?"
+    },
+    "tweet14": {
+      "content": "After PEER_COMPANY and PEER_COMPANY, Which Vaccine Makers May Cross the Finish Line Next?"
+    },
+    "tweet15": {
+      "content": "Corporate America will truly be addressing racial justice when it ‘costs something’: Michael Eric Dyson"
+    },
+    "tweet16": {
+      "content": "Mexico says could order 22 mln more vaccine doses from COMPANY_X"
+    },
+    "tweet17": {
+      "content": "COMPANY_X Expects Vaccine Trial Results in January"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "Becton Dickinson Expects Covid Testing Sales to Hit $1.5 Billion"
+    },
+    "tweet2": {
+      "content": "PEER_COMPANY, BioNTech Nab FDA Panel Recommendation For Covid Vaccine"
+    },
+    "tweet3": {
+      "content": "FDA Committee Nears Key Vote On PEER_COMPANY, BioNTech's Covid Vaccine"
+    },
+    "tweet4": {
+      "content": "FDA Committee Takes Up PEER_COMPANY, BioNTech Coronavirus Vaccine"
+    },
+    "tweet5": {
+      "content": "Melinda Gates: Half the U.S. could be vaccinated by mid-YEAR_X"
+    },
+    "tweet6": {
+      "content": "Melinda Gates: We have a moral responsibility to make sure everybody gets PRODUCT_VACCINE"
+    },
+    "tweet7": {
+      "content": "This Magic Mushroom Stock Is Worth Your Money Right Now"
+    },
+    "tweet8": {
+      "content": "PEER_COMPANY Stock Faces Its Next Big Covid Challenge: An FDA Committee"
+    },
+    "tweet9": {
+      "content": "Forget PEER_COMPANY! These 2 Stocks May be the Biggest Winners of the Vaccine Race"
+    },
+    "tweet10": {
+      "content": "Oklahoma seeks $9.3 billion from COMPANY_X over opioid crisis"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "Government Asks PEER_COMPANY for More Covid-19 Shots"
+    },
+    "tweet2": {
+      "content": "PEER_COMPANY, Biontech vaccine could rollout in U.S. next week"
+    },
+    "tweet3": {
+      "content": "Dow Jones Turns Higher; Did Disney Stock Offer An Extra Buy Point?"
+    },
+    "tweet4": {
+      "content": "Morning Bell With Jim Cramer: Tesla Can Go Higher"
+    },
+    "tweet5": {
+      "content": "This COVID Vaccine Stock Is the Safest Bet of All"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "How one influential billionaire thinks Trump messed up the COVID-19 response"
+    },
+    "tweet2": {
+      "content": "Should the U.S. Have Bought More Doses of PEER_COMPANY's COVID Vaccine?"
+    },
+    "tweet3": {
+      "content": "PEER_COMPANY’s $39 Billion Takeout of Alexion Wins Tepid Wall Street Approval"
+    },
+    "tweet4": {
+      "content": "Unusual Options Activity Insight: COMPANY_X"
+    },
+    "tweet5": {
+      "content": "Coronavirus update: First PEER_COMPANY vaccine shots, U.K. to start human challenge trials"
+    },
+    "tweet6": {
+      "content": "PRODUCT_VACCINE Race Heats Up as PEER_COMPANY Gets Emergency Nod"
+    },
+    "tweet7": {
+      "content": "The Biggest Advantage and Drawback of the Most Promising Coronavirus Vaccines"
+    },
+    "tweet8": {
+      "content": "The Global Energy Association: Ten key ideas in energy"
+    },
+    "tweet9": {
+      "content": "COMPANY_X (NYSE:COMPANY_X) Shares Could Be 37% Below Their Intrinsic Value Estimate"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "COMPANY_X -- Moody's announces completion of a periodic review of ratings of COMPANY_X"
+    },
+    "tweet2": {
+      "content": "20 Biggest Healthcare Companies By Revenue"
+    },
+    "tweet3": {
+      "content": "Spain's Reig Jofre to manufacture COMPANY_X's PRODUCT_VACCINE in Barcelona"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "Here's Why These 5 Vaccine Companies May End the Pandemic"
+    },
+    "tweet2": {
+      "content": "Which COVID Vaccine Stocks Should You Buy Right Now?"
+    },
+    "tweet3": {
+      "content": "Google, Facebook Had Illegal Deal to Rig Ad Market, Texas Says"
+    },
+    "tweet4": {
+      "content": "Here's How Much Each Coronavirus Vaccine Will Cost"
+    },
+    "tweet5": {
+      "content": "Wall Street Readies for Medical Device M&A Wave After Quiet Year"
+    },
+    "tweet6": {
+      "content": "10 Best Large-Cap Stocks To Buy According to Ray Dalio"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "Stock Market Today: With Eyes Only for Stimulus, Investors Keep Buying"
+    },
+    "tweet2": {
+      "content": "A new coalition takes on social justice in medicine"
+    },
+    "tweet3": {
+      "content": "Here's What You Need to Know Before Buying Coronavirus Vaccine Stocks"
+    },
+    "tweet4": {
+      "content": "Protagonist (PTGX) Begins Dosing in Phase I Study With PN-235"
+    },
+    "tweet5": {
+      "content": "First Time Buying Stocks? These 2 Stocks Are Perfect for New Investors"
+    },
+    "tweet6": {
+      "content": "Why Is Everyone Talking About COMPANY_X Stock?"
+    },
+    "tweet7": {
+      "content": "How Many Different Covid-19 Vaccines Do We Need?"
+    },
+    "tweet8": {
+      "content": "EU to order more PEER_COMPANY vaccine after declining earlier offer"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Coronavirus Vaccine Candidate Study Fully Enrolled"
+    },
+    "tweet2": {
+      "content": "The 7 Best Startups You Can Buy on StartEngine Right Now"
+    },
+    "tweet3": {
+      "content": "Pharma Stock Roundup: FDA Emergency Nod to PFE/BNTX PRODUCT_VACCINE, AZN to Buy ALXN"
+    },
+    "tweet4": {
+      "content": "Who Will Be The Kingpin Of Covid Vaccines? It Might Not Be PEER_COMPANY"
+    },
+    "tweet5": {
+      "content": "COMPANY_X's Late-Stage Trial Of Single Dose PRODUCT_VACCINE Fully Enrolled"
+    },
+    "tweet6": {
+      "content": "COMPANY_X says late-stage PRODUCT_VACCINE trial fully enrolled"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "What Went Wrong With the PRODUCT_VACCINE Trials"
+    },
+    "tweet2": {
+      "content": "INSIGHT- Inside COMPANY_X's Latam COVID vaccine trial, a rush to recruit is followed by disappointment"
+    },
+    "tweet3": {
+      "content": "What it was like to volunteer for the COMPANY_X vaccine trial in Chile"
+    },
+    "tweet4": {
+      "content": "PEER_COMPANY's ViiV Healthcare Bags EU Marketing Authorization For Long-Acting HIV Treatment"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Stock Moves -0.2%: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Walmart Stock Falls As Justice Department Sues Over Opioid Crisis"
+    },
+    "tweet3": {
+      "content": "10 Best Healthcare Dividend Stocks"
+    },
+    "tweet4": {
+      "content": "COMPANY_X (COMPANY_X) Begins Rolling BLA Filing of Multiple Myeloma Drug"
+    },
+    "tweet5": {
+      "content": "How Worrisome Is This U.K. Virus Variant?"
+    },
+    "tweet6": {
+      "content": "Is PEER_COMPANY's COVID Vaccine Growth Story Already Over?"
+    },
+    "tweet7": {
+      "content": "4 Popular Robinhood Stocks That May Lose 50% (or More) in YEAR_X"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "The 12 Best Stocks to Buy for a Whole New Year of Returns in YEAR_X"
+    },
+    "tweet2": {
+      "content": "BioCryst (BCRX) Provides Updates on Galidesivir, Shares Fall"
+    },
+    "tweet3": {
+      "content": "Coronavirus Stimulus Checks: Top Stocks To Buy Now"
+    },
+    "tweet4": {
+      "content": "Is COMPANY_X Stock a Buy?"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "Should iShares Morningstar LargeCap Value ETF (JKF) Be on Your Investing Radar?"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "PEER_COMPANY, PEER_COMPANY vaccine trials were the ‘highest of quality’: vaccine expert"
+    },
+    "tweet2": {
+      "content": "Is ISRG Stock A Buy As Investors Pin Hopes On A Coronavirus Vaccine?"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Gains As Market Dips: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Top Analyst Reports for COMPANY_X, NVIDIA & Cisco"
+    },
+    "tweet3": {
+      "content": "Germany says it needs third COVID vaccine to make inoculation universal"
+    },
+    "tweet4": {
+      "content": "Novavax (NVAX) Initiates Phase III Study on PRODUCT_VACCINE"
+    },
+    "tweet5": {
+      "content": "U.S. COVID-19 cases surpass 18 million, death toll tops 335,000"
+    },
+    "tweet6": {
+      "content": "Three More Coronavirus Vaccines Expected by Early YEAR_X"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "Astra’s PRODUCT_VACCINE Won Approval, But How Good Is It?"
+    },
+    "tweet2": {
+      "content": "New COVID-19 variant first found in UK arrives in U.S."
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: COMPANY_X, NVIDIA, Cisco, PEER_COMPANY and Sony"
+    },
+    "tweet4": {
+      "content": "ROCE Insights For COMPANY_X"
+    },
+    "tweet5": {
+      "content": "3 Stocks for a Better Retirement"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "Why PEER_COMPANY is the Cheapest Coronavirus Vaccine Play"
+    },
+    "tweet2": {
+      "content": "No More Tears: COMPANY_X Breaks Out"
+    },
+    "tweet3": {
+      "content": "Why YEAR_X Offers New Hope"
+    },
+    "tweet4": {
+      "content": "How to Stay Ahead of a Mutating Virus"
+    },
+    "tweet5": {
+      "content": "Colombia reaches deal with COMPANY_X for 9 million vaccine doses"
+    }
+  }
+}

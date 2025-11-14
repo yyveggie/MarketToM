@@ -1,0 +1,871 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "Home Depot (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Why KeyBanc Prefers Lowe's, Central Garden & Pet Over Home Depot"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Dow Jones Rises as Disney Earnings Loom, Home Depot Expands Distribution Network"
+    },
+    "tweet2": {
+      "content": "Home Depot to Bring 1,000 New Jobs to Atlanta"
+    },
+    "tweet3": {
+      "content": "Home Depot Pours Cash Into Its Bulk Shipping Service"
+    },
+    "tweet4": {
+      "content": "Home Depot to open new distribution centers in Georgia, creating 1,000 new jobs"
+    },
+    "tweet5": {
+      "content": "The Home Depot Opening Three New Distribution Centers in Georgia"
+    },
+    "tweet6": {
+      "content": "The Home Depot to Host Second Quarter 2020 Earnings Conference Call on August 18"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "10 Biggest Retail Companies"
+    },
+    "tweet2": {
+      "content": "Redfin's Quarterly Update Hints That Americans Are Gearing Up for Mass Migration"
+    },
+    "tweet3": {
+      "content": "Home Improvement Spree Props E-commerce Stocks: 5 Picks"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Home Depot, Lowe’s should top sales estimates despite slowdown in July: UBS"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Tempur Sealy, Home Depot, Etsy, RH and Williams-Sonoma"
+    },
+    "tweet3": {
+      "content": "Corporate Chieftains Can Talk Less, Pay More"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Home Depot (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Home Depot, Walmart, UnitedHealth, McDonald's  and Johnson & Johnson"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Home Depot (COMPANY_X) Earnings Expected to Grow: Should You Buy?"
+    },
+    "tweet2": {
+      "content": "Home Depot, Lowe's See Share Price Targets Boosted"
+    },
+    "tweet3": {
+      "content": "Why Shares of COMPANY_X Supply Are Up Today"
+    },
+    "tweet4": {
+      "content": "Analyzing Home Depot's Unusual Options Activity"
+    },
+    "tweet5": {
+      "content": "Coronavirus quarantines made Americans want to spend on home improvement"
+    },
+    "tweet6": {
+      "content": "The Home Depot Donates a Half Million Kids Workshop Kits to Nonprofits; Offers Live-Stream and Digital Workshops"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Dow rallies 289 points on gains in Apple Inc., Microsoft shares"
+    },
+    "tweet2": {
+      "content": "Dow Jones Runs Up 270 Points As Stock Market Back In Rally Mode"
+    },
+    "tweet3": {
+      "content": "Dow Jones Runs Up 250 Points As Stock Market Back In Rally Mode"
+    },
+    "tweet4": {
+      "content": "Inflation Is Back — and the Market Rally Is Back With It"
+    },
+    "tweet5": {
+      "content": "Home Depot Earnings: 3 Things to Watch"
+    },
+    "tweet6": {
+      "content": "Microsoft, Apple Inc. share gains lead Dow's 218-point jump"
+    },
+    "tweet7": {
+      "content": "Dow up 289 points on gains for shares of Microsoft, Apple Inc."
+    },
+    "tweet8": {
+      "content": "Is Home Depot (COMPANY_X) Likely to Deliver Earnings Beat in Q2?"
+    },
+    "tweet9": {
+      "content": "If You Invested $10,000 in Home Depot Stock During the Market Crash, This Is How Much You'd Have Now"
+    },
+    "tweet10": {
+      "content": "Why a Winning Dividend Fund Likes Home Depot, Target, and Walmart"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "3 ETFs to Ride the Nesting Wave"
+    },
+    "tweet2": {
+      "content": "Top Analyst Reports for Home Depot, AbbVie & Broadcom"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "S&P 500 News: Index Falls Short of All-Time High; Stocks Mixed on Economic, Coronavirus Worries"
+    },
+    "tweet2": {
+      "content": "ESG Investors Can Beat the Market Without Apple, Amazon. Here’s How."
+    },
+    "tweet3": {
+      "content": "7 Earnings Reports to Watch Next Week"
+    },
+    "tweet4": {
+      "content": "Apple, Home Depot, Roku - Latest Upgrades and Downgrades"
+    },
+    "tweet5": {
+      "content": "Home Depot (COMPANY_X) is an Incredible Growth Stock: 3 Reasons Why"
+    },
+    "tweet6": {
+      "content": "Lowe’s Earnings: 3 Trends to Watch"
+    },
+    "tweet7": {
+      "content": "Is The Home Depot (COMPANY_X) Outperforming Other Retail-Wholesale Stocks This Year?"
+    },
+    "tweet8": {
+      "content": "The Zacks Analyst Blog Highlights: Home Depot, AbbVie, Broadcom, 3M and Morgan Stanley"
+    },
+    "tweet9": {
+      "content": "Reliable Home Depot Stock Isn’t About to Lose Its Reputation"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "Buy Soaring Lowe's Stock at New Highs Ahead of Q2 Earnings?"
+    },
+    "tweet2": {
+      "content": "US Indexes Close Mostly Higher Monday"
+    },
+    "tweet3": {
+      "content": "S&P 500 News: Buffett Sells Oil Stocks, Buys Gold Miner; GM Shares Surge on EV Spinoff Idea"
+    },
+    "tweet4": {
+      "content": "GLOBAL MARKETS-Equities edge higher, bonds stable after Chinese stocks rally"
+    },
+    "tweet5": {
+      "content": "US STOCKS-Nasdaq hits record high close due to tech rally"
+    },
+    "tweet6": {
+      "content": "US STOCKS-Tech rally elevates Nasdaq to record high close"
+    },
+    "tweet7": {
+      "content": "Dow Jones Trades Down; Two Dow Retail Giants Rise Ahead Of Earnings"
+    },
+    "tweet8": {
+      "content": "US STOCKS-Tech rally elevates Nasdaq to record high"
+    },
+    "tweet9": {
+      "content": "Home Depot Reports Earnings Tomorrow. Here’s What to Expect."
+    },
+    "tweet10": {
+      "content": "How Sherwin-Williams Stock Has Gained Ground Through the Pandemic"
+    },
+    "tweet11": {
+      "content": "Home Depot and Lowe's Report This Week - Here Are the Trades"
+    },
+    "tweet12": {
+      "content": "US STOCKS-Tech stocks gain as S&P 500 flirts with record high"
+    },
+    "tweet13": {
+      "content": "GLOBAL MARKETS-Equities edge higher, bonds stable after Chinese stocks rally"
+    },
+    "tweet14": {
+      "content": "Lowe’s steals Home Depot’s crown during the pandemic, card transactions show"
+    },
+    "tweet15": {
+      "content": "Dow Jones Loses Ground Ahead of Home Depot Earnings; Disney Expands Verizon Streaming Partnership"
+    },
+    "tweet16": {
+      "content": "Nasdaq Hits Record, S&P 500 Inches Closer as Dow Falls"
+    },
+    "tweet17": {
+      "content": "Heavy Foot Traffic Bodes Well for Home Depot (COMPANY_X) Quarter"
+    },
+    "tweet18": {
+      "content": "US STOCKS-S&P 500, Nasdaq propped up by tech stocks; retail earnings awaited"
+    },
+    "tweet19": {
+      "content": "A Preview Of Home Depot's Earnings"
+    },
+    "tweet20": {
+      "content": "ROCE Insights For Home Depot"
+    },
+    "tweet21": {
+      "content": "Walmart, Target, Home Depot and NVIDIA are part of Zacks Earnings Preview"
+    },
+    "tweet22": {
+      "content": "GLOBAL MARKETS-Equities edge higher, bonds stable after Chinese stocks rally"
+    },
+    "tweet23": {
+      "content": "US STOCKS-Wall St kicks off big retail earnings week on high note"
+    },
+    "tweet24": {
+      "content": "GLOBAL MARKETS-Europe limps higher after China markets jump"
+    },
+    "tweet25": {
+      "content": "If You Invested $10,000 in Target in January, This Is How Much You'd Have Now"
+    },
+    "tweet26": {
+      "content": "US STOCKS-Wall St set to kick off big retail earnings week on high note"
+    },
+    "tweet27": {
+      "content": "US STOCKS-Futures tick up ahead of big retail earnings week"
+    },
+    "tweet28": {
+      "content": "Big-Box Retail Earnings Roll In: 3 Stocks to Keep an Eye On"
+    },
+    "tweet29": {
+      "content": "7 Retail Behemoths Likely to Win Big on Q2 Earnings This Week"
+    },
+    "tweet30": {
+      "content": "GLOBAL MARKETS-Europe stuck on the ground as China markets jump"
+    },
+    "tweet31": {
+      "content": "GLOBAL MARKETS-Asia shares push ahead as China markets jump"
+    },
+    "tweet32": {
+      "content": "GLOBAL MARKETS-Asia shares move ahead led by China gains"
+    },
+    "tweet33": {
+      "content": "GLOBAL MARKETS-Asia shares pause near highs, eyes on U.S. yields"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Home Depot (COMPANY_X) Q2 2020 Earnings Call Transcript"
+    },
+    "tweet2": {
+      "content": "We're Back: S&P 500 Reaches All-Time High, Walmart, Home Depot Earnings, Oracle TikTok Play, Buffett Selling Stocks in 2020"
+    },
+    "tweet3": {
+      "content": "US Stocks Close Mostly Higher Tuesday"
+    },
+    "tweet4": {
+      "content": "Here's What Warren Buffett Is Buying and Selling"
+    },
+    "tweet5": {
+      "content": "US STOCKS-The pandemic bull market: S&P 500 closes at record high"
+    },
+    "tweet6": {
+      "content": "S&P 500 Hits Record High Amid Choppy Trade; July Housing Starts Soar"
+    },
+    "tweet7": {
+      "content": "US STOCKS-S&P 500 hits record closing high, regaining pre-COVID level"
+    },
+    "tweet8": {
+      "content": "Home Depot Tops 2nd-Quarter Earnings and Revenue Expectations"
+    },
+    "tweet9": {
+      "content": "Retail Stocks Are Falling Despite Blockbuster Profits. Why the Market Doesn’t Trust the Numbers."
+    },
+    "tweet10": {
+      "content": "US STOCKS-S&P 500 hits new intraday record, regaining pre-COVID levels"
+    },
+    "tweet11": {
+      "content": "Transactions of $1,000 or more rose 16% at Home Depot during the second quarter"
+    },
+    "tweet12": {
+      "content": "Chevron, JPMorgan Chase share losses lead the way, but Dow flat"
+    },
+    "tweet13": {
+      "content": "Cramer On Why He Expects Big Retailers To Smash Earnings Estimates"
+    },
+    "tweet14": {
+      "content": "US STOCKS-S&P 500 on track for record closing high"
+    },
+    "tweet15": {
+      "content": "S&P 500 Reaches Record High, But Many Stocks Sit Out The Celebration"
+    },
+    "tweet16": {
+      "content": "Stocks Are Scuffling, but a ‘New Bull Market Still Offers Opportunities’"
+    },
+    "tweet17": {
+      "content": "US STOCKS-S&P 500 hits record high on Amazon boost"
+    },
+    "tweet18": {
+      "content": "Home Depot Posts Double-Digit Increases in Traffic and Shopper Spending"
+    },
+    "tweet19": {
+      "content": "Dow Jones Cuts Loss, S&P 500 Hits New High As Stocks Remain Mixed"
+    },
+    "tweet20": {
+      "content": "Home Depot Sales Surge on Renovation Boom Even as Costs Rise"
+    },
+    "tweet21": {
+      "content": "Dow Jones Weak Despite Blockbuster Earnings From Home Depot and Walmart"
+    },
+    "tweet22": {
+      "content": "Wall Street Wobbles After S&P 500 Sets Record High"
+    },
+    "tweet23": {
+      "content": "U.S. Housing Starts Surge by Most Since 2016 and Permits Climb"
+    },
+    "tweet24": {
+      "content": "Dow Jones Flat, But S&P 500 Hits All-Time High; FANG Stock Gives New Buy Signal"
+    },
+    "tweet25": {
+      "content": "Tuesday's Market Minute: Walmart And Home Depot See Strong Quarters"
+    },
+    "tweet26": {
+      "content": "Walmart, Home Depot Results Impress, Providing Potential Catalyst For SPX As It Flirts with Record"
+    },
+    "tweet27": {
+      "content": "Homebuilders Accelerate New Construction as More People Look to Buy a House"
+    },
+    "tweet28": {
+      "content": "US STOCKS-S&P 500 reclaims Feb highs, then retreats"
+    },
+    "tweet29": {
+      "content": "Walmart Sends a Warning to Washington"
+    },
+    "tweet30": {
+      "content": "S&P 500 Sets Record High on Housing Strength"
+    },
+    "tweet31": {
+      "content": "Dow Jones Falls 100 Points Amid Earnings From Home Depot, Walmart; S&P 500 Hits Record High, While Amazon, Tesla Jump"
+    },
+    "tweet32": {
+      "content": "Visa, Chevron share losses lead Dow's nearly 75-point drop"
+    },
+    "tweet33": {
+      "content": "Home Depot Sales Surge 23% in the Second Quarter"
+    },
+    "tweet34": {
+      "content": "Home Depot (COMPANY_X) Q2 Earnings & Sales Top Estimates, Stock Rises"
+    },
+    "tweet35": {
+      "content": "Home Depot (COMPANY_X) Surpasses Q2 Earnings and Revenue Estimates (Revised)"
+    },
+    "tweet36": {
+      "content": "Home Depot’s Results Show Home Improvement Demand Is Still Red-Hot"
+    },
+    "tweet37": {
+      "content": "S&P 500 hits record high on Amazon boost"
+    },
+    "tweet38": {
+      "content": "Home Depot posts record sales as demand for DIY products surges"
+    },
+    "tweet39": {
+      "content": "US STOCKS-Wall St set for stronger open on Home Depot results"
+    },
+    "tweet40": {
+      "content": "Home Depot Sales Exceed Estimates As Shoppers Pile On DIY Products"
+    },
+    "tweet41": {
+      "content": "Advance Auto Parts, Home Depot Are Rising as the Dow Inches Ahead"
+    },
+    "tweet42": {
+      "content": "Home Depot and Walmart Are Stay-at-Home Winners"
+    },
+    "tweet43": {
+      "content": "Dow Jones Futures Rise On Earnings; Home Depot, Walmart Rally, While Tesla Surges 4%"
+    },
+    "tweet44": {
+      "content": "The Dow Is Rising and the S&P 500 Might Finally Close at a Record High"
+    },
+    "tweet45": {
+      "content": "Home Depot: Q2 Earnings Insights"
+    },
+    "tweet46": {
+      "content": "US STOCKS-Futures rise as Home Depot results shine; Walmart on deck"
+    },
+    "tweet47": {
+      "content": "Dow Jones Futures: Stock Market Rally Leaders Apple, Nvidia, Tesla Set Record Highs; Home Depot, Walmart Earnings On Tap"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Jim Cramer: What Does the Stock Market Forecast for the Economy?"
+    },
+    "tweet2": {
+      "content": "Stock Market Today: The Bear Is Dead; Long Live the Bull!"
+    },
+    "tweet3": {
+      "content": "BofA upgrades Home Depot, says ‘not too late to buy’"
+    },
+    "tweet4": {
+      "content": "Home Depot Declares New Dividend; Yield Is 2.1%"
+    },
+    "tweet5": {
+      "content": "Home Depot: A Monster Quarter"
+    },
+    "tweet6": {
+      "content": "Lowe's Reports Outstanding Fiscal Q2 Results as Consumers Turn to Home Improvement"
+    },
+    "tweet7": {
+      "content": "Wall Street Weighs In On Home Depot's Blowout Q2, BofA Upgrades Stock"
+    },
+    "tweet8": {
+      "content": "MARKETS: YF Premium Investment Idea: Home Depot (COMPANY_X)"
+    },
+    "tweet9": {
+      "content": "Why Is Home Depot Stock Down?"
+    },
+    "tweet10": {
+      "content": "Morning Bell With Jim Cramer: Wait to Buy Home Depot"
+    },
+    "tweet11": {
+      "content": "Lowe’s Stock Is Rising After Earnings Easily Clear the Bar. Look Out Home Depot."
+    },
+    "tweet12": {
+      "content": "US STOCKS-S&P 500 notches record high for second day after Target, Lowe's results beat"
+    },
+    "tweet13": {
+      "content": "The Stock Market Is Back to New Highs. Why the S&P 500 Still Has Room to Run."
+    },
+    "tweet14": {
+      "content": "US STOCKS-Wall St set to open higher after solid results from Lowe's, Target"
+    },
+    "tweet15": {
+      "content": "US STOCKS-Futures inch higher after solid results from Lowe's, Target"
+    },
+    "tweet16": {
+      "content": "It’s No Accident That Target Is a Covid Winner"
+    },
+    "tweet17": {
+      "content": "Target Smokes Estimates as TJX Loses More Than Expected"
+    },
+    "tweet18": {
+      "content": "Lowe's stock rallies after profit and sales rise well above expectations"
+    },
+    "tweet19": {
+      "content": "Lowe's quarterly same-store sales beat estimates"
+    },
+    "tweet20": {
+      "content": "Stocks - Wall Street Opens Mixed as Target, Lowe's Surge; Dow up 30 Pts"
+    },
+    "tweet21": {
+      "content": "Lowe’s Reports Earnings Today. Here’s What to Expect."
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Lowe's Is Outperforming Home Depot"
+    },
+    "tweet2": {
+      "content": "Consumer Goods Stocks Steam Ahead"
+    },
+    "tweet3": {
+      "content": "How These 3 Stocks Beat Wall Street Expectations"
+    },
+    "tweet4": {
+      "content": "Lowe’s targets professionals, and its main competitor Home Depot, with new services"
+    },
+    "tweet5": {
+      "content": "Zacks Market Edge Highlights: Walmart, Home Depot, Mastercard, Cisco Systems and Western Digital"
+    },
+    "tweet6": {
+      "content": "If You Like EPS Growth Then Check Out Home Depot (NYSE:COMPANY_X) Before It's Too Late"
+    },
+    "tweet7": {
+      "content": "Home Depot vs Lowe’s: Which Stock Looks Stronger After A Stellar Q2?"
+    },
+    "tweet8": {
+      "content": "Sometimes, the stock market makes a lot of sense: Morning Brief"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Housing Numbers Rise, and Lowe’s and Home Depot Stock Follow"
+    },
+    "tweet2": {
+      "content": "Is $20 in the Cards for Plug Power Stock?"
+    },
+    "tweet3": {
+      "content": "'A really tough spot' for employees: How companies are enforcing mask compliance"
+    },
+    "tweet4": {
+      "content": "Why Home Depot Stopped Buying Back Its Stock"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "3 Ways Lowe's Topped Home Depot This Quarter"
+    },
+    "tweet2": {
+      "content": "Retail Stock Darlings Are on Borrowed Time"
+    },
+    "tweet3": {
+      "content": "How Home Depot (COMPANY_X) Stock Stands Out in a Strong Industry"
+    },
+    "tweet4": {
+      "content": "RPT-BUZZ-U.S. stocks weekly: New bull in town"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "The Home Depot Mobilizes to Support Communities Facing Hurricane Laura"
+    },
+    "tweet2": {
+      "content": "COVID-19-related consumer needs are turning Best Buy into an essential retailer, analysts say"
+    },
+    "tweet3": {
+      "content": "3 simple reasons behind America's housing boom"
+    },
+    "tweet4": {
+      "content": "Why Best Buy’s Pandemic Bounce Fell Short of Target’s"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Jim Cramer: More and More Retailers Are Worth Owning"
+    },
+    "tweet2": {
+      "content": "Home Depot, Walt Disney share gains contribute to Dow's nearly 75-point climb"
+    },
+    "tweet3": {
+      "content": "How Tool Rentals Could Become a Big Business at Lowe’s"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Why Overstock.com Sank 12% Today"
+    },
+    "tweet2": {
+      "content": "Home Depot, Lowe's and Tractor Supply among the retailers getting a bump in demand from hurricane season"
+    },
+    "tweet3": {
+      "content": "Dollar Stores Report Strong Second Quarter Earnings"
+    },
+    "tweet4": {
+      "content": "Lowe's Expanded Tool Rental Business Isn't Really About Tool Rentals"
+    },
+    "tweet5": {
+      "content": "The Home Depot to Present at Goldman Sachs 27th Annual Global Retailing Virtual Conference"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "The Home Depot, Inc. (COMPANY_X): Hedge Funds Taking Some Chips Off The Table"
+    },
+    "tweet2": {
+      "content": "The Home Depot Foundation Increases Disaster Response Commitment to $4 Million to Further Assist Communities Impacted by Hurricane Laura"
+    },
+    "tweet3": {
+      "content": "3 Stocks to Build Your Portfolio Around"
+    },
+    "tweet4": {
+      "content": "Home Depot (NYSE:COMPANY_X) Could Be A Buy For Its Upcoming Dividend"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Bill Ackman Thinks His Portfolio Is Well Positioned"
+    },
+    "tweet2": {
+      "content": "Our Weird Pandemic Spending Ways Could Change Soon"
+    },
+    "tweet3": {
+      "content": "If You're Retired, Consider Buying These 3 Stocks"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Home Depot: The Home Improvement Space Is as Solid as Ever"
+    },
+    "tweet2": {
+      "content": "Lowe's Is One of the Biggest Winners of 2020"
+    },
+    "tweet3": {
+      "content": "Amazon Drivers Are Hanging Smartphones in Trees to Get More Work"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Forget Penny Stocks, 3 Better Stocks to Buy in September"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Apple Inc., Microsoft share losses contribute to Dow's nearly 925-point fall"
+    },
+    "tweet2": {
+      "content": "Dow falls 832 points on losses in Apple Inc., Salesforce.com Inc. stocks"
+    },
+    "tweet3": {
+      "content": "Dow's nearly 725-point fall led by losses for shares of Apple Inc., Salesforce.com Inc."
+    },
+    "tweet4": {
+      "content": "Dow's 550-point drop led by losses in shares of Apple Inc., Salesforce.com Inc."
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Salesforce.com Inc., Microsoft share losses lead Dow's 225-point drop"
+    },
+    "tweet2": {
+      "content": "Why Lowe's Stock Rose 11% in August"
+    },
+    "tweet3": {
+      "content": "Don’t Sweat the Sell-Off, Buy the Post-Earnings Dip in At Home Stock"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "There Is No Alternative"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "RH Stock Jumps After Earnings. Everyone’s Still Spending on Their Homes."
+    },
+    "tweet2": {
+      "content": "Microsoft, Salesforce.com Inc. share gains lead Dow's 513-point rally"
+    },
+    "tweet3": {
+      "content": "Masco Corporation -- Moody's assigns Baa3 to Masco's senior unsecured notes"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Black Friday shopping like we all know it is officially over because of COVID-19"
+    },
+    "tweet2": {
+      "content": "LVMH cancels deal with Tiffany, this analyst explains why the luxury jewelry brand will survive"
+    },
+    "tweet3": {
+      "content": "Better Buy: Disney vs. Home Depot"
+    },
+    "tweet4": {
+      "content": "Restoration Hardware Stock Pops After Strong Earnings and an Upgrade"
+    },
+    "tweet5": {
+      "content": "Lowe's and Home Depot Crushed Earnings: Can They Keep It Up Long-Term?"
+    },
+    "tweet6": {
+      "content": "The Home Depot Expands Livestream Workshop Offerings with Hurricane & Storm Preparedness Class Starting September 14"
+    },
+    "tweet7": {
+      "content": "Restoration Hardware Up as Brand Turns Luxe, Strength Ahead"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "US STOCKS-Dow ends higher but Wall Street posts 2nd straight weekly drop on tech slide"
+    },
+    "tweet2": {
+      "content": "Where Will Home Depot Be in 5 Years?"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Costco, Home Depot decline Trump's payroll tax deferral plan: WSJ"
+    },
+    "tweet2": {
+      "content": "Morning Bell With Jim Cramer: Tesla Battery Day Expectations"
+    },
+    "tweet3": {
+      "content": "Weekly Stock List"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "3 Stocks to Buy Now for Growth & Dividends to Counter Low Bond Yields"
+    },
+    "tweet2": {
+      "content": "Market Recap: Tuesday, September 15"
+    },
+    "tweet3": {
+      "content": "Top Stock Picks for Week of September 14, 2020"
+    },
+    "tweet4": {
+      "content": "Dow flat in spite of gains in Dow Inc., Home Depot stocks"
+    },
+    "tweet5": {
+      "content": "Home Depot co-founder and Atlanta Falcons owner's best advice for New York Mets owner Steve Cohen"
+    },
+    "tweet6": {
+      "content": "Dow's 100-point jump highlighted by gains for shares of Dow Inc., Intel"
+    },
+    "tweet7": {
+      "content": "Arthur Blank on his new book 'Good Company,' bringing fans back to the Mercedes-Benz stadium this NFL season"
+    },
+    "tweet8": {
+      "content": "America's wealthy likely to power pandemic-hit U.S. holiday sales - Deloitte"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Why Halloween May Not Come for Party City"
+    },
+    "tweet2": {
+      "content": "Better Buy: Costco vs. Lowe's"
+    },
+    "tweet3": {
+      "content": "The Dow Jones' 5 Most Important Stocks"
+    },
+    "tweet4": {
+      "content": "The Argus Dividend Growth Portfolio"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Why Is Home Depot (COMPANY_X) Down 0.4% Since Last Earnings Report?"
+    },
+    "tweet2": {
+      "content": "Zacks Market Edge Highlights: Lennar, Toll Brothers, D.R. Horton and Home Depot"
+    },
+    "tweet3": {
+      "content": "Is Home Depot (COMPANY_X) Benefiting From the Stay-at-Home Trend?"
+    },
+    "tweet4": {
+      "content": "RH, Edgewell Personal Care, Home Depot, AbbVie and QUALCOMM highlighted as Zacks Bull and Bear of the Day"
+    },
+    "tweet5": {
+      "content": "Investors Are Nailing Down Big Gains From This Unlikely Place"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Lowe's Initiative for Small Businesses"
+    },
+    "tweet2": {
+      "content": "'Halftime Report' Traders Discuss Oppenheimer's Downgrade Of Home Depot And Lowe's"
+    },
+    "tweet3": {
+      "content": "Oppenheimer downgrades Home Depot, Lowe’s on a ‘post-pandemic reset’ in home improvement retail"
+    },
+    "tweet4": {
+      "content": "Dow down nearly 250 points on losses for shares of Boeing, Apple Inc."
+    },
+    "tweet5": {
+      "content": "Boeing, Apple Inc. share losses lead Dow's 325-point drop"
+    },
+    "tweet6": {
+      "content": "Dow Jones Sinks as Analyst Warns on Apple and Microsoft Valuations; Home Depot Stock Slumps on Slowdown Fears"
+    },
+    "tweet7": {
+      "content": "Apple Inc., Microsoft share losses contribute to Dow's 217-point fall"
+    },
+    "tweet8": {
+      "content": "5 Cyclical Companies Trading With Low Price-Sales Ratios"
+    },
+    "tweet9": {
+      "content": "Home Depot, Lowe's Shares Ease After Oppenheimer Downgrade"
+    },
+    "tweet10": {
+      "content": "Apple Inc., Cisco share losses lead the way, but Dow flat"
+    },
+    "tweet11": {
+      "content": "I Think It's Okay to Be Long Home Depot Here"
+    },
+    "tweet12": {
+      "content": "Walgreens Boots, Chevron share losses lead Dow's nearly 100-point fall"
+    },
+    "tweet13": {
+      "content": "2 Top-Notch Dividend Stocks With Fast-Growing Payouts to Buy"
+    },
+    "tweet14": {
+      "content": "Market Update: HAIN, COMPANY_X, LB"
+    },
+    "tweet15": {
+      "content": "Analyst Report: Home Depot, Inc."
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "How Is Home Depot's (NYSE:COMPANY_X) CEO Paid Relative To Peers?"
+    },
+    "tweet2": {
+      "content": "Can Home Depot and Lowe’s Stock Continue Rallying?"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "'It's very important that we get the consumer going again': Portfolio Manager"
+    },
+    "tweet2": {
+      "content": "Amazon Leads Overall and Retail Category in 2020 Loyalty Leaders List"
+    },
+    "tweet3": {
+      "content": "The market may have peaked so ‘head for the multiasset hills’ and buy these stocks, says fund manager"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Lowe’s Stock Can Keep Rallying Because People Will Be Spending More Time at Home for Longer"
+    },
+    "tweet2": {
+      "content": "IBD 50 Stock Crafts Buy Point With NFL, 'Shark Tank' Deals"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Home Depot (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Dow Jones Volatile on Elevated Unemployment Claims; Nike, Home Depot, and Goldman Sachs Talked Up by Analysts"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Some 3,500 U.S. companies sue over Trump-imposed Chinese tariffs"
+    },
+    "tweet2": {
+      "content": "5 Cyclical Companies Outperforming the S&P 500"
+    },
+    "tweet3": {
+      "content": "You Can Beat The Market Without Owning FAANG Stocks"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "How to Spot Opportunities in the Auto Sector"
+    },
+    "tweet2": {
+      "content": "Analyst Report: The Home Depot, Inc."
+    },
+    "tweet3": {
+      "content": "How COVID Has Impacted Unemployment in the U.S."
+    },
+    "tweet4": {
+      "content": "Will a Housing Market Crash Affect Home Depot Stock?"
+    },
+    "tweet5": {
+      "content": "Will a Housing Market Crash Affect Home Depot Stock?"
+    },
+    "tweet6": {
+      "content": "The 10 Best Mutual Funds for Your 401k"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "2 Coronavirus-Proof Stocks on the Dow Jones Index"
+    },
+    "tweet2": {
+      "content": "2 Coronavirus-Proof Stocks on the Dow Jones Index"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "Lowe's Is One Dividend Aristocrat That Can Survive a Second Market Crash"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

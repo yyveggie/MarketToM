@@ -1,0 +1,757 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "Better Buy: AT&COMPANY_X vs. Apple"
+    },
+    "tweet2": {
+      "content": "AT&COMPANY_X Inc. Announces Expiration of Its Any and All Tender Offers and Upsize of Its Capped Tender Offers"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "INVESTOR ALERT: Scott+Scott Attorneys at Law LLP Investigates AT&COMPANY_X, Inc.'s Directors and Officers for Breach of Fiduciary Duties - ATT"
+    },
+    "tweet2": {
+      "content": "Five9 Inc (FIVN) Q2 2020 Earnings Call Transcript"
+    },
+    "tweet3": {
+      "content": "AT&COMPANY_X to Webcast Talk with John Stephens at Oppenheimer Virtual Technology, Internet & Communications Conference on August 11"
+    },
+    "tweet4": {
+      "content": "Rudolph and Sletten Awarded $399 Million in Public Education Projects"
+    },
+    "tweet5": {
+      "content": "AT&COMPANY_X Survey Shows 70% of Large Businesses Believe Remote Working Makes Them More Vulnerable to Cyberattacks"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Beyoncé's 'Black Is King' attracts less than 4% of Disney+ users on debut weekend: Data"
+    },
+    "tweet2": {
+      "content": "Tutor Perini Corporation -- Moody's changes Tutor Perini's outlook to stable, assigns Ba3 rating to proposed credit facilities"
+    },
+    "tweet3": {
+      "content": "Charter Reports Surprise Gain in Video Subscribers"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "COMPANY_X-Mobile Posts Huge Subscriber Gain in Its First Quarter With Sprint"
+    },
+    "tweet2": {
+      "content": "COMPANY_X-Mobile shares rally after claim of No. 2 phone spot over AT&COMPANY_X"
+    },
+    "tweet3": {
+      "content": "Streaming Video Platform Roku Says Holdouts Are Missing Out On Its Growth"
+    },
+    "tweet4": {
+      "content": "Biden Wants Corporations to Pay Their Fair Share of Taxes. These Sectors Would be Hit Hardest."
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "COMPANY_X-Mobile Stock Pops On Earnings, Updated Outlook On Sprint Merger"
+    },
+    "tweet2": {
+      "content": "US STOCKS-Slowing job growth, stimulus worries weigh on Nasdaq"
+    },
+    "tweet3": {
+      "content": "WarnerMedia's streaming head Bob Greenblatt to step down"
+    },
+    "tweet4": {
+      "content": "US STOCKS-Slowing job growth weighs on Wall St; new stimulus eyed"
+    },
+    "tweet5": {
+      "content": "'Tenet' sets China release for Sept. 4 amid staggered rollout plan"
+    },
+    "tweet6": {
+      "content": "US STOCKS-Slowing job growth weighs on Wall St as focus turns to stimulus"
+    },
+    "tweet7": {
+      "content": "Is COMPANY_X-Mobile Stock A Buy? With Sprint Deal Done, Execution And 5G Are Key"
+    },
+    "tweet8": {
+      "content": "COMPANY_X-Mobile Stock Hits a Record High After Its First Quarter With Sprint. Here’s What Analysts Are Saying."
+    },
+    "tweet9": {
+      "content": "US STOCKS-Wall St retreats on slowing jobs growth, U.S.-China friction"
+    },
+    "tweet10": {
+      "content": "The 7 Best 5G Stocks to Buy Now"
+    },
+    "tweet11": {
+      "content": "US STOCKS-Wall St dips on slowing job growth, U.S.-China tensions"
+    },
+    "tweet12": {
+      "content": "COMPANY_X-Mobile Says It's Overtaken AT&COMPANY_X for No. 2 Carrier Spot"
+    },
+    "tweet13": {
+      "content": "Dow Struggles as Bears Find Joy on Stalling Stimulus Progress"
+    },
+    "tweet14": {
+      "content": "US STOCKS-Wall St set to dip on slowing job growth, U.S.-China tensions"
+    },
+    "tweet15": {
+      "content": "US STOCKS-Sino-U.S. tensions hit futures ahead of jobs report"
+    },
+    "tweet16": {
+      "content": "COMPANY_X-Mobile US Q2 Revenue Jumps 61%, Overtakes AT&COMPANY_X as Second-Largest Carrier; Target Price $115"
+    },
+    "tweet17": {
+      "content": "COMPANY_X-Mobile Claims It Beat AT&COMPANY_X To Become Second Largest US Wireless Carrier In Q2"
+    },
+    "tweet18": {
+      "content": "COMPANY_X-Mobile's subscriber boost challenges AT&COMPANY_X for spot as second-largest U.S. carrier"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "AT&COMPANY_X Inc. Announces Pricing of Its Capped Tender Offers"
+    },
+    "tweet2": {
+      "content": "AT&COMPANY_X WarnerMedia Is Said to Cut Hundreds of Jobs"
+    },
+    "tweet3": {
+      "content": "Why the Founding Fathers would want us all to have fast Internet"
+    },
+    "tweet4": {
+      "content": "AT&COMPANY_X Inc. Announces Early Tender Results and Further Upsizing of Its Capped Tender Offers"
+    },
+    "tweet5": {
+      "content": "Covid Is Good Reason to Finally Fix Dreaded Earnings Calls"
+    },
+    "tweet6": {
+      "content": "RPT-BUZZ-U.S. stocks weekly: Up the ante"
+    },
+    "tweet7": {
+      "content": "MEDIA-WarnerMedia's new CEO says he's looking to thwart rivals with quality- Bloomberg News"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "AT&COMPANY_X CFO on WarnerMedia Reorganization and Layoffs: A ‘Natural Progression’ in Shift to Streaming"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "WarnerMedia Looking to Sell Crunchyroll Anime-Streaming Service for at Least $1 Billion"
+    },
+    "tweet2": {
+      "content": "AT&COMPANY_X Aims to Sell Crunchyroll for $1.5 Billion"
+    },
+    "tweet3": {
+      "content": "Sumner Redstone Paved the Way for Zuckerberg, Bezos and Musk"
+    },
+    "tweet4": {
+      "content": "Cord-Cutting Accelerates. Many Traditional Cable Networks Won’COMPANY_X Survive."
+    },
+    "tweet5": {
+      "content": "U.S court upholds FCC cap on 5G small cell fees in win for wireless carriers"
+    },
+    "tweet6": {
+      "content": "AT&COMPANY_X Senior Executive Vice President and CFO John Stephens Updates Shareholders"
+    },
+    "tweet7": {
+      "content": "Here's where VP pick Kamala Harris stands on Big Tech, taxes, marijuana"
+    },
+    "tweet8": {
+      "content": "Microsoft Surface Duo Phone Goes on Sale Starting at $1,399"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "AT&COMPANY_X's CFO Apprises Shareholders of the Current Situation"
+    },
+    "tweet2": {
+      "content": "The Revolutionary Tech Breathing New Life Into A $600 Billion Industry"
+    },
+    "tweet3": {
+      "content": "The Tech Breathing New Life Into A $600 Billion Industry"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "David Tepper's Top 5 Buys in the 2nd Quarter"
+    },
+    "tweet2": {
+      "content": "AT&COMPANY_X Says Restrictions on NFL Sunday Ticket Streaming Have Not Changed for 2020 Season"
+    },
+    "tweet3": {
+      "content": "'Hamilton' popularity lifts Disney+ engagement 20% in July: 7Park Data"
+    },
+    "tweet4": {
+      "content": "Cord-Cutting Is Accelerating — and Many Traditional Cable Networks Won’COMPANY_X Survive"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "MEDIA-Media companies launch voting efforts ahead of the election - Axios"
+    },
+    "tweet2": {
+      "content": "What Do The Returns On Capital At Tutor Perini (NYSE:TPC) Tell Us?"
+    },
+    "tweet3": {
+      "content": "Tutor Perini Announces Low Bid for a $403 Million Commuter Rail Expansion Project"
+    },
+    "tweet4": {
+      "content": "Moscow Exchange to offer trading in U.S. blue chips from Aug. 24"
+    },
+    "tweet5": {
+      "content": "TV Verticals Leaving Independents Like Discovery, AMC Networks Out in the Cold"
+    },
+    "tweet6": {
+      "content": "Covid-19 Builds Suspense for the Fall TV Lineup"
+    },
+    "tweet7": {
+      "content": "MOVIES ANYWHERE Welcomes DIRECTV As Newest Digital Retailer with A Digital Movie Offer"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "AT&COMPANY_X Inc. Announces Additional Early Repayment of Debt"
+    },
+    "tweet2": {
+      "content": "Telecom giants race to bundle streaming apps with cell plans"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Tutor Perini Announces Refinancing and New Credit Agreement"
+    },
+    "tweet2": {
+      "content": "Trump’s Attack on Goodyear Makes America Worse"
+    },
+    "tweet3": {
+      "content": "AT&COMPANY_X Aims to Repay Debt to Improve Balance Sheet Position"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "3 Capital Intensive Stocks for the Value Investor"
+    },
+    "tweet2": {
+      "content": "3 Dividend Stocks You Love to Hate"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Closely watched 'Tenet' earns critical praise as U.S. cinemas reopen"
+    },
+    "tweet2": {
+      "content": "Telecom Stock Roundup: Verizon Unlocks Value, Nokia Offers Automated Solution & More"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "3 Hated Dividend Stocks to Buy Now"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Trump’s TV ratings don’COMPANY_X match Biden’s after first night of RNC"
+    },
+    "tweet2": {
+      "content": "Netflix Has Gotten Tons of New Subscribers. Why They Will Stick Around Even After Pandemic."
+    },
+    "tweet3": {
+      "content": "Forget AT&COMPANY_X: Here Are 2 Better Dividend Stocks"
+    },
+    "tweet4": {
+      "content": "A Look Into AT&COMPANY_X's Debt"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "AT&COMPANY_X's WarnerMedia, Xandr pair up to sell digital ads to political advertisers"
+    },
+    "tweet2": {
+      "content": "Hollywood thriller 'Tenet' tests fans' appetite for cinemas"
+    },
+    "tweet3": {
+      "content": "Understanding AT&COMPANY_X's Unusual Options Activity"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "How Roku Built Itself Into a Major Gatekeeper in Premium Streaming"
+    },
+    "tweet2": {
+      "content": "Pro sports athletes boycott games over Jacob Blake shooting"
+    },
+    "tweet3": {
+      "content": "The Silver Lining in AT&COMPANY_X's Murky Future"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "AT&COMPANY_X Rallies on Report It May Sell DirecTV. Hopes For Dish Merger Revive."
+    },
+    "tweet2": {
+      "content": "AT&COMPANY_X Seeking Private Equity Buyers for Majority of DirecTV"
+    },
+    "tweet3": {
+      "content": "MFP Investors Cuts AT&COMPANY_X, Exits WABCO"
+    },
+    "tweet4": {
+      "content": "Is Disney's 'Mulan' A Battle Cry For Premium Video-On-Demand?"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "AT&COMPANY_X Inc. Announces Debt Exchange Offers for Forty-Two Series of Notes"
+    },
+    "tweet2": {
+      "content": "Exclusive: TPG explores $8 billion sale of U.S. cable operator Astound"
+    },
+    "tweet3": {
+      "content": "AT&COMPANY_X Might Want To Sell DirecTV. One Analyst Explains Why That’s Easier Said Than Done."
+    },
+    "tweet4": {
+      "content": "Selling DirecTV Could Simplify AT&COMPANY_X's Business: BofA Analyst"
+    },
+    "tweet5": {
+      "content": "Stocks on the Move: McDonald's says Ex-CEO's case is 'morally bankrupt', AT&COMPANY_X reportedly explores deal to sell DirecTV"
+    },
+    "tweet6": {
+      "content": "Do Hedge Funds Love AT&COMPANY_X Inc. (COMPANY_X)?"
+    },
+    "tweet7": {
+      "content": "AT&COMPANY_X Reportedly Weighing Options to Divest DirecTV Business"
+    },
+    "tweet8": {
+      "content": "Return On Capital Employed Overview: AT&COMPANY_X"
+    },
+    "tweet9": {
+      "content": "AT&COMPANY_X Seeks Buyer For Its DirecTV Unit – Report"
+    },
+    "tweet10": {
+      "content": "AT&COMPANY_X, Ready for Your $30 Billion DirecTV Haircut?"
+    },
+    "tweet11": {
+      "content": "Tesla, Apple up in Premarket After Stock Splits; Philips Slumps"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "AT&COMPANY_X to Scrap Sale of Warner Bros. Video-Game Unit"
+    },
+    "tweet2": {
+      "content": "Netflix and Amazon Elbow Way Into Talks on Streaming Hollywood Hits"
+    },
+    "tweet3": {
+      "content": "Zoom stock has surged nearly 400% — is it time to buy, hold or run away?"
+    },
+    "tweet4": {
+      "content": "AT&COMPANY_X (COMPANY_X) Could Break March Low"
+    },
+    "tweet5": {
+      "content": "AT&COMPANY_X looks to sell Xandr ad unit"
+    },
+    "tweet6": {
+      "content": "AT&COMPANY_X looks to sell Xandr ad unit"
+    },
+    "tweet7": {
+      "content": "AT&COMPANY_X looks to sell digital ad unit: WSJ"
+    },
+    "tweet8": {
+      "content": "Data firm InfoSum raises $15 mln, adds former AT&COMPANY_X leader as executive chairman"
+    },
+    "tweet9": {
+      "content": "AT&COMPANY_X vs Verizon: Which Telecom Giant Has More Upside Potential?"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Warner Brothers launches 'Tenet' in U.S. theaters amid COVID-19 "
+    },
+    "tweet2": {
+      "content": "AT&COMPANY_X Inc. -- Moody's assigns Baa2 rating to AT&COMPANY_X's proposed senior unsecured global notes"
+    },
+    "tweet3": {
+      "content": "It's Now or Never for AMC Entertainment Investors"
+    },
+    "tweet4": {
+      "content": "AT&COMPANY_X to Webcast Talk with John Stephens at Bank of America Securities Conference on September 9"
+    },
+    "tweet5": {
+      "content": "Better Buy: AT&COMPANY_X vs. Disney"
+    },
+    "tweet6": {
+      "content": "'Fast Money' Traders Give Their Opinion On AT&COMPANY_X"
+    },
+    "tweet7": {
+      "content": "AT&COMPANY_X Likely to Sell its Digital Advertising Unit Xandr; Target Price $25 in Worst-Case"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Analyst Report: AT&COMPANY_X Inc."
+    },
+    "tweet2": {
+      "content": "HBO Max, Eager to Lure Subscribers, Launches Limited-Time 20% Price Discount"
+    },
+    "tweet3": {
+      "content": "AT&COMPANY_X Is Looking to Unload Its $1.6 Billion Ad-Tech Boondoggle"
+    },
+    "tweet4": {
+      "content": "Actor Robert Pattinson tests positive for Covid-19, pausing production of 'The Batman' - U.S. media"
+    },
+    "tweet5": {
+      "content": "The Latest 5G Spectrum Auction Is Done. Here’s What Verizon, Dish, and Cable Companies Bought."
+    },
+    "tweet6": {
+      "content": "Yeardley Smith, voice of Lisa Simpson, shares an inside look at recording season 32"
+    },
+    "tweet7": {
+      "content": "Will &quot;Tenet&quot; Be Bigger for IMAX Than It Is for AT&COMPANY_X or AMC Entertainment?"
+    },
+    "tweet8": {
+      "content": "Telecom Stock Roundup: AT&COMPANY_X to Divest DirecTV, Qualcomm Offers New Chip & More"
+    },
+    "tweet9": {
+      "content": "'Tenet' U.S. release will reveal: Are Americans ready to go back to movie theaters?"
+    },
+    "tweet10": {
+      "content": "What Does 5G Demand In China, South Korea Mean For Apple's iPhone Launch?"
+    },
+    "tweet11": {
+      "content": "'Tenet' tests American appetite for coronavirus movie-going"
+    },
+    "tweet12": {
+      "content": "Why Netflix is one of Mario Gabelli's 'great mistakes'"
+    },
+    "tweet13": {
+      "content": "Influencers with Andy Serwer: Mario Gabelli"
+    },
+    "tweet14": {
+      "content": "3 High-Yield Dividend Stocks Robinhood Investors Love"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Why Disney took calculated risk to release $200M 'Mulan' tentpole on Disney+"
+    },
+    "tweet2": {
+      "content": "Why Disney took calculated risk to release 'Mulan' on Disney+"
+    },
+    "tweet3": {
+      "content": "'Tenet' hits U.S. theaters as 'Mulan' makes Disney+ debut for $30"
+    },
+    "tweet4": {
+      "content": "Avengers Game Gives Us a Glimpse of Life After Robert Downey Jr."
+    },
+    "tweet5": {
+      "content": "A Tale of Two Summer Blockbusters"
+    },
+    "tweet6": {
+      "content": "The Zacks Analyst Blog Highlights: AT&COMPANY_X, QUALCOMM, Viavi Solutions, Motorola and NETGEAR"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "&quot;Tenet&quot; Fails to Save the Multiplex"
+    },
+    "tweet2": {
+      "content": "'Tenet' opening is 'nothing to really celebrate': Box Office Guru founder"
+    },
+    "tweet3": {
+      "content": "AT&COMPANY_X to Webcast Talk with John Stankey at Goldman Sachs Communacopia Conference on September 15"
+    },
+    "tweet4": {
+      "content": "Netflix co-founder on creative culture: We ‘manage on the edge of chaos’"
+    },
+    "tweet5": {
+      "content": "Like Dividends? I Bet You'll Love These 3 Stocks"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Investor Anxiety Shifts to U.S. Elections as Volatility Returns"
+    },
+    "tweet2": {
+      "content": "Motorola's 5G Foldable Razr Adds Better Cameras and Processor, Costs Less"
+    },
+    "tweet3": {
+      "content": "AT&COMPANY_X Struggles to Sell LatAm Satellite-TV Unit"
+    },
+    "tweet4": {
+      "content": "AT&COMPANY_X customers can now make and receive calls via Alexa"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "AT&COMPANY_X Senior Executive Vice President and CFO John Stephens Updates Shareholders"
+    },
+    "tweet2": {
+      "content": "AT&COMPANY_X Drops Lowest-Priced DirecTV Option, but There's a Method to the Madness"
+    },
+    "tweet3": {
+      "content": "3 Stocks to Buy With Dividends Yielding More Than 5%"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "How end of 'Keeping Up with the Kardashians' hints at decline of cable"
+    },
+    "tweet2": {
+      "content": "'Wonder Woman' sequel delayed amid coronavirus concerns: WSJ"
+    },
+    "tweet3": {
+      "content": "'Wonder Woman' movie sequel delayed two months to December"
+    },
+    "tweet4": {
+      "content": "'Wonder Woman' Sequel Delayed by AT&COMPANY_X's Warner Bros. Studio: RPT"
+    },
+    "tweet5": {
+      "content": "Eleven U.S. senators urge internet providers to aid student online schooling"
+    },
+    "tweet6": {
+      "content": "Peloton Is Riding the K-Shaped Recovery"
+    },
+    "tweet7": {
+      "content": "AT&COMPANY_X's (COMPANY_X) CFO Updates Shareholders on Current Situation"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Verizon To Acquire Prepaid Wireless Firm Tracfone From America Movil"
+    },
+    "tweet2": {
+      "content": "Verizon Is Paying $6.3 Billion for TracFone. How the Deal Is a Strategy Shift for Verizon."
+    },
+    "tweet3": {
+      "content": "AT&COMPANY_X is First to Enable 5G Roaming for U.S. Customers in Japan"
+    },
+    "tweet4": {
+      "content": "Verizon buys pre-paid phone provider Tracfone"
+    },
+    "tweet5": {
+      "content": "Wall Street Economists Channel Powell's Fiscal Vision"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Exclusive: AT&COMPANY_X considers cellphone plans subsidized by ads"
+    },
+    "tweet2": {
+      "content": "Exclusive: AT&COMPANY_X considers cellphone plans subsidized by ads"
+    },
+    "tweet3": {
+      "content": "AT&COMPANY_X Inc. Announces Pricing Terms for Its Exchange Offers"
+    },
+    "tweet4": {
+      "content": "ViacomCBS Shuffles Its Streaming Strategy. CEO Bob Bakish Explains Why."
+    },
+    "tweet5": {
+      "content": "REVOLT Summit x AT&COMPANY_X Announce 2020 Programming Designed To Empower And Inspire Next Generation Of Black Leaders"
+    },
+    "tweet6": {
+      "content": "AT&COMPANY_X CEO John Stankey Lays Out the Company’s 4 Priorities"
+    },
+    "tweet7": {
+      "content": "AT&COMPANY_X sees increased demand in unlimited plans from entertainment push"
+    },
+    "tweet8": {
+      "content": "AT&COMPANY_X sees increased demand in unlimited plans from entertainment push"
+    },
+    "tweet9": {
+      "content": "Verizon’s Future Is All About 5G. CEO Hans Vestberg Explains How."
+    },
+    "tweet10": {
+      "content": "AT&COMPANY_X Inc. Announces Results of Early Tenders in Exchange Offers and Upsize of Exchange Offers"
+    },
+    "tweet11": {
+      "content": "Where Will AT&COMPANY_X Be in 5 Years?"
+    },
+    "tweet12": {
+      "content": "ViacomCBS to rebrand CBS All Access streaming service as 'Paramount+'"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "AT&COMPANY_X's Warner Bros Games unveils Harry Potter role-playing game"
+    },
+    "tweet2": {
+      "content": "AVCT Announces Xavier Williams as New CEO"
+    },
+    "tweet3": {
+      "content": "AT&COMPANY_X Chief Executive Officer John Stankey Updates Shareholders"
+    },
+    "tweet4": {
+      "content": "3 Top Priorities for AT&COMPANY_X's CEO"
+    },
+    "tweet5": {
+      "content": "AT&COMPANY_X Mulls Cellphone Plans Subsidized By Ads – Report"
+    },
+    "tweet6": {
+      "content": "3 “Perfect 10” Dividend Stocks Yielding at Least 5%"
+    },
+    "tweet7": {
+      "content": "Exclusive: AT&COMPANY_X considers cellphone plans subsidized by ads"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Verizon Is Issuing Another ‘Green Bond.’ Here’s How It Will Be Used."
+    },
+    "tweet2": {
+      "content": "Filming resumes on 'The Batman' movie after coronavirus shutdown"
+    },
+    "tweet3": {
+      "content": "AT&COMPANY_X Sets Goal to Cut Majority of Its Emissions by 2035"
+    },
+    "tweet4": {
+      "content": "AT&COMPANY_X Commits To Be Carbon Neutral by 2035; Announces Nationwide Expansion of Climate Resilience Tool"
+    },
+    "tweet5": {
+      "content": "US Wireless Providers and Consumer Brands Go Live with ZenKey"
+    },
+    "tweet6": {
+      "content": "What Type Of Shareholders Make Up AT&COMPANY_X Inc.'s (NYSE:COMPANY_X) Share Registry?"
+    },
+    "tweet7": {
+      "content": "3 High-Yield Dividend Stocks Begging to Be Bought"
+    },
+    "tweet8": {
+      "content": "Warner Bros Unveils Harry Potter RPG For PlayStation, Xbox"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "U.S. Senator Blumenthal demands AT&COMPANY_X drop push for ad-subsidized cellphone plans"
+    },
+    "tweet2": {
+      "content": "Telecom Stock Roundup: NOK Digitizes 5G Deployment, COMPANY_X's Business Update & More"
+    },
+    "tweet3": {
+      "content": "Milton Friedman Was Wrong. Look at Income Inequality."
+    },
+    "tweet4": {
+      "content": "Huawei Ban Spurs New Competition for Ericsson, Nokia"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "HBO comes out on top at 2020 Primetime Emmy Awards"
+    },
+    "tweet2": {
+      "content": "Ratings tumble for all-virtual Emmys as HBO, 'Schitt's Creek' wins hint at TV's future"
+    },
+    "tweet3": {
+      "content": "Roku Deal To Carry Peacock Opens The Door For HBO Max"
+    },
+    "tweet4": {
+      "content": "Reports of HBO’s death were greatly exaggerated"
+    },
+    "tweet5": {
+      "content": "HBO, 'Schitt's Creek' dominate Emmy Awards as ratings tank"
+    },
+    "tweet6": {
+      "content": "How last night's Emmys changed the future of award shows"
+    },
+    "tweet7": {
+      "content": "HBO conquers TV's Emmy Awards, Apple nabs first trophy"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "GameStop Rises on Investor’s Plan to Make It an Amazon Rival"
+    },
+    "tweet2": {
+      "content": "COMPANY_X-Mobile USA, Inc. -- Moody's assigns Baa3 to COMPANY_X-Mobile's proposed senior secured notes"
+    },
+    "tweet3": {
+      "content": "AT&COMPANY_X and Microsoft to Streamline Cloud Connectivity for IoT Devices Worldwide"
+    },
+    "tweet4": {
+      "content": "AT&COMPANY_X to Release Third-Quarter 2020 Results on October 22, 2020"
+    },
+    "tweet5": {
+      "content": "Tutor Perini Announces $47 Million Naval Facilities Project in Guam"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Disney, WB are sending a clear signal: Americans aren'COMPANY_X ready to return to movie theaters"
+    },
+    "tweet2": {
+      "content": "AT&COMPANY_X Delivering 5G and Networking-as-a-Service Capabilities to Three Air Force Bases as Part of Air Force Push to Modernize"
+    },
+    "tweet3": {
+      "content": "Top Analyst Reports for AT&COMPANY_X, Philip Morris & Square"
+    },
+    "tweet4": {
+      "content": "How Roku Finally Got a Deal Done for Peacock"
+    },
+    "tweet5": {
+      "content": "AT&COMPANY_X & Microsoft Extend Tie-Up for Secure IoT Cloud Services"
+    },
+    "tweet6": {
+      "content": "Magic Leap Tried to Create an Alternate Reality. Its Founder Was Already in One"
+    },
+    "tweet7": {
+      "content": "Microsoft and AT&COMPANY_X Try to Make the Internet of Things Easier"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Why Buy a Yield Trap With AT&COMPANY_X?"
+    },
+    "tweet2": {
+      "content": "3 Stocks With Low Shiller Price-Earnings Ratios"
+    },
+    "tweet3": {
+      "content": "Spotify, Hollywood producer Chernin to adapt podcast shows for films, TV"
+    },
+    "tweet4": {
+      "content": "3 High-Yield Stocks at Rock-Bottom Prices"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "AT&COMPANY_X Declares Quarterly Dividend on Common Shares"
+    },
+    "tweet2": {
+      "content": "AT&COMPANY_X Declares Quarterly Dividend on Preferred Shares"
+    },
+    "tweet3": {
+      "content": "The #MeToo movement ‘blew up’ the way Hollywood operates: Jessica Alba"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Indiana Bell Telephone Company, Inc. -- Moody's announces completion of a periodic review of ratings of AT&COMPANY_X Inc."
+    },
+    "tweet2": {
+      "content": "Is COMPANY_X-Mobile Stock a Buy?"
+    },
+    "tweet3": {
+      "content": "It's Official: 2020 Is Cord Cutting's Pivotal Moment"
+    },
+    "tweet4": {
+      "content": "COMPANY_X-Mobile USA, Inc. -- Moody's announces completion of a periodic review of ratings of COMPANY_X-Mobile USA, Inc."
+    },
+    "tweet5": {
+      "content": "3 Top Dividend Stocks With Yields Over 5%"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "'Fast Money' Traders Share Their Thoughts On AT&COMPANY_X, Coca-Cola"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "12 5G Stocks to Buy for Election-Proof Results"
+    },
+    "tweet2": {
+      "content": "Netflix May Be Mulling a Price Increase, but Now's Not the Time"
+    }
+  }
+}

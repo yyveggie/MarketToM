@@ -1,0 +1,3224 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "Asian Markets Mostly Lower After Apple Warning"
+    },
+    "tweet2": {
+      "content": "Asian Markets Mostly Lower After Apple Warning"
+    },
+    "tweet3": {
+      "content": "Australian Market Notably Higher"
+    },
+    "tweet4": {
+      "content": "Australian Market Notably Higher"
+    },
+    "tweet5": {
+      "content": "Cleveland-Cliffs Inc. (CLF) Ex-Dividend Date Scheduled for January 03, 2019"
+    },
+    "tweet6": {
+      "content": "Cleveland-Cliffs Inc. (CLF) Ex-Dividend Date Scheduled for January 03, 2019"
+    },
+    "tweet7": {
+      "content": "Royal Gold, Inc. (RGLD) Ex-Dividend Date Scheduled for January 03, 2019"
+    },
+    "tweet8": {
+      "content": "Royal Gold, Inc. (RGLD) Ex-Dividend Date Scheduled for January 03, 2019"
+    },
+    "tweet9": {
+      "content": "Pre-Market Most Active for Jan 2, 2019 :  QQQ, AMD, TQQQ, SQQQ, SAN, BAC, ERIC, COMPANY_X, CRH, AAPL, CHK, TGE"
+    },
+    "tweet10": {
+      "content": "Pre-Market Most Active for Jan 2, 2019 :  QQQ, AMD, TQQQ, SQQQ, SAN, BAC, ERIC, COMPANY_X, CRH, AAPL, CHK, TGE"
+    },
+    "tweet11": {
+      "content": "European markets start 2019 in the red after Asia falls"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Asian Markets Mostly Lower, Japanese Stocks Fall"
+    },
+    "tweet2": {
+      "content": "Asian Markets Mostly Lower, Japanese Stocks Fall"
+    },
+    "tweet3": {
+      "content": "Australian Market Declines"
+    },
+    "tweet4": {
+      "content": "Australian Market Declines"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Bullish Two Hundred Day Moving Average Cross - COMPANY_X"
+    },
+    "tweet2": {
+      "content": "Bullish Two Hundred Day Moving Average Cross - COMPANY_X"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Asian Markets Mixed Amid Cautious Trade"
+    },
+    "tweet2": {
+      "content": "Asian Markets Mixed Amid Cautious Trade"
+    },
+    "tweet3": {
+      "content": "Australian Market Modestly Higher"
+    },
+    "tweet4": {
+      "content": "Australian Market Modestly Higher"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Asian Markets Higher As U.S.-China Trade Talks Extended"
+    },
+    "tweet2": {
+      "content": "Asian Markets Higher As U.S.-China Trade Talks Extended"
+    },
+    "tweet3": {
+      "content": "Australian Market Extends Gains"
+    },
+    "tweet4": {
+      "content": "Australian Market Extends Gains"
+    },
+    "tweet5": {
+      "content": "BP gives go ahead to $1.3 billion Gulf of Mexico expansion"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Asian Markets Mostly Lower After U.S.-China Trade Talks End"
+    },
+    "tweet2": {
+      "content": "Asian Markets Mostly Lower After U.S.-China Trade Talks End"
+    },
+    "tweet3": {
+      "content": "Australian Market Drifts Lower"
+    },
+    "tweet4": {
+      "content": "Australian Market Drifts Lower"
+    },
+    "tweet5": {
+      "content": "BP Unlocks One Billion Barrels In Gulf Of Mexico With New Tech"
+    },
+    "tweet6": {
+      "content": "Why BP Will Never Learn and Never Change"
+    },
+    "tweet7": {
+      "content": "Why BP Will Never Learn and Never Change"
+    },
+    "tweet8": {
+      "content": "Why BP Will Never Learn and Never Change"
+    },
+    "tweet9": {
+      "content": "Why Goldman Sachs Expects Iron Ore Prices to Drop to $60"
+    },
+    "tweet10": {
+      "content": "COMPANY_X Group Limited (COMPANY_X) Ex-Dividend Date Scheduled for January 10, 2019"
+    },
+    "tweet11": {
+      "content": "COMPANY_X Group Limited (COMPANY_X) Ex-Dividend Date Scheduled for January 10, 2019"
+    },
+    "tweet12": {
+      "content": "Caledonia Mining Corporation Plc (CMCL) Ex-Dividend Date Scheduled for January 10, 2019"
+    },
+    "tweet13": {
+      "content": "Caledonia Mining Corporation Plc (CMCL) Ex-Dividend Date Scheduled for January 10, 2019"
+    },
+    "tweet14": {
+      "content": "Global EV Demand Drives Scramble for Fresh Supplies of Vital Metals"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Asian Markets Mostly Higher With Modest Gains"
+    },
+    "tweet2": {
+      "content": "Asian Markets Mostly Higher With Modest Gains"
+    },
+    "tweet3": {
+      "content": "Australian Market Modestly Higher"
+    },
+    "tweet4": {
+      "content": "Australian Market Modestly Higher"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "COMPANY_X Added as Top 5 Metals Channel Dividend Stock With 5.30% Yield"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Added as Top 5 Metals Channel Dividend Stock With 5.30% Yield"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Asian Markets Higher Ahead Of Brexit Vote"
+    },
+    "tweet2": {
+      "content": "Asian Markets Higher Ahead Of Brexit Vote"
+    },
+    "tweet3": {
+      "content": "Australian Market Modestly Higher"
+    },
+    "tweet4": {
+      "content": "Australian Market Modestly Higher"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Asian Markets Mixed After Brexit Deal Defeat"
+    },
+    "tweet2": {
+      "content": "Asian Markets Mixed After Brexit Deal Defeat"
+    },
+    "tweet3": {
+      "content": "Australian Market Modestly Higher In Choppy Trade"
+    },
+    "tweet4": {
+      "content": "Australian Market Modestly Higher In Choppy Trade"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "Asian Markets Mostly Higher With Modest Gains"
+    },
+    "tweet2": {
+      "content": "Asian Markets Mostly Higher With Modest Gains"
+    },
+    "tweet3": {
+      "content": "Australian Market Extends Gains"
+    },
+    "tweet4": {
+      "content": "Australian Market Extends Gains"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Asian Markets In Positive Territory On Trade Optimism"
+    },
+    "tweet2": {
+      "content": "Asian Markets In Positive Territory On Trade Optimism"
+    },
+    "tweet3": {
+      "content": "Australian Market Rises"
+    },
+    "tweet4": {
+      "content": "Australian Market Rises"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Asian Markets Mostly Lower"
+    },
+    "tweet2": {
+      "content": "Asian Markets Mostly Lower"
+    },
+    "tweet3": {
+      "content": "Australian Market Extends Losses"
+    },
+    "tweet4": {
+      "content": "Australian Market Extends Losses"
+    },
+    "tweet5": {
+      "content": "Here’s What Markets Expect for Freeport’s Earnings Call"
+    },
+    "tweet6": {
+      "content": "Elliott Management Urges eBay to Restructure"
+    },
+    "tweet7": {
+      "content": "Freeport-McMoRan’s Q4 Earnings: The Word on Wall Street"
+    },
+    "tweet8": {
+      "content": "Is Freeport-McMoRan Finally Catching Up with Copper?"
+    },
+    "tweet9": {
+      "content": "European Markets End Lower On Growth Concerns"
+    },
+    "tweet10": {
+      "content": "European Markets End Lower On Growth Concerns"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Asian Markets Mostly Higher Amid Cautious Trades"
+    },
+    "tweet2": {
+      "content": "Asian Markets Mostly Higher Amid Cautious Trades"
+    },
+    "tweet3": {
+      "content": "Australian Market Modestly Higher"
+    },
+    "tweet4": {
+      "content": "Australian Market Modestly Higher"
+    },
+    "tweet5": {
+      "content": "Could Freeport-McMoRan’s Rally Lose Steam?"
+    },
+    "tweet6": {
+      "content": "Loophole Lets Norway&apos;s $1 Trillion Fund Boost Its Coal Exposure"
+    },
+    "tweet7": {
+      "content": "3 Top Mining Stocks to Watch Now"
+    },
+    "tweet8": {
+      "content": "3 Top Mining Stocks to Watch Now"
+    },
+    "tweet9": {
+      "content": "3 Top Mining Stocks to Watch Now"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Asian Markets In Positive Territory"
+    },
+    "tweet2": {
+      "content": "Asian Markets In Positive Territory"
+    },
+    "tweet3": {
+      "content": "Australian Market Advances"
+    },
+    "tweet4": {
+      "content": "Australian Market Advances"
+    },
+    "tweet5": {
+      "content": "Freeport-McMoRan Stock Is Down following Its Q4 Miss"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Bullish Two Hundred Day Moving Average Cross - COMPANY_X"
+    },
+    "tweet2": {
+      "content": "Bullish Two Hundred Day Moving Average Cross - COMPANY_X"
+    },
+    "tweet3": {
+      "content": "Is Freeport-McMoRan Preparing for an Eventual Sale?"
+    },
+    "tweet4": {
+      "content": "New Strong Sell Stocks for January 24th"
+    },
+    "tweet5": {
+      "content": "New Strong Sell Stocks for January 24th"
+    },
+    "tweet6": {
+      "content": "New Strong Sell Stocks for January 25th"
+    },
+    "tweet7": {
+      "content": "New Strong Sell Stocks for January 25th"
+    },
+    "tweet8": {
+      "content": "New Strong Sell Stocks for January 25th"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Why China’s Iron Ore Demand Could Soon Weaken"
+    },
+    "tweet2": {
+      "content": "Asian Markets Lower After U.S. Files Criminal Charges Against Huawei"
+    },
+    "tweet3": {
+      "content": "Asian Markets Lower After U.S. Files Criminal Charges Against Huawei"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Says No Deal Reached On Samarco Debt"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Says No Deal Reached On Samarco Debt"
+    },
+    "tweet6": {
+      "content": "How Vale’s Dam Burst Could Affect Iron Ore Prices"
+    },
+    "tweet7": {
+      "content": "Australian Market Declines"
+    },
+    "tweet8": {
+      "content": "Australian Market Declines"
+    },
+    "tweet9": {
+      "content": "Could China’s Slowdown Weigh on Iron Ore Prices This Year?"
+    },
+    "tweet10": {
+      "content": "Mesabi Trust (MSB) Ex-Dividend Date Scheduled for January 29, 2019"
+    },
+    "tweet11": {
+      "content": "Mesabi Trust (MSB) Ex-Dividend Date Scheduled for January 29, 2019"
+    },
+    "tweet12": {
+      "content": "Will Vale’s Second Dam Burst Overshadow Positive Catalysts?"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Asian Markets Mostly Lower Ahead Of Fed Decision, Trade Talks"
+    },
+    "tweet2": {
+      "content": "Asian Markets Mostly Lower Ahead Of Fed Decision, Trade Talks"
+    },
+    "tweet3": {
+      "content": "Australian Market Modestly Higher"
+    },
+    "tweet4": {
+      "content": "Australian Market Modestly Higher"
+    },
+    "tweet5": {
+      "content": "Vale Announces Decommissioning Of All Its Upstream Tailings Dams"
+    },
+    "tweet6": {
+      "content": "Vale Announces Decommissioning Of All Its Upstream Tailings Dams"
+    },
+    "tweet7": {
+      "content": "What China’s Steel Price Trends Could Mean for Iron Ore Miners"
+    },
+    "tweet8": {
+      "content": "China’s Steel Production Outlook Remains Muted"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Asian Markets Higher On Dovish Fed"
+    },
+    "tweet2": {
+      "content": "Asian Markets Higher On Dovish Fed"
+    },
+    "tweet3": {
+      "content": "Australian Market Edges Higher"
+    },
+    "tweet4": {
+      "content": "Australian Market Edges Higher"
+    },
+    "tweet5": {
+      "content": "Shares of Iron Ore Stocks Soar After Vale's Production Cuts"
+    },
+    "tweet6": {
+      "content": "Shares of Iron Ore Stocks Soar After Vale's Production Cuts"
+    },
+    "tweet7": {
+      "content": "Why Is Cleveland-Cliffs Stock Soaring More than 15% Today?"
+    },
+    "tweet8": {
+      "content": "Cleveland-Cliffs' stock soars to pace NYSE gainers after Vale cuts iron ore production"
+    },
+    "tweet9": {
+      "content": "Asian Shares Mixed Despite Apple Relief"
+    },
+    "tweet10": {
+      "content": "Asian Shares Mixed Despite Apple Relief"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Asian Markets Pare Gains After China Manufacturing Data"
+    },
+    "tweet2": {
+      "content": "Asian Markets Pare Gains After China Manufacturing Data"
+    },
+    "tweet3": {
+      "content": "Australian Market Modestly Higher"
+    },
+    "tweet4": {
+      "content": "Australian Market Modestly Higher"
+    },
+    "tweet5": {
+      "content": "ETFs to Watch as Vale Collapses on Tailings Dam Tragedy"
+    },
+    "tweet6": {
+      "content": "ETFs to Watch as Vale Collapses on Tailings Dam Tragedy"
+    },
+    "tweet7": {
+      "content": "ETFs to Watch as Vale Collapses on Tailings Dam Tragedy"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Asian Markets Mixed In Holiday-thinned Trade"
+    },
+    "tweet2": {
+      "content": "Asian Markets Mixed In Holiday-thinned Trade"
+    },
+    "tweet3": {
+      "content": "Australian Market Notably Higher Ahead Of RBA Decision"
+    },
+    "tweet4": {
+      "content": "Australian Market Notably Higher Ahead Of RBA Decision"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Asian Markets Higher Amid Cautious Trades"
+    },
+    "tweet2": {
+      "content": "Asian Markets Higher Amid Cautious Trades"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Buyout Bolsters Long-Term Outlook for BP Stock"
+    },
+    "tweet4": {
+      "content": "Australian Market Extends Gains"
+    },
+    "tweet5": {
+      "content": "Australian Market Extends Gains"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Asian Markets Mostly Higher"
+    },
+    "tweet2": {
+      "content": "Asian Markets Mostly Higher"
+    },
+    "tweet3": {
+      "content": "Australian Market Advances"
+    },
+    "tweet4": {
+      "content": "Australian Market Advances"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Asian Markets Lower On Trade, Growth Worries"
+    },
+    "tweet2": {
+      "content": "Asian Markets Lower On Trade, Growth Worries"
+    },
+    "tweet3": {
+      "content": "Australian Market Declines"
+    },
+    "tweet4": {
+      "content": "Australian Market Declines"
+    },
+    "tweet5": {
+      "content": "Vale: More Issues after the Dam Disaster"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Which Analysts Expect Iron Ore Prices to Breach $100 and Why?"
+    },
+    "tweet2": {
+      "content": "Vale’s Loss Is Its Peers’ Gain—More Upside for Miners?"
+    },
+    "tweet3": {
+      "content": "Will Iron Ore Breach $100 in the Wake of Vale’s Dam Collapse?"
+    },
+    "tweet4": {
+      "content": "Southern Copper Corporation (SCCO) Ex-Dividend Date Scheduled for February 11, 2019"
+    },
+    "tweet5": {
+      "content": "Southern Copper Corporation (SCCO) Ex-Dividend Date Scheduled for February 11, 2019"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Why Iron Ore Is Up 20% This Year"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Don’t Count Mining Stocks Out in a Slowdown, Goldman Sachs Says"
+    },
+    "tweet2": {
+      "content": "COMPANY_X (COMPANY_X) Moves to Buy: Rationale Behind the Upgrade"
+    },
+    "tweet3": {
+      "content": "How Vale’s Dam Burst Could Benefit Cleveland Cliffs"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Why Freeport-McMoRan Is Surging Today"
+    },
+    "tweet2": {
+      "content": "New Strong Buy Stocks for February 13th"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Freeport-McMoRan: Party Continues as Chinese Copper Imports Surge"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "What Should You Know About COMPANY_X Group’s (ASX:COMPANY_X) Growth?"
+    },
+    "tweet2": {
+      "content": "Stocks making the biggest moves premarket: Walmart, McDonald's, Southwest & more"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Freeport Looks Solid as Long-Awaited Supply Disruption Hits"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Agnico Eagle Mines Limited (AEM) Ex-Dividend Date Scheduled for February 28, 2019"
+    },
+    "tweet2": {
+      "content": "Agnico Eagle Mines Limited (AEM) Ex-Dividend Date Scheduled for February 28, 2019"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Pan American Silver Corp. (PAAS) Ex-Dividend Date Scheduled for March 01, 2019"
+    },
+    "tweet2": {
+      "content": "Pan American Silver Corp. (PAAS) Ex-Dividend Date Scheduled for March 01, 2019"
+    },
+    "tweet3": {
+      "content": "Why Is Analyst Sentiment for Rio Tinto Turning Negative Lately?"
+    },
+    "tweet4": {
+      "content": "Rio Tinto Beats 2018 Estimates and Declares Special Dividend"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "Moody’s Downgrade and Potential Fines Weaken Vale’s Outlook"
+    },
+    "tweet2": {
+      "content": "Newmont Mining Corporation (NEM) Ex-Dividend Date Scheduled for March 06, 2019"
+    },
+    "tweet3": {
+      "content": "Newmont Mining Corporation (NEM) Ex-Dividend Date Scheduled for March 06, 2019"
+    },
+    "tweet4": {
+      "content": "Vale’s Problems Are Compounding after Dam Collapse"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "Hudbay Minerals Inc. (HBM) Ex-Dividend Date Scheduled for March 07, 2019"
+    },
+    "tweet2": {
+      "content": "Hudbay Minerals Inc. (HBM) Ex-Dividend Date Scheduled for March 07, 2019"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Group Limited (COMPANY_X) Ex-Dividend Date Scheduled for March 07, 2019"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Group Limited (COMPANY_X) Ex-Dividend Date Scheduled for March 07, 2019"
+    },
+    "tweet5": {
+      "content": "McEwen Mining Inc. (MUX) Ex-Dividend Date Scheduled for March 07, 2019"
+    },
+    "tweet6": {
+      "content": "McEwen Mining Inc. (MUX) Ex-Dividend Date Scheduled for March 07, 2019"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "China’s February Copper Imports Gave Mixed Signals"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "Franco-Nevada Corporation (FNV) Ex-Dividend Date Scheduled for March 13, 2019"
+    },
+    "tweet2": {
+      "content": "Franco-Nevada Corporation (FNV) Ex-Dividend Date Scheduled for March 13, 2019"
+    },
+    "tweet3": {
+      "content": "Nexa Resources S.A. (NEXA) Ex-Dividend Date Scheduled for March 13, 2019"
+    },
+    "tweet4": {
+      "content": "Nexa Resources S.A. (NEXA) Ex-Dividend Date Scheduled for March 13, 2019"
+    },
+    "tweet5": {
+      "content": "Goldcorp Inc. (GG) Ex-Dividend Date Scheduled for March 13, 2019"
+    },
+    "tweet6": {
+      "content": "Goldcorp Inc. (GG) Ex-Dividend Date Scheduled for March 13, 2019"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "Gold Fields Limited (GFI) Ex-Dividend Date Scheduled for March 14, 2019"
+    },
+    "tweet2": {
+      "content": "Gold Fields Limited (GFI) Ex-Dividend Date Scheduled for March 14, 2019"
+    },
+    "tweet3": {
+      "content": "Alamos Gold Inc. (AGI) Ex-Dividend Date Scheduled for March 14, 2019"
+    },
+    "tweet4": {
+      "content": "Alamos Gold Inc. (AGI) Ex-Dividend Date Scheduled for March 14, 2019"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "Pre-Market Most Active for Mar 19, 2019 :  TWO, ALT, SBGL, ACB, SAN, COMPANY_X, WHD, SQQQ, QQQ, AMD, LPTX, AAPL"
+    },
+    "tweet2": {
+      "content": "Pre-Market Most Active for Mar 19, 2019 :  TWO, ALT, SBGL, ACB, SAN, COMPANY_X, WHD, SQQQ, QQQ, AMD, LPTX, AAPL"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "AngloGold Ashanti Limited (AU) Ex-Dividend Date Scheduled for March 21, 2019"
+    },
+    "tweet2": {
+      "content": "AngloGold Ashanti Limited (AU) Ex-Dividend Date Scheduled for March 21, 2019"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "Here is What Hedge Funds Think About COMPANY_X Group (BBL)"
+    },
+    "tweet2": {
+      "content": "Why Vale’s Problems Will Likely Continue"
+    },
+    "tweet3": {
+      "content": "COMPANY_X (COMPANY_X) Moves to Buy: Rationale Behind the Upgrade"
+    },
+    "tweet4": {
+      "content": "COMPANY_X (COMPANY_X) Moves to Buy: Rationale Behind the Upgrade"
+    },
+    "tweet5": {
+      "content": "COMPANY_X (COMPANY_X) Moves to Buy: Rationale Behind the Upgrade"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "Yamana Gold Inc. (AUY) Ex-Dividend Date Scheduled for March 28, 2019"
+    },
+    "tweet2": {
+      "content": "Yamana Gold Inc. (AUY) Ex-Dividend Date Scheduled for March 28, 2019"
+    },
+    "tweet3": {
+      "content": "Kirkland Lake Gold Ltd. (KL) Ex-Dividend Date Scheduled for March 28, 2019"
+    },
+    "tweet4": {
+      "content": "Kirkland Lake Gold Ltd. (KL) Ex-Dividend Date Scheduled for March 28, 2019"
+    },
+    "tweet5": {
+      "content": "Osisko Gold Royalties Ltd (OR) Ex-Dividend Date Scheduled for March 28, 2019"
+    },
+    "tweet6": {
+      "content": "Osisko Gold Royalties Ltd (OR) Ex-Dividend Date Scheduled for March 28, 2019"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "Freeport-McMoRan’s Valuation: What’s Priced In?"
+    },
+    "tweet2": {
+      "content": "Could Iron Ore Gain from Vale’s Large Production Cut Expectation?"
+    },
+    "tweet3": {
+      "content": "Vale’s Dam Burst Has Yet to Fully Reflect in CLF’s Prices"
+    },
+    "tweet4": {
+      "content": "Can We See Significant Institutional Ownership On The COMPANY_X Group (ASX:COMPANY_X) Share Register?"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "Here is What Hedge Funds Think About Adobe Inc. (ADBE)"
+    },
+    "tweet2": {
+      "content": "The Downgrades Are Piling Up for Vale after the Dam Disaster"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "Is COMPANY_X Billiton (COMPANY_X) a Good Choice for Value Investors?"
+    },
+    "tweet2": {
+      "content": "Is COMPANY_X Billiton (COMPANY_X) a Good Choice for Value Investors?"
+    },
+    "tweet3": {
+      "content": "Is COMPANY_X Billiton (COMPANY_X) a Good Choice for Value Investors?"
+    },
+    "tweet4": {
+      "content": "China data lifts London mining stocks"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "Cleveland-Cliffs Inc. (CLF) Ex-Dividend Date Scheduled for April 04, 2019"
+    },
+    "tweet2": {
+      "content": "Cleveland-Cliffs Inc. (CLF) Ex-Dividend Date Scheduled for April 04, 2019"
+    },
+    "tweet3": {
+      "content": "Royal Gold, Inc. (RGLD) Ex-Dividend Date Scheduled for April 04, 2019"
+    },
+    "tweet4": {
+      "content": "Royal Gold, Inc. (RGLD) Ex-Dividend Date Scheduled for April 04, 2019"
+    },
+    "tweet5": {
+      "content": "Wheaton Precious Metals Corp. (WPM) Ex-Dividend Date Scheduled for April 04, 2019"
+    },
+    "tweet6": {
+      "content": "Wheaton Precious Metals Corp. (WPM) Ex-Dividend Date Scheduled for April 04, 2019"
+    }
+  },
+  "day65": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day66": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day67": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day68": {
+    "tweet1": {
+      "content": "Here's Why COMPANY_X (COMPANY_X) is a Great Momentum Stock to Buy"
+    },
+    "tweet2": {
+      "content": "Here's Why COMPANY_X (COMPANY_X) is a Great Momentum Stock to Buy"
+    },
+    "tweet3": {
+      "content": "Here's Why COMPANY_X (COMPANY_X) is a Great Momentum Stock to Buy"
+    }
+  },
+  "day69": {
+    "tweet1": {
+      "content": "Could Chinese Port Inventories Decline amid Supply Tightness"
+    },
+    "tweet2": {
+      "content": "Iron Ore Prices Rally as Miners Cut Their Shipment Estimates"
+    },
+    "tweet3": {
+      "content": "Is the Party Just Getting Started for Iron Ore Miners?"
+    },
+    "tweet4": {
+      "content": "Caledonia Mining Corporation Plc (CMCL) Ex-Dividend Date Scheduled for April 11, 2019"
+    },
+    "tweet5": {
+      "content": "Caledonia Mining Corporation Plc (CMCL) Ex-Dividend Date Scheduled for April 11, 2019"
+    }
+  },
+  "day70": {
+    "tweet1": {
+      "content": "Buenaventura Mining Company Inc. (BVN) Ex-Dividend Date Scheduled for April 12, 2019"
+    },
+    "tweet2": {
+      "content": "Buenaventura Mining Company Inc. (BVN) Ex-Dividend Date Scheduled for April 12, 2019"
+    },
+    "tweet3": {
+      "content": "Why Is Barclays Optimistic on the Iron Ore Price Outlook?"
+    },
+    "tweet4": {
+      "content": "Credit Suisse Is Expecting a Push in Iron Ore Prices on Supply Deficit"
+    }
+  },
+  "day71": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day72": {
+    "tweet1": {
+      "content": "FreightWaves Oil Report: The Numbers Don't Lie; The Market Is Getting Tighter"
+    },
+    "tweet2": {
+      "content": "Newmont Mining Corporation (NEM) Ex-Dividend Date Scheduled for April 16, 2019"
+    },
+    "tweet3": {
+      "content": "Newmont Mining Corporation (NEM) Ex-Dividend Date Scheduled for April 16, 2019"
+    },
+    "tweet4": {
+      "content": "Bomb Watchers Twitching as Looser Rules Weighed for Uranium"
+    }
+  },
+  "day73": {
+    "tweet1": {
+      "content": "Why Mining Stocks Are Likely to Continue Surging"
+    },
+    "tweet2": {
+      "content": "After 40 Years, Chile Copper Giant Struggles to Stay on Top"
+    },
+    "tweet3": {
+      "content": "Should You Worry About COMPANY_X Group's (ASX:COMPANY_X) CEO Pay?"
+    }
+  },
+  "day74": {
+    "tweet1": {
+      "content": "China Economy: Steel Prices Help Boost Industry Output"
+    },
+    "tweet2": {
+      "content": "Miners drag London markets lower"
+    }
+  },
+  "day75": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day76": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day77": {
+    "tweet1": {
+      "content": "Iron Ore Prices Could Be Supported after Vale’s Mine Restart"
+    }
+  },
+  "day78": {
+    "tweet1": {
+      "content": "Cleveland Cliffs: Realized Price Expectations in 2019"
+    }
+  },
+  "day79": {
+    "tweet1": {
+      "content": "Cleveland-Cliffs’ Upside: Vale’s Dam Burst and Supply Disruptions"
+    }
+  },
+  "day80": {
+    "tweet1": {
+      "content": "Touchstone Exploration: Onshore Trinidad Oil Producer With Imminent 3-Well Drilling Program Provides Significant Upside Potential"
+    },
+    "tweet2": {
+      "content": "Touchstone Exploration: Onshore Trinidad Oil Producer With Imminent 3-Well Drilling Program Provides Significant Upside Potential"
+    },
+    "tweet3": {
+      "content": "Mesabi Trust (MSB) Ex-Dividend Date Scheduled for April 29, 2019"
+    },
+    "tweet4": {
+      "content": "Mesabi Trust (MSB) Ex-Dividend Date Scheduled for April 29, 2019"
+    }
+  },
+  "day81": {
+    "tweet1": {
+      "content": "Freeport-McMoRan: What to Expect after Last Week’s Sell-Off"
+    }
+  },
+  "day82": {
+    "tweet1": {
+      "content": "BP is not on the hunt for US oil and gas deals, says CEO Bob Dudley"
+    },
+    "tweet2": {
+      "content": "Glencore shrinks production estimates, sinking Europe markets"
+    },
+    "tweet3": {
+      "content": "Asian markets mixed as U.S.-China trade talks resume"
+    }
+  },
+  "day83": {
+    "tweet1": {
+      "content": "Southern Copper Corporation (SCCO) Ex-Dividend Date Scheduled for May 02, 2019"
+    },
+    "tweet2": {
+      "content": "Southern Copper Corporation (SCCO) Ex-Dividend Date Scheduled for May 02, 2019"
+    },
+    "tweet3": {
+      "content": "Sainsburys leads London markets quietly higher"
+    }
+  },
+  "day84": {
+    "tweet1": {
+      "content": "Add Cleveland Cliffs to Your Watchlist, If Not Yet Your Portfolio"
+    },
+    "tweet2": {
+      "content": "Add Cleveland Cliffs to Your Watchlist, If Not Yet Your Portfolio"
+    },
+    "tweet3": {
+      "content": "Strong banks and weak miners tug Europe markets in opposite directions"
+    },
+    "tweet4": {
+      "content": "Add Cleveland Cliffs to Your Watchlist, If Not Yet Your Portfolio"
+    },
+    "tweet5": {
+      "content": "Asian markets mixed after Fed leaves rates steady"
+    }
+  },
+  "day85": {
+    "tweet1": {
+      "content": "Top Ranked Income Stocks to Buy for May 3rd"
+    },
+    "tweet2": {
+      "content": "Top Ranked Income Stocks to Buy for May 3rd"
+    },
+    "tweet3": {
+      "content": "COMPANY_X (COMPANY_X) Upgraded to Buy: Here's What You Should Know"
+    },
+    "tweet4": {
+      "content": "COMPANY_X (COMPANY_X) Upgraded to Buy: Here's What You Should Know"
+    },
+    "tweet5": {
+      "content": "COMPANY_X (COMPANY_X) Upgraded to Buy: Here's What You Should Know"
+    },
+    "tweet6": {
+      "content": "Top Ranked Income Stocks to Buy for May 3rd"
+    }
+  },
+  "day86": {
+    "tweet1": {
+      "content": "BP Isn&apos;t Getting Enough Credit From Wall Street"
+    },
+    "tweet2": {
+      "content": "The COMPANY_X Group (ASX:COMPANY_X) Share Price Has Gained 100%, So Why Not Pay It Some Attention?"
+    }
+  },
+  "day87": {
+    "tweet1": {
+      "content": "BP Isn't Getting Enough Credit From Wall Street"
+    },
+    "tweet2": {
+      "content": "BP Isn't Getting Enough Credit From Wall Street"
+    }
+  },
+  "day88": {
+    "tweet1": {
+      "content": "Follow copper to see if market bulls keep running: analyst"
+    }
+  },
+  "day89": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day90": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day91": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day92": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day93": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day94": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day95": {
+    "tweet1": {
+      "content": "Why Iron Ore Prices Could Have More Upside after Breaching $100"
+    },
+    "tweet2": {
+      "content": "Pan American Silver Corp. (PAAS) Ex-Dividend Date Scheduled for May 20, 2019"
+    },
+    "tweet3": {
+      "content": "Pan American Silver Corp. (PAAS) Ex-Dividend Date Scheduled for May 20, 2019"
+    }
+  },
+  "day96": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day97": {
+    "tweet1": {
+      "content": "If You Like EPS Growth Then Check Out COMPANY_X Group (ASX:COMPANY_X) Before It's Too Late"
+    }
+  },
+  "day98": {
+    "tweet1": {
+      "content": "Wheaton Precious Metals Corp. (WPM) Ex-Dividend Date Scheduled for May 23, 2019"
+    },
+    "tweet2": {
+      "content": "Wheaton Precious Metals Corp. (WPM) Ex-Dividend Date Scheduled for May 23, 2019"
+    }
+  },
+  "day99": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day100": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day101": {
+    "tweet1": {
+      "content": "iShares Commodities Select Strategy ETF Experiences Big Outflow"
+    },
+    "tweet2": {
+      "content": "iShares Commodities Select Strategy ETF Experiences Big Outflow"
+    },
+    "tweet3": {
+      "content": "Potash producer Nutrien eyes expansion as COMPANY_X ponders entry"
+    },
+    "tweet4": {
+      "content": "Potash producer Nutrien eyes mine expansions over next decade"
+    },
+    "tweet5": {
+      "content": "Why Iron Ore Prices Are Bucking the Downtrend in Metals Prices"
+    }
+  },
+  "day102": {
+    "tweet1": {
+      "content": "Barrick Gold Corporation (GOLD) Ex-Dividend Date Scheduled for May 30, 2019"
+    },
+    "tweet2": {
+      "content": "Barrick Gold Corporation (GOLD) Ex-Dividend Date Scheduled for May 30, 2019"
+    },
+    "tweet3": {
+      "content": "Agnico Eagle Mines Limited (AEM) Ex-Dividend Date Scheduled for May 30, 2019"
+    },
+    "tweet4": {
+      "content": "Agnico Eagle Mines Limited (AEM) Ex-Dividend Date Scheduled for May 30, 2019"
+    },
+    "tweet5": {
+      "content": "This Miner Wins in a Trade Truce or Trade War"
+    }
+  },
+  "day103": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day104": {
+    "tweet1": {
+      "content": "6 Stocks With Rare Earth Exposure"
+    }
+  },
+  "day105": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day106": {
+    "tweet1": {
+      "content": "Newmont Goldcorp Corporation (NEM) Ex-Dividend Date Scheduled for June 05, 2019"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp Corporation (NEM) Ex-Dividend Date Scheduled for June 05, 2019"
+    }
+  },
+  "day107": {
+    "tweet1": {
+      "content": "Guinea iron ore prospectors set sights on ArcelorMittal rail"
+    },
+    "tweet2": {
+      "content": "Silvercorp Metals Inc. (SVM) Ex-Dividend Date Scheduled for June 06, 2019"
+    },
+    "tweet3": {
+      "content": "Silvercorp Metals Inc. (SVM) Ex-Dividend Date Scheduled for June 06, 2019"
+    },
+    "tweet4": {
+      "content": "A Closer Look At COMPANY_X Group's (ASX:COMPANY_X) Impressive ROE"
+    }
+  },
+  "day108": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day109": {
+    "tweet1": {
+      "content": "COMPANY_X says 5 dams pose ‘extreme risk’ in case of collapse"
+    },
+    "tweet2": {
+      "content": "COMPANY_X says five dams pose ‘extreme risk’ in case of collapse"
+    },
+    "tweet3": {
+      "content": "REFILE-UPDATE 3-Major miners reveal tailings dam data, action plans following disasters"
+    }
+  },
+  "day110": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day111": {
+    "tweet1": {
+      "content": "Franco-Nevada Corporation (FNV) Ex-Dividend Date Scheduled for June 12, 2019"
+    },
+    "tweet2": {
+      "content": "Franco-Nevada Corporation (FNV) Ex-Dividend Date Scheduled for June 12, 2019"
+    }
+  },
+  "day112": {
+    "tweet1": {
+      "content": "Vale’s Woes Keep Mounting"
+    }
+  },
+  "day113": {
+    "tweet1": {
+      "content": "Iron Ore, Gold Surge Propel S. Africa Miners to 11-Year High"
+    },
+    "tweet2": {
+      "content": "Vale’s Woes Keep Mounting"
+    },
+    "tweet3": {
+      "content": "Vale’s Woes Keep Mounting"
+    }
+  },
+  "day114": {
+    "tweet1": {
+      "content": "Supply or Demand: What Will Weigh on Iron Ore Prices More?"
+    },
+    "tweet2": {
+      "content": "COMPANY_X (COMPANY_X) Moves to Buy: Rationale Behind the Upgrade"
+    },
+    "tweet3": {
+      "content": "COMPANY_X (COMPANY_X) Moves to Buy: Rationale Behind the Upgrade"
+    },
+    "tweet4": {
+      "content": "COMPANY_X (COMPANY_X) Moves to Buy: Rationale Behind the Upgrade"
+    }
+  },
+  "day115": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day116": {
+    "tweet1": {
+      "content": "Iron Ore Prices Surge to 5-Year High on Supply Crunch Fears"
+    },
+    "tweet2": {
+      "content": "Iron Ore Prices Surge to 5-Year High on Supply Crunch Fears"
+    },
+    "tweet3": {
+      "content": "Iron Ore Prices Surge to 5-Year High on Supply Crunch Fears"
+    }
+  },
+  "day117": {
+    "tweet1": {
+      "content": "ASX Inched Closer to New High, KOSPI and Singapore Gained Big"
+    }
+  },
+  "day118": {
+    "tweet1": {
+      "content": "Here’s What Hedge Funds Think About COMPANY_X Group (BBL)"
+    },
+    "tweet2": {
+      "content": "Top Ranked Income Stocks to Buy for June 20th"
+    },
+    "tweet3": {
+      "content": "Top Ranked Income Stocks to Buy for June 20th"
+    },
+    "tweet4": {
+      "content": "Top Ranked Income Stocks to Buy for June 20th"
+    }
+  },
+  "day119": {
+    "tweet1": {
+      "content": "Here's Why COMPANY_X (COMPANY_X) is a Great Momentum Stock to Buy"
+    },
+    "tweet2": {
+      "content": "Here's Why COMPANY_X (COMPANY_X) is a Great Momentum Stock to Buy"
+    },
+    "tweet3": {
+      "content": "Here's Why COMPANY_X (COMPANY_X) is a Great Momentum Stock to Buy"
+    }
+  },
+  "day120": {
+    "tweet1": {
+      "content": "ASX Recovers, KOSPI Is Flat, and Singapore Index Retreats"
+    }
+  },
+  "day121": {
+    "tweet1": {
+      "content": "Houston's NAI Partners subleases space from COMPANY_X for new Galleria-area HQ"
+    },
+    "tweet2": {
+      "content": "How the NZ50, ASX, Singapore, and KOSPI Indexes Fared Today"
+    },
+    "tweet3": {
+      "content": "How NZ50, ASX, Singapore, KOSPI Indexes Fared Today"
+    }
+  },
+  "day122": {
+    "tweet1": {
+      "content": "KOSPI Is Flat, but ASX, NZ50, and Singapore Indexes Lose Slightly"
+    },
+    "tweet2": {
+      "content": "Kirkland Lake Gold Ltd. (KL) Ex-Dividend Date Scheduled for June 27, 2019"
+    },
+    "tweet3": {
+      "content": "Kirkland Lake Gold Ltd. (KL) Ex-Dividend Date Scheduled for June 27, 2019"
+    },
+    "tweet4": {
+      "content": "Yamana Gold Inc. (AUY) Ex-Dividend Date Scheduled for June 27, 2019"
+    },
+    "tweet5": {
+      "content": "Yamana Gold Inc. (AUY) Ex-Dividend Date Scheduled for June 27, 2019"
+    },
+    "tweet6": {
+      "content": "Osisko Gold Royalties Ltd (OR) Ex-Dividend Date Scheduled for June 27, 2019"
+    },
+    "tweet7": {
+      "content": "Osisko Gold Royalties Ltd (OR) Ex-Dividend Date Scheduled for June 27, 2019"
+    }
+  },
+  "day123": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day124": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day125": {
+    "tweet1": {
+      "content": "Australian shares gain on U.S.-China ceasefire and RBA cut hopes; NZ flat"
+    },
+    "tweet2": {
+      "content": "Have Insiders Been Selling COMPANY_X Group (ASX:COMPANY_X) Shares?"
+    },
+    "tweet3": {
+      "content": "Should We Worry About COMPANY_X Group's (ASX:COMPANY_X) P/E Ratio?"
+    }
+  },
+  "day126": {
+    "tweet1": {
+      "content": "Cleveland-Cliffs Inc. (CLF) Ex-Dividend Date Scheduled for July 03, 2019"
+    },
+    "tweet2": {
+      "content": "Cleveland-Cliffs Inc. (CLF) Ex-Dividend Date Scheduled for July 03, 2019"
+    },
+    "tweet3": {
+      "content": "Royal Gold, Inc. (RGLD) Ex-Dividend Date Scheduled for July 03, 2019"
+    },
+    "tweet4": {
+      "content": "Royal Gold, Inc. (RGLD) Ex-Dividend Date Scheduled for July 03, 2019"
+    }
+  },
+  "day127": {
+    "tweet1": {
+      "content": "Top 4 Natural Gas Stocks as of July 2018"
+    },
+    "tweet2": {
+      "content": "Asia-Pacific Update: Most Indexes Fall—with a Few Exceptions"
+    },
+    "tweet3": {
+      "content": "Winning Stock Strategies for 2H"
+    }
+  },
+  "day128": {
+    "tweet1": {
+      "content": "Iron Ore: Chinese Steel Mills Urge Probe into Price Spike"
+    },
+    "tweet2": {
+      "content": "Iron Ore: Chinese Steel Mills Urge Probe into Price Spike"
+    }
+  },
+  "day129": {
+    "tweet1": {
+      "content": "China's Price Probe Drags Iron Ore Down From 5-Year High"
+    },
+    "tweet2": {
+      "content": "China's Price Probe Drags Iron Ore Down From 5-Year High"
+    },
+    "tweet3": {
+      "content": "New Strong Buy Stocks for July 8th"
+    },
+    "tweet4": {
+      "content": "New Strong Buy Stocks for July 8th"
+    },
+    "tweet5": {
+      "content": "Innospec (IOSP) Hits 52-Week High: What's Driving the Stock?"
+    },
+    "tweet6": {
+      "content": "Innospec (IOSP) Hits 52-Week High: What's Driving the Stock?"
+    },
+    "tweet7": {
+      "content": "China's Price Probe Drags Iron Ore Down From 5-Year High"
+    },
+    "tweet8": {
+      "content": "Innospec (IOSP) Hits 52-Week High: What's Driving the Stock?"
+    },
+    "tweet9": {
+      "content": "New Strong Buy Stocks for July 8th"
+    }
+  },
+  "day130": {
+    "tweet1": {
+      "content": "Air Products (APD) to Showcase Efficient Medical Gas Supply"
+    },
+    "tweet2": {
+      "content": "Air Products (APD) to Showcase Efficient Medical Gas Supply"
+    },
+    "tweet3": {
+      "content": "Scotts Miracle-Gro Hits 52-Week High: What's Driving it?"
+    },
+    "tweet4": {
+      "content": "Scotts Miracle-Gro Hits 52-Week High: What's Driving it?"
+    },
+    "tweet5": {
+      "content": "Scotts Miracle-Gro Hits 52-Week High: What's Driving it?"
+    },
+    "tweet6": {
+      "content": "Air Products (APD) to Showcase Efficient Medical Gas Supply"
+    }
+  },
+  "day131": {
+    "tweet1": {
+      "content": "Most Asia-Pacific Indexes Gain as Markets Wait for Powell"
+    },
+    "tweet2": {
+      "content": "Caledonia Mining Corporation Plc (CMCL) Ex-Dividend Date Scheduled for July 11, 2019"
+    },
+    "tweet3": {
+      "content": "Caledonia Mining Corporation Plc (CMCL) Ex-Dividend Date Scheduled for July 11, 2019"
+    }
+  },
+  "day132": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day133": {
+    "tweet1": {
+      "content": "Oil outlook amid Gulf of Mexico storm, Iran tensions"
+    },
+    "tweet2": {
+      "content": "5 ETFs & Stocks Riding High on Oil Rebound"
+    },
+    "tweet3": {
+      "content": "China’s Iron Ore Imports Drop, Will Prices Stay Elevated?"
+    },
+    "tweet4": {
+      "content": "6 Large-Cap Dividend Stocks to Lend Stability to Your Portfolio"
+    },
+    "tweet5": {
+      "content": "London markets gain as Fed rate cut optimism boosts global stocks"
+    }
+  },
+  "day134": {
+    "tweet1": {
+      "content": "Estimating The Fair Value Of COMPANY_X Group (ASX:COMPANY_X)"
+    }
+  },
+  "day135": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: JP Morgan, UnitedHealth, Lockheed Martin and COMPANY_X Billiton"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: JP Morgan, UnitedHealth, Lockheed Martin and COMPANY_X Billiton"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: JP Morgan, UnitedHealth, Lockheed Martin and COMPANY_X Billiton"
+    }
+  },
+  "day136": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day137": {
+    "tweet1": {
+      "content": "Mining Newcomer Bets on $1 Billion Copper Project for Growth"
+    },
+    "tweet2": {
+      "content": "Asian markets fall on economic red flags as trade-war standoff persists"
+    }
+  },
+  "day138": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day139": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day140": {
+    "tweet1": {
+      "content": "How to Win on Stocks with a Trade War"
+    },
+    "tweet2": {
+      "content": "How to Win on Stocks with a Trade War"
+    },
+    "tweet3": {
+      "content": "How to Win on Stocks with a Trade War"
+    },
+    "tweet4": {
+      "content": "Exclusive: Some Australian COMPANY_X investors push for external candidate for CEO"
+    }
+  },
+  "day141": {
+    "tweet1": {
+      "content": "Mining for good; tax avoidance; proxy advisers on notice"
+    }
+  },
+  "day142": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day143": {
+    "tweet1": {
+      "content": "Today's Auto Market, Fact Versus Science Fiction"
+    },
+    "tweet2": {
+      "content": "Mesabi Trust (MSB) Ex-Dividend Date Scheduled for July 29, 2019"
+    },
+    "tweet3": {
+      "content": "Mesabi Trust (MSB) Ex-Dividend Date Scheduled for July 29, 2019"
+    }
+  },
+  "day144": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day145": {
+    "tweet1": {
+      "content": "Australia’s $240 Billion Stock Rally Blasts Past Record High"
+    }
+  },
+  "day146": {
+    "tweet1": {
+      "content": "Pre-Market Most Active for Jul 31, 2019 :  GE, NOK, AMD, COMPANY_X, AAPL, AMRN, EIX, QQQ, SPOT, MU, ENPH, ITUB"
+    },
+    "tweet2": {
+      "content": "Pre-Market Most Active for Jul 31, 2019 :  GE, NOK, AMD, COMPANY_X, AAPL, AMRN, EIX, QQQ, SPOT, MU, ENPH, ITUB"
+    },
+    "tweet3": {
+      "content": "Why You Should Like COMPANY_X Group’s (ASX:COMPANY_X) ROCE"
+    }
+  },
+  "day147": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day148": {
+    "tweet1": {
+      "content": "The Iron Ore Boom Looks Like It’s About to Go Bust"
+    },
+    "tweet2": {
+      "content": "The 10 Biggest Energy Stocks"
+    },
+    "tweet3": {
+      "content": "Commodities Roiled as Trump Pours Gasoline on Trade War Inferno"
+    }
+  },
+  "day149": {
+    "tweet1": {
+      "content": "COMPANY_X Group Ltd (COMPANY_X) Shares Cross Below 200 DMA"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Group Ltd (COMPANY_X) Shares Cross Below 200 DMA"
+    },
+    "tweet3": {
+      "content": "Pre-Market Most Active for Aug 5, 2019 :  TVIX, GLYC, AMD, QQQ, TQQQ, SQQQ, TOT, COMPANY_X, BABA, NIO, NOK, APHA"
+    },
+    "tweet4": {
+      "content": "Pre-Market Most Active for Aug 5, 2019 :  TVIX, GLYC, AMD, QQQ, TQQQ, SQQQ, TOT, COMPANY_X, BABA, NIO, NOK, APHA"
+    }
+  },
+  "day150": {
+    "tweet1": {
+      "content": "Southern Copper Corporation (SCCO) Ex-Dividend Date Scheduled for August 07, 2019"
+    },
+    "tweet2": {
+      "content": "Southern Copper Corporation (SCCO) Ex-Dividend Date Scheduled for August 07, 2019"
+    }
+  },
+  "day151": {
+    "tweet1": {
+      "content": "COMPANY_X Group to invest $283 million in Trinidad and Tobago petroleum project"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Group to invest $283 mln in Trinidad and Tobago petroleum project"
+    },
+    "tweet3": {
+      "content": "5 Top Dividend Stocks to Gain From a Dovish Federal Reserve"
+    },
+    "tweet4": {
+      "content": "REFILE-UPDATE 2-Australia's Stanmore Coal gets $300 mln takeover bid from Winfield Energy"
+    }
+  },
+  "day152": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day153": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day154": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day155": {
+    "tweet1": {
+      "content": "COMPANY_X Group (ASX:COMPANY_X) Has A Pretty Healthy Balance Sheet"
+    }
+  },
+  "day156": {
+    "tweet1": {
+      "content": "Relative Strength Alert For COMPANY_X Group"
+    },
+    "tweet2": {
+      "content": "Relative Strength Alert For COMPANY_X Group"
+    },
+    "tweet3": {
+      "content": "Iron Ore Stocks Rise After Goldman Boosts Price Outlook"
+    }
+  },
+  "day157": {
+    "tweet1": {
+      "content": "Top Coal-Mining Stocks for 2019"
+    },
+    "tweet2": {
+      "content": "Houston-based arm of French energy co. to move headquarters"
+    },
+    "tweet3": {
+      "content": "Southern Copper's Tia Maria Construction License Suspended"
+    },
+    "tweet4": {
+      "content": "Southern Copper's Tia Maria Construction License Suspended"
+    },
+    "tweet5": {
+      "content": "Pan American Silver Corp. (PAAS) Ex-Dividend Date Scheduled for August 16, 2019"
+    },
+    "tweet6": {
+      "content": "Pan American Silver Corp. (PAAS) Ex-Dividend Date Scheduled for August 16, 2019"
+    },
+    "tweet7": {
+      "content": "Southern Copper's Tia Maria Construction License Suspended"
+    }
+  },
+  "day158": {
+    "tweet1": {
+      "content": "Copper Prices May Take Off as Supply Tightens"
+    }
+  },
+  "day159": {
+    "tweet1": {
+      "content": "COMPANY_X annual profit rises on robust iron ore prices, pays record dividend"
+    }
+  },
+  "day160": {
+    "tweet1": {
+      "content": "How Do Analysts See COMPANY_X Group (ASX:COMPANY_X) Performing In The Next 12 Months?"
+    },
+    "tweet2": {
+      "content": "COMPANY_X's FY19 Earnings and Revenues Up Y/Y on Higher Prices"
+    },
+    "tweet3": {
+      "content": "COMPANY_X's FY19 Earnings and Revenues Up Y/Y on Higher Prices"
+    },
+    "tweet4": {
+      "content": "COMPANY_X's FY19 Earnings and Revenues Up Y/Y on Higher Prices"
+    },
+    "tweet5": {
+      "content": "Mining giant COMPANY_X pays record dividend, but flags risks to global growth"
+    }
+  },
+  "day161": {
+    "tweet1": {
+      "content": "Wheaton Precious Metals Corp. (WPM) Ex-Dividend Date Scheduled for August 22, 2019"
+    },
+    "tweet2": {
+      "content": "Wheaton Precious Metals Corp. (WPM) Ex-Dividend Date Scheduled for August 22, 2019"
+    },
+    "tweet3": {
+      "content": "Is BP a Buy?"
+    },
+    "tweet4": {
+      "content": "Is BP a Buy?"
+    }
+  },
+  "day162": {
+    "tweet1": {
+      "content": "BP Places 21 Bids in the Latest US Gulf of Mexico Lease Sale"
+    },
+    "tweet2": {
+      "content": "BP Places 21 Bids in the Latest US Gulf of Mexico Lease Sale"
+    }
+  },
+  "day163": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day164": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day165": {
+    "tweet1": {
+      "content": "Validea Peter Lynch Strategy Daily Upgrade Report - 8/27/2019"
+    },
+    "tweet2": {
+      "content": "Validea Peter Lynch Strategy Daily Upgrade Report - 8/27/2019"
+    },
+    "tweet3": {
+      "content": "South Texas Drilling Permit Roundup: BP makes Eagle Ford debut under new name"
+    }
+  },
+  "day166": {
+    "tweet1": {
+      "content": "India eases foreign investment rules for several sector to boost growth"
+    },
+    "tweet2": {
+      "content": "Barrick Gold Corporation (GOLD) Ex-Dividend Date Scheduled for August 29, 2019"
+    },
+    "tweet3": {
+      "content": "Barrick Gold Corporation (GOLD) Ex-Dividend Date Scheduled for August 29, 2019"
+    },
+    "tweet4": {
+      "content": "Agnico Eagle Mines Limited (AEM) Ex-Dividend Date Scheduled for August 29, 2019"
+    },
+    "tweet5": {
+      "content": "Agnico Eagle Mines Limited (AEM) Ex-Dividend Date Scheduled for August 29, 2019"
+    },
+    "tweet6": {
+      "content": "BP's Alaska Exit Is a Sign of Oil's Times"
+    }
+  },
+  "day167": {
+    "tweet1": {
+      "content": "Betting on Stocks Down Under"
+    },
+    "tweet2": {
+      "content": "Talks on Guinea's iron ore advance, COMPANY_X nears deal on Nimba-sources"
+    }
+  },
+  "day168": {
+    "tweet1": {
+      "content": "COMPANY_X to evacuate non-essential staff from Gulf of Mexico platforms on Saturday"
+    },
+    "tweet2": {
+      "content": "UPDATE 2-Chevron, COMPANY_X evacuate workers from Gulf of Mexico due to hurricane"
+    }
+  },
+  "day169": {
+    "tweet1": {
+      "content": "Tech Billionaire Backs New Demand on COMPANY_X Over Climate Action"
+    }
+  },
+  "day170": {
+    "tweet1": {
+      "content": "Gold Fields Limited (GFI) Ex-Dividend Date Scheduled for September 05, 2019"
+    },
+    "tweet2": {
+      "content": "Gold Fields Limited (GFI) Ex-Dividend Date Scheduled for September 05, 2019"
+    },
+    "tweet3": {
+      "content": "Hudbay Minerals Inc. (HBM) Ex-Dividend Date Scheduled for September 05, 2019"
+    },
+    "tweet4": {
+      "content": "Hudbay Minerals Inc. (HBM) Ex-Dividend Date Scheduled for September 05, 2019"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Group Limited (COMPANY_X) Ex-Dividend Date Scheduled for September 05, 2019"
+    },
+    "tweet6": {
+      "content": "COMPANY_X Group Limited (COMPANY_X) Ex-Dividend Date Scheduled for September 05, 2019"
+    },
+    "tweet7": {
+      "content": "COMPANY_X investors file resolution to cut funding for Australian coal lobby groups"
+    }
+  },
+  "day171": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day172": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day173": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day174": {
+    "tweet1": {
+      "content": "Newmont Goldcorp Corporation (NEM) Ex-Dividend Date Scheduled for September 11, 2019"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp Corporation (NEM) Ex-Dividend Date Scheduled for September 11, 2019"
+    },
+    "tweet3": {
+      "content": "Franco-Nevada Corporation (FNV) Ex-Dividend Date Scheduled for September 11, 2019"
+    },
+    "tweet4": {
+      "content": "Franco-Nevada Corporation (FNV) Ex-Dividend Date Scheduled for September 11, 2019"
+    }
+  },
+  "day175": {
+    "tweet1": {
+      "content": "COMT, COMPANY_X, DE, SHW: Large Inflows Detected at ETF"
+    },
+    "tweet2": {
+      "content": "COMT, COMPANY_X, DE, SHW: Large Inflows Detected at ETF"
+    }
+  },
+  "day176": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day177": {
+    "tweet1": {
+      "content": "New Strong Sell Stocks for September 13th"
+    }
+  },
+  "day178": {
+    "tweet1": {
+      "content": "Top Stock Reports for Celgene, Sinopec & HSBC"
+    },
+    "tweet2": {
+      "content": "COMPANY_X shares jump 6% on oil price spike"
+    }
+  },
+  "day179": {
+    "tweet1": {
+      "content": "FOCUS-Vale misled public on dangerous dams, prompting Brazil probe -source"
+    },
+    "tweet2": {
+      "content": "Vale misled public on dangerous dams, prompting Brazil probe: source"
+    },
+    "tweet3": {
+      "content": "FOCUS-Vale misled public on dangerous dams, prompting Brazil probe -source"
+    }
+  },
+  "day180": {
+    "tweet1": {
+      "content": "FOCUS-Vale misled public on dangerous dams, prompting Brazil probe -source"
+    }
+  },
+  "day181": {
+    "tweet1": {
+      "content": "ExxonMobil's Australia Bass Strait Assets Up for Sale Again"
+    }
+  },
+  "day182": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day183": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day184": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day185": {
+    "tweet1": {
+      "content": "6 Guru Stocks With High Dividend Yields"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Approached Anglo American Chief Mark Cutifani for CEO Role"
+    }
+  },
+  "day186": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day187": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day188": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day189": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day190": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day191": {
+    "tweet1": {
+      "content": "Here is Hedge Funds’ 12th Most Popular Stock Pick"
+    },
+    "tweet2": {
+      "content": "New Strong Sell Stocks for October 3rd"
+    },
+    "tweet3": {
+      "content": "Moving Average Crossover Alert: COMPANY_X Group"
+    }
+  },
+  "day192": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day193": {
+    "tweet1": {
+      "content": "Chilean copper mines register mixed output in August - Cochilco"
+    },
+    "tweet2": {
+      "content": "New Strong Sell Stocks for October 7th"
+    }
+  },
+  "day194": {
+    "tweet1": {
+      "content": "5 Underperforming Guru Stocks"
+    },
+    "tweet2": {
+      "content": "Vale Expects to Conclude Dam Burst Disbursements by 2022"
+    }
+  },
+  "day195": {
+    "tweet1": {
+      "content": "Is COMPANY_X Group (BBL) A Good Stock To Buy?"
+    },
+    "tweet2": {
+      "content": "REFILE-Church of England calls for climate voting debate before miner COMPANY_X's AGM"
+    }
+  },
+  "day196": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day197": {
+    "tweet1": {
+      "content": "Houston energy co. files Chapter 11 bankruptcy at over $1B debt"
+    }
+  },
+  "day198": {
+    "tweet1": {
+      "content": "Something To Consider Before Buying COMPANY_X Group (ASX:COMPANY_X) For The 5.3% Dividend"
+    }
+  },
+  "day199": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day200": {
+    "tweet1": {
+      "content": "Asian Stocks Mixed; Hong Kong Property Developers Gain on New Government Measures"
+    },
+    "tweet2": {
+      "content": "Top Research Reports for Southern, Applied Materials & Vertex"
+    }
+  },
+  "day201": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day202": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day203": {
+    "tweet1": {
+      "content": "UPDATE 3-Chile's Pinera vows 'new social contract' amid massive marches against inequality"
+    },
+    "tweet2": {
+      "content": "Chile scrambles to clean up mess after weekend of chaos, violent protests"
+    },
+    "tweet3": {
+      "content": "Workers at Chile's Escondida copper mine, world's largest, to walk off job Tuesday"
+    }
+  },
+  "day204": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day205": {
+    "tweet1": {
+      "content": "UPDATE 3-Chile's Codelco resumes operations after union calls for end to strike"
+    }
+  },
+  "day206": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day207": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day208": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day209": {
+    "tweet1": {
+      "content": "UPDATE 1-'So much damage': Chile protests flare back up as reforms fall short"
+    },
+    "tweet2": {
+      "content": "COMPANY_X says Escondida copper mine in Chile operating at 'reduced rate'"
+    }
+  },
+  "day210": {
+    "tweet1": {
+      "content": "Record Iron Ore Cargoes, Lower Prices Forecast"
+    }
+  },
+  "day211": {
+    "tweet1": {
+      "content": "Should COMPANY_X Group (ASX:COMPANY_X) Be Disappointed With Their 60% Profit?"
+    }
+  },
+  "day212": {
+    "tweet1": {
+      "content": "COMPANY_X Group approves $44 million for JV Samarco restart"
+    }
+  },
+  "day213": {
+    "tweet1": {
+      "content": "U.K. stocks boom on hopes for China trade deal"
+    }
+  },
+  "day214": {
+    "tweet1": {
+      "content": "CORRECTED-Brazil's Samarco to resume $4 bln debt restructuring talks - sources"
+    }
+  },
+  "day215": {
+    "tweet1": {
+      "content": "Top Research Reports for Berkshire Hathaway, Adobe & COMPANY_X"
+    }
+  },
+  "day216": {
+    "tweet1": {
+      "content": "Chile's Codelco boosts copper output by 7.5% in September, annual production lags"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Berkshire Hathaway, Adobe Systems, COMPANY_X, BlackRock and Aktiengesellschaft"
+    },
+    "tweet3": {
+      "content": "Shareholders at COMPANY_X AGM vote to stay in industry lobby groups"
+    },
+    "tweet4": {
+      "content": "Top Miner COMPANY_X Sees Initial U.S.-China Trade Deal Boosting Copper"
+    }
+  },
+  "day217": {
+    "tweet1": {
+      "content": "London stocks slip as commodity-related stocks, banks weigh"
+    }
+  },
+  "day218": {
+    "tweet1": {
+      "content": "Miner COMPANY_X taps oil, gas for growth after shale exit"
+    }
+  },
+  "day219": {
+    "tweet1": {
+      "content": "Chilean copper mines struggle on despite protest road blocks and shift delays"
+    }
+  },
+  "day220": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day221": {
+    "tweet1": {
+      "content": "The World’s Top Miner Appoints Its Next CEO"
+    },
+    "tweet2": {
+      "content": "COMPANY_X’s New CEO Has Lessons From Japan To Beat China Slowdown"
+    },
+    "tweet3": {
+      "content": "Calm, considered, Henry to steer COMPANY_X through choppy times"
+    },
+    "tweet4": {
+      "content": "COMPANY_X’s New Boss Shows Mining Is Still Nervous"
+    },
+    "tweet5": {
+      "content": "Factbox: New COMPANY_X CEO Henry to drive efficiencies, focus on social licence"
+    },
+    "tweet6": {
+      "content": "Global miner COMPANY_X taps Australia head Henry as new CEO"
+    }
+  },
+  "day222": {
+    "tweet1": {
+      "content": "CEO exodus hits record as COMPANY_X boss jumps ship"
+    },
+    "tweet2": {
+      "content": "Public consultation launched on global tailings dam standards"
+    }
+  },
+  "day223": {
+    "tweet1": {
+      "content": "Mining trade group voices concerns on proposed tailings dam standards"
+    }
+  },
+  "day224": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day225": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day226": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day227": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day228": {
+    "tweet1": {
+      "content": "COMPANY_X Plans to Increase Its Stake in Ecuador-Focused SolGold"
+    }
+  },
+  "day229": {
+    "tweet1": {
+      "content": "COMPANY_X to Bump Up Stake in SolGold to 14.7% for $22 Million"
+    },
+    "tweet2": {
+      "content": "Australia- A Safe Way to Invest in Pacific Growth"
+    }
+  },
+  "day230": {
+    "tweet1": {
+      "content": "FTSE 100 climbs to highest level since August as trade deal optimism returns"
+    },
+    "tweet2": {
+      "content": "COMPANY_X's Henry signals new technology a focus in first speech"
+    }
+  },
+  "day231": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day232": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day233": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day234": {
+    "tweet1": {
+      "content": "Buying Iron Ore Is Getting More Like Shopping on Amazon"
+    }
+  },
+  "day235": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day236": {
+    "tweet1": {
+      "content": "Top Research Reports for Apple, PepsiCo & COMPANY_X"
+    }
+  },
+  "day237": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Apple, PepsiCo, COMPANY_X Group, Canadian National Railway and Schlumberger"
+    },
+    "tweet2": {
+      "content": "Chile's top miners boost copper output even amid protests"
+    }
+  },
+  "day238": {
+    "tweet1": {
+      "content": "What Does COMPANY_X Group's (ASX:COMPANY_X) P/E Ratio Tell You?"
+    }
+  },
+  "day239": {
+    "tweet1": {
+      "content": "Copper at 4-1/2-Month High on Solid Imports Data From China"
+    }
+  },
+  "day240": {
+    "tweet1": {
+      "content": "COMPANY_X puts four industry groups on notice after climate policy review"
+    }
+  },
+  "day241": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day242": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day243": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day244": {
+    "tweet1": {
+      "content": "COMPANY_X plans 'baby steps' return to commodities trading to cut transaction risk - sources"
+    }
+  },
+  "day245": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day246": {
+    "tweet1": {
+      "content": "Steelmageddon and 4 More Reasons Why U.S. Steel Cut Its Dividend"
+    }
+  },
+  "day247": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day248": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day249": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day250": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day251": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day252": {
+    "tweet1": {
+      "content": "Asia-Pacific markets dip on last trading day of the year"
+    }
+  },
+  "day253": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day254": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day255": {
+    "tweet1": {
+      "content": "Samarco Rebuffs Creditors on Resumption of Debt Talks"
+    }
+  },
+  "day256": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day257": {
+    "tweet1": {
+      "content": "Energy co. to open Houston regional HQ in COMPANY_X's new office tower"
+    }
+  },
+  "day258": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day259": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day260": {
+    "tweet1": {
+      "content": "COMPANY_X says Westpac chairman Lindsay Maxsted will not stand for re-election on its board"
+    },
+    "tweet2": {
+      "content": "Asian markets subdued ahead of signing of U.S.-China ‘phase one’ trade deal"
+    }
+  },
+  "day261": {
+    "tweet1": {
+      "content": "Big Coal Escapes BlackRock’s New Climate Plan"
+    }
+  },
+  "day262": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day263": {
+    "tweet1": {
+      "content": "Q4 Earnings Scorecard & Today's Top Stock Research Reports"
+    }
+  },
+  "day264": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Upgraded to Strong Buy: Here's Why"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: JNJ, COMPANY_X, MCO, NVDA and DAL"
+    },
+    "tweet3": {
+      "content": "New Strong Buy Stocks for January 17th"
+    }
+  },
+  "day265": {
+    "tweet1": {
+      "content": "Some big coal players may escape BlackRock’s planned divestment"
+    },
+    "tweet2": {
+      "content": "Resilient Chinese Steel Industry Holds Promise for Iron Ore"
+    },
+    "tweet3": {
+      "content": "Baltic index slips to 9-month low, dragged by lower vessel rates"
+    },
+    "tweet4": {
+      "content": "COMPANY_X’s iron ore output lifts on year, guidance unchanged"
+    }
+  },
+  "day266": {
+    "tweet1": {
+      "content": "COMPANY_X's Iron, Copper Production Up, Retains Fiscal 2020 Guidance"
+    }
+  },
+  "day267": {
+    "tweet1": {
+      "content": "New Strong Buy Stocks for January 23rd"
+    },
+    "tweet2": {
+      "content": "Top Ranked Income Stocks to Buy for January 23rd"
+    }
+  },
+  "day268": {
+    "tweet1": {
+      "content": "How the Iron Ore Market Works (VALE, RIO)"
+    }
+  },
+  "day269": {
+    "tweet1": {
+      "content": "Top Ranked Income Stocks to Buy for January 27th"
+    },
+    "tweet2": {
+      "content": "London stocks tumble as mining and oil companies hit by coronavirus worries"
+    }
+  },
+  "day270": {
+    "tweet1": {
+      "content": "Nucor's (NUE) Earnings, Sales Surpass Estimates in Q4"
+    }
+  },
+  "day271": {
+    "tweet1": {
+      "content": "The Big Dirty Secret of the World's Biggest Companies"
+    }
+  },
+  "day272": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day273": {
+    "tweet1": {
+      "content": "Here's What COMPANY_X Group's (ASX:COMPANY_X) ROCE Can Tell Us"
+    }
+  },
+  "day274": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day275": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day276": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day277": {
+    "tweet1": {
+      "content": "COMPANY_X Group Sees Hammer Chart Pattern: Time to Buy?"
+    }
+  },
+  "day278": {
+    "tweet1": {
+      "content": "Should Value Investors Consider COMPANY_X Group (COMPANY_X) Stock Now?"
+    }
+  },
+  "day279": {
+    "tweet1": {
+      "content": "COMPANY_X in Talks to Delay Copper Shipments to China Due to Virus"
+    }
+  },
+  "day280": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day281": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day282": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day283": {
+    "tweet1": {
+      "content": "The Interview That Should Terrify Owners of Freeport-McMoRan Stock"
+    }
+  },
+  "day284": {
+    "tweet1": {
+      "content": "Chile says copper price to recover soon from coronavirus impact - mining minister"
+    },
+    "tweet2": {
+      "content": "COMPANY_X’s new chief signals shift of focus to low-carbon economy "
+    },
+    "tweet3": {
+      "content": "The Top Miner’s Vision of The Future Looks A Lot Like The Past"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Sees Next Six Weeks as Key For Virus Hit to Commodities"
+    }
+  },
+  "day285": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day286": {
+    "tweet1": {
+      "content": "RPT-INSIGHT-Fires and climate fears rattle Australia's giant coal lobby"
+    },
+    "tweet2": {
+      "content": "Fires and climate fears rattle Australia's giant coal lobby"
+    },
+    "tweet3": {
+      "content": "INSIGHT-Fires and climate fears rattle Australia's giant coal lobby"
+    }
+  },
+  "day287": {
+    "tweet1": {
+      "content": "Brazil's Vale dam disaster report highlights governance shortcomings"
+    }
+  },
+  "day288": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day289": {
+    "tweet1": {
+      "content": "RPT-COLUMN-Iron ore shows rain can triumph over China virus fears: Russell"
+    },
+    "tweet2": {
+      "content": "COLUMN-Iron ore shows rain can triumph over China virus fears: Russell"
+    }
+  },
+  "day290": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day291": {
+    "tweet1": {
+      "content": "Is COMPANY_X Group's (ASX:COMPANY_X) 20% ROE Better Than Average?"
+    }
+  },
+  "day292": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day293": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day294": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day295": {
+    "tweet1": {
+      "content": "Colombian coal output fell 2% in 2019"
+    }
+  },
+  "day296": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day297": {
+    "tweet1": {
+      "content": "6 Underperforming Guru Stocks"
+    }
+  },
+  "day298": {
+    "tweet1": {
+      "content": "Chile's Codelco copper output slumps in January, Escondida jumps"
+    }
+  },
+  "day299": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day300": {
+    "tweet1": {
+      "content": "Australia's top court rejects COMPANY_X appeal over tax ruling"
+    }
+  },
+  "day301": {
+    "tweet1": {
+      "content": "Hedge Funds Were Dumping COMPANY_X Billiton Limited (COMPANY_X) Before Coronavirus"
+    },
+    "tweet2": {
+      "content": "A Sliding Share Price Has Us Looking At COMPANY_X Group's (ASX:COMPANY_X) P/E Ratio"
+    }
+  },
+  "day302": {
+    "tweet1": {
+      "content": "London stocks bounce, but set for biggest weekly loss since the financial crisis"
+    },
+    "tweet2": {
+      "content": "Hedge Funds Have Never Been This Bullish On COMPANY_X Billiton plc (BBL)"
+    }
+  },
+  "day303": {
+    "tweet1": {
+      "content": "Union members at Colombia's Cerrejon coal mine vote to strike"
+    }
+  },
+  "day304": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day305": {
+    "tweet1": {
+      "content": "From using drones to stockpiling cyanide, miners keep digging amid pandemic"
+    },
+    "tweet2": {
+      "content": "Chilean miners ask COMPANY_X to shut down Escondida copper mine or beef up safety measures against coronavirus"
+    },
+    "tweet3": {
+      "content": "JPMorgan: 2 Dividend Stocks to Buy (And 1 to Avoid)"
+    }
+  },
+  "day306": {
+    "tweet1": {
+      "content": "COMPANY_X says no hit to operations so far from coronavirus"
+    }
+  },
+  "day307": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day308": {
+    "tweet1": {
+      "content": "Top Research Reports for Bristol-Myers, COMPANY_X & CVS"
+    }
+  },
+  "day309": {
+    "tweet1": {
+      "content": "Colombia mining companies to reduce operations due to coronavirus"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Bristol-Myers Squibb, COMPANY_X, CVS Health, T-Mobile US and Anthem"
+    }
+  },
+  "day310": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day311": {
+    "tweet1": {
+      "content": "European stocks retreat, having rallied before Senate passage of stimulus bill"
+    }
+  },
+  "day312": {
+    "tweet1": {
+      "content": "Deep Underground and Sleeping at Work: How to Dodge Covid-19"
+    }
+  },
+  "day313": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day314": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day315": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day316": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day317": {
+    "tweet1": {
+      "content": "Chile's Cochilco sees copper price down 45 cents to $2.4 per pound in 2020"
+    },
+    "tweet2": {
+      "content": "Chilean copper miners \"considering production cuts\" - industry association"
+    },
+    "tweet3": {
+      "content": "Virus Curbs Force Oil, Mine Workers to Move Across a Continent"
+    }
+  },
+  "day318": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day319": {
+    "tweet1": {
+      "content": "GRAPHIC-Bets on potential mining defaults surge on worsening sector outlook"
+    }
+  },
+  "day320": {
+    "tweet1": {
+      "content": "COMPANY_X Group says 'small number' of COVID-19 cases among staff but no hit to operations"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Group says 'small number' of COVID-19 cases among staff but no hit to operations"
+    }
+  },
+  "day321": {
+    "tweet1": {
+      "content": "COMPANY_X´s Escondida in Chile confirms first two cases of coronavirus at world´s largest copper mine"
+    }
+  },
+  "day322": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Facebook, JPMorgan Chase, UnitedHealth, COMPANY_X and Cognizant Technology Solutions"
+    }
+  },
+  "day323": {
+    "tweet1": {
+      "content": "RPT-Global miner COMPANY_X faces water use lawsuit brought by Chilean state"
+    }
+  },
+  "day324": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day325": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day326": {
+    "tweet1": {
+      "content": "CORRECTED-GRAPHIC-Zinc supply cuts outstripped by demand destruction from coronavirus"
+    },
+    "tweet2": {
+      "content": "20 Basic Materials Stocks Moving In Friday's Pre-Market Session"
+    },
+    "tweet3": {
+      "content": "CORRECTED-Newmont to reopen some Canadian, South American mines in 'days or weeks'"
+    }
+  },
+  "day327": {
+    "tweet1": {
+      "content": "What to Watch in Commodities: Virus, WTI, Alcoa, COMPANY_X, Chevron"
+    }
+  },
+  "day328": {
+    "tweet1": {
+      "content": "COMPANY_X Maintains Fiscal 2020 Iron Ore Production Guidance"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Warning Hits Miners, PSA Sees Car Sales Slump: Earnings Wrap"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Maintains Iron Ore Output Outlook Despite Shaken Economy"
+    },
+    "tweet4": {
+      "content": "COMPANY_X holds iron ore output outlook despite virus risks"
+    }
+  },
+  "day329": {
+    "tweet1": {
+      "content": "Uranium Bulls: The Queue Starts Here"
+    }
+  },
+  "day330": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day331": {
+    "tweet1": {
+      "content": "Investors flock to South Korea as wins in coronavirus battle earn reward"
+    }
+  },
+  "day332": {
+    "tweet1": {
+      "content": "Peruvian copper mine Antamina reports 210 positive coronavirus cases"
+    }
+  },
+  "day333": {
+    "tweet1": {
+      "content": "World's mine workers resist quick restart amid coronavirus"
+    }
+  },
+  "day334": {
+    "tweet1": {
+      "content": "Chile copper industry largely unscathed by coronavirus - minister"
+    }
+  },
+  "day335": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day336": {
+    "tweet1": {
+      "content": "U.K. stocks and U.S. futures fall as Trump threatens China with tariffs and earnings spook investors"
+    }
+  },
+  "day337": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day338": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day339": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day340": {
+    "tweet1": {
+      "content": "Did You Participate In Any Of COMPANY_X Group's (ASX:COMPANY_X) Respectable 60% Return?"
+    }
+  },
+  "day341": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day342": {
+    "tweet1": {
+      "content": "Chile mining trade group sees copper supply glut of 200,000 tonnes in 2020"
+    },
+    "tweet2": {
+      "content": "Top Research Reports for Amgen, COMPANY_X, Altria & Others"
+    },
+    "tweet3": {
+      "content": "COMPANY_X-backed SolGold agrees funding of up to $150 mln from Franco-Nevada"
+    }
+  },
+  "day343": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Amgen, COMPANY_X, Altria, Apple and Target"
+    }
+  },
+  "day344": {
+    "tweet1": {
+      "content": "Norway wealth fund excludes Glencore, Anglo American, RWE, others for coal use and production"
+    }
+  },
+  "day345": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day346": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day347": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day348": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day349": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day350": {
+    "tweet1": {
+      "content": "Reasons to Hold COMPANY_X Group (COMPANY_X) Stock in Your Portfolio Now"
+    }
+  },
+  "day351": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day352": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day353": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day354": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day355": {
+    "tweet1": {
+      "content": "Gold M&A back on the agenda as coronavirus restrictions ease"
+    },
+    "tweet2": {
+      "content": "FOCUS-Pandemic saps union clout as talks loom with Chile copper miners"
+    }
+  },
+  "day356": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day357": {
+    "tweet1": {
+      "content": "Top Research Reports for Pfizer, Comcast & salesforce"
+    }
+  },
+  "day358": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Pfizer, Comcast, salesforce.com, Costco Wholesale and COMPANY_X Group"
+    }
+  },
+  "day359": {
+    "tweet1": {
+      "content": "Iron-Ore Prices Surge on Impending Demand-Supply Imbalance"
+    }
+  },
+  "day360": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day361": {
+    "tweet1": {
+      "content": "Iron Ore Prices Surge as Vale Ordered to Shut Itabira Mines"
+    }
+  },
+  "day362": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day363": {
+    "tweet1": {
+      "content": "Top Research Reports for Apple, Wells Fargo & COMPANY_X Group"
+    }
+  },
+  "day364": {
+    "tweet1": {
+      "content": "'Health, then production': Unions ramp up pressure on Chile copper miner Codelco"
+    },
+    "tweet2": {
+      "content": "New Strong Buy Stocks For June 11th"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Apple, Wells Fargo, COMPANY_X Group, Amazon.com and Marriott International"
+    },
+    "tweet4": {
+      "content": "Australian state says COMPANY_X can disturb 40 sacred sites in mine expansion"
+    }
+  },
+  "day365": {
+    "tweet1": {
+      "content": "Asian markets fall following Wall Street’s tumble"
+    }
+  },
+  "day366": {
+    "tweet1": {
+      "content": "What's So Special About These 3 Mining Stocks?"
+    }
+  },
+  "day367": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: VALE, COMPANY_X, RIO and FSUGY"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Tesla, COMPANY_X and Blackrock"
+    },
+    "tweet3": {
+      "content": "Chile says copper miners complying with sanitary measures amid outbreak"
+    }
+  },
+  "day368": {
+    "tweet1": {
+      "content": "Chile copper mine workers seek dialogue as coronavirus outbreak explodes"
+    },
+    "tweet2": {
+      "content": "CORRECTED-Copper sustainable group expects more members following Rio Tinto's units"
+    }
+  },
+  "day369": {
+    "tweet1": {
+      "content": "CORRECTED-Lawyer asks UN to intervene with Cerrejon mine on behalf of indigenous Colombians"
+    },
+    "tweet2": {
+      "content": "Hedge Funds Aren’t Crazy About COMPANY_X Group (BBL) Anymore"
+    }
+  },
+  "day370": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day371": {
+    "tweet1": {
+      "content": "Chile´s Codelco beefs up sanitary measures at its largest copper mine"
+    }
+  },
+  "day372": {
+    "tweet1": {
+      "content": "Is COMPANY_X Group (COMPANY_X) A Good Stock To Buy?"
+    }
+  },
+  "day373": {
+    "tweet1": {
+      "content": "Chevron Clinches Australia Gas Deal With COMPANY_X Nickel West"
+    }
+  },
+  "day374": {
+    "tweet1": {
+      "content": "Top Ranked Income Stocks to Buy for June 25th"
+    }
+  },
+  "day375": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day376": {
+    "tweet1": {
+      "content": "Chevron Snaps Up Gas Sales Deal With COMPANY_X in Western Australia"
+    }
+  },
+  "day377": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day378": {
+    "tweet1": {
+      "content": "COMPANY_X´s Cerro Colorado copper mine in Chile to scale down operations"
+    }
+  },
+  "day379": {
+    "tweet1": {
+      "content": "U.S. Cases Rise Most Since May 9; Texas Mask Order: Virus Update"
+    },
+    "tweet2": {
+      "content": "EMERGING MARKETS-Latam stocks up; Mexican, Colombian pesos lead FX gains"
+    },
+    "tweet3": {
+      "content": "EMERGING MARKETS-Latam stocks rise; commodity-linked currencies lead gains"
+    },
+    "tweet4": {
+      "content": "GLOBAL MARKETS-Stocks skip higher ahead of U.S. jobs data"
+    },
+    "tweet5": {
+      "content": "GLOBAL MARKETS-Stocks skip higher ahead of U.S. jobs data"
+    },
+    "tweet6": {
+      "content": "GLOBAL MARKETS-Asian stocks near 4-month highs on vaccine hopes, eyes on U.S. payrolls"
+    },
+    "tweet7": {
+      "content": "GLOBAL MARKETS-Asian stocks rise on vaccine hopes, eyes on U.S. payrolls"
+    }
+  },
+  "day380": {
+    "tweet1": {
+      "content": "Top Ranked Income Stocks to Buy for July 6th"
+    }
+  },
+  "day381": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day382": {
+    "tweet1": {
+      "content": "COMPANY_X´s Escondida mine in Chile offers early retirement package amid pandemic, union balks"
+    },
+    "tweet2": {
+      "content": "Top Stock Reports for Walmart, COMPANY_X & IBM"
+    }
+  },
+  "day383": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Walmart, COMPANY_X, International Business Machines, Costco Wholesale and Morgan Stanley"
+    }
+  },
+  "day384": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day385": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day386": {
+    "tweet1": {
+      "content": "COMPANY_X faces first step in $6.3 billion UK claim over Brazil dam failure"
+    },
+    "tweet2": {
+      "content": "Lundin defends early retirement package for Chile's Candelaria workers"
+    }
+  },
+  "day387": {
+    "tweet1": {
+      "content": "RPT-COMPANY_X faces first step in $6.3 billion UK claim over Brazil dam failure"
+    },
+    "tweet2": {
+      "content": "Board of Canada's Cornerstone rejects COMPANY_X-backed SolGold's offer for 2nd time"
+    }
+  },
+  "day388": {
+    "tweet1": {
+      "content": "COMPANY_X Is Said to Rebuff Early Bids Under Plan to Quit Thermal Coal"
+    }
+  },
+  "day389": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day390": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day391": {
+    "tweet1": {
+      "content": "U.K. stocks edge higher on EU recovery deal and vaccine hopes but AstraZeneca falls"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Reports 4% Rise in Iron Ore Production in Fiscal 2020"
+    },
+    "tweet3": {
+      "content": "U.K. stocks climb on EU recovery deal and vaccine hopes but AstraZeneca falls"
+    },
+    "tweet4": {
+      "content": "FOREX-EU deal and vaccine hopes keep dollar at bay"
+    },
+    "tweet5": {
+      "content": "COMPANY_X hits record iron ore output but warns of risks from virus"
+    }
+  },
+  "day392": {
+    "tweet1": {
+      "content": "COMPANY_X Faces Biggest U.K. Class Action Over Brazil Dam Collapse"
+    },
+    "tweet2": {
+      "content": "COMPANY_X labels English lawsuit over Brazil dam failure pointless, wasteful"
+    },
+    "tweet3": {
+      "content": "Australia shares fall as record virus cases dent investor sentiment"
+    }
+  },
+  "day393": {
+    "tweet1": {
+      "content": "'Please mine more nickel,' Musk urges as Tesla boosts production"
+    }
+  },
+  "day394": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day395": {
+    "tweet1": {
+      "content": "Were Hedge Funds Right About Souring On COMPANY_X Group (BBL)?"
+    },
+    "tweet2": {
+      "content": "Top Ranked Income Stocks to Buy for July 27th"
+    },
+    "tweet3": {
+      "content": "Brazil mayors say UK dam case vital in David-Goliath struggle with COMPANY_X"
+    },
+    "tweet4": {
+      "content": "Brazil tribes struggling to survive after dam burst to get day in court against COMPANY_X"
+    }
+  },
+  "day396": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day397": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day398": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day399": {
+    "tweet1": {
+      "content": "Chilean environmental watchdog announces &quot;serious&quot; charge against COMPANY_X's Escondida"
+    },
+    "tweet2": {
+      "content": "Australian miners Rio Tinto and Fortescue post record iron ore shipments as China industrial recovery continues"
+    }
+  }
+}

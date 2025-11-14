@@ -1,0 +1,493 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "Harvest Midstream I, L.P. -- Moody's rates Harvest Midstream Ba3, new notes issue B1"
+    },
+    "tweet2": {
+      "content": "Oil Crisis Presents COMPANY_X’s New CEO With a Chance to Change"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Stock Market Today: Stocks, Stimulus Both Inch Forward"
+    },
+    "tweet2": {
+      "content": "GLOBAL MARKETS-Gold soars past $2,000, gold up on stimulus plan"
+    },
+    "tweet3": {
+      "content": "Jon Najarian Sees Unusual Options Activity In COMPANY_X And Tilray"
+    },
+    "tweet4": {
+      "content": "GLOBAL MARKETS-Gold soars past $2,000, gold up on stimulus hopes"
+    },
+    "tweet5": {
+      "content": "Oil Prices Climb Despite Growing Demand Fears"
+    },
+    "tweet6": {
+      "content": "COMPANY_X Slashes Its Quarterly Dividend by 50%"
+    },
+    "tweet7": {
+      "content": "Why COMPANY_X Stock Fell 10% in July"
+    },
+    "tweet8": {
+      "content": "GLOBAL MARKETS-Gold charges toward $2,000, stocks climb on stimulus hopes"
+    },
+    "tweet9": {
+      "content": "Stock Markets Move Higher Despite COMPANY_X Dividend Cut, Virgin Galactic Stock Offering"
+    },
+    "tweet10": {
+      "content": "Stocks on the move: Facebook to lease new building in New York, COMPANY_X posts $17B loss"
+    },
+    "tweet11": {
+      "content": "COMPANY_X Gains Following Q2 Loss, Dividend Cut on Low-Carbon Plans"
+    },
+    "tweet12": {
+      "content": "As More Oil Majors Cut Their Dividends, Is Exxon's Next?"
+    },
+    "tweet13": {
+      "content": "COMPANY_X Cuts Dividend for the First Time in a Decade After Record Loss. Why Its Stock Is Rising Anyway."
+    },
+    "tweet14": {
+      "content": "ROCE Insights For COMPANY_X"
+    },
+    "tweet15": {
+      "content": "COMPANY_X Lags Q2 Earnings & Revenue Estimates, Halves Dividend"
+    },
+    "tweet16": {
+      "content": "I'm Done With COMPANY_X and Here's Why"
+    },
+    "tweet17": {
+      "content": "These companies have been hit hard as coronavirus causes earnings to plunge"
+    },
+    "tweet18": {
+      "content": "COMPANY_X halves dividend after suffering huge losses"
+    },
+    "tweet19": {
+      "content": "Recap: COMPANY_X Q2 Earnings"
+    },
+    "tweet20": {
+      "content": "COMPANY_X Slashes Dividend As Covid-19 Propels Q2 Loss; Shares Rise 8%"
+    },
+    "tweet21": {
+      "content": "Earnings Scheduled For August 4, 2020"
+    },
+    "tweet22": {
+      "content": "COMPANY_X Q2 Earnings and Revenues Miss Estimates on Low Oil Prices"
+    },
+    "tweet23": {
+      "content": "COMPANY_X to cut fossil fuels output by 40% by 2030"
+    },
+    "tweet24": {
+      "content": "Weak Diageo, Bayer earnings hit Europe stocks; COMPANY_X jumps"
+    },
+    "tweet25": {
+      "content": "COMPANY_X halves dividend after record loss, speeds up reinvention"
+    },
+    "tweet26": {
+      "content": "COMPANY_X's 2030 plan sees 40% drop in fossil output, $5 bln/yr low carbon budget"
+    },
+    "tweet27": {
+      "content": "COMPANY_X cuts dividend after record loss in Q2"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "‘Clueless’ investors just keep driving this ‘stupidly bullish’ stock market higher, CNBC’s Jim Cramer says"
+    },
+    "tweet2": {
+      "content": "Are Oil Giants Fighting For Profits Or Survival?"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Walks Away From the Oil Supermajor Model It Helped Create"
+    },
+    "tweet4": {
+      "content": "European shares lifted by positive earnings reports"
+    },
+    "tweet5": {
+      "content": "PRESS DIGEST-British Business - Aug 5"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Exxon Mobil Finally Surrenders To Low Oil Prices With Late Warning"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Plc Cuts Dividends, Is Exxon Mobil Next?"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Exxon Mobil, Chevron, Royal Dutch Shell, COMPANY_X and TOTAL"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "COVID Fears Cause Oil To Fall Back After A Brief Rally"
+    },
+    "tweet2": {
+      "content": "Exclusive: COMPANY_X poised to sell 'stranded assets' even if oil prices rally"
+    },
+    "tweet3": {
+      "content": "Exclusive: COMPANY_X poised to sell 'stranded assets' even if oil prices rally"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Big Oil Forced To Change Strategy After The Oil Price Crash"
+    },
+    "tweet2": {
+      "content": "Shipping services firm surges as FTSE 100 edges higher behind oil companies"
+    },
+    "tweet3": {
+      "content": "How Did the Big Oil Firms Stack Up This Earnings Season?"
+    },
+    "tweet4": {
+      "content": "GLOBAL MARKETS-Shares edge up as positive China industrial data outweighs trade jitters"
+    },
+    "tweet5": {
+      "content": "GLOBAL MARKETS-Shares climb as China industrial data offers hope for coronavirus recovery"
+    },
+    "tweet6": {
+      "content": "FOCUS-Coronavirus accelerates European utilities' digital drive"
+    },
+    "tweet7": {
+      "content": "China data drives early gains in European stocks"
+    },
+    "tweet8": {
+      "content": "COMPANY_X's green energy targets will be tough to meet"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Mexico president wants plan to execute energy vision by late Sept -sources"
+    },
+    "tweet2": {
+      "content": "I Squared eyes $2.4 bln sale of power firm Energia-sources"
+    },
+    "tweet3": {
+      "content": "Exxon to buy renewable diesel from Global Clean Energy for 5 years"
+    },
+    "tweet4": {
+      "content": "Australian COMPANY_X worker fired for Hitler memes wins $143,000 compensation"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "RWE a takeover target? Not in our control, CFO says"
+    },
+    "tweet2": {
+      "content": "COMPANY_X says oil output at Azeri projects falls 8% in H1"
+    },
+    "tweet3": {
+      "content": "U.S. tariffs weigh on Europe stocks; Airbus dips"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "The State of the Oil Industry, Part 1"
+    },
+    "tweet2": {
+      "content": "Oil Giants Have Contrasting Approaches To The Crisis"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "The State of the Oil Industry, Part 2"
+    },
+    "tweet2": {
+      "content": "The Trump Administration Wants to Let Companies Drill for Oil in the Alaska Wildlife Refuge. What Happens Next."
+    },
+    "tweet3": {
+      "content": "Republic Services, Aria Energy and COMPANY_X Partner on New Renewable Energy Project"
+    },
+    "tweet4": {
+      "content": "Piper Sandler Turns Bullish On COMPANY_X, Lifts PT"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Want to Make Money on Oil Stocks? Look to Europe."
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "GLOBAL MARKETS-Shares gain as Wall Street record outweighs jitters over growth"
+    },
+    "tweet2": {
+      "content": "GLOBAL MARKETS-Shares nudge up as Wall Street record outweighs jitters on growth"
+    },
+    "tweet3": {
+      "content": "European shares weaken after Wall St rally as growth worries persist"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "California’s Power Problems Could Benefit Natural Gas and Battery Makers"
+    },
+    "tweet2": {
+      "content": "How Investing Partnerships Can Fuel the Growth of Renewable Energy"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Activists Find Second Acts as the Investing Landscape Shifts"
+    },
+    "tweet2": {
+      "content": "COMPANY_X to Embrace Digital Working, Diminish Office Footprint"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: COMPANY_X, Royal Dutch Shell, Bloom Energy, Canadian Solar, Renewable Energy Group and First Solar"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "U.K. stocks rise as BT moves to fight off takeover threat and oil giants COMPANY_X and Shell gain"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "A Trio of Low Price-Book Ratio Stocks to Consider"
+    },
+    "tweet2": {
+      "content": "The Biggest Oil Discovery Of The Year Could Happen Here"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Hurricane Laura is 'big deal'  to U.S. oil output: Expert"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "REFILE-MOVES-Citadel hires ex-Glencore trader to head Asia commodities trading team"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Is Canadian Solar Undervalued?"
+    },
+    "tweet2": {
+      "content": "The Next Threat to Oil Prices: Russia?"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Becomes Accredited UK Living Wage Employer"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "RPT-Second U.S. shale boom's legacy: Overpriced deals, unwanted assets"
+    },
+    "tweet2": {
+      "content": "INSIGHT-Mexico's Pemex tests limits of investor influence on climate change"
+    },
+    "tweet3": {
+      "content": "Second U.S. shale boom's legacy: Overpriced deals, unwanted assets"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Mexico's Pemex, Hokchi begin talks over possible shared reservoir"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "5 Energy Stocks to Consider as Oil Prices Struggle to Recover"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Uber promises 100% electric vehicles by 2040, commits $800 mln to help drivers switch"
+    },
+    "tweet2": {
+      "content": "COMPANY_X and Aberdeen in Climate Positive Pact"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Analyzing COMPANY_X's Unusual Options Activity"
+    },
+    "tweet2": {
+      "content": "U.S. regulator calls climate change a systemic risk"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "10 Biggest Oil Companies"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Signs $1.1 Billion Offshore Wind Deal with Equinor"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Joins Up With Equinor For $1.1B Offshore Wind Partnership"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Moves into Offshore Wind"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Enters Offshore Wind Market With $1.1 Billion Equinor Deal. Why The Stock Is Falling."
+    },
+    "tweet6": {
+      "content": "COMPANY_X’s $1.1 Billion Deal Marks First Step Into Offshore Wind"
+    },
+    "tweet7": {
+      "content": "Equinor eyes $1 bln gain from offshore wind sale to COMPANY_X"
+    },
+    "tweet8": {
+      "content": "European shares inch higher with eyes on ECB"
+    },
+    "tweet9": {
+      "content": "Equinor sells U.S. wind power stakes to COMPANY_X for $1.1 bln"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "COMPANY_X Charters Oil Storage Tanker at 2020's Lowest Daily Rate"
+    },
+    "tweet2": {
+      "content": "COMPANY_X, Shell Urge Texas Regulator to End Routine Gas Flaring"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "COMPANY_X Calls Out Oil Demand Peak, OPEC Cuts 2021 Outlook"
+    },
+    "tweet2": {
+      "content": "Oil Demand May Have Already Peaked. Here’s Which Stocks Will Win—and Lose."
+    },
+    "tweet3": {
+      "content": "COMPANY_X Says Oil Demand May Have Already Peaked. Why That’s Not Bad News For Investors."
+    },
+    "tweet4": {
+      "content": "COMPANY_X's Forecasts Peak Oil Demand"
+    },
+    "tweet5": {
+      "content": "OPEC Sees Weaker Outlook as Demand Falters, Shale Recovers"
+    },
+    "tweet6": {
+      "content": "COMPANY_X Says the Era of Oil-Demand Growth Is Over"
+    },
+    "tweet7": {
+      "content": "PRESS DIGEST- Financial Times - Sept. 14"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Options Traders Are Pricing In an Exxon Dividend Cut, Analyst Says"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Says Oil Consumption May Never Return to Pre-Coronavirus Mark"
+    },
+    "tweet3": {
+      "content": "Microsoft, COMPANY_X Join Forces To Drive Digital Energy And Net Zero Carbon Goals"
+    },
+    "tweet4": {
+      "content": "Pandemic's &quot;great reset&quot; makes energy firms invest more in renewables - execs"
+    },
+    "tweet5": {
+      "content": "Big Oil Goes Looking for a Career Change"
+    },
+    "tweet6": {
+      "content": "PRESS DIGEST-British Business - Sept. 15"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "COMPANY_X Lifts Veil of Secrecy on Big Oil Trading Profits"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "COMPANY_X Sets a Target for 50 GW of Renewable Projects by 2030"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "COMPANY_X returns workers to NaKika, Thunderhorse platforms in U.S. Gulf -company"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Hess Corp, Equinor ASA, COMPANY_X, Exxon Mobil and Kosmos Energy"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Shell Is Said to Be Making Big Changes as It Gets More Green"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "COMPANY_X In Stonewall Top Global Employers List"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Nikola Stock Tumbles As Recent Allegations Spook Potential Partners"
+    },
+    "tweet2": {
+      "content": "Nikola Stock Drops 26% After COMPANY_X Backs Away From Hydrogen-Station Deal"
+    },
+    "tweet3": {
+      "content": "Why Nikola Stock Is Getting Zapped Again Today"
+    },
+    "tweet4": {
+      "content": "Nikola Held Talks with COMPANY_X on Hydrogen Fuel Network"
+    },
+    "tweet5": {
+      "content": "Nikola's talks with energy firms stalled after short-seller report - WSJ"
+    },
+    "tweet6": {
+      "content": "Nikola's talks with energy firms stalled after short-seller report - WSJ"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Nikola dips after COMPANY_X backs away from hydrogen deal"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "COMPANY_X’s Stock Price Crashes To The Lowest Level In 25 Years"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Hits 25-Year Low a Week After Unveiling Climate Strategy"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Hedge Funds Are Dumping COMPANY_X plc (COMPANY_X)"
+    },
+    "tweet2": {
+      "content": "Crude Oil Prices Edge Higher as Risk Appetite Returns"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Tecpetrol Internacional S.L.U. -- Moody's affirms Argentine non-financial companies' ratings, changes outlooks to stable"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "COMPANY_X Singapore Oil Traders Leave After Probe on Disputed Deals"
+    },
+    "tweet2": {
+      "content": "COMPANY_X sacks crude oil staff amid probe into China dealings"
+    }
+  }
+}

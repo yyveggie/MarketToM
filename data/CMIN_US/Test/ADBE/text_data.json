@@ -1,0 +1,628 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Dow Jones Sinks Over 375 Points After Trump Chills Stimulus Talks"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Son Overhauls SoftBank World to Showcase CEOs of Microsoft, IBM"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Top Stock Reports for Adobe, Costco & Union Pacific"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "3 Cloud-Focused Tech Stocks to Buy Now and Hold for Years"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Adobe, Costco, Union Pacific, NextEra Energy and Altria Group"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Twilio Surges As Acquisition Prepares It For Battle With Salesforce, Adobe"
+    },
+    "tweet2": {
+      "content": "How Unity Software Could Surpass Autodesk In 5 Years"
+    },
+    "tweet3": {
+      "content": "3 No-Brainer Stocks to Buy in Cloud Computing"
+    },
+    "tweet4": {
+      "content": "Twilio to Buy Customer Data Startup Segment for $3.2 Billion"
+    },
+    "tweet5": {
+      "content": "Adobe puts artificial intelligence tools into its marketing software"
+    },
+    "tweet6": {
+      "content": "Twilio Surges As Acquisition Prepare It For Battle With Salesforce, Adobe"
+    },
+    "tweet7": {
+      "content": "3 Tech Stocks Trading At A Discount To Analyst Estimates"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "IBD 50 Stocks To Watch: Adobe Tops Microsoft As It Draws Close To New Buy Point"
+    },
+    "tweet2": {
+      "content": "Is Adobe Stock A Buy Now? Here's What Earnings, COMPANY_X Chart Show"
+    },
+    "tweet3": {
+      "content": "Walmart, Live Nation Entertainment, Adobe, Intuit and Zoom Video highlighted as Zacks Bull and Bear of the Day"
+    },
+    "tweet4": {
+      "content": "Dow Jones Futures Move On 3 Dow Giants; Apple, Amazon Keep Driving Stock Market Rally"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Stocks Close Lower As Market Uptrend Stays In Force; These 3 Growth Stocks Trade Near Buy Points"
+    },
+    "tweet2": {
+      "content": "Adobe Setting Up"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "Adobe (COMPANY_X) Up 6.4% Since Last Earnings Report: Can It Continue?"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Adobe Systems (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Dow Jones Futures Rise On Coronavirus Vaccine, Boeing 737 Max News; Zoom Video In Buy Zone, Apple, Amazon Set Up"
+    },
+    "tweet3": {
+      "content": "Dow Jones Futures: Zoom Video Breaks Out; Market Pause Bullish For Apple, These Titans"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Adobe brings its misinformation-fighting content attribution tool to the Photoshop beta"
+    },
+    "tweet2": {
+      "content": "Were Hedge Funds Right About Adobe Inc. (COMPANY_X)?"
+    },
+    "tweet3": {
+      "content": "Adobe MAX 2020: Enabling ‘Creativity for All’ with Creative Cloud Innovation"
+    },
+    "tweet4": {
+      "content": "Adobe Photoshop gets new AI smarts with neural filters, sky replacement and more"
+    },
+    "tweet5": {
+      "content": "Adobe Lightroom gets a new color grading tool, auto versions, graphical watermarking and more"
+    },
+    "tweet6": {
+      "content": "Adobe Unveils Authentication Tool in Battle Against Deepfakes"
+    },
+    "tweet7": {
+      "content": "Adobe Rolls Out Illustrator for iPad After Rocky Photoshop Debut"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Splunk Sees More Growth and Increased Customer Spending"
+    },
+    "tweet2": {
+      "content": "Epic S&P 500 Rally Is Powered by Assets You Can’t See or Touch"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Adobe Systems (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Is Now The Time To Look At Buying Adobe Inc. (NASDAQ:COMPANY_X)?"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Microsoft Teams With Adobe and C3.ai to Take on Salesforce on Its Home Turf"
+    },
+    "tweet2": {
+      "content": "Twilio Projects Loss on Expansion Costs to Meet Growing Demand"
+    },
+    "tweet3": {
+      "content": "Electronic voting will become 'fraud proof' and it will prompt more people to vote: Adobe CEO"
+    },
+    "tweet4": {
+      "content": "C3.ai, Microsoft, and Adobe Combine Forces to Re-invent CRM with AI"
+    },
+    "tweet5": {
+      "content": "Best ESG Companies By Category: These Are The Top 3 ESG Stocks In 8 Industries"
+    },
+    "tweet6": {
+      "content": "Best ESG Companies: Top 50 Stocks For Environmental, Social And Governance Values"
+    },
+    "tweet7": {
+      "content": "Adobe Stock Gains And Learns From Mistakes, Excels In ESG Investing"
+    },
+    "tweet8": {
+      "content": "Dow Jones Futures Tumble As Coronavirus Cases Soar: Market Rally Set To Test Key Levels; Microsoft, Tesla Near Buy Points"
+    },
+    "tweet9": {
+      "content": "Dow Jones Futures: Coronavirus Cases Soar In Pivotal Week For Market Rally; Microsoft, Tesla Near Buy Points"
+    },
+    "tweet10": {
+      "content": "Exclusive Interview with Aamer Khan of Qualivian Investment Partners"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Adobe E-Commerce Report: 2020 Holiday Spending Will Break Records"
+    },
+    "tweet2": {
+      "content": "Covid-19 Pandemic Will Drive These Tech Changes In 2021"
+    },
+    "tweet3": {
+      "content": "How Heard Capital Has Been Trading Its High Conviction Stock Picks"
+    },
+    "tweet4": {
+      "content": "This Fund Excels With A Focus On Digital Transformers Like Shopify"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "3 Cheap Stocks to Buy Despite Renewed Coronavirus Fears"
+    },
+    "tweet2": {
+      "content": "Adobe Predicts Online Shopping Surge This Holiday Season"
+    },
+    "tweet3": {
+      "content": "Another round of stimulus checks could help boost U.S. online holiday sales by $11 billion, Adobe says"
+    },
+    "tweet4": {
+      "content": "Holiday Shopping Won’t Be the Same. Adobe Predicts a Spike in Online Sales."
+    },
+    "tweet5": {
+      "content": "U.S. online holiday spending to grow a jolly 33% this year- report"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Adobe Systems (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "These 3 Leaderboard Stocks Are Setting Up: Here's What To Look For"
+    },
+    "tweet3": {
+      "content": "3 Tech Stocks to Buy Now for Long-Term Gains"
+    },
+    "tweet4": {
+      "content": "Top Research Reports for UnitedHealth, Adobe & Pfizer"
+    },
+    "tweet5": {
+      "content": "3 Recession-Ready Stocks to Buy Right Now"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "These 3 Top Growth Stocks Are Testing Key Levels: Here's What To Look For"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: UnitedHealth Group, Adobe, Pfizer, Intel and T-Mobile US"
+    },
+    "tweet3": {
+      "content": "Zacks Investment Ideas feature highlights: Microsoft, Amazon, Zoom Video, Adobe and NVIDIA"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Adobe Systems (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Adobe Stock Earns Membership In 95-Plus Composite Rating Club"
+    },
+    "tweet3": {
+      "content": "Why SaaS Stocks Were Flying Higher Wednesday"
+    },
+    "tweet4": {
+      "content": "Daily Spotlight: Stocks Once Again Better Value"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Adobe Buying Workfront for $1.5 Billion"
+    },
+    "tweet2": {
+      "content": "Adobe acquires marketing workflow startup Workfront for $1.5B"
+    },
+    "tweet3": {
+      "content": "Adobe to Buy Workfront for $1.5 Billion to Aid Collaboration"
+    },
+    "tweet4": {
+      "content": "Adobe to Acquire Workfront"
+    },
+    "tweet5": {
+      "content": "Adobe, Microsoft Team Up To Drive AI Technology As Adobe Stock Eyes New Buy Zone"
+    },
+    "tweet6": {
+      "content": "SoftBank Discloses $20 Billion Tech-Stock Bet, Big Gains for Vision Fund"
+    },
+    "tweet7": {
+      "content": "Dropbox (DBX) Tops Q3 Earnings & Revenue Estimates, Ups View"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Adobe Will Buy Workfront for $1.5 Billion"
+    },
+    "tweet2": {
+      "content": "Adobe (COMPANY_X) to Boost Workflow Management Via Workfront Buyout"
+    },
+    "tweet3": {
+      "content": "Adobe Inks $1.5B Deal To Buy Workfront; Street Bullish"
+    },
+    "tweet4": {
+      "content": "Stop Saying \"Tech Stocks\" Right Now"
+    },
+    "tweet5": {
+      "content": "Adobe's Plans To Strengthen Its Experience Cloud Segment With $1.5B Workfront Acquisition"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Adobe Acquiring Management Platform Specialist Workfront for $1.5 Billion"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Alibaba’s Singles Day Sales Growth Keeps Pace"
+    },
+    "tweet2": {
+      "content": "Better Buy: Slack vs. Adobe"
+    },
+    "tweet3": {
+      "content": "Will Weakness in Adobe Inc.'s (NASDAQ:COMPANY_X) Stock Prove Temporary Given Strong Fundamentals?"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Got $10,000? These 3 Top Growth Stocks Could Set You Up for Life"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Software Growth Stocks To Buy And Watch: Why Cloud Will Prevail Post Pandemic"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "15 Biggest Cloud Computing Companies in the World"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Adobe Systems (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "With a Coronavirus Vaccine On the Horizon, Is DocuSign Stock a Buy?"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Forget Apple. These 5 Stocks Are a Better Bet on New Digital Data Privacy Standards"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Adobe Systems (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Is Adobe Inc. (COMPANY_X) A Good Stock To Buy?"
+    },
+    "tweet3": {
+      "content": "Amazon’s $3,000 Signing Bonuses Irk Workers Who Got $10 Coupons"
+    },
+    "tweet4": {
+      "content": "Adobe expands customer data platform to include B2B sales"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Amazon Cloud Outage Hits Customers Including Roku, Adobe"
+    },
+    "tweet2": {
+      "content": "Amazon Merchants Say Deliveries of Some Products Are Delayed"
+    },
+    "tweet3": {
+      "content": "Better Buy: Adobe vs. DocuSign"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Amazon Could Grab 42% Of U.S. Holiday E-Commerce Spending"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "Adobe Systems (COMPANY_X) Gains As Market Dips: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Shopify Reports Record-Setting Black Friday Sales"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "Cyber Monday Sales Hit a Record $10.8 Billion"
+    },
+    "tweet2": {
+      "content": "Cyber Monday rings up record $10.8 billion in sales with Amazon touting ‘biggest holiday shopping season so far’"
+    },
+    "tweet3": {
+      "content": "Final Tally: Adobe Cites Record $10.8B Cyber Monday"
+    },
+    "tweet4": {
+      "content": "Cyber Monday Shoppers Spent $10.8 Billion, Missing Projection"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "Adobe to Webcast Q4 & FY2020 Earnings Conference Call and Financial Analyst Meeting"
+    },
+    "tweet2": {
+      "content": "Salesforce Buys Slack to Compete With Microsoft"
+    },
+    "tweet3": {
+      "content": "Are Microsoft And Adobe Coming For Salesforce's Market Share?"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "Adobe Systems (COMPANY_X) Reports Next Week: Wall Street Expects Earnings Growth"
+    },
+    "tweet2": {
+      "content": "2 Stocks I'll Be Buying When the Market Crashes Again"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "The Adobe (NASDAQ:COMPANY_X) Share Price Has Soared 444%, Delighting Many Shareholders"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "Buy Adobe and Lululemon Stock Before Earnings?"
+    },
+    "tweet2": {
+      "content": "Adobe Completes Acquisition of Workfront"
+    },
+    "tweet3": {
+      "content": "With Mixed Indicators, Adobe Could Go Ether Way"
+    },
+    "tweet4": {
+      "content": "Adobe Strengthens Ahead Of Earnings"
+    },
+    "tweet5": {
+      "content": "Adobe (COMPANY_X) Gears Up for Q4 Earnings: What's in the Cards?"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "Dow Ends Higher After Turnaround on Rising Energy Stocks, Stimulus"
+    },
+    "tweet2": {
+      "content": "A Preview Of Adobe's Earnings"
+    },
+    "tweet3": {
+      "content": "Adobe (COMPANY_X) Perfectly Positioned for New Highs"
+    },
+    "tweet4": {
+      "content": "Adobe (COMPANY_X) Boosts Marketing Offerings With Workfront Buyout"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "Siebel-Led C3.ai More Than Doubles After $651 Million IPO"
+    },
+    "tweet2": {
+      "content": "Cloud Stocks To Watch: Fast-Growing Real Estate Firm Rises Toward Breakout"
+    },
+    "tweet3": {
+      "content": "Siebel-Led C3.ai Exceeds IPO Target to Raise $651 Million"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "Adobe Tops Wall Street's Fourth-Quarter Targets, Guides Higher"
+    },
+    "tweet2": {
+      "content": "This Is Adobe's Must-Hold Support Level if You Buy the Earnings Dip"
+    },
+    "tweet3": {
+      "content": "Chevron Lifts Dow Jones As Nasdaq Rebounds On Baidu, Starbucks; Software Giant Twilio Breaks Out"
+    },
+    "tweet4": {
+      "content": "Dow Jones Buoyed By Soaring Chevron Stock; Nasdaq Rebound Led By Baidu, Starbucks; Software Giant Twilio Breaks Out"
+    },
+    "tweet5": {
+      "content": "I Like Adobe but It's Not Safe to Grab Some Here, Not Yet Anyway"
+    },
+    "tweet6": {
+      "content": "Adobe Systems (COMPANY_X) Beats Q4 Earnings and Revenue Estimates"
+    },
+    "tweet7": {
+      "content": "Adobe Tops Estimates, Offers Stronger-Than-Forecast Outlook"
+    },
+    "tweet8": {
+      "content": "‘Firing on all cylinders’ during COVID-19: Adobe offers promising outlook after earnings beat"
+    },
+    "tweet9": {
+      "content": "Adobe Sales Forecast Tops Estimates on Creative Software"
+    },
+    "tweet10": {
+      "content": "Dow Jones Futures: Stock Market Rally Sell-Off Is Good News; Airbnb IPO Prices High, Adobe Earnings Top; FDA Coronavirus Vaccine Decision Due"
+    },
+    "tweet11": {
+      "content": "Recap: Adobe Q4 Earnings"
+    },
+    "tweet12": {
+      "content": "Adobe Outlines Growth Opportunities at Financial Analyst Meeting"
+    },
+    "tweet13": {
+      "content": "Adobe Reports Record Q4 and Fiscal 2020 Revenue"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "Is COMPANY_X Stock A Buy Now After Earnings Beat Views?"
+    },
+    "tweet2": {
+      "content": "Tech Stocks 2020 in Review"
+    },
+    "tweet3": {
+      "content": "Oracle (ORCL): Value In A Sea Of Excess"
+    },
+    "tweet4": {
+      "content": "Adobe Is Well Positioned To Capture Opportunity Ahead"
+    },
+    "tweet5": {
+      "content": "Adobe (COMPANY_X) Q4 Earnings and Revenues Surpass Estimates"
+    },
+    "tweet6": {
+      "content": "The maker of Photoshop says photos are obsolete"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Oracle, Adobe, Costco, AutoZone, Regeneron Pharmaceuticals and Bank of New York Mellon"
+    },
+    "tweet2": {
+      "content": "Zacks Investment Ideas feature highlights: Oracle, Adobe, Microsoft, Amazon and Google"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "Top Stock Reports for Coca-Cola, Oracle & Chevron"
+    },
+    "tweet2": {
+      "content": "Adobe's Document Services make PDFs easier to work with for developers"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "Here's Why Microsoft Is a Juggernaut Investors Should Watch"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "Pandemic putting ‘further strain’ on systems banks use: IBM Hybrid Cloud SVP"
+    },
+    "tweet2": {
+      "content": "Adobe brings over 20,000 design assets to Spark"
+    },
+    "tweet3": {
+      "content": "Zacks Earnings Trends Highlights: AutoZone, Oracle, Costco and Adobe"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "3 Recent Buybacks Returning Wealth to Shareholders"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "Cloud Stocks To Watch: Adobe Stock Targets Breakout With AI, Machine Learning"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "The 12 Best Stocks to Buy for a Whole New Year of Returns in 2021"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "5 Best Tech Stocks for 2021"
+    },
+    "tweet2": {
+      "content": "Dow Jones Futures Rise: President Trump Signs Stimulus Deal; Tesla On Cusp Of 'Historic Milestone'"
+    },
+    "tweet3": {
+      "content": "Dow Jones Futures: President Trump Signs Stimulus Deal; Tesla On Cusp Of 'Historic Milestone'"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "Best Stocks For 2021: Disney (DIS)"
+    }
+  }
+}

@@ -1,0 +1,958 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "SPECIAL REPORT-Plastic pandemic: COVID-19 trashed the recycling dream"
+    },
+    "tweet2": {
+      "content": "BUZZ-U.S. STOCKS ON THE MOVE-TC PipeLines, energy stocks, big banks, Plug Power"
+    },
+    "tweet3": {
+      "content": "Why Kosmos Energy Stock Jumped 26% at the Open Today"
+    },
+    "tweet4": {
+      "content": "U.S. oil deals sluggish despite Chevron, Devon boost - Enverus"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "U.S. Gulf oil platforms shutting as Hurricane Delta strengthens"
+    },
+    "tweet2": {
+      "content": "Should You Sell Your Oil Stocks Right Now?"
+    },
+    "tweet3": {
+      "content": "Mexico's Cancun threatened by 'extremely dangerous' Hurricane Delta"
+    },
+    "tweet4": {
+      "content": "Chevron shutting Gulf of Mexico facilities due to hurricane Delta"
+    },
+    "tweet5": {
+      "content": "Vontier To Replace Noble Energy In S&P 500 "
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "EXCLUSIVE-Chevron workers face demands to reapply for jobs under global restructuring -sources"
+    },
+    "tweet2": {
+      "content": "Venezuela's PDVSA boosts crude blending, upgrading as exports tick up"
+    },
+    "tweet3": {
+      "content": "Why These Oil Stocks Fell More Than 20% in September"
+    },
+    "tweet4": {
+      "content": "Storm-weary U.S. energy producers, refiners prep for hurricane strike"
+    },
+    "tweet5": {
+      "content": "Chevron, Brightmark form JV for dairy biomethane fuel project"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Jim Cramer: Here Are 2 Oil Trades to Consider, Otherwise You're on Your Own"
+    },
+    "tweet2": {
+      "content": "S&P 500 Gains 27 Points as Occidental, ExxonMobil Lead Oil Stock Surge, IBM Shares Rise on Spinoff"
+    },
+    "tweet3": {
+      "content": "Market Recap: Thursday, October 8"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: BP, Equinor, Royal Dutch and Chevron"
+    },
+    "tweet5": {
+      "content": "Chevron (COMPANY_X) Announces Noble Energy Acquisition Deal Closure"
+    },
+    "tweet6": {
+      "content": "Chevron Dethrones Exxon as the Largest U.S. Oil Company"
+    },
+    "tweet7": {
+      "content": "Chevron Dethrones Exxon as the Largest U.S. Oil Company"
+    },
+    "tweet8": {
+      "content": "Canadian Natural Concludes Acquisition Deal With Painted Pony"
+    },
+    "tweet9": {
+      "content": "3 Embarrassingly Cheap Dividend Stocks"
+    },
+    "tweet10": {
+      "content": "3 Embarrassingly Cheap Dividend Stocks"
+    },
+    "tweet11": {
+      "content": "IBM, Regeneron Rise Premarket; Morgan Stanley Falls"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Oil Prices Climb 10% In A Week"
+    },
+    "tweet2": {
+      "content": "4 International Oil Stocks to Escape Coronavirus-Led Industry Woes"
+    },
+    "tweet3": {
+      "content": "Wall Street Opens Higher as Faith in Stimulus Persists; Dow up 130 Pts"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Chevron (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Chevron Allies With Brightmark for Dairy Biomethane Project"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "The Case for an Exxon-Chevron Merger"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "This Could Be The Year's Biggest Oil And Gas Takeover"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: TOT, Alphabet, COMPANY_X and Royal Dutch"
+    },
+    "tweet3": {
+      "content": "ConocoPhillips in Talks to Buy Concho: What's in Store?"
+    },
+    "tweet4": {
+      "content": "Concho Resources Jumps on Report ConocoPhillips in Takeover Talks"
+    },
+    "tweet5": {
+      "content": "Is Oil Dividend Outlook at Risk Amid Coronavirus Pandemic?"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "An Analyst Plays Matchmaker With Chevron and Exxon"
+    },
+    "tweet2": {
+      "content": "COVID Kills Another Oil Rally"
+    },
+    "tweet3": {
+      "content": "Stay Clear of Exxon Mobil Until the Turbulence Fades"
+    },
+    "tweet4": {
+      "content": "U.S. oil majors pitch more campaign cash to Democrats as frack battle looms"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "ConocoPhillips Wades Deeper Into Permian With Concho Acquisition"
+    },
+    "tweet2": {
+      "content": "Here's What the EIA's Latest Crude Inventory Report Revealed"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Chevron (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "River Valley Community Bancorp Announces 3rd Quarter Results (Unaudited)"
+    },
+    "tweet3": {
+      "content": "Pioneer Inks Father-Son Shale Merger, Adding To Permian Basin Frenzy"
+    },
+    "tweet4": {
+      "content": "Top Analyst Reports for NVIDIA, salesforce & AstraZeneca"
+    },
+    "tweet5": {
+      "content": "This Father-Son Shale Merger May Add To Permian Basin Frenzy"
+    },
+    "tweet6": {
+      "content": "Pioneer (PXD) in Talks to Buy Parsley: What You Should Know"
+    },
+    "tweet7": {
+      "content": "ConocoPhillips Confirms $9.7B Acquisition Deal With Concho"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Why Investors Should Be Upbeat About Exxon Mobil"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: NVIDIA, Salesforce, AstraZeneca, JPMorgan and Chevron"
+    },
+    "tweet3": {
+      "content": "Pioneer's (PXD) $4.5B Buyout Deal With Parsley is Official Now"
+    },
+    "tweet4": {
+      "content": "Chevron Is Still the Strongest Energy Stock"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Natural gas driller EQT Corp seeking to buy CNX Resources - Bloomberg News"
+    },
+    "tweet2": {
+      "content": "The Oil Stock Merger Wave Continues"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Top 3rd-Quarter Trades of the Smead Value Fund"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Pioneer Natural, ConocoPhillips, Concho, Devon and Chevron"
+    },
+    "tweet3": {
+      "content": "Kevin O'Leary Turns Bearish On Schlumberger And Chevron After Debate"
+    },
+    "tweet4": {
+      "content": "Analysts Estimate Chevron (COMPANY_X) to Report a Decline in Earnings: What to Look Out for"
+    },
+    "tweet5": {
+      "content": "Trump, Biden discussing climate solutions at debate ‘a step forward’: policy analyst"
+    },
+    "tweet6": {
+      "content": "Investors focused on late scandals, not Trump, Biden debate: analyst"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Was The Smart Money Right About Souring On Chevron Corporation (COMPANY_X)?"
+    },
+    "tweet2": {
+      "content": "Shale Oil & Gas M&As Pick Up: Here's What Investors Must Know"
+    },
+    "tweet3": {
+      "content": "Crude Oil Tumbles as OPEC Happy Talk Fails to Quell Demand Fears"
+    },
+    "tweet4": {
+      "content": "Chevron pulls some staff from offshore U.S. ahead of Tropical Storm Zeta"
+    },
+    "tweet5": {
+      "content": "FOCUS-Chevron bets on Middle East gas riches and reconciliation"
+    },
+    "tweet6": {
+      "content": "Chevron bets on Middle East gas riches and reconciliation"
+    },
+    "tweet7": {
+      "content": "Chevron bets on Middle East gas riches and reconciliation"
+    },
+    "tweet8": {
+      "content": "Chevron bets on Middle East gas riches and reconciliation"
+    },
+    "tweet9": {
+      "content": "Chevron evacuating staff from Gulf of Mexico due to storm Zeta"
+    },
+    "tweet10": {
+      "content": "Big Oil Loses Refining Crutch With Margins Crushed Last Quarter"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "EQT Corp to buy Chevron's assets in Appalachian basin for $735 mln"
+    },
+    "tweet2": {
+      "content": "Exclusive: Chevron to lay off about 25% of Noble Energy employees after merger"
+    },
+    "tweet3": {
+      "content": "Exclusive: Chevron to lay off about 25% of Noble Energy employees after merger"
+    },
+    "tweet4": {
+      "content": "Crude Oil Bounces as Yet Another Hurricane Shuts in Gulf Rigs"
+    },
+    "tweet5": {
+      "content": "10 High-Yielding Stocks That Should Please Investors Looking for Income"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Chevron Announces Quarterly Dividend"
+    },
+    "tweet2": {
+      "content": "New Orleans Braces for Most Powerful Hurricane Since Katrina"
+    },
+    "tweet3": {
+      "content": "What's in the Cards for Chevron (COMPANY_X) This Earnings Season?"
+    },
+    "tweet4": {
+      "content": "These Are the Stocks to Watch in a Biden Sweep: Election Guide"
+    },
+    "tweet5": {
+      "content": "EQT to Buy Chevron Appalachian Shale Gas Assets for $735 Million"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Exxon Ends Four-Decade Dividend Streak As More Losses Expected"
+    },
+    "tweet2": {
+      "content": "Should You Buy Energy ETFs Ahead of Q3 Earnings"
+    },
+    "tweet3": {
+      "content": "Exxon Decides Not to Raise Its Dividend. Is a Cut in the Cards?"
+    },
+    "tweet4": {
+      "content": "Oil & Gas Stocks' Q3 Earnings Due on Oct 30: XOM, COMPANY_X & IMO"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Exxon Pressed On Dividend As Huge Writedown Looms While Chevron Earnings Surprise"
+    },
+    "tweet2": {
+      "content": "Oil Has Worst Month Since March After Covid Surge Hurts Recovery"
+    },
+    "tweet3": {
+      "content": "Chevron Surprises With Profit Despite Dimming Outlook"
+    },
+    "tweet4": {
+      "content": "Oil Sees Worst Month Since March"
+    },
+    "tweet5": {
+      "content": "Will Exxon Stock Hit New Lows on Earnings, Dividend Affirmation?"
+    },
+    "tweet6": {
+      "content": "WRAPUP 4-Chevron, Exxon shrink spending as coronavirus cuts demand"
+    },
+    "tweet7": {
+      "content": "Exxon Warns of $30 Billion Shale Writedown Decade After XTO"
+    },
+    "tweet8": {
+      "content": "ExxonMobil Posts $680 Million Q3 Loss, Tops Street Revenue Forecasts"
+    },
+    "tweet9": {
+      "content": "WRAPUP 2-Chevron, Exxon shrink spending as coronavirus cuts demand"
+    },
+    "tweet10": {
+      "content": "Chevron Stock Ticks Up After Earnings Beat. Oil Giant Says It’s ‘Resilient’ to Weak Prices."
+    },
+    "tweet11": {
+      "content": "Income, Spending Up in September; Plus COMPANY_X, HON & More"
+    },
+    "tweet12": {
+      "content": "Chevron, Exxon shrink spending as coronavirus cuts demand"
+    },
+    "tweet13": {
+      "content": "Chevron, Exxon shrink spending as coronavirus cuts demand"
+    },
+    "tweet14": {
+      "content": "Chevron, Exxon manage to keep dividends intact despite oil woes"
+    },
+    "tweet15": {
+      "content": "Chevron (COMPANY_X) Q3 Earnings Top Estimates, Cost Cuts Help"
+    },
+    "tweet16": {
+      "content": "Exxon Warns On Huge Writedown, Slashes Spending For 2021; Chevron Posts Surprise Earnings"
+    },
+    "tweet17": {
+      "content": "Chevron Posts Narrower Q3 Loss; Looks to Cost Cuts Amid Oil Price Collapse"
+    },
+    "tweet18": {
+      "content": "3 Incredibly Cheap Energy Stocks"
+    },
+    "tweet19": {
+      "content": "Chevron Corp. to Host Earnings Call"
+    },
+    "tweet20": {
+      "content": "Exxon Beats, Slashes Spending For 2021; Chevron Posts Surprise Earnings"
+    },
+    "tweet21": {
+      "content": "Chevron (COMPANY_X) Q3 Earnings Top Estimates"
+    },
+    "tweet22": {
+      "content": "Chevron's Debt Overview"
+    },
+    "tweet23": {
+      "content": "Chevron: Q3 Earnings Insights"
+    },
+    "tweet24": {
+      "content": "Chevron swings to loss as coronavirus saps demand, oil prices fall"
+    },
+    "tweet25": {
+      "content": "Chevron posts profit on deep cost cuts, improved oil prices"
+    },
+    "tweet26": {
+      "content": "Chevron posts profit on deep cost cuts, improved oil prices"
+    },
+    "tweet27": {
+      "content": "Chevron Announces Third Quarter 2020 Results"
+    },
+    "tweet28": {
+      "content": "Wall Street Opens Lower on Tech Disappointment; Dow Down 100 Pts"
+    },
+    "tweet29": {
+      "content": "Dow Futures Fall 233 Pts; Tech Giants Disappoint"
+    },
+    "tweet30": {
+      "content": "Coronavirus, consolidation taking toll on energy jobs"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Chevron Canada Funding Company -- Moody's announces completion of a periodic review of ratings of Chevron Corporation"
+    },
+    "tweet2": {
+      "content": "Analyst Report: Chevron Corporation"
+    },
+    "tweet3": {
+      "content": "Energy ETFs in Focus Post Exxon, Chevron Earnings"
+    },
+    "tweet4": {
+      "content": "Company News for Nov 2, 2020"
+    },
+    "tweet5": {
+      "content": "Nasdaq Composite Falls 2.4%, and Two More Numbers to Know"
+    },
+    "tweet6": {
+      "content": "Earnings Reports for the Week of Nov. 2-6"
+    },
+    "tweet7": {
+      "content": "Chevron aims for Nov restart of LNG production at Australia's Gorgon plant"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Forget Fracking, Oil Stocks Will Likely Move More On These Factors Post-Election"
+    },
+    "tweet2": {
+      "content": "Dow Jones Charges Higher As America Makes Trump Vs. Biden Choice; These Stocks Breakout"
+    },
+    "tweet3": {
+      "content": "Why Oil Markets Aren’t Focused On The Election"
+    },
+    "tweet4": {
+      "content": "Chevron Canada Funding Company -- Moody's announces completion of a periodic review of ratings of Chevron Corporation"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Oil Stocks Mixed As Markets Weigh Prospect Of More Divided Government"
+    },
+    "tweet2": {
+      "content": "Oil Stocks Climb, Renewables Slip as U.S. Green Ambitions Dim"
+    },
+    "tweet3": {
+      "content": "Oil & Gas Stock Roundup: Breaking Down Big Oil Q3 Earnings"
+    },
+    "tweet4": {
+      "content": "New Strong Sell Stocks for November 4th"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "6 Stocks to Ride an Energy Comeback"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Clean Energy Fuels Corp (CLNE) Q3 2020 Earnings Call Transcript"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Big Oil Stocks Are Soaring on COVID-19 Vaccine News Today"
+    },
+    "tweet2": {
+      "content": "Shell upped to buy at HSBC, which also keeps BP and Total at buy"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Bernie Sanders's Economic Plan: A Second Bill of Rights"
+    },
+    "tweet2": {
+      "content": "2 Energy Stocks With Promise: A Technical Look"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Biggest U.S. Gas Producer Seeks More M&A After Chevron Deal"
+    },
+    "tweet2": {
+      "content": "Dow Jones Today Lags, Nasdaq Rallies As Zoom, Autodesk, Skyworks Bounce"
+    },
+    "tweet3": {
+      "content": "Dow Jones Today Jumps 160 Points, Chases Nasdaq As Zoom, Autodesk, Skyworks Bounce"
+    },
+    "tweet4": {
+      "content": "Dow Jones Today Chases Nasdaq Futures As Zoom, Nvidia, PayPal Rebound"
+    },
+    "tweet5": {
+      "content": "Does P/E Ratio Matter? The Trade Desk vs. Chevron"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Don't Expect A Vaccine To Spark A Quick Rebound In Oil Demand"
+    },
+    "tweet2": {
+      "content": "Oil Soars 10%: 2 Best Buys Now"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Robert Olstein's Top 3rd-Quarter Trades"
+    },
+    "tweet2": {
+      "content": "3 Oil Stocks To Buy And Bull Trade For Big Gains"
+    },
+    "tweet3": {
+      "content": "Do These 3 Checks Before Buying Chevron Corporation (NYSE:COMPANY_X) For Its Upcoming Dividend"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Why ExxonMobil, Chevron, Kinder Morgan, and Other Energy Stocks Jumped Today"
+    },
+    "tweet2": {
+      "content": "Dow Surges To Record High Amid Covid Vaccine Enthusiasm; Boeing Takes Off"
+    },
+    "tweet3": {
+      "content": "Dow Jones Hits New High As Coronavirus Vaccine News Fuels Stock Market Rally"
+    },
+    "tweet4": {
+      "content": "Why Callon Petroleum, SM Energy, and Kosmos Energy All Rallied Double Digits at the Open Today"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "How Renewable Energy Can Pay Off for Big Oil"
+    },
+    "tweet2": {
+      "content": "Dow ETF Hits New Highs on Vaccine Optimism: 5 Best Stocks"
+    },
+    "tweet3": {
+      "content": "Understanding Chevron's Unusual Options Activity"
+    },
+    "tweet4": {
+      "content": "Chevron's (COMPANY_X) Noble Energy Fined by Israel for Pollution"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "3 Dividend Oil Stocks For Investors To Consider"
+    },
+    "tweet2": {
+      "content": "15 Largest Energy Companies in the World"
+    },
+    "tweet3": {
+      "content": "Last U.S. Oil Giant in Venezuela Looks to Biden to Keep Foothold"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Annandale Capital CEO on his outlook for oil stocks"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "3 High-Yield Stocks for the Dividend Investor"
+    },
+    "tweet2": {
+      "content": "European vs American Oil Majors: Addressing Climate Change"
+    },
+    "tweet3": {
+      "content": "7 reasons why energy stocks will be 60% higher a year from now"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: Devon Energy, Baker Hughes, Diamondback Energy, Marathon Oil and Chevron"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Dow Breaks Key Barrier As Trump Agrees To Power Transfer; Tesla Among Top Performers"
+    },
+    "tweet2": {
+      "content": "Dow 30,000 Optimism Not Matched by Bond Traders"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Big Oil And Big Tech Are Spending Billions On Renewable Energy"
+    },
+    "tweet2": {
+      "content": "Exxon Bearish On Oil In Private While Dividend Protected At All Costs"
+    },
+    "tweet3": {
+      "content": "The New Move in Oil Has ‘Enormous’ Implications for Investors"
+    },
+    "tweet4": {
+      "content": "Stock Market News for Nov 25, 2020"
+    },
+    "tweet5": {
+      "content": "Energy Giants Break Out Amid Surging Oil Prices"
+    },
+    "tweet6": {
+      "content": "Morning Bell With Jim Cramer: Don't Buy McCormick"
+    },
+    "tweet7": {
+      "content": "Final GoM Oil Sale Under Trump Admin Gets $121M in High Bids"
+    },
+    "tweet8": {
+      "content": "Dow Hits 30K for First Time: 7 Stocks Driving the ETF Rally"
+    },
+    "tweet9": {
+      "content": "Exxon Mobil Is Breathing Through Temporary Air Pockets"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Exxon Mobil, Chevron, Equinor, BP and Murphy Oil"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "Exxon Announces a Write-Down of Up to $20 Billion"
+    },
+    "tweet2": {
+      "content": "3 energy stocks for the pandemic rebound that has already started"
+    },
+    "tweet3": {
+      "content": "Salesforce, Zoom Video, Vehicle Sales: 3 Things to Watch"
+    },
+    "tweet4": {
+      "content": "5 Best Stocks in the Dow This Past Week: IBM Makes Moves"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "Exxon Cuts Deeper Into Future But Dividend Still At Risk"
+    },
+    "tweet2": {
+      "content": "Big Oil Pays for Past Bets on Fossil Fuels With $70 Billion Hit"
+    },
+    "tweet3": {
+      "content": "5 Stocks in Dow ETF That Powered the Best Month Since 1987"
+    },
+    "tweet4": {
+      "content": "Exxon Fails To Generate Confidence In Dividend Despite Steeper Cuts"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "Chevron Announces Leadership Changes"
+    },
+    "tweet2": {
+      "content": "Marillyn Hewson Joins Chevron’s Board of Directors"
+    },
+    "tweet3": {
+      "content": "Dow Jones Rallies As Biden Makes China Pledge, Senior Democrat Outlines Stimulus Hope"
+    },
+    "tweet4": {
+      "content": "Petrobras CEO Calls Net Zero a Fad, Echoing Exxon Oil Focus"
+    },
+    "tweet5": {
+      "content": "Are Energy Stocks Ready for a Revival?"
+    },
+    "tweet6": {
+      "content": "15 Largest EPC Companies in the World"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "Oil Prices Rise As OPEC+ Backs Slight Output Increase With Eye On Covid-19 Vaccines"
+    },
+    "tweet2": {
+      "content": "Oil Prices Reverse As OPEC+ Backs Uptick To Avoid 'Taper Tantrum'"
+    },
+    "tweet3": {
+      "content": "Noble Energy, Inc. -- Moody's confirms Noble Energy's Baa3 ratings following Chevron's exchange offering"
+    },
+    "tweet4": {
+      "content": "Why Chevron, Exxon And More Oil Stocks Are Trading Higher Today"
+    },
+    "tweet5": {
+      "content": "Chevron Cuts Its Long-Term Capital Spending Forecast by 25%"
+    },
+    "tweet6": {
+      "content": "Why ExxonMobil, Chevron, and BP Rallied by as Much as 25% in November"
+    },
+    "tweet7": {
+      "content": "Chevron Slashes Long-Term Investment 27% Following Oil Slump"
+    },
+    "tweet8": {
+      "content": "Oil Prices Fall As OPEC+ Tries To Avoid 'Taper Tantrum' In Contentious Meeting"
+    },
+    "tweet9": {
+      "content": "Chevron Slashes Capital Spending Plans In Lower Carbon Shift; Sets 2021 Budget at $14 Billion"
+    },
+    "tweet10": {
+      "content": "ConocoPhillips (COP) to Sack 25% Houston Workers by Early 2021"
+    },
+    "tweet11": {
+      "content": "Chevron tightens belt again with billions in spending cuts"
+    },
+    "tweet12": {
+      "content": "Should You Buy These 3 Stocks Leading the Dow Jones Higher?"
+    },
+    "tweet13": {
+      "content": "'Anti-Tesla' Stocks Gain More Value Than Tesla Itself"
+    },
+    "tweet14": {
+      "content": "Chevron Announces $14 Billion Capital and Exploratory Budget for 2021"
+    },
+    "tweet15": {
+      "content": "Chevron Offers to Exchange Series of Notes Issued by Noble Energy, Inc."
+    },
+    "tweet16": {
+      "content": "Wall Street Opens in Subdued Mood; OPEC Weighs on Oil Stocks"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "Oil Rallies On OPEC+ Agreement"
+    },
+    "tweet2": {
+      "content": "Occidental, Other Oil Stocks Rise After OPEC+ Production Accord"
+    },
+    "tweet3": {
+      "content": "Why Oil Stocks Popped Today"
+    },
+    "tweet4": {
+      "content": "Dow Jones Jumps 200 Points Despite Weak Jobs Data; Pelosi Sees 'Momentum' For Stimulus Deal"
+    },
+    "tweet5": {
+      "content": "Where Will Chevron (COMPANY_X) Spend the Bulk of Its 2021 Capex?"
+    },
+    "tweet6": {
+      "content": "Zacks Market Edge Highlights: Chevron, Exxon, Pioneer Natural Resources, EOG Resources and ConocoPhillips"
+    },
+    "tweet7": {
+      "content": "Dow Jones Today Climbs As Chevron Trips Energy Rally; Domo, DocuSign, Cloudera Ace Breakouts"
+    },
+    "tweet8": {
+      "content": "Dow Jones Today, Stocks Open Higher, Despite Payrolls Miss; Domo, DocuSign, Cloudera On Breakout Watch"
+    },
+    "tweet9": {
+      "content": "Dow Jones Today, Futures Defend Gains After Payrolls Miss; Domo, DocuSign, Cloudera On Breakout Watch"
+    },
+    "tweet10": {
+      "content": "Crude Oil Prices Come off Highs as OPEC+ Removes Tail Risk"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "Chevron Has Buffered Itself Against Market Turmoil. But It May Not Be the Best Bet Among Oil Stocks Right Now, Analyst Says"
+    },
+    "tweet2": {
+      "content": "Chevron CEO Vows Higher Returns, Lower Carbon to Revive Big Oil"
+    },
+    "tweet3": {
+      "content": "Exxon Holds Back on Technology That Could Slow Climate Change"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "Chevron (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Oil Market Hopeful As Vaccinations Begin"
+    },
+    "tweet3": {
+      "content": "Dow Jones Leads As Nasdaq Struggles, Tesla Stock Slides On This Move"
+    },
+    "tweet4": {
+      "content": "Oil & Gas Stock Roundup Headlined by Exxon & Chevron's 2021 Capex"
+    },
+    "tweet5": {
+      "content": "Unit at Chevron-operated Wheatstone offshore platform shut temporarily"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "D.E. Shaw Is Said to Push Exxon Mobil to Cut Spending, Costs"
+    },
+    "tweet2": {
+      "content": "Chevron (COMPANY_X) Puts a Unit at Wheatstone Offshore Plant on Hold"
+    },
+    "tweet3": {
+      "content": "Understanding Chevron's Unusual Options Activity"
+    },
+    "tweet4": {
+      "content": "Is It Time to Buy the Dow Jones' 3 Worst Performing Stocks of 2020?"
+    },
+    "tweet5": {
+      "content": "Biden Can Slow Trump’s Roll on Arctic Oil Drilling"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "Noble Midstream Closes Chevron Integration to Boost Cash Flow"
+    },
+    "tweet2": {
+      "content": "Chevron Could Use More Base Building Into 2021"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "As Activists Gather, Exxon Mobil Faces Pressure to Change"
+    },
+    "tweet2": {
+      "content": "3 of the Best Breakout Stocks to Buy Now"
+    },
+    "tweet3": {
+      "content": "Dow Jones Slumps As Disney Soars, Apple Sidelines Qualcomm; Pfizer Readies For Vaccine Rollout"
+    },
+    "tweet4": {
+      "content": "The 5 Worst Energy Stocks of 2020"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "Are Exxon’s New Emissions Targets Enough for BlackRock?"
+    },
+    "tweet2": {
+      "content": "Why Oil And Energy Stocks Are Trading Lower Today"
+    },
+    "tweet3": {
+      "content": "Oil’s Recovery Next Year Could Be Complicated"
+    },
+    "tweet4": {
+      "content": "10 Best Oil Stocks To Buy Right Now"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "Exxon Could Outperform Chevron in 2021, Analyst Predicts"
+    },
+    "tweet2": {
+      "content": "Top Stock Reports for Coca-Cola, Oracle & Chevron"
+    },
+    "tweet3": {
+      "content": "Becoming Green Is Not an Easy Task For Oil Companies"
+    },
+    "tweet4": {
+      "content": "Is COMPANY_X A Good Stock To Buy Now?"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "Chevron (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "2 Ways To Win Big On The Oil Price Rebound"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Coca-Cola, Oracle, Chevron, Boeing and 3M"
+    },
+    "tweet4": {
+      "content": "Chevron's (COMPANY_X) Noble Energy to Pay NIS 3.2M Emission Penalty"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "Virus Spreads in Canadian Oil Patch With Outbreak at Chevron Site"
+    },
+    "tweet2": {
+      "content": "Chevron Announces Early Participation and Consent Results in its Offers to Exchange Series of Notes Issued by Noble Energy, Inc. and Extension of Early Participation Premium Deadline"
+    },
+    "tweet3": {
+      "content": "Exxon's Suddenly Trouncing Chevron. Coincidence?"
+    },
+    "tweet4": {
+      "content": "INSIGHT- Climate change turns up the heat on ad industry"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "How the Stock Market Will Change in 2021, and What to Buy, According to BofA"
+    },
+    "tweet2": {
+      "content": "Earthstone (ESTE) to Acquire E&P Firm, Add Midland Basin Assets"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "'Halftime Report' Traders Weigh In On Energy Stocks"
+    },
+    "tweet2": {
+      "content": "15 Largest Gas Companies in the US"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "4 Oil & Gas Drilling Stocks to Withstand Industry Turmoil"
+    },
+    "tweet2": {
+      "content": "Could This Be The Top Oil Play For 2021?"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "Chevron (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Stock Market Today: No Stimulus Deal? No Big Deal to Stocks, Apparently"
+    },
+    "tweet3": {
+      "content": "ExxonMobil or Chevron: Which Stock Will Gain Big in 2021?"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "15 Largest Oil Companies in the World"
+    },
+    "tweet2": {
+      "content": "Why Chevron (COMPANY_X) Is Not Yet a \"Buy\" Despite Fundamental Strength"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "Oil Prices In 2021 May Look Oddly Familiar — And Squeeze Shale"
+    },
+    "tweet2": {
+      "content": "2020 Mergers and Acquisitions: A Year in Review"
+    },
+    "tweet3": {
+      "content": "Energy M&A: 5 Biggest Deals of 2020 & the Outlook for 2021"
+    },
+    "tweet4": {
+      "content": "How Much Are Chevron Corporation (NYSE:COMPANY_X) Insiders Spending On Buying Shares?"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "Chevron (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Is Chevron Stock A Buy Now As Oil Markets Look To 2021?"
+    },
+    "tweet3": {
+      "content": "Why the energy sector downturn is more pronounced now than in prior cycles"
+    },
+    "tweet4": {
+      "content": "Why Chevron, CrowdStrike are stocks to watch in 2021"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "Oceaneering to Supply Hydraulic Connection Hardware for Chevron"
+    },
+    "tweet2": {
+      "content": "3 Top Stocks You Can Buy on Sale"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "Tight Race For Worst Dow Jones Stock Of 2020 Came Down To Last Day"
+    },
+    "tweet2": {
+      "content": "How Barron’s Has Helped Investors Understand a World Marked by Upheaval for 100 Years"
+    }
+  }
+}

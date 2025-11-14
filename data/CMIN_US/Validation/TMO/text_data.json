@@ -1,0 +1,427 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "LabCorp (LH) Banks on Covance Amid Testing Volume Pressure"
+    },
+    "tweet2": {
+      "content": "Allscripts (MDRX) Q2 Earnings and Revenues Beat Estimates"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Agilent Technologies At Upper End Of Buy Range With Earnings Due"
+    },
+    "tweet2": {
+      "content": "Luminex Scores Relative Strength Rating Upgrade"
+    },
+    "tweet3": {
+      "content": "Thermo Fisher Scientific Confirms Offer to Acquire QIAGEN Shares Expires on August 10"
+    },
+    "tweet4": {
+      "content": "3 Charts That Suggest Sin Stocks Are Headed Higher"
+    },
+    "tweet5": {
+      "content": "Pacific Biosciences (PACB) Posts Lower-Than-Expected Q2 Loss"
+    },
+    "tweet6": {
+      "content": "Thermo Fisher Increases Its Buyout Price for Qiagen, but Investors Ask for More"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Fresenius Medical (FMS) Q2 Earnings & Revenues Top Estimates"
+    },
+    "tweet2": {
+      "content": "AmerisourceBergen (ABC) Q3 Earnings & Revenues Top Estimates"
+    },
+    "tweet3": {
+      "content": "Luminex (LMNX) Q2 Earnings Beat Estimates, Revenues Miss"
+    },
+    "tweet4": {
+      "content": "Thermo Fisher Scientific's COVID-19 Response Continues to Expand with New High-Throughput Automated Testing Solution"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Becton Dickinson Earnings Top, But BDX Stock Falls On Weak Sales"
+    },
+    "tweet2": {
+      "content": "COMPANY_X vs. EW: Which Stock Is the Better Value Option?"
+    },
+    "tweet3": {
+      "content": "Varian (VAR) Earnings and Revenues Surpass Estimates in Q3"
+    },
+    "tweet4": {
+      "content": "ABIOMED (ABMD) Earnings and Revenues Beat Estimates in Q1"
+    },
+    "tweet5": {
+      "content": "LHC Group (LHCG) Q2 Earnings Beat Estimates, Revenues Miss"
+    },
+    "tweet6": {
+      "content": "Cardinal Health (CAH) Q4 Earnings Top Estimates, Revenues Lag"
+    },
+    "tweet7": {
+      "content": "Becton Dickinson (BDX) Earnings Surpass Estimates in Q3"
+    },
+    "tweet8": {
+      "content": "DENTSPLY SIRONA (XRAY) Q2 Earnings & Revenues Miss Estimates"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "5 Health Care Companies Outperforming the Market"
+    },
+    "tweet2": {
+      "content": "Is Thermo Fisher Scientific (COMPANY_X) Stock Outpacing Its Medical Peers This Year?"
+    },
+    "tweet3": {
+      "content": "Nevro (NVRO) Q2 Loss Narrower than Expected, Revenues Beat"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Andreas Halvorsen's 5 Biggest Trades of the 2nd Quarter"
+    },
+    "tweet2": {
+      "content": "Surmodics (SRDX) Q3 Earnings and Revenues Beat Estimates"
+    },
+    "tweet3": {
+      "content": "Avanos Medical (AVNS) Q2 Earnings and Revenues Top Estimates"
+    },
+    "tweet4": {
+      "content": "It’s Lonely Trying to Kill This Covid-19 Diagnostics Deal"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Thermo Fisher to update on Qiagen tender offer on Thursday"
+    },
+    "tweet2": {
+      "content": "Thermo Fisher Scientific Provides Process Overview for the Announcement of Final Offer Results"
+    },
+    "tweet3": {
+      "content": "PRA Health (PRAH) Q2 Earnings and Revenues Beat Estimates"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Thermo Fisher Scientific Supports COVID-19 Testing at Historically Black Colleges and Universities Seeking to Provide a Safe Return to Campus"
+    },
+    "tweet2": {
+      "content": "'Halftime Report' Traders Share Their Thoughts On Monster Beverage, Thermo Fisher And More"
+    },
+    "tweet3": {
+      "content": "AMN Healthcare (AMN) Loses 3.3% Despite Q2 Earnings Beat"
+    },
+    "tweet4": {
+      "content": "Glaukos (GKOS) Loses 17.1% Despite Q2 Earnings & Revenues Beat"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "HHS invests $6.5 million in diagnostic labs to expand COVID-19 testing"
+    },
+    "tweet2": {
+      "content": "Thermo Fisher Ditches Bid for Qiagen as Offer Falls Short"
+    },
+    "tweet3": {
+      "content": "Thermo Fisher Exits Planned $13 Billion Takover Of COVID-19 Testing Group Qiagen"
+    },
+    "tweet4": {
+      "content": "HMS Holdings (HMSY) Loses 2.9% Since Q2 Earnings Release"
+    },
+    "tweet5": {
+      "content": "Thermo Fisher ends deal agreement for genetic testing firm Qiagen"
+    },
+    "tweet6": {
+      "content": "Change Healthcare (CHNG) Gains 1.9% Since Q1 Earnings Beat"
+    },
+    "tweet7": {
+      "content": "Thermo Fisher Scientific Announces Results of Offer to Acquire QIAGEN, Lapse of Offer and Termination of Acquisition Agreement"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Myriad Genetics' (MYGN) Q4 Loss Narrower Than Estimated"
+    },
+    "tweet2": {
+      "content": "Accuray (ARAY) Reports Loss in Q4, Revenues Miss Estimates"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Will Thermo Fisher's (COMPANY_X) Failed QIAGEN Deal Cost it a Lot?"
+    },
+    "tweet2": {
+      "content": "FDA warns providers about problems with Thermo Fisher's COVID-19 test"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Thermo Fisher (COMPANY_X) Up 2.8% Since Last Earnings Report: Can It Continue?"
+    },
+    "tweet2": {
+      "content": "MedTech Lifts S&P 500 Index: 3 Stocks With Upside Potential"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: QIAGEN, Merit Medical, OPKO, Abbott and Abiomed"
+    },
+    "tweet2": {
+      "content": "Has Thermo Fisher Scientific (COMPANY_X) Outpaced Other Medical Stocks This Year?"
+    },
+    "tweet3": {
+      "content": "Thermo Fisher Unveils Suite of Hematology-Oncology Solutions"
+    },
+    "tweet4": {
+      "content": "Veeva Systems (VEEV) to Post Q2 Earnings: What's in Store?"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "5 Companies Reach 52-Week Highs"
+    },
+    "tweet2": {
+      "content": "Top Stock Reports for JNJ, Procter & Gamble & Thermo Fisher"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Thermo Fisher Scientific to Host Virtual Analyst Meeting"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Should I Avoid Thermo Fisher Scientific Inc. (COMPANY_X)?"
+    },
+    "tweet2": {
+      "content": "Abbott Shares Climb as U.S. Buys Out Supply of New Covid-19 Test"
+    },
+    "tweet3": {
+      "content": "Veeva Systems (VEEV) Q2 Earnings and Revenues Beat Estimates"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Cooper Companies (COO) to Post Q3 Earnings: What's in Store?"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "What's in Store for Patterson Companies' (PDCO) Q1 Earnings?"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Is Thermo Fisher (COMPANY_X) a Great Growth Stock?"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Aurora Cannabis (ACB) to Post Q4 Earnings: What's in Store?"
+    },
+    "tweet2": {
+      "content": "Patterson Companies (PDCO) Q1 Earnings Top Estimates, Up Y/Y"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Cooper Companies (COO) Q3 Earnings & Revenues Top Estimates"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Inovio Adds Thermo Fisher As A Coronavirus Vaccine Manufacturing Partner"
+    },
+    "tweet2": {
+      "content": "Inovio Announces Covid-19 Vaccine Deal With Thermo Fisher"
+    },
+    "tweet3": {
+      "content": "Shares of Inovio rise 6% on vaccine manufacturing deal with Thermo Fisher"
+    },
+    "tweet4": {
+      "content": "Inovio bolsters COVID-19 vaccine supply with Thermo Fisher deal"
+    },
+    "tweet5": {
+      "content": "Weekly Stock List"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Is Thermo Fisher Scientific (COMPANY_X) Stock Outpacing Its Medical Peers This Year?"
+    },
+    "tweet2": {
+      "content": "HealthEquity (HQY) Q2 Earnings and Revenues Beat Estimates"
+    },
+    "tweet3": {
+      "content": "Moody's – US healthcare risk heat map - Overall outlook improves as patients return and COVID testing accelerates"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Thermo Fisher Scientific (COMPANY_X) Gains As Market Dips: What You Should Know"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "BUZZ-U.S. STOCKS ON THE MOVE-Tesla Inc, Forterra Inc, Cognizant Technology, Castor Maritime Inc"
+    },
+    "tweet2": {
+      "content": "Thermo Fisher Scientific's Debt Overview"
+    },
+    "tweet3": {
+      "content": "Thermo Fisher Scientific Inc (COMPANY_X) Ex-Dividend Date Scheduled for September 14, 2020"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Thermo Fisher Is a Buy Despite Recent Setbacks"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Quest Diagnostics, Abbott, Quidel, QIAGEN and Thermo Fisher Scientific"
+    },
+    "tweet3": {
+      "content": "Thermo Fisher Scientific to Present at the Morgan Stanley Global Healthcare Conference on September 15, 2020"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "IBD 50 Stocks To Watch: Coronavirus Test Kit Maker Has New Buying Opportunity"
+    },
+    "tweet2": {
+      "content": "Are Thermo Fisher Scientific Inc. (NYSE:COMPANY_X) Investors Paying Above The Intrinsic Value?"
+    },
+    "tweet3": {
+      "content": "Cardiovascular Systems Rides on Launches Amid Coronavirus Woes"
+    },
+    "tweet4": {
+      "content": "Thermo Fisher Scientific Further Expands Laboratory Plastics Production to Support COVID-19 Testing, Therapies and Vaccines"
+    },
+    "tweet5": {
+      "content": "What's Fueling Growth at Thermo Fisher Scientific?"
+    },
+    "tweet6": {
+      "content": "What's Fueling Growth at Thermo Fisher Scientific?"
+    },
+    "tweet7": {
+      "content": "Thermo Fisher Scientific To Present At Morgan Stanley Global Conference; Webcast At 8:00 AM ET "
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Thermo Fisher Scientific (COMPANY_X) Stock Moves -0.28%: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Merck KGaA says it has overcome production shortages in vaccine materials"
+    },
+    "tweet3": {
+      "content": "Moody's – Outlook for the US medical products and devices industry revised to positive on higher earnings, increased demand"
+    },
+    "tweet4": {
+      "content": "The Argus Dividend Growth Portfolio"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Thermo Fisher Expands Lab Plastic Making for Coronavirus Support"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "3 MedTech Outperformers to Grab Amid September Pullback"
+    },
+    "tweet2": {
+      "content": "Top Fund Avoids Fads, Sticks To Leaders Like Apple"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: FMS, HOLX and COMPANY_X"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Thermo Fisher Scientific (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "This Week's Asset Class Flows: 09/22/2020"
+    },
+    "tweet2": {
+      "content": "Humanigen Collaborates With Thermo Fisher To Expand Manufacturing Capacity For Lenzilumab "
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "LabCorp Boosts Oncology Offerings With Resolution ctDx Launch"
+    },
+    "tweet2": {
+      "content": "Everything Investors Need to Know About Coronavirus Tests"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Is Thermo Fisher Scientific (COMPANY_X) Outperforming Other Medical Stocks This Year?"
+    },
+    "tweet2": {
+      "content": "You Can Beat The Market Without Owning FAANG Stocks"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Thermo Fisher Scientific (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Top Analyst Reports for P&G, Verizon & Thermo Fisher"
+    },
+    "tweet3": {
+      "content": "Inovio Shares Plunge After FDA Puts Partial Hold On Coronavirus Vaccine Trial"
+    },
+    "tweet4": {
+      "content": "ANALYSIS-Biden basket vs Trump trade: Picking a presidential stock portfolio"
+    },
+    "tweet5": {
+      "content": " ANALYSIS-Biden basket vs Trump trade: Picking a presidential stock portfolio"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "All Hope Is Not Lost for Inovio Pharmaceuticals Stock"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Procter & Gamble, Verizon, Thermo Fisher Scientific, Nvidia and Nike"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "Best ETFs for 2020: The AdvisorShares Vice ETF Saved by SAM and COMPANY_X"
+    }
+  }
+}

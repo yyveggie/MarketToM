@@ -1,0 +1,961 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Pre-Market Most Active for Oct 2, 2020 :  NIO, SQQQ, AAPL, TSLA, QQQ, AAL, PLTR, TQQQ, COMPANY_X, CCL, NCLH, SPCE"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Macquarie, Siemens units create U.S. distributed energy joint venture"
+    },
+    "tweet2": {
+      "content": "Don't Rush In To Buy Just Because Boeing Stock Jumped"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Trump's Tweet Tanks S&P 500: Stocks Fall Sharply as President Puts Stimulus Talks on Hold"
+    },
+    "tweet2": {
+      "content": "General Electric Warns SEC Could Take Action Over Company's Accounting Issues"
+    },
+    "tweet3": {
+      "content": "COMPANY_X receives Wells notice from SEC"
+    },
+    "tweet4": {
+      "content": "COMPANY_X receives Wells notice from U.S. SEC"
+    },
+    "tweet5": {
+      "content": "Business jet purchase plans mostly unscathed by COVID-19, Honeywell survey shows"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "A Basket of Renewable Energy Stocks"
+    },
+    "tweet2": {
+      "content": "Boom Supersonic rolls out demonstrator aircraft in bid to break sound barrier"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Just Received a Boost From an Unexpected Source"
+    },
+    "tweet4": {
+      "content": "Pre-Market Most Active for Oct 7, 2020 :  DKNG, AAL, AAPL, SQQQ, TLC, PLTR, NIO, COMPANY_X, QQQ, MS, CCL, BA"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Receives 'Wells Notice' From SEC On Run-off Insurance Operations "
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Why General Electric Stock Just Popped 5%"
+    },
+    "tweet2": {
+      "content": "Why General Electric Stock Just Popped 5%"
+    },
+    "tweet3": {
+      "content": "How Risky Is General Electric?"
+    },
+    "tweet4": {
+      "content": "How Risky Is General Electric?"
+    },
+    "tweet5": {
+      "content": "Pre-Market Most Active for Oct 8, 2020 :  FCEL, CPSS, IBM, AAL, AAPL, TSLA, IO, NIO, SQQQ, BABA, COMPANY_X, EV"
+    },
+    "tweet6": {
+      "content": "The Covid Crisis Exposed What Financial Reformers Missed"
+    },
+    "tweet7": {
+      "content": "Fingrid Purchases Load Frequency Control Solution from COMPANY_X Digital to Meet European Electricity Balancing Guidelines"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "COMPANY_X Stock Rises As Wall Street Bets On 'Best Time' To Buy"
+    },
+    "tweet2": {
+      "content": "Here Is When General Electric May Be a Buy"
+    },
+    "tweet3": {
+      "content": "Why COMPANY_X Shares Jumped Today"
+    },
+    "tweet4": {
+      "content": "Stocks on the move: COMPANY_X rises on buy rating, Cruise lines to speak with Vice President Pence"
+    },
+    "tweet5": {
+      "content": "Goldman Sachs Expects 50% Rise in COMPANY_X Shares"
+    },
+    "tweet6": {
+      "content": "General Electric Shares Jump After Goldman Sachs Resumes Coverage With 'Buy' Rating"
+    },
+    "tweet7": {
+      "content": "Return On Capital Employed Overview: General Electric"
+    },
+    "tweet8": {
+      "content": "Goldman Sachs Calls General Electric The 'Ultimate Self-Help, Vaccine Leverage Story'"
+    },
+    "tweet9": {
+      "content": "COMPANY_X's stock surges again, after Goldman Sachs analyst says fundamentals are 'at a bottom'"
+    },
+    "tweet10": {
+      "content": "US STOCKS-S&P 500 set for second straight weekly gain on stimulus hopes"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Why Goldman Analysts Deserve Praise For 'Refreshing' COMPANY_X Call"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Healthcare Receives FDA Clearance for Vivid Ultra Edition, AI-Powered Cardiovascular Ultrasound System Designed to Shorten Diagnostic Exam Time and Improve Measurement Consistency"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Is COMPANY_X Stock A Buy? Here's What General Electric Earnings, Stock Chart Show"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "S&P 500 Sells Off in Last Hour, Wiping Out Gains Ahead of the Weekend"
+    },
+    "tweet2": {
+      "content": "COMPANY_X’s stock gets a big boost after news that Boeing’s 737 MAX could fly again this year"
+    },
+    "tweet3": {
+      "content": "General Electric Company -- Moody's announces completion of a periodic review of ratings of General Electric Company"
+    },
+    "tweet4": {
+      "content": "Boeing 737 Max Can Return To Service Before Year's End In Europe: Regulator"
+    },
+    "tweet5": {
+      "content": "Despite Government Threat, General Electric Is Still Treading Water"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "General Electric (COMPANY_X) Flat As Market Sinks: What You Should Know"
+    },
+    "tweet2": {
+      "content": "3 Reasons Why General Electric Will Be An ‘I Told You So’ Winner"
+    },
+    "tweet3": {
+      "content": "American Airlines Puts Boeing 737 Max Back On Flight Schedule"
+    },
+    "tweet4": {
+      "content": "COMPANY_X, PIMCO to Partner on $3 Billion Air Leasing Platform"
+    },
+    "tweet5": {
+      "content": "Danaher (DHR) to Report Q3 Earnings: Is a Beat in Store?"
+    },
+    "tweet6": {
+      "content": "General Electric (COMPANY_X) Takes Flight Amid 737 MAX EU Hopes"
+    },
+    "tweet7": {
+      "content": "PIMCO & GECAS to Create $3 Billion Aviation Leasing Investment Platform"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Ford Vs. General Electric: The Blue Chip Race Back To $10"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Healthcare Introduces Serena Bright, Industry’s First Contrast-Enhanced Guided Biopsy Solution"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "General Electric (COMPANY_X) Expected to Beat Earnings Estimates: Can the Stock Move Higher?"
+    },
+    "tweet2": {
+      "content": "Were Hedge Funds Right About Souring On General Electric Company (COMPANY_X)?"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Partners With PIMCO to Seize Opportunities in Aircraft Leasing"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Why General Electric, Booking Holdings, and Six Flags Stocks All Surged Thursday"
+    },
+    "tweet2": {
+      "content": "COMPANY_X's stock surges toward a more-than 4-month high, after report of potential asset sale"
+    },
+    "tweet3": {
+      "content": "COMPANY_X's stock surges toward a more-than 4-month high, after report of potential asset sale"
+    },
+    "tweet4": {
+      "content": "Cross-Sector: Market Data Highlights"
+    },
+    "tweet5": {
+      "content": "35 Stocks That Could Benefit From a World With a Vaccine. How to Play Them."
+    },
+    "tweet6": {
+      "content": "St. Luke’s University Health Network Selects COMPANY_X Healthcare for $11 Million Ultrasound Purchase to Create System-wide Efficiencies"
+    },
+    "tweet7": {
+      "content": "These Stocks Could Benefit From an Economic Reopening. How to Play Them With Options."
+    },
+    "tweet8": {
+      "content": "Wuhan Boiler Weighs Buying COMPANY_X’s Stake in China Venture"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "COMPANY_X stock is on a tear ahead of earnings, as analysts tout it as a COVID-19 vaccine play"
+    },
+    "tweet2": {
+      "content": "3M Company (MMM) to Post Q3 Earnings: Is a Beat in Store?"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "General Electric (COMPANY_X) to Post Q3 Earnings: Is a Beat in Store?"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Reports Earnings on Wednesday: What to Watch"
+    },
+    "tweet3": {
+      "content": "COMPANY_X stock has been on a tear ahead of earnings, as analysts tout it as a COVID-19 vaccine play"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Raytheon Technologies Deepens Cuts As Aviation Sales Plunge"
+    },
+    "tweet2": {
+      "content": "Boeing To Report Another Tough Quarter But Watch For This Sign Of Improvement"
+    },
+    "tweet3": {
+      "content": "Can Investors Bank on General Electric Ahead of Earnings?"
+    },
+    "tweet4": {
+      "content": "Looking At Put Options On COMPANY_X For A Bearish Option Trade"
+    },
+    "tweet5": {
+      "content": "Raytheon Earnings Beat But Sales Plunge 34% In Key Aviation Units"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "S&P 500 Dives 120 Points: COVID-19 Cases Surge, Sending Tech Stocks Back Into Correction"
+    },
+    "tweet2": {
+      "content": "Weakness Spreads Through Every Sector, With FAANG Stocks Down 3% To 5% Ahead Of Earnings"
+    },
+    "tweet3": {
+      "content": "Dow Tumbles 900 Points as Virus Surges in U.S. and Europe"
+    },
+    "tweet4": {
+      "content": "Dow Tumbles 900, or 3.4%, as Virus Surges in U.S. and Europe"
+    },
+    "tweet5": {
+      "content": "COMPANY_X stock jumps as investors cheer surprise adjusted profit and positive free cash flow"
+    },
+    "tweet6": {
+      "content": "COMPANY_X Stock Jumps On Surprise Earnings, Rebounding Cash Flow; CEO Hails 'Accelerating Transformation'"
+    },
+    "tweet7": {
+      "content": "Boeing Beats But Slows Outlook For 737 Max, Cash Flow Rebound And Warns On Defense Market"
+    },
+    "tweet8": {
+      "content": "Raytheon Discloses Criminal Probe; Defense Stock Tumbles"
+    },
+    "tweet9": {
+      "content": "US STOCKS-Wall Street sinks 3%, Dow at late July lows as pandemic surges"
+    },
+    "tweet10": {
+      "content": "Key Takeaways From General Electric's 3rd-Quarter Results"
+    },
+    "tweet11": {
+      "content": "US STOCKS-S&P 500, Dow sink 3% to late-Sept lows on virus, election worry"
+    },
+    "tweet12": {
+      "content": "COMPANY_X Jumps on Surprise Profit as CEO Larry Culp Sees Turnaround Accelerating"
+    },
+    "tweet13": {
+      "content": "Dow Sinks as Virus Surges in U.S. and Europe, Nasdaq Falls 3%"
+    },
+    "tweet14": {
+      "content": "COMPANY_X Soars, Even as Stock Market Gets Crushed; Here Are 2 Other Big Earnings Winners"
+    },
+    "tweet15": {
+      "content": "Dow Slides 800 Points as Virus Surge Sparks Economic Anxiety"
+    },
+    "tweet16": {
+      "content": "Why Shares of General Electric Are Up Today"
+    },
+    "tweet17": {
+      "content": "Dow Jones Plunges As Coronavirus Cases Soar; These IBD 50 Stocks Flash Sell Signal"
+    },
+    "tweet18": {
+      "content": "General Electric Pops 9% As Quarterly Profit Takes Investors By Surprise"
+    },
+    "tweet19": {
+      "content": "COMPANY_X Adds Another Page to Its Turnaround Story"
+    },
+    "tweet20": {
+      "content": "COMPANY_X stock soars as investors cheer surprise adjusted profit and positive free cash flow"
+    },
+    "tweet21": {
+      "content": "Dow Selloff Accelerates as Virus Surge Sparks Economic Anxiety"
+    },
+    "tweet22": {
+      "content": "Earnings Data Deluge"
+    },
+    "tweet23": {
+      "content": "General Electric (COMPANY_X) Posts Gains After Upbeat Quarter"
+    },
+    "tweet24": {
+      "content": "Markets Down Deep Again; Q3 Results from BA, COMPANY_X & UPS"
+    },
+    "tweet25": {
+      "content": "General Electric (COMPANY_X) Q3 Earnings Top Estimates, Decline Y/Y"
+    },
+    "tweet26": {
+      "content": "Dow Drops Sharply as Virus Surge Sparks Economic Anxiety"
+    },
+    "tweet27": {
+      "content": "General Electric rises on surprise Q3 earnings beat"
+    },
+    "tweet28": {
+      "content": "Boeing Beats, Sees Steeper Job Cuts While Cash Flow Improves"
+    },
+    "tweet29": {
+      "content": "US STOCKS-Wall St set to drop as surge in virus cases clouds economic outlook"
+    },
+    "tweet30": {
+      "content": "General Electric (COMPANY_X) Q3 Earnings and Revenues Top Estimates"
+    },
+    "tweet31": {
+      "content": "General Electric: Q3 Earnings Insights"
+    },
+    "tweet32": {
+      "content": "COMPANY_X's shares soar as earnings recover from pandemic lows"
+    },
+    "tweet33": {
+      "content": "COMPANY_X's stock jumps after surprise profit and free cash flow, revenue falls less than forecast"
+    },
+    "tweet34": {
+      "content": "COMPANY_X's stock jumps after surprise profit and free cash flow, revenue falls less than forecast"
+    },
+    "tweet35": {
+      "content": "COMPANY_X posts quarterly profit as business recovers from pandemic lows"
+    },
+    "tweet36": {
+      "content": "COMPANY_X posts quarterly profit as business recovers from pandemic lows"
+    },
+    "tweet37": {
+      "content": "COMPANY_X reports smaller loss as business recovers from pandemic lows"
+    },
+    "tweet38": {
+      "content": "Wall Street Tumbles at Open as Covid Surge Triggers Selling; Dow Down 521 Pts"
+    },
+    "tweet39": {
+      "content": "Watch Now: Here's What’s Moving Markets - October 28 (Video)"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "COMPANY_X’s stock reverses lower as key chart resistance halts upside progress, again"
+    },
+    "tweet2": {
+      "content": "COMPANY_X’s stock pulls back as key chart resistance halts upside progress, again"
+    },
+    "tweet3": {
+      "content": "U.S. Economy’s Path Less Certain After Record Quarterly Growth"
+    },
+    "tweet4": {
+      "content": "Tampa General Hospital and COMPANY_X Healthcare's CareComm Saves $40 Million, Cuts 20,000 Excess Days and Reduces Length of Stay"
+    },
+    "tweet5": {
+      "content": "Company News for Oct 29, 2020"
+    },
+    "tweet6": {
+      "content": "Analyst Report: General Electric Company"
+    },
+    "tweet7": {
+      "content": "Analyst Report: General Electric Co."
+    },
+    "tweet8": {
+      "content": "Market Digest: AEP, BX, CLS, CME, COMPANY_X, JNPR, MSFT, NSC, OMC, UPS"
+    },
+    "tweet9": {
+      "content": "General Electric (COMPANY_X) Q3 2020 Earnings Call Transcript"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "New Dow Jones Stock Beats On Earnings, Gives Mixed Guidance"
+    },
+    "tweet2": {
+      "content": "While There’s Light In Sight, General Electric Remains Risky"
+    },
+    "tweet3": {
+      "content": "COMPANY_X's Turnaround Just Took a Huge Step Forward"
+    },
+    "tweet4": {
+      "content": "COMPANY_X's Turnaround Just Took a Huge Step Forward"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Why Shares of General Electric Got a Spark in October"
+    },
+    "tweet2": {
+      "content": "Can These 2 Hot Stocks Continue To Rise In November?"
+    },
+    "tweet3": {
+      "content": "COMPANY_X’s Stock Price Is Stuck. Here’s What It Will Take to Get It Rising Again."
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Why General Electric Stock Popped 4.4% on Election Day"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "General Electric Is Back on Track Now"
+    },
+    "tweet2": {
+      "content": "Jazz Up Your Life With 'Pure Joy' Like The Synopsys CEO"
+    },
+    "tweet3": {
+      "content": "Jazz Up Your Life With 'Pure Joy' Like The Synopsys CEO"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "COMPANY_X's Long-Beleaguered Power Business May Have Finally Hit Bottom"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Why COMPANY_X Shares Jumped 9% Today"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Healthcare, GenesisCare Partner to Tackle Two Biggest Health Burdens Globally, Deliver Improved Cancer and Cardiovascular Care to Patients Around the World"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Boeing's 20-Month Nightmare Is On The Verge Of Ending But Orders Stuck At Zero"
+    },
+    "tweet2": {
+      "content": "3 Top Industrial Stocks to Buy Right Now"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "COMPANY_X Ends Century-Old Development Program"
+    },
+    "tweet2": {
+      "content": "The Bond Market Outlook Is Dismal. This Manager Is Still Finding Opportunity."
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Top Stock Reports for Coca-Cola, Merck & Honeywell"
+    },
+    "tweet2": {
+      "content": "Albany International Airport Partners With COMPANY_X to Transform Airport Into Digital Incubator for Safe, Post-Pandemic Air Travel"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Why General Electric Stock Popped Today"
+    },
+    "tweet2": {
+      "content": "Understanding General Electric's Unusual Options Activity"
+    },
+    "tweet3": {
+      "content": "Why A COVID-19 Vaccine Makes General Electric's Stock 'More Investable'"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: Coca-Cola, Merck & Co, Honeywell, 3M and General Electric"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Boeing, COMPANY_X stocks get a boost from upbeat news on potential COVID-19 vaccine"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Boeing 737 Max Is Coming Back Soon But Demand Is Another Story"
+    },
+    "tweet2": {
+      "content": "Top Stock Reports for Philip Morris, Lockheed Martin & AMD"
+    },
+    "tweet3": {
+      "content": "The GE90 Engine Celebrates 25 Years of Service"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Boeing 737 Max Clear To Return But Tougher Oversight Looms, Demand Woes Remain"
+    },
+    "tweet2": {
+      "content": "General Electric (COMPANY_X) Arm Wins Wind Turbine Deal in Lithuania"
+    },
+    "tweet3": {
+      "content": "Pride and Protectionism: COMPANY_X Publishes 2020 COMPANY_X Global Innovation Barometer"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: Philip Morris, Lockheed Martin, Advanced Micro Devices, Boeing and General Electric"
+    },
+    "tweet5": {
+      "content": "Boeing 737 Max Cleared To Return As FAA Chief '100% Confident' But Demand Woes Remain"
+    },
+    "tweet6": {
+      "content": "FAA Clears Boeing 737 Max To Return To Service But Demand Headwinds Remain"
+    },
+    "tweet7": {
+      "content": "15 Largest Energy Companies in the World"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "General Electric Should Hold Steady for a While"
+    },
+    "tweet2": {
+      "content": "US to Witness Record 2020 Wind Installations: Stocks in Focus"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "General Electric Stock Is Out of the Penalty Box"
+    },
+    "tweet2": {
+      "content": "General Electric Invests for Growth in a Crucial Area"
+    },
+    "tweet3": {
+      "content": "General Electric Healthcare Unit Acquires Prismatic Sensors"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: Siemens, General Electric, NextEra Energy and Vestas Wind Systems"
+    },
+    "tweet5": {
+      "content": "Is Danaher Stock a Buy?"
+    },
+    "tweet6": {
+      "content": "COMPANY_X Healthcare Pioneers Photon Counting CT with Prismatic Sensors Acquisition"
+    },
+    "tweet7": {
+      "content": "Should Corporate Zombies Give You Nightmares?"
+    },
+    "tweet8": {
+      "content": "COMPANY_X Healthcare Acquires Swedish Start-up Prismatic Sensors To Bolster Its Medical Imaging Business"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Boeing May Sign New 737 Max Customer As Return To Service Nears"
+    },
+    "tweet2": {
+      "content": "Why Coronavirus News Is Good News for General Electric Stock Today"
+    },
+    "tweet3": {
+      "content": "Manufacturing and Consumer Services Stocks Soar on Economic Data"
+    },
+    "tweet4": {
+      "content": "ROCE Insights For General Electric"
+    },
+    "tweet5": {
+      "content": "Morning Bell With Jim Cramer: Buy General Electric"
+    },
+    "tweet6": {
+      "content": "COMPANY_X Healthcare Announces First X-ray AI to Help Assess Endotracheal Tube Placement for COVID-19 Patients"
+    },
+    "tweet7": {
+      "content": "Exclusive: In latest China jab, U.S. drafts list of 89 firms with military ties"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "COMPANY_X Aviation Can't Hold Out For Coronavirus Vaccines, Eyes More Cuts"
+    },
+    "tweet2": {
+      "content": "Stock Market Today With Jim Cramer: When to Buy General Electric"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Aviation Plans Deeper Cuts"
+    },
+    "tweet4": {
+      "content": "Oppenheimer Upgrades General Electric: 'Turnaround Gaining Traction'"
+    },
+    "tweet5": {
+      "content": "COMPANY_X stock rallies after analyst turns bullish on growing confidence in aviation recovery"
+    },
+    "tweet6": {
+      "content": "Why General Electric Stock Ripped Higher This Morning"
+    },
+    "tweet7": {
+      "content": "General Electric Up 70% In The 4th Quarter"
+    },
+    "tweet8": {
+      "content": "General Electric Shares Pass 8-Month High On Oppenheimer Upgrade"
+    },
+    "tweet9": {
+      "content": "COMPANY_X warns of more job cuts at aviation business amid sluggish recovery"
+    },
+    "tweet10": {
+      "content": "FAA Approves Boeing 737 Max's Return, Suppliers to Gain"
+    },
+    "tweet11": {
+      "content": "General Electric (COMPANY_X) Buys Prismatic Sensors, Wins Contracts"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "COMPANY_X stock set to extend win streak after UBS lifts target a second time in a month"
+    },
+    "tweet2": {
+      "content": "PRESS DIGEST- Wall Street Journal - Nov 25"
+    },
+    "tweet3": {
+      "content": "Bull Moves: Analysts Just Upgraded These 3 Hot Stocks"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Wells Fargo, Ford: Latest Upgrades and Downgrades"
+    },
+    "tweet2": {
+      "content": "General Electric (COMPANY_X) Dogger Bank Contract Moves a Step Forward"
+    },
+    "tweet3": {
+      "content": "Why This Renewable Energy Stock Doubled in 2020"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "15 Largest Desalination Companies in the World"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "Silicon Valley Veteran Michael Moe Plans Education-Tech SPAC"
+    },
+    "tweet2": {
+      "content": "Exxon Is Now the Thing It Wasn't Supposed to Be"
+    },
+    "tweet3": {
+      "content": "General Electric (COMPANY_X) Launches Cypress 6.0-164 Wind Turbine"
+    },
+    "tweet4": {
+      "content": "Lockheed Martin (LMT) Wins $1.4B Deal to Support C-130J Jets"
+    },
+    "tweet5": {
+      "content": "The Top Corporate Tax Havens in the World"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "Boeing 737 Max May See Biggest Order Since Grounding As Return To Service Nears"
+    },
+    "tweet2": {
+      "content": "Best Emerging-Market Bonds Are From Argentina’s Junk-Rated MSU"
+    },
+    "tweet3": {
+      "content": "Vineyard Wind picks COMPANY_X turbines for Massachusetts offshore wind farm"
+    },
+    "tweet4": {
+      "content": "What's Next For COMPANY_X After The Stock's Best Month Ever?"
+    },
+    "tweet5": {
+      "content": "Analyzing General Electric's Unusual Options Activity"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "Top Wind Stocks for Q1 2021"
+    },
+    "tweet2": {
+      "content": "Boeing 737 Max Returns To Service Next Week; United Eyes First Delivery"
+    },
+    "tweet3": {
+      "content": "Boeing 737 Max Gets Biggest Order Since Grounding From Europe's Top Airline"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Competitor Siemens Healthineers Gets 2 Upgrades. Here’s Why."
+    },
+    "tweet5": {
+      "content": "Why General Electric Stock Soared 37% in November"
+    },
+    "tweet6": {
+      "content": "America’s Greenest Energy Giant Isn’t Trying to Save the Planet"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "Boeing Open To Stock Sale As 737 Max Deliveries Face Airline Uncertainty"
+    },
+    "tweet2": {
+      "content": "General Electric Analyst Lifts Price Target After Health Care Segment Update"
+    },
+    "tweet3": {
+      "content": "COMPANY_X stock rises toward 9-month high as BofA analyst gets a little more bullish"
+    },
+    "tweet4": {
+      "content": "Don’t Underestimate the Impact of Diem on Facebook Stock"
+    },
+    "tweet5": {
+      "content": "General Electric (COMPANY_X) Arm Wins 1st Cypress Turbine Deal in Spain"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "COMPANY_X's stock surges again toward a 4-day win streak, after a record monthly rally in November"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "General Electric Company -- Moody's says COMPANY_X's debt reduction actions are credit positive but do not affect ratings"
+    },
+    "tweet2": {
+      "content": "Boeing 737 Max Is About To Close Dark Chapter With This Flight"
+    },
+    "tweet3": {
+      "content": "Researchers say hardcoded passwords in COMPANY_X medical imaging devices could put patient data at risk"
+    },
+    "tweet4": {
+      "content": "General Electric Debt Reduction Plans Are Ahead of Expectations"
+    },
+    "tweet5": {
+      "content": "Return On Capital Employed Overview: General Electric"
+    },
+    "tweet6": {
+      "content": "General Electric Shares Gain on Debt Reduction Moves, Free Cash-Flow Forecasts"
+    },
+    "tweet7": {
+      "content": "COMPANY_X to prepay pensions, repay loan in latest debt reduction move"
+    },
+    "tweet8": {
+      "content": "COMPANY_X Pours $4 Billion Into Balance Sheet as Cash Flow Rebounds"
+    },
+    "tweet9": {
+      "content": "COMPANY_X's stock gains after $4 billion in actions to strengthen balance sheet"
+    },
+    "tweet10": {
+      "content": "COMPANY_X Announces $4 Billion of Actions to Further Solidify Financial Position"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "General Electric agrees to pay $200 million fine for misleading investors, SEC says"
+    },
+    "tweet2": {
+      "content": "Boeing 737 Max Commercial Flights, Deliveries Resume After 20 Months"
+    },
+    "tweet3": {
+      "content": "General Electric Signs a Deal to Recycle Wind Turbine Blades"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Continues Rebuilding a Fortress Balance Sheet"
+    },
+    "tweet5": {
+      "content": "Why You Should Invest In Green Energy Right Now"
+    },
+    "tweet6": {
+      "content": "General Electric (COMPANY_X) Takes Financial Actions, Wins Contracts"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "General Electric (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Top Stock Reports for Roche, Wells Fargo & General Electric"
+    },
+    "tweet3": {
+      "content": "General Electric's $200M SEC Settlement Doesn't Deter This Analyst"
+    },
+    "tweet4": {
+      "content": "Unusual Options Activity Insight: General Electric"
+    },
+    "tweet5": {
+      "content": "Airbnb’s IPO Is Guaranteed to Be a Success. Here’s Why."
+    },
+    "tweet6": {
+      "content": "PRESS DIGEST - Wall Street Journal - Dec. 10"
+    },
+    "tweet7": {
+      "content": "COMPANY_X Fined $200 Million in SEC Probe of Power, Insurance Units"
+    },
+    "tweet8": {
+      "content": "COMPANY_X is $200 Million Poorer, $200 Billion Wiser"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "COMPANY_X Board of Directors Authorizes Regular Quarterly Dividend"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Roche, Wells Fargo, General Electric, Microsoft and Intuit"
+    },
+    "tweet3": {
+      "content": "Disruptor Alert: These 4 Companies Are Changing the Industrial Sector"
+    },
+    "tweet4": {
+      "content": "Tesla Stock Versus COMPANY_X: A Tale of Two Bears"
+    },
+    "tweet5": {
+      "content": "Airbnb Closes at $144.71 After Blockbuster IPO, and Two More Numbers to Know"
+    },
+    "tweet6": {
+      "content": "COMPANY_X Announces Launch of Debt Tender Offers"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "Is COMPANY_X A Good Stock To Buy Now?"
+    },
+    "tweet2": {
+      "content": "General Electric (COMPANY_X) Announces Tender Offers for Notes & Dividend"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Healthcare and St. Luke’s University Health Network Accelerate Breast Cancer Care with First One-Stop Clinic in the U.S."
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "COMPANY_X’s stock jumps after two Wall Street analysts raise their targets by more than 40%"
+    },
+    "tweet2": {
+      "content": "COMPANY_X's stock bounces toward snapping 3-day losing streak after Deutsche Bank boosts price target"
+    },
+    "tweet3": {
+      "content": "Athene Announces Significant Pension Buyout Agreement with COMPANY_X"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "COMPANY_X Healthcare Powers First-of-Its Kind Virtual ICU, Creating Access to Critical Care Specialists throughout State of Oregon"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "Want to Buy General Electric (COMPANY_X) Stock? Here’s What You Need to Know"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "Why COMPANY_X Will Never Break Up"
+    },
+    "tweet2": {
+      "content": "Goldman’s Gary Cohn Saga Thrusts Clawback Shortcomings Into Spotlight"
+    },
+    "tweet3": {
+      "content": "Will COMPANY_X's Stock Reach $20 By 2022?"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Announces Expiration and Results of its Debt Tender Offers"
+    },
+    "tweet5": {
+      "content": "FOCUS-Pandemic tests Rolls-Royce resilience after prolonged engine trouble"
+    },
+    "tweet6": {
+      "content": "FOCUS-Pandemic tests Rolls-Royce resilience after prolonged engine trouble"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "5 Stocks to Benefit From Continued Weakening of US Dollar"
+    },
+    "tweet2": {
+      "content": "Can COMPANY_X Stock Bounce Back in 2021?"
+    },
+    "tweet3": {
+      "content": "10 Best Dividend Stocks Under $20"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "Renewable Energy Stocks Should Thrive on Stimulus Boost"
+    },
+    "tweet2": {
+      "content": "General Electric (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet3": {
+      "content": "Boeing 737 Max Gets Largest U.S. Order Since Return To Service"
+    },
+    "tweet4": {
+      "content": "COMPANY_X's Curious Case of a $47 Million CEO Bonus"
+    },
+    "tweet5": {
+      "content": "3 Stocks to Gain Traction From Clean Energy Revolution"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "ROCE Insights For General Electric"
+    },
+    "tweet2": {
+      "content": "Mark Tepper Weighs In On General Electric, Under Armour And More"
+    },
+    "tweet3": {
+      "content": "Bond Traders’ Hot Tip for Next Year? Buy Stocks."
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "New COMPANY_X Jet Engine Revealed Amid Legal Fight With Archrival"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "The Santa Claus Rally Just Started; 12 Stocks Gain Most"
+    },
+    "tweet2": {
+      "content": "10 Largest Wind Energy Companies in the World"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "Boeing 737 Max Begins Its U.S. Comeback As First Flight Lands"
+    },
+    "tweet2": {
+      "content": "General Electric's (COMPANY_X) Unit to Supply Wind Turbine in Vietnam"
+    },
+    "tweet3": {
+      "content": "Boeing 737 Max Takes Off To Begin Its U.S. Comeback"
+    },
+    "tweet4": {
+      "content": "The Boeing 737 Max Is About To Make Its U.S. Comeback"
+    },
+    "tweet5": {
+      "content": "Better Buy: COMPANY_X vs. 3M"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "General Electric (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    }
+  }
+}

@@ -1,0 +1,517 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "Apple's Mobeewave Acquisition Comes Amid a Rapid Shift to Digital Payments"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Visa, PayPal, Global Payments, Google and Apple"
+    },
+    "tweet3": {
+      "content": "Selling in Stocks Is Nearly Zero, Causing Market Rally"
+    },
+    "tweet4": {
+      "content": "PayPal Q2 Earnings Impress Investors: ETFs to Win"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "How UPS Proved Wall Street Wrong"
+    },
+    "tweet2": {
+      "content": "PayPal Stock Is on a Roll. Why Analysts Are Upbeat."
+    },
+    "tweet3": {
+      "content": "Why Apple Did a 4-for-1 Stock Split"
+    },
+    "tweet4": {
+      "content": "Has PayPal Holdings (COMPANY_X) Outpaced Other Computer and Technology Stocks This Year?"
+    },
+    "tweet5": {
+      "content": "PayPal: Best. Quarter. Ever."
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Mastercard, IBD Stock Of The Day, Hits Buy Zone As Spending May Get Stimulated Soon"
+    },
+    "tweet2": {
+      "content": "Twilio, Square, Palo Alto Networks: Midday Tech Stock Movers"
+    },
+    "tweet3": {
+      "content": "Are Mobile Payment Apps Really Safe?"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Seismic Shifts In The Cryptocurrency Market May Be Ahead, With Stablecoins Soaring"
+    },
+    "tweet2": {
+      "content": "Further Upside In PayPal Stock Could Benefit This Option Trade"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: DaVita, PayPal, Century Communities, Berry Global and Turning Point Brands"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: NVIDIA, PayPal, Tesla, Procter & Gamble and Facebook"
+    },
+    "tweet5": {
+      "content": "Earnings Estimates Moving Higher for PayPal (COMPANY_X): Time to Buy?"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Raise launches mobile payments app Slide "
+    },
+    "tweet2": {
+      "content": "10 Best-Performing Stocks in Nasdaq ETF as Index Tops 11,000"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Facebook Financial Formed to Pursue Company’s Payments Plans"
+    },
+    "tweet2": {
+      "content": "PayPal Holdings Could Offer Low-Risk Buying Opportunity"
+    },
+    "tweet3": {
+      "content": "Stocks Break an Overbought Record Going Back to 1990"
+    },
+    "tweet4": {
+      "content": "Fintech Focus Roundup For August 8, 2020"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Top Stock Picks for Week of August 10, 2020"
+    },
+    "tweet2": {
+      "content": "PayPal Is Unstoppable. How to Play It With Stock Options."
+    },
+    "tweet3": {
+      "content": "[video]E-Commerce Growth Rates Still Look Pretty Impressive"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Apple Isn’t Just a Tech Stock. It’s a Play on Payments."
+    },
+    "tweet2": {
+      "content": "Top Stock Reports for PayPal, Netflix & USB"
+    },
+    "tweet3": {
+      "content": "How parents can prepare for the coronavirus learn-from-home reality"
+    },
+    "tweet4": {
+      "content": "Hashed CEO Simon Kim Explains Why Consumer-Focused Apps are the Future of Blockchain"
+    },
+    "tweet5": {
+      "content": "Up 120% in 2020, Is It Too Late to Buy Square Stock?"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: PayPal, Netflix, USB, AXP and MUFG"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Tepper's Appaloosa loads up on new stakes in AT&T, Visa, PayPal, Disney, and Mastercard"
+    },
+    "tweet2": {
+      "content": "Is PayPal (COMPANY_X) a Great Growth Stock?"
+    },
+    "tweet3": {
+      "content": "PayPal Is Likely to Trend Sideways Before Renewing Gains"
+    },
+    "tweet4": {
+      "content": "Now’s the Time to Buy These Stocks"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Why Doing Homework Is Important"
+    },
+    "tweet2": {
+      "content": "SoftBank Bets $3.9 Billion on U.S. Giants From Amazon to Tesla"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Analyzing PayPal Holdings's Unusual Options Activity"
+    },
+    "tweet2": {
+      "content": "Is PayPal Holdings (COMPANY_X) Stock Outpacing Its Computer and Technology Peers This Year?"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "11 Stocks Hedge Funds Are Crazy About in 2020 Q2"
+    },
+    "tweet2": {
+      "content": "3 Robinhood Stocks Investors Will Love Right Now"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "What to Know About Palantir, the Latest Tech Company to File to Go Public"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: MGM, Wynn Resorts, Apple, PayPal and Ford"
+    },
+    "tweet3": {
+      "content": "Payment Stocks Are Bruised But Rising As Pandemic Shifts Shopping Paradigm"
+    },
+    "tweet4": {
+      "content": "Is PayPal Holdings, Inc. (NASDAQ:COMPANY_X) Popular Amongst Institutions?"
+    },
+    "tweet5": {
+      "content": "Should Value Investors Buy Paypal Holdings (COMPANY_X) Stock?"
+    },
+    "tweet6": {
+      "content": "Better Financial Stock: Mastercard or PayPal Holdings"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Best Growth Stocks for September 2020"
+    },
+    "tweet2": {
+      "content": "Why a Winning Growth Fund Likes PayPal and Autodesk Stock"
+    },
+    "tweet3": {
+      "content": "Controversial Data Company Palantir Bashes Silicon Valley as It Plans Public Debut"
+    },
+    "tweet4": {
+      "content": "Hedge Funds Have Never Been This Bullish On Paypal Holdings Inc (COMPANY_X)"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "PayPal cracks down on for-profit 'schools' misrepresenting PayPal Credit"
+    },
+    "tweet2": {
+      "content": "Zacks Market Edge Highlights: Nvidia, Chipotle Mexican Grill, PayPal, Wayfair and Etsy"
+    },
+    "tweet3": {
+      "content": "Benzinga's Top Upgrades, Downgrades For August 27, 2020"
+    },
+    "tweet4": {
+      "content": "$1,500 Invested in These 3 Top Tech Stocks Could Make You Rich in 10 Years"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Psychedelic Drugs Eye Long Trip To Legalization But This U.S. IPO Won't Wait"
+    },
+    "tweet2": {
+      "content": "How Square Stock Received a Pandemic Boost From Cash App"
+    },
+    "tweet3": {
+      "content": "Paypal (COMPANY_X) Up 6.2% Since Last Earnings Report: Can It Continue?"
+    },
+    "tweet4": {
+      "content": "Why One Of The Best Mutual Funds Waited Before It Bet On Amazon"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "The First Pure-Play Psychedelic Drugs IPO Reveals Clues On Emerging Industry"
+    },
+    "tweet2": {
+      "content": "PayPal Introduces a Buy Now, Pay Later Program"
+    },
+    "tweet3": {
+      "content": "3 Takeaways From Gap's Q2 Earnings"
+    },
+    "tweet4": {
+      "content": "PayPal to Offer Interest-Free Installment Loans"
+    },
+    "tweet5": {
+      "content": "PayPal taps into installments with new feature that splits purchases in four"
+    },
+    "tweet6": {
+      "content": "PayPal Introduces New Interest-Free Buy Now Pay Later Installment Solution"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "3 Stocks to Bankroll Your Retirement"
+    },
+    "tweet2": {
+      "content": "PayPal (COMPANY_X) Unveils Pay in 4, Expands Services Portfolio"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "These 74 stocks in the S&P 500 hit all-time records on Wednesday"
+    },
+    "tweet2": {
+      "content": "What Is Afterpay and Why Does Shopify Want Its Business?"
+    },
+    "tweet3": {
+      "content": "Return On Capital Employed Overview: PayPal Holdings"
+    },
+    "tweet4": {
+      "content": "Next Stock Market Crash: Where to Invest $10,000"
+    },
+    "tweet5": {
+      "content": "PayPal entry punishes Australia's pricey buy now, pay later stocks"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Psychedelic Drugs Face Millennium-Old Risk To Profitability"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Why Shopify, Square, and PayPal Stocks Plunged Today"
+    },
+    "tweet2": {
+      "content": "How Psychedelic Drugs Found In Nature Can Become Private Property"
+    },
+    "tweet3": {
+      "content": "Tech pullback 'is more than healthy': Expert"
+    },
+    "tweet4": {
+      "content": "Is a new stock market panic setting in?"
+    },
+    "tweet5": {
+      "content": "PayPal Holdings Looks Expensive. Is It a Buy?"
+    },
+    "tweet6": {
+      "content": "3 Top U.S. Stocks to Buy in September"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Global Markets Review: Oil Plummets on Sluggish US Employment"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Stock Market Closes With Solid Rebound As Nasdaq Issues A Positive Signal"
+    },
+    "tweet2": {
+      "content": "The 2021 Investor’s Guide to Square"
+    },
+    "tweet3": {
+      "content": "5 Potential Blockbuster IPOs to Add to Your Watch List"
+    },
+    "tweet4": {
+      "content": "3 Undeniably Brilliant Robinhood Stocks to Buy Right Now Even if the Market Crashes"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: AAPL, COMPANY_X, V and GPN"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Nasdaq Falls Again; Peloton Gives Up Post-Earnings Gains; PayPal Moves Lower"
+    },
+    "tweet2": {
+      "content": "Nasdaq Leaders Apple, AMD, PayPal, Nvidia Take Big Hits; Dow Jones Erases 294-Point Early Gain"
+    },
+    "tweet3": {
+      "content": "Visa (V) and PayPal Deepen Ties for Instant Money Transfer"
+    },
+    "tweet4": {
+      "content": "The Recent Weakness of PayPal Stock Has Created a Golden Opportunity"
+    },
+    "tweet5": {
+      "content": "PayPal Research Finds Fashion Retailers Unprepared for the Holidays"
+    },
+    "tweet6": {
+      "content": "Square Looks Expensive. Is It a Buy?"
+    },
+    "tweet7": {
+      "content": "3 Growth Stocks I'd Buy Right Now"
+    },
+    "tweet8": {
+      "content": "Worried About Another Crash? Buy PayPal"
+    },
+    "tweet9": {
+      "content": "Here's Who Bank and Fintech Investors Need to Start Watching"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Paypal (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Alibaba Is in Talks to Invest $3 Billion in Grab"
+    },
+    "tweet3": {
+      "content": "Virtus Fund Mixes Popular Leaders Like Amazon And Obscure Newcomers"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Chart Reading For Beginners: Nvidia, Amazon Reveal This Key Investing Skill"
+    },
+    "tweet2": {
+      "content": "Deal-Seeking Goes Mainstream: Honey Study Reveals Americans Are Changing How They Shop, Date And Flaunt Thriftiness"
+    },
+    "tweet3": {
+      "content": "Fintech Startup Klarna Is Valued at $10.65 Billion in New Funding"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "How to Find Insider Ownership of Foreign Companies"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Our Take On The Returns On Capital At PayPal Holdings (NASDAQ:COMPANY_X)"
+    },
+    "tweet2": {
+      "content": "2 Recession-Ready Stocks to Buy Right Now"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Why You Must Re-evaluate Your Portfolio Now"
+    },
+    "tweet2": {
+      "content": "Covid Is Making Cash History. How to Profit From the Digital-Payment Future."
+    },
+    "tweet3": {
+      "content": "4 Top Stock Trades for Monday: AAPL, GOOGL, NCLH, COMPANY_X"
+    },
+    "tweet4": {
+      "content": "First Psychedelic Drug Stock Hits $1 Billion In Debut After Upsized IPO"
+    },
+    "tweet5": {
+      "content": "Top Analyst Reports for JPMorgan, PayPal & Novo Nordisk"
+    },
+    "tweet6": {
+      "content": "3 Stocks to Start Investing in Right Now"
+    },
+    "tweet7": {
+      "content": "Coronavirus Speeds Shift To Digital Payments To Keep Shoppers Safe"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: JPM, COMPANY_X, NVO, RHHBY and TM"
+    },
+    "tweet2": {
+      "content": "Are Options Traders Betting on a Big Move in PayPal Holdings (COMPANY_X) Stock?"
+    },
+    "tweet3": {
+      "content": "Why Compass Pathways Is Soaring Today"
+    },
+    "tweet4": {
+      "content": "Cash Is History. How to Profit From the Digital-Payment Future."
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Dow Jones Falls 150 Points Amid Powell Comments; Amazon, Apple Jump, While Tesla Skids On Elon Musk Tweet"
+    },
+    "tweet2": {
+      "content": "Dow Jones Rises 125 Points Amid Powell Comments; Amazon, Apple Jump, While Tesla Skids On Elon Musk Tweet"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "PayPal vs Square: Which Fintech Stock Is A Better Buy?"
+    },
+    "tweet2": {
+      "content": "PayPal and Mastercard Expand Debit Card Offering to More European Businesses"
+    },
+    "tweet3": {
+      "content": "Capital One and PayPal Veterans Roll Out Next-Generation Banking App"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Paypal (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "PayPal and Square Could Gain as EU Mulls iPhone Payments Rules"
+    },
+    "tweet3": {
+      "content": "Mastercard Widens Co-Branded PayPal Business Cards' Acceptance"
+    },
+    "tweet4": {
+      "content": "How COVID-19 is fueling contactless payment companies"
+    },
+    "tweet5": {
+      "content": "PayPal Announces Recipients of $5 Million Community Partner Grants to Support and Sustain Black Businesses and Communities"
+    },
+    "tweet6": {
+      "content": "Price Over Earnings Overview: PayPal Holdings"
+    },
+    "tweet7": {
+      "content": "PayPal (COMPANY_X) Unveils Debit Mastercard in 6 European Nations"
+    },
+    "tweet8": {
+      "content": "PayPal's Doubling Down On New Products"
+    },
+    "tweet9": {
+      "content": "Looking Into PayPal Holdings's Return On Capital Employed"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Buy PayPal and Square Stock, Analysts Say. No One Wants to Touch Cash."
+    },
+    "tweet2": {
+      "content": "2 Financial Stocks I'd Buy Right Now"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Dow Jones Futures: Stock Market Rally Needs To Turn Up The Volume; Target, Adobe, Nvidia Lead Top Stocks In Buy Zones"
+    },
+    "tweet2": {
+      "content": "Amazon, Apple, Nvidia, Netflix, PayPal, ServiceNow: Who Got Cut Or Trimmed?"
+    },
+    "tweet3": {
+      "content": "Coronavirus-Led Digital Payments to Hold Sway: 3 Stocks to Retain"
+    },
+    "tweet4": {
+      "content": "3 Red Flags in Palantir's Upcoming Direct Listing"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Why Investors Shouldn't Wait Too Long to Purchase PayPal"
+    },
+    "tweet2": {
+      "content": "Looking Into PayPal Holdings's Return On Capital Employed"
+    },
+    "tweet3": {
+      "content": "Adding $500 to These 3 Top Stocks Would Be a Brilliant Move"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "Is Visa Stock A Buy Right Now? Here's What Visa Earnings, Chart Show"
+    }
+  }
+}

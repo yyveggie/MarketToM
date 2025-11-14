@@ -1,0 +1,799 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "Berkshire Hathaway Inc. Cl A stock outperforms competitors on strong trading day"
+    },
+    "tweet2": {
+      "content": "IMPORTANT NOTICE FOR 2018 SHAREHOLDERS: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Berkshire Hathaway Inc. Cl A stock rises Tuesday, outperforms market"
+    },
+    "tweet2": {
+      "content": "United States Department of Energy -- Moody's assigns an A2 to GBG, LLC's taxable revenue bonds, Series 2020; outlook stable"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Berkshire Hathaway Inc. Cl A stock rises Wednesday, outperforms market"
+    },
+    "tweet2": {
+      "content": "IMPORTANT ALERT FOR 2018 SHAREHOLDERS: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    },
+    "tweet3": {
+      "content": "COMPANY_X INVESTOR ALERT: Bronstein, Gewirtz & Grossman, LLC Reminds Honeywell International Inc. Shareholders With Losses Exceeding $500K of Class Action and Encourages Investors to Contact the Firm"
+    },
+    "tweet4": {
+      "content": "Honeywell Uses Blockchain To Digitize Aircraft Records, Parts Pedigree Data"
+    },
+    "tweet5": {
+      "content": "'Trading Nation' Traders Discuss Fastenal And Honeywell"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Berkshire Hathaway Inc. Cl A stock outperforms market on strong trading day"
+    },
+    "tweet2": {
+      "content": "IMPORTANT NOTICE FOR 2018 SHAREHOLDERS: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Morning Bell With Jim Cramer: When to Buy Honeywell Shares"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Berkshire Hathaway Inc. Cl A stock outperforms market on strong trading day"
+    },
+    "tweet2": {
+      "content": "IMPORTANT ALERT FOR 2018 SHAREHOLDERS: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    },
+    "tweet3": {
+      "content": "Honeywell and Halliburton Team Up on What? That’s Right: Software."
+    },
+    "tweet4": {
+      "content": "Halliburton and Honeywell Collaborate to Improve Asset Productivity From Reservoir to Point of Sale"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "IMPORTANT ALERT FOR 2018 SHAREHOLDERS: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    },
+    "tweet2": {
+      "content": "Berkshire Hathaway Inc. Cl A stock underperforms when compared to competitors despite strong trading day"
+    },
+    "tweet3": {
+      "content": "Two Industrial Stocks to Buy and One to Avoid as the Recovery Picks Up Steam"
+    },
+    "tweet4": {
+      "content": "SHAREHOLDER ALERT: Levi & Korsinsky, LLP Notifies Shareholders of Honeywell International Inc. of a Class Action Lawsuit and a Lead Plaintiff Deadline of September 4, 2020 - COMPANY_X"
+    },
+    "tweet5": {
+      "content": "Halliburton Rises on Money-Saving Collaboration With Honeywell"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "IMPORTANT ALERT FOR 2018 SHAREHOLDERS: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    },
+    "tweet2": {
+      "content": "Berkshire Hathaway Inc. Cl A stock rises Wednesday, still underperforms market"
+    },
+    "tweet3": {
+      "content": "The Klein Law Firm Reminds Investors of Class Actions on Behalf of Shareholders of COMPANY_X, JCOM and UCO"
+    },
+    "tweet4": {
+      "content": "Honeywell Is Poised to Resume Its Major Uptrend"
+    },
+    "tweet5": {
+      "content": "SHAREHOLDER ALERT: COMPANY_X GEO AGS: The Law Offices of Vincent Wong Reminds Investors of Important Class Action Deadlines"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "The Klein Law Firm Reminds Investors of Class Actions on Behalf of Shareholders of COMPANY_X, TUFN and GEO"
+    },
+    "tweet2": {
+      "content": "IMPORTANT NOTICE FOR 2018 SHAREHOLDERS: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    },
+    "tweet3": {
+      "content": "Berkshire Hathaway Inc. Cl A stock falls Thursday, underperforms market"
+    },
+    "tweet4": {
+      "content": "CLASS ACTION UPDATE for COMPANY_X, PRA and GEO: Levi & Korsinsky, LLP Reminds Investors of Class Actions on Behalf of Shareholders"
+    },
+    "tweet5": {
+      "content": "SHAREHOLDER ALERT: Levi & Korsinsky, LLP Notifies Shareholders of Honeywell International Inc. of a Class Action Lawsuit and a Lead Plaintiff Deadline of September 4, 2020 - COMPANY_X"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "CLASS ACTION UPDATE for COMPANY_X, NSP and GEO: Levi & Korsinsky, LLP Reminds Investors of Class Actions on Behalf of Shareholders"
+    },
+    "tweet2": {
+      "content": "Berkshire Hathaway Inc. Cl A stock falls Friday, underperforms market"
+    },
+    "tweet3": {
+      "content": "IMPORTANT ALERT FOR 2018 SHAREHOLDERS: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    },
+    "tweet4": {
+      "content": "The Gross Law Firm Announces Class Actions on Behalf of Shareholders of COMPANY_X, ENDP and FE"
+    },
+    "tweet5": {
+      "content": "SHAREHOLDER ALERT: Levi & Korsinsky, LLP Notifies Shareholders of Honeywell International Inc. of a Class Action Lawsuit and a Lead Plaintiff Deadline of September 4, 2020 - COMPANY_X"
+    },
+    "tweet6": {
+      "content": "Honeywell Investor Alert: Faruqi & Faruqi, LLP Encourages Investors Who Suffered Losses Exceeding $50,000 Investing In Honeywell International Inc. To Contact The Firm"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "Berkshire Hathaway Inc. Cl A stock falls Monday, underperforms market"
+    },
+    "tweet2": {
+      "content": "U.S. High-Grade Bond Sales Set Record, Reach $1.346 Trillion"
+    },
+    "tweet3": {
+      "content": "Honeywell International Inc. -- Moody's assigns A2 ratings to Honeywell's new senior unsecured notes"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "ROSEN, A GLOBALLY RANKED LAW FIRM, Reminds Honeywell International Inc. Investors of the Important Deadline in Securities Class Action; Encourages Investors with Losses in Excess of $100K to Contact Firm - COMPANY_X"
+    },
+    "tweet2": {
+      "content": "Berkshire Hathaway Inc. Cl A stock rises Tuesday, outperforms market"
+    },
+    "tweet3": {
+      "content": "COVID helps Canadian logistics robot firm Attabotics raise $50 million"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "GE signs power agreements worth over $1.2 bln with Iraq"
+    },
+    "tweet2": {
+      "content": "Berkshire Hathaway Inc. Cl A stock falls Wednesday, underperforms market"
+    },
+    "tweet3": {
+      "content": "The Klein Law Firm Reminds Investors of Class Actions on Behalf of Shareholders of COMPANY_X, GEO and BAYRY"
+    },
+    "tweet4": {
+      "content": "IMPORTANT NOTICE FOR 2018 SHAREHOLDERS: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    },
+    "tweet5": {
+      "content": "CLASS ACTION UPDATE for COMPANY_X, BKD and COG: Levi & Korsinsky, LLP Reminds Investors of Class Actions on Behalf of Shareholders"
+    },
+    "tweet6": {
+      "content": "Honeywell Investor Alert: Faruqi & Faruqi, LLP Encourages Investors Who Suffered Losses Exceeding $50,000 Investing In Honeywell International Inc. To Contact The Firm"
+    },
+    "tweet7": {
+      "content": "SHAREHOLDER ALERT: Levi & Korsinsky, LLP Notifies Shareholders of Honeywell International Inc. of a Class Action Lawsuit and a Lead Plaintiff Deadline of September 4, 2020 - COMPANY_X"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "CLASS ACTION UPDATE for COMPANY_X, GEO and WINS: Levi & Korsinsky, LLP Reminds Investors of Class Actions on Behalf of Shareholders"
+    },
+    "tweet2": {
+      "content": "IMPORTANT ALERT FOR 2018 SHAREHOLDERS: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    },
+    "tweet3": {
+      "content": "The Klein Law Firm Reminds Investors of Class Actions on Behalf of Shareholders of COMPANY_X, BKD and KODK"
+    },
+    "tweet4": {
+      "content": "Berkshire Hathaway Inc. Cl A stock falls Thursday, underperforms market"
+    },
+    "tweet5": {
+      "content": "Honeywell Investor Alert: Faruqi & Faruqi, LLP Encourages Investors Who Suffered Losses Exceeding $50,000 Investing In Honeywell International Inc. To Contact The Firm"
+    },
+    "tweet6": {
+      "content": "IBM Flexes Its Quantum-Computing Muscle. Will That Translate to Its Stock?"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Berkshire Hathaway Inc. Cl A stock rises Friday, outperforms market"
+    },
+    "tweet2": {
+      "content": "Honeywell Will Host Leadership Webcast For Investors Featuring Honeywell Safety And Productivity Solutions President And CEO John Waldron"
+    },
+    "tweet3": {
+      "content": "The Gross Law Firm Announces Class Actions on Behalf of Shareholders of COMPANY_X, FE and AGS"
+    },
+    "tweet4": {
+      "content": "COMPANY_X LOSS ALERT: ROSEN, A LEADING LAW FIRM, Encourages Honeywell International Inc. Investors to Contact Firm Before Important Deadline in Securities Class Action; Encourages Investors with Losses in Excess of $100K to Contact Firm – COMPANY_X"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Apple Split Forces Changes in Dow Jones Industrial Average"
+    },
+    "tweet2": {
+      "content": "Salesforce.com, Amgen and Honeywell International Set to Join Dow Jones Industrial Average"
+    },
+    "tweet3": {
+      "content": "Salesforce, Amgen, Honeywell to join Dow Jones Industrial"
+    },
+    "tweet4": {
+      "content": "Salesforce, Amgen, Honeywell to become new Dow Average components"
+    },
+    "tweet5": {
+      "content": "Salesforce to replace Exxon in Dow Jones Industrial Average index next week"
+    },
+    "tweet6": {
+      "content": "CLASS ACTION UPDATE for COMPANY_X, PPC and BKD: Levi & Korsinsky, LLP Reminds Investors of Class Actions on Behalf of Shareholders"
+    },
+    "tweet7": {
+      "content": "Berkshire Hathaway Inc. Cl A stock rises Monday, outperforms market"
+    },
+    "tweet8": {
+      "content": "IMPORTANT NOTICE FOR 2018 SHAREHOLDERS: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess to Contact the Firm"
+    },
+    "tweet9": {
+      "content": "Lawsuits Filed Against COMPANY_X, PPC and BKD - Jakubowitz Law Pursues Shareholders Claims"
+    },
+    "tweet10": {
+      "content": "Honeywell Investor Notice: Faruqi & Faruqi, LLP Encourages Investors Who Suffered Losses Exceeding $50,000 Investing In Honeywell International Inc. To Contact The Firm"
+    },
+    "tweet11": {
+      "content": "SHAREHOLDER ALERT: COMPANY_X JCOM QTT: The Law Offices of Vincent Wong Reminds Investors of Important Class Action Deadlines"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "The Dow Gets a Facelift: Salesforce, Amgen and Honeywell to Join the Index"
+    },
+    "tweet2": {
+      "content": "Oil, Gasoline Climb to Five-Month Highs With Hurricane Nearing"
+    },
+    "tweet3": {
+      "content": "Stock Markets Close Mixed, But the Dow's New Stocks Look Good"
+    },
+    "tweet4": {
+      "content": "Honeywell Is Going Back in the Dow. Here’s What It Means for the Stock."
+    },
+    "tweet5": {
+      "content": "Berkshire Hathaway Inc. Cl A stock outperforms market on strong trading day"
+    },
+    "tweet6": {
+      "content": "US STOCKS-S&P 500, Nasdaq close at record highs on trade, vaccine developments"
+    },
+    "tweet7": {
+      "content": "Dow Jones Dips 100 Points On Major Reshuffle; Electric carmaker Nio Surges Past Buy Point"
+    },
+    "tweet8": {
+      "content": "The Gross Law Firm Announces Class Actions on Behalf of Shareholders of COMPANY_X, PPC and AEP"
+    },
+    "tweet9": {
+      "content": "Honeywell Investor Alert: Faruqi & Faruqi, LLP Encourages Investors Who Suffered Losses Exceeding $50,000 Investing In Honeywell International Inc. To Contact The Firm"
+    },
+    "tweet10": {
+      "content": "US STOCKS-S&P 500 inches higher on trade, vaccine developments"
+    },
+    "tweet11": {
+      "content": "Lawsuits Filed Against COMPANY_X, PPC and JCOM - Jakubowitz Law Pursues Shareholders Claims"
+    },
+    "tweet12": {
+      "content": "US STOCKS-S&P 500 struggles for direction as trade deal optimism fades"
+    },
+    "tweet13": {
+      "content": "DEADLINE ALERT FOR 2018 SHAREHOLDERS: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess to Contact the Firm"
+    },
+    "tweet14": {
+      "content": "US STOCKS-S&P 500 flat as Apple overshadows positive trade deal cues"
+    },
+    "tweet15": {
+      "content": "US STOCKS-Wall St muted as Apple overshadows positive trade deal cues"
+    },
+    "tweet16": {
+      "content": "The Dow Announces Its Biggest Shakeup Since 2013"
+    },
+    "tweet17": {
+      "content": "Exxon Ejected From Dow After 92 Years in Biggest Shake Up Since 2013"
+    },
+    "tweet18": {
+      "content": "Dow Jones Today, Stocks Mixed On U.S.-China Trade Talks, Dow Index Changes; Alibaba Files For Ant IPO"
+    },
+    "tweet19": {
+      "content": "US STOCKS-Wall St set for higher start after trade deal assurances"
+    },
+    "tweet20": {
+      "content": "Dow Jones Today, Futures Up On U.S.-China Trade Talks, Dow Jones Industrial Changes; Alibaba Files For Ant IPO"
+    },
+    "tweet21": {
+      "content": "Dow futures rise after announced shake-up to the index, S&P 500 on track to add to record run on upbeat trade talks"
+    },
+    "tweet22": {
+      "content": "Honeywell International's Debt Overview"
+    },
+    "tweet23": {
+      "content": "The Dow Is Making Big Changes. Why You Shouldn’t."
+    },
+    "tweet24": {
+      "content": "Salesforce, Amgen and Honeywell higher premarket on Dow-joining news; Exxon, Pfizer and Raytheon move lower"
+    },
+    "tweet25": {
+      "content": "US STOCKS-Futures higher after U.S.-China trade deal assurance"
+    },
+    "tweet26": {
+      "content": "3M or Honeywell: Which Industrial Stock Is The Street Favoring?"
+    },
+    "tweet27": {
+      "content": "Apple Stock Split Causes Dow Jones Industrial Average Shuffle; Salesforce, Amgen, Honeywell To Make Entry"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Berkshire Hathaway Inc. Cl A stock rises Wednesday, still underperforms market"
+    },
+    "tweet2": {
+      "content": "SHAREHOLDER ALERT: COMPANY_X JCOM WRCDF: The Law Offices of Vincent Wong Reminds Investors of Important Class Action Deadlines"
+    },
+    "tweet3": {
+      "content": "Honeywell Shareholder Alert: Faruqi & Faruqi, LLP Encourages Investors Who Suffered Losses Exceeding $50,000 Investing In Honeywell International Inc. To Contact The Firm"
+    },
+    "tweet4": {
+      "content": "Honeywell Might Keep the Dow Buzzing"
+    },
+    "tweet5": {
+      "content": "FINAL DEADLINE NOTICE FOR 2018 SHAREHOLDERS: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess to Contact the Firm"
+    },
+    "tweet6": {
+      "content": "Why Garrett Motion Stock Tanked More Than 40% Today"
+    },
+    "tweet7": {
+      "content": "Honeywell Is Even More of a Screaming Buy After Being Added to the Dow Jones"
+    },
+    "tweet8": {
+      "content": "Lawsuits Filed Against COMPANY_X, GWRE and KODK - Jakubowitz Law Pursues Shareholders Claims"
+    },
+    "tweet9": {
+      "content": "COMPANY_X EQUITY ALERT: ROSEN, A LEADING INVESTOR LAW FIRM, Encourages  Honeywell International Inc. Investors to Contact Firm Before Important September 4 Deadline in Securities Class Action – COMPANY_X"
+    },
+    "tweet10": {
+      "content": "Salesforce, Amgen, and Honeywell Are Being Added to the Dow Jones Index: Are They Buys?"
+    },
+    "tweet11": {
+      "content": "I Don't Blame Dow Jones: I'd Trade Out Raytheon Tech for Honeywell Too"
+    },
+    "tweet12": {
+      "content": "U.S. to spend $625 million in five quantum information research hubs"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Berkshire Hathaway Inc. Cl A stock rises Thursday, outperforms market"
+    },
+    "tweet2": {
+      "content": "Emerson Buys a Software Firm Because Utilities Are Looking to Digitize the Grid"
+    },
+    "tweet3": {
+      "content": "Honeywell CEO expects a coronavirus treatment or vaccine by the end of 2020"
+    },
+    "tweet4": {
+      "content": "Honeywell CEO on joining the Dow, global response to COVID-19 "
+    },
+    "tweet5": {
+      "content": "Dow Jones ETF in Focus on Index Shake-Up"
+    },
+    "tweet6": {
+      "content": "Pfizer Is Out, Honeywell Is In: Should The Dow Jones Shake-Up Change Your Investing Strategy?"
+    },
+    "tweet7": {
+      "content": "Ultraviolet Light Can Kill the Virus—and Help These Stocks Rebound"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Berkshire Hathaway Inc. Cl A stock rises Friday, still underperforms market"
+    },
+    "tweet2": {
+      "content": "The Gross Law Firm Announces Class Actions on Behalf of Shareholders of COMPANY_X, WRCDF and QTT"
+    },
+    "tweet3": {
+      "content": "SEPTEMBER 4 DEADLINE: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess to Contact the Firm"
+    },
+    "tweet4": {
+      "content": "Exxon Removed From the Dow After Nearly 100 Years: What It Means for Investors"
+    },
+    "tweet5": {
+      "content": "The Klein Law Firm Reminds Investors of Class Actions on Behalf of Shareholders of COMPANY_X, VEL and BLNK"
+    },
+    "tweet6": {
+      "content": "7-DAY DEADLINE ALERT: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    },
+    "tweet7": {
+      "content": "3 Top Stocks in the Industrials Sector"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "ROSEN, TRUSTED NATIONAL TRIAL COUNSEL, Reminds Honeywell International Inc. Investors of the Important September 4 Deadline in Securities Class Action - COMPANY_X"
+    },
+    "tweet2": {
+      "content": "Lawsuits Filed Against COMPANY_X, AYX and AEP - Jakubowitz Law Pursues Shareholders Claims"
+    },
+    "tweet3": {
+      "content": "Berkshire Hathaway Inc. Cl A stock outperforms market on strong trading day"
+    },
+    "tweet4": {
+      "content": "Honeywell Shareholder Notice: Faruqi & Faruqi, LLP Encourages Investors Who Suffered Losses Exceeding $50,000 Investing In Honeywell International Inc. To Contact The Firm"
+    },
+    "tweet5": {
+      "content": "GLOBAL MARKETS-Stocks dip but clinch fifth month of gains; dollar soft"
+    },
+    "tweet6": {
+      "content": "US STOCKS-Nasdaq rallies while S&P 500 heads for biggest August since 1984"
+    },
+    "tweet7": {
+      "content": "GLOBAL MARKETS-Stocks dip but set for fifth month of gains; dollar weak"
+    },
+    "tweet8": {
+      "content": "US STOCKS-Wall St mixed as S&P 500 heads for best August since 1984"
+    },
+    "tweet9": {
+      "content": "Dow Jones Slumps 200 Points as Index Changes Take Effect, Walmart Stock Downgraded"
+    },
+    "tweet10": {
+      "content": "The Klein Law Firm Reminds Investors of Class Actions on Behalf of Shareholders of COMPANY_X, BAYRY and PLAN"
+    },
+    "tweet11": {
+      "content": "SEPTEMBER 4 DEADLINE: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess to Contact the Firm"
+    },
+    "tweet12": {
+      "content": "CLASS ACTION UPDATE for COMPANY_X, STAA and PLAN: Levi & Korsinsky, LLP Reminds Investors of Class Actions on Behalf of Shareholders"
+    },
+    "tweet13": {
+      "content": "US STOCKS-Wall St mixed as S&P 500 on track for best August in 36 years"
+    },
+    "tweet14": {
+      "content": "GLOBAL MARKETS-Stocks dip but set for fifth month of gains; dollar slips"
+    },
+    "tweet15": {
+      "content": "4 Hot Stocks to Buy in September"
+    },
+    "tweet16": {
+      "content": "COMPANY_X INVESTOR ALERT: Bronstein, Gewirtz & Grossman, LLC Reminds Honeywell International Inc. Shareholders With Losses Exceeding $1 Million of Class Action and Lead Plaintiff Deadline: September 4, 2020"
+    },
+    "tweet17": {
+      "content": "US STOCKS-S&P 500 stalls at record level, set for best August in 36 years"
+    },
+    "tweet18": {
+      "content": "SHAREHOLDER ALERT: Levi & Korsinsky, LLP Notifies Shareholders of Honeywell International Inc. of a Class Action Lawsuit and a Lead Plaintiff Deadline of September 4, 2020 - COMPANY_X"
+    },
+    "tweet19": {
+      "content": "FRIDAY DEADLINE ALERT: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Berkshire Hathaway Inc. Cl A stock falls Tuesday, underperforms market"
+    },
+    "tweet2": {
+      "content": "The Gross Law Firm Announces Class Actions on Behalf of Shareholders of COMPANY_X, GNUS and PROG"
+    },
+    "tweet3": {
+      "content": "Honeywell Investor Alert: Faruqi & Faruqi, LLP Encourages Investors Who Suffered Losses Exceeding $50,000 Investing In Honeywell International Inc. To Contact The Firm"
+    },
+    "tweet4": {
+      "content": "Airline stocks set to soar after Labor Day or lose altitude? This top analyst reveals her big call"
+    },
+    "tweet5": {
+      "content": "CLASS ACTION UPDATE for COMPANY_X, KODK and AYX: Levi & Korsinsky, LLP Reminds Investors of Class Actions on Behalf of Shareholders"
+    },
+    "tweet6": {
+      "content": "2-Day Deadline Alert: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess to Contact the Firm"
+    },
+    "tweet7": {
+      "content": "Global Markets Review: Dow Dumps Exxon and Fed Targets Inflation"
+    },
+    "tweet8": {
+      "content": "SHAREHOLDER ALERT: Levi & Korsinsky, LLP Notifies Shareholders of Honeywell International Inc. of a Class Action Lawsuit and a Lead Plaintiff Deadline of September 4, 2020 - COMPANY_X"
+    },
+    "tweet9": {
+      "content": "COMPANY_X DEADLINE: Bronstein, Gewirtz & Grossman, LLC Reminds Honeywell International Inc. Shareholders With Losses Exceeding $1 Million of Class Action and Lead Plaintiff Deadline: September 4, 2020"
+    },
+    "tweet10": {
+      "content": "FRIDAY DEADLINE REMINDER: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    },
+    "tweet11": {
+      "content": "GLOBAL MARKETS-Asian stocks edge up after strong China manufacturing survey"
+    },
+    "tweet12": {
+      "content": "GLOBAL MARKETS-Asian stocks edge up after strong China manufacturing survey"
+    },
+    "tweet13": {
+      "content": "Hedge Funds Are Buying Honeywell International Inc. (COMPANY_X)"
+    },
+    "tweet14": {
+      "content": "COMPANY_X ALERT: The Klein Law Firm Announces a Lead Plaintiff Deadline of September 4, 2020 in the Class Action Filed on Behalf of Honeywell International Inc. Limited Shareholders"
+    },
+    "tweet15": {
+      "content": "GLOBAL MARKETS-Asian stocks edge lower after Wall Street dips in month-end trade"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "LAWSUITS FILED AGAINST COMPANY_X, NSP and ERII - Jakubowitz Law Pursues Shareholders Claims"
+    },
+    "tweet2": {
+      "content": "FINAL DEADLINE SEPTEMBER 4: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess to Contact the Firm"
+    },
+    "tweet3": {
+      "content": "SHAREHOLDER ALERT: COMPANY_X GEO VXRT: The Law Offices of Vincent Wong Reminds Investors of Important Class Action Deadlines"
+    },
+    "tweet4": {
+      "content": "Berkshire Hathaway Inc. Cl A stock outperforms market on strong trading day"
+    },
+    "tweet5": {
+      "content": "Honeywell Shareholder Alert: Faruqi & Faruqi, LLP Encourages Investors Who Suffered Losses Exceeding $50,000 Investing In Honeywell International Inc. To Contact The Firm"
+    },
+    "tweet6": {
+      "content": "How Dow changes are impacting ETF investing"
+    },
+    "tweet7": {
+      "content": "Charts Patterns Show Industrial Stocks Poised for Gains"
+    },
+    "tweet8": {
+      "content": "The Gross Law Firm Announces Class Actions on Behalf of Shareholders of COMPANY_X, PPC and KODK"
+    },
+    "tweet9": {
+      "content": "FRIDAY DEADLINE NOTICE: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    },
+    "tweet10": {
+      "content": "I have a problem with Tesla: Billionaire Investor"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Berkshire Hathaway Inc. Cl A stock outperforms market despite losses on the day"
+    },
+    "tweet2": {
+      "content": "Why Garrett Motion Stock Soared 30% Today"
+    },
+    "tweet3": {
+      "content": "CLASS ACTION UPDATE for COMPANY_X, KODK and GNUS: Levi & Korsinsky, LLP Reminds Investors of Class Actions on Behalf of Shareholders"
+    },
+    "tweet4": {
+      "content": "LAWSUITS FILED AGAINST COMPANY_X, COG and GNUS - Jakubowitz Law Pursues Shareholders Claims"
+    },
+    "tweet5": {
+      "content": "FINAL DEADLINE TOMORROW: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess to Contact the Firm"
+    },
+    "tweet6": {
+      "content": "COMPANY_X DEADLINE: Bronstein, Gewirtz & Grossman, LLC Reminds Honeywell International Inc. Investors With Losses Exceeding $1 Million of Class Action and Lead Plaintiff Deadline: September 4, 2020"
+    },
+    "tweet7": {
+      "content": "SHAREHOLDER ALERT: COMPANY_X PPC PROG: The Law Offices of Vincent Wong Reminds Investors of Important Class Action Deadlines"
+    },
+    "tweet8": {
+      "content": "DEADLINE TOMORROW: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    },
+    "tweet9": {
+      "content": "Influencers with Andy Serwer: Mario Gabelli"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Berkshire Hathaway Inc. Cl A stock rises Friday, outperforms market"
+    },
+    "tweet2": {
+      "content": "The Klein Law Firm Reminds Investors of Class Actions on Behalf of Shareholders of COMPANY_X, BLNK and PROG"
+    },
+    "tweet3": {
+      "content": "FINAL DEADLINE TODAY: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess to Contact the Firm"
+    },
+    "tweet4": {
+      "content": "COMPANY_X DEADLINE ALERT: Bronstein, Gewirtz & Grossman, LLC Reminds Honeywell International Inc. Shareholders With Losses Exceeding $1 Million of Class Action and Lead Plaintiff Deadline: September 4, 2020"
+    },
+    "tweet5": {
+      "content": "DEADLINE TODAY: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Berkshire Hathaway Inc. Cl A stock outperforms competitors despite losses on the day"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Berkshire Hathaway Inc. Cl A stock rises Wednesday, still underperforms market"
+    },
+    "tweet2": {
+      "content": "Honeywell Can Help New York City Malls Reopen"
+    },
+    "tweet3": {
+      "content": "GE Stock Is Only for the Long-Term Investor"
+    },
+    "tweet4": {
+      "content": "Why Are N95 Masks Still So Difficult to Get?"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Honeywell's Offerings Boost Building Solutions Portfolio"
+    },
+    "tweet2": {
+      "content": "PPE Market Booming on Coronavirus Fears: 4 Stocks in Focus"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Apple's Rising Class of Leaders Will Shape a Post-Tim Cook Era"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Top Stock Reports for Toyota, NIKE & Honeywell"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Toyota Motor, NIKE, Honeywell, Advanced Micro Devices and Anthem"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Stocks End Mixed But New China Stock KE Rocks; Two Of These Four Breakouts Undercut Their Buy Points"
+    },
+    "tweet2": {
+      "content": "Stocks Today End Mixed; Two Of These Four Breakouts Undercut Their Buy Points"
+    },
+    "tweet3": {
+      "content": "Berkshire Hathaway Inc. Cl A stock underperforms when compared to competitors despite strong trading day"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Berkshire Hathaway Inc. Cl A stock underperforms Thursday when compared to competitors"
+    },
+    "tweet2": {
+      "content": "Honeywell's Strongest Segment Prepares for Growth"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Berkshire Hathaway Inc. Cl A stock outperforms market on strong trading day"
+    },
+    "tweet2": {
+      "content": "Honeywell Stock Could Offer More Upside From Current Levels"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Berkshire Hathaway Inc. Cl A stock outperforms competitors despite losses on the day"
+    },
+    "tweet2": {
+      "content": "Dow Jones Battered As Nasdaq Moves Off Lows; These Sectors Mauled By Bears"
+    },
+    "tweet3": {
+      "content": "American Express, Honeywell International Inc. share losses contribute to Dow's 835-point drop"
+    },
+    "tweet4": {
+      "content": "American Express, Honeywell International Inc. share losses lead Dow's 767-point drop"
+    },
+    "tweet5": {
+      "content": "GE plans to stop making coal-fired power plants"
+    },
+    "tweet6": {
+      "content": "How Blacklisting Companies Became a Trade War Weapon"
+    },
+    "tweet7": {
+      "content": "Dow down nearly 850 points on losses for shares of American Express, Honeywell International Inc."
+    },
+    "tweet8": {
+      "content": "Auto-parts maker Garrett files for bankruptcy"
+    },
+    "tweet9": {
+      "content": "Dow's nearly 625-point drop led by losses in shares of American Express, UnitedHealth"
+    },
+    "tweet10": {
+      "content": "Dow Jones Changes Could Impact Investor Portfolios"
+    },
+    "tweet11": {
+      "content": "Dow Jones Changes Could Impact Investor Portfolios"
+    },
+    "tweet12": {
+      "content": "Garrett Files For Bankruptcy Protection Amid Fallout With Honeywell"
+    },
+    "tweet13": {
+      "content": "PRESS DIGEST - Wall Street Journal - Sept 21"
+    },
+    "tweet14": {
+      "content": "Auto-parts maker Garrett files for bankruptcy"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Berkshire Hathaway Inc. Cl A stock rises Tuesday, still underperforms market"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Berkshire Hathaway Inc. Cl A stock falls Wednesday, still outperforms market"
+    },
+    "tweet2": {
+      "content": "Garrett Motion Creditors Seek Honeywell Support for Rival Loan"
+    },
+    "tweet3": {
+      "content": "3 Real Deal Stocks to Buy Now"
+    },
+    "tweet4": {
+      "content": "Honeywell Stock is Nothing Exciting, so Look Elsewhere for Your Tech Fix"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Berkshire Hathaway Inc. Cl A stock falls Thursday, underperforms market"
+    },
+    "tweet2": {
+      "content": "Garrett Motion Bondholders Said to Discuss Rival Bankruptcy Loan"
+    },
+    "tweet3": {
+      "content": "Honeywell (COMPANY_X) Displays Bright Prospects, Headwinds Persist"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "High-Stakes Drama at Garrett Motion"
+    },
+    "tweet2": {
+      "content": "Berkshire Hathaway Inc. Cl A stock rises Friday, still underperforms market"
+    },
+    "tweet3": {
+      "content": "Honeywell Shares Gain on Plans To Increase Annual Dividend"
+    },
+    "tweet4": {
+      "content": "Honeywell: An Industrial Stock Pivoting to New Opportunities"
+    },
+    "tweet5": {
+      "content": "Honeywell raises dividend by 3.3%, starting with its fourth-quarter payout"
+    },
+    "tweet6": {
+      "content": "Honeywell To Increase Dividend Effective In Fourth Quarter 2020"
+    },
+    "tweet7": {
+      "content": "Stock Alert: TAT Technologies Gains 30% On Agreement With Honeywell "
+    },
+    "tweet8": {
+      "content": "After 75% Rally Johnson Controls Stock Looks Fully Valued"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "3 Reasons To Be Bullish On Biotech Giant Amgen"
+    },
+    "tweet2": {
+      "content": "Honeywell's (COMPANY_X) Board Okays 3.3% Hike in Dividend Rate"
+    },
+    "tweet3": {
+      "content": "Company News for Sep 28, 2020"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Honeywell To Provide Air Quality Monitoring Solutions, PPE Packs For Carolina Panthers "
+    },
+    "tweet2": {
+      "content": "Carolina Panthers And Honeywell Collaborate To Help Safely Bring Fans Back Inside Charlotte's Bank Of America Stadium"
+    },
+    "tweet3": {
+      "content": "Why I Bought Shares in This International Stock"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

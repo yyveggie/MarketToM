@@ -1,0 +1,319 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Schwab 401(k) Survey Finds Savings Goals and Stress Levels on the Rise – Participants Now Believe They Need to Save $1.9 Million for Retirement"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Charles Schwab Announces Plan to Adopt thinkorswim Trading Platforms as Part of TD Ameritrade Integration"
+    },
+    "tweet2": {
+      "content": "Skip Schweiss is Latest to Exit TD Ameritrade"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Schwab Announces thinkorswim Platform Will Survive"
+    },
+    "tweet2": {
+      "content": "Schwab to Integrate thinkorswim Platform into Trade Offerings"
+    },
+    "tweet3": {
+      "content": "Is Schwab Fundamental U.S. Broad Market Index ETF (FNDB) a Strong ETF Right Now?"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Week’s Best: Enjoy that ‘Funemployment,’ Skip"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "SS&C Announces Expanded Black Diamond Integrations with Schwab Advisor Center®"
+    },
+    "tweet2": {
+      "content": "Wasmer Schroeder High Yield Municipal Fund Reorganized Into Schwab High Yield Municipal Bond Fund"
+    },
+    "tweet3": {
+      "content": "Fintech Focus Roundup For August 8, 2020"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Tesla’s Split Doesn’t Matter. Try Telling That to Tesla Stock Owners."
+    },
+    "tweet2": {
+      "content": "Fractional Shares Expose Wall Street Greed"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Charles Schwab July new brokerage accounts added increased 2% from a month ago"
+    },
+    "tweet2": {
+      "content": "Schwab Reports Monthly Activity Highlights"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "Robinhood Now Valued at $11.2 Billion After Latest Funding Round"
+    },
+    "tweet2": {
+      "content": "Charles Schwab Financial Literacy Survey Exposes Grave Impact of Lack of Financial Education During COVID-19"
+    },
+    "tweet3": {
+      "content": "MarineMax and 3 Other Stocks Shine on Price-Cash Flow"
+    },
+    "tweet4": {
+      "content": "Schwab's (COMPANY_X) July Metrics Improve on Volatility Markets"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "TD Ameritrade trading platform thinkorswim hit by systems glitch"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Schwab Report: Self-Directed 401(k) Balances Rebound in Q2, Up 13% Quarter-Over-Quarter"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Asian Stocks Up, But Investors Keep an Eye on U.S. Economic Recovery"
+    },
+    "tweet2": {
+      "content": "Schwab Introduces Free Digital Financial Planning for Clients Seeking to Manage Their Retirement Goals"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Robinhood Gets the Headlines, but Fidelity Had an Enormous Quarter Too"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Top 5 Trades of Al Gore's Firm in the 2nd Quarter"
+    },
+    "tweet2": {
+      "content": "Schwab’s Latest Challenge for Advisors"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "New Schwab Model Portfolios Designed to Help Advisors Keep Clients on Course"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Hedge Funds Never Been This Bullish On The Charles Schwab (COMPANY_X)"
+    },
+    "tweet2": {
+      "content": "Charles Schwab (COMPANY_X) Has Fallen 6% in Last One Year, Underperforms Market"
+    },
+    "tweet3": {
+      "content": "Generation Investment Cuts Charles Schawab, MercadoLibre"
+    },
+    "tweet4": {
+      "content": "3 Top-Performing Active-Equity Funds From Schwab In 2020"
+    },
+    "tweet5": {
+      "content": "Is Schwab Fundamental U.S. Broad Market Index ETF (FNDB) a Strong ETF Right Now?"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Robinhood, Schwab and Other Brokers Resolve Online Glitches"
+    },
+    "tweet2": {
+      "content": "Popular trading platforms TD Ameritrade, Robinhood, and others faced outages early Monday as Tesla and Apple stocks split"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "What Is Online Trading Academy?"
+    },
+    "tweet2": {
+      "content": "Robinhood, Vanguard and other brokerage platforms were down Monday — here are workarounds to get your stock trades through next time"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "How to get your stock trades through when Robinhood, Vanguard and other brokerages go down, as they did this week"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "BeFi Barometer 2020: Behavioral Finance Techniques Help Advisors Keep Clients Invested Through Market Volatility"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "43% of retail investors are trading with leverage: survey"
+    },
+    "tweet2": {
+      "content": "Rocket Stock Gets Its First Downgrade. Why an Analyst Says to Sell."
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "5 Biggest ETF Companies"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Bank of America Is Ballast in a Balanced Portfolio"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "12 Hard-to-Believe Facts About Robinhood"
+    },
+    "tweet2": {
+      "content": "12 Hard-to-Believe Facts About Robinhood"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Analyst Report: The Charles Schwab Corporation"
+    },
+    "tweet2": {
+      "content": "3 Popular Guru Stocks Trading Below the GF Value Line"
+    },
+    "tweet3": {
+      "content": "Financial stocks fall in face of stock market's rally, as Citigroup and Schwab help drag the sector down"
+    },
+    "tweet4": {
+      "content": "Charles Schwab Shares Off After Revenue Update"
+    },
+    "tweet5": {
+      "content": "BUZZ-U.S. STOCKS ON THE MOVE-Exelixis Inc, AnPac Bio-Medical, Lennar Corp, Equillium Inc"
+    },
+    "tweet6": {
+      "content": "Charles Schwab's stock drops after downbeat revenue outlook"
+    },
+    "tweet7": {
+      "content": "Show Me the Finish Line: 401(k) Savers Say They Want Help Understanding How Much They’ll Need for Retirement"
+    },
+    "tweet8": {
+      "content": "Schwab Reports Monthly Activity Highlights"
+    },
+    "tweet9": {
+      "content": "NASDAQ Stock Is Too High"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Schwab Stock Down on Bleak Q3 Outlook; August Metrics Rise"
+    },
+    "tweet2": {
+      "content": "Company News for Sep 16, 2020"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Forget Cheap, High-Risk Stocks: Here Are 3 Better Ways to Invest"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Wall Street-backed MEMX launches in challenge to NYSE and Nasdaq"
+    },
+    "tweet2": {
+      "content": "Is Schwab Fundamental U.S. Broad Market Index ETF (FNDB) a Strong ETF Right Now?"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Analyzing Charles Schwab's Unusual Options Activity"
+    },
+    "tweet2": {
+      "content": "Intercontinental Exchange Stock Is Quite Expensive"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Cross-Sector: Market Data Highlights"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Top brokerage tightens margin requirements as competitors stay steady"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Richard Bernstein Advisors launches scholarship at historically black Spelman College"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "Schwab Provides Update on Regulatory Actions Related to Its Acquisition of TD Ameritrade"
+    },
+    "tweet2": {
+      "content": "A Fall Financials Check-In and an Exciting New Fool Service"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "New Strong Sell Stocks for October 1st"
+    },
+    "tweet2": {
+      "content": "U.S. Initial Jobless Claims Fell to 837,000 Last Week"
+    },
+    "tweet3": {
+      "content": "Can Charles Schwab Stock Rebound From Large Drops?"
+    }
+  }
+}

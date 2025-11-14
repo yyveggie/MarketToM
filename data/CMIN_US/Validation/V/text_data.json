@@ -1,0 +1,499 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "PepsiCo Slashed in David Carlson's 2nd-Quarter Portfolio"
+    },
+    "tweet2": {
+      "content": "Analyzing Visa's Unusual Option Activity"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Visa, PayPal, Global Payments, Google and Apple"
+    },
+    "tweet4": {
+      "content": "Microsoft, Apple Inc. share gains contribute to Dow's 130-point jump"
+    },
+    "tweet5": {
+      "content": "Brazil's central bank says Whatsapp payment tests have begun"
+    },
+    "tweet6": {
+      "content": "How Should Investors Feel About Visa's (NYSE:COMPANY_X) CEO Remuneration?"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Software firm Clearwater Analytics explores $2 billion sale -sources"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Amazon, Visa, United Parcel Service, Lockheed Martin and Colgate-Palmolive"
+    },
+    "tweet3": {
+      "content": "Global Visa Study Finds 67% of Small Businesses and 78% of Consumers Have Adopted New Behaviors to Adjust to COVID-19"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Mastercard, IBD Stock Of The Day, Hits Buy Zone As Spending May Get Stimulated Soon"
+    },
+    "tweet2": {
+      "content": "Walt Disney, Nike share gains contribute to Dow's 319-point rally"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Dow Jones Rallies 75 Points On Jobless Data; Fastly Dives 21% On Earnings, While Roku Tumbles 8%"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Tesla was a 'Late Bloomer' IPO — here's why: trader"
+    },
+    "tweet2": {
+      "content": "Microsoft, Apple Inc. share losses contribute to Dow's 34-point fall"
+    },
+    "tweet3": {
+      "content": "Dow's 100-point fall led by losses in shares of Microsoft, Chevron"
+    },
+    "tweet4": {
+      "content": "Dow Jones Slides 150 Points On Trump Order, China Sanctions; Alteryx, Datadog, Uber Dive On Earnings"
+    },
+    "tweet5": {
+      "content": "Brazil's Bradesco mulling IPO of card network Elo"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Visa Beats Google’s Record Low Yield in Debut Green Bond Sale"
+    },
+    "tweet2": {
+      "content": "Short Sellers Pocketed Over $50 Billion in Profits in 7 Days"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Dow Jones Jumps 325 Points On Russian Coronavirus Vaccine Claim; Visa Nears New Buy Point, While Tilray, Nio Report Earnings"
+    },
+    "tweet2": {
+      "content": "Visa Expands Commitment to Sustainability Through Inaugural $500 Million Green Bond Issuance and Appointment of Chief Sustainability Officer Role"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Dow jumps as tech companies recoup steep losses "
+    },
+    "tweet2": {
+      "content": "Apple Isn’t Just a Tech Stock. It’s a Play on Payments."
+    },
+    "tweet3": {
+      "content": "Dow Jones Spikes 300 Points On Moderna Coronavirus Vaccine Deal; Apple Rebounds 3%, While Tesla Surges On Stock Split"
+    },
+    "tweet4": {
+      "content": "Hashed CEO Simon Kim Explains Why Consumer-Focused Apps are the Future of Blockchain"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Will Apple Bring Sticker Shock to Credit Markets?"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "David Tepper's Top 5 Buys in the 2nd Quarter"
+    },
+    "tweet2": {
+      "content": "Tepper's Appaloosa loads up on new stakes in AT&T, Visa, PayPal, Disney, and Mastercard"
+    },
+    "tweet3": {
+      "content": "Weitz Investments Cuts Liberty Global, Visa"
+    },
+    "tweet4": {
+      "content": "Sands Capital Trims Alibaba, Facebook, Visa"
+    },
+    "tweet5": {
+      "content": "Now’s the Time to Buy These Stocks"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "Moscow Exchange to offer trading in U.S. blue chips from Aug. 24"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Visa Inc (COMPANY_X) EVP, CHIEF MRKTNG & COMM OFF Lynne Biggar Sold $1.1 million of Shares"
+    },
+    "tweet2": {
+      "content": "Visa, Chevron share losses lead Dow's nearly 75-point drop"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Dow flat in spite of gains for Nike, Visa shares"
+    },
+    "tweet2": {
+      "content": "TCI Fund Management: A 41% Gain in 2019"
+    },
+    "tweet3": {
+      "content": "2 Growth Stocks to Buy and Hold for the Next 50 Years"
+    },
+    "tweet4": {
+      "content": "The Q2 Moves Warren Buffett Is Most Likely to Regret"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Dow Jones Today, Futures Slip After Jobs Data; Intel Jumps On Buyback; Synopsys Eyes Breakout"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Apple Stock’s Rally Just Keeps Going as Valuation Touches $2.1 Trillion"
+    },
+    "tweet2": {
+      "content": "7 Safe Stocks to Buy That Can Shrug Off the Growing Volatility"
+    },
+    "tweet3": {
+      "content": "Facebook’s Chief Marketing Officer to Depart After Two Years"
+    },
+    "tweet4": {
+      "content": "A Look Into Visa's P/E Ratio"
+    },
+    "tweet5": {
+      "content": "2 Stocks You Can Buy and Hold Forever"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "11 Stocks Hedge Funds Are Crazy About in 2020 Q2"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Payment Stocks Are Bruised But Rising As Pandemic Shifts Shopping Paradigm"
+    },
+    "tweet2": {
+      "content": "2 Robinhood Stocks to Buy and Hold Forever"
+    },
+    "tweet3": {
+      "content": "Warren Buffett's 4 Most Surprising Q2 Moves"
+    },
+    "tweet4": {
+      "content": "The trade mutual funds hate and hedge funds love: Morning Brief"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Visa Inc. to Participate in Upcoming Investor Conferences"
+    },
+    "tweet2": {
+      "content": "B2B Adopts Digital Payments Amid Coronavirus: Stocks to Gain"
+    },
+    "tweet3": {
+      "content": "Microsoft, Home Depot share gains lead the way, but Dow flat"
+    },
+    "tweet4": {
+      "content": "Visa harnesses real-time deep learning to enhance transaction processing"
+    },
+    "tweet5": {
+      "content": "Visa Harnesses Real-Time Deep Learning to Enhance Transaction Processing"
+    },
+    "tweet6": {
+      "content": "Visa’s Transaction Volume Has Recovered Despite COVID-19"
+    },
+    "tweet7": {
+      "content": "Here is How Hedge Funds Traded Visa Inc (COMPANY_X) Recently"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "'Halftime Report' Traders Share Their Thoughts On Payment Space"
+    },
+    "tweet2": {
+      "content": "BofA Picks Visa Over Mastercard, Raises Price Targets"
+    },
+    "tweet3": {
+      "content": "Advanced Drainage, Jack Henry Associates, Visa, Mastercard and Global Payments as Zacks Bull and Bear of the Day"
+    },
+    "tweet4": {
+      "content": "Visa's (COMPANY_X) Smarter STIP to Make Payment Processing Better"
+    },
+    "tweet5": {
+      "content": "Why Is Visa (COMPANY_X) Up 5.9% Since Last Earnings Report?"
+    },
+    "tweet6": {
+      "content": "Benzinga's Top Upgrades, Downgrades For August 27, 2020"
+    },
+    "tweet7": {
+      "content": "A Look Into Visa's Debt"
+    },
+    "tweet8": {
+      "content": "Tesla Hits $400 Billion. There Are Only 7 Companies in the S&P 500 Worth More."
+    },
+    "tweet9": {
+      "content": "Tesla Is Now Worth $400 Billion"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Apple’s Bet on a Cashless Future Could Pay Big Dividends for Investors, Analyst Says"
+    },
+    "tweet2": {
+      "content": "These Global Tech Companies Can Go the Distance"
+    },
+    "tweet3": {
+      "content": "Walmart Leads Dow Jones Again On TikTok Optimism; Where Is The Stock Market Headed Next?"
+    },
+    "tweet4": {
+      "content": "Visa stock heads for new record close, its first since February"
+    },
+    "tweet5": {
+      "content": "Some Shareholders Feeling Restless Over Visa Inc.'s (NYSE:COMPANY_X) P/E Ratio"
+    },
+    "tweet6": {
+      "content": "Dow Jones Today, Stocks Open Higher As Ulta Beauty, Workday Spike On Earnings; Walmart Wants TikTok"
+    },
+    "tweet7": {
+      "content": "Dow Jones Today, Futures Rise As Ulta Beauty, Workday Spike On Earnings; Walmart Wants TikTok"
+    },
+    "tweet8": {
+      "content": "2 Great Stocks You Can Buy and Hold Forever"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Visa (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Tesla passes Visa to become seventh-largest U.S. company by market cap"
+    },
+    "tweet3": {
+      "content": "Apple Rises Following Stock Split; Dow Jones Rallies From Lows"
+    },
+    "tweet4": {
+      "content": "Tesla Stock Split 5-for-1. Here’s What That Means for Its Shares."
+    },
+    "tweet5": {
+      "content": "Tesla Stock Split. Monday’s Trading Could Be Crazy."
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "4 Stocks Buffett Is Selling That You Should Be Buying"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "U.S. Spending Jumped 7% at Visa in August"
+    },
+    "tweet2": {
+      "content": "Looking Into Visa's Return On Capital Employed"
+    },
+    "tweet3": {
+      "content": "Next Stock Market Crash: Where to Invest $10,000"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Dow's nearly 300-point drop led by losses for Apple Inc., Salesforce.com Inc. stocks"
+    },
+    "tweet2": {
+      "content": "PREMIUM: Trading volatile markets during prime time 'crash season' — webinar with Joe Fahmy"
+    },
+    "tweet3": {
+      "content": "Norwegian fintech Vipps in payments deal with Visa"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Salesforce.com Inc., Microsoft share losses lead Dow's 225-point drop"
+    },
+    "tweet2": {
+      "content": "Visa, Vipps Tie Up to Move Money Easily Via Mobile in Europe"
+    },
+    "tweet3": {
+      "content": "Dow's 314-point fall led by losses for Salesforce.com Inc., Microsoft shares"
+    },
+    "tweet4": {
+      "content": "Dow drops nearly 450 points on losses for shares of Salesforce.com Inc., Visa"
+    },
+    "tweet5": {
+      "content": "'Cash is dirty' especially in the era of a pandemic, Visa CFO weighs in on the acceleration of contactless payments"
+    },
+    "tweet6": {
+      "content": "Salesforce.com Inc., Apple Inc. share losses lead Dow's 532-point fall"
+    },
+    "tweet7": {
+      "content": "3 Top U.S. Stocks to Buy in September"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Visa Strikes a Deal With a Fintech for Digital Wallet Rollout in Europe"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Visa (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Visa (COMPANY_X) to Boost Cred's Business Via its Fintech Program"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: AAPL, PYPL, COMPANY_X and GPN"
+    },
+    "tweet2": {
+      "content": "Dow flat in spite of gains for Walt Disney, Salesforce.com Inc. shares"
+    },
+    "tweet3": {
+      "content": "Visa and PayPal Expand Partnership, Powering Faster Access to Funds Around the Globe"
+    },
+    "tweet4": {
+      "content": "Visa Looks Expensive -- Is It a Buy?"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Grading the Apple Card one year after its launch"
+    },
+    "tweet2": {
+      "content": "Analyst Report: Visa Inc."
+    },
+    "tweet3": {
+      "content": "Visa (COMPANY_X) and PayPal Deepen Ties for Instant Money Transfer"
+    },
+    "tweet4": {
+      "content": "Worried About Another Crash? Buy PayPal"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "American Express, Boeing share gains contribute to Dow's nearly 275-point climb"
+    },
+    "tweet2": {
+      "content": "Dow's nearly 350-point rally highlighted by gains for shares of American Express, Microsoft"
+    },
+    "tweet3": {
+      "content": "Dow jumps nearly 225 points on gains in shares of Apple Inc., American Express"
+    },
+    "tweet4": {
+      "content": "4 Unstoppable Stocks to Buy With $2,500"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Visa (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Apple Ends Barclays Credit-Card Partnership Ahead of New Devices"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "3 Warren Buffett Stocks You Can Buy and Hold Forever"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Covid Is Making Cash History. How to Profit From the Digital-Payment Future."
+    },
+    "tweet2": {
+      "content": "Hypur, A Cannabis Payments Company, Ditches Plaid After Visa Acquisition"
+    },
+    "tweet3": {
+      "content": "EU to introduce crypto-assets regime by 2024, EU documents say"
+    },
+    "tweet4": {
+      "content": "Coronavirus Speeds Shift To Digital Payments To Keep Shoppers Safe"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "How Visa Makes Money: Data Processing, Service, and International Transactions"
+    },
+    "tweet2": {
+      "content": "Cash Is History. How to Profit From the Digital-Payment Future."
+    },
+    "tweet3": {
+      "content": "Visa's Debt Overview"
+    },
+    "tweet4": {
+      "content": "Visa Helps Prepare Small Businesses for the Holiday Buying Season as National Small Business Week Begins"
+    },
+    "tweet5": {
+      "content": "Mastercard vs Visa: Which Financial Giant Makes A More Compelling Investment?"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Visa (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Could The Market Be Wrong About Visa Inc. (NYSE:COMPANY_X) Given Its Attractive Financial Prospects?"
+    },
+    "tweet3": {
+      "content": "Visa (COMPANY_X) Continues to Aid SMBs, Unveils Promotional Programs"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Understanding Visa's Unusual Options Activity"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "How COVID-19 is fueling contactless payment companies"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Goldman Sachs, Caterpillar share losses lead Dow's 67-point drop"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "How to Spot Opportunities in the Auto Sector"
+    },
+    "tweet2": {
+      "content": "Visa (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet3": {
+      "content": "My Ratings on the Largest 20 Stocks"
+    },
+    "tweet4": {
+      "content": "The 5 Fastest-Growing Stocks Warren Buffett Owns"
+    },
+    "tweet5": {
+      "content": "Beijing 2022 and Women report shows 70% women-led MSBs in the culture and tourism sectors anticipate  business opportunities from the Olympics Winter Games"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "2 Coronavirus-Proof Stocks on the Dow Jones Index"
+    },
+    "tweet2": {
+      "content": "Coronavirus Pandemic Opens Up a Pool of Opportunities for Visa"
+    },
+    "tweet3": {
+      "content": "Visa Stock Price Maxxed Out?"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "After Hours Most Active for Oct 1, 2020 :  VICI, AAPL, SLB, ABBV, SGMS, MSFT, HST, MNST, APA, RUN, GE, VZ"
+    },
+    "tweet2": {
+      "content": "PayPal Is a Free Cash Flow Powerhouse Likely to Move a Good Deal Higher"
+    }
+  }
+}

@@ -1,0 +1,4183 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "Dow Jones Futures Fall After Apple, Microsoft Fuel Nasdaq Record High; 4 Top Growth Stocks Lead Stock Market Rally"
+    },
+    "tweet2": {
+      "content": "GLOBAL MARKETS-Asia shares set to gain after manufacturing data, tech stocks boost"
+    },
+    "tweet3": {
+      "content": "Why Fastly Stock Jumped Today"
+    },
+    "tweet4": {
+      "content": "The Dow Jones Industrial Average Rose Again. It Still Can’t Keep Up With the Nasdaq."
+    },
+    "tweet5": {
+      "content": "Jim Cramer: This Is Where to Put Your Cash as Covid Surges"
+    },
+    "tweet6": {
+      "content": "S&P 500 Up 24 Points: Microsoft Moving on TikTok, Apple Going After Payments?"
+    },
+    "tweet7": {
+      "content": "Trump says China or Microsoft should pay U.S. a share of any TikTok sale proceeds"
+    },
+    "tweet8": {
+      "content": "10 Most Profitable Companies in America in 2020"
+    },
+    "tweet9": {
+      "content": "Dow Jones Futures: Apple, Microsoft Fuel Nasdaq Record High; 4 Top Growth Stocks Lead Stock Market Rally"
+    },
+    "tweet10": {
+      "content": "Stock Market Today: A Red-Hot Start to August"
+    },
+    "tweet11": {
+      "content": "Nasdaq Climbs 158 Points on Zoom Growth Hopes, Microsoft's TikTok Talks"
+    },
+    "tweet12": {
+      "content": "Dow Jones Gets Microsoft Boost, Nasdaq Hits New High In Broad Stock Market Rally"
+    },
+    "tweet13": {
+      "content": "GLOBAL MARKETS-Dollar, equities gain on upbeat data, Microsoft"
+    },
+    "tweet14": {
+      "content": "US STOCKS-Nasdaq hits record high close as traders eye M&A and stimulus"
+    },
+    "tweet15": {
+      "content": "It's Personal: AI Tech Giant Partners With IBM, Builds New Buy Zone"
+    },
+    "tweet16": {
+      "content": "Snap Stock Falls As Microsoft Considers TikTok Acquisition"
+    },
+    "tweet17": {
+      "content": "Trump: U.S. should get 'substantial portion' of TikTok deal"
+    },
+    "tweet18": {
+      "content": "Trump Says U.S. Should Get Cut of Any TikTok Sale Proceeds"
+    },
+    "tweet19": {
+      "content": "Amazon’s Market Power to Be Investigated by New York AG"
+    },
+    "tweet20": {
+      "content": "Trump Backs Off TikTok Ban as Microsoft Deal Talks Continue, Warns App Will Be Shut Down by Sept. 15 If Not Sold"
+    },
+    "tweet21": {
+      "content": "Microsoft Confirms It's in Talks to Buy TikTok"
+    },
+    "tweet22": {
+      "content": "Microsoft Stock Spikes on TikTok Deal Talks. Why Fastly and SoftBank Are Also Up."
+    },
+    "tweet23": {
+      "content": "GLOBAL MARKETS-Dollar, equities gain on upbeat manufacturing data"
+    },
+    "tweet24": {
+      "content": "Dow Jones Jumps 250 Points, Led By Microsoft, Apple; 5 Software Stocks To Watch With Earnings Due Soon"
+    },
+    "tweet25": {
+      "content": "US STOCKS-Wall St jumps as traders eye M&A and stimulus"
+    },
+    "tweet26": {
+      "content": "Stock Market Today With Jim Cramer: Buy Marathon Shares"
+    },
+    "tweet27": {
+      "content": "WRAPUP 2-Trump: U.S. should get 'substantial portion' of TikTok operations sale price"
+    },
+    "tweet28": {
+      "content": "Microsoft, Apple Inc. share gains contribute to Dow's nearly 275-point rally"
+    },
+    "tweet29": {
+      "content": "Trump Says TikTok Must Sell U.S. Arm by Sept. 15, or Close"
+    },
+    "tweet30": {
+      "content": "Dow Jones Jumps 200 Points; Apple Buys Mobile Payments Start-Up; Microsoft Interested in TikTok's U.S. Operations"
+    },
+    "tweet31": {
+      "content": "Dow Jones Rises Nearly 250 Points; Microsoft Jumps On Talks To Buy TikTok"
+    },
+    "tweet32": {
+      "content": "US STOCKS-Microsoft, Apple lift Wall St as investors await stimulus"
+    },
+    "tweet33": {
+      "content": "RPT-Trump says he does not mind if Microsoft buys TikTok"
+    },
+    "tweet34": {
+      "content": "Microsoft, Zoom, Upwork: Midday Tech Stock Movers"
+    },
+    "tweet35": {
+      "content": "Dow Jones Rallies 250 Points Amid Stimulus Talks; Apple Advances 5%, While Microsoft Jumps 5% On TikTok Talks"
+    },
+    "tweet36": {
+      "content": "Trump says he does not mind if Microsoft buys TikTok"
+    },
+    "tweet37": {
+      "content": "Buy Microsoft on TikTok Potential? Let's Look at the Charts First"
+    },
+    "tweet38": {
+      "content": "Bytedance says it is looking at relocating TikTok HQ"
+    },
+    "tweet39": {
+      "content": "US STOCKS-Microsoft, Apple lift Wall St as investors await stimulus"
+    },
+    "tweet40": {
+      "content": "GLOBAL MARKETS-Dollar, equities gain on upbeat manufacturing data"
+    },
+    "tweet41": {
+      "content": "Zoom Ends Direct Software Sales in China as U.S. Political Pressures Rise"
+    },
+    "tweet42": {
+      "content": "Dow's 200-point climb led by gains in shares of Microsoft, Merck"
+    },
+    "tweet43": {
+      "content": "Goldman Sachs Comes Up With Tinder for Mergers"
+    },
+    "tweet44": {
+      "content": "Microsoft Dances With TikTok"
+    },
+    "tweet45": {
+      "content": "U.S. top Senate Democrat says 'safe way' must be found for TikTok to continue"
+    },
+    "tweet46": {
+      "content": "US STOCKS-Earnings, Microsoft boost Wall St as investors await stimulus"
+    },
+    "tweet47": {
+      "content": "Trump vows TikTok ban if no U.S. sale deal reached by September 15"
+    },
+    "tweet48": {
+      "content": "Microsoft stock surges on hopes for TikTok deal but analyst worries acquisition might overshadow cloud story"
+    },
+    "tweet49": {
+      "content": "Dow Jones Today, Stocks Rise As Microsoft Courts TikTok; Varian Soars On Siemens Deal; Incyte, Co-Diagnostics FDA News"
+    },
+    "tweet50": {
+      "content": "White House adviser Navarro questions Microsoft's China ties amid TikTok discussions"
+    },
+    "tweet51": {
+      "content": "Microsoft, Apple Inc. share gains contribute to Dow's 130-point jump"
+    },
+    "tweet52": {
+      "content": "Microsoft Moving Forward on Deal for TikTok's U.S. Operations"
+    },
+    "tweet53": {
+      "content": "Microsoft and ByteDance Investors Circle As TikTok Ban Looms"
+    },
+    "tweet54": {
+      "content": "3 Top U.S. Stocks to Buy in August"
+    },
+    "tweet55": {
+      "content": "TikTok Stokes Trump's Nationalistic Fervor for No Good Reason"
+    },
+    "tweet56": {
+      "content": "Microsoft, Apple lift Wall Street as investors await stimulus"
+    },
+    "tweet57": {
+      "content": "Marathon Petroleum Stock Jumps, Microsoft Gains, and the Dow Is Higher"
+    },
+    "tweet58": {
+      "content": "US STOCKS-Earnings, Microsoft set to boost Wall St as investors await stimulus"
+    },
+    "tweet59": {
+      "content": "Dow Jones Futures Rise As Coronavirus Stock Market Rally Awaits Stimulus Deal; Microsoft Confirms TikTok Talks"
+    },
+    "tweet60": {
+      "content": "TikTok, SpaceX and the Allure of Private Companies"
+    },
+    "tweet61": {
+      "content": "Trump’s TikTok Assault Opens New Front in Tech War With China"
+    },
+    "tweet62": {
+      "content": "Pinning Down Microsoft Corporation's (NASDAQ:COMPANY_X) P/E Is Difficult Right Now"
+    },
+    "tweet63": {
+      "content": "Here Are the Top 10 Most Popular Stocks on Robinhood"
+    },
+    "tweet64": {
+      "content": "US STOCKS-Stimulus gridlock strains S&P 500, Dow futures"
+    },
+    "tweet65": {
+      "content": "Microsoft Confirms Talks With TikTok. Why It Could Be a Transformational Deal."
+    },
+    "tweet66": {
+      "content": "3 Dividend-Paying Tech Stocks to Buy in August"
+    },
+    "tweet67": {
+      "content": "Big Tech Faithful Shouldn’t Ignore Antitrust Risk"
+    },
+    "tweet68": {
+      "content": "ByteDance CEO ‘Working Overtime’ To Devise TikTok Solution"
+    },
+    "tweet69": {
+      "content": "Microsoft and TikTok talks continue after Trump call"
+    },
+    "tweet70": {
+      "content": "Microsoft Tries to Salvage Deal to Buy TikTok, Appease Trump"
+    },
+    "tweet71": {
+      "content": "Microsoft nears big bet on TikTok after risky LinkedIn deal shows promise"
+    },
+    "tweet72": {
+      "content": "UK Approves TikTok Parent ByteDance's Relocation To London Amid Microsoft Buyout Talks: Report"
+    },
+    "tweet73": {
+      "content": "Full U.S. TikTok Ban May Not Make Sense, AEI's Scissors Says"
+    },
+    "tweet74": {
+      "content": "HSBC's Split Personality Is Dragging It Down"
+    },
+    "tweet75": {
+      "content": "Microsoft Confirms TikTok Purchase Talks Back On Table After Trump Call"
+    },
+    "tweet76": {
+      "content": "Microsoft talks to buy TikTok's U.S. operations spark ire in China"
+    },
+    "tweet77": {
+      "content": "TikTok owners will relocate to London from Beijing, Sun newspaper says"
+    },
+    "tweet78": {
+      "content": "ByteDance says preliminary talks with a tech firm over TikTok have started -staff letter"
+    },
+    "tweet79": {
+      "content": "PRESS DIGEST -Wall Street Journal - August 3"
+    },
+    "tweet80": {
+      "content": "PRESS DIGEST-New York Times business news - Aug 3"
+    },
+    "tweet81": {
+      "content": "TikTok Could Become Microsoft's Deal of the Decade"
+    },
+    "tweet82": {
+      "content": "With Deadline Set, Microsoft, ByteDance Still Have to Talk Price"
+    },
+    "tweet83": {
+      "content": "Dow Jones Futures: Coronavirus Stock Market Rally Awaits Stimulus Deal; Microsoft Confirms TikTok Talks"
+    },
+    "tweet84": {
+      "content": "Microsoft to continue talks to buy TikTok from ByteDance"
+    },
+    "tweet85": {
+      "content": "U.S. to Act on China Software Beyond TikTok, Pompeo Says"
+    },
+    "tweet86": {
+      "content": "Microsoft wants to buy TikTok as White House puts Chinese apps on warning"
+    },
+    "tweet87": {
+      "content": "Microsoft wants to buy TikTok as White House puts Chinese apps on warning"
+    },
+    "tweet88": {
+      "content": "Microsoft Confirms Talks to Buy TikTok’s U.S. Operation"
+    },
+    "tweet89": {
+      "content": "Exclusive: Trump gives Microsoft 45 days to clinch TikTok deal"
+    },
+    "tweet90": {
+      "content": "Exclusive: Trump to give TikTok's Chinese owner 45 days to agree sale - sources"
+    },
+    "tweet91": {
+      "content": "Exclusive: Trump to give TikTok's Chinese owner 45 days to agree sale - sources"
+    },
+    "tweet92": {
+      "content": "Microsoft Says Looking To Wrap Up TikTok Purchase Talks By Sept. 15, After CEO's Conversation With Trump"
+    },
+    "tweet93": {
+      "content": "PRESS DIGEST- Financial Times - Aug. 3"
+    },
+    "tweet94": {
+      "content": "ByteDance says faces 'complex and unimaginable difficulties'"
+    },
+    "tweet95": {
+      "content": "Microsoft Says It Will Continue TikTok Acquisition Talks, After Trump’s Threat to Ban the App"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Australian PM says no evidence to suggest TikTok should be banned"
+    },
+    "tweet2": {
+      "content": "Trump's bid for a piece of Microsoft-TikTok deal could spur legal action"
+    },
+    "tweet3": {
+      "content": "TikTok’s Price Is a Giant Question Mark in Already Complex Deal"
+    },
+    "tweet4": {
+      "content": "US STOCKS-Wall St ends higher as investors eye stimulus"
+    },
+    "tweet5": {
+      "content": "Dow Jones Up Nearly 100 Points; Disney Stock Rises Ahead Of Earnings"
+    },
+    "tweet6": {
+      "content": "US STOCKS-Wall St mixed as investors eye stimulus"
+    },
+    "tweet7": {
+      "content": "Microsoft Shares Details on New AMD-Powered Cloud Gaming Service"
+    },
+    "tweet8": {
+      "content": "TikTok North America GM Says the App Doesn’t Operate in China, but That Doesn’t Change Anything About Its U.S.-Mandated Sale"
+    },
+    "tweet9": {
+      "content": "McDonald's, Exxon Mobil Lead Dow Jones 100-Point Rally; AMD Stock Surges, Leads Nasdaq 100"
+    },
+    "tweet10": {
+      "content": "Analysts Love Microsoft’s Potential Bid for TikTok. Here’s Why."
+    },
+    "tweet11": {
+      "content": "AMD, Roku, Take-Two Interactive: Midday Tech Stock Movers"
+    },
+    "tweet12": {
+      "content": "U.S. to act on TikTok, other Chinese apps in coming days -White House"
+    },
+    "tweet13": {
+      "content": "US STOCKS-S&P 500, Dow drift higher as investors eye stimulus"
+    },
+    "tweet14": {
+      "content": "Dow Jones Leads Stock Market Ahead Of Disney Earnings Today"
+    },
+    "tweet15": {
+      "content": "Long-Term Investors Prefer Microsoft And Amazon Over Tesla And Facebook, Tech Survey Says"
+    },
+    "tweet16": {
+      "content": "Better Buy: Zoom Video Communications vs. Microsoft"
+    },
+    "tweet17": {
+      "content": "Morning Bell With Jim Cramer: TikTok Will Help Microsoft"
+    },
+    "tweet18": {
+      "content": "How acquiring TikTok could hurt Microsoft"
+    },
+    "tweet19": {
+      "content": "What did you do during lockdown? I was playing 'Grand Theft Auto'"
+    },
+    "tweet20": {
+      "content": "TikTok founder defends potential Microsoft sale"
+    },
+    "tweet21": {
+      "content": "US STOCKS-S&P 500, Dow grind higher with stimulus in focus"
+    },
+    "tweet22": {
+      "content": "Dow Jones Rises 125 Points, As Microsoft Slides; Chegg Tumbles 5% On Earnings, While SolarEdge Soars 18%"
+    },
+    "tweet23": {
+      "content": "Apple says it has no interest in buying TikTok"
+    },
+    "tweet24": {
+      "content": "S&P 500, Dow grind higher with stimulus in focus"
+    },
+    "tweet25": {
+      "content": "Dow Rises, but Stimulus Worries Weigh"
+    },
+    "tweet26": {
+      "content": "Top Analyst Reports for UnitedHealth, Comcast & Exxon Mobil"
+    },
+    "tweet27": {
+      "content": "US STOCKS-Escalating Sino-U.S. tensions strain S&P 500, Dow"
+    },
+    "tweet28": {
+      "content": "ETFs to Buy on the Possible Microsoft-TikTok Acquisition"
+    },
+    "tweet29": {
+      "content": "Dow Jones Today Dips, Nasdaq Fights To Extend Streak; Take-Two, SolarEdge, AMD Rocket"
+    },
+    "tweet30": {
+      "content": "The Zacks Analyst Blog Highlights: Apple, Microsoft, Take-Two Interactive and Virgin Galactic"
+    },
+    "tweet31": {
+      "content": "Microsoft Shares Slip as Trump, China Spar Over TikTok Sale Plan; Reports of Potential Suitors Emerge"
+    },
+    "tweet32": {
+      "content": "Is Dropbox Stock a Buy?"
+    },
+    "tweet33": {
+      "content": "Take-Two Stock Jumps, Microsoft Slips, and the Stock Market Isn’t as Yawn Inducing as It Looks"
+    },
+    "tweet34": {
+      "content": "US STOCKS-Wall St set to dip as U.S.-China tensions heat up over TikTok"
+    },
+    "tweet35": {
+      "content": "Dow Jones Futures Signal Losses In Coronavirus Stock Market Rally; SolarEdge Soars 12% On Earnings"
+    },
+    "tweet36": {
+      "content": "China won't accept TikTok 'theft' - China Daily"
+    },
+    "tweet37": {
+      "content": "The Nasdaq Keeps Hitting New Highs. The Dow’s Nowhere Near One. Time to Worry?"
+    },
+    "tweet38": {
+      "content": "US STOCKS-Futures retreat as U.S.-China tensions heat up over TikTok"
+    },
+    "tweet39": {
+      "content": "Donald Trump: US Treasury should get cut of TikTok deal"
+    },
+    "tweet40": {
+      "content": "[video]TikTok Can Fill a Hole in Microsoft's Consumer Portfolio -- If Handled Right"
+    },
+    "tweet41": {
+      "content": "Microsoft's rescue attempt of TikTok endears old company to new generation"
+    },
+    "tweet42": {
+      "content": "Why Markets Don’t Seem to Care If the Economy Stinks"
+    },
+    "tweet43": {
+      "content": "Microsoft Commits To Become 'Zero Waste' Company By 2030, After Carbon Negative Pledge"
+    },
+    "tweet44": {
+      "content": "Trump: U.S. should get 'substantial portion' of TikTok operations sale price"
+    },
+    "tweet45": {
+      "content": "ByteDance says goal of U.S. was to ban TikTok app rather than force a sale -internal letter"
+    },
+    "tweet46": {
+      "content": "GLOBAL MARKETS-Asia shares supported by upbeat U.S. manufacturing, but virus woes cap gains"
+    },
+    "tweet47": {
+      "content": "Australia shares rise most in two weeks on Wall Street rally"
+    },
+    "tweet48": {
+      "content": "Top 5 Things to Know in the Market on Tuesday, August 4th"
+    },
+    "tweet49": {
+      "content": "PRESS DIGEST-New York Times business news - Aug 4"
+    },
+    "tweet50": {
+      "content": "GLOBAL MARKETS-Asia shares rise as U.S. manufacturing perks up"
+    },
+    "tweet51": {
+      "content": "Trump has no right to demand money from Microsoft-TikTok deal"
+    },
+    "tweet52": {
+      "content": "Dow Jones Futures Rise After Apple, Microsoft Fuel Nasdaq Record High; 4 Top Growth Stocks Lead Stock Market Rally"
+    },
+    "tweet53": {
+      "content": "Trump Asks Microsoft, ByteDance To Pay US Govt A Cut From TikTok Acquisition Deal"
+    },
+    "tweet54": {
+      "content": "Australia shares gain 2% on Wall Street rally, upbeat data"
+    },
+    "tweet55": {
+      "content": "Is Quantum Computing Ready for Prime Time?"
+    },
+    "tweet56": {
+      "content": "China will not accept U.S. 'theft' of TikTok: China Daily"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "TikTok to Spend $500 Million on First EU Data Center in Ireland"
+    },
+    "tweet2": {
+      "content": "Discover the Salaries of Top CEOs, and Heads of Government and State"
+    },
+    "tweet3": {
+      "content": "Fastly stock drops as strong earnings overshadowed by TikTok reliance"
+    },
+    "tweet4": {
+      "content": "Rackspace shares sink 22% on first day of trading"
+    },
+    "tweet5": {
+      "content": "Red Hot Fastly Reports Strong Results. Here’s Why the Stock Is Still Falling."
+    },
+    "tweet6": {
+      "content": "What a TikTok Deal Could Mean for Microsoft's Stock"
+    },
+    "tweet7": {
+      "content": "TikTok Is a Compelling Fit With Microsoft, Morgan Stanley Analyst Says"
+    },
+    "tweet8": {
+      "content": "Apollo-Backed Rackspace Dives in Debut After $704 Million IPO"
+    },
+    "tweet9": {
+      "content": "How Gaming Stocks Are Leveling Up"
+    },
+    "tweet10": {
+      "content": "Rackspace sets pricing for IPO at $21 per share"
+    },
+    "tweet11": {
+      "content": "20 stocks that investors hate but Wall Street loves as the S&P 500 nears a record high"
+    },
+    "tweet12": {
+      "content": "TikTok takes steps to curb misinformation ahead of U.S. elections"
+    },
+    "tweet13": {
+      "content": "Samsung launches pricey new Note as pandemic shrinks smartphone market"
+    },
+    "tweet14": {
+      "content": "The Zacks Analyst Blog Highlights: UnitedHealth, Comcast, Exxon Mobil, Microsoft, Accenture and Charter Communications"
+    },
+    "tweet15": {
+      "content": "White House unveils new partnership to boost quantum science education"
+    },
+    "tweet16": {
+      "content": "Dow Jumps as Lawmakers Step Up Efforts to Get Stimulus Bill Over the Line"
+    },
+    "tweet17": {
+      "content": "WeWork Gives Members Global Access During Pandemic Disruption"
+    },
+    "tweet18": {
+      "content": "Facebook’s Instagram Launches TikTok Copycat in Political Storm"
+    },
+    "tweet19": {
+      "content": "Facebook launches TikTok-like product inside Instagram"
+    },
+    "tweet20": {
+      "content": "Electronic Arts Smashes Expectations with Blowout Quarter"
+    },
+    "tweet21": {
+      "content": "PRESS DIGEST -Wall Street Journal - Aug 5"
+    },
+    "tweet22": {
+      "content": "TIMELINE-TikTok's journey from global sensation to Trump target"
+    },
+    "tweet23": {
+      "content": "Bill Gates Says U.S. Data From TikTok Safe With Microsoft"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Facebook Stock Rallied Today. Look to Its TikTok Rival, Reels, for the Reason."
+    },
+    "tweet2": {
+      "content": "Nasdaq Composite’s record rally takes it to fastest 1,000-point milestone in 20 years"
+    },
+    "tweet3": {
+      "content": "Apple Inc., Walt Disney share gains lead Dow's 162-point climb"
+    },
+    "tweet4": {
+      "content": "Report Says Microsoft Seeks All of TikTok, but Source Says Story Is False"
+    },
+    "tweet5": {
+      "content": "Microsoft’s TikTok Talks Said to Stay Focused on U.S., 3 Nations"
+    },
+    "tweet6": {
+      "content": "U.S. Senate bans TikTok on government devices"
+    },
+    "tweet7": {
+      "content": "Microsoft Is Now Interested in All of TikTok's Global Operations: Report"
+    },
+    "tweet8": {
+      "content": "Fastly Slides 20% After Huge Rally as TikTok Risks Trigger Profit-Taking"
+    },
+    "tweet9": {
+      "content": "Microsoft aiming to buy TikTok's entire global business - FT"
+    },
+    "tweet10": {
+      "content": "Microsoft expands TikTok takeover ambitions to entire global business - FT"
+    },
+    "tweet11": {
+      "content": "Dow Higher as Tech Reigns Supreme, but Slow Stimulus Progress Weighs"
+    },
+    "tweet12": {
+      "content": "State Department Official Who Lobbied Against Huawei to Resign"
+    },
+    "tweet13": {
+      "content": "Dow Jones Today, Stocks Open Lower After Jobless Data; Health Sector Rallies Behind Bristol Myers, Bausch Health"
+    },
+    "tweet14": {
+      "content": "Is Apple No. 1? This Chart Shows How All 5 Big Tech Stocks Compare"
+    },
+    "tweet15": {
+      "content": "Is Apple Still The Best? How All 5 Big Tech Stocks Compare"
+    },
+    "tweet16": {
+      "content": "Red Hot Fastly Stock Drops After Reporting Strong Results. Blame TikTok?"
+    },
+    "tweet17": {
+      "content": "Blocking TikTok Opens a Can of Worms for Facebook, Google"
+    },
+    "tweet18": {
+      "content": "TikTok to open first European data centre in Ireland"
+    },
+    "tweet19": {
+      "content": "Samsung Adds Galaxy Note 20 to Premium Lineup, Teases Fold 2"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "July Jobs Report: Better Than Expected, Better Than Feared"
+    },
+    "tweet2": {
+      "content": "Is Apple Also Eyeing TikTok?"
+    },
+    "tweet3": {
+      "content": "Banning TikTok and WeChat Is a Slippery Slope, Says Analyst Ives"
+    },
+    "tweet4": {
+      "content": "WeChat U.S. ban cuts off users link to families in China"
+    },
+    "tweet5": {
+      "content": "TikTok’s Fate Is Unclear. What It Means for Social Media."
+    },
+    "tweet6": {
+      "content": "US STOCKS-Slowing job growth, stimulus worries weigh on Nasdaq"
+    },
+    "tweet7": {
+      "content": "Apple, Facebook, Microsoft Lead Stock Market Rally; Teladoc-Livongo Deal Panned; Fastly, Datadog Dumped: Weekly Review"
+    },
+    "tweet8": {
+      "content": "Dow down 38 points on losses in shares of Apple Inc., Microsoft"
+    },
+    "tweet9": {
+      "content": "Chinese Tech Stocks Slump -- and Facebook and Snap Gain -- Following Trump Orders"
+    },
+    "tweet10": {
+      "content": "Apple Inc., Microsoft share losses lead Dow's nearly 125-point drop"
+    },
+    "tweet11": {
+      "content": "US STOCKS-Slowing job growth weighs on Wall St; new stimulus eyed"
+    },
+    "tweet12": {
+      "content": "TikTok Is Taking Over. Microsoft Could Grab It for a Song."
+    },
+    "tweet13": {
+      "content": "Fastly Stock Continues to Dive on Concerns About Its Ties to TikTok"
+    },
+    "tweet14": {
+      "content": "For Stock Investors, the Best Hedges Are Gold and TIPS"
+    },
+    "tweet15": {
+      "content": "Microsoft, Apple Inc. share losses contribute to Dow's 34-point fall"
+    },
+    "tweet16": {
+      "content": "US STOCKS-Slowing job growth weighs on Wall St as focus turns to stimulus"
+    },
+    "tweet17": {
+      "content": "10 Biggest Software Companies"
+    },
+    "tweet18": {
+      "content": "Dow's 100-point fall led by losses in shares of Microsoft, Chevron"
+    },
+    "tweet19": {
+      "content": "Trump Escalates War on China’s Tech Sector by Going After WeChat"
+    },
+    "tweet20": {
+      "content": "US STOCKS-Wall St retreats on slowing jobs growth, U.S.-China friction"
+    },
+    "tweet21": {
+      "content": "What To Make Of Dan Loeb's New Stake In Disney"
+    },
+    "tweet22": {
+      "content": "Microsoft’s Nadella is making a smart bet with TikTok — there’s more to gain than some realize"
+    },
+    "tweet23": {
+      "content": "Alibaba, Tencent Among Stocks Hit By US-China Tension; Jobs Number A Step In Right Direction"
+    },
+    "tweet24": {
+      "content": "US STOCKS-Wall St dips on slowing job growth, U.S.-China tensions"
+    },
+    "tweet25": {
+      "content": "Dow Struggles as Bears Find Joy on Stalling Stimulus Progress"
+    },
+    "tweet26": {
+      "content": "US STOCKS-Wall St set to dip on slowing job growth, U.S.-China tensions"
+    },
+    "tweet27": {
+      "content": "Trump’s TikTok and WeChat ban hurts Chinese internet stocks — here’s why his executive order also puts pressure on Microsoft"
+    },
+    "tweet28": {
+      "content": "Why Google Stock Boost From Cloud-Computing Growth Could Be Bigger"
+    },
+    "tweet29": {
+      "content": "Trump's Forced Sale of TikTok Is Mafia-Style Overreach"
+    },
+    "tweet30": {
+      "content": "T-Mobile Stock Jumps, Booking Climbs, and TikTok Saga Sinks Dow Jones Industrial Average"
+    },
+    "tweet31": {
+      "content": "Dow Jones Futures Fall: Apple, Facebook Soar, But These Clouds Loom Over Stock Market Rally"
+    },
+    "tweet32": {
+      "content": "US STOCKS-Sino-U.S. tensions hit futures ahead of jobs report"
+    },
+    "tweet33": {
+      "content": "Dow Jones Futures: Apple, Facebook Soar, But These Clouds Loom Over Stock Market Rally"
+    },
+    "tweet34": {
+      "content": "Why Londoners Are Refusing to Return to the Office"
+    },
+    "tweet35": {
+      "content": "Trump Widens China Tech Attack, Ordering Bans on TikTok and WeChat"
+    },
+    "tweet36": {
+      "content": "China says it firmly opposes U.S. orders against TikTok, WeChat"
+    },
+    "tweet37": {
+      "content": "Microsoft Criticizes Apple Over App Store Policies After Gaming App CloudX Denied Entry"
+    },
+    "tweet38": {
+      "content": "China warns Japan a TikTok ban would affect relations - TBS"
+    },
+    "tweet39": {
+      "content": "Trump Signs Executive Orders on TikTok, WeChat"
+    },
+    "tweet40": {
+      "content": "Trump Signs Executive Orders To Ban TikTok, WeChat In 45 Days, Unless Parent Firms Agree To Sell Apps"
+    },
+    "tweet41": {
+      "content": "Trump issues order to ban transactions with TikTok's Chinese owner"
+    },
+    "tweet42": {
+      "content": "Chinese state media slams 'madness' of U.S. tech purge"
+    },
+    "tweet43": {
+      "content": "Nintendo Profit Smashes Analyst Estimates With Animal Crossing"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Dow Jones Rises As This Dow Leader Trades Inside A Key Buy Zone"
+    },
+    "tweet2": {
+      "content": "US STOCKS-S&P 500 ends up slightly, tech-related shares underperform value"
+    },
+    "tweet3": {
+      "content": "WeChat Users in the U.S. Fear Losing Family Links With Ban"
+    },
+    "tweet4": {
+      "content": "Nvidia Stock May Get a Lift From Microsoft and Sony"
+    },
+    "tweet5": {
+      "content": "Why This Analyst Says Microsoft's LinkedIn Purchase Bodes Well For TikTok"
+    },
+    "tweet6": {
+      "content": "Apple Deserves to Be a $2 Trillion Stock. Here’s Why."
+    },
+    "tweet7": {
+      "content": "US STOCKS-Dow, S&P 500 up; tech-related shares underperform value"
+    },
+    "tweet8": {
+      "content": "Dow Jones Gains 300 Points; Apple Could Suffer From WeChat Ban; Microsoft's TikTok Deal Faces Long Odds"
+    },
+    "tweet9": {
+      "content": "US STOCKS-Wall St mixed with stimulus in focus; Dow hits over 5-month high"
+    },
+    "tweet10": {
+      "content": "Twitter, Pinterest, Microsoft: Midday Tech Stock Movers"
+    },
+    "tweet11": {
+      "content": "Twitter Wants to Jumpstart Its Growth With TikTok, Challenging Microsoft"
+    },
+    "tweet12": {
+      "content": "Dow Jones Leads, Nasdaq Lags As Market Weighs Trump Orders, China Tensions"
+    },
+    "tweet13": {
+      "content": "Facebook, Microsoft gripes with Apple's App Store on EU's antitrust radar"
+    },
+    "tweet14": {
+      "content": "Facebook, Microsoft gripes with Apple's App Store on EU's antitrust radar"
+    },
+    "tweet15": {
+      "content": "What Buying TikTok Could Mean For Microsoft"
+    },
+    "tweet16": {
+      "content": "US STOCKS-Wall St mixed with stimulus in focus; Dow hits over 5-mth high"
+    },
+    "tweet17": {
+      "content": "Tech giants back legal challenge to Trump's foreign worker restrictions"
+    },
+    "tweet18": {
+      "content": "Facebook, Amazon and Google Emails Make an Antitrust Case"
+    },
+    "tweet19": {
+      "content": "Kodak Stock Makes No Sense at All"
+    },
+    "tweet20": {
+      "content": "Twitter, Not Microsoft, Should Buy TikTok"
+    },
+    "tweet21": {
+      "content": "Twitter Shares Jump Amid Reports Of Potential Takeover Challenge To Microsoft For TikTok"
+    },
+    "tweet22": {
+      "content": "U.S. Treasury chief says TikTok cannot continue in present form"
+    },
+    "tweet23": {
+      "content": "Top Strategists on Where to Invest Now"
+    },
+    "tweet24": {
+      "content": "Dow Jones Futures: Trump Extends Unemployment Benefits; Four Stock Market Rally Risks"
+    },
+    "tweet25": {
+      "content": "RPT-EXPLAINER-Microsoft's TikTok bid spotlights Windows maker's history with China"
+    },
+    "tweet26": {
+      "content": "RPT-BUZZ-U.S. stocks weekly: Up the ante"
+    },
+    "tweet27": {
+      "content": "Exclusive: Microsoft faces complex technical challenges in TikTok carveout"
+    },
+    "tweet28": {
+      "content": "ByteDance takes step toward entering online stock broking in Hong Kong"
+    },
+    "tweet29": {
+      "content": "Explainer: Microsoft's TikTok bid spotlights Windows maker's history with China"
+    },
+    "tweet30": {
+      "content": "Explainer: Microsoft's TikTok bid spotlights Windows maker's history with China"
+    },
+    "tweet31": {
+      "content": "Stocks - Twitter, Apple Rise Premarket; Kodak Drops"
+    },
+    "tweet32": {
+      "content": "Twitter 'looking' at a possible TikTok tie-up"
+    },
+    "tweet33": {
+      "content": "PRESS DIGEST -Wall Street Journal - Aug 10"
+    },
+    "tweet34": {
+      "content": "Assessing the Rivalry Between U.S., Chinese Tech Giants"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "The S&P 500 Was This Close to a Record High. Then the Market Collapsed."
+    },
+    "tweet2": {
+      "content": "US STOCKS-S&P 500, Dow snap 7-day winning streak as concern mounts over stimulus deal"
+    },
+    "tweet3": {
+      "content": "Microsoft Delays ‘Halo Infinite,’ Biggest Game for Xbox Launch"
+    },
+    "tweet4": {
+      "content": "Dow Jones Pares Gain Of Over 250 Points; Nike Stock Trades In Buy Range"
+    },
+    "tweet5": {
+      "content": "Why Microsoft Delaying ‘Halo Infinite’ Until 2021 Hurt AMD and Videogame Publisher Stocks"
+    },
+    "tweet6": {
+      "content": "Dow flat despite losses for Apple Inc., Walgreens Boots stocks"
+    },
+    "tweet7": {
+      "content": "'Halo Infinite' delayed, will not debut with new Xbox; Microsoft stock slips"
+    },
+    "tweet8": {
+      "content": "The Dow Is Rising Because the Stock Market Has Soured on the Stay-at-Home Trade"
+    },
+    "tweet9": {
+      "content": "Analyst: Amazon Web Services Data Shows Huge Gains for AMD Chips"
+    },
+    "tweet10": {
+      "content": "S&P 500 in Ugly Reversal as Tech Wreck Dashes Path to Record High"
+    },
+    "tweet11": {
+      "content": "S&P 500 in U-Turn as Tech Moves Deeper Into Red Amid Stimulus Stalemate"
+    },
+    "tweet12": {
+      "content": "Standard Chartered Bank partners with Microsoft to become a cloud-first bank"
+    },
+    "tweet13": {
+      "content": "New Recorded Future and Microsoft Azure Partnership Brings Security Intelligence to Cloud Environments"
+    },
+    "tweet14": {
+      "content": "TikTok Faces French Data Probe, Adding to EU-Wide Scrutiny"
+    },
+    "tweet15": {
+      "content": "Is Alteryx Stock a Buy?"
+    },
+    "tweet16": {
+      "content": "Alteryx Signals a Permanent Slowdown for Data Analytics Might Be Here"
+    },
+    "tweet17": {
+      "content": "Microsoft (COMPANY_X) Doesn't Need TikTok To Hit New Highs"
+    },
+    "tweet18": {
+      "content": "5 Stocks Robinhood Investors Can't Stop Buying"
+    },
+    "tweet19": {
+      "content": "Big U.S. companies form group to boost hiring of minorities in New York"
+    },
+    "tweet20": {
+      "content": "Top CEOs pledge to hire 100,000 low-income and minority New Yorkers"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Facebook, Snap held talks to buy TikTok rival Dubsmash: Information"
+    },
+    "tweet2": {
+      "content": "Facebook, Snap held talks to buy TikTok rival Dubsmash: Information"
+    },
+    "tweet3": {
+      "content": "How Broadcom May Have Helped Make Google’s Latest AI Chip"
+    },
+    "tweet4": {
+      "content": "The S&P Touched a Closing High. Here’s Why the Dow Didn’t."
+    },
+    "tweet5": {
+      "content": "US STOCKS-S&P 500 finishes within points of record high close"
+    },
+    "tweet6": {
+      "content": "Stocks Briefly Erase Pandemic Losses; Oil Rallies: Markets Wrap"
+    },
+    "tweet7": {
+      "content": "US STOCKS-S&P 500 trades above closing record high level"
+    },
+    "tweet8": {
+      "content": "US STOCKS-S&P 500 jumps more than 1%, again close to record high"
+    },
+    "tweet9": {
+      "content": "Dow rallies 289 points on gains in Apple Inc., Microsoft shares"
+    },
+    "tweet10": {
+      "content": "Dow Jones Runs Up 270 Points As Stock Market Back In Rally Mode"
+    },
+    "tweet11": {
+      "content": "Dow Jones Rallies 250 Points Thanks to Tech Giants Apple and Microsoft"
+    },
+    "tweet12": {
+      "content": "CalPERS more than doubles Gilead and Zoom Video stakes, trims Apple and Microsoft"
+    },
+    "tweet13": {
+      "content": "TikTok Signs Deal With Yankees Even as Trump Threatens U.S. Ban"
+    },
+    "tweet14": {
+      "content": "US STOCKS-Tech stocks boost S&P 500 closer to record high"
+    },
+    "tweet15": {
+      "content": "Dow Jones Runs Up 250 Points As Stock Market Back In Rally Mode"
+    },
+    "tweet16": {
+      "content": "Microsoft, Apple Inc. share gains lead Dow's 218-point jump"
+    },
+    "tweet17": {
+      "content": "ROCE Insights For Microsoft"
+    },
+    "tweet18": {
+      "content": "Microsoft Sets Sept. 10 Launch of Surface Duo 2-Screen Phone"
+    },
+    "tweet19": {
+      "content": "US STOCKS-S&P 500 inches toward record high on tech boost"
+    },
+    "tweet20": {
+      "content": "Dow up 289 points on gains for shares of Microsoft, Apple Inc."
+    },
+    "tweet21": {
+      "content": "Not The First 50-day Line Test For Microsoft"
+    },
+    "tweet22": {
+      "content": "Microsoft says Surface Duo will launch Sept. 10 for $1399"
+    },
+    "tweet23": {
+      "content": "S&P 500 Flirts With Record High as Big Tech Flexes Muscle"
+    },
+    "tweet24": {
+      "content": "Microsoft prices its dual-screen Android phone at $1,399, will arrive Sept 10"
+    },
+    "tweet25": {
+      "content": "Microsoft prices its dual-screen Android phone at $1,399, will arrive Sept 10"
+    },
+    "tweet26": {
+      "content": "Microsoft Surface Duo Phone Goes on Sale Starting at $1,399"
+    },
+    "tweet27": {
+      "content": "China to Bring Up WeChat, TikTok in Next U.S. Trade Talks"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Coda CEO on Work Productivity"
+    },
+    "tweet2": {
+      "content": "TikTok deal must benefit U.S. and ensure 'total security,' Trump says"
+    },
+    "tweet3": {
+      "content": "Scott Galloway on TikTok and Big Tech’s Antitrust Reckoning"
+    },
+    "tweet4": {
+      "content": "Apple’s Subscription Bundles Don’t Move the Needle Enough"
+    },
+    "tweet5": {
+      "content": "S&P 500 Hobbles to Negative Close as Bulls Made to Wait for Record High"
+    },
+    "tweet6": {
+      "content": "Microsoft (COMPANY_X) Set to Launch Surface Duo at $1399, Stock Up"
+    },
+    "tweet7": {
+      "content": "U.S. federal contract ban takes effect for companies using products from Huawei, others"
+    },
+    "tweet8": {
+      "content": "Dow Jones Futures Signal Stock Market Rally Pause; Tesla Stock, Three Giants In Buy Zones; Apple Ready To Bundle?"
+    },
+    "tweet9": {
+      "content": "Facebook, Snap Held Talks To Buy TikTok Rival Dubsmash – Report"
+    },
+    "tweet10": {
+      "content": "TikTok and WeChat Expose Big Tech’s Lack of Innovation"
+    },
+    "tweet11": {
+      "content": "Dow Jones Futures: Apple Leads Strong Stock Market Rally; Tesla Stock Split Triggers Buy Signals; Three Giants Rebound Bullishly"
+    },
+    "tweet12": {
+      "content": "The Future of U.S. Higher Education Could Be in India"
+    },
+    "tweet13": {
+      "content": "ByteDance in talks with India's Reliance for investment in TikTok  - TechCrunch"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Trump orders ByteDance to divest interest in U.S. TikTok operations within 90 days"
+    },
+    "tweet2": {
+      "content": "'I'm looking at platforms that spark my interest': TikTok star Zach King on where he'll move to if the app is banned"
+    },
+    "tweet3": {
+      "content": "TikTok Would Be Significant Liability for Microsoft, Says Media Expert"
+    },
+    "tweet4": {
+      "content": "Big U.S. funds gorged on tech stocks and gold in second quarter - 13F filings"
+    },
+    "tweet5": {
+      "content": "Covid Made Her Pre-MBA Internship Remote. That Was A Good Thing."
+    },
+    "tweet6": {
+      "content": "Analysts Are Sounding Red Alarms About a Microsoft and TikTok Combination"
+    },
+    "tweet7": {
+      "content": "Personalis Turns to Liquid Biopsies for Growth. Will It Work?"
+    },
+    "tweet8": {
+      "content": "CureVac in talks with pharma companies about partnership - Sueddeutsche"
+    },
+    "tweet9": {
+      "content": "Are Investors Ignoring a Real Risk to Apple's Future?"
+    },
+    "tweet10": {
+      "content": "Why Tencent Stock Is Up"
+    },
+    "tweet11": {
+      "content": "Twitter Tries to Tackle a TikTok Tie-Up"
+    },
+    "tweet12": {
+      "content": "Coronavirus vaccine developer CureVac raises $213.3 mln in U.S. IPO"
+    },
+    "tweet13": {
+      "content": "Game Makers Give Apple the Antitrust Grilling Congress Didn’t"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "Bezos And Blackrock Are Pouring Billions Into This $30.7 Trillion Trend"
+    },
+    "tweet2": {
+      "content": "Report: Alphabet's Google in Talks for Stake in India's ShareChat"
+    },
+    "tweet3": {
+      "content": "TikTok's journey from global sensation to Trump target"
+    },
+    "tweet4": {
+      "content": "U.S. cos interested in TikTok can hopefully address security concerns -Trump aide"
+    },
+    "tweet5": {
+      "content": "Amazon in talks to invest in cloud-services company Rackspace: report"
+    },
+    "tweet6": {
+      "content": "Moscow Exchange to offer trading in U.S. blue chips from Aug. 24"
+    },
+    "tweet7": {
+      "content": "Why Zoom Video Is Rising Today"
+    },
+    "tweet8": {
+      "content": "This Stock Doesn’t Need More Stimulus to Win"
+    },
+    "tweet9": {
+      "content": "Rackspace Soars After Amazon Said To Be In Talks for Stake"
+    },
+    "tweet10": {
+      "content": "The S&P 500 Will Rise 7% More This Year, Goldman Sachs Says. Here’s Why."
+    },
+    "tweet11": {
+      "content": "TikTok signs music distribution deal with UnitedMasters"
+    },
+    "tweet12": {
+      "content": "Do Earnings Matter Anymore? Microsoft and Intel Investors Say No"
+    },
+    "tweet13": {
+      "content": "Rackspace Jumps on Possible Amazon Stake Purchase, Reuters Reports"
+    },
+    "tweet14": {
+      "content": "Microsoft Looking To Snap Up TikTok’s UK Services As Well – Report"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Oracle’s Improbable TikTok Talks Have a Simple Explanation: Data"
+    },
+    "tweet2": {
+      "content": "The Stock Market’s Improbable Recovery Explained"
+    },
+    "tweet3": {
+      "content": "Why Doing Homework Is Important"
+    },
+    "tweet4": {
+      "content": "Former Microsoft CEO, Detroit Native Steve Ballmer Makes Major Motown Museum Donation"
+    },
+    "tweet5": {
+      "content": "An Oracle-TikTok Deal Would Likely End Badly for Everyone"
+    },
+    "tweet6": {
+      "content": "Oracle Challenges Microsoft's Buyout Bid for TikTok"
+    },
+    "tweet7": {
+      "content": "GRAPHIC-Big Tech drives S&P 500 to record high in coronavirus rally"
+    },
+    "tweet8": {
+      "content": "His fund has lost $21 billion this year — now he’s warning investors could be in for even more ‘turbulence’ this fall"
+    },
+    "tweet9": {
+      "content": "Oracle and TikTok? That’s Just Weird"
+    },
+    "tweet10": {
+      "content": "Stock Markets Stay Flat as Oracle Makes a TikTok Play, Carnival Gets Cyberattacked"
+    },
+    "tweet11": {
+      "content": "Oracle Reportedly Enters Bidding for TikTok’s U.S. Unit. Why No One Saw That Coming."
+    },
+    "tweet12": {
+      "content": "Oracle stock gains after report says company is interested in acquiring TikTok"
+    },
+    "tweet13": {
+      "content": "Bill Gates, Elon Musk, Jeff Bezos and the rest of the ‘Oligarchic Dozen’ just reached a ‘disturbing milestone’"
+    },
+    "tweet14": {
+      "content": "Internet Explorer is dead as Microsoft kills off 25-year-old browser"
+    },
+    "tweet15": {
+      "content": "S&P 500 completes recovery from COVID-19 sell-off, hits record high"
+    },
+    "tweet16": {
+      "content": "3 Top Mid-Cap Stocks to Buy Right Now"
+    },
+    "tweet17": {
+      "content": "U.S. Treasury's Mnuchin says any deal for TikTok will protect U.S. data"
+    },
+    "tweet18": {
+      "content": "Jamf Jumps on Jubilant Initiations"
+    },
+    "tweet19": {
+      "content": "As One Might Expect, Retailers Don't Like Using Amazon for Cloud Services"
+    },
+    "tweet20": {
+      "content": "Oracle Said to be Weighing Bid for TikTok’s U.S. Business"
+    },
+    "tweet21": {
+      "content": "Oracle Reportedly Joins Hunt to Buy TikTok, Challenging Microsoft Bid"
+    },
+    "tweet22": {
+      "content": "SoftBank Is Betting Big on U.S. Tech Megacaps"
+    },
+    "tweet23": {
+      "content": "Buy Alert: Ubisoft Stock Is Heading Higher"
+    },
+    "tweet24": {
+      "content": "SoftBank Made Big Bets on Amazon, Tesla, and 23 Other Tech Stocks. The Timing Was Perfect."
+    },
+    "tweet25": {
+      "content": "World’s Biggest Wealth Fund Wants ‘Clarification’ on New CEO"
+    },
+    "tweet26": {
+      "content": "Covid-Era Tech Grads Launch Careers From Parents’ Homes"
+    },
+    "tweet27": {
+      "content": "Top-Heavy Stock Indexes Are Nothing to Fear"
+    },
+    "tweet28": {
+      "content": "Billionaire Ellison’s Oracle Enters Bid To Buy TikTok’s US Operations – Report"
+    },
+    "tweet29": {
+      "content": "Facial Recognition Lobby Urges Caution on U.S. Zeal to Regulate"
+    },
+    "tweet30": {
+      "content": "Oracle Joins Microsoft In Race To Acquire TikTok's Business In Major Markets: FT"
+    },
+    "tweet31": {
+      "content": "Trump Just Took the Nuclear Option on Huawei"
+    },
+    "tweet32": {
+      "content": "Oracle enters race to buy TikTok's U.S. operations - FT"
+    },
+    "tweet33": {
+      "content": "SoftBank Bets $3.9 Billion on U.S. Giants From Amazon to Tesla"
+    },
+    "tweet34": {
+      "content": "Report: Amazon in Discussions to Buy Minority Stake in Rackspace"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Apple Was Briefly a $2 Trillion Company—but It Didn’t Finish the Day as One"
+    },
+    "tweet2": {
+      "content": "Just what would an enterprise company like Microsoft or Oracle do with TikTok?"
+    },
+    "tweet3": {
+      "content": "Unusual for any company that acquires TikTok to give funds to U.S. Treasury -White House aide"
+    },
+    "tweet4": {
+      "content": "Apple Makes Wall Street History by Breaking $2 Trillion Barrier"
+    },
+    "tweet5": {
+      "content": "Trump Likes The Idea Of Oracle Buying TikTok. Analysts Aren’t Convinced."
+    },
+    "tweet6": {
+      "content": "Is BlackBerry Stock a Buy?"
+    },
+    "tweet7": {
+      "content": "Apple Is First U.S. Company to Reach $2 Trillion Market Value"
+    },
+    "tweet8": {
+      "content": "Apple's Market Cap Just Hit $2 Trillion, but Is the Stock a Buy?"
+    },
+    "tweet9": {
+      "content": "Stocks move modestly higher, S&P 500 clinches new intraday high"
+    },
+    "tweet10": {
+      "content": "7 Don’ts Investors Must Know"
+    },
+    "tweet11": {
+      "content": "Nvidia Reports Earnings Today. Here’s What To Expect."
+    },
+    "tweet12": {
+      "content": "The Stock Market Is Back to New Highs. Why the S&P 500 Still Has Room to Run."
+    },
+    "tweet13": {
+      "content": "2 E-Commerce Stocks Poised for a Bull Run"
+    },
+    "tweet14": {
+      "content": "AI Craze Continues Unabated: 4 Stocks to Put on Your Watchlist"
+    },
+    "tweet15": {
+      "content": "Trump Backs Oracle’s TikTok Bid in Boost for Donor Ellison"
+    },
+    "tweet16": {
+      "content": "Why I’m in Talks to Buy TikTok"
+    },
+    "tweet17": {
+      "content": "Why I’m in Talks to Buy TikTok"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "GLOBAL MARKETS-Asian stocks set to rise after Wall Street tech-driven rally"
+    },
+    "tweet2": {
+      "content": "Why Fastly Stock Jumped Today"
+    },
+    "tweet3": {
+      "content": "The Dow Finished the Day Higher. Individual Stocks Got Hammered. What That Might Mean."
+    },
+    "tweet4": {
+      "content": "Nasdaq Hits Fresh Record High As Dow Lags; Apple Hits Record High"
+    },
+    "tweet5": {
+      "content": "Dow Rises In Spite Of Spike In Jobless Claims; Alibaba Nears Buy Point"
+    },
+    "tweet6": {
+      "content": "US STOCKS-Nasdaq closes at all-time high as strong tech sector offsets jobless data"
+    },
+    "tweet7": {
+      "content": "Microsoft&#039;s Seeing AI founder Saqib Shaikh is speaking at Sight Tech Global"
+    },
+    "tweet8": {
+      "content": "US STOCKS-S&P 500 rises as tech gains offset weak U.S. data"
+    },
+    "tweet9": {
+      "content": "Bill Gates: Millions more will die in this pandemic, and ‘freedom’ hinders the disappointing U.S. response"
+    },
+    "tweet10": {
+      "content": "Intel, Apple Inc. share gains lead Dow's nearly 50-point climb"
+    },
+    "tweet11": {
+      "content": "US STOCKS-Wall Street ekes out gains as tech stocks eclipse data gloom"
+    },
+    "tweet12": {
+      "content": "Tech Is Not Neutral campaign urges companies to stop working with law enforcement agencies"
+    },
+    "tweet13": {
+      "content": "Dow Jones Climbs Despite Jobs Data As Nasdaq Eyes New Closing High"
+    },
+    "tweet14": {
+      "content": "Why Microsoft Should Continue to Show Stock Market Leadership"
+    },
+    "tweet15": {
+      "content": "Dow Jones Lags As Jobless Claims Spike, But Nasdaq Eyes New Closing High"
+    },
+    "tweet16": {
+      "content": "The Dow Is Flat. Stocks Are Getting Killed."
+    },
+    "tweet17": {
+      "content": "The Zacks Analyst Blog Highlights: Booz Allen Hamilton, Microsoft, Stryker and NVIDIA"
+    },
+    "tweet18": {
+      "content": "NVIDIA (NVDA) Trading Lower Despite Blowout Quarter"
+    },
+    "tweet19": {
+      "content": "Investing in These Stocks Now Could Make You a Millionaire Retiree"
+    },
+    "tweet20": {
+      "content": "Why Investors Are Paying a Premium for Take-Two Interactive Stock"
+    },
+    "tweet21": {
+      "content": "Following Apple, Will Amazon or Microsoft Reach the $2 Trillion Mark Next?"
+    },
+    "tweet22": {
+      "content": "$1,500 Invested in These 3 Top Robinhood Stocks Could Make You Rich"
+    },
+    "tweet23": {
+      "content": "Apple Briefly Tops $2T Milestone: Who Else Will Follow Suit?"
+    },
+    "tweet24": {
+      "content": "Microsoft Deepens Oil Ties, Helping Petrobras Weather Pandemic"
+    },
+    "tweet25": {
+      "content": "Trump Adds to Earnings Threat as Alibaba Challenged in China"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Microsoft is signing deals similar to JEDI with foreign governments: report"
+    },
+    "tweet2": {
+      "content": "Is $20 in the Cards for Plug Power Stock?"
+    },
+    "tweet3": {
+      "content": "Alphabet Weighed Buying Small TikTok Stake as Part of Group Bid"
+    },
+    "tweet4": {
+      "content": "Apple Stock’s Rally Just Keeps Going as Valuation Touches $2.1 Trillion"
+    },
+    "tweet5": {
+      "content": "Kamala Harris isn't the next big catalyst for tech stocks like Apple — this is"
+    },
+    "tweet6": {
+      "content": "Why Baozun Stock Was Sliding Today"
+    },
+    "tweet7": {
+      "content": "Why Is Microsoft (COMPANY_X) Up 5.9% Since Last Earnings Report?"
+    },
+    "tweet8": {
+      "content": "Universal Shifting to Microsoft’s Azure Cloud Platform for Live-Action, Animation Production"
+    },
+    "tweet9": {
+      "content": "What the heck is happening with Apple, Google, and 'Fortnite'?: Tech Support"
+    },
+    "tweet10": {
+      "content": "TikTok's U.S. Chief Says Video Site Will Stay Despite Trump Ban"
+    },
+    "tweet11": {
+      "content": "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
+    },
+    "tweet12": {
+      "content": "Nvidia Wants to Expand Beyond Videogames. Here’s How Far It Has to Go."
+    },
+    "tweet13": {
+      "content": "The Zacks Analyst Blog Highlights: Apple, Amazon, Microsoft and Google"
+    },
+    "tweet14": {
+      "content": "Dow Jones Futures Fall: Four Reasons To Be Bullish About The Stock Market Rally; Apple, Tesla Hit Historic Levels"
+    },
+    "tweet15": {
+      "content": "Better Buy: Microsoft vs. Alphabet"
+    },
+    "tweet16": {
+      "content": "3 More Stocks That Could Be Worth $1 Trillion In a Decade"
+    },
+    "tweet17": {
+      "content": "Dow Jones Futures: Four Reasons To Be Bullish About The Stock Market Rally; Apple, Tesla Hit Historic Levels"
+    },
+    "tweet18": {
+      "content": "Goldman Reports Show Hedge Funds, Mutual Funds Split on Megacaps"
+    },
+    "tweet19": {
+      "content": "TikTok Races to Calm Workers, Brands With 25 Days Until Ban"
+    },
+    "tweet20": {
+      "content": "Facebook pushes for data portability legislation ahead of FTC hearing"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Federal judge 'inclined' to grant Epic Games' motion to block Apple from hindering Unreal Engine"
+    },
+    "tweet2": {
+      "content": "TikTok Sues Trump to Challenge U.S. Government Restrictions"
+    },
+    "tweet3": {
+      "content": "TikTok Sues Trump Administration"
+    },
+    "tweet4": {
+      "content": "Microsoft (NASDAQ:COMPANY_X) Knows How to Allocate Capital"
+    },
+    "tweet5": {
+      "content": "1 Big Reason to Choose AMD Stock Over NVIDIA"
+    },
+    "tweet6": {
+      "content": "Dow Jones Surges 250 Points as Apple Stock Rallies, Microsoft Warns Apple's Epic Games Ban Could Hurt Gaming"
+    },
+    "tweet7": {
+      "content": "Mayor Turner and Microsoft expand digital alliance with the city of Houston"
+    },
+    "tweet8": {
+      "content": "UK denies it plans to drop tax on digital giants"
+    },
+    "tweet9": {
+      "content": "REFILE-TikTok says it has 'no choice' but to sue Trump administration over threatened U.S. ban"
+    },
+    "tweet10": {
+      "content": "US STOCKS-S&P 500, Nasdaq at all-time highs on COVID-19 treatment hopes"
+    },
+    "tweet11": {
+      "content": "Fewer Stocks Are Participating in the Market’s Rally. Why That’s Not a Disaster."
+    },
+    "tweet12": {
+      "content": "A Giant Pension Trimmed Its Apple Stake. Here’s What It Bought."
+    },
+    "tweet13": {
+      "content": "TikTok Is Correct to Sue the U.S. Government"
+    },
+    "tweet14": {
+      "content": "Boeing Develops Hand-Held UV Wand To Sanitize Cockpits, Cabins – Report"
+    },
+    "tweet15": {
+      "content": "Nintendo Adds Another $3 Billion as Robinhood Traders Press Play"
+    },
+    "tweet16": {
+      "content": "Microsoft Warns Of Significant Fallout From Apple’s Battle With Epic Games"
+    },
+    "tweet17": {
+      "content": "China says supports companies' use of legal weapons to safeguard rights and interests"
+    },
+    "tweet18": {
+      "content": "Top 5 Things to Know in the Market on Monday, August 24th"
+    },
+    "tweet19": {
+      "content": "Exclusive: ByteDance investors seek to use stakes to finance TikTok bid - sources"
+    },
+    "tweet20": {
+      "content": "Exclusive: ByteDance investors seek to use stakes to finance TikTok bid"
+    },
+    "tweet21": {
+      "content": "Microsoft Sides With Epic In Legal Battle Against Apple, Says Starving Unreal Engine Harms Developers, Gamers"
+    },
+    "tweet22": {
+      "content": "Microsoft says Apple’s threat against ‘Fortnite’ maker would hurt entire videogame industry"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Salesforce Tops Forecasts, Raises Outlook on Software Demand"
+    },
+    "tweet2": {
+      "content": "The Fall Will Be Busy for IPOs. Snowflake, Asana Are Expected to Go Public in September."
+    },
+    "tweet3": {
+      "content": "Video Game Engine Maker Unity Technologies Files for IPO"
+    },
+    "tweet4": {
+      "content": "Apple Stock Is Cheaper Than Clorox, Analyst Says. His Price Target Is Street’s Highest."
+    },
+    "tweet5": {
+      "content": "Dow Jones Sinks After Big Changes Announced; Apple Stock Down on Mixed &quot;Fortnite&quot; Ruling"
+    },
+    "tweet6": {
+      "content": "Should You Buy Take-Two Interactive Stock Right Now?"
+    },
+    "tweet7": {
+      "content": "Amazon and Microsoft Rival Snowflake Files for IPO"
+    },
+    "tweet8": {
+      "content": "Apple Defeats Epic’s Effort to Restore Fortnite on App Store"
+    },
+    "tweet9": {
+      "content": "A New Nintendo Switch Model Could Be Coming in 2021. What to Know."
+    },
+    "tweet10": {
+      "content": "S&P 500, Nasdaq Close at Record Highs Again as Traders Cling to Tech"
+    },
+    "tweet11": {
+      "content": "The TikTok Story Is Heating Up. Here Are 4 Potential Outcomes."
+    },
+    "tweet12": {
+      "content": "Azure&#039;s Immersive Reader is now generally available"
+    },
+    "tweet13": {
+      "content": "Microsoft brings transcriptions to Word"
+    },
+    "tweet14": {
+      "content": "Morning Bell With Jim Cramer: Stop Buying Apple Before Split"
+    },
+    "tweet15": {
+      "content": "These ‘Dividend Aristocrat’ stocks have been raising their dividends for decades, and there have been no dividend cuts during the pandemic"
+    },
+    "tweet16": {
+      "content": "5 High-Growth Tech Stocks Robinhood Investors Are Buying Hand Over Fist"
+    },
+    "tweet17": {
+      "content": "Robinhood Investors Are Scooping Up Fractional Shares of These 5 Stocks"
+    },
+    "tweet18": {
+      "content": "Apple Must Restore Unreal Engine For Now, But 'Fortnite' Proves An Epic Fail With Court"
+    },
+    "tweet19": {
+      "content": "ByteDance Investors Sequoia, General Atlantic Lend Support To Oracle TikTok Bid: WSJ"
+    },
+    "tweet20": {
+      "content": "Nintendo Plans Upgraded Switch Console and Major Games for 2021"
+    },
+    "tweet21": {
+      "content": "Apple Judge ‘Inclined’ to Unblock Epic’s Unreal Engine But Not Fortnite"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "GLOBAL MARKETS-Asia shares set to rise after U.S. equities hit new record in tech spike"
+    },
+    "tweet2": {
+      "content": "Top Democrat Says Trump Remarks on TikTok Deal Are Inappropriate"
+    },
+    "tweet3": {
+      "content": "GLOBAL MARKETS-Shares scale record peak on upbeat results, dollar eases"
+    },
+    "tweet4": {
+      "content": "Box quarterly revenue tops estimates as remote work boosts demand for online tools"
+    },
+    "tweet5": {
+      "content": "Hooking Up or Locking Down, Netflix Poised to Win Either Way"
+    },
+    "tweet6": {
+      "content": "GLOBAL MARKETS-Shares scale record peak on upbeat results, dollar eases"
+    },
+    "tweet7": {
+      "content": "Google CEO Sundar Pichai Rules Out Buying TikTok"
+    },
+    "tweet8": {
+      "content": "Home Depot, Walt Disney share gains contribute to Dow's nearly 75-point climb"
+    },
+    "tweet9": {
+      "content": "Microsoft researcher Dr. Cecily Morrison will discuss keeping AI &#039;personal&#039; at Sight Tech Global"
+    },
+    "tweet10": {
+      "content": "Dow Jones Turns Positive; Nasdaq And S&P 500 Mark New Record Highs"
+    },
+    "tweet11": {
+      "content": "US STOCKS-Technology stocks power S&P 500, Nasdaq to new highs"
+    },
+    "tweet12": {
+      "content": "Dow Jones Cuts Losses; Nasdaq Hits New High As Top Tech Stocks Rally"
+    },
+    "tweet13": {
+      "content": "Microsoft Is Breaking Out - Here's the Trade"
+    },
+    "tweet14": {
+      "content": "Microsoft (COMPANY_X) Enhances Word Experience With Transcribe"
+    },
+    "tweet15": {
+      "content": "The stock market’s rebound is nowhere near over, and midcap exposure is probably what you need"
+    },
+    "tweet16": {
+      "content": "Unusual Options Activity Insight: Microsoft"
+    },
+    "tweet17": {
+      "content": "Tesla and Apple have had a great run — here’s why they’re poised to ‘rocket’ even higher in the next year"
+    },
+    "tweet18": {
+      "content": "Dow Jones Today Positive, Nasdaq Futures Lead; Salesforce Spikes On Earnings; Apple Rebounds"
+    },
+    "tweet19": {
+      "content": "Is Apple Stock a Buy?"
+    },
+    "tweet20": {
+      "content": "Dow Jones Today Lags, Nasdaq Futures Lead Mixed Premarket; Salesforce Spikes On Earnings; Apple Rebounds"
+    },
+    "tweet21": {
+      "content": "NVIDIA CEO: This May Be One of the Best Gaming Seasons Ever"
+    },
+    "tweet22": {
+      "content": "In This Recession, These 5 Stocks Are My Highest-Conviction Holdings"
+    },
+    "tweet23": {
+      "content": "U.S. to spend $625 million in five quantum information research hubs"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "How Technology Investments,  — Not Just TikTok — Will Help Walmart Grow"
+    },
+    "tweet2": {
+      "content": "S&P 500 Airline Stocks, Cruise Stocks Surge on Abbott Labs FDA Approval, Federal Reserve Policy Change"
+    },
+    "tweet3": {
+      "content": "TikTok Could Help Walmart Stock. Here’s How."
+    },
+    "tweet4": {
+      "content": "Walmart Stock Leads Dow Jones Rally On TikTok News; China IPO Xpeng Soars In Debut"
+    },
+    "tweet5": {
+      "content": "How Technology Investments — Not TikTok — Will Help Walmart Grow"
+    },
+    "tweet6": {
+      "content": "US STOCKS-S&P, Dow close higher on new Fed inflation stance, COVID test hopes"
+    },
+    "tweet7": {
+      "content": "TikTok CEO Steps Down"
+    },
+    "tweet8": {
+      "content": "Walmart says a TikTok deal would benefit its digital and advertising businesses"
+    },
+    "tweet9": {
+      "content": "TikTok Endgame Imminent As Analyst Says Walmart 'Likely Seals The Deal'"
+    },
+    "tweet10": {
+      "content": "TikTok Executives Reassure Employees After CEO Exit"
+    },
+    "tweet11": {
+      "content": "Why Shares of Walmart and Microsoft Are Rising Today"
+    },
+    "tweet12": {
+      "content": "Walmart, Microsoft Power Dow Higher Amid TikTok Acquisition Dash; Is This The Time To Buy Box?"
+    },
+    "tweet13": {
+      "content": "Mayer's Departure From TikTok 'A Huge Blow': Wedbush Analyst"
+    },
+    "tweet14": {
+      "content": "Trump Expected to Announce Deal With Abbott Laboratories for Rapid Coronavirus Tests"
+    },
+    "tweet15": {
+      "content": "TikTok to Announce U.S. Buyer Soon; Why Walmart Is on the Short List"
+    },
+    "tweet16": {
+      "content": "Walmart Confirms Microsoft Partnership in Bid to Buy TikTok"
+    },
+    "tweet17": {
+      "content": "US STOCKS-S&P, Dow head higher on new Fed stance, COVID progress"
+    },
+    "tweet18": {
+      "content": "Walmart joins Microsoft in bid for TikTok's US operations"
+    },
+    "tweet19": {
+      "content": "New Price Targets for Walmart as the Stock Surges on TikTok Bid"
+    },
+    "tweet20": {
+      "content": "US STOCKS-S&P 500 drifts near peak as tech losses weaken Fed-powered surge"
+    },
+    "tweet21": {
+      "content": "Top Research Reports for Microsoft, Oracle & Medtronic"
+    },
+    "tweet22": {
+      "content": "White House adviser Kudlow says administration has no view on who purchases TikTok"
+    },
+    "tweet23": {
+      "content": "S&P 500, Nasdaq Reverse Into The Red After Hitting New Highs, But These Blue Chips Jam"
+    },
+    "tweet24": {
+      "content": "Dow Jones Jumps on Rapid COVID-19 Test; Microsoft and Walmart Team Up for TikTok Bid"
+    },
+    "tweet25": {
+      "content": "Stocks Flashing Renewed Technical Strength: Adobe Systems"
+    },
+    "tweet26": {
+      "content": "Dow Jones Pares Gains As Stock Market Rally Fades; Nasdaq Goes Underwater"
+    },
+    "tweet27": {
+      "content": "Walmart expresses interest in TikTok, teaming up with Microsoft"
+    },
+    "tweet28": {
+      "content": "TikTok Sale Looks Imminent As Microsoft Teams With Walmart, Oracle Finalizes Bid"
+    },
+    "tweet29": {
+      "content": "Dow Jones Boosted By 5 Key Stocks; Nasdaq Hits High As Intuitive Surgical Breaks Out"
+    },
+    "tweet30": {
+      "content": "Walmart Stock Is Soaring Because It’s Partnering With Microsoft on a TikTok Bid"
+    },
+    "tweet31": {
+      "content": "Dow Jones Spikes 300 Points On Fed Chief Powell Speech; Abbott Labs Soars 10% On Coronavirus Test FDA Approval"
+    },
+    "tweet32": {
+      "content": "Walmart Joins Microsoft in Bid for TikTok U.S."
+    },
+    "tweet33": {
+      "content": "Walmart shares jump after report it's partnering with Microsoft on TikTok bid"
+    },
+    "tweet34": {
+      "content": "Walmart partners with Microsoft for TikTok bid"
+    },
+    "tweet35": {
+      "content": "TikTok Sale ‘Looming’ After CEO Departure"
+    },
+    "tweet36": {
+      "content": "TikTok Sale: Walmart Says It Is Partnering With Microsoft on a Bid for App"
+    },
+    "tweet37": {
+      "content": "Walmart Joins Microsoft in Pursuit of Deal to Acquire TikTok"
+    },
+    "tweet38": {
+      "content": "Why Kevin Mayer’s Exit Means TikTok Sale Is Now Inevitable"
+    },
+    "tweet39": {
+      "content": "Travelers, Microsoft share gains lead Dow's 239-point climb"
+    },
+    "tweet40": {
+      "content": "TikTok CEO's exit signals deal imminent: CNBC"
+    },
+    "tweet41": {
+      "content": "Qualcomm-backed firm releases processor as AI chip race heats up"
+    },
+    "tweet42": {
+      "content": "2 Tech Stocks I'd Buy Right Now"
+    },
+    "tweet43": {
+      "content": "TikTok’s CEO Just Quit. Here’s Why."
+    },
+    "tweet44": {
+      "content": "TikTok’s CEO Quits Months Into the Job After Trump’s Ban"
+    },
+    "tweet45": {
+      "content": "Microsoft Brings Back Halo Veteran to Get Delayed Game Back on Track"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Salesforce.com Soars After Joining IBD Long-Term Leaders List; Adobe, Alibaba Roar Higher"
+    },
+    "tweet2": {
+      "content": "Why tech stocks moving higher after announcing stock splits may be a 'red herring' "
+    },
+    "tweet3": {
+      "content": "TikTok says it has not received a bid from Centricus and Triller"
+    },
+    "tweet4": {
+      "content": "'This is a liquidity driven rally': Zor Capital’s Joe Fahmy on why the market will head higher into the 2020 election"
+    },
+    "tweet5": {
+      "content": "Stock Market Rally Charges Higher On Salesforce Earnings, Microsoft-Walmart TikTok Buzz, Tesla, EV Rivals Nio, Xpeng"
+    },
+    "tweet6": {
+      "content": "Why Walmart and Microsoft's Joint Bid For TikTok Makes Strategic Sense"
+    },
+    "tweet7": {
+      "content": "US STOCKS-Tech powers S&P 500 to record closing high, Dow now positive for the year"
+    },
+    "tweet8": {
+      "content": "US STOCKS-Tech powers S&P 500 to record closing high, Dow now positive for the year"
+    },
+    "tweet9": {
+      "content": "Fastly Takes a Break From Its Impressive Run"
+    },
+    "tweet10": {
+      "content": "The Zacks Analyst Blog Highlights: Microsoft, Oracle, Medtronic, Booking and Cigna"
+    },
+    "tweet11": {
+      "content": "TikTok’s U.S. operations bids entering final stages: NYT"
+    },
+    "tweet12": {
+      "content": "US STOCKS-Wall St gains, S&P 500 on track for 6th straight record closing high"
+    },
+    "tweet13": {
+      "content": "Walmart's Original TikTok Ownership Plan Was to Partner With Alphabet"
+    },
+    "tweet14": {
+      "content": "Dow Jones Up 130 Points As Stocks Rally; Nasdaq Eyes Fresh Closing High"
+    },
+    "tweet15": {
+      "content": "Why TikTok’s CEO Thinks a Walmart Merger Could Work"
+    },
+    "tweet16": {
+      "content": "Walmart making a play for younger shoppers with potential stake in TikTok, analysts say"
+    },
+    "tweet17": {
+      "content": "Dow Jones Scores 2020 Gain As Stocks Rally; Nasdaq Eyes Fresh Closing High"
+    },
+    "tweet18": {
+      "content": "For TikTok, Analyst Says 'Writing Is On The Wall,' Sale Imminent"
+    },
+    "tweet19": {
+      "content": "TikTok Offers Walmart a Road Map With Chinese Cousin Douyin"
+    },
+    "tweet20": {
+      "content": "Walmart wants to go viral with TikTok, Wall Street thinks it can"
+    },
+    "tweet21": {
+      "content": "Walmart Ups Digital Game: Teams Up With Microsoft for TikTok"
+    },
+    "tweet22": {
+      "content": "Dow Jones Today, Stocks Open Higher As Ulta Beauty, Workday Spike On Earnings; Walmart Wants TikTok"
+    },
+    "tweet23": {
+      "content": "Walmart Buying TikTok With Microsoft May Be Weird, but It Makes Sense"
+    },
+    "tweet24": {
+      "content": "Dow's nearly 75-point climb led by gains in shares of Walmart, Coca-Cola"
+    },
+    "tweet25": {
+      "content": "Walmart Shares Surge to Record High After Joining Microsoft Chase for TikTok"
+    },
+    "tweet26": {
+      "content": "Dow Jones Today, Futures Rise As Ulta Beauty, Workday Spike On Earnings; Walmart Wants TikTok"
+    },
+    "tweet27": {
+      "content": "Dow Jones Futures Rise After Stock Market Rally Sends Message; Workday Leads Earnings Movers"
+    },
+    "tweet28": {
+      "content": "Coca-Cola Stock Gains, Walmart Jumps, and the Dow Is Trying to Turn Positive for 2020"
+    },
+    "tweet29": {
+      "content": "The Dow Is Ready to Erase Its 2020 Losses. It Still Can’t Win."
+    },
+    "tweet30": {
+      "content": "Is Accenture Stock a Buy?"
+    },
+    "tweet31": {
+      "content": "3 Stocks to Build Your Portfolio Around"
+    },
+    "tweet32": {
+      "content": "3 Stocks to Hold for the Next 20 Years"
+    },
+    "tweet33": {
+      "content": "Investing $3,000 in These 3 Stocks Could Make You a Fortune Over the Next Decade"
+    },
+    "tweet34": {
+      "content": "Dow Jones Futures: Stock Market Rally Roller Coaster Sends This Message; Workday Leads 5 Earnings Movers"
+    },
+    "tweet35": {
+      "content": "Remote-Work Boom Mints Another Internet Billionaire"
+    },
+    "tweet36": {
+      "content": "Microsoft, Walmart Offer Joint TikTok Bid, Vying With Oracle"
+    },
+    "tweet37": {
+      "content": "PRESS DIGEST- New York Times business news - Aug 28"
+    },
+    "tweet38": {
+      "content": "PRESS DIGEST - Wall Street Journal - Aug 28"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Elon Musk Is Now Richer Than Mark Zuckerberg After Tesla Stock Split"
+    },
+    "tweet2": {
+      "content": "US STOCKS-Nasdaq ends higher while S&P 500 posts biggest August gain since 1986"
+    },
+    "tweet3": {
+      "content": "TikTok Picks Winning Offer Despite Surprise Obstacle From Beijing: Report"
+    },
+    "tweet4": {
+      "content": "Breakout Watch: Coronavirus Trends Lift This Tech Titan To New Buy Zone"
+    },
+    "tweet5": {
+      "content": "Factbox: A look at Walmart, Microsoft's past collaborations"
+    },
+    "tweet6": {
+      "content": "US STOCKS-Nasdaq rallies while S&P 500 heads for biggest August since 1984"
+    },
+    "tweet7": {
+      "content": "Technology Gurus Hoffman, Pincus to Raise $600 Million SPAC"
+    },
+    "tweet8": {
+      "content": "US STOCKS-Wall St mixed as S&P 500 heads for best August since 1984"
+    },
+    "tweet9": {
+      "content": "Better Buy: Amazon.com vs. Microsoft"
+    },
+    "tweet10": {
+      "content": "Popular trading platforms TD Ameritrade, Robinhood, and others faced outages early Monday as Tesla and Apple stocks split"
+    },
+    "tweet11": {
+      "content": "Dow Jones Tumbles, Nasdaq Hits New High As Stocks Head For Big August Gains"
+    },
+    "tweet12": {
+      "content": "Dow Closes Low, But Notches Best August Since 1984"
+    },
+    "tweet13": {
+      "content": "US STOCKS-Wall St mixed as S&P 500 on track for best August in 36 years"
+    },
+    "tweet14": {
+      "content": "A TikTok Deal Is Reportedly Near, Unless New China Rules Get In the Way"
+    },
+    "tweet15": {
+      "content": "Walmart, Boeing share losses lead Dow's nearly 200-point fall"
+    },
+    "tweet16": {
+      "content": "Dow Jones Falls 200 Points As Walmart Weighs; Apple, Tesla Pack Punch After Stock Splits"
+    },
+    "tweet17": {
+      "content": "Apple’s Stock Split 4-for-1. Here’s What That Means."
+    },
+    "tweet18": {
+      "content": "US STOCKS-S&P 500 stalls at record level, set for best August in 36 years"
+    },
+    "tweet19": {
+      "content": "Dow Jones Falls 150 Points Amid Coronavirus Vaccine News; Apple, Tesla Jump On Stock Splits, But Nio Dives 9%"
+    },
+    "tweet20": {
+      "content": "Portland Police Investigate Fatal Shooting"
+    },
+    "tweet21": {
+      "content": "Amazon’s Top Robotics Engineer Joins AI Startup Scale"
+    },
+    "tweet22": {
+      "content": "Why Walmart Wants a Piece of TikTok"
+    },
+    "tweet23": {
+      "content": "Stocks of TikTok U.S. suitors hit by fears of China block"
+    },
+    "tweet24": {
+      "content": "Stocks of TikTok U.S. suitors hit by fears of China block"
+    },
+    "tweet25": {
+      "content": "TikTok Sale in Turmoil After China Updates Tech Export Rules"
+    },
+    "tweet26": {
+      "content": "Dow Stumbles as Energy Stocks Sag, but Set for Best August Since 1984"
+    },
+    "tweet27": {
+      "content": "China Throws a Wrench Into Trump’s Plan to Force TikTok Sale"
+    },
+    "tweet28": {
+      "content": "Dow Jones Futures Gain On Coronavirus Vaccine News; Apple, Tesla Up On Stock Splits, But Nio Dives 7%"
+    },
+    "tweet29": {
+      "content": "US STOCKS-S&P 500 on track for best August since 1984"
+    },
+    "tweet30": {
+      "content": "Walmart, Microsoft stocks fall as China's new export rules throw wrench into potential deal for TikTok"
+    },
+    "tweet31": {
+      "content": "Microsoft's Debt Insights"
+    },
+    "tweet32": {
+      "content": "3 Top Large-Cap Stocks to Buy in September"
+    },
+    "tweet33": {
+      "content": "Dow Jones Futures Rise With Apple, Tesla Stock Splits; TikTok Deal Delay Hits Microsoft, Walmart; Two Key Stock Market Charts"
+    },
+    "tweet34": {
+      "content": "Apple’s Stock Is About to Split 4-for-1. Here’s What It Means for Investors."
+    },
+    "tweet35": {
+      "content": "Tesla, Apple up in Premarket After Stock Splits; Philips Slumps"
+    },
+    "tweet36": {
+      "content": "Top 5 Things to Know in the Market on Monday, August 31"
+    },
+    "tweet37": {
+      "content": "PRESS DIGEST- New York Times business news - Aug 31"
+    },
+    "tweet38": {
+      "content": "China Just Called Trump's Bluff on TikTok"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Trump Insists on Compensation for U.S. in Any TikTok Sale"
+    },
+    "tweet2": {
+      "content": "Nvidia’s Latest Chips Are a Literal Game Changer"
+    },
+    "tweet3": {
+      "content": "Why Zoom Stock Rocketed to a New All-Time High Today"
+    },
+    "tweet4": {
+      "content": "Why You Must Not Ignore This Tech IPO"
+    },
+    "tweet5": {
+      "content": "TikTok Interest Shows Walmart's Hidden Value"
+    },
+    "tweet6": {
+      "content": "Why Microsoft And Walmart Would Make A Great Home For TikTok"
+    },
+    "tweet7": {
+      "content": "Samsung's New $1,999 Galaxy Z Fold2 to Launch Sept. 18"
+    },
+    "tweet8": {
+      "content": "Nvidia Unveils New Graphics Chips to Fend Off AMD, Consoles"
+    },
+    "tweet9": {
+      "content": "Nvidia Launched New Videogame Chips. Here’s What It Means for the Stock."
+    },
+    "tweet10": {
+      "content": "Microsoft Releases Deepfake Detection Tool Ahead of Election"
+    },
+    "tweet11": {
+      "content": "Better Buy: Advanced Micro Devices vs. NVIDIA"
+    },
+    "tweet12": {
+      "content": "These 3 Trends Are Supercharging NVIDIA's Gaming Business"
+    },
+    "tweet13": {
+      "content": "Investing Strategies: One-On-One With Cadence CEO, A Look At Blank Check IPOs & Analysis Of Large Cap Tech's Strength"
+    },
+    "tweet14": {
+      "content": "Dow Jones Futures: Stock Market Rally All About Techs As Tesla Plans Stock Sale, Ultimate Coronavirus Play Zoom Video Spikes On Earnings"
+    },
+    "tweet15": {
+      "content": "21 High-Quality Stocks and the Case for Playing Them With Options"
+    },
+    "tweet16": {
+      "content": "Why Investors Should Not Leave Intel Stock For Dead"
+    },
+    "tweet17": {
+      "content": "Here’s an overlooked way to play the ‘stuck-at-home’ trend in the stock market"
+    },
+    "tweet18": {
+      "content": "Money Managers Are Punished by a Runaway S&P 500"
+    },
+    "tweet19": {
+      "content": "ByteDance Chief Reconsiders TikTok Options After New China Rules"
+    },
+    "tweet20": {
+      "content": "Analyzing Strength Of Large Cap Tech Stocks In Current Bull Market"
+    },
+    "tweet21": {
+      "content": "Companies Start Paying Off 'Carbon Debt' to Erase Past Sins"
+    },
+    "tweet22": {
+      "content": "Aveva’s $5 Billion Deal Is First of Many as Factories Go Digital"
+    },
+    "tweet23": {
+      "content": "Dow Jones Futures: After Apple, Tesla Drive Stock Market Rally, Ultimate Coronavirus Play Zoom Video Spikes On Earnings"
+    },
+    "tweet24": {
+      "content": "President Trump Defends Kenosha Visit, Touts August Stock Market Gains"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Daily Crunch: India bans PUBG and other Chinese apps"
+    },
+    "tweet2": {
+      "content": "These 74 stocks in the S&P 500 hit all-time records on Wednesday"
+    },
+    "tweet3": {
+      "content": "Dow Jones Futures: Stock Market Rally Won't Quit As Facebook, Google, Nvidia Soar, Despite Tesla Retreat; Hot IPOs Rocket, CrowdStrike Fall On Earnings"
+    },
+    "tweet4": {
+      "content": "White House Poised to Set Boundaries of WeChat, TikTok Crackdown"
+    },
+    "tweet5": {
+      "content": "Oracle Loses Appeal in $10 Billion Pentagon Contract Fight"
+    },
+    "tweet6": {
+      "content": "Why Advanced Micro Devices Stock Surged 17% in August"
+    },
+    "tweet7": {
+      "content": "Zoom CEO: Offices Are Coming Back, But Will Look Very Different Post-Covid"
+    },
+    "tweet8": {
+      "content": "This Breakout Index Identifies The Best Growth Stocks To Buy And Watch"
+    },
+    "tweet9": {
+      "content": "Why NVIDIA Stock Climbed 26% in August"
+    },
+    "tweet10": {
+      "content": "Internet group urges FCC to reject Trump bid to impose new social media regulations"
+    },
+    "tweet11": {
+      "content": "Microsoft (COMPANY_X) Launches New Tools to Fight Deepfake Content"
+    },
+    "tweet12": {
+      "content": "Is TikTok Worth The Price?"
+    },
+    "tweet13": {
+      "content": "Microsoft Teams Can Take Market Share From Rival Vendors, Analyst Says"
+    },
+    "tweet14": {
+      "content": "5 Large-Cap Index Funds That Don't Track the S&P 500"
+    },
+    "tweet15": {
+      "content": "Exclusive: Aspiring TikTok buyers pursue four options in effort to revive talks"
+    },
+    "tweet16": {
+      "content": "This Is Why Fastly's Stock Is Falling Today"
+    },
+    "tweet17": {
+      "content": "Price Over Earnings Overview: Microsoft"
+    },
+    "tweet18": {
+      "content": "Apple’s Market Cap Is Now as Big as the S&P 500 Energy, Utilities, and Materials Sectors—Combined"
+    },
+    "tweet19": {
+      "content": "VirnetX Beats Apple Again in Decade-Old Patent Lawsuit"
+    },
+    "tweet20": {
+      "content": "Pandemic may help global deal on taxing digital giants -German finmin"
+    },
+    "tweet21": {
+      "content": "Better Buy: Apple vs. IBM"
+    },
+    "tweet22": {
+      "content": "Investing in Your 20s: 3 ETFs to Watch"
+    },
+    "tweet23": {
+      "content": "Hedge Funds Unloaded Tech and Health-Care Stocks. Here’s What They Bought Instead."
+    },
+    "tweet24": {
+      "content": "Zoom & 2 Other Hot Video Conferencing Stocks to Watch Out For"
+    },
+    "tweet25": {
+      "content": "Sadly, One Letter Perfectly Captures the Recovery"
+    },
+    "tweet26": {
+      "content": "Microsoft launches a deepfake detector tool ahead of US election"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Asian Stocks Lower Across the Board After U.S. Slump"
+    },
+    "tweet2": {
+      "content": "Justice Department Could Launch Antitrust Suit Against Google as Early as This Month, Reports Say"
+    },
+    "tweet3": {
+      "content": "Why Nvidia and AMD Stocks Plunged Today"
+    },
+    "tweet4": {
+      "content": "REFILE-US STOCKS-Tech tumble jams Wall Street into reverse; sharpest fall since June"
+    },
+    "tweet5": {
+      "content": "Here Are 8 Stocks That Rose on Thursday. You Can Thank Short Sellers."
+    },
+    "tweet6": {
+      "content": "Here are the biggest stock-market losers on Thursday as the tech sector tanks"
+    },
+    "tweet7": {
+      "content": "GLOBAL MARKETS-Techs lead stock sell-off, dollar edges up"
+    },
+    "tweet8": {
+      "content": "US STOCKS-Wall St ends lower on tech sell-off, investors eye slow recovery"
+    },
+    "tweet9": {
+      "content": "Nasdaq Swoons 600 Points In Brutal Sell-Off; AMD Stock, Nvidia, Tesla Take Big Hits"
+    },
+    "tweet10": {
+      "content": "US STOCKS-Tech leads Wall St sell-off, investors eye slow recovery"
+    },
+    "tweet11": {
+      "content": "Apple Inc., Microsoft share losses contribute to Dow's nearly 925-point fall"
+    },
+    "tweet12": {
+      "content": "Microsoft, Apple, and Alphabet Led the Stock Market Lower on Thursday"
+    },
+    "tweet13": {
+      "content": "GLOBAL MARKETS-Stocks tumble on tech weakness, dollar gains"
+    },
+    "tweet14": {
+      "content": "Tech Stocks Are Falling Because of Earnings Worries at Cloud-Service Companies"
+    },
+    "tweet15": {
+      "content": "Dow falls 832 points on losses in Apple Inc., Salesforce.com Inc. stocks"
+    },
+    "tweet16": {
+      "content": "Dow Jones Plunges 600 Points as Big Tech Stocks Tumble"
+    },
+    "tweet17": {
+      "content": "Dow's nearly 725-point fall led by losses for shares of Apple Inc., Salesforce.com Inc."
+    },
+    "tweet18": {
+      "content": "Dow Jones Dives 800 Points As Big-Cap Tech Stocks Slammed, Nasdaq Sheds 5%"
+    },
+    "tweet19": {
+      "content": "Dow's 550-point drop led by losses in shares of Apple Inc., Salesforce.com Inc."
+    },
+    "tweet20": {
+      "content": "TikTok launches marketing program for advertisers"
+    },
+    "tweet21": {
+      "content": "Is Zoom Video Communications Stock a Buy?"
+    },
+    "tweet22": {
+      "content": "Dow Plunges on Tech Wreck as Volatility Strikes Back"
+    },
+    "tweet23": {
+      "content": "Dow's nearly 300-point drop led by losses for Apple Inc., Salesforce.com Inc. stocks"
+    },
+    "tweet24": {
+      "content": "US STOCKS-Wall St tumbles as tech rally loses steam, economic data weighs"
+    },
+    "tweet25": {
+      "content": "Robinhood's &quot;Free Stock&quot; Offer Isn't All It's Cracked Up to Be"
+    },
+    "tweet26": {
+      "content": "13 Cheap Stocks That Aren’t Really Bargains"
+    },
+    "tweet27": {
+      "content": "Crocs, Illumina, Microsoft, Walmart and Oracle highlighted as Zacks Bull and Bear of the Day"
+    },
+    "tweet28": {
+      "content": "Is Datadog Stock a Buy?"
+    },
+    "tweet29": {
+      "content": "13 Cheap Stocks That Could Be Traps for Value Investors"
+    },
+    "tweet30": {
+      "content": "Sorry, Apple, You're Just Not That Important Anymore"
+    },
+    "tweet31": {
+      "content": "China Affirms Right to Approve Tech Deals as TikTok Sale Looms"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "How Is the Pandemic Affecting Commercial Real Estate"
+    },
+    "tweet2": {
+      "content": "Tesla Didn’t Join the S&P 500, but Three Others Did"
+    },
+    "tweet3": {
+      "content": "Microsoft (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet4": {
+      "content": "Pentagon Reaffirms Microsoft’s JEDI Cloud Award After Review"
+    },
+    "tweet5": {
+      "content": "US STOCKS- Wall St ends lower as Nasdaq rout persists"
+    },
+    "tweet6": {
+      "content": "Dow Jones Sinks Nearly 1,000 Points In Two Days; Several Leaderboard Stocks Find Support At Key Levels"
+    },
+    "tweet7": {
+      "content": "DoD reaffirms Microsoft has won JEDI cloud contract, but Amazon legal complaints still pending"
+    },
+    "tweet8": {
+      "content": "U.S. Defense Department reaffirms $10 billion cloud deal to Microsoft"
+    },
+    "tweet9": {
+      "content": "US STOCKS- Wall St ends lower as Nasdaq rout persists"
+    },
+    "tweet10": {
+      "content": "Tech pullback 'is more than healthy': Expert"
+    },
+    "tweet11": {
+      "content": "Wall St selloff bruises growth, but value still not in vogue"
+    },
+    "tweet12": {
+      "content": "Top Growth Stocks Trigger Sell Rules; These Dow Stocks Show Resilience For Now"
+    },
+    "tweet13": {
+      "content": "CORRECTED-US STOCKS-Tech rout deepens, Nasdaq set for worst two-day fall since March"
+    },
+    "tweet14": {
+      "content": "Pentagon: Re-evaluation finds Microsoft's JEDI proposal still is best"
+    },
+    "tweet15": {
+      "content": "Salesforce.com Inc., Microsoft share losses lead Dow's 225-point drop"
+    },
+    "tweet16": {
+      "content": "REFILE-US STOCKS-Tech rout deepens, Nasdaq set for worst two-day fall since March"
+    },
+    "tweet17": {
+      "content": "Dow Jones Down 400 Points As Microsoft, Apple Tumble; Tech Stocks Slammed Again"
+    },
+    "tweet18": {
+      "content": "Why Fastly, Datadog, PagerDuty, and Slack Stocks Plunged Today"
+    },
+    "tweet19": {
+      "content": "Dow's 314-point fall led by losses for Salesforce.com Inc., Microsoft shares"
+    },
+    "tweet20": {
+      "content": "Softbank bets heavily on option purchases, primarily in tech sector -sources"
+    },
+    "tweet21": {
+      "content": "The Dow Jones Index: The Story Of COVID-19 Winners"
+    },
+    "tweet22": {
+      "content": "Dow drops nearly 450 points on losses for shares of Salesforce.com Inc., Visa"
+    },
+    "tweet23": {
+      "content": "Wedbush Says Tech Sell-Off A Buying Opportunity, With Bullish Forecast For Apple, Microsoft"
+    },
+    "tweet24": {
+      "content": "US STOCKS-Wall Street sinks as tech sell-off continues"
+    },
+    "tweet25": {
+      "content": "Big Tech: Too Much Value Concentrated In Only A Few Ecosystems"
+    },
+    "tweet26": {
+      "content": "Adobe Systems Trading Near Top Of Buy Range Ahead Of Earnings"
+    },
+    "tweet27": {
+      "content": "Where Will Zoom Video Communications Be in 1 Year?"
+    },
+    "tweet28": {
+      "content": "Salesforce.com Inc., Apple Inc. share losses lead Dow's 532-point fall"
+    },
+    "tweet29": {
+      "content": "Dow Jones Today: Nasdaq Falls Sharply Following August Jobs Report After Stock Market Rally Rout"
+    },
+    "tweet30": {
+      "content": "Amazon to Have as Many Workers in Seattle Suburb As Virginia HQ2"
+    },
+    "tweet31": {
+      "content": "Looking Into Microsoft's Return On Capital Employed"
+    },
+    "tweet32": {
+      "content": "US STOCKS-S&P 500 set to open higher as falling jobless rate offsets tech slide"
+    },
+    "tweet33": {
+      "content": "Here's How Much Investing $1,000 In Microsoft At Dot-Com Bubble Peak Would Be Worth Today"
+    },
+    "tweet34": {
+      "content": "Dow Jones Futures Rise After Stock Market Rally Sells Off Hard On Apple, Tesla, Big Techs; What You Shouldn't Do Now"
+    },
+    "tweet35": {
+      "content": "Dow Jones Today: Tech Futures Fall Sharply Ahead Of Jobs Report After Stock Market Rally Rout"
+    },
+    "tweet36": {
+      "content": "GLOBAL MARKETS-World shares ease off record highs ahead of U.S. jobs data"
+    },
+    "tweet37": {
+      "content": "US STOCKS-S&P, Dow futures bounce after tech selloff, focus shifts to jobs report"
+    },
+    "tweet38": {
+      "content": "Will Apple's and Tesla's Stock Splits Send Them 33% Higher?"
+    },
+    "tweet39": {
+      "content": "SoftBank Is Said to Consider Bid for TikTok in India"
+    },
+    "tweet40": {
+      "content": "GLOBAL MARKETS-World shares edge down ahead of U.S. jobs data"
+    },
+    "tweet41": {
+      "content": "Japanese shares end lower on Wall St rout; Nikkei up nearly 1.4% for the week"
+    },
+    "tweet42": {
+      "content": "GLOBAL MARKETS-Asian stocks follow Wall Street lower, nervous wait for U.S. jobs data"
+    },
+    "tweet43": {
+      "content": "There's a Much Better TikTok Deal Out There"
+    },
+    "tweet44": {
+      "content": "Chinese Magic Leap Rival Raises $40 Million From Kuaishou, Sequoia"
+    },
+    "tweet45": {
+      "content": "GLOBAL MARKETS-Asian stocks slip after Wall St selloff dents tech rally"
+    },
+    "tweet46": {
+      "content": "Japanese shares fall on Wall Street tech rout"
+    },
+    "tweet47": {
+      "content": "Dow Jones Futures: Stock Market Rally Sells Off Hard As Apple, Tesla, Big Techs Plunge; What You Shouldn't Do Now"
+    },
+    "tweet48": {
+      "content": "GLOBAL MARKETS-Asian stocks drop after Wall Street's tech rally stumbles"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Why Microsoft, Nvidia, and Salesforce Stocks Fell Today"
+    },
+    "tweet2": {
+      "content": "Slack Tumbles After Quarterly Billings Miss Estimates"
+    },
+    "tweet3": {
+      "content": "Slack Tumbles After Quarterly Billings Miss Estimates"
+    },
+    "tweet4": {
+      "content": "Go Ahead and Call Warren Buffett a Snowflake"
+    },
+    "tweet5": {
+      "content": "Daily Crunch: Apple files countersuit against Epic"
+    },
+    "tweet6": {
+      "content": "Slack Earnings Guidance In Line, Stock Plunges As Billings Miss Estimates"
+    },
+    "tweet7": {
+      "content": "Dow closes down 632 points, as tech rout leaves Nasdaq in correction territory"
+    },
+    "tweet8": {
+      "content": "2 reasons fears of a dot-com style tech bubble are overblown"
+    },
+    "tweet9": {
+      "content": "Apple to produce 5G iPhones this month: Nikkei"
+    },
+    "tweet10": {
+      "content": "US STOCKS-Stocks end lower as tech swoon persists, Tesla in historic drop"
+    },
+    "tweet11": {
+      "content": "Nasdaq Rout Continues As Indexes Close Sharply Lower"
+    },
+    "tweet12": {
+      "content": "Dow's nearly 525-point drop led by losses for Apple Inc., Boeing shares"
+    },
+    "tweet13": {
+      "content": "Microsoft's $10B JEDI Contract Sends Ripples in the Tech Space"
+    },
+    "tweet14": {
+      "content": "Smart money will not hop on big tech stocks right now: Expert"
+    },
+    "tweet15": {
+      "content": "Tech Stocks Sink, but Infoblox Is Worth More Than $3 Billion. Here’s Why."
+    },
+    "tweet16": {
+      "content": "iPhone &quot;Fortnite&quot; Players Plunge 60% After Apple Boots Epic Games Out of App Store"
+    },
+    "tweet17": {
+      "content": "Microsoft’s new $299 Xbox Series S console is coming Nov. 10"
+    },
+    "tweet18": {
+      "content": "US STOCKS-Stocks fall as tech remains under pressure, Tesla tumbles"
+    },
+    "tweet19": {
+      "content": "Boeing, Apple Inc. share losses lead Dow's 437-point drop"
+    },
+    "tweet20": {
+      "content": "Microsoft Confirms New Xbox Release Date, Price"
+    },
+    "tweet21": {
+      "content": "Be prepared for 1,000-point Dow selloff before the presidential election: strategist"
+    },
+    "tweet22": {
+      "content": "Microsoft's Plans for Its Next-Gen Xboxes Come Into Focus"
+    },
+    "tweet23": {
+      "content": "The $10B JEDI contract is locked, loaded and still completely stuck"
+    },
+    "tweet24": {
+      "content": "Boeing, Apple Inc. share losses contribute to Dow's 350-point fall"
+    },
+    "tweet25": {
+      "content": "US STOCKS-Nasdaq slides as tech rout deepens, Tesla hits three-week low"
+    },
+    "tweet26": {
+      "content": "Facebook’s Next Big Business Won’t Be Social Networking"
+    },
+    "tweet27": {
+      "content": "Dow Jones Dives 400 Points As Stock Market Rout Extends; Tesla Tanks"
+    },
+    "tweet28": {
+      "content": "Apple Stock’s Bull-Bear Debate Heats Up Ahead of iPhone 12 Debut"
+    },
+    "tweet29": {
+      "content": "US STOCKS-Nasdaq slides as tech rout deepens, Tesla hits three-week low"
+    },
+    "tweet30": {
+      "content": "Better Buy: Vanguard Growth Index Fund vs. USAA Nasdaq-100 Index Fund"
+    },
+    "tweet31": {
+      "content": "Why Apple Stock Dropped Today"
+    },
+    "tweet32": {
+      "content": "Facebook (FB) Adopts a Stricter Stance Toward Post Labelling"
+    },
+    "tweet33": {
+      "content": "Indonesia adds Twitter, Zoom to tech companies that must pay 10% VAT"
+    },
+    "tweet34": {
+      "content": "Boeing, Apple Inc. share losses contribute to Dow's 533-point fall"
+    },
+    "tweet35": {
+      "content": "ROCE Insights For Microsoft"
+    },
+    "tweet36": {
+      "content": "Microsoft Unveils Xbox Series S Gaming Console At $299"
+    },
+    "tweet37": {
+      "content": "Global Markets Review: Oil Plummets on Sluggish US Employment"
+    },
+    "tweet38": {
+      "content": "Giant Trader Footprints Leave Trail to Tech Options Plays"
+    },
+    "tweet39": {
+      "content": "Inverse Tech ETFs Jump as Traders Book Profits"
+    },
+    "tweet40": {
+      "content": "Microsoft confirms compact, $299 Xbox Series S arriving on November 10"
+    },
+    "tweet41": {
+      "content": "Bill Gates Thinks All-Electric Pickups Aren't A 'Practical Solution'"
+    },
+    "tweet42": {
+      "content": "TikTok to join EU code of conduct against hate speech"
+    },
+    "tweet43": {
+      "content": "General Motors, Nikola Rise Premarket; Tesla Drops"
+    },
+    "tweet44": {
+      "content": "Nasdaq Futures Slump 230 Pts; Tech Rout Continues"
+    },
+    "tweet45": {
+      "content": "TikTok Owner Doles Out Bonuses to Assuage Beleaguered Staff"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "3 Safe Blue Chip Stocks to Buy as Market Bounces Back After Tech Selloff"
+    },
+    "tweet2": {
+      "content": "Report: TikTok Talking With U.S. About Ways to Avoid a Sale"
+    },
+    "tweet3": {
+      "content": "Jim Cramer: Here's What We Know About This Rally"
+    },
+    "tweet4": {
+      "content": "Why Microsoft Stock Rose Today"
+    },
+    "tweet5": {
+      "content": "We're Back! S&P 500 Up Big as Tech Stock Gains Outpace Airline, Cruise Stocks Selloff"
+    },
+    "tweet6": {
+      "content": "Investor Anxiety Shifts to U.S. Elections as Volatility Returns"
+    },
+    "tweet7": {
+      "content": "US STOCKS-Wall Street ends higher on tech rally to snap three-day skid"
+    },
+    "tweet8": {
+      "content": "Why Slack Stock Plunged Today"
+    },
+    "tweet9": {
+      "content": "Microsoft, Salesforce.com Inc. share gains lead Dow's 513-point rally"
+    },
+    "tweet10": {
+      "content": "Microsoft, Apple Inc. share gains lead Dow's nearly 675-point surge"
+    },
+    "tweet11": {
+      "content": "US STOCKS-Wall Street bounces as tech rebounds"
+    },
+    "tweet12": {
+      "content": "Microsoft Reveals Release Date and Price of New Xbox"
+    },
+    "tweet13": {
+      "content": "Top Stock Reports for Alphabet, UnitedHealth & AbbVie"
+    },
+    "tweet14": {
+      "content": "10 Most Profitable Companies in the World"
+    },
+    "tweet15": {
+      "content": "US STOCKS-Wall Street bounces as tech rout halts"
+    },
+    "tweet16": {
+      "content": "Dow Jones Rebounds as Microsoft Spills Xbox Details, Apple Countersues Epic Games"
+    },
+    "tweet17": {
+      "content": "Microsoft stock bounce paces the Dow' s gainers, as Morgan Stanley sees dividend hike coming"
+    },
+    "tweet18": {
+      "content": "Dow soars nearly 600 points on gains in Microsoft, Apple Inc. shares"
+    },
+    "tweet19": {
+      "content": "Microsoft Finally Releases Price and Release Date for its New Xbox"
+    },
+    "tweet20": {
+      "content": "Microsoft (COMPANY_X) Lures Console Gamers With New Xbox at $299"
+    },
+    "tweet21": {
+      "content": "Apple, Microsoft and Other Tech Stocks Are Rebounding"
+    },
+    "tweet22": {
+      "content": "Dow Jones Runs Up 700 Points As Apple, Microsoft Soar; Nasdaq Finds Key Support"
+    },
+    "tweet23": {
+      "content": "Dow Jones Runs Up 500 Points As Apple, Microsoft Soar; Nasdaq Finds Key Support"
+    },
+    "tweet24": {
+      "content": "Nasdaq Notches Best Day Since April as Bears Flee on Tech Rebound"
+    },
+    "tweet25": {
+      "content": "Microsoft’s new $499 Xbox Series X console is coming Nov. 10; Xbox Series S is $299 on same day"
+    },
+    "tweet26": {
+      "content": "US STOCKS-Nasdaq rebounds as tech stocks stabilize after rout"
+    },
+    "tweet27": {
+      "content": "No, Microsoft CEO Satya Nadella Didn’t Sell $189 Billion of Stock"
+    },
+    "tweet28": {
+      "content": "Dow up 520 points on gains for Apple Inc., Microsoft stocks"
+    },
+    "tweet29": {
+      "content": "Morning Bell With Jim Cramer: Microsoft Shares Climb"
+    },
+    "tweet30": {
+      "content": "Apple Inc., Microsoft share gains lead Dow's 436-point rally"
+    },
+    "tweet31": {
+      "content": "Microsoft Has Room to Boost Its Dividend by 10% or More, Morgan Stanley Analysts Say"
+    },
+    "tweet32": {
+      "content": "Dow Jones Roars Back 500 Points As Tech Stocks Lead Market Recovery"
+    },
+    "tweet33": {
+      "content": "Microsoft Shares Jump On Morgan Stanley Price Target Boost; Dividend Increase in Focus"
+    },
+    "tweet34": {
+      "content": "Apple Inc., Microsoft share gains lead Dow's 237-point climb"
+    },
+    "tweet35": {
+      "content": "Microsoft Xbox Series X Will Launch in November at $500"
+    },
+    "tweet36": {
+      "content": "Microsoft confirms $499 Xbox Series X arrives November 10, pre-orders begin September 22"
+    },
+    "tweet37": {
+      "content": "US STOCKS-Nasdaq set to bounce as tech stocks stabilize after rout"
+    },
+    "tweet38": {
+      "content": "Why Microsoft Stock Rose 10% in August"
+    },
+    "tweet39": {
+      "content": "Losing $1 Trillion In 3 Days With Stocks Is Easier Than It Looks"
+    },
+    "tweet40": {
+      "content": "Behavox Appoints Gagan Gulati as Chief Product Officer"
+    },
+    "tweet41": {
+      "content": "US STOCKS-Futures bounce after tech rout sends Nasdaq into correction"
+    },
+    "tweet42": {
+      "content": "5 Potential Blockbuster IPOs to Add to Your Watch List"
+    },
+    "tweet43": {
+      "content": "Microsoft Joins Forces With Nutanix On Hybrid Cloud Solution"
+    },
+    "tweet44": {
+      "content": "Nintendo Boosts Switch Production by Another 20%"
+    },
+    "tweet45": {
+      "content": "WeChat and TikTok Taking China Censorship Global, Study Says"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "GLOBAL MARKETS-Asian markets set for decline again as U.S. tech stocks falter"
+    },
+    "tweet2": {
+      "content": "ByteDance Is Poised to Miss U.S. Deadline for TikTok Sale"
+    },
+    "tweet3": {
+      "content": "Oracle Returns to Sales Growth on Greater Cloud Demand"
+    },
+    "tweet4": {
+      "content": "S&P 500 Drops 60 Points on Volatile Day: Oil Stocks Fall Sharply, Apple Leads Tech Stocks Down Again"
+    },
+    "tweet5": {
+      "content": "Microsoft Teams Will Power an NFL Virtual Fan Experience"
+    },
+    "tweet6": {
+      "content": "Trump says there will be no extension of the TikTok deadline"
+    },
+    "tweet7": {
+      "content": "The Dow Jones Industrial Average Tumbled Because the Market Just Realized a Covid Relief Bill Isn’t Coming"
+    },
+    "tweet8": {
+      "content": "US STOCKS-Wall St ends lower as tech struggles resume"
+    },
+    "tweet9": {
+      "content": "Dow Jones, Nasdaq Gains Melt Away As Bears Maul Bulls; Apple Stock Fall Continues"
+    },
+    "tweet10": {
+      "content": "Top gamer 'Ninja' returns to Amazon Twitch after year-long hiatus"
+    },
+    "tweet11": {
+      "content": "Adobe Getting Business Boost From Work-From-Home Trend"
+    },
+    "tweet12": {
+      "content": "TikTok’s Sale Deadline Will Be Extended, Analysts Say"
+    },
+    "tweet13": {
+      "content": "Oracle wins cloud deal with business software firm Xactly"
+    },
+    "tweet14": {
+      "content": "US STOCKS-Wall St ends lower as tech struggles resume"
+    },
+    "tweet15": {
+      "content": "Russian military intelligence unit again targeting Democrats ahead of November presidential election, says Microsoft"
+    },
+    "tweet16": {
+      "content": "Dow drops nearly 425 points on losses for Apple Inc., Microsoft stocks"
+    },
+    "tweet17": {
+      "content": "US STOCKS-Wall St drops as tech stocks struggle for direction"
+    },
+    "tweet18": {
+      "content": "Microsoft: Foreign hackers are targeting Biden and Trump camps"
+    },
+    "tweet19": {
+      "content": "Trump Team Eyes Giving TikTok Owner More Time to Plan Sale"
+    },
+    "tweet20": {
+      "content": "Analysts Say TikTok’s Sale Deadline Will Be Extended"
+    },
+    "tweet21": {
+      "content": "Dow's 211-point fall led by losses for Apple Inc., Caterpillar stocks"
+    },
+    "tweet22": {
+      "content": "Microsoft Partners With NFL for Virtual Fan Experience"
+    },
+    "tweet23": {
+      "content": "US STOCKS-Wall St drops as tech stocks struggle for direction"
+    },
+    "tweet24": {
+      "content": "Microsoft (COMPANY_X) And Nutanix Collaborate on Hybrid Cloud Deal"
+    },
+    "tweet25": {
+      "content": "Dow Down 400+ Points as Bears Target Tech, Energy; Stimulus Hopes Fade"
+    },
+    "tweet26": {
+      "content": "US STOCKS-Wall Street edges higher on tech boost"
+    },
+    "tweet27": {
+      "content": "Dow Falls as Stimulus Stalemate Triggers Selloff; Tech Turns Ugly"
+    },
+    "tweet28": {
+      "content": "US STOCKS-Wall Street climbs as tech rallies for a second day"
+    },
+    "tweet29": {
+      "content": "GameStop Stock Drops as Results Fall Short"
+    },
+    "tweet30": {
+      "content": "Dow Jones Gains 200 Points, As Tech Rally Continues; Apple, Tesla Jump, While Nikola Dives On Fraud Allegations"
+    },
+    "tweet31": {
+      "content": "Microsoft, Walmart Shares Gain Amid TikTok Sale Deadline Questions"
+    },
+    "tweet32": {
+      "content": "Microsoft Alerts Biden Campaign of Russian Hacking Attempt"
+    },
+    "tweet33": {
+      "content": "Dow Jones Futures Erase Losses, As Tech Rally Continues; Apple, Tesla Jump, While Nikola Dives On Fraud Allegations"
+    },
+    "tweet34": {
+      "content": "REFILE-US STOCKS-S&P 500, Nasdaq set for higher open on tech bounce"
+    },
+    "tweet35": {
+      "content": "What's Driving Slack's Billings Deceleration?"
+    },
+    "tweet36": {
+      "content": "ByteDance and U.S. Discuss Ways to Avoid Full Sale of TikTok"
+    },
+    "tweet37": {
+      "content": "Did Microsoft Finally Win Its $10 Billion JEDI War With Amazon?"
+    },
+    "tweet38": {
+      "content": "Microsoft’s Xbox Game Plan Has Big Problems"
+    },
+    "tweet39": {
+      "content": "Millions of Users Love Zoom: Here's Why That's Bad News"
+    },
+    "tweet40": {
+      "content": "Dow Jones Futures: Stock Market Rally Rebounds, 3 Giants Reclaim Buy Points, But Remain Cautious; RH Skyrockets"
+    },
+    "tweet41": {
+      "content": "Apple and Tesla Stocks Have Crushed the Market This Year. Are They Still Buys?"
+    },
+    "tweet42": {
+      "content": "Microsoft Edges Lower Amid TikTok Sale Deadline Questions"
+    },
+    "tweet43": {
+      "content": "ByteDance may miss U.S. deadline for TikTok deal - Bloomberg"
+    },
+    "tweet44": {
+      "content": "This Company Is Winning in the Fast-Growing Fertility Benefits Industry"
+    },
+    "tweet45": {
+      "content": "Kremlin calls reports of Russian state hacking against Biden campaign firm 'nonsense'"
+    },
+    "tweet46": {
+      "content": "Facebook, Google, Twitter urged by EU to do more against fake news"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Merck Begins Testing Covid-19 Vaccine Candidate"
+    },
+    "tweet2": {
+      "content": "S&P 500 News: Amazon Leads Big Tech Stock Sell-Off, Wiping Out Broad Gains in Other Sectors"
+    },
+    "tweet3": {
+      "content": "TikTok Pushing Forward With Deal to Meet Looming Deadline"
+    },
+    "tweet4": {
+      "content": "eBay Founder Stepping Down From Company's Board in &quot;Reimagining&quot; of Its Business"
+    },
+    "tweet5": {
+      "content": "Microsoft (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet6": {
+      "content": "Report: China Indicates It Would Accept a U.S. Shutdown of TikTok"
+    },
+    "tweet7": {
+      "content": "Apple Loosens App Store Rules a Bit After Developer Backlash"
+    },
+    "tweet8": {
+      "content": "Apple sets new rules for game streaming services"
+    },
+    "tweet9": {
+      "content": "TikTok May Shut Down Completely In U.S. As China, Trump Go To The Brink"
+    },
+    "tweet10": {
+      "content": "Market Recap: Friday, September 11"
+    },
+    "tweet11": {
+      "content": "EXPLAINER-Next steps in the TikTok diplomatic dance"
+    },
+    "tweet12": {
+      "content": "The Tech Rout Makes It a Good Time to Trade Amazon Options"
+    },
+    "tweet13": {
+      "content": "Why Oracle Stock Still Matters, and What’s Holding It Back"
+    },
+    "tweet14": {
+      "content": "More Than 10% of Oregon’s Population Evacuated, Fleeing Wildfires"
+    },
+    "tweet15": {
+      "content": "SoftBank Reconsiders Trading Strategy That Hurt Shares"
+    },
+    "tweet16": {
+      "content": "Big Tech is turning on one another amid antitrust probes and litigation"
+    },
+    "tweet17": {
+      "content": "Advanced Micro Devices Could Still Soar to $100. Here’s Why."
+    },
+    "tweet18": {
+      "content": "SoftBank reevaluating options trading strategy- Bloomberg News"
+    },
+    "tweet19": {
+      "content": "Dow down 39 points on losses in Salesforce.com Inc., Apple Inc. stocks"
+    },
+    "tweet20": {
+      "content": "Hundreds of Thousands of Chinese Injected  With Experimental Covid-19 Vaccines"
+    },
+    "tweet21": {
+      "content": "Apple changes to App Store could hamper game-streaming services from Google, Microsoft"
+    },
+    "tweet22": {
+      "content": "US STOCKS-Wall Street headed for second straight weekly fall"
+    },
+    "tweet23": {
+      "content": "Why Fastly Stock Is Falling Today"
+    },
+    "tweet24": {
+      "content": "Stocks To Watch With Earnings On Deck: Adobe Systems"
+    },
+    "tweet25": {
+      "content": "Microsoft (COMPANY_X) Teams App to Augment NFL Experience for Fans"
+    },
+    "tweet26": {
+      "content": "Wall Street Higher as Cyclicals Step Up Amid Tech Wreck"
+    },
+    "tweet27": {
+      "content": "Why the U.S. May Still Extend Deadline for TikTok Sale"
+    },
+    "tweet28": {
+      "content": "TikTok’s Deadline to Sell Won’t Be Extended, Trump Says"
+    },
+    "tweet29": {
+      "content": "US STOCKS-Wall Street looks to wrap up another volatile week on high note"
+    },
+    "tweet30": {
+      "content": "EXPLAINER-Next steps in the TikTok diplomatic dance"
+    },
+    "tweet31": {
+      "content": "Why the U.S. May Still Yield Ground on TikTok Talks"
+    },
+    "tweet32": {
+      "content": "US STOCKS-Wall Street climbs as Oracle leads tech stocks higher"
+    },
+    "tweet33": {
+      "content": "Dow Jones Up But Stock Market Rally Fades Despite Peloton, Oracle Gains; Tesla To Export Made-In-China Cars"
+    },
+    "tweet34": {
+      "content": "Dow Jones Today Rises In Stock Market Rally Rebound As Peloton, Oracle Rise; Tesla To Export Made-In-China Cars"
+    },
+    "tweet35": {
+      "content": "Report: TikTok Unlikely to Be Sold by U.S. Government's Deadline; Trump Rules Out Extension"
+    },
+    "tweet36": {
+      "content": "Wall Street's Early Gains Lose Steam in Choppy Trading"
+    },
+    "tweet37": {
+      "content": "Dow Jones Futures Signal Stock Market Rally With Apple, Peloton, Oracle Leading; Tesla To Export Made-In-China Cars"
+    },
+    "tweet38": {
+      "content": "Russia and China dismiss Microsoft allegations of bids to hack Biden and Trump camps"
+    },
+    "tweet39": {
+      "content": "REFILE-US STOCKS-Wall Street set for higher open as Oracle results beat estimates"
+    },
+    "tweet40": {
+      "content": "The 1 Big Reason I'm Holding Off on Snowflake's IPO ... for Now"
+    },
+    "tweet41": {
+      "content": "Dow Jones Futures Rise: Riskier Than A Bear? Why This Stock Market Is So Dangerous; Peloton Jumps On Earnings"
+    },
+    "tweet42": {
+      "content": "What These Top 10 Stocks Say About Fidelity Investors"
+    },
+    "tweet43": {
+      "content": "Microsoft takes aim at Sony with cloud gaming service"
+    },
+    "tweet44": {
+      "content": "US STOCKS-Futures rebound as tech stocks rise; Oracle delivers strong quarter"
+    },
+    "tweet45": {
+      "content": "Chicago’s Pension-Bond Plan Could Use a FAANG Rout"
+    },
+    "tweet46": {
+      "content": "TikTok Won’t Just Disappear After Trump’s Deadline for a Sale"
+    },
+    "tweet47": {
+      "content": "Russia not seeking to interfere in other countries' electoral processes -Kremlin"
+    },
+    "tweet48": {
+      "content": "Russia, China Hackers Boost Election Attacks, Microsoft Says"
+    },
+    "tweet49": {
+      "content": "PRESS DIGEST - Wall Street Journal - Sept 11"
+    },
+    "tweet50": {
+      "content": "China's expanded export controls pose fresh challenge to global tech industry"
+    },
+    "tweet51": {
+      "content": "China's expanded export controls pose fresh challenge to global tech industry"
+    },
+    "tweet52": {
+      "content": "China's expanded export ban poses fresh challenge to global tech industry"
+    },
+    "tweet53": {
+      "content": "Trump Won’t Extend Deadline for TikTok to Arrange U.S. Sale"
+    },
+    "tweet54": {
+      "content": "Dow Jones Futures: Riskier Than A Bear? Why This Stock Market Is So Dangerous; Peloton Jumps On Earnings"
+    },
+    "tweet55": {
+      "content": "PRESS DIGEST- Financial Times - Sept. 11"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "GLOBAL MARKETS-Asian shares set to dip as investors await key data"
+    },
+    "tweet2": {
+      "content": "Why Fastly Stock Surged Today"
+    },
+    "tweet3": {
+      "content": "Why NVIDIA Stock Jumped Today"
+    },
+    "tweet4": {
+      "content": "I Wanna Dance With Somebody, Says TikTok. But It’s Not You Microsoft"
+    },
+    "tweet5": {
+      "content": "Commentary: Did Oracle offer a TikTok deal to serve Trump?"
+    },
+    "tweet6": {
+      "content": "Oracle’s TikTok Bid Heads for U.S. Review—and Trump’s Verdict"
+    },
+    "tweet7": {
+      "content": "Confusion Over TikTok Deal As Microsoft Pushed Out, Oracle In Lead"
+    },
+    "tweet8": {
+      "content": "Underwater Data Centers Part Of Microsoft's Future Growth"
+    },
+    "tweet9": {
+      "content": "US STOCKS-Wall Street closes broadly higher on deal news, vaccine hopes"
+    },
+    "tweet10": {
+      "content": "Dealmakers See $69 Billion of M&A in Year’s Busiest Weekend"
+    },
+    "tweet11": {
+      "content": "Confusion Over TikTok Deal As Microsoft Pushed Out, Oracle In Lead"
+    },
+    "tweet12": {
+      "content": "Five critical questions about the TikTok-Oracle deal"
+    },
+    "tweet13": {
+      "content": "GLOBAL MARKETS-Stocks rally as COVID-19 vaccines lift hope, dollar eases"
+    },
+    "tweet14": {
+      "content": "Stocks Gain Amid Deals Optimism; Dollar Weakens: Markets Wrap"
+    },
+    "tweet15": {
+      "content": "US STOCKS-Wall Street closes broadly higher on deal news, vaccine hopes"
+    },
+    "tweet16": {
+      "content": "GLOBAL MARKETS-COVID-19 vaccine hopes lift world stocks, dollar eases"
+    },
+    "tweet17": {
+      "content": "US STOCKS-Wall Street gains 1% on deal news, vaccine hopes"
+    },
+    "tweet18": {
+      "content": "Dow Jones Surges Almost 400 Points Following Major Tech Deals"
+    },
+    "tweet19": {
+      "content": "Dow Jones, Nasdaq Higher As Bulls Charge Back; Apple Snaps Losing Streak"
+    },
+    "tweet20": {
+      "content": "Why Walmart still wants in on the TikTok deal"
+    },
+    "tweet21": {
+      "content": "NVIDIA Raises the Stakes With New Ampere RTX 30 Gaming GPUs"
+    },
+    "tweet22": {
+      "content": "US STOCKS-Wall Street climbs on mega mergers, vaccine hopes"
+    },
+    "tweet23": {
+      "content": "Best Growth Stocks To Buy And Research"
+    },
+    "tweet24": {
+      "content": "Facebook Not Doing Enough to Stop Fake Clicks on Ads"
+    },
+    "tweet25": {
+      "content": "Dow Jones Soars 400 Points In Broad Market Rally; New Buy Point For Apple?"
+    },
+    "tweet26": {
+      "content": "TikTok Is Still Growing Faster than Facebook and Snapchat"
+    },
+    "tweet27": {
+      "content": "Dow Jones Jumps 400 Points On Coronavirus Vaccine News; Apple, Tesla Rally, While Oracle, Nvidia Surge On Acquisitions"
+    },
+    "tweet28": {
+      "content": "Microsoft (COMPANY_X) Ups Ante in Cloud Gaming With New Service"
+    },
+    "tweet29": {
+      "content": "GLOBAL MARKETS-COVID-19 vaccine hopes lift world stocks, dollar eases"
+    },
+    "tweet30": {
+      "content": "Oracle Beats Microsoft in Deal for TikTok’s U.S. Operations"
+    },
+    "tweet31": {
+      "content": "Oracle Beats Microsoft in Deal for TikTok’s U.S. Operations"
+    },
+    "tweet32": {
+      "content": "'Partnership Better Than Acquisition': Analysts React To Oracle-TikTok Deal"
+    },
+    "tweet33": {
+      "content": "US STOCKS-Wall Street climbs on mega mergers, vaccine hopes"
+    },
+    "tweet34": {
+      "content": "Why GameStop Stock Just Popped a Lucky 7.7%"
+    },
+    "tweet35": {
+      "content": "Stock Markets Climb as Oracle Beats Microsoft in TikTok Fight"
+    },
+    "tweet36": {
+      "content": "Dow Jones Jumps 375 Points On Coronavirus Vaccine News; Apple, Tesla Rally, While Oracle, Nvidia Surge On Acquisitions"
+    },
+    "tweet37": {
+      "content": "Oracle Won’t Acquire TikTok as Part of ByteDance’s Proposal. What to Know About the Deal."
+    },
+    "tweet38": {
+      "content": "Dow's nearly 350-point rally highlighted by gains for shares of American Express, Microsoft"
+    },
+    "tweet39": {
+      "content": "Oracle Confirms 'Tech Provider' Status in TikTok Pursuit; Shares Resume Trading"
+    },
+    "tweet40": {
+      "content": "Oracle confirms it's part of TikTok bid proposal submitted to Treasury Department"
+    },
+    "tweet41": {
+      "content": "US STOCKS-Wall Street climbs on merger deals, vaccine hopes"
+    },
+    "tweet42": {
+      "content": "Does Microsoft's Xbox Series S Spell Trouble for Sony's PS5?"
+    },
+    "tweet43": {
+      "content": "Dow jumps nearly 225 points on gains in shares of Apple Inc., American Express"
+    },
+    "tweet44": {
+      "content": "Dow Jones Today, Stocks Open Higher On Nvidia, Gilead, Oracle Merger News; Micron Pops On Upgrade"
+    },
+    "tweet45": {
+      "content": "Oracle Apparent TikTok Winner After Microsoft's Bid Rejected"
+    },
+    "tweet46": {
+      "content": "TikTok Ditches Microsoft, Tries Ties with Oracle"
+    },
+    "tweet47": {
+      "content": "Dow Jones Today, Futures Boosted By Nvidia, Gilead, Oracle Merger News; Micron Pops On Upgrade"
+    },
+    "tweet48": {
+      "content": "Oracle Surges As TikTok Rejects Microsoft Ahead of U.S. Sale Deadline"
+    },
+    "tweet49": {
+      "content": "US STOCKS-Wall Street set for higher open on M&A activity, vaccine hopes"
+    },
+    "tweet50": {
+      "content": "Global Stocks Rise on Vaccine Hopes and M&A Surge"
+    },
+    "tweet51": {
+      "content": "TikTok Turns To Oracle For U.S. Deal, Walmart May Invest: Report"
+    },
+    "tweet52": {
+      "content": "Trump administration to review Oracle-TikTok deal this week, Mnuchin says"
+    },
+    "tweet53": {
+      "content": "Nvidia Is Buying Arm Holdings From SoftBank in the Largest Ever Chip Deal"
+    },
+    "tweet54": {
+      "content": "Is Slack Stock a Buy?"
+    },
+    "tweet55": {
+      "content": "Dow Jones Futures Rise But Stock Market Rally Livin' On The Edge; Nvidia-Arm, TikTok-Oracle Deals, Vaccine News In Focus"
+    },
+    "tweet56": {
+      "content": "Merger Monday Is Back"
+    },
+    "tweet57": {
+      "content": "TikTok Picks Oracle, Nvidia Buys Arm, Gilead Buys Immunomedics - 5 Things You Must Know Monday"
+    },
+    "tweet58": {
+      "content": "Oracle Won the TikTok Bid After Beating Out Microsoft and Walmart"
+    },
+    "tweet59": {
+      "content": "US STOCKS-Futures lifted by M&A activity, vaccine hopes"
+    },
+    "tweet60": {
+      "content": "A Look At The Fair Value Of Microsoft Corporation (NASDAQ:COMPANY_X)"
+    },
+    "tweet61": {
+      "content": "TikTok Will Sell to Oracle, Reports Say"
+    },
+    "tweet62": {
+      "content": "CORRECTED-Google aims to run on carbon-free energy by 2030"
+    },
+    "tweet63": {
+      "content": "TikTok rejects Microsoft bid at eleventh hour"
+    },
+    "tweet64": {
+      "content": "ByteDance To Join Up With Oracle, To Abandon TikTok US Sale – Report"
+    },
+    "tweet65": {
+      "content": "Top 5 Things to Know in the Market on Monday, September 14th"
+    },
+    "tweet66": {
+      "content": "ByteDance won't sell TikTok U.S. operations to Oracle or Microsoft - CGTN"
+    },
+    "tweet67": {
+      "content": "Tech's Bubble of Calm Is Likely to Prove Brief"
+    },
+    "tweet68": {
+      "content": "Tech's Bubble of Calm Is Likely to Prove Brief"
+    },
+    "tweet69": {
+      "content": "TikTok to Pursue Partnership with Oracle; Microsoft Proposal Rejected"
+    },
+    "tweet70": {
+      "content": "PRESS DIGEST- New York Times business news - Sept. 14"
+    },
+    "tweet71": {
+      "content": "PRESS DIGEST- Wall Street Journal - Sept 14"
+    },
+    "tweet72": {
+      "content": "In TikTok Sale, Microsoft Is No Loser and Oracle No Winner"
+    },
+    "tweet73": {
+      "content": "ByteDance drops TikTok's U.S. sale, to partner with Oracle - sources"
+    },
+    "tweet74": {
+      "content": "ByteDance picks Oracle as partner to try to save TikTok U.S. - sources"
+    },
+    "tweet75": {
+      "content": "Oracle Edges Out Microsoft As Preferred TikTok Buyer - Reports"
+    },
+    "tweet76": {
+      "content": "Oracle Wins TikTok Bid, Beating Out Microsoft and Walmart"
+    },
+    "tweet77": {
+      "content": "PRESS DIGEST- Financial Times - Sept. 14"
+    },
+    "tweet78": {
+      "content": "Oracle Beats Microsoft In TikTok Bidding Contest To Avoid Ban"
+    },
+    "tweet79": {
+      "content": "Oracle Chosen as Winner in TikTok Sale"
+    },
+    "tweet80": {
+      "content": "Oracle Picked as Winning Bid for TikTok U.S. Over Microsoft: WSJ"
+    },
+    "tweet81": {
+      "content": "ByteDance drops TikTok's U.S. sale, to partner with Oracle: sources"
+    },
+    "tweet82": {
+      "content": "ByteDance picks Oracle for TikTok U.S. deal, source says"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Snowflake to Launch Highly Anticipated IPO"
+    },
+    "tweet2": {
+      "content": "Sony Cuts PlayStation 5 Forecast by 4 Million Due to Chip Woes"
+    },
+    "tweet3": {
+      "content": "FedEx Earnings Crush Views With Surprise Gain Ahead Of Holiday Rush"
+    },
+    "tweet4": {
+      "content": "Microsoft raises dividend by about 10%"
+    },
+    "tweet5": {
+      "content": "Microsoft announces quarterly dividend increase"
+    },
+    "tweet6": {
+      "content": "Trump says he's heard Oracle is 'very close' to a TikTok deal"
+    },
+    "tweet7": {
+      "content": "TikTok to become standalone U.S. company - FT"
+    },
+    "tweet8": {
+      "content": "Dow Jones Rises 100 Points; Caterpillar Stock Down on Sales Slump; Walmart Launches Subscription Service; Microsoft Rolls Out Mobile Cloud Gaming"
+    },
+    "tweet9": {
+      "content": "Microsoft Xbox Cloud Gaming Launches Today With More than 150 Games"
+    },
+    "tweet10": {
+      "content": "FedEx To Report Ahead Of Unprecedented E-Commerce Crunch"
+    },
+    "tweet11": {
+      "content": "Better Buy: Slack Technologies vs. Microsoft"
+    },
+    "tweet12": {
+      "content": "Euronet's Unit to Handle Transactions for Xbox Subscriptions"
+    },
+    "tweet13": {
+      "content": "Microsoft (COMPANY_X) Keen on Building Subsea Data Center Network"
+    },
+    "tweet14": {
+      "content": "Nvidia Deal Threatens Arm’s Role as the Switzerland of Chips"
+    },
+    "tweet15": {
+      "content": "Sony Reportedly Slashing PlayStation 5 Production 26% This Year"
+    },
+    "tweet16": {
+      "content": "Dow Jones Goes For Three Straight As Apple Stock Rises Ahead Of Launch Event"
+    },
+    "tweet17": {
+      "content": "Dow Ends Flat as Financials Wobble Ahead of Fed; Tech Advances"
+    },
+    "tweet18": {
+      "content": "Is Bill Gates Right About the FDA’s Vaccine Credibility?"
+    },
+    "tweet19": {
+      "content": "Oracle-TikTok Alliance Challenges AWS & Azure Cloud Dominance"
+    },
+    "tweet20": {
+      "content": "TikTok or Not, Here's Why I'm in Microsoft"
+    },
+    "tweet21": {
+      "content": "S&P 500 Buybacks Decline 55.4% to $88.7 Billion; Significant Reductions Expected to continue in Q3 2020"
+    },
+    "tweet22": {
+      "content": "Dow jumps 175 points on gains for shares of Apple Inc., Dow Inc."
+    },
+    "tweet23": {
+      "content": "The Zacks Analyst Blog Highlights: Microsoft, Sony, Google, Facebook and Amazon"
+    },
+    "tweet24": {
+      "content": "Will Oracle Actually Benefit From the TikTok Deal?"
+    },
+    "tweet25": {
+      "content": "Nuance and Microsoft announce the integration of Dragon Ambient eXperience and Microsoft Teams for virtual telehealth consults"
+    },
+    "tweet26": {
+      "content": "NVIDIA's $40 Billion Takeover of Arm Spells Trouble for Intel and AMD"
+    },
+    "tweet27": {
+      "content": "Microsoft, BP Join Forces To Drive Digital Energy And Net Zero Carbon Goals"
+    },
+    "tweet28": {
+      "content": "White House's Kushner says Oracle's TikTok deal being reviewed"
+    },
+    "tweet29": {
+      "content": "3 Reasons Zoom Video Communications Stock Still Looks Like a Long-Term Winner"
+    },
+    "tweet30": {
+      "content": "Why Investors Don't Fear a Stock Market Crash"
+    },
+    "tweet31": {
+      "content": "Snowflake Gives Investors a Rare Opportunity to Disrupt Amazon"
+    },
+    "tweet32": {
+      "content": "INSIGHT-How ByteDance's CEO balked at selling TikTok's U.S. business"
+    },
+    "tweet33": {
+      "content": "bp and Microsoft form strategic partnership to drive digital energy innovation and advance net zero goals"
+    },
+    "tweet34": {
+      "content": "How ByteDance's CEO balked at selling TikTok's U.S. business"
+    },
+    "tweet35": {
+      "content": "INSIGHT-How ByteDance's CEO balked at selling TikTok's U.S. business"
+    },
+    "tweet36": {
+      "content": "Sony's Chip Problem Is Ruining Its PlayStation Buzz"
+    },
+    "tweet37": {
+      "content": "Video Game Sales Up 37% Year Over Year in August"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Sony to Sell PlayStation 5 at $500 in Holiday Showdown With Xbox"
+    },
+    "tweet2": {
+      "content": "AT&T's Warner Bros Games unveils Harry Potter role-playing game"
+    },
+    "tweet3": {
+      "content": "Bill Gates Sr., philanthropist and father of Microsoft co-founder, dies at 94"
+    },
+    "tweet4": {
+      "content": "Console Wars Heat Up With PlayStation 5 Price And Games Reveal"
+    },
+    "tweet5": {
+      "content": "Sony Announces PS5 Price and Release Date. Here’s How It Compares to the New Xbox."
+    },
+    "tweet6": {
+      "content": "Oracle’s TikTok Bid Leaves Open Some U.S. Security Concerns"
+    },
+    "tweet7": {
+      "content": "Oracle Scrambles To Address Trump's TikTok National Security Fears: Reports"
+    },
+    "tweet8": {
+      "content": "Sony PlayStation 5 to launch In November"
+    },
+    "tweet9": {
+      "content": "Apple’s Bundling Strategy Spooks Spotify, but Underwhelms Investors"
+    },
+    "tweet10": {
+      "content": "GLOBAL MARKETS-Shares gain, dollar firm as Fed sticks to agenda of near-zero rates"
+    },
+    "tweet11": {
+      "content": "He went from multibillionaire to relatively broke and living in a small apartment — just like he planned"
+    },
+    "tweet12": {
+      "content": "U.S. in 'deep review' of Oracle-TikTok deal - White House economic adviser"
+    },
+    "tweet13": {
+      "content": "As U.S. TikTok Ban Nears, Here’s What We Know About a Deal"
+    },
+    "tweet14": {
+      "content": "Dow Jones Surges as Apple Stock Slumps Despite New Products; Amazon Challenges Walmart; Microsoft Boosts Dividend"
+    },
+    "tweet15": {
+      "content": "Snowflake Stock Is Really, Really Expensive After Its IPO"
+    },
+    "tweet16": {
+      "content": "Nasdaq Comp's decline reflects big-tech weakness, but defies bullish breadth data"
+    },
+    "tweet17": {
+      "content": "US STOCKS-S&P 500, Dow rise before Fed; tech stocks pull down Nasdaq"
+    },
+    "tweet18": {
+      "content": "Microsoft Boosts Dividend by 10%"
+    },
+    "tweet19": {
+      "content": "US STOCKS-Wall Street steady before Fed; tech stocks under pressure"
+    },
+    "tweet20": {
+      "content": "Microsoft Augments Teams App to Boost Telehealth Experience"
+    },
+    "tweet21": {
+      "content": "Oracle’s TikTok Deal Pours Trump Toxin Into Capitalism"
+    },
+    "tweet22": {
+      "content": "Trump administration will continue reviewing TikTok deal for best interest of U.S."
+    },
+    "tweet23": {
+      "content": "3 Entertainment Stocks Poised for a Bull Run"
+    },
+    "tweet24": {
+      "content": "Why Slack Stock Is Down"
+    },
+    "tweet25": {
+      "content": "Microsoft (COMPANY_X) Announces a Dividend Hike, Cheers Investors"
+    },
+    "tweet26": {
+      "content": "Apple Could Cripple Microsoft's and Google's iOS Cloud Gaming Apps"
+    },
+    "tweet27": {
+      "content": "US STOCKS-Wall St set to open higher on Fed optimism; FedEx results shine"
+    },
+    "tweet28": {
+      "content": "US STOCKS-Futures rise on optimism around Fed; FedEx results shine"
+    },
+    "tweet29": {
+      "content": "3 Great Stocks With Better Growth Prospects Than Tesla to Buy"
+    },
+    "tweet30": {
+      "content": "Nintendo Plans New Switch Games, Extending Console’s Life Cycle"
+    },
+    "tweet31": {
+      "content": "FedEx, General Motors Rise Premarket; Nikola Falls"
+    },
+    "tweet32": {
+      "content": "Microsoft Hikes Quarterly Dividend By 9.8%"
+    },
+    "tweet33": {
+      "content": "In Trump Clash, TikTok Founder Takes Page From ‘Art of the Deal’"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Trump says his administration spoke to Walmart, Oracle about TikTok"
+    },
+    "tweet2": {
+      "content": "Microsoft (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet3": {
+      "content": "Sony Has an Early Mindshare Lead on Microsoft in the Next-Gen Console Wars"
+    },
+    "tweet4": {
+      "content": "Trump Unsatisfied With TikTok Deal As Oracle Scrambles To Ease National Security Fears"
+    },
+    "tweet5": {
+      "content": "Dow Jones Slips As Rally Attempt Fails; This Snowflake Melts"
+    },
+    "tweet6": {
+      "content": "Apple's stock falls toward first close below 50-day moving average in 5 months"
+    },
+    "tweet7": {
+      "content": "US STOCKS-Tech sell-off hits Wall St as jobless claims remain elevated"
+    },
+    "tweet8": {
+      "content": "Dow's 216-point fall led by losses for shares of Salesforce.com Inc., Goldman Sachs"
+    },
+    "tweet9": {
+      "content": "Oracle, ByteDance Accept New Treasury Terms on TikTok"
+    },
+    "tweet10": {
+      "content": "Forget Snowflake, Cloudera Is a Better Big Data Stock"
+    },
+    "tweet11": {
+      "content": "Oracle Could Get 20% of TikTok Under a New Deal"
+    },
+    "tweet12": {
+      "content": "Dow Trims Losses  Into Close, but Tech Selloff Continues"
+    },
+    "tweet13": {
+      "content": "Salesforce.com Inc., Goldman Sachs share losses contribute to Dow's 133-point fall"
+    },
+    "tweet14": {
+      "content": "CORRECTED-US STOCKS-Tech sell-off hits Wall St as jobless claims remain high"
+    },
+    "tweet15": {
+      "content": "Dow Off Lows but Under Pressure as Tech Bloodbath Continues"
+    },
+    "tweet16": {
+      "content": "Bill Gates Liquidates Stake in Largest McDonald’s Franchisee"
+    },
+    "tweet17": {
+      "content": "Nintendo Reveals New Monster Hunter Games for Switch"
+    },
+    "tweet18": {
+      "content": "Essential Strategies for Trading Volume"
+    },
+    "tweet19": {
+      "content": "Amazon Beats Walmart Again in Latest Showdown"
+    },
+    "tweet20": {
+      "content": "CORRECTED-US STOCKS-Tech sell-off weighs on Wall St as jobless claims remain high"
+    },
+    "tweet21": {
+      "content": "Sony Spills the PS5 Launch Dates and Prices"
+    },
+    "tweet22": {
+      "content": "Amazon's Twitch Regains Its Top Star After Mixer's Collapse"
+    },
+    "tweet23": {
+      "content": "Read This Before Chasing Snowflake's Hot IPO"
+    },
+    "tweet24": {
+      "content": "All 30 Dow stocks are falling, led by Salesforce and Apple"
+    },
+    "tweet25": {
+      "content": "Why Investors Should Love Microsoft's Dividend"
+    },
+    "tweet26": {
+      "content": "Trump’s Vaccine Rush Redefines ‘Regulatory Capture’"
+    },
+    "tweet27": {
+      "content": "Is Salesforce Stock A Buy As Coronavirus Impacts Technology Budgets?"
+    },
+    "tweet28": {
+      "content": "Bill Gates Sells Investment in Largest McDonald’s Franchisee"
+    },
+    "tweet29": {
+      "content": "New to Options Trading? Here’s How Not to Make a Fool of Yourself."
+    },
+    "tweet30": {
+      "content": "DOJ Indicts Chinese Hackers for Break-Ins at 100 Companies"
+    },
+    "tweet31": {
+      "content": "China ministry on TikTok urges U.S. to respect fair competition"
+    },
+    "tweet32": {
+      "content": "Warner Bros Unveils Harry Potter RPG For PlayStation, Xbox"
+    },
+    "tweet33": {
+      "content": "INSIGHT-The Musk Method: Learn from partners then go it alone"
+    },
+    "tweet34": {
+      "content": "Sony PlayStation 5 to launch November priced $499.99 and $399.99"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Why You Must Re-evaluate Your Portfolio Now"
+    },
+    "tweet2": {
+      "content": "S&P 500 Drops 33 Points as Mega-Tech Stocks Slide, Cruise Stocks Sink, and Investors Sell &quot;Safe&quot; Stocks Too"
+    },
+    "tweet3": {
+      "content": "Unity Software's IPO Lets You Invest In The Future of Video Games"
+    },
+    "tweet4": {
+      "content": "US STOCKS-Wall St posts 3rd week of declines as tech slide drags on"
+    },
+    "tweet5": {
+      "content": "Stock Market Today: Wild Friday Features More Woes for Tech"
+    },
+    "tweet6": {
+      "content": "U.S. to start blocking TikTok, WeChat downloads Sunday"
+    },
+    "tweet7": {
+      "content": "TikTok's abrupt end would send a 'chill to the boardroom': IMD Business prof"
+    },
+    "tweet8": {
+      "content": "GLOBAL MARKETS-Equities sink on virus angst, Fed aftermath; gold, yen rise"
+    },
+    "tweet9": {
+      "content": "US STOCKS-Indexes end lower, Nasdaq, S&P 500 post 3rd week of declines"
+    },
+    "tweet10": {
+      "content": "Dow down nearly 250 points on losses for shares of Boeing, Apple Inc."
+    },
+    "tweet11": {
+      "content": "Mega-cap tech stock selloff has the QQQs on track for biggest monthly drop since the financial crisis"
+    },
+    "tweet12": {
+      "content": "US STOCKS-Indexes drop more than 1% as tech sell-off continues"
+    },
+    "tweet13": {
+      "content": "GLOBAL MARKETS-Equities sink on virus angst, Fed aftermath; gold, yen rise"
+    },
+    "tweet14": {
+      "content": "Boeing, Apple Inc. share losses lead Dow's 325-point drop"
+    },
+    "tweet15": {
+      "content": "Dow Jones Sinks as Analyst Warns on Apple and Microsoft Valuations; Home Depot Stock Slumps on Slowdown Fears"
+    },
+    "tweet16": {
+      "content": "Apple Inc., Microsoft share losses contribute to Dow's 217-point fall"
+    },
+    "tweet17": {
+      "content": "U.S. to Ban TikTok, WeChat in U.S. App Stores Starting Sunday"
+    },
+    "tweet18": {
+      "content": "US STOCKS-Wall Street falls in choppy trading as tech sell-off resumes"
+    },
+    "tweet19": {
+      "content": "Dow Jones Extends Losses As Apple Drops; Nasdaq Falls Deeper In The Red"
+    },
+    "tweet20": {
+      "content": "Dow drops 81 points on losses for Apple Inc., Microsoft shares"
+    },
+    "tweet21": {
+      "content": "GLOBAL MARKETS-Equities sink on virus angsts, Fed aftermath; gold, yen rise"
+    },
+    "tweet22": {
+      "content": "The Triumph of Stock Picking Over Market Timing"
+    },
+    "tweet23": {
+      "content": "Dow Jones Falls 150 Points, As Nasdaq Extends Losses; Tesla Snaps Back, While Beyond Meat Dives On Downgrade"
+    },
+    "tweet24": {
+      "content": "US STOCKS-Wall Street falls in choppy trading as tech sell-off resumes"
+    },
+    "tweet25": {
+      "content": "Why Valuation Matters for Snowflake Investors"
+    },
+    "tweet26": {
+      "content": "Apple Inc., Cisco share losses lead the way, but Dow flat"
+    },
+    "tweet27": {
+      "content": "Smartsheet's CEO Talks About the Impact of Remote Work, Slack and Microsoft Teams"
+    },
+    "tweet28": {
+      "content": "Trump’s WeChat Ban Is Just a MAGA Wall in Cyberspace"
+    },
+    "tweet29": {
+      "content": "The Zacks Analyst Blog Highlights: Novartis, Zoom Video, Caterpillar, Microsoft, Cisco, Clorox and LHC Group"
+    },
+    "tweet30": {
+      "content": "Apple, Microsoft Both Slightly Higher Early, But Tough Month For FAANGs So Far"
+    },
+    "tweet31": {
+      "content": "US STOCKS-Nasdaq futures rise as tech selloff calms"
+    },
+    "tweet32": {
+      "content": "Should You Buy JFrog Stock After Its Post-IPO Leap?"
+    },
+    "tweet33": {
+      "content": "This Startup Pushes Technology Into Schools With Paper and Pen"
+    },
+    "tweet34": {
+      "content": "Is Elon Musk The New Steve Jobs? Bill Gates Says No"
+    },
+    "tweet35": {
+      "content": "ByteDance Plan for U.S. TikTok Company Envisions IPO in a Year"
+    },
+    "tweet36": {
+      "content": "Bytedance Plan for U.S. TikTok Company Envisions IPO in a Year"
+    },
+    "tweet37": {
+      "content": "Trump doesn't want ByteDance to maintain control of TikTok - official"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "[video]5 Thoughts on Microsoft's $7.5 Billion Deal to Buy Bethesda Softworks"
+    },
+    "tweet2": {
+      "content": "Microsoft Will Push to Get Its Game-Streaming Service on Apple's Mobile Platforms"
+    },
+    "tweet3": {
+      "content": "Analyst Report: Microsoft Corporation"
+    },
+    "tweet4": {
+      "content": "The Dow Dropped More Than 500 Points. Why That’s Not as Bad as It Looks."
+    },
+    "tweet5": {
+      "content": "Stock Market Today: Bulls Retreat in Face of Growing Political, Health Risks"
+    },
+    "tweet6": {
+      "content": "Microsoft’s Bethesda Acquisition Paves Way for Netflix of Gaming"
+    },
+    "tweet7": {
+      "content": "Microsoft Bulks Up Video Game Business With Bethesda Acquisition"
+    },
+    "tweet8": {
+      "content": "Trump says TikTok deal 'working its way through'"
+    },
+    "tweet9": {
+      "content": "Why Microsoft’s Purchase of Videogame Maker ZeniMax Looks Smart"
+    },
+    "tweet10": {
+      "content": "The triple-Qs' 50-day moving average set to decline for first time since May 5"
+    },
+    "tweet11": {
+      "content": "Microsoft's Bethesda Buy Beats TikTok Any Day"
+    },
+    "tweet12": {
+      "content": "Dow Jones Tumbles 750 Points; Microsoft Buys Bethesda Softworks; Walmart Stock Vastly Outperforms"
+    },
+    "tweet13": {
+      "content": "Microsoft (COMPANY_X) Has Risen 43% in Last One Year, Outperforms Market"
+    },
+    "tweet14": {
+      "content": "What Microsoft’s $7.5 billion bet on gaming says about its future"
+    },
+    "tweet15": {
+      "content": "Microsoft Bets Big on Gaming with $7.5 Billion ZeniMax Acquisition"
+    },
+    "tweet16": {
+      "content": "Dow Ends Off Lows as Apple Sparks Tech Comeback"
+    },
+    "tweet17": {
+      "content": "Microsoft Pledges to Get Gaming Service on iPhones"
+    },
+    "tweet18": {
+      "content": "Microsoft to Buy Bethesda for $7.5 Billion to Boost Xbox"
+    },
+    "tweet19": {
+      "content": "Micron Technology or NVIDIA: Which One to Buy Right Now?"
+    },
+    "tweet20": {
+      "content": "Here are 35 stocks in the market’s two hottest sectors that Wall Street loves"
+    },
+    "tweet21": {
+      "content": "Microsoft Buys ZeniMax Media, Game Publisher Bethesda Softworks"
+    },
+    "tweet22": {
+      "content": "Microsoft to Buy Game Company ZeniMax Media, Parent of Bethesda Softworks, for $7.5 Billion"
+    },
+    "tweet23": {
+      "content": "Microsoft Agrees To Buy Elder Scrolls Game Maker Zenimax For $7.5 Billion"
+    },
+    "tweet24": {
+      "content": "Microsoft to buy Bethesda Softworks parent ZeniMax Media for $7.5 billion in big bet on gaming"
+    },
+    "tweet25": {
+      "content": "4 Stocks I'll Hold Forever"
+    },
+    "tweet26": {
+      "content": "Microsoft doubles down on gaming with $7.5 billion deal for Doom-owner ZeniMax"
+    },
+    "tweet27": {
+      "content": "Microsoft buys Doom-owner ZeniMax for $7.5 billion"
+    },
+    "tweet28": {
+      "content": "Oracle's 12.5% Stake in Tiktok Global to Rev Up Cloud Market"
+    },
+    "tweet29": {
+      "content": "Microsoft to Acquire ZeniMax Media and Its Game Publisher Bethesda Softworks"
+    },
+    "tweet30": {
+      "content": "Snowflake IPO Shows Investors’ Hunger for a Rarity: True Growth"
+    },
+    "tweet31": {
+      "content": "ByteDance Asserts Control of TikTok and Contests $5 Billion Fee"
+    },
+    "tweet32": {
+      "content": "TikTok Owner Seeking $60 Billion Valuation in U.S. Deal"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "GLOBAL MARKETS-Asian stocks set to gain after Wall Street's tech bounce"
+    },
+    "tweet2": {
+      "content": "Microsoft Guns for Twilio's Business With Launch of Azure Communication Services"
+    },
+    "tweet3": {
+      "content": "U.S. Agencies Warn of Disinformation on Delayed Election Results"
+    },
+    "tweet4": {
+      "content": "Is Adobe Stock A Buy Right Now? Here's What Earnings, ADBE Chart Show"
+    },
+    "tweet5": {
+      "content": "US STOCKS-Wall Street closes higher on Amazon boost, despite economic worries"
+    },
+    "tweet6": {
+      "content": "A ‘Net-Zero’ Portfolio Is a Pipe Dream. Here’s What Investors Can Do Instead to Fight Climate Change."
+    },
+    "tweet7": {
+      "content": "Dow's 162-point jump led by gains for Nike, Microsoft shares"
+    },
+    "tweet8": {
+      "content": "Dow Jones Gains As Nasdaq Leads Way; Housing Stocks Make Constructive Moves"
+    },
+    "tweet9": {
+      "content": "US STOCKS-Wall Street gains on Amazon boost, despite worries over economy"
+    },
+    "tweet10": {
+      "content": "Microsoft (COMPANY_X) to Buy ZeniMax in All-Cash Deal Worth $7.5B"
+    },
+    "tweet11": {
+      "content": "Dow's nearly 100-point climb led by gains for shares of Nike, Microsoft"
+    },
+    "tweet12": {
+      "content": "4 Reasons to be Bullish on Microsoft ETFs Now"
+    },
+    "tweet13": {
+      "content": "The Zacks Analyst Blog Highlights: ORCL, WMT, AMZN, COMPANY_X and ZM"
+    },
+    "tweet14": {
+      "content": "Why Analysts Think Microsoft’s $8 Billion Videogame Acquisition Is a Really Big Deal"
+    },
+    "tweet15": {
+      "content": "Dow Jones Down Slightly as Microsoft Launches New Cloud Services; Walmart+ Forecast Calls for 10 Million Subscribers"
+    },
+    "tweet16": {
+      "content": "Nike, Procter & Gamble share gains lead the way, but Dow flat"
+    },
+    "tweet17": {
+      "content": "Dow Jones Near Breakeven; Nasdaq Leads As Amazon, Microsoft Rally"
+    },
+    "tweet18": {
+      "content": "US STOCKS-Nasdaq, S&P 500 rise on Amazon boost; Dow under pressure"
+    },
+    "tweet19": {
+      "content": "Why Microsoft Paid $7.5 Billion for the Maker of Doom and Fallout"
+    },
+    "tweet20": {
+      "content": "Microsoft, Google up ante in escalating cloud competition"
+    },
+    "tweet21": {
+      "content": "Dow Ends Higher as Tech Strength Rescues Bulls"
+    },
+    "tweet22": {
+      "content": "GameStop Rises on Investor’s Plan to Make It an Amazon Rival"
+    },
+    "tweet23": {
+      "content": "US STOCKS-Nasdaq, S&P 500 edge higher on Amazon boost; Dow under pressure"
+    },
+    "tweet24": {
+      "content": "ETFs to Gain as Microsoft Bets Big on Video Gaming"
+    },
+    "tweet25": {
+      "content": "Microsoft Develops a ‘Virtual Commute’ for Remote Workers"
+    },
+    "tweet26": {
+      "content": "Shell and Microsoft form alliance to help address carbon emissions"
+    },
+    "tweet27": {
+      "content": "AT&T and Microsoft to Streamline Cloud Connectivity for IoT Devices Worldwide"
+    },
+    "tweet28": {
+      "content": "Better Buy: Adobe vs. Microsoft"
+    },
+    "tweet29": {
+      "content": "US STOCKS-Nasdaq, S&P 500 crawl higher on Amazon, Apple boost"
+    },
+    "tweet30": {
+      "content": "T-Mobile Redesigns Small Business Plans With Microsoft 365"
+    },
+    "tweet31": {
+      "content": "Microsoft's Bethesda Buyout to Intensify Console Gaming War"
+    },
+    "tweet32": {
+      "content": "Company News for Sep 22, 2020"
+    },
+    "tweet33": {
+      "content": "5 Things to Know About Oracle and Walmart's TikTok Deal"
+    },
+    "tweet34": {
+      "content": "Morning Bell With Jim Cramer: Trading Tesla on Battery Day"
+    },
+    "tweet35": {
+      "content": "US STOCKS-S&P 500, Nasdaq set to open higher on tech rebound"
+    },
+    "tweet36": {
+      "content": "Snowflake Gets Hit With Sell Rating After Spectacular Debut"
+    },
+    "tweet37": {
+      "content": "GLOBAL MARKETS-Europe breathes easier after second wave wipeouts"
+    },
+    "tweet38": {
+      "content": "3 Absurdly Overvalued Stocks to Avoid During a Market Crash"
+    },
+    "tweet39": {
+      "content": "4 Mutual Funds to Ride the Boom in Artificial Intelligence"
+    },
+    "tweet40": {
+      "content": "Microsoft Cashes in on Gaming Popularity: 4 Stocks to Buy"
+    },
+    "tweet41": {
+      "content": "Warren Buffett Owns One Of Fall's Best Stocks"
+    },
+    "tweet42": {
+      "content": "Tesla’s Battery Day Is Here. Its Stock Is Dropping."
+    },
+    "tweet43": {
+      "content": "The market may have peaked so ‘head for the multiasset hills’ and buy these stocks, says fund manager"
+    },
+    "tweet44": {
+      "content": "US STOCKS-S&P 500, Nasdaq futures rebound after selloff"
+    },
+    "tweet45": {
+      "content": "Microsoft, Google up the ante in escalating cloud competition"
+    },
+    "tweet46": {
+      "content": "Pegatron plans to invest $1 bln in Vietnam plant - state media"
+    },
+    "tweet47": {
+      "content": "Microsoft To Buy Gaming Firm ZeniMax For $7.5 Billion"
+    },
+    "tweet48": {
+      "content": "PRESS DIGEST- New York Times business news - Sept 22"
+    },
+    "tweet49": {
+      "content": "U.S.’s Google Antitrust Suit Nears With Briefing of States"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Dow Jones Dives 400 Points As Selling Ramps Up; Nasdaq Drops Over 2%"
+    },
+    "tweet2": {
+      "content": "Dow Jones Red Despite Big Nike Rally; Nasdaq Drops As Tech Stocks Sell Off"
+    },
+    "tweet3": {
+      "content": "AAP, RCI, COMPANY_X, SNE and NTDOY as Zacks Bull and Bear of the Day"
+    },
+    "tweet4": {
+      "content": "Microsoft at Ignite: Additions to Azure, Teams App and More"
+    },
+    "tweet5": {
+      "content": "The U.S. behaved like a ‘gangster’ to ‘rob’ TikTok from China and Beijing has ‘no reason’ to approve the deal: Chinese media"
+    },
+    "tweet6": {
+      "content": "Microsoft (COMPANY_X) & AT&T Join Forces to Boost IoT Deployment"
+    },
+    "tweet7": {
+      "content": "Shell and Microsoft Embark on New Alliance"
+    },
+    "tweet8": {
+      "content": "Trump administration behaved like a ‘gangster’ to push the U.S. TikTok deal and Beijing has ‘no reason’ to approve it: Chinese media"
+    },
+    "tweet9": {
+      "content": "Viasat to Offer RTE Services to Microsoft Azure Orbital Users"
+    },
+    "tweet10": {
+      "content": "AT&T & Microsoft Extend Tie-Up for Secure IoT Cloud Services"
+    },
+    "tweet11": {
+      "content": "Beijing Has “No Reason” to Approve U.S. TikTok Deal: Chinese Media"
+    },
+    "tweet12": {
+      "content": "GLOBAL MARKETS-Tech lifts stocks as poor data rekindles stimulus hopes"
+    },
+    "tweet13": {
+      "content": "A Deep Dive Into JFrog -- the Tech Company Keeping Your Software Updated"
+    },
+    "tweet14": {
+      "content": "5 Things to Know About Palantir's Upcoming IPO"
+    },
+    "tweet15": {
+      "content": "Microsoft Takes On Amazon With Azure Orbital Space Service"
+    },
+    "tweet16": {
+      "content": "Magic Leap Tried to Create an Alternate Reality. Its Founder Was Already in One"
+    },
+    "tweet17": {
+      "content": "GLOBAL MARKETS-Tech lifts world stocks as economy back in focus"
+    },
+    "tweet18": {
+      "content": "Microsoft Launches Cloud Communications Services To Rival Twilio"
+    },
+    "tweet19": {
+      "content": "Sony slides 2% as Microsoft flashes cash to boost games lineup"
+    },
+    "tweet20": {
+      "content": "Blacklisting U.S. Tech Would Highlight China’s Own Weakness"
+    },
+    "tweet21": {
+      "content": "Microsoft and AT&T Try to Make the Internet of Things Easier"
+    },
+    "tweet22": {
+      "content": "Trump to Meet With State Enforcers Before Expected Google Case"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Amazon Chases Google, Microsoft in the Game-Streaming Market"
+    },
+    "tweet2": {
+      "content": "Microsoft (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet3": {
+      "content": "Stock Market Today 9/24/20: Tech Props up a Tepid Market"
+    },
+    "tweet4": {
+      "content": "Dow Jones Finishes Higher After Weak Jobless Claims Report As Tesla Shows This Bullish Chart Action"
+    },
+    "tweet5": {
+      "content": "Microsoft Bolsters Cloud Offerings With Azure, Teams Enhancements"
+    },
+    "tweet6": {
+      "content": "3 Stocks for Long-Term Investors to Buy Now Despite Market Turmoil"
+    },
+    "tweet7": {
+      "content": "Dow's nearly 50-point jump highlighted by gains in shares of Goldman Sachs, Apple Inc."
+    },
+    "tweet8": {
+      "content": "Microsoft supports commission calling for re-establishment of US cyber czar"
+    },
+    "tweet9": {
+      "content": "Nasdaq Reverses Higher, Tesla Makes Bullish Move; Dow Jones Led By Goldman Sachs, Apple"
+    },
+    "tweet10": {
+      "content": "Dow's 129-point jump highlighted by gains for shares of Goldman Sachs, Coca-Cola"
+    },
+    "tweet11": {
+      "content": "Why IPOs Are Risky"
+    },
+    "tweet12": {
+      "content": "GRAPHIC-'Healthy correction' or something more? Stock swings keep investors on edge"
+    },
+    "tweet13": {
+      "content": "Goldman Sachs, Apple Inc. share gains lead Dow's 286-point rally"
+    },
+    "tweet14": {
+      "content": "Microsoft Doubles Down on Xbox, Launching xCloud in Japan"
+    },
+    "tweet15": {
+      "content": "Dow Jones Roars Back From Big Early Dive As Stocks Shrug Off Jobs Data"
+    },
+    "tweet16": {
+      "content": "Dow jumps 100 points on gains in Goldman Sachs, Apple Inc. stocks"
+    },
+    "tweet17": {
+      "content": "Dow Ends Slightly Higher as Wild Swings Weigh"
+    },
+    "tweet18": {
+      "content": "Cross-Sector: Market Data Highlights"
+    },
+    "tweet19": {
+      "content": "Goldman Sachs, Apple Inc. share gains lead Dow's 30-point jump"
+    },
+    "tweet20": {
+      "content": "3 Stocks to Buy and Hold for the Next 50 Years"
+    },
+    "tweet21": {
+      "content": "Why Microsoft Paid $7.5 Billion for Gaming Wizard ZeniMax"
+    },
+    "tweet22": {
+      "content": "Amdocs, Microsoft, VMware, Other Technology Leaders Join 5G Open Innovation Lab as Founding Partners to Help Start-Ups, Entrepreneurs Develop Groundbreaking 5G Services, Applications"
+    },
+    "tweet23": {
+      "content": "Xbox Targets Mobile Gamers With New Cloud Service in Japan"
+    },
+    "tweet24": {
+      "content": "Tencent's Gaming Business Could Be Trump's Next Target"
+    },
+    "tweet25": {
+      "content": "Dow Jones Futures: Stock Market Sells Off Bearishly; Tesla Extends Battery Day Dive"
+    },
+    "tweet26": {
+      "content": "Can't Get An Xbox Or PlayStation? Score On The Video Game Craze"
+    },
+    "tweet27": {
+      "content": "18 ETFs That Could Help You Send Your Kids to College"
+    },
+    "tweet28": {
+      "content": "Better Hot IPO Stock: Snowflake vs. JFrog"
+    },
+    "tweet29": {
+      "content": "4 Coronavirus Vaccine Stocks the Bill & Melinda Gates Foundation Is Betting On"
+    },
+    "tweet30": {
+      "content": "Beijing authority gets Bytedance application for tech export licence - ministry"
+    },
+    "tweet31": {
+      "content": "Dow Jones Futures Fall After Stock Market Sells Off Bearishly; Tesla Extends Battery Day Dive"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Stock Market Today 9/25/20: Stocks Win the Session but Lose the Week on Growth Fears"
+    },
+    "tweet2": {
+      "content": "Market Recap: Friday, September 25"
+    },
+    "tweet3": {
+      "content": "Boeing, Apple Inc. share gains contribute to Dow's 330-point rally"
+    },
+    "tweet4": {
+      "content": "Dow's 214-point climb led by gains for Boeing, Apple Inc. shares"
+    },
+    "tweet5": {
+      "content": "Nasdaq Soars 150 Points, Fueled By Big Gains For Tesla, Apple, Qualcomm; Boeing Leads Dow Jones"
+    },
+    "tweet6": {
+      "content": "Is QQQ Stock A Buy Right Now? Here's What Earnings, Charts Show"
+    },
+    "tweet7": {
+      "content": "Boeing, Apple Inc. share gains contribute to Dow's 133-point jump"
+    },
+    "tweet8": {
+      "content": "Dow Jones Up 100 Points After Early Dive; Apple, Microsoft Lead Tech Stock Rally"
+    },
+    "tweet9": {
+      "content": "Nasdaq Snaps 3-Week Losing Streak as Apple Restores Tech Health"
+    },
+    "tweet10": {
+      "content": "Dow Jones Comes Back From Early Dive; Apple, Microsoft Lead Tech Stock Rally"
+    },
+    "tweet11": {
+      "content": "Microsoft to Buff Cloud Gaming Service With Japan Launch"
+    },
+    "tweet12": {
+      "content": "How to Navigate This Week’s Market Volatility"
+    },
+    "tweet13": {
+      "content": "Boeing, Apple Inc. share gains contribute to Dow's 60-point jump"
+    },
+    "tweet14": {
+      "content": "Should You Avoid GameStop No Matter How Good the Price?"
+    },
+    "tweet15": {
+      "content": "Google’s Search Business Targeted in U.S. Antitrust Case"
+    },
+    "tweet16": {
+      "content": "Dow Higher on Tech Strength as Yo-Yo Trading Continues"
+    },
+    "tweet17": {
+      "content": "Microsoft Declares War on Twilio With a New Cloud Service"
+    },
+    "tweet18": {
+      "content": "Epic Games buys kid-tech firm SuperAwesome"
+    },
+    "tweet19": {
+      "content": "AMZN Ups Ante Against GOOGL, COMPANY_X & Others in Cloud Gaming"
+    },
+    "tweet20": {
+      "content": "Amazon Unveiled New Hardware at Its Virtual Product Event. Here’s What’s New."
+    },
+    "tweet21": {
+      "content": "Sony, Microsoft Prepare For Cage Match In New Video Game Consoles"
+    },
+    "tweet22": {
+      "content": "Amazon Launches Luna, a Cloud-Based Video Game Service"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Palantir Is Seen Opening for Trading at About $10 a Share. Here’s How It Compares to Other Tech Stocks."
+    },
+    "tweet2": {
+      "content": "Marketing Beer During a Pandemic Isn't Easy"
+    },
+    "tweet3": {
+      "content": "Microsoft gets into 5G race with Azure cloud for telecom operators"
+    },
+    "tweet4": {
+      "content": "Bloomin' Brands, Mesa Laboratories, Intuit, Target and Microsoft highlighted as Zacks Bull and Bear of the Day"
+    },
+    "tweet5": {
+      "content": "The Zacks Analyst Blog Highlights: Amazon, Google, Microsoft, Facebook and Tencent"
+    },
+    "tweet6": {
+      "content": "Gaming, E-Commerce Deals Herald New Age for Polish Tech"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Microsoft Says Russia Behind Most Nation-State Hacking Attempts"
+    },
+    "tweet2": {
+      "content": "Twilio Stock: Analyst Day On Tap As Microsoft Competition Looms"
+    },
+    "tweet3": {
+      "content": "Dow Ends Lower as Bulls Meet Resistance From Energy, Financials"
+    },
+    "tweet4": {
+      "content": "Better Buy: IBM vs. McDonald's"
+    },
+    "tweet5": {
+      "content": "5 Reasons I Bought More Slack After Its Seemingly Disappointing Quarter"
+    },
+    "tweet6": {
+      "content": "Microsoft (COMPANY_X) Azure to Transform 5G Edge Cloud Computing"
+    },
+    "tweet7": {
+      "content": "Microsoft says disruption to Teams, Outlook resolved"
+    },
+    "tweet8": {
+      "content": "BlackBerry's $1.4 Billion Cylance Acquisition Will Continue to Cause Problems"
+    },
+    "tweet9": {
+      "content": "Three UK Migrates Evolving Systems’ Total Number Management (TNM™) to Microsoft Azure in OSS/BSS Transformation Programme"
+    },
+    "tweet10": {
+      "content": "Shell (RDS.A) Unites With Microsoft to Lower Carbon Emissions"
+    },
+    "tweet11": {
+      "content": "Coronavirus, Covid-19 Aid, Microsoft, Micron - 5 Things You Must Know Tuesday"
+    },
+    "tweet12": {
+      "content": "Apple's App Store Now Faces a Coalition of High-Profile Rebels"
+    },
+    "tweet13": {
+      "content": "Hot-Desking Is a Good Way to Lose Your Best Staff"
+    },
+    "tweet14": {
+      "content": "Here's When Bill Gates Thinks the Coronavirus Pandemic Will End"
+    },
+    "tweet15": {
+      "content": "Microsoft’s Bing Will Have Key Slot on Some New Android Phones"
+    },
+    "tweet16": {
+      "content": "Microsoft’s Office 365 Back From Outage Lasting Several Hours"
+    },
+    "tweet17": {
+      "content": "Microsoft 365 outage affects multiple services"
+    },
+    "tweet18": {
+      "content": "4 Underrated Tech Stocks"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

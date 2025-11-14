@@ -1,0 +1,781 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "Verizon enables distance learning for up to 150,000 South Carolina students"
+    },
+    "tweet2": {
+      "content": "Goldman Sachs Comes Up With Tinder for Mergers"
+    },
+    "tweet3": {
+      "content": "Verizon customers will be able to take the power of 5G global"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "3 Stocks That Are Absurdly Cheap Right Now"
+    },
+    "tweet2": {
+      "content": "Exxon Mobil, McDonald's share gains contribute to Dow's nearly 75-point climb"
+    },
+    "tweet3": {
+      "content": "5G Stocks To Buy And Watch: 5G Smartphones Sales Rise, Apple Still To Come"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Verizon Response: Tropical Storm Isaias"
+    },
+    "tweet2": {
+      "content": "Coming to Verizon: Samsung’s next-generation of 5G Ultra Wideband Galaxy phones and tablets"
+    },
+    "tweet3": {
+      "content": "Verizon partners with Todoist to support students and teachers as they get ready for the school year"
+    },
+    "tweet4": {
+      "content": "Verizon Ventures leads €4 Million Series A financing round in PICadvanced"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "T-Mobile Posts Huge Subscriber Gain in Its First Quarter With Sprint"
+    },
+    "tweet2": {
+      "content": "T-Mobile shares rally after claim of No. 2 phone spot over AT&T"
+    },
+    "tweet3": {
+      "content": "Yahoo Finance Presents: Verizon Business EVP & CEO Tami Erwin"
+    },
+    "tweet4": {
+      "content": "Cross-Sector: Market Data Highlights"
+    },
+    "tweet5": {
+      "content": "Verizon and AWS Deliver Mobile Edge Computing to Customers in Boston and the Bay Area"
+    },
+    "tweet6": {
+      "content": "Vodafone Looks to Recharge Its Growth. What That Means for the Stock."
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "T-Mobile Stock Pops On Earnings, Updated Outlook On Sprint Merger"
+    },
+    "tweet2": {
+      "content": "Is T-Mobile Stock A Buy? With Sprint Deal Done, Execution And 5G Are Key"
+    },
+    "tweet3": {
+      "content": "T-Mobile Stock Hits a Record High After Its First Quarter With Sprint. Here’s What Analysts Are Saying."
+    },
+    "tweet4": {
+      "content": "T-Mobile Says It's Overtaken AT&T for No. 2 Carrier Spot"
+    },
+    "tweet5": {
+      "content": "T-Mobile Claims It Beat AT&T To Become Second Largest US Wireless Carrier In Q2"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Synchronoss Technologies Inc (SNCR) Q2 2020 Earnings Call Transcript"
+    },
+    "tweet2": {
+      "content": "How Infinera's Stock Rose 33% in July"
+    },
+    "tweet3": {
+      "content": "Verizon to speak at Cowen Communications Infrastructure Summit August 11, 2020"
+    },
+    "tweet4": {
+      "content": "United States Cellular Corporation -- Moody's assigns Ba1 to US Cellular unsecured notes"
+    },
+    "tweet5": {
+      "content": "Super Hero wanted: Verizon customers get early chance to play Marvel’s Avengers"
+    },
+    "tweet6": {
+      "content": "Why the Founding Fathers would want us all to have fast Internet"
+    },
+    "tweet7": {
+      "content": "A Big Fund Manager Sold Berkshire, Verizon and GE Stock. It Bought This Chip Stock."
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Verizon to speak at Oppenheimer Conference August 12"
+    },
+    "tweet2": {
+      "content": "PRESS DIGEST- New York Times business news - Aug 11"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Verizon Owner Trust 2020-B -- Moody's assigns definitive ratings to Verizon Owner Trust 2020-B Notes"
+    },
+    "tweet2": {
+      "content": "Will Telecom ETFs Gain Despite Mixed Q2 Earnings?"
+    },
+    "tweet3": {
+      "content": "U.S court upholds FCC cap on 5G small cell fees in win for wireless carriers"
+    },
+    "tweet4": {
+      "content": "Microsoft Surface Duo Phone Goes on Sale Starting at $1,399"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Buy Verizon for Value and Income"
+    },
+    "tweet2": {
+      "content": "Cross-Sector: Market Data Highlights"
+    },
+    "tweet3": {
+      "content": "Verizon Business to create next-generation global network infrastructure for Bayer"
+    },
+    "tweet4": {
+      "content": "Verizon introduces hyper-precise location services, advancing road safety, autonomous technology"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Unusual Options Activity Insight: Verizon Communications"
+    },
+    "tweet2": {
+      "content": "Verizon (COMPANY_X) to Augment Bayer's Global Network Capabilities"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "Verizon adds Hulu, ESPN+, Disney+ bundle to some cell plans"
+    },
+    "tweet2": {
+      "content": "Verizon adds free Hulu and ESPN+ to some unlimited wireless plans"
+    },
+    "tweet3": {
+      "content": "Dow Jones Loses Ground Ahead of Home Depot Earnings; Disney Expands Verizon Streaming Partnership"
+    },
+    "tweet4": {
+      "content": "Verizon Offers Free 12-Month Disney+ Bundle"
+    },
+    "tweet5": {
+      "content": "Verizon unlocks more value for customers with Disney+, Hulu, and ESPN+ included"
+    },
+    "tweet6": {
+      "content": "Verizon Giving Away Free Bundle of Disney Plus, Hulu, ESPN Plus to Some Unlimited Wireless Customers"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Telecom giants race to bundle streaming apps with cell plans"
+    },
+    "tweet2": {
+      "content": "Verizon Offers Bundled Plans for Improved Customer Connect"
+    },
+    "tweet3": {
+      "content": "Column: Protecting your privacy shouldn't be this hard. Here's a better idea"
+    },
+    "tweet4": {
+      "content": "3 Cheap Tech Stocks to Buy Right Now"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Verizon Signs Sponsorship Deal With Amazon.com's Twitch Rivals"
+    },
+    "tweet2": {
+      "content": "Verizon becomes exclusive 5G partner of Twitch Rivals;  will help shape the future of gaming"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Massachusetts and Verizon enable distance learning for 4.7M more students"
+    },
+    "tweet2": {
+      "content": "Texas Education Agency and Verizon enable distance learning for 18.9M students in 16 states"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Telecom Stock Roundup: Verizon Unlocks Value, Nokia Offers Automated Solution & More"
+    },
+    "tweet2": {
+      "content": "Verizon 5G Ultra Wideband network brings unique experience to Indy 500 fans at home"
+    },
+    "tweet3": {
+      "content": "Verizon’s network stands ready to handle extreme heat, rolling power outages and wildfires"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Verizon Is Giving Disney's Streaming a Boost"
+    },
+    "tweet2": {
+      "content": "Investors Aren't Buying Verizon Communications Inc.'s (NYSE:COMPANY_X) Earnings"
+    },
+    "tweet3": {
+      "content": "Verizon stands ready as storms approach the Gulf Coast"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Why American Outdoor Brands Stock Just Dropped 11%"
+    },
+    "tweet2": {
+      "content": "Verizon paves way for wide-scale 5G mobile edge compute with first successful end-to-end fully virtualized 5G data session in the world"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Verizon completes fully virtualized 5G data session"
+    },
+    "tweet2": {
+      "content": "Verizon Advances Virtualization Technology in 5G Networks"
+    },
+    "tweet3": {
+      "content": "Verizon Response:  unlimited call/text/data for customers in Hurricane Laura’s Path"
+    },
+    "tweet4": {
+      "content": "Verizon signs new Renewable Energy Purchase Agreements bringing total to 840 MW of renewable energy"
+    },
+    "tweet5": {
+      "content": "Verizon completes final allocation of its first Green Bond"
+    },
+    "tweet6": {
+      "content": "Verizon Expands Education Initiatives to Provide Millions of Students Nationwide with Distance Learning Resources"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Verizon Foundation commits $1 million to Hurricane Laura relief efforts"
+    },
+    "tweet2": {
+      "content": "Verizon Response: Update following Hurricane Laura’s Landfall"
+    },
+    "tweet3": {
+      "content": "Telecom Stock Roundup: VIAV Buys Expandium, COMPANY_X Offers Live 5G Data Session & More"
+    },
+    "tweet4": {
+      "content": "3 Stocks to Buy Ahead of the Next Market Crash"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Top Stock Reports for Verizon, Novartis & Abbott"
+    },
+    "tweet2": {
+      "content": "Hedge Funds Done Buying Verizon Communications Inc. (COMPANY_X)"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Verizon Communications (COMPANY_X) Gains As Market Dips: What You Should Know"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Verizon Communications, Novartis, Abbott Laboratories, AT&T, Intuitive Surgical and Northrop Grumman"
+    },
+    "tweet3": {
+      "content": "Better Buy: General Electric vs. Verizon"
+    },
+    "tweet4": {
+      "content": "Verizon provides expanded connectivity to Navajo Nation to aid in Covid-19 response"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Visible teams up with the Red Rocks Amphitheatre for 'Red Rocks Unpaused' virtual concert series"
+    },
+    "tweet2": {
+      "content": "Zoom stock has surged nearly 400% — is it time to buy, hold or run away?"
+    },
+    "tweet3": {
+      "content": "Verizon announces availability of innovative new Samsung Galaxy Z Fold2 5G and Tab S7 5G series"
+    },
+    "tweet4": {
+      "content": "Verizon Media teams with Broadsign to extend programmatic omnichannel offering"
+    },
+    "tweet5": {
+      "content": "AT&T vs Verizon: Which Telecom Giant Has More Upside Potential?"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Verizon Racks Up $1.9 Billion in Wins in Latest 5G Bandwidth Auction"
+    },
+    "tweet2": {
+      "content": "Dow's 313-point rally led by gains in Coca-Cola, IBM stocks"
+    },
+    "tweet3": {
+      "content": "Verizon Sued by Dissident Claiming Yahoo Ties to China Crackdown"
+    },
+    "tweet4": {
+      "content": "Federal Lawsuit Claims Yahoo Management's Secret Pact with China Supported Torture, Imprisonment of Pro-Democracy Activists"
+    },
+    "tweet5": {
+      "content": "Verizon has $1.9 billion in winning bids in 3.5 GHz spectrum auction -- FCC"
+    },
+    "tweet6": {
+      "content": "DISH Media partners with Verizon Media to automate addressable advertising"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Analyst Report: Verizon Communications Inc."
+    },
+    "tweet2": {
+      "content": "Verizon Raises Its Dividend; New Yield Is 4.2%"
+    },
+    "tweet3": {
+      "content": "The Latest 5G Spectrum Auction Is Done. Here’s What Verizon, Dish, and Cable Companies Bought."
+    },
+    "tweet4": {
+      "content": "Verizon boosts dividend, analysts digest results of latest spectrum auction"
+    },
+    "tweet5": {
+      "content": "Verizon increases dividend for 14th consecutive year"
+    },
+    "tweet6": {
+      "content": "What Silicon Valley still doesn't understand about its diversity problem"
+    },
+    "tweet7": {
+      "content": "'Fast Money' Traders Weigh In On Verizon And NetApp"
+    },
+    "tweet8": {
+      "content": "Verizon advances 5G network and cyber security"
+    },
+    "tweet9": {
+      "content": "Verizon Achieves Milestone in Future-Proofing Data from Hackers"
+    },
+    "tweet10": {
+      "content": "Verizon's Debt Overview"
+    },
+    "tweet11": {
+      "content": "What Does 5G Demand In China, South Korea Mean For Apple's iPhone Launch?"
+    },
+    "tweet12": {
+      "content": "Indian shares up after services activity survey"
+    },
+    "tweet13": {
+      "content": "Amazon, Verizon Look To Join Facebook, Google, Intel In Indian Telco Frenzy With $4B Investment: Report"
+    },
+    "tweet14": {
+      "content": "India's Vodafone Idea says board has no proposal from Amazon, Verizon"
+    },
+    "tweet15": {
+      "content": "Verizon, Amazon may invest over $4 billion in Vodafone Idea - report"
+    },
+    "tweet16": {
+      "content": "Verizon, Amazon may invest over $4 bln in India's Vodafone Idea -report"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "These 3 Value Stocks Are Absurdly Cheap Right Now"
+    },
+    "tweet2": {
+      "content": "How 5G Cord-Cutting Could Help Verizon Eat Cable's Lunch"
+    },
+    "tweet3": {
+      "content": "Looking Into Verizon Communications's Return On Capital Employed"
+    },
+    "tweet4": {
+      "content": "Verizon (COMPANY_X) Rewards Shareholders With 2% Dividend Hike"
+    },
+    "tweet5": {
+      "content": "Spanish soccer league's TV ad revenue rises as fans watch remotely"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Verizon to speak at Media, Communications & Entertainment Conference September 9"
+    },
+    "tweet2": {
+      "content": "Verizon offers Marvel’s Avengers to new customers, skins to existing customers"
+    },
+    "tweet3": {
+      "content": "These 3 Stocks Just Raised Their Dividends"
+    },
+    "tweet4": {
+      "content": "Verizon recognized as leader in Managed SD WAN Services Worldwide in IDC MarketScape report"
+    },
+    "tweet5": {
+      "content": "Verizon has America’s best network in the first RootMetrics testing to include 5G"
+    },
+    "tweet6": {
+      "content": "U.S. Group Verizon and South Korea&#8217;s Samsung Electronics Sign $6.65 Billion 5G Deal"
+    },
+    "tweet7": {
+      "content": "Market Digest: VTR, COMPANY_X"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Verizon Communications (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Motorola's 5G Foldable Razr Adds Better Cameras and Processor, Costs Less"
+    },
+    "tweet3": {
+      "content": "NFL Free Live-Streaming Games on Yahoo Sports Will Have ‘Watch Together’ Feature"
+    },
+    "tweet4": {
+      "content": "New Inseego 5G MiFi hotspot delivers breakthrough performance on Verizon 5G Ultra Wideband network"
+    },
+    "tweet5": {
+      "content": "New Inseego 5G MiFi® Hotspot Delivers Breakthrough Performance on Verizon 5G Ultra Wideband Network"
+    },
+    "tweet6": {
+      "content": "3 Tech Stocks to Buy After the Nasdaq Falls into Correction Territory"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Verizon Response: Unlimited call/text/data for customers impacted by Oregon wildfires"
+    },
+    "tweet2": {
+      "content": "UCTT, MTN, LRCX, COMPANY_X and AMAT as Zacks Bull and Bear of the Day"
+    },
+    "tweet3": {
+      "content": "It’s time to better identify the cost of cybersecurity risks in M&A deals"
+    },
+    "tweet4": {
+      "content": "CTA Moves Dates for CES 2021 Digital-Only Conference, Verizon Chief Hans Vestberg to Keynote on 5G"
+    },
+    "tweet5": {
+      "content": "Telecom Stock Roundup: Verizon-Samsung Ink Deal, Ericsson Powers 5G in Spain"
+    },
+    "tweet6": {
+      "content": "Verizon enables distance learning for up to 1.7M students in Oregon and Washington"
+    },
+    "tweet7": {
+      "content": "Verizon (COMPANY_X) Offers Inseego MiFi Hotspot on its 5G Network"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Jane Fraser Breaks Citi’s Glass Ceiling as Its New CEO"
+    },
+    "tweet2": {
+      "content": "Jill Fraser Breaks Citi’s Glass Ceiling as Its New CEO"
+    },
+    "tweet3": {
+      "content": "Eleven U.S. senators urge internet providers to aid student online schooling"
+    },
+    "tweet4": {
+      "content": "Samsung touts 'best salesman' Lee's role in $6.6 billion Verizon deal as trial looms"
+    },
+    "tweet5": {
+      "content": "Samsung touts 'best salesman' Lee's role in $6.6 billion Verizon deal as trial looms"
+    },
+    "tweet6": {
+      "content": "Samsung touts 'best salesman' Lee's role in $6.6 billion Verizon deal as trial looms"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Verizon To Acquire Prepaid Wireless Firm Tracfone From America Movil"
+    },
+    "tweet2": {
+      "content": "Verizon Response: Hurricane Sally"
+    },
+    "tweet3": {
+      "content": "Things Look Less Dim for Verizon Communications After Acquisition"
+    },
+    "tweet4": {
+      "content": "Dow Jones Surges Almost 400 Points Following Major Tech Deals"
+    },
+    "tweet5": {
+      "content": "Verizon launches Verizon Latino, a Latin music destination on Apple Music"
+    },
+    "tweet6": {
+      "content": "GRAPHIC-Tech leads crisis-driven M&A boom with $350 billion deal rush"
+    },
+    "tweet7": {
+      "content": "TikTok Is Still Growing Faster than Facebook and Snapchat"
+    },
+    "tweet8": {
+      "content": "Verizon Is Paying $6.3 Billion for TracFone. How the Deal Is a Strategy Shift for Verizon."
+    },
+    "tweet9": {
+      "content": "The Paley Center for Media Strikes Historic Deal with Verizon"
+    },
+    "tweet10": {
+      "content": "This Merger Monday Is Nothing to Cheer About"
+    },
+    "tweet11": {
+      "content": "Verizon Buys Tracfone From America Movil for $6.25 Billion"
+    },
+    "tweet12": {
+      "content": "Analyst Report: Verizon Communications Inc."
+    },
+    "tweet13": {
+      "content": "Verizon to buy pre-paid mobile service Tracfone in $6.25 billion deal"
+    },
+    "tweet14": {
+      "content": "Verizon to Buy Prepaid Phone Provider TracFone for $6.25 Billion"
+    },
+    "tweet15": {
+      "content": "Return On Capital Employed Overview: Verizon Communications"
+    },
+    "tweet16": {
+      "content": "Verizon Buying TracFone Wireless for Up to $6.9 Billion"
+    },
+    "tweet17": {
+      "content": "Verizon to buy wireless services provider Tracfone in $6.25 bln deal"
+    },
+    "tweet18": {
+      "content": "Verizon to buy Tracfone in a cash, stock deal that could be worth up to $6.9 billion"
+    },
+    "tweet19": {
+      "content": "Verizon to acquire Tracfone"
+    },
+    "tweet20": {
+      "content": "Verizon to speak at Goldman Sachs Communacopia Conference September 15"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Verizon Communications (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "The M&A surge: Is it rational exuberance or a frenzy before the market falls?"
+    },
+    "tweet3": {
+      "content": "Verizon to Buy Tracfone: ETFs in Focus"
+    },
+    "tweet4": {
+      "content": "Comcast Has an Advantage as Big Tech and Media Continue to Converge, CEO Says"
+    },
+    "tweet5": {
+      "content": "Verizon Is Spending Nearly $7 Billion to Bolster Its Prepaid Business"
+    },
+    "tweet6": {
+      "content": "Verizon’s Future Is All About 5G. CEO Hans Vestberg Explains How."
+    },
+    "tweet7": {
+      "content": "‘Speed of Thought’ documentary highlights first wave of 5G visionaries"
+    },
+    "tweet8": {
+      "content": "Verizon Inks Deal to Buy TracFone, Eyes Value Mobile Segment"
+    },
+    "tweet9": {
+      "content": "Verizon Media brings premium, unified demand to publishers with OTT Smart Auction"
+    },
+    "tweet10": {
+      "content": "Delta Burns Through $27 Million a Day, and Two More Numbers to Know"
+    },
+    "tweet11": {
+      "content": "Verizon To Buy America Movil’s TracFone In $6.25B Deal"
+    },
+    "tweet12": {
+      "content": "RPT-GRAPHIC-Tech leads crisis-driven M&A boom with $350 billion deal rush"
+    },
+    "tweet13": {
+      "content": "Verizon to Acquire America Movil&#8217;s Tracfone For Up To $6.9 Billion; Target Price $70"
+    },
+    "tweet14": {
+      "content": "America Movil, S.A.B. de C.V. -- Moody's says Verizon's $6.25 billion acquisition of Tracfone does not impact ratings or positive outlook"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Verizon prices second Green Bond"
+    },
+    "tweet2": {
+      "content": "3 Reasons Verizon's Tracfone Acquisition Is Brilliant"
+    },
+    "tweet3": {
+      "content": "Verizon, Corning and Samsung complete trials of new indoor cell sites to extend 5G coverage"
+    },
+    "tweet4": {
+      "content": "Verizon Media Launches New Platform Capabilities Designed To Evolve The Live Streaming Experience"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Verizon Is Issuing Another ‘Green Bond.’ Here’s How It Will Be Used."
+    },
+    "tweet2": {
+      "content": "T-Mobile Is ‘Way Out in Front for the 5G Era,’ Says Its CEO. Wall Street Agrees."
+    },
+    "tweet3": {
+      "content": "Cross-Sector: Market Data Highlights"
+    },
+    "tweet4": {
+      "content": "Facebook Focuses on Small Businesses, Ignores Celebrity Pause"
+    },
+    "tweet5": {
+      "content": "Verizon expands connected device plans with Unlimited Plus; simplifies connected smartwatch options"
+    },
+    "tweet6": {
+      "content": "US Wireless Providers and Consumer Brands Go Live with ZenKey"
+    },
+    "tweet7": {
+      "content": "DOJ Indicts Chinese Hackers for Break-Ins at 100 Companies"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Verizon Foundation commits $300,000 to West Coast wildfires and Hurricane Sally relief efforts"
+    },
+    "tweet2": {
+      "content": "How long will the Silicon Valley employees who can’t work from home keep getting paid?"
+    },
+    "tweet3": {
+      "content": "Ericsson Wants to be the Carriers’ Qualcomm in 5G Race"
+    },
+    "tweet4": {
+      "content": "Verizon expands relationship with Amazon"
+    },
+    "tweet5": {
+      "content": "Huawei Ban Spurs New Competition for Ericsson, Nokia"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Verizon Communications (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Verizon announces separate private exchange offers for (i) 7 series of notes for up to $750 million of new notes and (ii) 10 series of notes for up to $2 billion of new notes and, if applicable, cash"
+    },
+    "tweet3": {
+      "content": "Verizon says ‘NO’ to more than 7 billion robocalls and counting"
+    },
+    "tweet4": {
+      "content": "Verizon Convenes Second Citizen Verizon Assembly: Education is Not Up for Debate"
+    },
+    "tweet5": {
+      "content": "Daily Spotlight: Largest Owners of U.S. Debt"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "We Like These Underlying Trends At Verizon Communications (NYSE:COMPANY_X)"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Permissive 10-digit dialing to begin in Pennsylvania’s 814 Area Code"
+    },
+    "tweet2": {
+      "content": "Verizon deploys remote network-connected drone during Big Hollow Wildfire"
+    },
+    "tweet3": {
+      "content": "Verizon Communications to report earnings October 21, 2020"
+    },
+    "tweet4": {
+      "content": "Samsung Galaxy S20 FE 5G UW brings fan-favorite features to Verizon customers"
+    },
+    "tweet5": {
+      "content": "Verizon, AWS Bring 5G Mobile Edge Computing to 3 More Cities"
+    },
+    "tweet6": {
+      "content": "The New Digital Workplace - Overcoming the Limits of Time and Place"
+    },
+    "tweet7": {
+      "content": "2 High-Yield Dividend Stocks I'd Buy Right Now"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "BlueJeans Streamlines Back-to-Office Planning with Cloud Video Interop for Microsoft Teams"
+    },
+    "tweet2": {
+      "content": "Bull Case Isn’t Broken For Nokia Stock, But Tread Carefully"
+    },
+    "tweet3": {
+      "content": "Better Buy: Verizon Communications vs. Coca-Cola"
+    },
+    "tweet4": {
+      "content": "3 Stocks to Buy and Hold for the Next 50 Years"
+    },
+    "tweet5": {
+      "content": "Samsung signs up Verizon as first customer for indoor 5G gear"
+    },
+    "tweet6": {
+      "content": "Verizon commits $1 million to We Mean Business coalition to help scale climate action"
+    },
+    "tweet7": {
+      "content": "Is Verizon Stock a Buy?"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Verizon Named Official 5G Partner of the National Hockey League"
+    },
+    "tweet2": {
+      "content": "The #MeToo movement ‘blew up’ the way Hollywood operates: Jessica Alba"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Verizon Communications (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Top Analyst Reports for P&G, Verizon & Thermo Fisher"
+    },
+    "tweet3": {
+      "content": "Is T-Mobile Stock a Buy?"
+    },
+    "tweet4": {
+      "content": "Is T-Mobile Stock a Buy?"
+    },
+    "tweet5": {
+      "content": "Microsoft gets into 5G race with Azure cloud for telecom operators"
+    },
+    "tweet6": {
+      "content": "5 Reasons to Invest in Dividend-Paying Stocks for Retirement"
+    },
+    "tweet7": {
+      "content": "Verizon's BlueJeans Offers Upgraded Back-to-Office Features"
+    },
+    "tweet8": {
+      "content": "Verizon Business Survey Finds 55% of Small Businesses Concerned About Survival Amid Social Distancing Regulations"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "U.S. expected to sue Google next week as DOJ seeks support from states"
+    },
+    "tweet2": {
+      "content": "FOCUS-Touchless lattes and self-service kiosks: office break rooms go virus-proof"
+    },
+    "tweet3": {
+      "content": "Verizon Global Funding Corp. -- Moody's announces completion of a periodic review of ratings of Verizon Communications Inc."
+    },
+    "tweet4": {
+      "content": "P/E Ratio Insights for Verizon Communications"
+    },
+    "tweet5": {
+      "content": "Verizon first to carry awesome dual-screen LG Wing; preorders start October 1"
+    },
+    "tweet6": {
+      "content": "Yahoo Finance Announces All-Star Lineup for First-Ever Virtual “All Markets Summit: Road to Recovery” on Monday, October 26th at 9AM ET Hosted Live from the Nasdaq MarketSite"
+    },
+    "tweet7": {
+      "content": "Verizon expands 5G Home Internet to Minneapolis & St. Paul customers; offers cutting-edge equipment"
+    },
+    "tweet8": {
+      "content": "Hello Alice Reignites &quot;Business for All Campaign&quot; Through Funding and Mentorship for Thousands of Small Business Owners"
+    },
+    "tweet9": {
+      "content": "The Zacks Analyst Blog Highlights: Procter & Gamble, Verizon, Thermo Fisher Scientific, Nvidia and Nike"
+    },
+    "tweet10": {
+      "content": "Nokia wins 5G radio equipment contract from Britain's BT"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "How to Supercharge Your Verizon Stock Dividend"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "12 5G Stocks to Buy for Election-Proof Results"
+    },
+    "tweet2": {
+      "content": "3 5G Stocks to Buy After the Market Pullback"
+    },
+    "tweet3": {
+      "content": "Nokia Stock Won’t Escape Geopolitics Forever"
+    },
+    "tweet4": {
+      "content": "Verizon Stock Seems To Have Peaked After Its 20% Recovery"
+    }
+  }
+}

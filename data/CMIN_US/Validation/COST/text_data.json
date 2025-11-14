@@ -1,0 +1,625 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "Beyond Meat is heading to Sam's Club and BJ's Wholesale"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Beyond Meat Earnings Mixed As Pandemic Hits Restaurant Sales"
+    },
+    "tweet2": {
+      "content": "Costco, IBD Stock Of The Day, Clears New Buy Point Ahead Of Key News"
+    },
+    "tweet3": {
+      "content": "Beyond Meat beats quarterly sales estimates as retail sales surge"
+    },
+    "tweet4": {
+      "content": "Beyond Meat Earnings Due Late As It Expands In These New Stores"
+    },
+    "tweet5": {
+      "content": "Costco Clears New Buy Point"
+    },
+    "tweet6": {
+      "content": "Clorox CEO: My successor is ready to go"
+    },
+    "tweet7": {
+      "content": "Costco Reports July Sales on Tomorrow. Here’s What to Expect."
+    },
+    "tweet8": {
+      "content": "3 Top Stocks to Recession-Proof Your Portfolio"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "10 Biggest Retail Companies"
+    },
+    "tweet2": {
+      "content": "Costco stock advances after hours as July sales rise 14%"
+    },
+    "tweet3": {
+      "content": "Costco Wholesale Corporation Reports July Sales Results"
+    },
+    "tweet4": {
+      "content": "Walmart Stock Slips As It Delays Amazon Prime Competitor Once Again"
+    },
+    "tweet5": {
+      "content": "Top Research Reports for Alphabet, NVIDIA & Costco"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Costco Stock Gains After Same-Store Sales Climbed Again in July"
+    },
+    "tweet2": {
+      "content": "Costco Stock Seen As Short- And Long-Term Winner As Sales Crush Views"
+    },
+    "tweet3": {
+      "content": "Coronavirus: Sonos CEO sees $800 smart speaker sales soar during the pandemic"
+    },
+    "tweet4": {
+      "content": "Costco’s more affluent customers helped prevent the sales slowdown that other major retailers saw in July, analysts say"
+    },
+    "tweet5": {
+      "content": "Kodak Was One of America’s Most Important Companies. Its Recent Gains Only Highlight How Far It Fell."
+    },
+    "tweet6": {
+      "content": "Costco Reports Strong July Sales"
+    },
+    "tweet7": {
+      "content": "The Zacks Analyst Blog Highlights: Google, NVIDIA, Costco, Gilead Sciences and Morgan Stanley"
+    },
+    "tweet8": {
+      "content": "Costco July Sales Rise 13% As Shoppers Go Online; Top Analyst Ramps Up PT"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Costco (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Hostess CEO: Our employees are developing products in their home kitchens"
+    },
+    "tweet3": {
+      "content": "Once-Stuck Kroger Stock Gets Out of First Gear as Essential During Virus"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Dow Jones Jumps 275 Points On Trump Executive Orders; Apple Gets Price-Target Hikes, While Nike Is Breaking Out Today"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Casper CEO: 'We are marching our way into profitability very quickly'"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Is Costco Still a Buy After Rising 16% This Year?"
+    },
+    "tweet2": {
+      "content": "Gasoline Demand On the Rise in the Waning Days of Summer"
+    },
+    "tweet3": {
+      "content": "Amazon descending onto malls is the logical next step: National Retail Federation chair"
+    },
+    "tweet4": {
+      "content": "Better Buy: Disney vs. Costco"
+    },
+    "tweet5": {
+      "content": "Unusual Options Activity Insight: Costco Wholesale"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Costco (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Joe Biden's tax policy puts these 16 consumer company stocks at risk: Goldman Sachs"
+    },
+    "tweet3": {
+      "content": "ROCE Insights For Costco Wholesale"
+    },
+    "tweet4": {
+      "content": "Better Buy: Costco vs. BJ's Wholesale"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "A Look Into Costco Wholesale's Debt"
+    },
+    "tweet2": {
+      "content": "Buy the Dip Because BigCommerce Stock Is a Winner"
+    },
+    "tweet3": {
+      "content": "Reliable Home Depot Stock Isn’t About to Lose Its Reputation"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "$21 Million Judgment Against Costco for Fake Tiffany Rings Overturned"
+    },
+    "tweet2": {
+      "content": "Trending Market News Monday: Pizza Hut and SoCal Edison"
+    },
+    "tweet3": {
+      "content": "Court Tosses Tiffany & Co. Judgment Against Costco"
+    },
+    "tweet4": {
+      "content": "Warren Buffett Probably Didn’t Buy Barrick Gold. Its Stock Is Surging Anyway."
+    },
+    "tweet5": {
+      "content": "U.S. appeals court voids Tiffany's judgment against Costco over fake 'Tiffany' rings"
+    },
+    "tweet6": {
+      "content": "Court throws out Tiffany's judgment against Costco over fake 'Tiffany' rings"
+    },
+    "tweet7": {
+      "content": "Why you may not be able to buy things you really want this holiday season"
+    },
+    "tweet8": {
+      "content": "WALMART EARNINGS PREVIEW: Strong sales growth expected because Walmart is 'unlike other retailers'"
+    },
+    "tweet9": {
+      "content": "Got $1,500? Here Are 3 of the Safest Stocks to Buy Now"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Why retail stocks deserve to be battered"
+    },
+    "tweet2": {
+      "content": "3 Reasons Why Growth Investors Shouldn't Overlook Costco (COMPANY_X)"
+    },
+    "tweet3": {
+      "content": "BIG or COMPANY_X: Which Is the Better Value Stock Right Now?"
+    },
+    "tweet4": {
+      "content": "Costco Wholesale (NASDAQ:COMPANY_X) Has A Pretty Healthy Balance Sheet"
+    },
+    "tweet5": {
+      "content": "Coronavirus stimulus: Walmart just raised a red flag to bumbling lawmakers"
+    },
+    "tweet6": {
+      "content": "2 Warren Buffett Stocks Worth Buying Now"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Costco (COMPANY_X) Gains As Market Dips: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Walmart could deal a big blow to Amazon if this new service launches soon: analyst"
+    },
+    "tweet3": {
+      "content": "Amazon Wins Loyal Walmart Shoppers as Americans Stampede Online"
+    },
+    "tweet4": {
+      "content": "Better Buy: Costco Wholesale vs. Walmart"
+    },
+    "tweet5": {
+      "content": "Target reports stellar Q2 earnings results  — one for the record books"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "There Are Plenty of Reasons to Buy Costco Stock. More Stores Is the Latest."
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "BJ's Wholesale Club Can Keep Climbing Higher on the Charts"
+    },
+    "tweet2": {
+      "content": "Costco Is Expensive but it May Be Worthwhile"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "Second-Quarter Dividends Plunged 22%, the Biggest Drop Since 2009"
+    },
+    "tweet2": {
+      "content": "Global Stock Dividends Fell 22% in the Second Quarter. Here’s Where the Worst Declines Happened."
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Costco (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "COVID-19-related consumer needs are turning Best Buy into an essential retailer, analysts say"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Starbucks, Dunkin' in the clear as California judge tosses suit alleging coffee-cancer link"
+    },
+    "tweet2": {
+      "content": "Buy Costco Stock in Bulk, but Make Sure It’s From the Right Aisle"
+    },
+    "tweet3": {
+      "content": "Costco Wholesale Commits $25 Million to LISC's Black Economic Development Fund"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Costco (COMPANY_X) Stock Moves -0.2%: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Hedge Funds Are Dumping Costco Wholesale Corporation (COMPANY_X)"
+    },
+    "tweet3": {
+      "content": "Warren Buffett is still being sent cheeseballs from Utz CEO — Here's why"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Costco Rival Boxed Could Go Public or Sell Itself, Sources Say"
+    },
+    "tweet2": {
+      "content": "Better Buy: Costco vs. Best Buy"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Costco e-commerce sales up 101% in August"
+    },
+    "tweet2": {
+      "content": "Costco Reports Another Month of Double-Digit Sales Growth In August"
+    },
+    "tweet3": {
+      "content": "Costco’s releases August sales report, sees net sales increase 15% y/y"
+    },
+    "tweet4": {
+      "content": "Costco’s monthly sales jump 15% to $13.56 billion"
+    },
+    "tweet5": {
+      "content": "Costco Wholesale Corporation Reports August Sales Results"
+    },
+    "tweet6": {
+      "content": "Costco to release August sales results "
+    },
+    "tweet7": {
+      "content": "Costco Reports August Sales Today. Here’s What to Expect."
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Discount Chains Show Pandemic Widening Retail Haves, Have-Nots"
+    },
+    "tweet2": {
+      "content": "Costco Sales Swell 13% in August"
+    },
+    "tweet3": {
+      "content": "Why Costco Shares Hit A New 52-Week High"
+    },
+    "tweet4": {
+      "content": "TGT vs. COMPANY_X: Which Stock Should Value Investors Buy Now?"
+    },
+    "tweet5": {
+      "content": "Costco Keeps Getting Better. Analysts Expect More to Come."
+    },
+    "tweet6": {
+      "content": "Costco August Sales - What Wall Street Is Saying"
+    },
+    "tweet7": {
+      "content": "Dow Jones Futures Fall As Stock Market Rally Risks Mount; Tesla, Apple Slide, Hot IPOs Rocket, CrowdStrike Tumble On Earnings"
+    },
+    "tweet8": {
+      "content": "PREMIUM: Trading volatile markets during prime time 'crash season' — webinar with Joe Fahmy"
+    },
+    "tweet9": {
+      "content": "Dow Jones Futures: Stock Market Rally Risks Mount; Tesla Slides, Hot IPOs Rocket And CrowdStrike Fall On Earnings"
+    },
+    "tweet10": {
+      "content": "Costco August Sales Jump 15% As E-Commerce Explodes 102%"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Growth Is a Rare Commodity in Retail. Costco and Target Are Cashing In."
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Costco's (COMPANY_X) Stellar Comps Run & E-Commerce to Fuel Sales"
+    },
+    "tweet2": {
+      "content": "Market Update: AVGO, COMPANY_X, NI"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "The Lovesac Company (LOVE) Q2 2021 Earnings Call Transcript"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Black Friday shopping like we all know it is officially over because of COVID-19"
+    },
+    "tweet2": {
+      "content": "2 Top Stocks to Buy in September"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Ambani’s $2 Chutzpah Unlocks Another Fortune"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Costco (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Costco, Home Depot decline Trump's payroll tax deferral plan: WSJ"
+    },
+    "tweet3": {
+      "content": "How Has the Pandemic Changed Your Spending Habits?"
+    },
+    "tweet4": {
+      "content": "Weekly Stock List"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Walmart+ Launches Ahead Of Early Holiday Shopping; Here Are The Perks"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Better Buy: Costco vs. Lowe's"
+    },
+    "tweet2": {
+      "content": "Better Buy: Costco vs. Target"
+    },
+    "tweet3": {
+      "content": "What Recession? Holiday Sales Projected to Rise in 2020 Despite Pandemic."
+    },
+    "tweet4": {
+      "content": "The Argus Dividend Growth Portfolio"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Costco (COMPANY_X) Reports Next Week: Wall Street Expects Earnings Growth"
+    },
+    "tweet2": {
+      "content": "Our Take On The Returns On Capital At Costco Wholesale (NASDAQ:COMPANY_X)"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Why Albertsons Is a Buy: More Meals at Home and the Stock Is Cheap"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Costco co-founder once said ‘I will kill you’ to CEO who wanted to hike the price of the $1.50 hot dog combo"
+    },
+    "tweet2": {
+      "content": "Costco’s founder once threatened the CEO over raising hot dog prices, and the internet is eating it up"
+    },
+    "tweet3": {
+      "content": "Better Buy: Costco vs. Constellation Brands"
+    },
+    "tweet4": {
+      "content": "Better Buy: McDonald's vs. Costco"
+    },
+    "tweet5": {
+      "content": "Costco (COMPANY_X) on the Defensive Despite Strong Sales"
+    },
+    "tweet6": {
+      "content": "Beyond Meat to sell plant-based sausage patty in 5,000 more U.S. stores"
+    },
+    "tweet7": {
+      "content": "Costco Earnings: 3 Things to Watch"
+    },
+    "tweet8": {
+      "content": "Sturdy Comps Performance to Aid Costco's (COMPANY_X) Q4 Earnings"
+    },
+    "tweet9": {
+      "content": "Barron’s Stock Pick: Buy Albertsons Stock. Here’s Why."
+    },
+    "tweet10": {
+      "content": "Walmart hits a grand slam with its TikTok deal with Oracle"
+    },
+    "tweet11": {
+      "content": "3 Dividend Stocks You Can Safely Hold for Decades"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Can Costco Continue Strong Coronavirus Market Crash Recovery Run?"
+    },
+    "tweet2": {
+      "content": "E-commerce to Play Key Role in Costco's (COMPANY_X) Q4 Earnings"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Pandemic Profit, Home Sales, and More IPOs: 3 Things to Watch in the Day Ahead"
+    },
+    "tweet2": {
+      "content": "Earnings Preview for Costco Wholesale"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Costco (COMPANY_X) Surpasses Q4 Earnings and Revenue Estimates"
+    },
+    "tweet2": {
+      "content": "Costco’s Latest Strong Quarter Still Wasn’t Good Enough"
+    },
+    "tweet3": {
+      "content": "Costco 4th-Quarter Sales and Earnings Beat Estimates; Stock Slips"
+    },
+    "tweet4": {
+      "content": "Costco beats estimates as high COVID-19 costs weigh on shares"
+    },
+    "tweet5": {
+      "content": "Costco Earnings Mixed As Digital Sales Spike, Key Services Return"
+    },
+    "tweet6": {
+      "content": "Recap: Costco Wholesale Q4 Earnings"
+    },
+    "tweet7": {
+      "content": "Costco clears $4 billion in earnings for first time amid record growth, but the stock is falling"
+    },
+    "tweet8": {
+      "content": "Costco posts 27% rise in quarterly profit"
+    },
+    "tweet9": {
+      "content": "Costco Wholesale Corporation Reports Fourth Quarter and Fiscal Year 2020 Operating Results"
+    },
+    "tweet10": {
+      "content": "Costco Earnings Due As Digital Sales Spike, Key Services Return"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Jim Cramer: Covid Isn't About to Fade, and Neither Is Costco"
+    },
+    "tweet2": {
+      "content": "Dow Jones Finishes Week With Strong Gains; This Leaderboard Stock Is In Buy Range"
+    },
+    "tweet3": {
+      "content": "Stocks Close Higher as Tech Rally Offsets Stimulus and Virus Worry"
+    },
+    "tweet4": {
+      "content": "Techs Lead Stock Rebound, But Here's The Bad Part Of Today's Rally"
+    },
+    "tweet5": {
+      "content": "Stocks Rise as Tech Rally Offsets Stimulus and Virus Worries"
+    },
+    "tweet6": {
+      "content": "Keysight, Mesa, Costco and Novavax as Zacks Bull and Bear of the Day"
+    },
+    "tweet7": {
+      "content": "Wall Street drills Costco stock because it's paying workers $2 more an hour during COVID-19"
+    },
+    "tweet8": {
+      "content": "Nasdaq Jumps Despite Costco Pullback; Novavax Starts Vaccine Phase 3 Trial"
+    },
+    "tweet9": {
+      "content": "Dow Jones Erases Losses, As Apple, Tesla Jump; Novavax Surges 14% On Coronavirus Vaccine News"
+    },
+    "tweet10": {
+      "content": "Stocks on the move: Amazon moves into gaming, Costco reports rise in revenue"
+    },
+    "tweet11": {
+      "content": "Costco Had a Great Quarter. Here’s What Wall Street Is Saying."
+    },
+    "tweet12": {
+      "content": "Stocks Rise as Tech Shares Rally, Offsetting Stimulus Fears"
+    },
+    "tweet13": {
+      "content": "The Street Debates Whether Costco Investors Should Buy The Dip"
+    },
+    "tweet14": {
+      "content": "Buy the Costco Earnings Dip? Let's Look at the Chart"
+    },
+    "tweet15": {
+      "content": "Markets volatile as virus, stimulus concerns grip investors"
+    },
+    "tweet16": {
+      "content": "Why Buy Costco at a Time When Folks Are Thinning Out Portfolios? Here's Why"
+    },
+    "tweet17": {
+      "content": "Costco Beats on Revenue and EPS, Posts Double-Digit Q4 Comps Growth"
+    },
+    "tweet18": {
+      "content": "Costco beats Q4 estimates, here’s what we know in early trading"
+    },
+    "tweet19": {
+      "content": "Dow Jones Today, Stocks Mixed; Novavax Jumps On Vaccine News; Cruise Lines Rally On Upgrade"
+    },
+    "tweet20": {
+      "content": "Costco Shares Slide As Coronavirus Expenses Offset Solid Q4 Earnings"
+    },
+    "tweet21": {
+      "content": "Dow Slides as Wall Street Poised for Fourth Consecutive Weekly Loss"
+    },
+    "tweet22": {
+      "content": "Costco Earnings Were Really Good. Here’s Why the Stock Is Falling."
+    },
+    "tweet23": {
+      "content": "Dow Jones Today, Futures Mixed; Novavax Jumps On Vaccine News; China Finance Online Soars"
+    },
+    "tweet24": {
+      "content": "Costco's (COMPANY_X) Q4 Earnings Top, Sales Rise Y/Y, Stock Falls"
+    },
+    "tweet25": {
+      "content": "The Dow Is Dropping, Costco Stock Is Slumping and Royal Caribbean Is Jumping"
+    },
+    "tweet26": {
+      "content": "Costco, Novavax, Palantir, Google - 5 Things You Must Know Friday"
+    },
+    "tweet27": {
+      "content": "Costco Earnings Were Good. They Weren’t Good Enough."
+    },
+    "tweet28": {
+      "content": "Nikola, Novavax Rise Premarket; CostCo Drops"
+    },
+    "tweet29": {
+      "content": "Costco Wholesale (COMPANY_X) Q4 2020 Earnings Call Transcript"
+    },
+    "tweet30": {
+      "content": "Analyst Report: Costco Wholesale Corporation"
+    },
+    "tweet31": {
+      "content": "Analyst Report: Costco Wholesale Corporation"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "2 Stocks That Won't Be Affected by a Market Crash"
+    },
+    "tweet2": {
+      "content": "Amazon’s Pandemic Prime Day Adds to Retailers' Scary October"
+    },
+    "tweet3": {
+      "content": "3 Stocks Warren Buffett Would Love"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Validea James P. O'Shaughnessy Strategy Daily Upgrade Report - 9/29/2020"
+    },
+    "tweet2": {
+      "content": "3 Top Stocks to Recession-Proof Your Portfolio"
+    },
+    "tweet3": {
+      "content": "Is Costco a Great Dividend Stock?"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "Costco Looks Expensive. Is It a Buy?"
+    },
+    "tweet2": {
+      "content": "3 Takeaways From Costco's Q4 Results"
+    },
+    "tweet3": {
+      "content": "The 7 Best 401k Investments to Enrich Your Retirement"
+    },
+    "tweet4": {
+      "content": "Why Costco Stock Bounced Back From a Post-Earnings Fall"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}

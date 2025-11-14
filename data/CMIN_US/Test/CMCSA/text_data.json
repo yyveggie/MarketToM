@@ -1,0 +1,904 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "PNC Financial Declares Dividend, Stock Rises in Past Week"
+    },
+    "tweet2": {
+      "content": "PEER_COMPANY May Be Mulling a Price Increase, but Now's Not the Time"
+    },
+    "tweet3": {
+      "content": "ANALYSIS-TV news networks to reap ad windfall from U.S. election chaos"
+    },
+    "tweet4": {
+      "content": "ANALYSIS-TV networks to reap ad windfall from U.S. election chaos"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Disneyland reopening on hold as California delays theme park guidelines"
+    },
+    "tweet2": {
+      "content": "Trian Fund Management takes 9.9% stakes in Invesco, Janus Henderson"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Ex-Dividend Date Scheduled for DATE_REF"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "After Hours Most Active for DATE_REF :  PCG, BWA, TLT, POOL, AAPL, BAC, CFFN, JEF, QQQ, COMPANY_X, LEVI, HIL"
+    },
+    "tweet2": {
+      "content": "Welltower CEO Resigns"
+    },
+    "tweet3": {
+      "content": "Is SeaWorld Growing at the Expense of PEER_COMPANY and Universal in Florida?"
+    },
+    "tweet4": {
+      "content": "Is SeaWorld Growing at the Expense of PEER_COMPANY and Universal in Florida?"
+    },
+    "tweet5": {
+      "content": "PEER_COMPANY Investors Display Incredible Faith"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "PEER_COMPANY Seen Dominating Streaming Video Market For Foreseeable Future"
+    },
+    "tweet2": {
+      "content": "Top Research Reports for COMPANY_X, BHP & Shopify"
+    },
+    "tweet3": {
+      "content": "If Howard Stern bolts from Sirius, here's how much the stock could tank"
+    },
+    "tweet4": {
+      "content": "Will COMPANY_X (COMPANY_X) Beat Estimates Again in Its Next Earnings Report?"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Promotes Dalila Wilson-Scott to Executive Vice President and Chief Diversity Officer"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Pixar's 'Soul' to debut on PEER_COMPANY+ on Dec. 25"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: COMPANY_X, BHP, Shopify, BlackRock and Enbridge"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Reaches 10G Technical Milestone Delivering 1.25 Gig Symmetrical Speeds in Trial Over a Live, All-Digital HFC Network"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Coronavirus claims 'Batman' and 'Jurassic' as victims, with Broadway staying dark until May"
+    },
+    "tweet2": {
+      "content": "Live sports are seeing all time lows in viewership"
+    },
+    "tweet3": {
+      "content": "Coronavirus: Broadway extends shutdown, 'The Batman' & 'Jurassic World' delay releases until YEAR_X"
+    },
+    "tweet4": {
+      "content": "PEER_COMPANY, Inc. -- Moody's announces completion of a periodic review of ratings of PEER_COMPANY, Inc."
+    },
+    "tweet5": {
+      "content": "COMPANY_X -- Moody's announces completion of a periodic review of ratings of COMPANY_X"
+    },
+    "tweet6": {
+      "content": "Best Stocks for YEAR_X: Roku Stock Will End the Year Strong"
+    },
+    "tweet7": {
+      "content": "13 Biggest Companies That Hire Felons"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "COMPANY_X Gives $350,000 Donation to Support Bay Area Small Businesses Owned by People of Color"
+    },
+    "tweet2": {
+      "content": "Here's How COMPANY_X, PEER_COMPANY, and a Few Others Will Survive the Cord-Cutting Nightmare"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "COMPANY_X Mobile Expands 5G Coverage Nationwide"
+    },
+    "tweet2": {
+      "content": "PEER_COMPANY (DIS) Reorganises Businesses to Emphasize on Streaming"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Offers Thousands of Grants, Equipment, Marketing and Technology Resources to Small Businesses Hardest Hit by COVID-19"
+    },
+    "tweet4": {
+      "content": "PEER_COMPANY's Revamp Is Dan Loeb's Dream Come True"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "According to a Survey, COMPANY_X's PRODUCT_VIDEO Is Signing Up Subscribers Faster Than the Competition"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Invests $15 Million to Expand its High-Speed Network in Modesto"
+    },
+    "tweet3": {
+      "content": "Trump and Biden will compete in dueling town halls at the same time Thursday"
+    },
+    "tweet4": {
+      "content": "Once again, PRODUCT_MEDIA decided to serve Trump’s interests"
+    },
+    "tweet5": {
+      "content": "Once again, PRODUCT_MEDIA decided to serve Trump’s interests"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "Why live sports TV ratings are down for all the big leagues"
+    },
+    "tweet2": {
+      "content": "New Video Marketplace Report from FreeWheel Shows Ad Views in 1H2020 Grew Over 32%  Compared to the Same Time Last Year"
+    },
+    "tweet3": {
+      "content": "Dueling Trump and Biden town halls spur PRODUCT_MEDIA protests"
+    },
+    "tweet4": {
+      "content": "PRODUCT_MEDIA faces backlash for scheduling Trump town hall against Biden’s"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Joe Biden on ABC bests PRODUCT_MEDIA's controversial town hall with Trump: Nielsen"
+    },
+    "tweet2": {
+      "content": "Captain America is 'hopeful' Hollywood will bounce back from COVID-19 pandemic"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Hollywood 'just starting to take notice' of huge Latinx market: producer behind PEER_COMPANY's 'Selena' series"
+    },
+    "tweet2": {
+      "content": "New COMPANY_X Business Solution Powered by Aruba Brings Secure, Enterprise-grade Office Connectivity from Home"
+    },
+    "tweet3": {
+      "content": "Wall Street bullish on PEER_COMPANY results despite return of live sports, more competition"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Disneyland Could Stay Closed Into YEAR_X. What to Know."
+    },
+    "tweet2": {
+      "content": "Pinterest Adds Another New Director, Diversifying Board"
+    },
+    "tweet3": {
+      "content": "Were Hedge Funds Right About COMPANY_X (COMPANY_X)?"
+    },
+    "tweet4": {
+      "content": "COMPANY_X's New Aruba-Powered VPN Solution to Aid Expansion"
+    },
+    "tweet5": {
+      "content": "PEER_COMPANY Reports Earnings Today. Here’s What to Expect."
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Disneyland Faces These Steep Hurdles Before It Can Reopen"
+    },
+    "tweet2": {
+      "content": "Quibi Holdings LLC weighs shutting itself down: Dow Jones"
+    },
+    "tweet3": {
+      "content": "California theme park executives say legal action among options being explored to hasten reopening of industry"
+    },
+    "tweet4": {
+      "content": "Invesco, Janus Need Scale to Compete With BlackRock, Peltz Says"
+    },
+    "tweet5": {
+      "content": "What If Disneyland Doesn't Open Again Until YEAR_X?"
+    },
+    "tweet6": {
+      "content": "What If Disneyland Doesn't Open Again Until YEAR_X?"
+    },
+    "tweet7": {
+      "content": "California Issues Long-Awaited Reopening Guidelines for Disneyland and Other Theme Parks"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) Expected to Beat Earnings Estimates: What to Know Ahead of Q3 Release"
+    },
+    "tweet2": {
+      "content": "HBO Recedes Into the Shadow of O.G. PEER_COMPANY"
+    },
+    "tweet3": {
+      "content": "Bank of America, COMPANY_X COMPANY_X and Lenfest Foundation Help Launch Pilot of Coded By Kids' OnE Philadelphia"
+    },
+    "tweet4": {
+      "content": "Quibi shuts down: Why the $1.75 billion streaming app failed"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "Nielsen: Final Trump-Biden debate showdown falls flat with viewers compared to the first"
+    },
+    "tweet2": {
+      "content": "Early ratings data show drop for second Trump-Biden debate - Variety"
+    },
+    "tweet3": {
+      "content": "How the streaming landscape will change from COVID-19"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "COMPANY_X (COMPANY_X) to Report Q3 Earnings: What's in the Cards?"
+    },
+    "tweet2": {
+      "content": "PEER_COMPANY and PEER_COMPANY Take Aim at, Well, PEER_COMPANY"
+    },
+    "tweet3": {
+      "content": "Biden Win Could Curb Deals, Revive Net Neutrality in FCC Pivot"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Here's why PEER_COMPANY is getting into the TV business"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Roku's Winning as Streamers Compete"
+    },
+    "tweet2": {
+      "content": "Roku's Winning as Streamers Compete"
+    },
+    "tweet3": {
+      "content": "PEER_COMPANY's CEO Says There's a Lot More Cord-Cutting Coming"
+    },
+    "tweet4": {
+      "content": "PEER_COMPANY's CEO Says There's a Lot More Cord-Cutting Coming"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "COMPANY_X Expands Washington State Office of Superintendent of Public Instruction Program Connecting Low-income Students to Internet at Home"
+    },
+    "tweet2": {
+      "content": "COMPANY_X says PRODUCT_VIDEO has nearly 22M sign-ups"
+    },
+    "tweet3": {
+      "content": "COMPANY_X’s Cable Strength Outweighed Its Media Troubles in the Third Quarter"
+    },
+    "tweet4": {
+      "content": "COMPANY_X (COMPANY_X) DATE_REF Earnings Call Transcript"
+    },
+    "tweet5": {
+      "content": "COMPANY_X's Theme Park and Film Segments Are Still Reeling From COVID-19 Impacts"
+    },
+    "tweet6": {
+      "content": "COMPANY_X's Theme Park and Film Segments Are Still Reeling From COVID-19 Impacts"
+    },
+    "tweet7": {
+      "content": "Analyst Report: COMPANY_X"
+    },
+    "tweet8": {
+      "content": "First Eagle is Betting on COMPANY_X Corp (COMPANY_X) Stock"
+    },
+    "tweet9": {
+      "content": "COMPANY_X More Than Doubles PRODUCT_VIDEO Streaming Service Sign-Ups in Q3"
+    },
+    "tweet10": {
+      "content": "COMPANY_X stock rises after ‘astounding’ growth in cable"
+    },
+    "tweet11": {
+      "content": "Yum, COMPANY_X earnings beat estimates on strong demand, Spotify adds 6M paid subscribers"
+    },
+    "tweet12": {
+      "content": "COMPANY_X Parent COMPANY_X To Take $700M In Severance, Restructuring Charges This Year As More Layoffs Loom"
+    },
+    "tweet13": {
+      "content": "COMPANY_X Earnings, Revenue Fall Amid Weak COMPANY_X Results But Top Expectations"
+    },
+    "tweet14": {
+      "content": "COMPANY_X's (COMPANY_X) Q3 Earnings Beat, Internet User Base Rises"
+    },
+    "tweet15": {
+      "content": "Q3 GDP Bounces Back to All-Time High 33.1%; Plus Earnings: COMPANY_X, COP, DNKN"
+    },
+    "tweet16": {
+      "content": "Cable Giant COMPANY_X Posts Better-Than-Expected Q3 Revenue; Target Price $52"
+    },
+    "tweet17": {
+      "content": "COMPANY_X CEO PERSON_EXEC Calls PRODUCT_VIDEO “Opposite Of Quibi”; Surprisingly Upbeat On Theme Parks & Broadcast Upfront"
+    },
+    "tweet18": {
+      "content": "Kraft Heinz, COMPANY_X, Kellogg report third quarter earnings"
+    },
+    "tweet19": {
+      "content": "COMPANY_X Tops Q3 Earnings Forecast On Record Broadband Additions"
+    },
+    "tweet20": {
+      "content": "COMPANY_X (COMPANY_X) Q3 Earnings and Revenues Top Estimates"
+    },
+    "tweet21": {
+      "content": "COMPANY_X: Q3 Earnings Insights"
+    },
+    "tweet22": {
+      "content": "COMPANY_X’s PRODUCT_VIDEO At Nearly 22 Million Sign-Ups; Q3 Sales, Profit Dip; Theme Park, Theatrical Revenues Plunge"
+    },
+    "tweet23": {
+      "content": "COMPANY_X beats revenue expectations on broadband growth"
+    },
+    "tweet24": {
+      "content": "COMPANY_X beats revenue expectations on broadband growth"
+    },
+    "tweet25": {
+      "content": "COMPANY_X Declares Quarterly Dividend"
+    },
+    "tweet26": {
+      "content": "COMPANY_X beats revenue expectations on broadband growth"
+    },
+    "tweet27": {
+      "content": "COMPANY_X Reports 3rd Quarter YEAR_X Results"
+    },
+    "tweet28": {
+      "content": "We Have Learned to Live Without Movie Theaters"
+    },
+    "tweet29": {
+      "content": "COMPANY_X Corp. to Host Earnings Call"
+    },
+    "tweet30": {
+      "content": "COMPANY_X Reports Earnings Today. Here’s What to Expect."
+    },
+    "tweet31": {
+      "content": "Ford, COMPANY_X Gain Premarket; Spotify Falls"
+    },
+    "tweet32": {
+      "content": "ServiceNow Projects Robust Sales on Workflow Software Demand"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "11 Biggest Telecom Companies in the World"
+    },
+    "tweet2": {
+      "content": "PEER_COMPANY Stock Rises After Another Strong Quarter for Cable"
+    },
+    "tweet3": {
+      "content": "Stock Market News for DATE_REF"
+    },
+    "tweet4": {
+      "content": "PEER_COMPANY price hike is here — this is how much more money PEER_COMPANY may bank"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Top Analyst Reports for PayPal, COMPANY_X & Novartis"
+    },
+    "tweet2": {
+      "content": "How High-Speed Internet Saved COMPANY_X's Dividend During the Pandemic"
+    },
+    "tweet3": {
+      "content": "Weekly Stock List"
+    },
+    "tweet4": {
+      "content": "Stonepeak to Buy TPG’s Cable Unit Astound for $8.1 Billion"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Report: Walmart and COMPANY_X in Discussions to Make Smart TVs"
+    },
+    "tweet2": {
+      "content": "COMPANY_X, Walmart Have Had Exploratory Talks About Producing a Smart TV"
+    },
+    "tweet3": {
+      "content": "Walmart, COMPANY_X in Talks to Develop Smart TVs; Roku Slides"
+    },
+    "tweet4": {
+      "content": "Roku Dips As COMPANY_X Could Be Eyeing Smart TV Market"
+    },
+    "tweet5": {
+      "content": "Walmart, COMPANY_X in talks to develop and distribute smart TVs: WSJ"
+    },
+    "tweet6": {
+      "content": "The Zacks Analyst Blog Highlights: PayPal, COMPANY_X, Novartis, BlackRock and FedEx"
+    },
+    "tweet7": {
+      "content": "The Real Reason PEER_COMPANY News Needs Trump to Win"
+    },
+    "tweet8": {
+      "content": "COMPANY_X's Struggling COMPANY_X Segment Could Quickly Return to Record Levels in YEAR_X"
+    },
+    "tweet9": {
+      "content": "COMPANY_X's Struggling COMPANY_X Segment Could Quickly Return to Record Levels in YEAR_X"
+    },
+    "tweet10": {
+      "content": "Is COMPANY_X Stock a Buy?"
+    },
+    "tweet11": {
+      "content": "Analyst Report: COMPANY_X Corp"
+    },
+    "tweet12": {
+      "content": "Market Digest: ADM, COMPANY_X, EPD, ETH, HES, IP, MSI, FB, TWTR, GRUB"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "How Did PEER_PRODUCT Add Half a Million Subscribers Last Quarter?"
+    },
+    "tweet2": {
+      "content": "Return On Capital Employed Overview: COMPANY_X"
+    },
+    "tweet3": {
+      "content": "Media Stocks' Nov 5 Earnings Roster: DISCA, NWSA & More"
+    },
+    "tweet4": {
+      "content": "COMPANY_X In Talks With Walmart To Develop Smart TVs – Report"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "PEER_COMPANY Is on a Roll With Subscriptions. The Stock Is Soaring."
+    },
+    "tweet2": {
+      "content": "Things Are Bad at Theme Parks, but Things Could Be Worse"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Why PEER_COMPANY Is Worth More Than PEER_COMPANY"
+    },
+    "tweet2": {
+      "content": "PEER_COMPANY CEO: PEER_COMPANY iPhone 5G 'supercycle' is here"
+    },
+    "tweet3": {
+      "content": "Bubba Wallace Named YEAR_X COMPANY_X Community Champion of the Year"
+    },
+    "tweet4": {
+      "content": "Lionsgate (LGF.A) Q2 Earnings Beat Estimates, Revenues Miss"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Xperi and COMPANY_X Enter Into Long-Term Patent License Agreement"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Launches Simple and Affordable Home Security Offering to Prevent Package Theft"
+    },
+    "tweet3": {
+      "content": "3 Best Entertainment Stocks to Buy Now"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Closure of Parks & Theaters to Mar PEER_COMPANY (DIS) Q4 Earnings"
+    },
+    "tweet2": {
+      "content": "NVIDIA, Splunk, PEER_COMPANY, PEER_COMPANY and COMPANY_X highlighted as Zacks Bull and Bear of the Day"
+    },
+    "tweet3": {
+      "content": "No, The Big COMPANY_X Deal Isn't a Game-Changer For Xperi Holdings"
+    },
+    "tweet4": {
+      "content": "PEER_COMPANY Added Cable Customers Again -- and It Might Hurt"
+    },
+    "tweet5": {
+      "content": "The Roku Channel Could Double Viewership Again"
+    },
+    "tweet6": {
+      "content": "COMPANY_X's Carriage-Fee Impasse (With Itself) Has Implications for the Entire Cable TV Industry"
+    },
+    "tweet7": {
+      "content": "COMPANY_X Promotes Rich Jennings to President of COMPANY_X’s West Division"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Canoe Enables the First-ever Household Addressable Ad Campaign Across Multiple Distributors for a National Cable Network"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Defeated Trump Seeks Revenge Against Once-Staunch Backer"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "COMPANY_X to make its venture capital firm part of corporate business division"
+    },
+    "tweet2": {
+      "content": "Why Connected TV Stock Magnite Is a Buy After DATE_REF"
+    },
+    "tweet3": {
+      "content": "This Is What a COMPANY_X-Walmart TV Partnership Would Really Be About"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Universal, Cinemark agree to shorten theatrical window for movies"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Launching More Than 20 WiFi-Connected \"Lift Zones\" in Twin Cities"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Movie theaters are renegotiating a decades-old arrangement with studios to ensure their survival"
+    },
+    "tweet2": {
+      "content": "NBA greats offer money advice for draft picks who will make millions: 'Be smart, man'"
+    },
+    "tweet3": {
+      "content": "Cable Streamers Like Fubo and Sling (Somehow) Added Customers in Q3"
+    },
+    "tweet4": {
+      "content": "PEER_COMPANY (DIS) Continues Suspension of Cash Dividend"
+    },
+    "tweet5": {
+      "content": "COMPANY_X Strikes a New Distribution Deal With Cinemark"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "COMPANY_X to Participate in UBS Investor Conference"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Hosts Digital Equity Summit Focused on Meeting Veterans' Needs in the Digital Age and Announces Nearly $250,000 in Donations to Support Digital Inclusion Efforts for Veterans in Vermont, Connecticut and Western Massachusetts"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Hosts Digital Equity Summit Focused on Meeting Veterans' Needs in the Digital Age and Announces Nearly $250,000 in Donations to Support Digital Inclusion Efforts for Veterans in Connecticut, Vermont and Western Massachusetts"
+    },
+    "tweet4": {
+      "content": "COMPANY_X Wants to Become Roku Before Roku Becomes COMPANY_X"
+    },
+    "tweet5": {
+      "content": "PEER_COMPANY Is Now the 5th-Largest Pay-TV Provider in the U.S."
+    },
+    "tweet6": {
+      "content": "COMPANY_X’s Interactive Streaming TV App Debuts With ‘Real Housewives of Salt Lake City’ Pre-Show (EXCLUSIVE)"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "15 Largest Entertainment Companies in the World"
+    },
+    "tweet2": {
+      "content": "P/E Ratio Insights for COMPANY_X"
+    },
+    "tweet3": {
+      "content": "PEER_COMPANY's Bold Move With \"Wonder Woman YEAR_X\" Deals Another Blow to Theaters"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "PEER_COMPANY to PEER_COMPANY Wary of Full Disclosure in Google Antitrust Case"
+    },
+    "tweet2": {
+      "content": "Tesla Stock Will See Demand From More Than Just Index Funds. Here Are the Stocks That Might Suffer."
+    },
+    "tweet3": {
+      "content": "3 Infrastructure Stocks Building to the Upside"
+    },
+    "tweet4": {
+      "content": "Rachel Maddow makes emotional return after partner’s bout with COVID: ‘Don’t get this thing’"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Technology Companies Complete First-Ever Telephone Call with Authenticated Caller ID and Rich Call Data, Powered by STIR/SHAKEN"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Stock Market Today: Dow Lunges Over 30,000 as Recovery Rally Continues"
+    },
+    "tweet2": {
+      "content": "Here’s the 8th Most Popular Stock Among Hedge Funds"
+    },
+    "tweet3": {
+      "content": "PEER_COMPANY's (NFLX) Solid International Content Aids User Growth"
+    },
+    "tweet4": {
+      "content": "Is COMPANY_X a Great Dividend Stock?"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "COMPANY_X Plans to Expand Broadband Data Usage Caps in YEAR_X, Angering Some Customers"
+    },
+    "tweet2": {
+      "content": "Q3 Earnings Scorecard and Analyst Reports for Tesla, JPMorgan & COMPANY_X"
+    },
+    "tweet3": {
+      "content": "Colin Kaepernick will not play in the NFL again: Emmanuel Acho"
+    },
+    "tweet4": {
+      "content": "COMPANY_X RISE Awards Over 700 Black-Owned, Small Businesses with Marketing and Technology Resources and Makeovers"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "3 Dividend Stocks to Buy Before YEAR_X"
+    },
+    "tweet2": {
+      "content": "How Many Years Did COVID-19 Set the Theme Park Industry Back?"
+    },
+    "tweet3": {
+      "content": "I Want AMC Entertainment to Live -- but It Will Probably Die in YEAR_X"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: Tesla, JPMorgan, COMPANY_X, Deere & Co, Gap, Nordstrom, Oracle and Boeing"
+    },
+    "tweet5": {
+      "content": "The 3 Largest Entertainment Stocks in YEAR_X"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "COMPANY_X RISE Awards Eight Black-Owned, Small Businesses in Portland with Marketing Resources and Technology Makeovers"
+    },
+    "tweet2": {
+      "content": "What Is Net Neutrality and Why Is it Important?"
+    },
+    "tweet3": {
+      "content": "COMPANY_X RISE Awards Five Black-Owned, Small Businesses in Utah with Marketing and Technology Resources and Makeovers"
+    },
+    "tweet4": {
+      "content": "COMPANY_X RISE Awards Three Black-Owned, Small Businesses in Albuquerque with Marketing and Technology Resources and Makeovers"
+    },
+    "tweet5": {
+      "content": "COMPANY_X RISE Awards 28 Black-Owned, Small Businesses in Colorado with Marketing and Technology Resources and Makeovers"
+    },
+    "tweet6": {
+      "content": "COMPANY_X Launching More Than 30 WiFi-Connected \"Lift Zones\" in Washington"
+    },
+    "tweet7": {
+      "content": "COMPANY_X RISE Awards More Than 40 Black-Owned, Small Businesses in Houston with Marketing Resources and Technology Makeovers"
+    },
+    "tweet8": {
+      "content": "Is COMPANY_X (COMPANY_X) A Good Stock To Buy Now?"
+    },
+    "tweet9": {
+      "content": "22 Largest Family-Owned Businesses In the World"
+    },
+    "tweet10": {
+      "content": "COMPANY_X to Open $580 Million Nintendo Park in February"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "PEER_COMPANY News Is Holding More Cards Than Trump Realizes"
+    },
+    "tweet2": {
+      "content": "COMPANY_X RISE Awards 35 Black-Owned, Small Businesses in the Washington, D.C., Metropolitan Area with Marketing and Technology Resources and Makeovers"
+    },
+    "tweet3": {
+      "content": "COMPANY_X RISE Awards Five Black-Owned, Small Businesses in Western Washington with Marketing Resources and Technology Makeovers"
+    },
+    "tweet4": {
+      "content": "FreeWheel and COMPANY_X Announce Landmark Partnership to Automate and Optimize Linear Ad Decisioning Across All COMPANY_X Properties"
+    },
+    "tweet5": {
+      "content": "COMPANY_X RISE Awards 13 Black-Owned, Small Businesses in Twin Cities with Marketing and Technology Resources and Makeovers"
+    },
+    "tweet6": {
+      "content": "In This Pandemic, These 5 Stocks Are My Highest-Conviction Holdings"
+    },
+    "tweet7": {
+      "content": "COMPANY_X Offers Equipment and Technology Resources to Small Businesses Hardest Hit by COVID-19 in Southern Arizona"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "'Dune' at Home Turns Theaters Into Wasteland"
+    },
+    "tweet2": {
+      "content": "Demo Day: 11 Startups Present Innovations, Partnership Deals Following COMPANY_X COMPANY_X LIFT Labs Accelerator, powered by Techstars"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Announces $1 Million Commitment to Per Scholas to Combat the Tech Opportunity Gap Across the U.S."
+    },
+    "tweet4": {
+      "content": "Discovery (DISCA) Enters Crowded Streaming Market"
+    },
+    "tweet5": {
+      "content": "Flutter to pay $4.2 billion to increase FanDuel stake"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "5 Streaming Stocks to Buy for a Socially Distanced Holiday Season"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "COMPANY_X Extends COVID Support With 60 Days of Free Internet for Low-Income Customers and Free Access to the Nation’s Largest Public WiFi Network Through DATE_REF"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "Trump FCC Pick Confirmed Over Democrats’ Objection"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "COMPANY_X to Launch PEER_COMPANY+ and ESPN+ on COMPANY_X Platforms"
+    },
+    "tweet2": {
+      "content": "COMPANY_X adds more digital, streaming ad options for local businesses"
+    },
+    "tweet3": {
+      "content": "3 Cable Stocks to Watch Out For in a Prospering Industry"
+    },
+    "tweet4": {
+      "content": "Cord-Cutters Cause COMPANY_X to Launch Nationwide Data Cap"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "PEER_COMPANY teams up with Kardashian family in multiyear PEER_COMPANY deal"
+    },
+    "tweet2": {
+      "content": "PEER_COMPANY (DIS) Investor Day YEAR_X Highlights"
+    },
+    "tweet3": {
+      "content": "Here's What We Don't Know About Those 12.6 Million PEER_PRODUCT Subscribers"
+    },
+    "tweet4": {
+      "content": "PEER_COMPANY's New Streaming Star Just Might Outshine PEER_COMPANY"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "Most seasons of 'The Office' will require a monthly payment on PRODUCT_VIDEO"
+    },
+    "tweet2": {
+      "content": "PEER_COMPANY (The) -- Moody's says that PEER_COMPANY's 86.8m PEER_COMPANY+ subscribers and updated guidance of 230m -- 260m subscribers by DATE_REF is a credit positive"
+    },
+    "tweet3": {
+      "content": "FreeWheel Names Mark McKee as Chief Revenue Officer, United States"
+    },
+    "tweet4": {
+      "content": "Pandemic Pushing Users to Streaming Services: 4 Stocks to Watch"
+    },
+    "tweet5": {
+      "content": "YEAR_X’s Must-See Drama: PEER_COMPANY Under Siege"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "Churchill Capital Corp V Announces Pricing of $450 Million Initial Public Offering"
+    },
+    "tweet2": {
+      "content": "COMPANY_X to Provide Free WiFi at 10 Fresno Housing and Boys & Girls Clubs Locations in California’s Central Valley"
+    },
+    "tweet3": {
+      "content": "Why COMPANY_X Is 'Ready To Breakout' In YEAR_X"
+    },
+    "tweet4": {
+      "content": "COMPANY_X & WarnerMedia Bring the PEER_PRODUCT App to COMPANY_X PRODUCT_VIDEO and Flex"
+    },
+    "tweet5": {
+      "content": "PEER_PRODUCT Available Directly on COMPANY_X COMPANY_X Set-Tops"
+    },
+    "tweet6": {
+      "content": "COMPANY_X, Colorado Attorney General, Aurora Mayor Mike Coffman & Denver Mayor Michael B. Hancock Launching More Than 20 WiFi-connected \"Lift Zones\" in Denver Metro Area"
+    },
+    "tweet7": {
+      "content": "COMPANY_X Launching WiFi-Connected \"Lift Zones\" in Oregon/SW Washington"
+    },
+    "tweet8": {
+      "content": "Is COMPANY_X Stock a Buy?"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "Got $5,000? Stock Up on Roku Before YEAR_X"
+    },
+    "tweet2": {
+      "content": "Americans Rallying to Support Small Businesses This Holiday Season"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "COMPANY_X Provides Free WiFi to 32 San Francisco Community Hubs"
+    },
+    "tweet2": {
+      "content": "FreeWheel to Acquire Ad Tech Leader Beeswax"
+    },
+    "tweet3": {
+      "content": "Want to Buy COMPANY_X (COMPANY_X) Stock? Here’s What You Need to Know"
+    },
+    "tweet4": {
+      "content": "COMPANY_X to Host Fourth Quarter and Full Year YEAR_X Earnings Conference Call"
+    },
+    "tweet5": {
+      "content": "Roku Jumps After Reaching Deal With PEER_COMPANY to Carry PEER_PRODUCT"
+    },
+    "tweet6": {
+      "content": "Buy Cable Stocks, Analysts Say. YEAR_X Will Be Another Strong Growth Year."
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "COMPANY_X Is Well Positioned for a Post-Covid World—and Its Stock Looks Cheap"
+    },
+    "tweet2": {
+      "content": "Why GE Will Never Break Up"
+    },
+    "tweet3": {
+      "content": "3 Dividend Stocks Perfect for Retirees"
+    },
+    "tweet4": {
+      "content": "The Empires Strike Back: PEER_COMPANY, COMPANY_X, PEER_COMPANY set streaming battle"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "Electronic Arts Makes a Move"
+    },
+    "tweet2": {
+      "content": "Top Analyst Reports for Alphabet, COMPANY_X & Accenture"
+    },
+    "tweet3": {
+      "content": "COMPANY_X Launching 10 WiFi-Connected \"Lift Zones\" In Greater Boston Area"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: GOOGL, COMPANY_X, ACN, BA and TOT"
+    },
+    "tweet2": {
+      "content": "How Roku's Transforming Its Most Important Product"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "PEER_COMPANY, PEER_COMPANY, COMPANY_X Retreat As Bidding Intensifies In 5G PEER_COMPANY Auction"
+    },
+    "tweet2": {
+      "content": "3 Dividend-Paying Tech Stocks to Buy for YEAR_X"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "What to expect from the streaming industry in YEAR_X"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "Analyst: 'Wonder Woman YEAR_X' shows consumers eager to head back to the movies despite streaming threat"
+    },
+    "tweet2": {
+      "content": "‘Wonder Woman’ Draws $16.7 Million as Viewers Opt to Stream"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "Record 5G PEER_COMPANY Auction Pauses As Investors Mull PEER_COMPANY, PEER_COMPANY, COMPANY_X Bidding"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "These streaming services were worth paying for in YEAR_X — but might not be next year"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "COMPANY_X, PEER_COMPANY, Intel, and Exxon Were in Activists’ Sights in Late YEAR_X"
+    }
+  }
+}

@@ -1,0 +1,5501 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "Cramer reviews the S&P 500's biggest winners for 2018's l..."
+    },
+    "tweet2": {
+      "content": "The New Barrick Begins Trading Wednesday"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Your first trade for Friday, January 4"
+    },
+    "tweet2": {
+      "content": "Jim Cramer: 7 Winning Stocks in Q4, and Where They Stand for 2019"
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Barrick Could Emerge Leaner and Stronger after an Asset Review"
+    },
+    "tweet2": {
+      "content": "Will the GOLD Merger Expedite the Tanzania Dispute’s Resolution?"
+    },
+    "tweet3": {
+      "content": "Monday's ETF with Unusual Volume: MXI"
+    },
+    "tweet4": {
+      "content": "Monday's ETF with Unusual Volume: MXI"
+    },
+    "tweet5": {
+      "content": "Newmont Announces Full Year and Fourth Quarter 2018 Earnings Call"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "What Factors Are Affecting Analysts’ Earnings Estimates for GOLD?"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Market's Newfound Optimism Brings Another 1% Gain"
+    },
+    "tweet2": {
+      "content": "Can Barrick’s Valuation Rerate Further after the Merger?"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Newmont cuts 120 jobs at Nevada gold mining operation"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Newmont cuts 120 jobs at Nevada gold mining operation"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Dow Closes Lower on China, Earnings Anxiety"
+    },
+    "tweet2": {
+      "content": "Dow Closes Lower on China, Earnings Anxiety"
+    },
+    "tweet3": {
+      "content": "Business Highlights"
+    },
+    "tweet4": {
+      "content": "Goldcorp Inc. -- Moody's says Newmont's acquisition of Goldcorp is credit positive"
+    },
+    "tweet5": {
+      "content": "Goldcorp CEO May Exit With $6.9 Million in Biggest Gold M&A"
+    },
+    "tweet6": {
+      "content": "Update: TSX Gains 36 Points as Other World Indexes Decline"
+    },
+    "tweet7": {
+      "content": "Update: TSX Gains 36 Points as Other World Indexes Decline"
+    },
+    "tweet8": {
+      "content": "Newmont Mining, Wynn and PG&E skid while Gannett jumps"
+    },
+    "tweet9": {
+      "content": "Why Tailored Brands, Newmont Mining, and Prestige Consumer Healthcare Slumped Today"
+    },
+    "tweet10": {
+      "content": "Newmont Mining Corporation -- Moody's says Newmont's acquisition of Goldcorp is credit positive"
+    },
+    "tweet11": {
+      "content": "Stocks Pare Losses as Weak Trade Data From China Offsets Bank Gains"
+    },
+    "tweet12": {
+      "content": "Newmont Nabs Goldcorp in $10 Billion Gold Mining Takeover"
+    },
+    "tweet13": {
+      "content": "Newmont strikes $10B merger deal to stay atop the global gold heap"
+    },
+    "tweet14": {
+      "content": "Goldcorp Inc. -- Moody's places Goldcorp's ratings under review for upgrade after announced acquisition by Newmont"
+    },
+    "tweet15": {
+      "content": "Stocks Down but Off Session Lows After Weak Trade Data From China"
+    },
+    "tweet16": {
+      "content": "Noteworthy Monday Option Activity: DISCA, TXT, COMPANY_X"
+    },
+    "tweet17": {
+      "content": "Noteworthy Monday Option Activity: DISCA, TXT, COMPANY_X"
+    },
+    "tweet18": {
+      "content": "Personality Clashes Could Be a Real Hurdle for GOLD Stock"
+    },
+    "tweet19": {
+      "content": "Personality Clashes Could Be a Real Hurdle for GOLD Stock"
+    },
+    "tweet20": {
+      "content": "Newmont to become largest gold producer"
+    },
+    "tweet21": {
+      "content": "The Market Arranged Newmont’s Goldcorp Marriage"
+    },
+    "tweet22": {
+      "content": "Newmont takes top gold producer spot with $10 billion Goldcorp buy"
+    },
+    "tweet23": {
+      "content": "[$$] Newmont to Buy Goldcorp in Deal Valued at $10 Billion"
+    },
+    "tweet24": {
+      "content": "Here's Why Goldcorp Rose as Much as 12.5% Today"
+    },
+    "tweet25": {
+      "content": "Here's Why Goldcorp Rose as Much as 12.5% Today"
+    },
+    "tweet26": {
+      "content": "USMV, COMPANY_X, WM, KO: Large Inflows Detected at ETF"
+    },
+    "tweet27": {
+      "content": "USMV, COMPANY_X, WM, KO: Large Inflows Detected at ETF"
+    },
+    "tweet28": {
+      "content": "Gold miner sector slips as Newmont's selloff outweighs Goldcorp's rally"
+    },
+    "tweet29": {
+      "content": "Cramer Talks Gold, Newmont-Goldcorp Deal"
+    },
+    "tweet30": {
+      "content": "Newmont takes top gold producer spot with $10 billion Goldcorp buy"
+    },
+    "tweet31": {
+      "content": "More China Turbulence + Merger Monday"
+    },
+    "tweet32": {
+      "content": "More China Turbulence + Merger Monday"
+    },
+    "tweet33": {
+      "content": "Watch Out For Merger Monday"
+    },
+    "tweet34": {
+      "content": "Watch Out For Merger Monday"
+    },
+    "tweet35": {
+      "content": "Why Newmont Mining’s Deal for Goldcorp Shines Brightly"
+    },
+    "tweet36": {
+      "content": "Here&apos;s Why Goldcorp Rose as Much as 12.5% Today"
+    },
+    "tweet37": {
+      "content": "SHAREHOLDER ALERT: Levi & Korsinsky, LLP Notifies Investors of an Investigation Regarding Whether the Sale of Goldcorp Inc. to Newmont Mining Corporation is Fair to Shareholders"
+    },
+    "tweet38": {
+      "content": "Stocks Fall on Weak Trade Data From China, Earnings Worries"
+    },
+    "tweet39": {
+      "content": "3 Big Stock Charts for Monday: Masco, Newmont Mining and O’Reilly Automotive"
+    },
+    "tweet40": {
+      "content": "3 Big Stock Charts for Monday: Masco, Newmont Mining and O’Reilly Automotive"
+    },
+    "tweet41": {
+      "content": "Newmont to become largest gold producer with $10 bln Goldcorp buy"
+    },
+    "tweet42": {
+      "content": "Personality Clashes Could Be a Real Hurdle for GOLD Stock"
+    },
+    "tweet43": {
+      "content": "Watch Out For Merger Monday"
+    },
+    "tweet44": {
+      "content": "More China Turbulence + Merger Monday"
+    },
+    "tweet45": {
+      "content": "CANADA STOCKS-TSX rises as gains in materials offset losses in energy shares"
+    },
+    "tweet46": {
+      "content": "Newmont Buys Goldcorp for $10 Billion to Be Top Gold Miner"
+    },
+    "tweet47": {
+      "content": "Jim Cramer: Barrick-Randgold deal was better than Newmont..."
+    },
+    "tweet48": {
+      "content": "Newmont and Goldcorp Merger to Create World’s Leading Gold Miner"
+    },
+    "tweet49": {
+      "content": "Newmont to become largest gold producer with $10 billion Goldcorp buy"
+    },
+    "tweet50": {
+      "content": "Citigroup, Newmont Buys Goldcorp, Weak China Data - 5 Things You Must Know"
+    },
+    "tweet51": {
+      "content": "Market Morning: Brexit Deal Downfall, Newmont Buys Goldcorp, PG&E CEO Bails"
+    },
+    "tweet52": {
+      "content": "Newmont's $10B offer would create world's biggest gold miner"
+    },
+    "tweet53": {
+      "content": "3 Big Stock Charts for Monday: Masco, Newmont Mining and O’Reilly Automotive"
+    },
+    "tweet54": {
+      "content": "Canadian Market Sluggish Amid Cautious Moves"
+    },
+    "tweet55": {
+      "content": "Canadian Market Sluggish Amid Cautious Moves"
+    },
+    "tweet56": {
+      "content": "Newmont announces $10 billion all-share deal to buy rival Goldcorp"
+    },
+    "tweet57": {
+      "content": "Newmont and Goldcorp Combine to Create World's Leading Gold Company"
+    },
+    "tweet58": {
+      "content": "Newmont and Goldcorp Combine to Create World's Leading Gold Company"
+    },
+    "tweet59": {
+      "content": "Stocks - Citigroup, Facebook, Visa, Mastercard Fall in Premarket, PG&E Crashes"
+    },
+    "tweet60": {
+      "content": "Bay Street May See Lower Opening On Weak Global Cues"
+    },
+    "tweet61": {
+      "content": "Bay Street May See Lower Opening On Weak Global Cues"
+    },
+    "tweet62": {
+      "content": "Newmont To Buy Goldcorp In $10 Bln Stock-for-stock Deal - Quick Facts"
+    },
+    "tweet63": {
+      "content": "Newmont To Buy Goldcorp In $10 Bln Stock-for-stock Deal - Quick Facts"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Company News For Jan 15, 2019"
+    },
+    "tweet2": {
+      "content": "Company News For Jan 15, 2019"
+    },
+    "tweet3": {
+      "content": "What's in the Offing for PPG Industries' (PPG) Q4 Earnings?"
+    },
+    "tweet4": {
+      "content": "What's in the Offing for PPG Industries' (PPG) Q4 Earnings?"
+    },
+    "tweet5": {
+      "content": "Company News For Jan 15, 2019"
+    },
+    "tweet6": {
+      "content": "Newmont to Buy Goldcorp, Form Industry-Leading Gold Company"
+    },
+    "tweet7": {
+      "content": "Newmont to Buy Goldcorp, Form Industry-Leading Gold Company"
+    },
+    "tweet8": {
+      "content": "See what the IHS Markit Score report has to say about Newmont Mining Corp."
+    },
+    "tweet9": {
+      "content": "What's in the Offing for PPG Industries' (PPG) Q4 Earnings?"
+    },
+    "tweet10": {
+      "content": "3 Charts That Suggest Precious Metals Are Headed Higher"
+    },
+    "tweet11": {
+      "content": "Newmont to Buy Goldcorp, Form Industry-Leading Gold Company"
+    },
+    "tweet12": {
+      "content": "Newmont’s Goldcorp Gamble May Need ‘Drastic Surgery’ to Pay Off"
+    },
+    "tweet13": {
+      "content": "Monster Gold-Mining Deals Pile Pressure on Those Left Behind"
+    },
+    "tweet14": {
+      "content": "Gold Veteran Says Bigger May Not Be Better as M&A Blitz Hits"
+    },
+    "tweet15": {
+      "content": "[$$] Newmont to Buy Goldcorp, Creating World’s Largest Gold Miner"
+    },
+    "tweet16": {
+      "content": "Why Tailored Brands, Newmont Mining, and Prestige Consumer Healthcare Slumped Today"
+    },
+    "tweet17": {
+      "content": "Why Tailored Brands, Newmont Mining, and Prestige Consumer Healthcare Slumped Today"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "What’s Next for Gold after the Newmont-Goldcorp Merger?"
+    },
+    "tweet2": {
+      "content": "Why Gold Miners’ Mergers and Acquisitions Are Heating Up"
+    },
+    "tweet3": {
+      "content": "Newmont-Goldcorp Deal Puts Gold Mining ETFs in Focus"
+    },
+    "tweet4": {
+      "content": "Newmont Mining CEO says Goldcorp deal is designed to 'survive' a drop in gold price"
+    },
+    "tweet5": {
+      "content": "M&A ETF (MNA) Hits New 52-Week High"
+    },
+    "tweet6": {
+      "content": "M&A ETF (MNA) Hits New 52-Week High"
+    },
+    "tweet7": {
+      "content": "ETF Spotlight: Newmont buys Goldcorp"
+    },
+    "tweet8": {
+      "content": "Goldcorp (GG) Attains '18 Production and Cost Estimates"
+    },
+    "tweet9": {
+      "content": "Goldcorp (GG) Attains '18 Production and Cost Estimates"
+    },
+    "tweet10": {
+      "content": "Newmont CEO on Goldcorp deal"
+    },
+    "tweet11": {
+      "content": "M&A ETF (MNA) Hits New 52-Week High"
+    },
+    "tweet12": {
+      "content": "Goldcorp (GG) Attains '18 Production and Cost Estimates"
+    },
+    "tweet13": {
+      "content": "Jim Cramer Gives His Opinion On Barrick Gold, Exxon, Nike And More"
+    },
+    "tweet14": {
+      "content": "Newmont Goes for the Gold(corp)"
+    },
+    "tweet15": {
+      "content": "[$$] Bigger Gold Companies Still Aren’t Glitterati"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Could the Newmont-Goldcorp Merger Form ‘The Go-To Gold Equity’?"
+    },
+    "tweet2": {
+      "content": "Newmont and Goldcorp Set to Form the World’s Largest Gold Company"
+    },
+    "tweet3": {
+      "content": "Why GG Stock Rose and COMPANY_X Stock Fell after the Merger News"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "The S&P 500 is out of correction, but a number of stocks ..."
+    },
+    "tweet2": {
+      "content": "What Could Affect Newmont’s Valuation after the Merger?"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "USMV, WM, KO, COMPANY_X: ETF Inflow Alert"
+    },
+    "tweet2": {
+      "content": "USMV, WM, KO, COMPANY_X: ETF Inflow Alert"
+    },
+    "tweet3": {
+      "content": "Gold Fields Wants to Combine With Rival AngloGold"
+    },
+    "tweet4": {
+      "content": "See what the IHS Markit Score report has to say about Newmont Mining Corp."
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Why to Buy Gold Stocks Even as Market Rallies"
+    },
+    "tweet2": {
+      "content": "Why Analysts Have Changed Their Tune on Agnico Eagle Mines"
+    },
+    "tweet3": {
+      "content": "Stocks Take a Break After Four-Day Rally"
+    },
+    "tweet4": {
+      "content": "Stocks Take a Break After Four-Day Rally"
+    },
+    "tweet5": {
+      "content": "Stocks Take a Break After Four-Day Rally"
+    },
+    "tweet6": {
+      "content": "Hard, Soft, On Hold or No Deal: Brexit Outcomes Explained"
+    },
+    "tweet7": {
+      "content": "[$$] Palladium’s price strength risks becoming exhausted"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "10 US Stocks Swayed by Brexit"
+    },
+    "tweet2": {
+      "content": "Why Is Yamana Gold on So Many Analysts’ Wish Lists?"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "[$$] China’s mining M&A spree driven by fossil fuel transition"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "How Newmont Mining moved swiftly to buy Goldcorp and reshape the gold industry with $10B deal"
+    },
+    "tweet2": {
+      "content": "Recent Analysis Shows The Chemours, Inter Parfums, Newmont Mining, Sanderson Farms, NGL Energy Partners LP, and Hemispherx BioPharma Market Influences — Renewed Outlook, Key Drivers of Growth"
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "Which Senior Gold Miners Have Rerating Potential in 2019?"
+    },
+    "tweet2": {
+      "content": "Can Gold Miners Be Repriced as Consolidation Hits the Sector?"
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Gold Prices Just Got a Boost From the Fed"
+    },
+    "tweet2": {
+      "content": "Russia's Polymetal to shun M&A in 2019, focus on asset sales"
+    },
+    "tweet3": {
+      "content": "PRESS DIGEST- Canada-Jan 31"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "Gold Stocks to Buy as They Outperform Gold Futures"
+    },
+    "tweet2": {
+      "content": "See what the IHS Markit Score report has to say about Newmont Mining Corp."
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Accomplished Mining Executive Rob Atkinson to Join Newmont as Chief Operating Officer"
+    },
+    "tweet2": {
+      "content": "Noteworthy ETF Outflows: GDX, GOLD, COMPANY_X, FNV"
+    },
+    "tweet3": {
+      "content": "Noteworthy ETF Outflows: GDX, GOLD, COMPANY_X, FNV"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Ethiopia finalising mining industry reforms -minister"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "4 Mining Stocks Poised to Outshine Q4 Earnings Estimates"
+    },
+    "tweet2": {
+      "content": "4 Mining Stocks Poised to Outshine Q4 Earnings Estimates"
+    },
+    "tweet3": {
+      "content": "Sibanye Sees Potential for Buying South African Gold Assets"
+    },
+    "tweet4": {
+      "content": "4 Mining Stocks Poised to Outshine Q4 Earnings Estimates"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "Which Gold Stocks Do Analysts Love ahead of Their Q4 Results?"
+    },
+    "tweet2": {
+      "content": "Digging into Gold Miners’ Performances ahead of Their Q4 Results"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Assessing Gold Miners’ Free Cash Flows in 2018 and Beyond"
+    },
+    "tweet2": {
+      "content": "Which Gold Miners Could Surprise on the Earnings Upside in Q4?"
+    },
+    "tweet3": {
+      "content": "What Factors Are Affecting Revenue Estimates for Gold Miners?"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "Goldcorp (GG) to Report Q4 Earnings: What's in the Cards?"
+    },
+    "tweet2": {
+      "content": "Goldcorp (GG) to Report Q4 Earnings: What's in the Cards?"
+    },
+    "tweet3": {
+      "content": "Goldcorp (GG) to Report Q4 Earnings: What's in the Cards?"
+    },
+    "tweet4": {
+      "content": "Investors Eyeing Barrick’s Plan to Get Lean after Merger"
+    },
+    "tweet5": {
+      "content": "Will Barrick Announce a Resolution to Its Tanzania Tax Woes?"
+    },
+    "tweet6": {
+      "content": "Which Gold Stocks Are Primed for a Valuation Upside after Q4?"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "Your first trade for Tuesday, February 12"
+    },
+    "tweet2": {
+      "content": "What’s Affecting Barrick’s Earnings Estimates?"
+    },
+    "tweet3": {
+      "content": "Gold’s Surge Has Been Disguised by the Strong Dollar"
+    },
+    "tweet4": {
+      "content": "Here's Why These Gold Stocks Climbed as Much as 30% in January"
+    },
+    "tweet5": {
+      "content": "Here's Why These Gold Stocks Climbed as Much as 30% in January"
+    },
+    "tweet6": {
+      "content": "Here&apos;s Why These Gold Stocks Climbed as Much as 30% in January"
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "[$$] New Barrick Gold CEO Discusses Possibilities for Miner"
+    },
+    "tweet2": {
+      "content": "Barrick sets bullish 2019 gold output target after Randgold deal"
+    },
+    "tweet3": {
+      "content": "Barrick Gold Tanks on Mixed Results"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "Mario Gabelli's Value 25 Fund 4th Quarter Shareholder Letter"
+    },
+    "tweet2": {
+      "content": "Analysts Estimate Newmont Mining (COMPANY_X) to Report a Decline in Earnings: What to Look Out for"
+    },
+    "tweet3": {
+      "content": "Analysts Estimate Newmont Mining (COMPANY_X) to Report a Decline in Earnings: What to Look Out for"
+    },
+    "tweet4": {
+      "content": "Analysts Estimate Newmont Mining (COMPANY_X) to Report a Decline in Earnings: What to Look Out for"
+    },
+    "tweet5": {
+      "content": "Kinross Gold Beat Its Q4 Earnings Estimates"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Mario Gabelli Comments on Newmont Mining Corp"
+    },
+    "tweet2": {
+      "content": "Can Newmont (COMPANY_X) Keep the Earnings Surprise Streak Alive?"
+    },
+    "tweet3": {
+      "content": "Can Newmont (COMPANY_X) Keep the Earnings Surprise Streak Alive?"
+    },
+    "tweet4": {
+      "content": "Can Newmont (COMPANY_X) Keep the Earnings Surprise Streak Alive?"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "COMPANY_X Makes Bullish Cross Above Critical Moving Average"
+    },
+    "tweet2": {
+      "content": "COMPANY_X Makes Bullish Cross Above Critical Moving Average"
+    },
+    "tweet3": {
+      "content": "Will Higher Prices Help Mosaic (MOS) Beat Earnings in Q4?"
+    },
+    "tweet4": {
+      "content": "Will Higher Prices Help Mosaic (MOS) Beat Earnings in Q4?"
+    },
+    "tweet5": {
+      "content": "Will Higher Prices Help Mosaic (MOS) Beat Earnings in Q4?"
+    },
+    "tweet6": {
+      "content": "Bernstein Quants Join Bulls on Gold Sector as Cycle Darkens"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Noteworthy Wednesday Option Activity: COMPANY_X, SAM, DHT"
+    },
+    "tweet2": {
+      "content": "Noteworthy Wednesday Option Activity: COMPANY_X, SAM, DHT"
+    },
+    "tweet3": {
+      "content": "Pre-Market Earnings Report for February 21, 2019 :  HRL, COMPANY_X, TFX, NCLH, DPZ, OGE, VER, GIL, BG, STOR, TTC, RS"
+    },
+    "tweet4": {
+      "content": "Pre-Market Earnings Report for February 21, 2019 :  HRL, COMPANY_X, TFX, NCLH, DPZ, OGE, VER, GIL, BG, STOR, TTC, RS"
+    },
+    "tweet5": {
+      "content": "A Preview Of Newmont Mining's Q4 Earnings"
+    },
+    "tweet6": {
+      "content": "What’s in the Cards for Newmont Mining’s Q4 Results?"
+    },
+    "tweet7": {
+      "content": "Newmont Announces Quarterly Dividend of $0.14 per Share"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Newmont Mining Corp (COMPANY_X) Q4 2018 Earnings Conference Call Transcript"
+    },
+    "tweet2": {
+      "content": "Newmont (COMPANY_X) Tops Earnings, Sales Estimates in Q4"
+    },
+    "tweet3": {
+      "content": "Newmont (COMPANY_X) Tops Earnings, Sales Estimates in Q4"
+    },
+    "tweet4": {
+      "content": "Why The Top Stock In The No. 1 Industry Group Is Surging Today"
+    },
+    "tweet5": {
+      "content": "Newmont Mining Swings to a Profit as Gold Stocks Regain Some Luster"
+    },
+    "tweet6": {
+      "content": "5 Must-See Stock Charts for Friday: Newmont, Nike, Tesla"
+    },
+    "tweet7": {
+      "content": "Newmont (COMPANY_X) Tops Earnings, Sales Estimates in Q4"
+    },
+    "tweet8": {
+      "content": "Newmont Mining’s Q4 Results Beat Estimates, Stock Rises"
+    },
+    "tweet9": {
+      "content": "Newmont's (COMPANY_X) Q4 Earnings and Revenues Surpass Estimates"
+    },
+    "tweet10": {
+      "content": "Newmont's (COMPANY_X) Q4 Earnings and Revenues Surpass Estimates"
+    },
+    "tweet11": {
+      "content": "Newmont Mining Slips Despite Posting Better-Than-Expected Earnings"
+    },
+    "tweet12": {
+      "content": "Newmont's (COMPANY_X) Q4 Earnings and Revenues Surpass Estimates"
+    },
+    "tweet13": {
+      "content": "Newmont Mining Stock Shines on Better-Than-Expected Earnings"
+    },
+    "tweet14": {
+      "content": "[$$] Newmont Mining 4Q Sales Beat Expectations"
+    },
+    "tweet15": {
+      "content": "Newmont Mining profit beats on higher gold output, lower costs"
+    },
+    "tweet16": {
+      "content": "Newmont: 4Q Earnings Snapshot"
+    },
+    "tweet17": {
+      "content": "Newmont Mining posts quarterly profit"
+    },
+    "tweet18": {
+      "content": "Newmont Mining's stock jumps after adjusted profit, sales rise above expectations"
+    },
+    "tweet19": {
+      "content": "Newmont Announces Full Year and Fourth Quarter 2018 Results"
+    },
+    "tweet20": {
+      "content": "Newmont Reports 2018 Reserves and Resources; Delivered 6.7Mozs of Reserves through exploration, Resources increase"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Barrick Gold Has Studied Offer for Newmont Mining"
+    },
+    "tweet2": {
+      "content": "Canada's Barrick considers buyout of rival Newmont Mining"
+    },
+    "tweet3": {
+      "content": "Newmont says aware of Barrick's buyout talk but will not comment"
+    },
+    "tweet4": {
+      "content": "Canada's Barrick considers buyout of rival Newmont Mining"
+    },
+    "tweet5": {
+      "content": "Newmont says aware of Barrick's buyout talk but will not comment"
+    },
+    "tweet6": {
+      "content": "Newmont and Goldcorp obtain interim order for plan of arrangement"
+    },
+    "tweet7": {
+      "content": "Update: TSX Posts Modest Gains Friday, Paced by Tech, Energy Shares"
+    },
+    "tweet8": {
+      "content": "Update: TSX Posts Modest Gains Friday, Paced by Tech, Energy Shares"
+    },
+    "tweet9": {
+      "content": "Dow Posts Solid Gains as Optimism Surrounds U.S.-China Trade Negotiations"
+    },
+    "tweet10": {
+      "content": "Will Gold Mining ETFs Keep Sizzling Despite Mixed Earnings?"
+    },
+    "tweet11": {
+      "content": "Will Gold Mining ETFs Keep Sizzling Despite Mixed Earnings?"
+    },
+    "tweet12": {
+      "content": "Golden Opportunity? Barrick Gold Mulls Newmont Mining Bid; Gold Stocks Move On M&A, Earnings"
+    },
+    "tweet13": {
+      "content": "Newmont and Goldcorp Obtain Interim Order for Plan of Arrangement"
+    },
+    "tweet14": {
+      "content": "Canada's Barrick considers buyout of rival Newmont Mining"
+    },
+    "tweet15": {
+      "content": "Bullish Charts and a Quant 'Buy' Recommendation on Newmont Mining"
+    },
+    "tweet16": {
+      "content": "Will Gold Mining ETFs Keep Sizzling Despite Mixed Earnings?"
+    },
+    "tweet17": {
+      "content": "Newmont Mining Flat on 4th Quarter Results"
+    },
+    "tweet18": {
+      "content": "Dow Trades Above 26,000 as Optimism Surrounds U.S.-China Trade Negotiations"
+    },
+    "tweet19": {
+      "content": "Barrick&apos;s Thornton Puts Newmont in Check in Gold Takeover Game"
+    },
+    "tweet20": {
+      "content": "[$$] Barrick Gold Says It Has Looked at Possible Deal With Newmont"
+    },
+    "tweet21": {
+      "content": "Stocks Rise as Trump Plans to Meet With China's Vice Premier for Trade Talks"
+    },
+    "tweet22": {
+      "content": "TSX May Start Higher As Oil Climbs; Earnings In Focus"
+    },
+    "tweet23": {
+      "content": "TSX May Start Higher As Oil Climbs; Earnings In Focus"
+    },
+    "tweet24": {
+      "content": "Newmont Mining Surges Amid Reports Barrick Gold Considering $19 Billion Takeover"
+    },
+    "tweet25": {
+      "content": "Pre-Market Most Active for Feb 22, 2019 :  KHC, COMPANY_X, STMP, NOK, GG, AMD, SQQQ, ROKU, QQQ, W, GOLD, NIO"
+    },
+    "tweet26": {
+      "content": "Pre-Market Most Active for Feb 22, 2019 :  KHC, COMPANY_X, STMP, NOK, GG, AMD, SQQQ, ROKU, QQQ, W, GOLD, NIO"
+    },
+    "tweet27": {
+      "content": "Barrick Gold says reviewed possible merger with Newmont Mining"
+    },
+    "tweet28": {
+      "content": "US STOCKS-Wall St set to bounce on signs of trade progress"
+    },
+    "tweet29": {
+      "content": "Kraft Heinz, Pinterest, Stamps.com, Barrick and Newmont - 5 Things You Must Know"
+    },
+    "tweet30": {
+      "content": "US STOCKS-Futures bounce on signs of progress in trade talks"
+    },
+    "tweet31": {
+      "content": "PRESS DIGEST- Canada - Feb 22"
+    },
+    "tweet32": {
+      "content": "Gold’s Distracted Lovers Need to Cool Off"
+    },
+    "tweet33": {
+      "content": "Gold’s Distracted Lovers Need to Cool Off"
+    },
+    "tweet34": {
+      "content": "Canada's Barrick Gold considers hostile $19 bln bid for Newmont Mining -media"
+    },
+    "tweet35": {
+      "content": "Stocks - U.S. Futures Higher as Trump Prepares to Meet Top China Trade Rep"
+    },
+    "tweet36": {
+      "content": "Barrick Gold explores $19 billion hostile bid for Newmont Mining: Globe and Mail"
+    },
+    "tweet37": {
+      "content": "Barrick Gold studied offer for Newmont Mining - Bloomberg"
+    },
+    "tweet38": {
+      "content": "5 Must-See Stock Charts for Friday: Newmont, Nike, Tesla"
+    },
+    "tweet39": {
+      "content": "5 Must-See Stock Charts for Friday: Newmont, Nike, Tesla"
+    },
+    "tweet40": {
+      "content": "Newmont Mining Corp (COMPANY_X) Q4 2018 Earnings Conference Call Transcript"
+    },
+    "tweet41": {
+      "content": "Newmont Mining Corp (COMPANY_X) Q4 2018 Earnings Conference Call Transcript"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Mario Gabelli's take on today's flurry of M&A activity"
+    },
+    "tweet2": {
+      "content": "Newmont Mining Corporation -- Moody's says Barrick proposal has no impact on Newmont's ratings"
+    },
+    "tweet3": {
+      "content": "Close Update: Wall Street Grinds Higher Amid Progress For US/China Trade Deal"
+    },
+    "tweet4": {
+      "content": "Close Update: Wall Street Grinds Higher Amid Progress For US/China Trade Deal"
+    },
+    "tweet5": {
+      "content": "Evolution Eyes Australian Spoils From Any Barrick-Newmont Deal"
+    },
+    "tweet6": {
+      "content": "Update: TSX Posts Modest 44-Point Gain Despite Commodity Price Slump"
+    },
+    "tweet7": {
+      "content": "Update: TSX Posts Modest 44-Point Gain Despite Commodity Price Slump"
+    },
+    "tweet8": {
+      "content": "Dow Closes Modestly Higher After Trump Extends China Tariff Deadline"
+    },
+    "tweet9": {
+      "content": "Barrick CEO defends $18 billion hostile Newmont bid as logical tie-up"
+    },
+    "tweet10": {
+      "content": "Newcrest CEO says 'happy to do M&A' if right value for shareholders"
+    },
+    "tweet11": {
+      "content": "Barrick CEO defends $18 billion hostile Newmont bid as logical tie-up"
+    },
+    "tweet12": {
+      "content": "Barrick CEO: Newmont deal 'logical' for shareholders of both companies"
+    },
+    "tweet13": {
+      "content": "Mid-Day Update: Trade Optimism Fuels Wall Street's Gains"
+    },
+    "tweet14": {
+      "content": "Mid-Day Update: Trade Optimism Fuels Wall Street's Gains"
+    },
+    "tweet15": {
+      "content": "Newmont Mining CEO blasts Barrick's $19B takeover bid as gold miners' rivalry heats up"
+    },
+    "tweet16": {
+      "content": "Barrick Gold Makes Hostile $17.8 Billion Bid for Newmont Mining"
+    },
+    "tweet17": {
+      "content": "Newmont CEO says shareholders do not see value in Barrick bid"
+    },
+    "tweet18": {
+      "content": "Barrick makes $18 bln hostile bid for Newmont"
+    },
+    "tweet19": {
+      "content": "Dow Rises Solidly After Trump Extends China Tariff Deadline"
+    },
+    "tweet20": {
+      "content": "Stock Market News: Barrick Gold Gets Hostile, GE Soars"
+    },
+    "tweet21": {
+      "content": "Stock Market News: Barrick Gold Gets Hostile, GE Soars"
+    },
+    "tweet22": {
+      "content": "Correction: Wall Street Stock Futures Rally as 'Productive' Trade Talks Led to Tariff Delay"
+    },
+    "tweet23": {
+      "content": "Correction: Wall Street Stock Futures Rally as 'Productive' Trade Talks Led to Tariff Delay"
+    },
+    "tweet24": {
+      "content": "Barrick CEO Says He&apos;ll Run Newmont&apos;s Mines Better Than They Can"
+    },
+    "tweet25": {
+      "content": "S&P 500 Movers: COMPANY_X, GE"
+    },
+    "tweet26": {
+      "content": "S&P 500 Movers: COMPANY_X, GE"
+    },
+    "tweet27": {
+      "content": "Stock Market News: Barrick Gold Gets Hostile, GE Soars"
+    },
+    "tweet28": {
+      "content": "Barrick Gold Makes Formal $18 Billion All-Share Bid for Rival Newmont Mining"
+    },
+    "tweet29": {
+      "content": "Barrick Gold Makes a Hostile Bid to Acquire Newmont Mining"
+    },
+    "tweet30": {
+      "content": "Barrick Swings Hard for Newmont - Maybe Too Hard"
+    },
+    "tweet31": {
+      "content": "Barrick CEO says Newmont bid 'logical' deal for shareholders"
+    },
+    "tweet32": {
+      "content": "Newmont Mining Stock Slips on Barrick Gold’s Below-Market Buyout Offer"
+    },
+    "tweet33": {
+      "content": "Barrick makes $18 billion hostile bid for Newmont in gold mega-merger"
+    },
+    "tweet34": {
+      "content": "Barrick Confirms Media Reports Of Interest In Newmont Mining"
+    },
+    "tweet35": {
+      "content": "CANADA STOCKS-TSX rises on high hopes of U.S.-China trade deal"
+    },
+    "tweet36": {
+      "content": "TSX May Start Higher on Trade Talks; Barrick, Newmont Deal in Focus"
+    },
+    "tweet37": {
+      "content": "TSX May Start Higher on Trade Talks; Barrick, Newmont Deal in Focus"
+    },
+    "tweet38": {
+      "content": "Barrick goes after Newmont to create $42 billion gold giant"
+    },
+    "tweet39": {
+      "content": "Wall Street Stock Futures Rally as 'Productive' Trade Talks Led to Tariff Delay"
+    },
+    "tweet40": {
+      "content": "Wall Street Stock Futures Rally as 'Productive' Trade Talks Led to Tariff Delay"
+    },
+    "tweet41": {
+      "content": "Newmont Confirms Receipt of Barrick Acquisition Proposal"
+    },
+    "tweet42": {
+      "content": "Barrick Gold goes after Newmont to create mining giant"
+    },
+    "tweet43": {
+      "content": "[$$] FirstFT: Today’s top stories"
+    },
+    "tweet44": {
+      "content": "Stocks making the biggest moves premarket: Berkshire Hathaway, General Electric, Twitter & more"
+    },
+    "tweet45": {
+      "content": "Stocks making the biggest moves premarket: Berkshire Hathaway, General Electric, Twitter & more"
+    },
+    "tweet46": {
+      "content": "US STOCKS-Futures rise as Trump delays tariff hike on Chinese goods"
+    },
+    "tweet47": {
+      "content": "Barrick Gold goes after Newmont to create mining giant"
+    },
+    "tweet48": {
+      "content": "Barrick bids $18 billion for Newmont in gold mega-merger"
+    },
+    "tweet49": {
+      "content": "Newmont&apos;s stock gains after Barrick Gold makes hostile buyout bid"
+    },
+    "tweet50": {
+      "content": "Newmont's stock gains after Barrick Gold makes hostile buyout bid"
+    },
+    "tweet51": {
+      "content": "PRESS DIGEST- Canada - Feb 25"
+    },
+    "tweet52": {
+      "content": "Barrick Gold unveils $18 billion all-stock bid for Newmont Mining"
+    },
+    "tweet53": {
+      "content": "Stocks Gain, China Surges, as Trump Delays Tariffs Amid Trade Talk Progress"
+    },
+    "tweet54": {
+      "content": "[$$] Barrick Gold launches $18bn hostile offer to buy US rival"
+    },
+    "tweet55": {
+      "content": "Barrick Gold launches bid to acquire Newmont in blockbuster all-stock mining deal"
+    },
+    "tweet56": {
+      "content": "Barrick Proposes Merger With Newmont as an Unprecedented Value Creation Opportunity for Shareholders"
+    },
+    "tweet57": {
+      "content": "[$$] Barrick calls for Newmont shareholder proposal after bid consideration"
+    },
+    "tweet58": {
+      "content": "Newmont to Present at BMO Metals & Mining Conference"
+    },
+    "tweet59": {
+      "content": "[$$] Newmont Says Rival Miner Barrick Gold Has Bought a Small Stake"
+    },
+    "tweet60": {
+      "content": "[$$] Newmont chief ready to discuss Nevada potential with Barrick Gold"
+    },
+    "tweet61": {
+      "content": "Newmont says Barrick intends to propose changes of Newmont by-laws"
+    },
+    "tweet62": {
+      "content": "Newmont CEO Calls Barrick Move ‘Desperate’ as Miner Summit Looms"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "Rattled by Vale disaster, mining CEOs move to change industry"
+    },
+    "tweet2": {
+      "content": "Buffett versus Dalio on Gold: Whose Advice Should You Take?"
+    },
+    "tweet3": {
+      "content": "Newmont and Goldcorp Receive Merger Approval from the Government of Korea"
+    },
+    "tweet4": {
+      "content": "Newmont Mining: Upside to Its Project Pipeline"
+    },
+    "tweet5": {
+      "content": "Barrick (PD) Australia Finance Pty Ltd -- Moody's changes Barrick's Baa2 outlook to developing"
+    },
+    "tweet6": {
+      "content": "Gold Mining ETFs Heat Up on M&A Buzz"
+    },
+    "tweet7": {
+      "content": "Gold Mining ETFs Heat Up on M&A Buzz"
+    },
+    "tweet8": {
+      "content": "GDX, INDS: Big ETF Outflows"
+    },
+    "tweet9": {
+      "content": "GDX, INDS: Big ETF Outflows"
+    },
+    "tweet10": {
+      "content": "Newmont and Goldcorp Receive Merger Approval from the Government of Korea"
+    },
+    "tweet11": {
+      "content": "Gold&apos;s Next Fight: Barrick-Newmont&apos;s $4.5 Billion Castoffs"
+    },
+    "tweet12": {
+      "content": "Newmont Mining: Analyzing Its Production Drivers"
+    },
+    "tweet13": {
+      "content": "3 Charts That Suggest It's Time to Buy Metals"
+    },
+    "tweet14": {
+      "content": "Gold Mining ETFs Heat Up on M&A Buzz"
+    },
+    "tweet15": {
+      "content": "Can Newmont Mining Outperform Its Peers in 2019?"
+    },
+    "tweet16": {
+      "content": "Investor Expectations to Drive Momentum within Newmont Mining, Albemarle, Abraxas Petroleum, Osisko Gold Royalties, Toro, and Dova Pharmaceuticals — Discovering Underlying Factors of Influence"
+    },
+    "tweet17": {
+      "content": "Ex-Goldman Banker May Finish Huge Gold Deal Five Years Later"
+    },
+    "tweet18": {
+      "content": "'Loser' vs 'Anemic': Barrick's Newmont bid starts on toxic note"
+    },
+    "tweet19": {
+      "content": "[$$] Mining Giant Barrick Gold Makes Unsolicited Bid for Rival Newmont"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "Bet On Gold Stocks as the M&A Love Triangle Gets Interesting"
+    },
+    "tweet2": {
+      "content": "Bet On Gold Stocks as the M&A Love Triangle Gets Interesting"
+    },
+    "tweet3": {
+      "content": "Why Barrick Gold Is Trying to Buy Newmont Mining Again"
+    },
+    "tweet4": {
+      "content": "Bet On Gold Stocks as the M&A Love Triangle Gets Interesting"
+    },
+    "tweet5": {
+      "content": "Newmont (COMPANY_X) Gets Korea Clearance for Merger With Goldcorp"
+    },
+    "tweet6": {
+      "content": "Newmont (COMPANY_X) Gets Korea Clearance for Merger With Goldcorp"
+    },
+    "tweet7": {
+      "content": "Newmont Mining’s Financial Position Remains Strong"
+    },
+    "tweet8": {
+      "content": "How Gold Mining Merger Mania Is Here to Stay"
+    },
+    "tweet9": {
+      "content": "Newmont (COMPANY_X) Gets Korea Clearance for Merger With Goldcorp"
+    },
+    "tweet10": {
+      "content": "What to Expect from Newmont Mining’s Cost Performance"
+    },
+    "tweet11": {
+      "content": "Newmont Mining’s Reserves Fell during 2018"
+    },
+    "tweet12": {
+      "content": "Barrick's Bid for Newmont Faces Challenges"
+    },
+    "tweet13": {
+      "content": "Rattled by Vale disaster, mining CEOs move to change industry"
+    },
+    "tweet14": {
+      "content": "[$$] Key shareholder voices support for Barrick-Newmont deal"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "Top Analyst Reports for Comcast, Deere & Exelon"
+    },
+    "tweet2": {
+      "content": "Suriname, Government of -- Moody's changes Suriname's rating outlook to stable from negative; affirms B2 rating"
+    },
+    "tweet3": {
+      "content": "Why gold is down for the month, but still on a long-term track to reach $2,000 an ounce"
+    },
+    "tweet4": {
+      "content": "3 Ways to Trade the Bull Market for Gold Stocks"
+    },
+    "tweet5": {
+      "content": "Barrick Gold’s Costs Are Expected to Rise in 2019"
+    },
+    "tweet6": {
+      "content": "Newmont Is Right to Be Reserved About Barrick"
+    },
+    "tweet7": {
+      "content": "Barrick, Newmont Race to Plead Merger Cases to Top Investors"
+    },
+    "tweet8": {
+      "content": "Gold’s Four-Month Winning Streak on the Line Today"
+    },
+    "tweet9": {
+      "content": "Barrick Gold CEO makes the case for Newmont acquisition"
+    },
+    "tweet10": {
+      "content": "Newmont Mining’s Valuation Multiple: More Upside Potential?"
+    },
+    "tweet11": {
+      "content": "[$$] Aurelius court victory sends Windstream to Chapter 11"
+    },
+    "tweet12": {
+      "content": "[$$] Barrick fires further salvo at Newmont"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "Cultural clash overshadowing Barrick's Newmont bid"
+    },
+    "tweet2": {
+      "content": "Barrick Has No Intention to Raise Newmont Offer, Source Says"
+    },
+    "tweet3": {
+      "content": "Softness in Gold Just a Blip, Buy These 4 Stocks Instead"
+    },
+    "tweet4": {
+      "content": "Softness in Gold Just a Blip, Buy These 4 Stocks Instead"
+    },
+    "tweet5": {
+      "content": "Analyzing Barrick Gold’s Free Cash Flow Upside in 2019"
+    },
+    "tweet6": {
+      "content": "Why Did Barrick Gold’s Reserves Fall in 2018?"
+    },
+    "tweet7": {
+      "content": "Softness in Gold Just a Blip, Buy These 4 Stocks Instead"
+    },
+    "tweet8": {
+      "content": "Barrick Gold’s Financial Leverage Position Looks Comfortable"
+    },
+    "tweet9": {
+      "content": "Top Analyst Reports for Comcast, Deere & Exelon"
+    },
+    "tweet10": {
+      "content": "Top Analyst Reports for Comcast, Deere & Exelon"
+    },
+    "tweet11": {
+      "content": "[$$] Barrick Gold chief sets sights on conquering mining world"
+    },
+    "tweet12": {
+      "content": "[$$] Barrick chief Bristow rules out higher offer for Newmont"
+    },
+    "tweet13": {
+      "content": "3 Ways to Trade the Bull Market for Gold Stocks"
+    },
+    "tweet14": {
+      "content": "3 Ways to Trade the Bull Market for Gold Stocks"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "Barrick says open to Nevada joint venture talks with Newmont"
+    },
+    "tweet2": {
+      "content": "Barrick says open to Nevada joint venture talks with Newmont"
+    },
+    "tweet3": {
+      "content": "See what the IHS Markit Score report has to say about Newmont Mining Corp."
+    },
+    "tweet4": {
+      "content": "Barrick CEO says will discuss Nevada joint venture with Newmont"
+    },
+    "tweet5": {
+      "content": "Newmont rejects Barrick's buyout offer, proposes Nevada JV"
+    },
+    "tweet6": {
+      "content": "[$$] Newmont Rejects Barrick Gold's Takeover Bid"
+    },
+    "tweet7": {
+      "content": "Ex-Dividend Reminder: Nielsen Holdings, Mosaic and Newmont Mining"
+    },
+    "tweet8": {
+      "content": "Ex-Dividend Reminder: Nielsen Holdings, Mosaic and Newmont Mining"
+    },
+    "tweet9": {
+      "content": "Thanks, But No Thanks: Newmont Rejects Barrick's Acquisition Offer"
+    },
+    "tweet10": {
+      "content": "Market Open: March 4, 2019"
+    },
+    "tweet11": {
+      "content": "Newmont Shoots Down Barrick Bid, to Proceed With Goldcorp Deal"
+    },
+    "tweet12": {
+      "content": "Newmont Mining Rejects Barrick Gold’s Hostile Acquisition Bid"
+    },
+    "tweet13": {
+      "content": "TSX May Open Higher on Trade Deal Hopes, Oil Price Hike"
+    },
+    "tweet14": {
+      "content": "TSX May Open Higher on Trade Deal Hopes, Oil Price Hike"
+    },
+    "tweet15": {
+      "content": "[$$] Nevada Is the Jackpot of a Barrick, Newmont Merger"
+    },
+    "tweet16": {
+      "content": "Newmont Slide Show Heats Up War of Words on Barrick Takeover"
+    },
+    "tweet17": {
+      "content": "Newmont rejects Barrick Gold&apos;s &apos;negative premium&apos; buyout bid"
+    },
+    "tweet18": {
+      "content": "Newmont Board Unanimously Determines that Barrick’s Unsolicited, Negative Premium Proposal Is Not in Newmont Shareholders’ Best Interests"
+    },
+    "tweet19": {
+      "content": "Barrick Gold’s Valuation Multiple: Upside in 2019?"
+    },
+    "tweet20": {
+      "content": "Miners ‘Lifeblood’ Looks Poised to Flow Back Following Pot Craze"
+    },
+    "tweet21": {
+      "content": "[$$] Newmont rejects $18bn hostile approach by rival Barrick"
+    },
+    "tweet22": {
+      "content": "Global miners flock to Toronto as buyout buzz spreads"
+    },
+    "tweet23": {
+      "content": "Global miners flock to Toronto as buyout buzz spreads"
+    },
+    "tweet24": {
+      "content": "[$$] Newmont Mining rejects $18bn hostile approach by rival Barrick"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "Top Barrick shareholder urges joint venture in Nevada with Newmont"
+    },
+    "tweet2": {
+      "content": "Target, Kohl's Surprise on FY Guidance; Plus GOLD, COMPANY_X"
+    },
+    "tweet3": {
+      "content": "Target, Kohl's Surprise on FY Guidance; Plus GOLD, COMPANY_X"
+    },
+    "tweet4": {
+      "content": "Takeovers & Earnings To Watch Out For"
+    },
+    "tweet5": {
+      "content": "Takeovers & Earnings To Watch Out For"
+    },
+    "tweet6": {
+      "content": "[$$] Barrick's Biggest Shareholder Opposes Acquisition of Newmont"
+    },
+    "tweet7": {
+      "content": "Target, Kohl's Surprise on FY Guidance; Plus GOLD, COMPANY_X"
+    },
+    "tweet8": {
+      "content": "Target, Kohl's Surprise on FY Guidance; Plus GOLD, COMPANY_X"
+    },
+    "tweet9": {
+      "content": "Barrick's top shareholder pushes for Nevada deal with Newmont"
+    },
+    "tweet10": {
+      "content": "Target, Kohl's Surprise on FY Guidance; Plus GOLD, COMPANY_X"
+    },
+    "tweet11": {
+      "content": "MARKETS: Gold slumps as Armageddon fears abate"
+    },
+    "tweet12": {
+      "content": "Newmont CEO Eager to Meet with Barrick But Not About Merger"
+    },
+    "tweet13": {
+      "content": "Takeovers & Earnings To Watch Out For"
+    },
+    "tweet14": {
+      "content": "Target, Kohl's Surprise on FY Guidance; Plus GOLD, COMPANY_X"
+    },
+    "tweet15": {
+      "content": "Newmont Mining Corporation (COMPANY_X) Ex-Dividend Date Scheduled for March 06, 2019"
+    },
+    "tweet16": {
+      "content": "Newmont Mining Corporation (COMPANY_X) Ex-Dividend Date Scheduled for March 06, 2019"
+    },
+    "tweet17": {
+      "content": "Newmont Mining CEO Gary Goldberg on Barrick's hostile bid"
+    },
+    "tweet18": {
+      "content": "Newmont Mining CEO responds to Barrick's hostile takeover"
+    },
+    "tweet19": {
+      "content": "See what the IHS Markit Score report has to say about Newmont Mining Corp."
+    },
+    "tweet20": {
+      "content": "[$$] Barrick’s biggest shareholder calls for JV with Newmont"
+    },
+    "tweet21": {
+      "content": "What Humphrey Bogart Can Teach the Gold Diggers"
+    },
+    "tweet22": {
+      "content": "[$$] Barrick shareholder Van Eck in favour of Nevada merger"
+    },
+    "tweet23": {
+      "content": "[$$] Barrick and Newmont CEOs to meet in New York after rejected hostile bid"
+    },
+    "tweet24": {
+      "content": "Barrick says open to Nevada joint venture talks with Newmont"
+    },
+    "tweet25": {
+      "content": "Barrick CEO Vows to Press On With Bid for Newmont After Rebuff"
+    },
+    "tweet26": {
+      "content": "[$$] Nevada’s Gold Is at Center of Barrick vs. Newmont Fight"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "Newmont calls initial Nevada joint venture talks with Barrick 'productive'"
+    },
+    "tweet2": {
+      "content": "Barrick and Newmont Talk, But Details Yet to Emerge on Progress"
+    },
+    "tweet3": {
+      "content": "PRESS DIGEST- Canada- March 6"
+    },
+    "tweet4": {
+      "content": "[$$] Newmont Mining says initial talks with Barrick ‘constructive’"
+    },
+    "tweet5": {
+      "content": "[$$] Barrick chief faces test of credentials and time"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "Barrick Gold CEO: Newmont merger would deliver &apos;real value&apos; in Nevada"
+    },
+    "tweet2": {
+      "content": "Barrick Gold CEO: Newmont merger would deliver 'real value' in Nevada"
+    },
+    "tweet3": {
+      "content": "Barrick Gold CEO: Newmont merger would deliver 'real value' in Nevada"
+    },
+    "tweet4": {
+      "content": "Barrick CEO calls Nevada JV talks with Newmont 'constructive' -CNBC"
+    },
+    "tweet5": {
+      "content": "Goldcorp Announces Mailing of Management Information Circular in Connection with Special Meeting to Consider Acquisition by Newmont"
+    },
+    "tweet6": {
+      "content": "Gold Miners Are Talking Deals. Expect a Resolution Soon, Analyst Says."
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "Why IAMGOLD Stock Popped 11% Today"
+    },
+    "tweet2": {
+      "content": "Barrick Gold Could Really Rally If It Can Break Above $14.13"
+    },
+    "tweet3": {
+      "content": "The 6 Stocks To Watch: Cramer's 'Mad Money' Recap (Thursday 3/7/19)"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "Barrick Ends Hostile Bid But Walks Away With Long-Sought Prize"
+    },
+    "tweet2": {
+      "content": "Update: TSX Posts Triple Digit Gain, Up 110 Points, as Crude Oil Prices Rise; Barrick-Newmont JV Shakes Up Gold Sector"
+    },
+    "tweet3": {
+      "content": "Update: TSX Posts Triple Digit Gain, Up 110 Points, as Crude Oil Prices Rise; Barrick-Newmont JV Shakes Up Gold Sector"
+    },
+    "tweet4": {
+      "content": "The Gold Rush Is Over: Barrick Gold Drops Newmont Mining Hostile Bid; Gold Miners Form Joint Venture"
+    },
+    "tweet5": {
+      "content": "Barrick Gold’s Joint Venture With Newmont Mining Looks Like a Winner"
+    },
+    "tweet6": {
+      "content": "Newmont, Barrick strike deal for massive gold venture, end hostile takeover drama"
+    },
+    "tweet7": {
+      "content": "Barrick Gold ends hostile Newmont bid, signs Nevada joint venture"
+    },
+    "tweet8": {
+      "content": "Newmont Fends Off Barrick&apos;s Hostile Bid, But Only for Two Years"
+    },
+    "tweet9": {
+      "content": "Gold Miners Don’t Quite Put a Ring on It"
+    },
+    "tweet10": {
+      "content": "Research firm criticizes Goldcorp chair payment over Newmont deal"
+    },
+    "tweet11": {
+      "content": "Newmont Mining and Barrick Gold Agree to a Different Kind of Deal"
+    },
+    "tweet12": {
+      "content": "Research firm criticizes Goldcorp chair payment over Newmont deal"
+    },
+    "tweet13": {
+      "content": "CANADA STOCKS-TSX rebounds from three-week low as energy, material stocks gain"
+    },
+    "tweet14": {
+      "content": "Update: TSX May Start Higher As Saudi Oil Minister's Comment Lift Oil Prices; Barrick Gold, Newmont JV in Focus"
+    },
+    "tweet15": {
+      "content": "Update: TSX May Start Higher As Saudi Oil Minister's Comment Lift Oil Prices; Barrick Gold, Newmont JV in Focus"
+    },
+    "tweet16": {
+      "content": "[$$] Barrick Gold, Newmont Mining Agree to Joint Venture"
+    },
+    "tweet17": {
+      "content": "Barrick Gold Drops $18 Hostile Bid for Newmont; Pair Will Focus on Nevada JV"
+    },
+    "tweet18": {
+      "content": "Barrick Gold drops takeover bid for Newmont Mining"
+    },
+    "tweet19": {
+      "content": "Barrick withdraws hostile bid for Newmont"
+    },
+    "tweet20": {
+      "content": "Goldcorp Announces Support for Barrick and Newmont Nevada Joint Venture"
+    },
+    "tweet21": {
+      "content": "Barrick and Newmont Forge Nevada Joint Venture Agreement"
+    },
+    "tweet22": {
+      "content": "Barrick and Newmont Forge Nevada Joint Venture Agreement"
+    },
+    "tweet23": {
+      "content": "Barrick Gold Rises Midday as it Withdraws Newmont Bid"
+    },
+    "tweet24": {
+      "content": "3 Key Brexit Votes This Week"
+    },
+    "tweet25": {
+      "content": "[$$] Barrick Gold drops $18bn hostile bid for Newmont"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "Newmont Mining’s CEO on the Barrick Gold Deal and His Bid to Take Over Goldcorp"
+    },
+    "tweet2": {
+      "content": "Big Gold Gets Bigger With Barrick"
+    },
+    "tweet3": {
+      "content": "Big Gold Gets Bigger With Barrick"
+    },
+    "tweet4": {
+      "content": "Big Gold Gets Bigger With Barrick"
+    },
+    "tweet5": {
+      "content": "Argentine union's strike halts operations at Goldcorp's largest mine -company"
+    },
+    "tweet6": {
+      "content": "Why Are Analysts on the Sidelines about Goldcorp?"
+    },
+    "tweet7": {
+      "content": "Newmont & Barrick Form JV in Nevada, Creates Long-Term Value"
+    },
+    "tweet8": {
+      "content": "Newmont & Barrick Form JV in Nevada, Creates Long-Term Value"
+    },
+    "tweet9": {
+      "content": "Investors Are Curious about Newmont-Goldcorp’s Updated Guidance"
+    },
+    "tweet10": {
+      "content": "See what the IHS Markit Score report has to say about Newmont Mining Corp."
+    },
+    "tweet11": {
+      "content": "Newmont & Barrick Form JV in Nevada, Creates Long-Term Value"
+    },
+    "tweet12": {
+      "content": "Newmont-Goldcorp Merger: What to Expect from Combined Company"
+    },
+    "tweet13": {
+      "content": "[$$] New York’s Four Seasons plays home to a gold mining deal"
+    },
+    "tweet14": {
+      "content": "[$$] Barrick Drops Newmont Bid; Both Agree to Joint Venture"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "SHAREHOLDER ALERT: Monteverde & Associates PC Announces an Investigation of Newmont Mining Corporation - COMPANY_X"
+    },
+    "tweet2": {
+      "content": "Barrick (PD) Australia Finance Pty Ltd -- Moody's changes Barrick's outlook to stable; affirms ratings at Baa2"
+    },
+    "tweet3": {
+      "content": "Can KGC’s Projects Aid Its Production Profile in the Medium Term?"
+    },
+    "tweet4": {
+      "content": "Can Kinross Gold Stock Rise above Its Issues in 2019?"
+    },
+    "tweet5": {
+      "content": "[$$] The Mining Merger Wave That Never Came"
+    },
+    "tweet6": {
+      "content": "Barrick Gold Withdraws Hostile Acquisition Bid for Newmont"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "Thursday Sector Laggards: Materials, Technology & Communications"
+    },
+    "tweet2": {
+      "content": "Thursday Sector Laggards: Materials, Technology & Communications"
+    },
+    "tweet3": {
+      "content": "Most Gold Miners Reported Declining Production in Q4"
+    },
+    "tweet4": {
+      "content": "5 Top Gold Stocks for 2019"
+    },
+    "tweet5": {
+      "content": "5 Top Gold Stocks for 2019"
+    },
+    "tweet6": {
+      "content": "Did Gold Miners’ Q4 Results Meet Expectations?"
+    },
+    "tweet7": {
+      "content": "5 Top Gold Stocks for 2019"
+    },
+    "tweet8": {
+      "content": "Notable Two Hundred Day Moving Average Cross - COMPANY_X"
+    },
+    "tweet9": {
+      "content": "Notable Two Hundred Day Moving Average Cross - COMPANY_X"
+    },
+    "tweet10": {
+      "content": "Could Kinross Gold’s Balance Sheet Support Its Future Growth?"
+    },
+    "tweet11": {
+      "content": "A Look at Kinross Gold’s Reserves and Resources Update"
+    },
+    "tweet12": {
+      "content": "Nevada Joint Venture Creates the World’s Largest Gold Mining Operation"
+    },
+    "tweet13": {
+      "content": "KGC’s Unit Costs: Why They’ll Get Worse before They Get Better"
+    },
+    "tweet14": {
+      "content": "[$$] Barrick CEO's Nevada Venture Could Be His Biggest Challenge"
+    },
+    "tweet15": {
+      "content": "Goldcorp Announces Change to Board of Directors Following the Arrangement"
+    },
+    "tweet16": {
+      "content": "[$$] Investors Are Still Waiting for a Gold-Mining Merger Wave"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "Newmont Mining Corporation Commences Exchange Offers and Consent Solicitations"
+    },
+    "tweet2": {
+      "content": "iShares Edge MSCI Min Vol USA ETF Experiences Big Inflow"
+    },
+    "tweet3": {
+      "content": "iShares Edge MSCI Min Vol USA ETF Experiences Big Inflow"
+    },
+    "tweet4": {
+      "content": "Gold Miners Fell Short of Replacing Their Reserves in 2018"
+    },
+    "tweet5": {
+      "content": "Newmont’s Tanami Power Project in Australia Completed Safely and on Schedule"
+    },
+    "tweet6": {
+      "content": "Are Slowing Production Pipelines Fueling Gold Miner M&A Activity?"
+    },
+    "tweet7": {
+      "content": "What Would It Take for Analysts to Be More Positive about KGC?"
+    },
+    "tweet8": {
+      "content": "Investors Blast ‘Terrible’ $12 Million Deal for Goldcorp Chair"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "Newmont Completes Tanami Mine Power Project in Australia"
+    },
+    "tweet2": {
+      "content": "Newmont Completes Tanami Mine Power Project in Australia"
+    },
+    "tweet3": {
+      "content": "Peek Under The Hood: RTM Has 13% Upside"
+    },
+    "tweet4": {
+      "content": "Peek Under The Hood: RTM Has 13% Upside"
+    },
+    "tweet5": {
+      "content": "Newmont Completes Tanami Mine Power Project in Australia"
+    },
+    "tweet6": {
+      "content": "Which Gold Miners Could Show Free Cash Flow Upside in 2019?"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "Gunmen kill five miners in Ethiopia, TV says foreigners among dead"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "Which Gold Miner Has the Best Liquidity Profile?"
+    },
+    "tweet2": {
+      "content": "Which Gold Miners Are in Sound Financial Health after 2018?"
+    },
+    "tweet3": {
+      "content": "Cooperation is the Name of the Game for Gold Miners"
+    },
+    "tweet4": {
+      "content": "Gold Stocks to Watch"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "Paulson says will not support Newmont takeover bid for Goldcorp"
+    },
+    "tweet2": {
+      "content": "Paulson says will not support Newmont takeover bid for Goldcorp"
+    },
+    "tweet3": {
+      "content": "Paulson & Co. Opposes Terms of Newmont's Proposed Acquisition of Goldcorp"
+    },
+    "tweet4": {
+      "content": "Which Gold Miners Can Easily Repay Their Debt?"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "VanEck Shares Paulson&apos;s Concerns on Newmont-Goldcorp Merger"
+    },
+    "tweet2": {
+      "content": "Top shareholders express concerns over parts of Newmont-Goldcorp deal"
+    },
+    "tweet3": {
+      "content": "What Analysts Expect for Gold Miners’ Earnings in 2019"
+    },
+    "tweet4": {
+      "content": "BCI Opposes Decision to Increase Retirement Allowance to Goldcorp Inc. Chair"
+    },
+    "tweet5": {
+      "content": "What’s Affecting Analysts’ Revenue Forecasts for Gold Miners?"
+    },
+    "tweet6": {
+      "content": "Which Senior Gold Miners Are Analysts Loving Lately and Why?"
+    },
+    "tweet7": {
+      "content": "Paulson Opposes Newmont-Goldcorp Merger Unless Price Lowered"
+    },
+    "tweet8": {
+      "content": "Will John Paulson Reconsider the Newmont-Goldcorp Merger?"
+    },
+    "tweet9": {
+      "content": "Stocks making the biggest moves premarket: Tiffany, Hibbett Sports, Nike, Gamestop & more"
+    },
+    "tweet10": {
+      "content": "Stocks making the biggest moves premarket: Tiffany, Hibbett Sports, Nike, Gamestop & more"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "Newmont's special dividend wins top investors over to Goldcorp deal"
+    },
+    "tweet2": {
+      "content": "After Hours Most Active for Mar 25, 2019 :  XOG, HST, CMCSA, S, CELG, COTY, QQQ, MAT, TGNA, PFE, COMPANY_X, UAL"
+    },
+    "tweet3": {
+      "content": "After Hours Most Active for Mar 25, 2019 :  XOG, HST, CMCSA, S, CELG, COTY, QQQ, MAT, TGNA, PFE, COMPANY_X, UAL"
+    },
+    "tweet4": {
+      "content": "Viacom and Avaya Holdings rise, Nu Skin Enterprises slips"
+    },
+    "tweet5": {
+      "content": "COMPANY_X-GG Merger: Newmont’s Special Dividend Announcement"
+    },
+    "tweet6": {
+      "content": "Will Newmont Investors Approve GG Merger after Special Dividend?"
+    },
+    "tweet7": {
+      "content": "Newmont Mining’s Special Dividend Is a Step Closer to Goldcorp Deal, CEO Says"
+    },
+    "tweet8": {
+      "content": "iShares Edge MSCI Min Vol USA ETF Experiences Big Inflow"
+    },
+    "tweet9": {
+      "content": "iShares Edge MSCI Min Vol USA ETF Experiences Big Inflow"
+    },
+    "tweet10": {
+      "content": "TSX Down 40 Points With Energy Posting The Biggest Losses; Miners, Utilities, The Sole Gainers"
+    },
+    "tweet11": {
+      "content": "TSX Down 40 Points With Energy Posting The Biggest Losses; Miners, Utilities, The Sole Gainers"
+    },
+    "tweet12": {
+      "content": "Hoping to assuage investors, Newmont offers special dividend if Goldcorp deal approved"
+    },
+    "tweet13": {
+      "content": "Newmont seeks to assuage investors with special dividend if Goldcorp deal succeeds"
+    },
+    "tweet14": {
+      "content": "Goldcorp Announces Support for Newmont Special Dividend"
+    },
+    "tweet15": {
+      "content": "Goldcorp Announces Support for Newmont Special Dividend"
+    },
+    "tweet16": {
+      "content": "ISS Recommends Goldcorp Shareholders Vote in Favor of Proposed Plan of Arrangement with Newmont"
+    },
+    "tweet17": {
+      "content": "Newmont Receives Mexican Anti-Trust Approval for its Pending Acquisition of Goldcorp"
+    },
+    "tweet18": {
+      "content": "Newmont Announces Conditional Special Dividend"
+    },
+    "tweet19": {
+      "content": "CANADA STOCKS--TSX futures little changed amid global growth fears"
+    },
+    "tweet20": {
+      "content": "[$$] Newmont offers special dividend to shareholders to back Goldcorp transaction"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "3 Gold Stocks That Should Glitter With Rising Gold Prices"
+    },
+    "tweet2": {
+      "content": "3 Gold Stocks That Should Glitter With Rising Gold Prices"
+    },
+    "tweet3": {
+      "content": "Newmont Announces Executive Leadership Team for Combination with Goldcorp"
+    },
+    "tweet4": {
+      "content": "3 Gold Stocks That Should Glitter With Rising Gold Prices"
+    },
+    "tweet5": {
+      "content": "Newmont Unveils Special Dividend, Gets Mexican Anti-Trust Nod"
+    },
+    "tweet6": {
+      "content": "Newmont Unveils Special Dividend, Gets Mexican Anti-Trust Nod"
+    },
+    "tweet7": {
+      "content": "Newmont Unveils Special Dividend, Gets Mexican Anti-Trust Nod"
+    },
+    "tweet8": {
+      "content": "PRESS DIGEST- Canada- March 26"
+    },
+    "tweet9": {
+      "content": "Independent Proxy Advisory Firm ISS Recommends Newmont Shareholders Vote \"FOR\" Proposed Combination with Goldcorp"
+    },
+    "tweet10": {
+      "content": "Newmont&apos;s Goldcorp Deal Wins Support of Paulson, VanEck, ISS"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "Glass Lewis Recommends that Goldcorp and Newmont Shareholders Vote In Favor of Proposed Plan of Arrangement"
+    },
+    "tweet2": {
+      "content": "Newmont Welcomes Glass Lewis Recommendation that Newmont and Goldcorp Shareholders Vote “FOR” Proposed Combination"
+    },
+    "tweet3": {
+      "content": "Newmont Announces First Quarter 2019 Earnings Call"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "COLUMN-Struggling small miners may lead to bigger industry woes: Russell"
+    },
+    "tweet2": {
+      "content": "What Wall Street Expects from Newmont after the Goldcorp Merger"
+    },
+    "tweet3": {
+      "content": "COLUMN-Struggling small miners may lead to bigger industry woes: Russell"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "Goldcorp Special Dividend Is Capital Allocation at Its Finest"
+    },
+    "tweet2": {
+      "content": "Goldcorp Special Dividend Is Capital Allocation at Its Finest"
+    },
+    "tweet3": {
+      "content": "Goldcorp Special Dividend Is Capital Allocation at Its Finest"
+    },
+    "tweet4": {
+      "content": "Goldcorp and Newmont Announce Successful Early Tender Period for Exchange Offers and Consent Solicitations"
+    },
+    "tweet5": {
+      "content": "Goldcorp and Newmont Announce Successful Early Tender Period for Exchange Offers and Consent Solicitations"
+    },
+    "tweet6": {
+      "content": "Newmont Mining Corporation Announces Successful Early Tender Period for Exchange Offers and Consent Solicitations"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "Notable ETF Outflow Detected - GDX, GOLD, COMPANY_X, FNV"
+    },
+    "tweet2": {
+      "content": "Notable ETF Outflow Detected - GDX, GOLD, COMPANY_X, FNV"
+    },
+    "tweet3": {
+      "content": "What Will Be Key to Barrick Gold’s Performance in 2019?"
+    },
+    "tweet4": {
+      "content": "How Gold and Gold Miners Performed in Q1"
+    },
+    "tweet5": {
+      "content": "See what the IHS Markit Score report has to say about Newmont Mining Corp."
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "Why the Earnings Surprise Streak Could Continue for Newmont (COMPANY_X)"
+    },
+    "tweet2": {
+      "content": "Why the Earnings Surprise Streak Could Continue for Newmont (COMPANY_X)"
+    },
+    "tweet3": {
+      "content": "Why the Earnings Surprise Streak Could Continue for Newmont (COMPANY_X)"
+    },
+    "tweet4": {
+      "content": "Investors Have Little Reason to Stick With Goldcorp Stock"
+    },
+    "tweet5": {
+      "content": "Newmont Stock Will Take Cues from Its Goldcorp Merger Execution"
+    },
+    "tweet6": {
+      "content": "Goldcorp Outperformed Its Peers in Q1—Could This Continue?"
+    }
+  },
+  "day65": {
+    "tweet1": {
+      "content": "Newmont Mining Corporation Announces Consent Solicitation for its 5.875% Notes due 2035"
+    },
+    "tweet2": {
+      "content": "Executives Shed Shares of Newmont Mining Corp"
+    },
+    "tweet3": {
+      "content": "Goldcorp shareholders approve Newmont's $10 billion takeover offer"
+    },
+    "tweet4": {
+      "content": "Why Barrick Gold Stock Rose 11% in March"
+    },
+    "tweet5": {
+      "content": "Why Barrick Gold Stock Rose 11% in March"
+    },
+    "tweet6": {
+      "content": "Newmont Welcomes Goldcorp Shareholder Vote as a Key Step Toward Completing Combination"
+    },
+    "tweet7": {
+      "content": "Goldcorp Shareholders Approve Newmont’s $10 Billion Takeover Bid"
+    },
+    "tweet8": {
+      "content": "Goldcorp Announces Shareholder Approval for Combination with Newmont"
+    },
+    "tweet9": {
+      "content": "Why Barrick Gold Stock Rose 11% in March"
+    },
+    "tweet10": {
+      "content": "Wall Street Ratings: Gauging Gold Miners’ Upside Potentials"
+    }
+  },
+  "day66": {
+    "tweet1": {
+      "content": "PRESS DIGEST - Canada - April 5"
+    }
+  },
+  "day67": {
+    "tweet1": {
+      "content": "The 5 Most Promising Gold Stocks Of 2019"
+    },
+    "tweet2": {
+      "content": "After Hours Most Active for Apr 8, 2019 :  AMH, FOLD, AABA, PFE, BILI, QQQ, URBN, BAC, EMB, MRK, SCHW, COMPANY_X"
+    },
+    "tweet3": {
+      "content": "After Hours Most Active for Apr 8, 2019 :  AMH, FOLD, AABA, PFE, BILI, QQQ, URBN, BAC, EMB, MRK, SCHW, COMPANY_X"
+    },
+    "tweet4": {
+      "content": "Goldcorp Obtains Final Order for Plan of Arrangement"
+    },
+    "tweet5": {
+      "content": "Newmont's Buyout Offer Cleared by Goldcorp's Shareholders"
+    },
+    "tweet6": {
+      "content": "Newmont's Buyout Offer Cleared by Goldcorp's Shareholders"
+    },
+    "tweet7": {
+      "content": "Newmont's Buyout Offer Cleared by Goldcorp's Shareholders"
+    },
+    "tweet8": {
+      "content": "Barrick’s Deal-Making Chairman Awarded $12.9 Million in 2018"
+    }
+  },
+  "day68": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day69": {
+    "tweet1": {
+      "content": "Newmont Bondholder Revolt May Put Barrick on Hook for Debt"
+    },
+    "tweet2": {
+      "content": "Newmont Mining Corporation Announces Extension of the Consent Solicitation for its 5.875% Notes due 2035"
+    },
+    "tweet3": {
+      "content": "Gold Prices Are Going Higher, so Buy Barrick Stock, Says Analyst"
+    },
+    "tweet4": {
+      "content": "GDX, DPST: Big ETF Outflows"
+    },
+    "tweet5": {
+      "content": "GDX, DPST: Big ETF Outflows"
+    },
+    "tweet6": {
+      "content": "USMV, V, COMPANY_X, PFE: Large Inflows Detected at ETF"
+    },
+    "tweet7": {
+      "content": "USMV, V, COMPANY_X, PFE: Large Inflows Detected at ETF"
+    },
+    "tweet8": {
+      "content": "Valcambi loses deal to refine Newmont's gold - sources"
+    }
+  },
+  "day70": {
+    "tweet1": {
+      "content": "Canopy Growth Set to Join S&P/TSX 60"
+    },
+    "tweet2": {
+      "content": "After Hours Most Active for Apr 11, 2019 :  VEON, PFE, GE, SIRI, COMPANY_X, MNST, AMD, EFII, CNP^B, FITB, RIG, ESI"
+    },
+    "tweet3": {
+      "content": "After Hours Most Active for Apr 11, 2019 :  VEON, PFE, GE, SIRI, COMPANY_X, MNST, AMD, EFII, CNP^B, FITB, RIG, ESI"
+    },
+    "tweet4": {
+      "content": "Newmont shareholders OK $10 billion Goldcorp takeover, creating biggest gold producer"
+    },
+    "tweet5": {
+      "content": "Goldcorp Welcomes Favorable Newmont Shareholder Vote in Connection with the Plan of Arrangement"
+    },
+    "tweet6": {
+      "content": "Newmont Shareholders Vote Overwhelmingly to Create World’s Leading Gold Company"
+    }
+  },
+  "day71": {
+    "tweet1": {
+      "content": "Newmont's (COMPANY_X) Shareholders Clear Goldcorp Transaction"
+    },
+    "tweet2": {
+      "content": "Newmont's (COMPANY_X) Shareholders Clear Goldcorp Transaction"
+    },
+    "tweet3": {
+      "content": "Newmont Mining Corporation Announces Extension of the Consent Solicitation and a Change to the Consent Fee Payable to Consenting Holders of its 5.875% Notes due 2035"
+    },
+    "tweet4": {
+      "content": "Newmont's (COMPANY_X) Shareholders Clear Goldcorp Transaction"
+    },
+    "tweet5": {
+      "content": "Cannabis Stock Canopy Growth Playing With the Big Boys, up Midday"
+    }
+  },
+  "day72": {
+    "tweet1": {
+      "content": "Will Yamana’s Chapada Mine Sale Improve Its Shareholder Returns?"
+    },
+    "tweet2": {
+      "content": "Brexit Delayed: ETFs & Stocks to Gain"
+    },
+    "tweet3": {
+      "content": "Deutsche Bank Upgraded Barrick Gold"
+    },
+    "tweet4": {
+      "content": "Newmont Goldcorp Deal Receives Nod From Investment Canada Act"
+    },
+    "tweet5": {
+      "content": "Newmont Goldcorp Deal Receives Nod From Investment Canada Act"
+    },
+    "tweet6": {
+      "content": "Why Is Deutsche Bank Bullish on Gold?"
+    },
+    "tweet7": {
+      "content": "Newmont Mining Corporation (COMPANY_X) Ex-Dividend Date Scheduled for April 16, 2019"
+    },
+    "tweet8": {
+      "content": "Newmont Mining Corporation (COMPANY_X) Ex-Dividend Date Scheduled for April 16, 2019"
+    },
+    "tweet9": {
+      "content": "Newmont Goldcorp Deal Receives Nod From Investment Canada Act"
+    },
+    "tweet10": {
+      "content": "Newmont Mining Corporation Announces Extension of Exchange Offers and Consent Solicitations for Existing Goldcorp Notes to Coincide with the Closing of the Arrangement"
+    }
+  },
+  "day73": {
+    "tweet1": {
+      "content": "Gold Bulls Push Forward - Companies Making Big Moves in Sector"
+    }
+  },
+  "day74": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day75": {
+    "tweet1": {
+      "content": "After Hours Most Active for Apr 18, 2019 :  IEF, CZR, COMPANY_X, FOLD, BAC, QCOM, PSTG, GM, IQ, KO, QQQ, EXC"
+    },
+    "tweet2": {
+      "content": "After Hours Most Active for Apr 18, 2019 :  IEF, CZR, COMPANY_X, FOLD, BAC, QCOM, PSTG, GM, IQ, KO, QQQ, EXC"
+    },
+    "tweet3": {
+      "content": "Newmont Announces the Expiration and Final Results of Successful Exchange Offers and Consent Solicitations for Existing Goldcorp Notes"
+    },
+    "tweet4": {
+      "content": "Earnings Preview: Newmont Mining (COMPANY_X) Q1 Earnings Expected to Decline"
+    },
+    "tweet5": {
+      "content": "Earnings Preview: Newmont Mining (COMPANY_X) Q1 Earnings Expected to Decline"
+    },
+    "tweet6": {
+      "content": "Noteworthy ETF Outflows: USMV, V, WM, COMPANY_X"
+    },
+    "tweet7": {
+      "content": "Noteworthy ETF Outflows: USMV, V, WM, COMPANY_X"
+    },
+    "tweet8": {
+      "content": "GDX, TPAY: Big ETF Outflows"
+    },
+    "tweet9": {
+      "content": "GDX, TPAY: Big ETF Outflows"
+    },
+    "tweet10": {
+      "content": "Newmont Goldcorp (COMPANY_X) Shares Cross Below 200 DMA"
+    },
+    "tweet11": {
+      "content": "Newmont Goldcorp (COMPANY_X) Shares Cross Below 200 DMA"
+    },
+    "tweet12": {
+      "content": "Earnings Preview: Newmont Mining (COMPANY_X) Q1 Earnings Expected to Decline"
+    },
+    "tweet13": {
+      "content": "How The Pieces Add Up: IYM Targets $105"
+    },
+    "tweet14": {
+      "content": "How The Pieces Add Up: IYM Targets $105"
+    },
+    "tweet15": {
+      "content": "Newmont and Goldcorp Successfully Create World’s Leading Gold Company"
+    }
+  },
+  "day76": {
+    "tweet1": {
+      "content": "Newmont and Goldcorp Merger Could Create Shareholder Value"
+    },
+    "tweet2": {
+      "content": "Newmont and Goldcorp Merge, Form World’s Largest Gold Company"
+    },
+    "tweet3": {
+      "content": "Nevada Joint Venture Deal Clears All Regulatory Conditions"
+    },
+    "tweet4": {
+      "content": "Beyond the Mine: Newmont Publishes 2018 Sustainability Report"
+    }
+  },
+  "day77": {
+    "tweet1": {
+      "content": "Newmont Goldcorp Corporation -- Moody's rates Newmont's new notes Baa2; outlook stable"
+    },
+    "tweet2": {
+      "content": "Agnico bets on high grade gold as it digs in Canada's remote north"
+    }
+  },
+  "day78": {
+    "tweet1": {
+      "content": "Goldcorp Inc. -- Moody's withdraws Goldcorp Inc.'s ratings following acquisition by Newmont"
+    },
+    "tweet2": {
+      "content": "What Will Investors Look Forward to on Newmont’s Earnings Call?"
+    },
+    "tweet3": {
+      "content": "How Much Is The Grasberg Transition Expected To Weigh On Freeport-McMoRan’s Q1 2019 Results?"
+    },
+    "tweet4": {
+      "content": "How Much Is The Grasberg Transition Expected To Weigh On Freeport-McMoRan’s Q1 2019 Results?"
+    },
+    "tweet5": {
+      "content": "What’s in the Cards for Newmont Mining’s Q4 Results?"
+    },
+    "tweet6": {
+      "content": "Newmont Goldcorp Announces Quarterly Dividend of $0.14 per Share"
+    }
+  },
+  "day79": {
+    "tweet1": {
+      "content": "RSI Alert: Newmont Goldcorp Now Oversold"
+    },
+    "tweet2": {
+      "content": "RSI Alert: Newmont Goldcorp Now Oversold"
+    },
+    "tweet3": {
+      "content": "Newmont Goldcorp's (COMPANY_X) Q1 Earnings Beat, Sales Miss Estimates"
+    },
+    "tweet4": {
+      "content": "Newmont Goldcorp's (COMPANY_X) Q1 Earnings Beat, Sales Miss Estimates"
+    },
+    "tweet5": {
+      "content": "Newmont Goldcorp (COMPANY_X) Q1 Earnings Top, Sales Lag Estimates"
+    },
+    "tweet6": {
+      "content": "Newmont Goldcorp (COMPANY_X) Q1 Earnings Top, Sales Lag Estimates"
+    },
+    "tweet7": {
+      "content": "Newmont Goldcorp profit beats on higher production as prices fall"
+    },
+    "tweet8": {
+      "content": "Newmont Goldcorp (COMPANY_X) Q1 Earnings Top, Sales Lag Estimates"
+    },
+    "tweet9": {
+      "content": "Newmont Goldcorp's (COMPANY_X) Q1 Earnings Beat, Sales Miss Estimates"
+    },
+    "tweet10": {
+      "content": "Newmont: 1Q Earnings Snapshot"
+    },
+    "tweet11": {
+      "content": "Newmont Goldcorp profit falls on lower prices"
+    },
+    "tweet12": {
+      "content": "Newmont Goldcorp Announces Newmont’s First Quarter 2019 Results"
+    }
+  },
+  "day80": {
+    "tweet1": {
+      "content": "Newmont Mining (COMPANY_X) Q1 2019 Earnings Call Transcript"
+    },
+    "tweet2": {
+      "content": "Newmont Mining (COMPANY_X) Q1 2019 Earnings Call Transcript"
+    },
+    "tweet3": {
+      "content": "Newmont Mining (COMPANY_X) Q1 2019 Earnings Call Transcript"
+    },
+    "tweet4": {
+      "content": "Newmont Goldcorp Falls on 1st-Quarter Results"
+    },
+    "tweet5": {
+      "content": "After Hours Most Active for Apr 26, 2019 :  VEON, GE, PCG, DBX, IQ, ACB, COMPANY_X, QQQ, W, GRAM, VNET, GRFS"
+    },
+    "tweet6": {
+      "content": "After Hours Most Active for Apr 26, 2019 :  VEON, GE, PCG, DBX, IQ, ACB, COMPANY_X, QQQ, W, GRAM, VNET, GRFS"
+    },
+    "tweet7": {
+      "content": "What Synergies Does Newmont Expect from Merger with Goldcorp?"
+    },
+    "tweet8": {
+      "content": "Analysts Love These Gold Stocks"
+    }
+  },
+  "day81": {
+    "tweet1": {
+      "content": "After Hours Most Active for Apr 29, 2019 :  CNHI, CZR, COMPANY_X, ZNGA, V, TSM, QQQ, AMD, TJX, LX, HLT, AAPL"
+    },
+    "tweet2": {
+      "content": "After Hours Most Active for Apr 29, 2019 :  CNHI, CZR, COMPANY_X, ZNGA, V, TSM, QQQ, AMD, TJX, LX, HLT, AAPL"
+    },
+    "tweet3": {
+      "content": "Newmont Goldcorp to suspend Peñasquito operations in Mexico due to blockade"
+    },
+    "tweet4": {
+      "content": "Edited Transcript of COMPANY_X earnings conference call or presentation 25-Apr-19 1:00pm GMT"
+    },
+    "tweet5": {
+      "content": "Newmont Goldcorp plans to temporarily shut Mexico gold mine"
+    },
+    "tweet6": {
+      "content": "Newmont Goldcorp Provides Update on Operations at Peñasquito Mine in Mexico"
+    }
+  },
+  "day82": {
+    "tweet1": {
+      "content": "Newmont Goldcorp suspends payments to villages near Mexico's largest gold mine"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp suspends payments to villages near blockaded Penasquito mine"
+    },
+    "tweet3": {
+      "content": "Yamana Gold: Analysts’ Sentiments before Its Q1 Results"
+    },
+    "tweet4": {
+      "content": "Yamana Gold: What to Expect from Its Q1 Results"
+    },
+    "tweet5": {
+      "content": "See what the IHS Markit Score report has to say about Newmont Goldcorp Corp."
+    },
+    "tweet6": {
+      "content": "Which Gold Equities Could Grow after Q1 Results Are Released"
+    }
+  },
+  "day83": {
+    "tweet1": {
+      "content": "Newmont Goldcorp (COMPANY_X) Halts Operations at Penasquito Mine"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp (COMPANY_X) Halts Operations at Penasquito Mine"
+    },
+    "tweet3": {
+      "content": "Iamgold CEO expects more buyout deals in gold industry"
+    },
+    "tweet4": {
+      "content": "Analyzing Deutsche Bank’s Bullish Gold Outlook"
+    },
+    "tweet5": {
+      "content": "Newmont Goldcorp (COMPANY_X) Halts Operations at Penasquito Mine"
+    }
+  },
+  "day84": {
+    "tweet1": {
+      "content": "BMO Capital Markets Raised Its Gold Price Forecast"
+    }
+  },
+  "day85": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day86": {
+    "tweet1": {
+      "content": "52-Week Company Lows"
+    },
+    "tweet2": {
+      "content": "Yamana Gold Stock Is Stifled By the Range-Bound Gold Market"
+    }
+  },
+  "day87": {
+    "tweet1": {
+      "content": "5 Best-of-Breed Gold Stocks to Buy Now"
+    },
+    "tweet2": {
+      "content": "GDX, AFIF: Big ETF Outflows"
+    },
+    "tweet3": {
+      "content": "GDX, AFIF: Big ETF Outflows"
+    },
+    "tweet4": {
+      "content": "See what the IHS Markit Score report has to say about Newmont Goldcorp Corp."
+    }
+  },
+  "day88": {
+    "tweet1": {
+      "content": "Barrick CEO Expects to Raise $1.5 Billion Through Asset Sales"
+    },
+    "tweet2": {
+      "content": "3 Reasons Newmont Goldcorp Stock Slumped 13.2% in April"
+    },
+    "tweet3": {
+      "content": "3 Reasons Newmont Goldcorp Stock Slumped 13.2% in April"
+    },
+    "tweet4": {
+      "content": "5 Best-of-Breed Gold Stocks to Buy Now"
+    },
+    "tweet5": {
+      "content": "5 Best-of-Breed Gold Stocks to Buy Now"
+    },
+    "tweet6": {
+      "content": "3 Reasons Newmont Goldcorp Stock Slumped 13.2% in April"
+    },
+    "tweet7": {
+      "content": "Buy Newmont Goldcorp in a Vulnerable Stock Market"
+    },
+    "tweet8": {
+      "content": "Barrick chief executive Bristow targets $1.5bn in asset sales"
+    },
+    "tweet9": {
+      "content": "Newmont Goldcorp Director, Mr. Joseph Carrabba, Acquires 16.8% Ownership in Winston Gold"
+    }
+  },
+  "day89": {
+    "tweet1": {
+      "content": "GT Gold Announces a C$17.6 Million Financing and Strategic Investment by Newmont Goldcorp Corporation for Exploration at the Tatogga Property"
+    }
+  },
+  "day90": {
+    "tweet1": {
+      "content": "Nevada Gold Mines to Open Enormous Opportunities for Stakeholders"
+    }
+  },
+  "day91": {
+    "tweet1": {
+      "content": "As S&P 500 Stumbles, a Gold Miner Wins the Market"
+    },
+    "tweet2": {
+      "content": "Teva and Apple fall while Newmont Goldcorp and NextEra rise"
+    },
+    "tweet3": {
+      "content": "Gold and Miners Gain as Trade War Fear Makes a Comeback"
+    },
+    "tweet4": {
+      "content": "S&P 500 Movers: STX, EXR"
+    },
+    "tweet5": {
+      "content": "S&P 500 Movers: STX, EXR"
+    }
+  },
+  "day92": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day93": {
+    "tweet1": {
+      "content": "After Hours Most Active for May 15, 2019 :  ARE, COMPANY_X, MRC, PFE, SQ, F"
+    },
+    "tweet2": {
+      "content": "After Hours Most Active for May 15, 2019 :  ARE, COMPANY_X, MRC, PFE, SQ, F"
+    },
+    "tweet3": {
+      "content": "9 Big Stocks Rallied The Last Time The Market Tumbled 20%"
+    },
+    "tweet4": {
+      "content": "Gold Miners ETF Experiences Big Outflow"
+    },
+    "tweet5": {
+      "content": "Gold Miners ETF Experiences Big Outflow"
+    }
+  },
+  "day94": {
+    "tweet1": {
+      "content": "Billionaire Friedland Close to Deal With BHP on Guinea Iron Ore"
+    },
+    "tweet2": {
+      "content": "Iamgold Explores Sale Amid Gold Sector Consolidation"
+    },
+    "tweet3": {
+      "content": "Iamgold explores possible sale -Bloomberg"
+    }
+  },
+  "day95": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day96": {
+    "tweet1": {
+      "content": "Canada’s Pure Gold to start trading on LSE"
+    }
+  },
+  "day97": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day98": {
+    "tweet1": {
+      "content": "After Hours Most Active for May 22, 2019 :  TRUE, LLNW, NLY, CMCSA, LC, MDT, MOBL, COMPANY_X, CROX, BAC, MRK, TENB"
+    },
+    "tweet2": {
+      "content": "After Hours Most Active for May 22, 2019 :  TRUE, LLNW, NLY, CMCSA, LC, MDT, MOBL, COMPANY_X, CROX, BAC, MRK, TENB"
+    },
+    "tweet3": {
+      "content": "Gold miners must focus on returns, mergers to attract investment -Barrick CEO"
+    }
+  },
+  "day99": {
+    "tweet1": {
+      "content": "Stoppage at Newmont Goldcorp mine costs Mexico millions daily -official"
+    },
+    "tweet2": {
+      "content": "Penasquito mine stoppage costing Mexico millions-official"
+    },
+    "tweet3": {
+      "content": "Thursday's ETF with Unusual Volume: GNR"
+    },
+    "tweet4": {
+      "content": "Thursday's ETF with Unusual Volume: GNR"
+    }
+  },
+  "day100": {
+    "tweet1": {
+      "content": "Which Gold Miners Have the Best Liquidity Profile?"
+    },
+    "tweet2": {
+      "content": "A Look at These Gold Miners’ Financial Health after Q1 Results"
+    },
+    "tweet3": {
+      "content": "How Does Gold Miners’ Financial Leverage Look after Q1?"
+    },
+    "tweet4": {
+      "content": "Stoppage at Newmont Goldcorp mine costs Mexico millions daily - minister"
+    }
+  },
+  "day101": {
+    "tweet1": {
+      "content": "Mexico's Zacatecas state offers to mediate Newmont Goldcorp mine dispute"
+    },
+    "tweet2": {
+      "content": "Barrick's Investment in Pueblo Viejo to Boost Contribution"
+    },
+    "tweet3": {
+      "content": "Barrick's Investment in Pueblo Viejo to Boost Contribution"
+    },
+    "tweet4": {
+      "content": "Barrick's Investment in Pueblo Viejo to Boost Contribution"
+    }
+  },
+  "day102": {
+    "tweet1": {
+      "content": "Gold Miners: What’s Impacting Analysts’ Earnings Estimates?"
+    },
+    "tweet2": {
+      "content": "Gold Miners: Analysts’ Revenue Expectations"
+    },
+    "tweet3": {
+      "content": "GT Gold Closes C$17.6 Million Financing and Strategic Investment by Newmont Goldcorp Corporation"
+    }
+  },
+  "day103": {
+    "tweet1": {
+      "content": "Newmont Goldcorp Ranked Top Miner on CR Magazine’s 100 Best Corporate Citizens List"
+    },
+    "tweet2": {
+      "content": "Which Gold Miners Could Offer Valuation Upsides after Q1?"
+    }
+  },
+  "day104": {
+    "tweet1": {
+      "content": "Gold Climbs as Trump&apos;s Mexico Tariffs Shows ‘No Country Is Safe’"
+    },
+    "tweet2": {
+      "content": "Gold Options Bets Pour In as Stock Market Drops"
+    },
+    "tweet3": {
+      "content": "Bullish Two Hundred Day Moving Average Cross - COMPANY_X"
+    },
+    "tweet4": {
+      "content": "Bullish Two Hundred Day Moving Average Cross - COMPANY_X"
+    },
+    "tweet5": {
+      "content": "S&P 500 Movers: GPS, CCI"
+    },
+    "tweet6": {
+      "content": "S&P 500 Movers: GPS, CCI"
+    },
+    "tweet7": {
+      "content": "USMV, CHAD: Big ETF Inflows"
+    },
+    "tweet8": {
+      "content": "USMV, CHAD: Big ETF Inflows"
+    }
+  },
+  "day105": {
+    "tweet1": {
+      "content": "Ex-Dividend Reminder: Qualcomm, Mosaic and Newmont Goldcorp"
+    },
+    "tweet2": {
+      "content": "Ex-Dividend Reminder: Qualcomm, Mosaic and Newmont Goldcorp"
+    }
+  },
+  "day106": {
+    "tweet1": {
+      "content": "Newmont Goldcorp Corporation (COMPANY_X) Ex-Dividend Date Scheduled for June 05, 2019"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp Corporation (COMPANY_X) Ex-Dividend Date Scheduled for June 05, 2019"
+    }
+  },
+  "day107": {
+    "tweet1": {
+      "content": "Guinea iron ore prospectors set sights on ArcelorMittal rail"
+    },
+    "tweet2": {
+      "content": "Three Picks to Play Gold Mining"
+    },
+    "tweet3": {
+      "content": "Can the FOMC Combat the Impact of Tariffs?"
+    }
+  },
+  "day108": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day109": {
+    "tweet1": {
+      "content": "Here’s What Hedge Funds Think About Newmont Goldcorp Corporation (COMPANY_X)"
+    },
+    "tweet2": {
+      "content": "Toro Gold hires bank to explore sale as IPO plans shelved -sources"
+    }
+  },
+  "day110": {
+    "tweet1": {
+      "content": "USMV, BBRE: Big ETF Inflows"
+    },
+    "tweet2": {
+      "content": "USMV, BBRE: Big ETF Inflows"
+    },
+    "tweet3": {
+      "content": "Gold Giants Battling to Lure Back Investors Who Fled Industry"
+    },
+    "tweet4": {
+      "content": "The African Nation Built on Gold Loses Its Crown to a Rival"
+    }
+  },
+  "day111": {
+    "tweet1": {
+      "content": "Can COMPANY_X Realize Lower Unit Costs as Its Projects Come Online?"
+    },
+    "tweet2": {
+      "content": "Why Analyst Sentiment on Newmont Goldcorp Has Turned Around"
+    },
+    "tweet3": {
+      "content": "Newmont Goldcorp’s Financial Position versus Peers after Q1"
+    },
+    "tweet4": {
+      "content": "Does Newmont Goldcorp Look Attractive after Q1 Results?"
+    },
+    "tweet5": {
+      "content": "Here Are Newmont Goldcorp’s Key Production Drivers"
+    }
+  },
+  "day112": {
+    "tweet1": {
+      "content": "Wednesday Sector Leaders: Utilities, Materials"
+    },
+    "tweet2": {
+      "content": "Wednesday Sector Leaders: Utilities, Materials"
+    },
+    "tweet3": {
+      "content": "What’s behind Newmont Goldcorp’s Higher Valuation Multiple?"
+    }
+  },
+  "day113": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day114": {
+    "tweet1": {
+      "content": "Mario Gabelli's 1st Quarter Value 25 Fund Commentary"
+    },
+    "tweet2": {
+      "content": "Which Gold Miners Offer Long-Term Production Growth?"
+    },
+    "tweet3": {
+      "content": "Protesters agree to lift Newmont Goldcorp blockade in Mexico"
+    },
+    "tweet4": {
+      "content": "Gold Is Taking Off as Investors Seek Safety"
+    }
+  },
+  "day115": {
+    "tweet1": {
+      "content": "Mario Gabelli Comments on Newmont Mining Corp"
+    },
+    "tweet2": {
+      "content": "UPDATE 1-Newmont Goldcorp resumes operations at Peñasquito gold mine in Mexico"
+    },
+    "tweet3": {
+      "content": "Newmont Goldcorp Safely Ramping Up Operations at Peñasquito Mine in Mexico"
+    }
+  },
+  "day116": {
+    "tweet1": {
+      "content": "USMV, SPUU: Big ETF Inflows"
+    },
+    "tweet2": {
+      "content": "USMV, SPUU: Big ETF Inflows"
+    },
+    "tweet3": {
+      "content": "GDX, ASHX: Big ETF Outflows"
+    },
+    "tweet4": {
+      "content": "GDX, ASHX: Big ETF Outflows"
+    }
+  },
+  "day117": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day118": {
+    "tweet1": {
+      "content": "Noteworthy Thursday Option Activity: CVX, HCA, COMPANY_X"
+    },
+    "tweet2": {
+      "content": "Noteworthy Thursday Option Activity: CVX, HCA, COMPANY_X"
+    },
+    "tweet3": {
+      "content": "Is Barrick Gold Stock Must-Buy Recession Insurance?"
+    },
+    "tweet4": {
+      "content": "Is Barrick Gold Stock Must-Buy Recession Insurance?"
+    },
+    "tweet5": {
+      "content": "Newmont Goldcorp (COMPANY_X) Resumes Operations at Penasquito Mine"
+    },
+    "tweet6": {
+      "content": "Newmont Goldcorp (COMPANY_X) Resumes Operations at Penasquito Mine"
+    },
+    "tweet7": {
+      "content": "Newmont Goldcorp (COMPANY_X) Resumes Operations at Penasquito Mine"
+    },
+    "tweet8": {
+      "content": "Is Barrick Gold Stock Must-Buy Recession Insurance?"
+    }
+  },
+  "day119": {
+    "tweet1": {
+      "content": "Gold Is Surging. How to Play It With ETFs."
+    },
+    "tweet2": {
+      "content": "China National Gold Studies Bid for Canadian Miner Iamgold"
+    }
+  },
+  "day120": {
+    "tweet1": {
+      "content": "Now Is The Time to Buy Small-Cap Gold Stocks"
+    },
+    "tweet2": {
+      "content": "Why Safe Haven Gold ETFs Are Soaring as Trump-Xi Trade Talks Loom"
+    }
+  },
+  "day121": {
+    "tweet1": {
+      "content": "Top Research Reports for Caterpillar, Royal Dutch Shell & Goldman Sachs"
+    },
+    "tweet2": {
+      "content": "Top Research Reports for Caterpillar, Royal Dutch Shell & Goldman Sachs"
+    },
+    "tweet3": {
+      "content": "After Hours Most Active for Jun 25, 2019 :  DIS, TI, LC, PFE, COMPANY_X, QD"
+    },
+    "tweet4": {
+      "content": "After Hours Most Active for Jun 25, 2019 :  DIS, TI, LC, PFE, COMPANY_X, QD"
+    },
+    "tweet5": {
+      "content": "Gold may be entering a binary event as Trump-Xi are set to meet"
+    },
+    "tweet6": {
+      "content": "If you could buy only one ETF for these times, this low-volatility fund would be it"
+    },
+    "tweet7": {
+      "content": "Top Research Reports for Caterpillar, Royal Dutch Shell & Goldman Sachs"
+    },
+    "tweet8": {
+      "content": "Gold Miner ETFs Glitter as Geopolitical Tensions Mount"
+    },
+    "tweet9": {
+      "content": "A Bold Call on Gold Miners"
+    },
+    "tweet10": {
+      "content": "Newmont Goldcorp announces Second Quarter 2019 Earnings Call"
+    }
+  },
+  "day122": {
+    "tweet1": {
+      "content": "Why Investors Should Be Excited For Newmont Goldcorp's Joint Venture With Barrick"
+    },
+    "tweet2": {
+      "content": "Why Investors Should Be Excited For Newmont Goldcorp's Joint Venture With Barrick"
+    },
+    "tweet3": {
+      "content": "A Quest for Scale: Why Newmont Bought Goldcorp"
+    },
+    "tweet4": {
+      "content": "A Quest for Scale: Why Newmont Bought Goldcorp"
+    },
+    "tweet5": {
+      "content": "A Quest for Scale: Why Newmont Bought Goldcorp"
+    },
+    "tweet6": {
+      "content": "Why Investors Should Be Excited For Newmont Goldcorp&apos;s Joint Venture With Barrick"
+    },
+    "tweet7": {
+      "content": "GDX, BJUN: Big ETF Outflows"
+    },
+    "tweet8": {
+      "content": "GDX, BJUN: Big ETF Outflows"
+    },
+    "tweet9": {
+      "content": "What Could Wheaton Precious Metals Look Like In The Next 5 Years?"
+    },
+    "tweet10": {
+      "content": "What Could Wheaton Precious Metals Look Like In The Next 5 Years?"
+    }
+  },
+  "day123": {
+    "tweet1": {
+      "content": "COMPANY_X August 9th Options Begin Trading"
+    },
+    "tweet2": {
+      "content": "COMPANY_X August 9th Options Begin Trading"
+    },
+    "tweet3": {
+      "content": "SSR Mining Acquires 8,900 Hectares Contiguous to Marigold Mine"
+    }
+  },
+  "day124": {
+    "tweet1": {
+      "content": "What Analysts Think about Newmont"
+    },
+    "tweet2": {
+      "content": "Notable ETF Inflow Detected - USMV, COMPANY_X, WM, RSG"
+    },
+    "tweet3": {
+      "content": "Notable ETF Inflow Detected - USMV, COMPANY_X, WM, RSG"
+    }
+  },
+  "day125": {
+    "tweet1": {
+      "content": "Can Gold Mining ETFs Keep Soaring?"
+    },
+    "tweet2": {
+      "content": "Can Gold Mining ETFs Keep Soaring?"
+    },
+    "tweet3": {
+      "content": "3 Gold Mining Stocks Help You Dig Up Profits"
+    },
+    "tweet4": {
+      "content": "Gold’s Hot Streak Just Cooled Off Because the Market Isn’t Worried About Trade Today"
+    },
+    "tweet5": {
+      "content": "UPDATE 1-Barrick-Newmont Nevada JV to produce 1.8-1.9 mln ounces of gold in second half of 2019"
+    },
+    "tweet6": {
+      "content": "Barrick-Newmont Nevada joint venture to produce 1.8-1.9 million ounces of gold in second half of 2019"
+    },
+    "tweet7": {
+      "content": "Salt Lake City Law Firm Parsons Behle & Latimer Finalizes Historic Barrick Gold Corporation and Newmont Goldcorp Corporation Joint Venture"
+    },
+    "tweet8": {
+      "content": "Nevada Gold Mines Launched: Best Assets, Best People Will Deliver Best Value"
+    },
+    "tweet9": {
+      "content": "‘Wave’ of M&A will hit gold mining this year, says Polyus"
+    },
+    "tweet10": {
+      "content": "Moab Capital Partners’ Return, AUM, and Holdings (Part II)"
+    }
+  },
+  "day126": {
+    "tweet1": {
+      "content": "Barrick Gold, Newmont Goldcorp Commence Nevada Gold Mines"
+    }
+  },
+  "day127": {
+    "tweet1": {
+      "content": "Newmont Goldcorp and Barrick Gold’s Joint Venture Works for Both Rivals, Analyst Says"
+    },
+    "tweet2": {
+      "content": "BMO Resumes Coverage On Gold Stocks: Bullish On Barrick, Neutral On Newmont"
+    }
+  },
+  "day128": {
+    "tweet1": {
+      "content": "Barrick Prepares to Start Sale of Massawa Gold Project"
+    },
+    "tweet2": {
+      "content": "S&P 500 Movers: EA, FANG"
+    },
+    "tweet3": {
+      "content": "S&P 500 Movers: EA, FANG"
+    },
+    "tweet4": {
+      "content": "Why BMO Turned Bullish on Barrick but Is Neutral on Newmont"
+    },
+    "tweet5": {
+      "content": "Why BMO Turned Bullish on Barrick but Is Neutral on Newmont"
+    }
+  },
+  "day129": {
+    "tweet1": {
+      "content": "If You Like Gold Stocks Now, Don’t Sweat the Pessimistic Headlines"
+    },
+    "tweet2": {
+      "content": "USMV, VTWG: Big ETF Inflows"
+    },
+    "tweet3": {
+      "content": "USMV, VTWG: Big ETF Inflows"
+    },
+    "tweet4": {
+      "content": "GDX, RAAX: Big ETF Outflows"
+    },
+    "tweet5": {
+      "content": "GDX, RAAX: Big ETF Outflows"
+    },
+    "tweet6": {
+      "content": "Newmont Goldcorp Shines With Bullish Charts and Quant Upgrade"
+    }
+  },
+  "day130": {
+    "tweet1": {
+      "content": "Why Newmont (COMPANY_X) Could Beat Earnings Estimates Again"
+    }
+  },
+  "day131": {
+    "tweet1": {
+      "content": "Will Cisco Increase Its Exposure to China by Buying Acacia?"
+    },
+    "tweet2": {
+      "content": "Will Cisco Increase Its Exposure to China by Buying Acacia?"
+    },
+    "tweet3": {
+      "content": "Earnings Estimates Moving Higher for Newmont (COMPANY_X): Time to Buy?"
+    }
+  },
+  "day132": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day133": {
+    "tweet1": {
+      "content": "Gold Stocks Explainer: Keys To Gold Price Movement And Gold Investing"
+    },
+    "tweet2": {
+      "content": "Can Fed Put Counter Potential Negative Q2 Earnings? 5 Picks"
+    },
+    "tweet3": {
+      "content": "Can Fed Put Counter Potential Negative Q2 Earnings? 5 Picks"
+    },
+    "tweet4": {
+      "content": "Can Fed Put Counter Potential Negative Q2 Earnings? 5 Picks"
+    }
+  },
+  "day134": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Northrop Grumman, Thermo Fisher Scientific, Newmont Goldcorp, Starbucks and CME"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Northrop Grumman, Thermo Fisher Scientific, Newmont Goldcorp, Starbucks and CME"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Northrop Grumman, Thermo Fisher Scientific, Newmont Goldcorp, Starbucks and CME"
+    }
+  },
+  "day135": {
+    "tweet1": {
+      "content": "USMV, WFHY: Big ETF Inflows"
+    },
+    "tweet2": {
+      "content": "USMV, WFHY: Big ETF Inflows"
+    },
+    "tweet3": {
+      "content": "GDX, PPEM: Big ETF Outflows"
+    },
+    "tweet4": {
+      "content": "GDX, PPEM: Big ETF Outflows"
+    }
+  },
+  "day136": {
+    "tweet1": {
+      "content": "Time to Buy Gold Miners as Gold Prices Skyrocket"
+    },
+    "tweet2": {
+      "content": "Will Gold Miners Soar in the Second Half as Gold Rises?"
+    }
+  },
+  "day137": {
+    "tweet1": {
+      "content": "Perth Mint ETF makes NYSE debut as gold hits a six-year high"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp (COMPANY_X) Expected to Beat Earnings Estimates: Should You Buy?"
+    },
+    "tweet3": {
+      "content": "Newmont Goldcorp (COMPANY_X) Expected to Beat Earnings Estimates: Should You Buy?"
+    },
+    "tweet4": {
+      "content": "Newmont Goldcorp (COMPANY_X) Expected to Beat Earnings Estimates: Should You Buy?"
+    },
+    "tweet5": {
+      "content": "5 Must-Buy Gold Stocks Ahead of Q2 Earnings on Rate Cut Hope"
+    },
+    "tweet6": {
+      "content": "5 Must-Buy Gold Stocks Ahead of Q2 Earnings on Rate Cut Hope"
+    },
+    "tweet7": {
+      "content": "5 Must-Buy Gold Stocks Ahead of Q2 Earnings on Rate Cut Hope"
+    }
+  },
+  "day138": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Kinross Gold, Franco-Nevada, Barrick Gold, New Gold and Newmont Goldcorp"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Kinross Gold, Franco-Nevada, Barrick Gold, New Gold and Newmont Goldcorp"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Kinross Gold, Franco-Nevada, Barrick Gold, New Gold and Newmont Goldcorp"
+    }
+  },
+  "day139": {
+    "tweet1": {
+      "content": "Which Gold Stocks Do Analysts Love and Hate?"
+    }
+  },
+  "day140": {
+    "tweet1": {
+      "content": "Newmont Goldcorp says Palmer to become CEO from October 1"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp says Palmer to become CEO from Oct. 1"
+    },
+    "tweet3": {
+      "content": "Is Newmont Mining (COMPANY_X) Stock Outpacing Its Basic Materials Peers This Year?"
+    },
+    "tweet4": {
+      "content": "Is Newmont Mining (COMPANY_X) Stock Outpacing Its Basic Materials Peers This Year?"
+    },
+    "tweet5": {
+      "content": "Is a Beat in Store for Newmont Goldcorp (COMPANY_X) in Q2 Earnings?"
+    },
+    "tweet6": {
+      "content": "Is a Beat in Store for Newmont Goldcorp (COMPANY_X) in Q2 Earnings?"
+    },
+    "tweet7": {
+      "content": "Is a Beat in Store for Newmont Goldcorp (COMPANY_X) in Q2 Earnings?"
+    }
+  },
+  "day141": {
+    "tweet1": {
+      "content": "Pre-Market Earnings Report for July 25, 2019 :  CMCSA, MMM, BMY, RTN, APD, WM, AEP, BAX, ROP, VLO, COMPANY_X, LUV"
+    },
+    "tweet2": {
+      "content": "Pre-Market Earnings Report for July 25, 2019 :  CMCSA, MMM, BMY, RTN, APD, WM, AEP, BAX, ROP, VLO, COMPANY_X, LUV"
+    },
+    "tweet3": {
+      "content": "USMV, GOAT: Big ETF Inflows"
+    },
+    "tweet4": {
+      "content": "USMV, GOAT: Big ETF Inflows"
+    },
+    "tweet5": {
+      "content": "Newmont (COMPANY_X) Hits 52-Week High, Can the Run Continue?"
+    },
+    "tweet6": {
+      "content": "Newmont (COMPANY_X) Hits 52-Week High, Can the Run Continue?"
+    },
+    "tweet7": {
+      "content": "Why Earnings Season Could Be Great for Newmont Goldcorp (COMPANY_X)"
+    },
+    "tweet8": {
+      "content": "Why Earnings Season Could Be Great for Newmont Goldcorp (COMPANY_X)"
+    },
+    "tweet9": {
+      "content": "Newmont Goldcorp reveals plan to replace its CEO"
+    },
+    "tweet10": {
+      "content": "Newmont (COMPANY_X) Hits 52-Week High, Can the Run Continue?"
+    },
+    "tweet11": {
+      "content": "Why Earnings Season Could Be Great for Newmont Goldcorp (COMPANY_X)"
+    },
+    "tweet12": {
+      "content": "Surge Exploration 2019/2020 Plans Include a Focus on BC Gold"
+    },
+    "tweet13": {
+      "content": "Newmont Goldcorp Announces Quarterly Dividend of $0.14 per Share"
+    },
+    "tweet14": {
+      "content": "What Could Provide Upside to Gold Miners after Q2 Earnings?"
+    },
+    "tweet15": {
+      "content": "Which Gold Stocks Could Surprise Markets in Q2?"
+    }
+  },
+  "day142": {
+    "tweet1": {
+      "content": "Gold Mining ETFs: What You Need to Know"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp (COMPANY_X) Earnings & Sales Miss Estimates in Q2"
+    },
+    "tweet3": {
+      "content": "Newmont Goldcorp (COMPANY_X) Earnings & Sales Miss Estimates in Q2"
+    },
+    "tweet4": {
+      "content": "Newmont Goldcorp (COMPANY_X) Q2 Earnings and Revenues Lag Estimates"
+    },
+    "tweet5": {
+      "content": "Newmont Goldcorp (COMPANY_X) Q2 Earnings and Revenues Lag Estimates"
+    },
+    "tweet6": {
+      "content": "Newmont Goldcorp (COMPANY_X) Earnings & Sales Miss Estimates in Q2"
+    },
+    "tweet7": {
+      "content": "UPDATE 2-Newmont Goldcorp profit drops more than expected on cost of deals, idle mines"
+    },
+    "tweet8": {
+      "content": "Newmont Goldcorp (COMPANY_X) Q2 Earnings and Revenues Lag Estimates"
+    },
+    "tweet9": {
+      "content": "Newmont Goldcorp profit drops more than expected on cost of deals, idle mines"
+    },
+    "tweet10": {
+      "content": "Newmont Goldcorp profit misses expectations on deal, non-operating mine costs"
+    },
+    "tweet11": {
+      "content": "Newmont Goldcorp Announces Second Quarter 2019 Results"
+    }
+  },
+  "day143": {
+    "tweet1": {
+      "content": "Newmont Goldcorp Q2 Report Hits Gold Mining ETFs: Buy the Dip"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp Q2 Report Hits Gold Mining ETFs: Buy the Dip"
+    },
+    "tweet3": {
+      "content": "Could Newmont Goldcorp Turn Around This Year?"
+    },
+    "tweet4": {
+      "content": "Newmont Goldcorp (COMPANY_X) Q2 2019 Earnings Call Transcript"
+    },
+    "tweet5": {
+      "content": "Newmont Goldcorp (COMPANY_X) Q2 2019 Earnings Call Transcript"
+    },
+    "tweet6": {
+      "content": "Newmont Goldcorp (COMPANY_X) Q2 2019 Earnings Call Transcript"
+    },
+    "tweet7": {
+      "content": "Mega-Merger Hurdles Hit Profit at World’s Largest Gold Miner"
+    }
+  },
+  "day144": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day145": {
+    "tweet1": {
+      "content": "Take Advantage of Next Gold Price Rally With Newmont Goldcorp"
+    },
+    "tweet2": {
+      "content": "Gold Prices: 50-Year Price Analysis And Production-Demand Dynamics"
+    },
+    "tweet3": {
+      "content": "Gold Prices: 50-Year Price Analysis And Production-Demand Dynamics"
+    },
+    "tweet4": {
+      "content": "Cramer Weighs In On AbbVie, Six Flags And More"
+    },
+    "tweet5": {
+      "content": "IYM's Holdings Could Mean 11% Gain Potential"
+    },
+    "tweet6": {
+      "content": "IYM's Holdings Could Mean 11% Gain Potential"
+    },
+    "tweet7": {
+      "content": "Edited Transcript of COMPANY_X earnings conference call or presentation 25-Jul-19 2:00pm GMT"
+    }
+  },
+  "day146": {
+    "tweet1": {
+      "content": "Goldcorp Inc (GG) Q2 2019 Earnings Call Transcript"
+    }
+  },
+  "day147": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day148": {
+    "tweet1": {
+      "content": "Gold Stocks Explainer: The Gold Price Surge, The Fed, And The Gold Investing Outlook"
+    }
+  },
+  "day149": {
+    "tweet1": {
+      "content": "Notable Monday Option Activity: FSP, COMPANY_X, REV"
+    },
+    "tweet2": {
+      "content": "Notable Monday Option Activity: FSP, COMPANY_X, REV"
+    },
+    "tweet3": {
+      "content": "US, Europe and Asia Deep in the Red on Monday"
+    }
+  },
+  "day150": {
+    "tweet1": {
+      "content": "Gold Firms on Service Sector Slowdown: 4 Solid Buys"
+    },
+    "tweet2": {
+      "content": "Gold Firms on Service Sector Slowdown: 4 Solid Buys"
+    },
+    "tweet3": {
+      "content": "Gold Firms on Service Sector Slowdown: 4 Solid Buys"
+    }
+  },
+  "day151": {
+    "tweet1": {
+      "content": "Dow Stocks Turn Negative on Wednesday"
+    },
+    "tweet2": {
+      "content": "Gold Tops $1,500 as Investors Seek Shelter From Gathering Storm"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: AngloGold, Kinross Gold, Newmont and Sandstorm"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: AngloGold, Kinross Gold, Newmont and Sandstorm"
+    },
+    "tweet5": {
+      "content": "The Zacks Analyst Blog Highlights: AngloGold, Kinross Gold, Newmont and Sandstorm"
+    }
+  },
+  "day152": {
+    "tweet1": {
+      "content": "Low Volatility ETFs for Turbulent Times"
+    },
+    "tweet2": {
+      "content": "Low Volatility ETFs for Turbulent Times"
+    },
+    "tweet3": {
+      "content": "Low Volatility ETFs for Turbulent Times"
+    },
+    "tweet4": {
+      "content": "See How First Majestic Silver Corp Ranks Among Analysts' Top Metals Picks"
+    },
+    "tweet5": {
+      "content": "See How First Majestic Silver Corp Ranks Among Analysts' Top Metals Picks"
+    },
+    "tweet6": {
+      "content": "Wheaton Precious Metals: Why Did The Stock Double In 4 Years?"
+    },
+    "tweet7": {
+      "content": "Wheaton Precious Metals: Why Did The Stock Double In 4 Years?"
+    },
+    "tweet8": {
+      "content": "Gold Stocks Explainer: Trump, Yuan Spur Gold Price Surge; The Gold Investing Outlook"
+    }
+  },
+  "day153": {
+    "tweet1": {
+      "content": "Royal Gold Inc (RGLD) Q4 2019 Earnings Call Transcript"
+    },
+    "tweet2": {
+      "content": "Top Research Reports: Bristol-Myers, CME Group, Chubb & More"
+    },
+    "tweet3": {
+      "content": "Top Research Reports: Bristol-Myers, CME Group, Chubb & More"
+    },
+    "tweet4": {
+      "content": "SMV, PQIN: Big ETF Inflows"
+    },
+    "tweet5": {
+      "content": "SMV, PQIN: Big ETF Inflows"
+    },
+    "tweet6": {
+      "content": "Top Research Reports: Bristol-Myers, CME Group, Chubb & More"
+    }
+  },
+  "day154": {
+    "tweet1": {
+      "content": "Why Gold Prices Are About To Skyrocket Even Higher"
+    },
+    "tweet2": {
+      "content": "Noteworthy ETF Inflows: GDX, COMPANY_X, GOLD, FNV"
+    },
+    "tweet3": {
+      "content": "Noteworthy ETF Inflows: GDX, COMPANY_X, GOLD, FNV"
+    },
+    "tweet4": {
+      "content": "Solid growth for gold"
+    }
+  },
+  "day155": {
+    "tweet1": {
+      "content": "Barrick Gold Reports 2nd-Quarter Results"
+    },
+    "tweet2": {
+      "content": "Notable Tuesday Option Activity: COMPANY_X, BBY, CME"
+    },
+    "tweet3": {
+      "content": "Notable Tuesday Option Activity: COMPANY_X, BBY, CME"
+    },
+    "tweet4": {
+      "content": "S&P 500 Movers: COMPANY_X, BBY"
+    },
+    "tweet5": {
+      "content": "S&P 500 Movers: COMPANY_X, BBY"
+    },
+    "tweet6": {
+      "content": "Stock Market Pounds The Bears, As Trump Delays Tariff Date And Gold Hesitates"
+    },
+    "tweet7": {
+      "content": "Barrick Gold CEO Eyes Massive Retrofit Through M&A, Partnerships"
+    }
+  },
+  "day156": {
+    "tweet1": {
+      "content": "Major US Indexes Fall on Wednesday"
+    },
+    "tweet2": {
+      "content": "Only 8 stocks in the S&P 500 are gaining ground, led by gold producer Newmont Goldcorp"
+    },
+    "tweet3": {
+      "content": "US Stock Markets Advance Tuesday"
+    },
+    "tweet4": {
+      "content": "S&P 500 Movers: M, COMPANY_X"
+    },
+    "tweet5": {
+      "content": "S&P 500 Movers: M, COMPANY_X"
+    },
+    "tweet6": {
+      "content": "Market Takes Off After Tariffs Pushed Back"
+    }
+  },
+  "day157": {
+    "tweet1": {
+      "content": "Buy Newmont Goldcorp Stock Because It Won’t Lag Behind Much Longer, Analyst Says"
+    },
+    "tweet2": {
+      "content": "Gold’s Rally Will Help Smaller Mining Stocks Too, JPMorgan Says"
+    }
+  },
+  "day158": {
+    "tweet1": {
+      "content": "Newmont Goldcorp Announces Consent Solicitation for its 5.875% Notes due 2035"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp Has Rallied to a Zone of Risky Levels"
+    }
+  },
+  "day159": {
+    "tweet1": {
+      "content": "The 5 Hottest Gold Stocks Of 2019"
+    }
+  },
+  "day160": {
+    "tweet1": {
+      "content": "Is This The Number One Gold Play Of The Year?"
+    },
+    "tweet2": {
+      "content": "Mario Gabelli Comments on Newmont Mining Corp"
+    },
+    "tweet3": {
+      "content": "Mario Gabelli's Gabelli Value 25 Fund 2nd Quarter Commentary"
+    },
+    "tweet4": {
+      "content": "GDX, PSET: Big ETF Outflows"
+    },
+    "tweet5": {
+      "content": "GDX, PSET: Big ETF Outflows"
+    }
+  },
+  "day161": {
+    "tweet1": {
+      "content": "Stocks Take a Break After 3 Days of Gains"
+    },
+    "tweet2": {
+      "content": "Stocks Take a Break After 3 Days of Gains"
+    },
+    "tweet3": {
+      "content": "Stocks Take a Break After 3 Days of Gains"
+    }
+  },
+  "day162": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day163": {
+    "tweet1": {
+      "content": "Newmont Goldcorp Announces Successful Completion of Consent Solicitation for its 5.875% Notes due 2035"
+    },
+    "tweet2": {
+      "content": "US Markets Fall Friday"
+    },
+    "tweet3": {
+      "content": "Cushing® Asset Management and Swank Capital Announce Rebalancing of The Cushing® Energy Supply Chain Index "
+    }
+  },
+  "day164": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day165": {
+    "tweet1": {
+      "content": "6 Metals and Mining Stocks Gurus Agree On"
+    },
+    "tweet2": {
+      "content": "Stock Market in the Red on Tuesday"
+    },
+    "tweet3": {
+      "content": "Tuesday Sector Leaders: Utilities, Materials"
+    },
+    "tweet4": {
+      "content": "Tuesday Sector Leaders: Utilities, Materials"
+    },
+    "tweet5": {
+      "content": "Gold Stocks Investing: Fed Rate Cuts, China Trade War Have Investors Going For Gold"
+    },
+    "tweet6": {
+      "content": "How high can gold go?"
+    },
+    "tweet7": {
+      "content": "USMV, EFZ: Big ETF Inflows"
+    },
+    "tweet8": {
+      "content": "USMV, EFZ: Big ETF Inflows"
+    }
+  },
+  "day166": {
+    "tweet1": {
+      "content": "Belleview Station developer proposes 10-story office building near light rail"
+    },
+    "tweet2": {
+      "content": "GDX, GOLD, COMPANY_X, FNV: Large Outflows Detected at ETF"
+    },
+    "tweet3": {
+      "content": "GDX, GOLD, COMPANY_X, FNV: Large Outflows Detected at ETF"
+    }
+  },
+  "day167": {
+    "tweet1": {
+      "content": "Is It Time to Invest in Gold?"
+    }
+  },
+  "day168": {
+    "tweet1": {
+      "content": "8 Precious Metals Stocks to Mine For"
+    },
+    "tweet2": {
+      "content": "Why Newmont Goldcorp (COMPANY_X) Stock Might be a Great Pick"
+    },
+    "tweet3": {
+      "content": "8 Precious Metals Stocks to Mine For"
+    },
+    "tweet4": {
+      "content": "Why Newmont Goldcorp (COMPANY_X) Stock Might be a Great Pick"
+    }
+  },
+  "day169": {
+    "tweet1": {
+      "content": "After Hours Most Active for Sep 3, 2019 :  AVP, KO, CMCSA, ECA, ESGU, FOE, T, COMPANY_X, FEYE, PODD, QQQ, AABA"
+    },
+    "tweet2": {
+      "content": "After Hours Most Active for Sep 3, 2019 :  AVP, KO, CMCSA, ECA, ESGU, FOE, T, COMPANY_X, FEYE, PODD, QQQ, AABA"
+    }
+  },
+  "day170": {
+    "tweet1": {
+      "content": "USMV, UAUG: Big ETF Inflows"
+    },
+    "tweet2": {
+      "content": "USMV, UAUG: Big ETF Inflows"
+    }
+  },
+  "day171": {
+    "tweet1": {
+      "content": "US Stocks Surge on Thursday"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp Announces Pricing of 2.800% Senior Notes Offering"
+    },
+    "tweet3": {
+      "content": "Thursday Sector Laggards: Utilities, Materials"
+    },
+    "tweet4": {
+      "content": "Thursday Sector Laggards: Utilities, Materials"
+    },
+    "tweet5": {
+      "content": "S&P 500 Movers: CHD, IPGP"
+    },
+    "tweet6": {
+      "content": "S&P 500 Movers: CHD, IPGP"
+    },
+    "tweet7": {
+      "content": "Newmont Goldcorp Corporation -- Moody's assigns a Baa2 sr. unsec. rating to Newmont's notes; outlook stable"
+    }
+  },
+  "day172": {
+    "tweet1": {
+      "content": "Newmont Goldcorp Announces Pricing of Senior Notes Due 2029"
+    },
+    "tweet2": {
+      "content": "Robert Friedland swoops for Guinea’s Nimba"
+    },
+    "tweet3": {
+      "content": "UPDATE 2-Mining investor Friedland clinches deal on Guinea's Nimba iron ore"
+    },
+    "tweet4": {
+      "content": "Friedland's HPX pens deal to develop Guinea's Nimba iron project"
+    }
+  },
+  "day173": {
+    "tweet1": {
+      "content": "Newmont Goldcorp Stock Is Slipping Despite Analyst’s Upgrade"
+    },
+    "tweet2": {
+      "content": "Why Every Investor Should Consider These 2 Gold Mining Stocks"
+    },
+    "tweet3": {
+      "content": "GDX, UST: Big ETF Inflows"
+    },
+    "tweet4": {
+      "content": "GDX, UST: Big ETF Inflows"
+    },
+    "tweet5": {
+      "content": "Reminder - Newmont Goldcorp (COMPANY_X) Goes Ex-Dividend Soon"
+    },
+    "tweet6": {
+      "content": "Reminder - Newmont Goldcorp (COMPANY_X) Goes Ex-Dividend Soon"
+    },
+    "tweet7": {
+      "content": "Surge Acquires Additional Gold-copper Mineral Claims in the Golden Triangle Adding to its Sizable Land Position in British Columbia"
+    }
+  },
+  "day174": {
+    "tweet1": {
+      "content": "A Forgotten Gold-Rush Hub Is Producing More Than It Has in a Century"
+    },
+    "tweet2": {
+      "content": "17 Trillion Reasons to Own Gold and Silver Stocks Right Now"
+    },
+    "tweet3": {
+      "content": "17 Trillion Reasons to Own Gold and Silver Stocks Right Now"
+    },
+    "tweet4": {
+      "content": "Newmont Goldcorp Corporation (COMPANY_X) Ex-Dividend Date Scheduled for September 11, 2019"
+    },
+    "tweet5": {
+      "content": "Newmont Goldcorp Corporation (COMPANY_X) Ex-Dividend Date Scheduled for September 11, 2019"
+    }
+  },
+  "day175": {
+    "tweet1": {
+      "content": "Noteworthy Wednesday Option Activity: LAD, COMPANY_X, ABBV"
+    },
+    "tweet2": {
+      "content": "Noteworthy Wednesday Option Activity: LAD, COMPANY_X, ABBV"
+    },
+    "tweet3": {
+      "content": "Wall Street Edges Higher Wednesday"
+    },
+    "tweet4": {
+      "content": "5 Reasons BMO Upgrades Newmont Goldcorp"
+    },
+    "tweet5": {
+      "content": "U.S. Gold Corp. Announces Acquisition of Orevada Metals, Inc."
+    }
+  },
+  "day176": {
+    "tweet1": {
+      "content": "USMV, COMPANY_X, WM, YUM: ETF Inflow Alert"
+    },
+    "tweet2": {
+      "content": "USMV, COMPANY_X, WM, YUM: ETF Inflow Alert"
+    },
+    "tweet3": {
+      "content": "Gold Miners Are Rejoicing"
+    }
+  },
+  "day177": {
+    "tweet1": {
+      "content": "Incoming CEO Tom Palmer to Provide Update on Newmont Goldcorp at Denver Gold Forum"
+    }
+  },
+  "day178": {
+    "tweet1": {
+      "content": "China Gold Is Hunting for Deals Worth as Much as $2 Billion"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp Closes Senior Notes Offering of $700 Million at 2.800%"
+    },
+    "tweet3": {
+      "content": "Newmont Goldcorp Ranked as Top Gold Miner on DJSI for ESG Performance"
+    }
+  },
+  "day179": {
+    "tweet1": {
+      "content": "Pricey Gold Doesn’t Mean Fancy Food for Miners Meeting in Denver"
+    },
+    "tweet2": {
+      "content": "Newmont’s Incoming CEO Says No ‘Fire Sale’ Coming for Assets"
+    },
+    "tweet3": {
+      "content": "Barrick CEO says on track for Nevada JV cost savings"
+    },
+    "tweet4": {
+      "content": "Incoming Newmont Goldcorp CEO Doesn't See Much M&A Chatter in Gold"
+    }
+  },
+  "day180": {
+    "tweet1": {
+      "content": "UPDATE 2-Newmont Goldcorp offered $25 mln in social projects to end mine conflict"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp offered $25 million in social projects to end mine conflict"
+    },
+    "tweet3": {
+      "content": "Newmont Goldcorp says will offer $25 mln to end conflict at Mexican Penasquito mine"
+    },
+    "tweet4": {
+      "content": "Newmont Goldcorp halts mining amid blockade in Mexico"
+    },
+    "tweet5": {
+      "content": "Gold ETFs Hold Steady Ahead of Interest Rate Decision"
+    },
+    "tweet6": {
+      "content": "Newmont Goldcorp Closes Offering of Senior Notes Due 2029"
+    }
+  },
+  "day181": {
+    "tweet1": {
+      "content": "Why Big ETFs Are Seeing Outflows As Smaller Rivals Gain"
+    }
+  },
+  "day182": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day183": {
+    "tweet1": {
+      "content": "7 High ROE Stocks With Upside Amid Richly Valued Market"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp, Dignitaries Inaugurate Borden, Ontario’s ‘Mine of the Future’"
+    }
+  },
+  "day184": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day185": {
+    "tweet1": {
+      "content": "Newmont Goldcorp Corporation -- Moody's announces completion of a periodic review of ratings of Newmont Goldcorp Corporation"
+    },
+    "tweet2": {
+      "content": "Top Research Reports for Delta, Newmont & FirstEnergy"
+    },
+    "tweet3": {
+      "content": "Exclusive: Colorado public companies more than doubled women on boards since 2011, study finds"
+    }
+  },
+  "day186": {
+    "tweet1": {
+      "content": "Newmont Goldcorp says will restart negotiations if blockade lifted at Mexico mine"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Delta, Newmont, FirstEnergy, Amazon and Amphenol"
+    }
+  },
+  "day187": {
+    "tweet1": {
+      "content": "Ore Processing Commences at Premier's El Nino Mine"
+    }
+  },
+  "day188": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day189": {
+    "tweet1": {
+      "content": "Newmont Goldcorp’s Borden Mine Achieves Commercial Production"
+    }
+  },
+  "day190": {
+    "tweet1": {
+      "content": "Newmont’s New CEO Plans to Dispense More Discipline Than Cash"
+    },
+    "tweet2": {
+      "content": "Exclusive: Newmont Goldcorp sees $250M improvement potential in blockaded Mexican mine"
+    },
+    "tweet3": {
+      "content": "Newmont Goldcorp CEO: Here's how we plan to set up decades of gold production"
+    }
+  },
+  "day191": {
+    "tweet1": {
+      "content": "Buy Newmont Goldcorp Stock Because There Is a ‘Value Opportunity in the Stock’"
+    },
+    "tweet2": {
+      "content": "European and US Markets Decline Sharply on Wednesday"
+    },
+    "tweet3": {
+      "content": "Newmont Goldcorp announces Third Quarter 2019 Earnings Call"
+    }
+  },
+  "day192": {
+    "tweet1": {
+      "content": "Why Newmont Goldcorp (COMPANY_X) Stock Might be a Great Pick"
+    }
+  },
+  "day193": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day194": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day195": {
+    "tweet1": {
+      "content": "Blockade at Newmont Goldcorp Mine in Mexico Ends"
+    },
+    "tweet2": {
+      "content": "UPDATE 1-Blockade lifted at Newmont Goldcorp Mexico mine; 11,000 oz gold output hit"
+    },
+    "tweet3": {
+      "content": "Newmont Goldcorp Confirms Illegal Blockade Lifted at Peñasquito Mine in Mexico"
+    }
+  },
+  "day196": {
+    "tweet1": {
+      "content": "Hedge Funds Have Never Been This Bullish On Newmont Goldcorp Corporation (COMPANY_X)"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp's Penasquito Mine Illegal Blockade Lifted"
+    }
+  },
+  "day197": {
+    "tweet1": {
+      "content": "Wall Street Rallies Friday"
+    },
+    "tweet2": {
+      "content": "Blockade lifted, but Newmont Goldcorp waits to restart Mexican gold mine"
+    }
+  },
+  "day198": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day199": {
+    "tweet1": {
+      "content": "Newmont Goldcorp’s Ahafo Mill Expansion in Ghana Achieves Commercial Production"
+    }
+  },
+  "day200": {
+    "tweet1": {
+      "content": "Newmont Goldcorp's Ahafo Mill Expansion Attains Production"
+    },
+    "tweet2": {
+      "content": "Cabot (CBT) Boosts Advanced Carbon Portfolio With ATHLOS CNS"
+    }
+  },
+  "day201": {
+    "tweet1": {
+      "content": "Is Newmont Mining (COMPANY_X) Outperforming Other Basic Materials Stocks This Year?"
+    },
+    "tweet2": {
+      "content": "LyondellBasell to Construct Molecular Recycling Facility"
+    },
+    "tweet3": {
+      "content": "UPDATE 2-Barrick misses quarterly gold output estimates on Tanzania curbs"
+    }
+  },
+  "day202": {
+    "tweet1": {
+      "content": "Cabot's New TECHBLAK 85 Series to Meet Sustainability Needs"
+    },
+    "tweet2": {
+      "content": "Will Lower Steel Prices Hurt Nucor's (NUE) Earnings in Q3?"
+    },
+    "tweet3": {
+      "content": "Sherwin-Williams (SHW) to Post Q3 Earnings: What's in Store?"
+    }
+  },
+  "day203": {
+    "tweet1": {
+      "content": "Accomplished Miner Dan Janney to Lead Newmont Goldcorp’s Business in North America"
+    },
+    "tweet2": {
+      "content": "Eastman Chemical (EMN) to Post Q3 Earnings: What's in Store?"
+    }
+  },
+  "day204": {
+    "tweet1": {
+      "content": "Newmont Goldcorp Announces Quarterly Dividend of $0.14 per Share"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp Safely Starting Up Production at Peñasquito Mine in Mexico"
+    },
+    "tweet3": {
+      "content": "Dow (DOW) Warms Up to Q3 Earnings: What's in the Offing?"
+    }
+  },
+  "day205": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day206": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day207": {
+    "tweet1": {
+      "content": "Ready for Launch"
+    },
+    "tweet2": {
+      "content": "See where the 25 highest-paid Colorado CEOs went to college (Photos)"
+    },
+    "tweet3": {
+      "content": "Newmont Goldcorp to Add Profitable Gold Production through Second Expansion at Tanami in Australia"
+    }
+  },
+  "day208": {
+    "tweet1": {
+      "content": "Loncor Announces Appointment of Peter Cowley as President and MINECON as Geological Consultants to Advance Ngayu Gold Project"
+    }
+  },
+  "day209": {
+    "tweet1": {
+      "content": "Newmont Goldcorp (COMPANY_X) Reports Next Week: Wall Street Expects Earnings Growth"
+    }
+  },
+  "day210": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day211": {
+    "tweet1": {
+      "content": "Newmont Goldcorp’s Quecher Main Project in Peru Achieves Commercial Production"
+    }
+  },
+  "day212": {
+    "tweet1": {
+      "content": "Newmont Goldcorp (COMPANY_X) to Post Q3 Earnings: What's in Store?"
+    }
+  },
+  "day213": {
+    "tweet1": {
+      "content": "Mining Stock Earnings Slated on Nov 5: COMPANY_X, ARNC, BTG, SSRM"
+    }
+  },
+  "day214": {
+    "tweet1": {
+      "content": "Wall Street Relatively Stable Tuesday"
+    },
+    "tweet2": {
+      "content": "Newmont Sags Most in 9 Months After Cutting Gold-Output Forecast"
+    },
+    "tweet3": {
+      "content": "Newmont Goldcorp (COMPANY_X) Earnings & Sales Lag Estimates in Q3"
+    },
+    "tweet4": {
+      "content": "Newmont Goldcorp Shares Fall After Weaker-Than-Expected Earnings"
+    },
+    "tweet5": {
+      "content": "Newmont Goldcorp (COMPANY_X) Q3 Earnings and Revenues Miss Estimates"
+    },
+    "tweet6": {
+      "content": "UPDATE 1-Newmont Goldcorp profit misses on higher costs, cuts production target"
+    },
+    "tweet7": {
+      "content": "Newmont Goldcorp posts 67% jump in quarterly adjusted profit"
+    },
+    "tweet8": {
+      "content": "Newmont Goldcorp Announces Third Quarter 2019 Results"
+    },
+    "tweet9": {
+      "content": "The 5 Most Promising Gold Companies For 2020"
+    }
+  },
+  "day215": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day216": {
+    "tweet1": {
+      "content": "Barrick's Dividend Boost Looks Like a Harbinger for the Gold Industry"
+    }
+  },
+  "day217": {
+    "tweet1": {
+      "content": "Gold Prices Fall to Their Lowest in Three Months. Here’s Why."
+    }
+  },
+  "day218": {
+    "tweet1": {
+      "content": "Gold ETFs Approach Support After Sell-Off"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp Announces 2020 Guidance Webcast"
+    },
+    "tweet3": {
+      "content": "Edited Transcript of COMPANY_X earnings conference call or presentation 5-Nov-19 4:00pm GMT"
+    }
+  },
+  "day219": {
+    "tweet1": {
+      "content": "Franco-Nevada (FNV) Q3 Earnings & Revenues Surpass Estimates"
+    }
+  },
+  "day220": {
+    "tweet1": {
+      "content": "Sales winners in the third quarter include Netflix, Autodesk and PayPal"
+    }
+  },
+  "day221": {
+    "tweet1": {
+      "content": "7 Silver and Gold Stocks to Buy That Offer Contrarian Upside"
+    }
+  },
+  "day222": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day223": {
+    "tweet1": {
+      "content": "Top Gold Stocks for November 2019"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp Looks Forward to Partnership with Saracen at KCGM in Australia"
+    },
+    "tweet3": {
+      "content": "Barrick Gold kicks off $1.5bn disposal programme"
+    }
+  },
+  "day224": {
+    "tweet1": {
+      "content": "Top S&P 500 Stocks for November 2019"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp Is Poised to Outperform"
+    },
+    "tweet3": {
+      "content": "6 Gold Companies Investors Can’t Ignore In 2020"
+    }
+  },
+  "day225": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day226": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day227": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day228": {
+    "tweet1": {
+      "content": "UPDATE 1-Australia's Evolution Mining to buy Canadian gold mine from Newmont Goldcorp"
+    },
+    "tweet2": {
+      "content": "Australia's Evolution Mining to buy Canadian gold mine from Newmont Goldcorp"
+    },
+    "tweet3": {
+      "content": "Newmont Goldcorp Successfully Reaches Agreement to Sell Red Lake -- $375 Million in Cash Plus Up To $100 Million in Contingent Payments"
+    },
+    "tweet4": {
+      "content": "Top Gold Stocks for December 2019"
+    },
+    "tweet5": {
+      "content": "Consolidation in gold industry resumes as Kirkland Lake approaches Detour"
+    }
+  },
+  "day229": {
+    "tweet1": {
+      "content": "Newmont Goldcorp to Sell Red Lake Complex to Evolution Mining"
+    }
+  },
+  "day230": {
+    "tweet1": {
+      "content": "GT Gold Announces a C$8.3 Million Investment by Newmont Goldcorp Corporation"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp sells Canadian gold mine for $375 million"
+    },
+    "tweet3": {
+      "content": "Hedge Funds Have Never Been More Bullish On Newmont Goldcorp (COMPANY_X)"
+    }
+  },
+  "day231": {
+    "tweet1": {
+      "content": "Newmont Goldcorp (COMPANY_X) Invests in GT Gold, Increases Stake"
+    }
+  },
+  "day232": {
+    "tweet1": {
+      "content": "China’s Zijin Wins Over Canadian Miner With a Rare Cash Offer"
+    },
+    "tweet2": {
+      "content": "Newmont sets $1 billion stock buyback program, which could represent about 3% of the shares outstanding"
+    },
+    "tweet3": {
+      "content": "Newmont to Repurchase up to $1 Billion of Stock"
+    },
+    "tweet4": {
+      "content": "Newmont Commits to Sale of Stake in Continental Gold to Generate $260 Million in Cash Proceeds"
+    },
+    "tweet5": {
+      "content": "China’s Zijin to Buy Canada’s Continental Gold for $1 Billion"
+    },
+    "tweet6": {
+      "content": "Newmont Provides 2020 and Longer-term Outlook"
+    }
+  },
+  "day233": {
+    "tweet1": {
+      "content": "14 Stocks Rally On Trump's China Trade Bombshell"
+    },
+    "tweet2": {
+      "content": "9 Stocks Rally On Trump's China Trade Bombshell"
+    },
+    "tweet3": {
+      "content": "Newmont Goldcorp (COMPANY_X) Provides 2020 and Long-Term View"
+    }
+  },
+  "day234": {
+    "tweet1": {
+      "content": "Gold miners flash the cash in biggest deal binge in a decade"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp Announces Stock Repurchase Plan Worth $1B"
+    }
+  },
+  "day235": {
+    "tweet1": {
+      "content": "Newmont (COMPANY_X) Up 3.9% Since Last Earnings Report: Can It Continue?"
+    },
+    "tweet2": {
+      "content": "5 Gold Stocks to Add Glitter to Your Portfolio in December"
+    },
+    "tweet3": {
+      "content": "Newmont Ranked Top Miner in Newsweek’s List of America’s Most Responsible Companies"
+    },
+    "tweet4": {
+      "content": "White Gold Corp. Stakes Strategic Claims in White Gold District, Yukon & Management to Provide Corporate Update Webinar Focusing on Titan Discovery Today at 4PM EST"
+    }
+  },
+  "day236": {
+    "tweet1": {
+      "content": "IBD Rating Upgrades: Newmont Mining Shows Improved Relative Price Strength"
+    },
+    "tweet2": {
+      "content": "Gold Mining Stocks' Near-Term Prospects Shine Bright"
+    }
+  },
+  "day237": {
+    "tweet1": {
+      "content": "Charles de Vaulx's Top 5 Buys of the 3rd Quarter"
+    }
+  },
+  "day238": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day239": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day240": {
+    "tweet1": {
+      "content": "GT Gold Closes C$8.3 Million Investment by Newmont Goldcorp Corporation"
+    },
+    "tweet2": {
+      "content": "Barrick Gold Corp Promises to Outperform"
+    }
+  },
+  "day241": {
+    "tweet1": {
+      "content": "Major indexes lower as Trump casts doubt on trade deal"
+    },
+    "tweet2": {
+      "content": "Newmont’s Peñasquito Mine and Cedros Community in Mexico Agree to Water Pact"
+    }
+  },
+  "day242": {
+    "tweet1": {
+      "content": "Newmont Agrees to Sell Its Interests in KCGM to Northern Star for $800 million"
+    }
+  },
+  "day243": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day244": {
+    "tweet1": {
+      "content": "10 stocks to buy as they get hit by year-end tax-loss selling"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp to Divest Stake in KCGM to Northern Star"
+    }
+  },
+  "day245": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day246": {
+    "tweet1": {
+      "content": "From Barrick to Freeport: Top Mining Chiefs Look Ahead to 2020"
+    }
+  },
+  "day247": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day248": {
+    "tweet1": {
+      "content": "Newmont Goldcorp Corporation Files Early Warning Report"
+    },
+    "tweet2": {
+      "content": "5 Gold Mining Stocks Set to Keep Winning Streak Alive in 2020"
+    }
+  },
+  "day249": {
+    "tweet1": {
+      "content": "4 Gold Stocks to Buy as the Yellow Metal Surges"
+    },
+    "tweet2": {
+      "content": "Newmont Goldcorp Hits New 52-Week High: What's Driving It?"
+    }
+  },
+  "day250": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day251": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day252": {
+    "tweet1": {
+      "content": "Gold Stocks Investing: What Do Dollar, Fed Mean For Gold Price In 2020?"
+    }
+  },
+  "day253": {
+    "tweet1": {
+      "content": "Newmont Completes Sale of Interests in KCGM and Updates 2020 Guidance and Long-term Outlook"
+    }
+  },
+  "day254": {
+    "tweet1": {
+      "content": "Gold Stocks Investing: Gold Price Nears 6-Year High On Iran Tensions"
+    },
+    "tweet2": {
+      "content": "Newmont Closes KGCM Stake Sale, Cuts 2020 Production View"
+    }
+  },
+  "day255": {
+    "tweet1": {
+      "content": "Gold mining company Newmont raises dividend 79%"
+    },
+    "tweet2": {
+      "content": "Newmont Announces Plan to Increase Annualized Dividend by 79 Percent to $1.00 Per Share"
+    },
+    "tweet3": {
+      "content": "Newmont Refreshes Brand as Company Looks to Next 100 Years of Superior Performance, Value Creation and Sustainability Leadership"
+    },
+    "tweet4": {
+      "content": "Newmont ups dividend by 79 per cent as gold prices surge"
+    }
+  },
+  "day256": {
+    "tweet1": {
+      "content": "The reasons why the 2010’s bull market may be drawing to a close"
+    }
+  },
+  "day257": {
+    "tweet1": {
+      "content": "Great Lakes Announces a New Appointment to the Board of Directors"
+    },
+    "tweet2": {
+      "content": "Gold could hit $3,000 by 2025: expert"
+    },
+    "tweet3": {
+      "content": "Newmont (COMPANY_X) Unveils Plan to Hike Annual Dividend by 79%"
+    },
+    "tweet4": {
+      "content": "Newmont Announces Full Year and Fourth Quarter 2019 Earnings Call"
+    },
+    "tweet5": {
+      "content": "Reduce Holdings in Gold Including Shares of Newmont Goldcorp"
+    }
+  },
+  "day258": {
+    "tweet1": {
+      "content": "Gold Miners ETF Becomes A Dividend Idea"
+    },
+    "tweet2": {
+      "content": "Top Gold Stocks for January 2020"
+    },
+    "tweet3": {
+      "content": "Newmont’s Boddington General Manager to Lead Peñasquito Mine in Mexico"
+    }
+  },
+  "day259": {
+    "tweet1": {
+      "content": "A Surprising Payout Play in Miners Territory"
+    }
+  },
+  "day260": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day261": {
+    "tweet1": {
+      "content": "Newmont (COMPANY_X) Shares Up 13% in 3 Months: What's Driving It?"
+    }
+  },
+  "day262": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day263": {
+    "tweet1": {
+      "content": "Gold’s Rally Helps Miners Delay the Inevitable"
+    },
+    "tweet2": {
+      "content": "Gold’s Rally Helps Miners Delay the Inevitable"
+    }
+  },
+  "day264": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day265": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day266": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day267": {
+    "tweet1": {
+      "content": "Newmont Recognized for Strong Environmental, Social and Governance Performance"
+    }
+  },
+  "day268": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day269": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day270": {
+    "tweet1": {
+      "content": "Increase Your Chances to Earn Large Returns With These 3 Stocks"
+    },
+    "tweet2": {
+      "content": "Gold Stocks In Buy Range As Gold Price Nears 7-Year High On Coronavirus"
+    }
+  },
+  "day271": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day272": {
+    "tweet1": {
+      "content": "Top Gold Stocks for February 2020"
+    }
+  },
+  "day273": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day274": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day275": {
+    "tweet1": {
+      "content": "US Stocks Rally on Tuesday"
+    }
+  },
+  "day276": {
+    "tweet1": {
+      "content": "Why Alacer Gold Is a Buy"
+    },
+    "tweet2": {
+      "content": "NASDAQ Reaches New Closing High as Rebound Continues"
+    }
+  },
+  "day277": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day278": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day279": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day280": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day281": {
+    "tweet1": {
+      "content": "Barrick reports higher adjusted profit on improved gold output, prices"
+    }
+  },
+  "day282": {
+    "tweet1": {
+      "content": "Newmont Corporation (COMPANY_X) Earnings Expected to Grow: What to Know Ahead of Next Week's Release"
+    },
+    "tweet2": {
+      "content": "Why You Should Buy Barrick Gold Corp"
+    },
+    "tweet3": {
+      "content": "Newmont Reports 2019 Gold Mineral Reserves of 100 Million Ounces, Largest in Company History"
+    }
+  },
+  "day283": {
+    "tweet1": {
+      "content": "7 Ways To Invest In Gold Amid Coronavirus Fears"
+    }
+  },
+  "day284": {
+    "tweet1": {
+      "content": "Newmont (COMPANY_X) to Post Q4 Earnings: What's in the Offing?"
+    },
+    "tweet2": {
+      "content": "Loncor Provides Update on Exploration Activities at Its Ngayu Project"
+    },
+    "tweet3": {
+      "content": "Newmont Declares Fourth Quarter 2019 Dividend of $0.14 per Share"
+    }
+  },
+  "day285": {
+    "tweet1": {
+      "content": "Pan American Silver Breaks Out Ahead Of Earnings As Silver, Gold Prices Surge"
+    },
+    "tweet2": {
+      "content": "Newmont Brings First Autonomous Haulage Fleet to Gold Mining Industry"
+    }
+  },
+  "day286": {
+    "tweet1": {
+      "content": "WRAPUP 2-Surging gold prices propel earnings at miners Newmont, Kirkland"
+    },
+    "tweet2": {
+      "content": "Gold Buyers Should Own Newmont - Here's Why"
+    },
+    "tweet3": {
+      "content": "Newmont Soars on Profit Beat With Rising Gold Providing Tailwind"
+    },
+    "tweet4": {
+      "content": "Newmont's (COMPANY_X) Q4 Earnings Surpass Estimates, Sales Miss"
+    },
+    "tweet5": {
+      "content": "Colorado mining giant to spend $150M to roll out autonomous vehicles in 2021"
+    },
+    "tweet6": {
+      "content": "Newmont Corporation (COMPANY_X) Q4 Earnings Top Estimates"
+    },
+    "tweet7": {
+      "content": "Pan American Silver Earnings Mixed After PAAS Stock Breaks Out As Silver, Gold Prices Surge"
+    },
+    "tweet8": {
+      "content": "Newmont adjusted profit jumps on higher output, gold prices"
+    },
+    "tweet9": {
+      "content": "Newmont Announces Full Year and Fourth Quarter 2019 Results"
+    }
+  },
+  "day287": {
+    "tweet1": {
+      "content": "Why Newmont Can Outperform"
+    },
+    "tweet2": {
+      "content": "Newmont to Present at BMO Global Metals & Mining Conference"
+    }
+  },
+  "day288": {
+    "tweet1": {
+      "content": "The Only 13 S&P 500 Stocks That Rose on Monday"
+    },
+    "tweet2": {
+      "content": "Newmont Mining Stock Shines Amid Market Jitters, Key Rating Jumps To 98"
+    },
+    "tweet3": {
+      "content": "Gold miner stocks rally, as COVID-19 fears sparks gold price spike to 7-year high"
+    },
+    "tweet4": {
+      "content": "With Gold Up, Miners Face Payouts Versus Production Dilemma"
+    }
+  },
+  "day289": {
+    "tweet1": {
+      "content": "Gold miners fret about long-term supply even as they boost dividends"
+    },
+    "tweet2": {
+      "content": "Newmont to Invest in Autonomous Haulage System at Boddington"
+    },
+    "tweet3": {
+      "content": "BatteryOne Completes an Oversubscribed Private Placement for $5.85 million"
+    }
+  },
+  "day290": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day291": {
+    "tweet1": {
+      "content": "Top Gold Stocks for March 2020"
+    },
+    "tweet2": {
+      "content": "Top Stocks for March 2020"
+    }
+  },
+  "day292": {
+    "tweet1": {
+      "content": "These are the only 7 stocks in the S&P 500 that rose while the market plunged"
+    },
+    "tweet2": {
+      "content": "Newmont- &quot;World-Class Assets&quot; for Gold Investors"
+    }
+  },
+  "day293": {
+    "tweet1": {
+      "content": "Edited Transcript of COMPANY_X earnings conference call or presentation 20-Feb-20 3:00pm GMT"
+    }
+  },
+  "day294": {
+    "tweet1": {
+      "content": "Gold Prices Are Surging. Why the Rally Is Just Getting Started."
+    },
+    "tweet2": {
+      "content": "Loncor Announces Appointment of John Barker as Vice President of Business Development"
+    }
+  },
+  "day295": {
+    "tweet1": {
+      "content": "Newmont Announces Pricing of 2.250% Senior Notes Offering"
+    },
+    "tweet2": {
+      "content": "Newmont Corporation -- Moody's assigns a Baa2 senior unsecured rating to Newmont's notes; outlook stable"
+    },
+    "tweet3": {
+      "content": "Newmont (COMPANY_X) in Focus: Stock Moves 6.2% Higher"
+    },
+    "tweet4": {
+      "content": "Newmont Corporation Launches a Tender Offer, Up to the Applicable Maximum Principal Tender Amount, for its 3.500% Senior Notes due 2022, its 3.700% Notes due 2023 and Goldcorp’s 3.700% Notes due 2023"
+    },
+    "tweet5": {
+      "content": "Newmont Announces Proposed Offering of Senior Notes"
+    },
+    "tweet6": {
+      "content": "Newmont Files Early Warning Reports"
+    }
+  },
+  "day296": {
+    "tweet1": {
+      "content": "Gold Stocks Recover From Coronavirus Swings; Gold Price Rebounds To $1,660"
+    },
+    "tweet2": {
+      "content": "Newmont Successfully Sells Stake in Continental Gold for $260 Million in Cash"
+    },
+    "tweet3": {
+      "content": "Newmont (COMPANY_X) Announces Pricing of Senior Notes Offering"
+    },
+    "tweet4": {
+      "content": "Why Newmont (COMPANY_X) Could Be Positioned for a Surge"
+    }
+  },
+  "day297": {
+    "tweet1": {
+      "content": "Newmont Corporation (COMPANY_X) Gains As Market Dips: What You Should Know"
+    }
+  },
+  "day298": {
+    "tweet1": {
+      "content": "Earnings Estimates Rising for Newmont (COMPANY_X): Will It Gain?"
+    },
+    "tweet2": {
+      "content": "Is Newmont Goldcorp (COMPANY_X) Stock Outpacing Its Basic Materials Peers This Year?"
+    },
+    "tweet3": {
+      "content": "Newmont (COMPANY_X) Sells Stake in Continental Gold for $260M"
+    },
+    "tweet4": {
+      "content": "Newmont to Reduce Board Size"
+    }
+  },
+  "day299": {
+    "tweet1": {
+      "content": "5 Companies Reach 52-Week Highs"
+    }
+  },
+  "day300": {
+    "tweet1": {
+      "content": "Top Analyst Reports for Amazon, IBM & Biogen"
+    },
+    "tweet2": {
+      "content": "3 Reasons Growth Investors Will Love Newmont (COMPANY_X)"
+    },
+    "tweet3": {
+      "content": "Barrick's Pueblo Viejo mine expansion needs $1.3 bln initial investment"
+    },
+    "tweet4": {
+      "content": "How Newmont (COMPANY_X) Stock Stands Out in a Strong Industry"
+    }
+  },
+  "day301": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Amazon, IBM, Biogen, Newmont and Berkshire Hathaway"
+    }
+  },
+  "day302": {
+    "tweet1": {
+      "content": "Here's Why You Should Invest in Newmont (COMPANY_X) Stock Now"
+    }
+  },
+  "day303": {
+    "tweet1": {
+      "content": "Where and When to Shovel GDX into Your Portfolio"
+    },
+    "tweet2": {
+      "content": "Cleveland-Cliffs Successfully Completes AK Steel Buyout"
+    }
+  },
+  "day304": {
+    "tweet1": {
+      "content": "Top Metal Miners Curb Operations as Governments Fight Virus"
+    },
+    "tweet2": {
+      "content": "Barrick Intends to Make Veladero Gold Mine a Tier One Asset"
+    },
+    "tweet3": {
+      "content": "Top Stocks for April 2020"
+    },
+    "tweet4": {
+      "content": "Newmont Corp. halts mining at its Peru gold operation, closes offices in COVID-19 reaction"
+    },
+    "tweet5": {
+      "content": "Top Gold Stocks for April 2020"
+    },
+    "tweet6": {
+      "content": "Methanex Sees Coronavirus to Hurt Demand, Cuts Production"
+    },
+    "tweet7": {
+      "content": "Newmont to scale down operations at Yanacocha on Peru's virus restrictions"
+    },
+    "tweet8": {
+      "content": "Government Restrictions in Peru Require Safely Ramping Down Mining Operations at Yanacocha"
+    },
+    "tweet9": {
+      "content": "Here is What Hedge Funds Think About Newmont Corporation (COMPANY_X)"
+    }
+  },
+  "day305": {
+    "tweet1": {
+      "content": "Newmont Corporation Announces Pricing of the Tender Offers for its 3.500% Senior Notes due 2022, its 3.700% Notes due 2023 and Goldcorp’s 3.700% Notes due 2023"
+    },
+    "tweet2": {
+      "content": "Newmont Closes Senior Notes Offering of $1 Billion at 2.250%"
+    },
+    "tweet3": {
+      "content": "Newmont to Ramp Down Yanacocha Amid Virus Restrictions"
+    },
+    "tweet4": {
+      "content": "Freeport (FCX) Temporarily Halts Operations at Cerro Verde"
+    },
+    "tweet5": {
+      "content": "Newmont Corporation Announces Early Results of the Tender Offers for its 3.500% Senior Notes due 2022, its 3.700% Notes due 2023 and Goldcorp’s 3.700% Notes due 2023 and the Upsizing of the Tender Offer for its 3.700% Notes due 2023"
+    }
+  },
+  "day306": {
+    "tweet1": {
+      "content": "Newmont Corporation (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Franco-Nevada, Kirkland Lake Gold, Newmont, Daqo New Energy and Gerdau"
+    },
+    "tweet3": {
+      "content": "Newmont (COMPANY_X) Closes Offering of $1B Senior Notes Due 2030"
+    },
+    "tweet4": {
+      "content": "Steel Dynamics Issues Q1 View, Higher Shipments to Aid Margins"
+    },
+    "tweet5": {
+      "content": "A Watch List to Nibble On"
+    }
+  },
+  "day307": {
+    "tweet1": {
+      "content": "'Relax' Signs During a Panic Moment"
+    },
+    "tweet2": {
+      "content": "Vale to Continue to Operate Malaysia Iron Ore Terminal"
+    },
+    "tweet3": {
+      "content": "Commercial Metals' (CMC) Q2 Earnings Trump Estimates, Up Y/Y"
+    },
+    "tweet4": {
+      "content": "Nucor Issues Q1 View, Expects Steel Mills Earnings to Improve"
+    }
+  },
+  "day308": {
+    "tweet1": {
+      "content": "These Miners Cut Production Due To Coronavirus; John Deere Pulls Guidance"
+    },
+    "tweet2": {
+      "content": "U.S. Steel Expects Strong Shipments to Aid Flat-Rolled in Q1"
+    },
+    "tweet3": {
+      "content": "Newmont Withdraws 2020 Guidance and Warns Production Could Be Deferred"
+    },
+    "tweet4": {
+      "content": "Newmont withdraws 2020 forecast following coronavirus outbreak"
+    },
+    "tweet5": {
+      "content": "Newmont Implements Additional Controls to Further Protect Workforce, Neighboring Communities"
+    }
+  },
+  "day309": {
+    "tweet1": {
+      "content": "Freeport to Suspend Cash Dividend, Aims to Boost Cash Flows"
+    },
+    "tweet2": {
+      "content": "Newmont (COMPANY_X) Withdraws 2020 View Amid Coronavirus Pandemic"
+    },
+    "tweet3": {
+      "content": "B2Gold to Temporarily Suspend Masbate Mine in the Philippines"
+    }
+  },
+  "day310": {
+    "tweet1": {
+      "content": "Newmont Announces Moving to a Virtual Meeting for 2020 Annual Meeting of Stockholders"
+    },
+    "tweet2": {
+      "content": "Is Newmont Goldcorp (COMPANY_X) Stock Outpacing Its Basic Materials Peers This Year?"
+    },
+    "tweet3": {
+      "content": "Teck Modifies Fort Hills Operating Plan Amid Low Oil Prices"
+    },
+    "tweet4": {
+      "content": "Century Aluminum (CENX) Issues Update on Coronavirus Response"
+    }
+  },
+  "day311": {
+    "tweet1": {
+      "content": "Newmont Corporation (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "A $1.2 Billion Fund Makes the Case for Gold"
+    },
+    "tweet3": {
+      "content": "U.S. Silica (SLCA) to Reduce Annualized SG&A Costs by $20M"
+    },
+    "tweet4": {
+      "content": "Vale Idles Malaysia Port, Declares Aid for Suppliers in Brazil"
+    },
+    "tweet5": {
+      "content": "Agnico Eagle Withdraws 2020 View Amid Coronavirus Pandemic"
+    }
+  },
+  "day312": {
+    "tweet1": {
+      "content": "3 Reasons Growth Investors Will Love Newmont (COMPANY_X)"
+    },
+    "tweet2": {
+      "content": "Scotts Miracle-Gro (SMG) Announces Preliminary Results for Q2"
+    }
+  },
+  "day313": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day314": {
+    "tweet1": {
+      "content": "Newmont Completes Sale of Red Lake and Realizes Cash Proceeds of $375 million"
+    },
+    "tweet2": {
+      "content": "LyondellBasell (LYB) Delays the PO/TBA Project Construction"
+    },
+    "tweet3": {
+      "content": "Wheaton to Grow on Mine Expansions & Higher Gold Prices"
+    }
+  },
+  "day315": {
+    "tweet1": {
+      "content": "What's Up With Gold Miner Stocks?"
+    },
+    "tweet2": {
+      "content": "Newmont Corporation Announces Expiration and Final Results of the Tender Offers for its 3.500% Senior Notes due 2022 and Goldcorp’s 3.700% Notes due 2023"
+    }
+  },
+  "day316": {
+    "tweet1": {
+      "content": "Cabot (CBT) Completes Acquisition of SUSN for $115 Million"
+    },
+    "tweet2": {
+      "content": "Following New Government Restrictions in Mexico, Newmont Safely Ramping Down Peñasquito Operations"
+    }
+  },
+  "day317": {
+    "tweet1": {
+      "content": "Newmont (COMPANY_X) Closes Divestment of Red Lake Complex for $375M"
+    },
+    "tweet2": {
+      "content": "Miner Newmont to reduce operations at Penasquito mine in Mexico"
+    }
+  },
+  "day318": {
+    "tweet1": {
+      "content": "Newmont Announces First Quarter 2020 Earnings Call"
+    }
+  },
+  "day319": {
+    "tweet1": {
+      "content": "Precious Metals Uptrend Could Be in Early Stages"
+    }
+  },
+  "day320": {
+    "tweet1": {
+      "content": "Newmont Corporation (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "3 “Strong Buy” Precious Metal Stocks to Mine For"
+    },
+    "tweet3": {
+      "content": "What Makes Newmont (COMPANY_X) an Attractive Investment Choice"
+    },
+    "tweet4": {
+      "content": "The 2 Best-Positioned Gold Miners Barrick and Newmont"
+    },
+    "tweet5": {
+      "content": "Newmont Ramping Down Operations at Penasquito Mine in Mexico"
+    }
+  },
+  "day321": {
+    "tweet1": {
+      "content": "Newmont's stock soars toward 7 1/2-year high after bullish call from analyst, gold price rallies"
+    },
+    "tweet2": {
+      "content": "Newmont Establishes $20 Million Community Support Fund"
+    },
+    "tweet3": {
+      "content": "What Makes Barrick (GOLD) an Attractive Investment Option"
+    }
+  },
+  "day322": {
+    "tweet1": {
+      "content": "12 Stocks That Are Beating the Market During the Coronavirus Crisis—and Can Keep on Growing After"
+    },
+    "tweet2": {
+      "content": "Newmont (COMPANY_X) Shares Up 32% YTD: What's Driving the Stock?"
+    },
+    "tweet3": {
+      "content": "S&P 500's Best Week Since 1974: 5 Winners With High Potential"
+    }
+  },
+  "day323": {
+    "tweet1": {
+      "content": "Newmont Corporation (COMPANY_X) Gains But Lags Market: What You Should Know"
+    },
+    "tweet2": {
+      "content": "3 Reasons Growth Investors Will Love Newmont (COMPANY_X)"
+    },
+    "tweet3": {
+      "content": "10 Stocks Leading the Rally in the S&P 500 ETF"
+    },
+    "tweet4": {
+      "content": "The Zacks Analyst Blog Highlights: Evergy, MarketAxess, Newmont Goldcorp, Paycom Software and Centene"
+    },
+    "tweet5": {
+      "content": "FMC Corp (FMC) Poised on Strong Demand & Portfolio Expansion"
+    },
+    "tweet6": {
+      "content": "Mexican mine Penasquito suspends operations due to coronavirus"
+    }
+  },
+  "day324": {
+    "tweet1": {
+      "content": "The stock market has been on a roller coaster for 2 months — but the S&P 500 is down only 2% over 12 months. Here are the big winners."
+    },
+    "tweet2": {
+      "content": "The biggest stock-market lesson from the last 12 months: Stay calm"
+    }
+  },
+  "day325": {
+    "tweet1": {
+      "content": "Take Profits in Gold, Says Analyst. That’s Great News for Everyone."
+    },
+    "tweet2": {
+      "content": "Gold Giant Newmont Says Metal Could Top $2,000 on Stimulus"
+    },
+    "tweet3": {
+      "content": "Gold Prices Grind Higher as Jobless Claims Keeps Havens in Demand"
+    }
+  },
+  "day326": {
+    "tweet1": {
+      "content": "Newmont to reopen some Canadian, South American mines in 'days or weeks'"
+    },
+    "tweet2": {
+      "content": "CORRECTED-Newmont to reopen some Canadian, South American mines in 'days or weeks'"
+    },
+    "tweet3": {
+      "content": "The Global Airline Shutdown Has a Surprise Victim: Gold Miners"
+    }
+  },
+  "day327": {
+    "tweet1": {
+      "content": "Top 10 Best and Worst Performing S&P 500 Stocks in This Crisis"
+    },
+    "tweet2": {
+      "content": "Barrick Issues Q1 Preliminary Results, to Meet 2020 Guidance"
+    }
+  },
+  "day328": {
+    "tweet1": {
+      "content": "Newmont Corporation (COMPANY_X) Stock Moves -1.5%: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Gold Is Heading for $3,000, Bank of America Says. ‘The Fed Can’t Print Gold.’"
+    },
+    "tweet3": {
+      "content": "Newmont, Buoyed by Rising Gold Prices, Boosts Dividend 79%"
+    },
+    "tweet4": {
+      "content": "Newmont Increases Quarterly Dividend by 79 percent to $0.25 Per Share"
+    }
+  },
+  "day329": {
+    "tweet1": {
+      "content": "Newmont (COMPANY_X) Announces Hike of 79% in Quarterly Dividend"
+    }
+  },
+  "day330": {
+    "tweet1": {
+      "content": "Newmont Corporation (COMPANY_X) Gains As Market Dips: What You Should Know"
+    },
+    "tweet2": {
+      "content": "What Lies Ahead for Materials ETFs in Q1 Earnings?"
+    },
+    "tweet3": {
+      "content": "New Strong Buy Stocks for April 23rd"
+    },
+    "tweet4": {
+      "content": "FMC Corp Issues Update on Liquidity, Expects Strong Q1 Results"
+    }
+  },
+  "day331": {
+    "tweet1": {
+      "content": "Newmont Corporation (COMPANY_X) is a Great Momentum Stock: Should You Buy?"
+    },
+    "tweet2": {
+      "content": "Freeport's (FCX) Earnings Beat Estimates in Q1, Sales Miss"
+    },
+    "tweet3": {
+      "content": "InvesTech Research Adds to Gold"
+    }
+  },
+  "day332": {
+    "tweet1": {
+      "content": "Is Newmont (COMPANY_X) Outperforming Other Basic Materials Stocks This Year?"
+    }
+  },
+  "day333": {
+    "tweet1": {
+      "content": "Oil’s Not the Only Commodity Acting Wacky. Just Look at Milk Futures."
+    },
+    "tweet2": {
+      "content": "Newmont Corporation (COMPANY_X) Earnings Expected to Grow: What to Know Ahead of Next Week's Release"
+    },
+    "tweet3": {
+      "content": "Nucor's (NUE) Earnings and Sales Surpass Estimates in Q1"
+    }
+  },
+  "day334": {
+    "tweet1": {
+      "content": "Top Gold Stocks for May 2020"
+    },
+    "tweet2": {
+      "content": "Top Materials Stocks for May 2020"
+    },
+    "tweet3": {
+      "content": "Newmont (COMPANY_X) to Post Q1 Earnings: What's in the Offing?"
+    }
+  },
+  "day335": {
+    "tweet1": {
+      "content": "Top Stocks for May 2020"
+    },
+    "tweet2": {
+      "content": "Is Newmont (COMPANY_X) a Solid Growth Stock? 3 Reasons to Think \" Yes \""
+    },
+    "tweet3": {
+      "content": "International Paper (IP) Q1 Earnings & Sales Top Estimates"
+    },
+    "tweet4": {
+      "content": "These 9 Top Stocks Win Big Price-Target Hikes From Analysts"
+    },
+    "tweet5": {
+      "content": "Mexican miners ask U.S. to consider it in talks on re-opening"
+    }
+  },
+  "day336": {
+    "tweet1": {
+      "content": "Dow Jones Tumbles 600 Points on Friday"
+    },
+    "tweet2": {
+      "content": "Lots of Companies Cut Dividends in April. Here Are Some Big Ones That Didn’t."
+    }
+  },
+  "day337": {
+    "tweet1": {
+      "content": "These 19 Big Stocks Raise Their Dividends Despite Coronavirus"
+    },
+    "tweet2": {
+      "content": "Rising Gold Prices Will Boost Newmont, CEO Says. Here’s What to Expect From Earnings."
+    }
+  },
+  "day338": {
+    "tweet1": {
+      "content": "Newmont Stock Gained After Earnings Lagged Estimates. Rising Gold Prices Helped."
+    },
+    "tweet2": {
+      "content": "Newmont's (COMPANY_X) Earnings and Sales Miss Estimates in Q1"
+    },
+    "tweet3": {
+      "content": "Newmont Corporation (COMPANY_X) Lags Q1 Earnings and Revenue Estimates"
+    },
+    "tweet4": {
+      "content": "Gold miner Newmont's profit surges on higher output, bullion prices"
+    },
+    "tweet5": {
+      "content": "Gold miner Newmont's quarterly profit jumps on higher output, bullion prices"
+    },
+    "tweet6": {
+      "content": "Newmont Announces Solid First Quarter 2020 Results"
+    },
+    "tweet7": {
+      "content": "Newmont earnings surge more than ninefold"
+    }
+  },
+  "day339": {
+    "tweet1": {
+      "content": "Were Hedge Funds Right About Newmont Mining Corp (COMPANY_X)?"
+    },
+    "tweet2": {
+      "content": "Royce Investment Partners Commentary: International Premier Quality- An Update and Outlook"
+    },
+    "tweet3": {
+      "content": "Chemours (CC) Earnings Beat, Revenues Miss Estimates in Q1"
+    },
+    "tweet4": {
+      "content": "FMC Corp's (FMC) Q1 Earnings Top Estimates, Revenues Miss"
+    },
+    "tweet5": {
+      "content": "Newmont Goldcorp (COMPANY_X) Q1 2020 Earnings Call Transcript"
+    }
+  },
+  "day340": {
+    "tweet1": {
+      "content": "Westlake Chemical (WLK) Q1 Earnings Beat Estimates, Sales Lag"
+    },
+    "tweet2": {
+      "content": "Newmont Donates $500,000 to Support the Colorado COVID Relief Fund"
+    }
+  },
+  "day341": {
+    "tweet1": {
+      "content": "Kinross' (KGC) Q1 Earnings Beat Estimates, Sales Up Y/Y"
+    },
+    "tweet2": {
+      "content": "Why You Can Now Trust Newmont and Gold Miners"
+    },
+    "tweet3": {
+      "content": "Allegheny (ATI) Tops Earnings and Revenue Estimates in Q1"
+    },
+    "tweet4": {
+      "content": "Wheaton (WPM) Beats on Q1 Earnings, Suspends '20 Guidance"
+    },
+    "tweet5": {
+      "content": "Royal Gold's (RGLD) Q3 Earnings Beat, Sales Miss Estimates"
+    },
+    "tweet6": {
+      "content": "China's Shandong Gold to buy Canadian miner TMAC Resources for almost $165 mln"
+    }
+  },
+  "day342": {
+    "tweet1": {
+      "content": "This unlikely stock is the biggest winner since the February stock market top"
+    },
+    "tweet2": {
+      "content": "Gold Mining Q1 Earnings Mixed: ETFs Gain on Fundamentals"
+    },
+    "tweet3": {
+      "content": "Scotts Miracle-Gro (SMG) Q2 Earnings Top, Sales Lag Estimates"
+    },
+    "tweet4": {
+      "content": "Domtar's (UFS) Earnings & Revenues Beat Estimates in Q1"
+    },
+    "tweet5": {
+      "content": "Methanex (MEOH) Q1 Earnings Beat Estimates, Revenues Down Y/Y"
+    },
+    "tweet6": {
+      "content": "Tronox (TROX) Q1 Earnings Beat Estimates, Revenues In Line"
+    },
+    "tweet7": {
+      "content": "Kronos Worldwide (KRO) Earnings & Sales Beat Estimates in Q1"
+    }
+  },
+  "day343": {
+    "tweet1": {
+      "content": "These stocks are performing better than FANG amid COVID-19"
+    },
+    "tweet2": {
+      "content": "3 Large Gold Miners to Take Advantage of Higher Gold Prices"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Apple, Johnson& Johnson, Costco, Procter & Gamble and Newmont"
+    },
+    "tweet4": {
+      "content": "Cabot (CBT) Earnings Surpass Estimates in Q2, Sales Miss"
+    },
+    "tweet5": {
+      "content": "Celanese (CE) Inks MoU to Supply Ethylene-Based VAM to Wanwei"
+    },
+    "tweet6": {
+      "content": "Koppers' (KOP) Earnings and Revenues Meet Estimates in Q1"
+    },
+    "tweet7": {
+      "content": "Ashland's (ASH) Q2 Earnings In Line, Revenues Beat Estimates"
+    }
+  },
+  "day344": {
+    "tweet1": {
+      "content": "Newmont to Begin Safely Ramping Up at Peñasquito"
+    },
+    "tweet2": {
+      "content": "Has Newmont (COMPANY_X) Outpaced Other Basic Materials Stocks This Year?"
+    },
+    "tweet3": {
+      "content": "Mosaic Declares April Sales Volumes & Revenues of Segments"
+    },
+    "tweet4": {
+      "content": "Univar (UNVR) Beats Earnings and Revenue Estimates in Q1"
+    }
+  },
+  "day345": {
+    "tweet1": {
+      "content": "Quaker Chemical (KWR) Q1 Earnings and Revenues Top Estimates"
+    },
+    "tweet2": {
+      "content": "PPG Industries Launches Program for SilverSan Powder Coating"
+    }
+  },
+  "day346": {
+    "tweet1": {
+      "content": "April’s Retail Sales Collapse Bodes Poorly for Q2 GDP"
+    },
+    "tweet2": {
+      "content": "Newmont (COMPANY_X) to Start Ramping Up Operations at Penasquito"
+    },
+    "tweet3": {
+      "content": "Should You Buy Gold Stocks Now? Well, That Depends"
+    },
+    "tweet4": {
+      "content": "Mexico mining official says industry should aim for June 1 restart"
+    }
+  },
+  "day347": {
+    "tweet1": {
+      "content": "Looking for a Growth Stock? 3 Reasons Why Newmont (COMPANY_X) is a Solid Choice"
+    },
+    "tweet2": {
+      "content": "Univar (UNVR) to Distribute Vorasurf Silicone Surfactants"
+    }
+  },
+  "day348": {
+    "tweet1": {
+      "content": "U.S. Steel (X) Inks Iron Ore Agreement With Algoma Steel"
+    },
+    "tweet2": {
+      "content": "Franco-Nevada Shares Up 43% YTD: What's Driving the Stock?"
+    },
+    "tweet3": {
+      "content": "Air Products (APD) and Haldor Topsoe Ink Alliance Agreement"
+    },
+    "tweet4": {
+      "content": "Newmont Provides Updated 2020 Outlook and Confirms Long-term Guidance"
+    },
+    "tweet5": {
+      "content": "FMC Corp Gains on Solid Demand & New Products Amid Cost Woes"
+    },
+    "tweet6": {
+      "content": "Flexible Solutions (FSI) Q1 Earnings Top, Revenues Down Y/Y"
+    }
+  },
+  "day349": {
+    "tweet1": {
+      "content": "Air Products (APD) Inks Agreement to Invest $2B in Indonesia"
+    },
+    "tweet2": {
+      "content": "Newmont Issues Revised 2020 Outlook, Reaffirms Long-term View"
+    }
+  },
+  "day350": {
+    "tweet1": {
+      "content": "Should You Worry About PC Connection, Inc.'s (NASDAQ:CNXN) CEO Pay?"
+    }
+  },
+  "day351": {
+    "tweet1": {
+      "content": "Gold Stocks Shine As Viral Caution Ignites Gold Prices, But For How Long?"
+    },
+    "tweet2": {
+      "content": "Gold Stocks Ride Gold Prices Higher As Coronavirus Fuels Barrick Gold Stock, Kinross, Kirkland Lake"
+    },
+    "tweet3": {
+      "content": "3 Top Trades As We Head Into the Last Week of May"
+    },
+    "tweet4": {
+      "content": "Newmont Mining Should Ride Higher With Gold Prices"
+    },
+    "tweet5": {
+      "content": "The Bull Run in the Gold Miners ETF Is Just Getting Started"
+    }
+  },
+  "day352": {
+    "tweet1": {
+      "content": "Tuesday Morning Market Highlights"
+    },
+    "tweet2": {
+      "content": "Newmont Stock Has Doubled, and It Still Looks Good"
+    },
+    "tweet3": {
+      "content": "National Steel (SID) Posts Narrower-Than-Expected Loss in Q1"
+    },
+    "tweet4": {
+      "content": "Kinross Unionized Workers' Strike at Tasiast Mine Suspended"
+    },
+    "tweet5": {
+      "content": "Celanese Increases Price of Acetyl Intermediates in China"
+    },
+    "tweet6": {
+      "content": "Edited Transcript of COMPANY_X earnings conference call or presentation 5-May-20 1:00pm GMT"
+    }
+  },
+  "day353": {
+    "tweet1": {
+      "content": "Wednesday Morning Market Highlights"
+    },
+    "tweet2": {
+      "content": "What Makes Scotts Miracle-Gro an Attractive Investment Option"
+    },
+    "tweet3": {
+      "content": "LyondellBasell Grants Hostalen ACP Licenses to Sinopec Hainan"
+    },
+    "tweet4": {
+      "content": "U.S. Steel Declares Pricing of Senior Secured Notes Due 2025"
+    }
+  },
+  "day354": {
+    "tweet1": {
+      "content": "Top Gold Stocks for June 2020"
+    },
+    "tweet2": {
+      "content": "Newmont (COMPANY_X) Shares Up 35% YTD: What's Driving The Stock?"
+    },
+    "tweet3": {
+      "content": "Here's Why You Should Invest in Agnico Eagle (AEM) Stock Now"
+    },
+    "tweet4": {
+      "content": "Top Materials Stocks for June 2020"
+    },
+    "tweet5": {
+      "content": "Univar to Distribute Valio's Eila Lactose-Free Milk Powders"
+    },
+    "tweet6": {
+      "content": "Dow (DOW) Introduces PCR Plastic Resin in Asia Pacific Region"
+    }
+  },
+  "day355": {
+    "tweet1": {
+      "content": "Scotts Miracle-Gro Up 24% in 3 Months: What's Driving It?"
+    },
+    "tweet2": {
+      "content": "Gold M&A back on the agenda as coronavirus restrictions ease"
+    },
+    "tweet3": {
+      "content": "Dow (DOW) Launches Dowsil 8024 Food Contact Release Emulsion"
+    },
+    "tweet4": {
+      "content": "Ingevity Gains on Capa Buyout Amid Weak Industrial Demand"
+    }
+  },
+  "day356": {
+    "tweet1": {
+      "content": "Newmont Corporation (COMPANY_X) Is Shining Bright During the Darkness of Covid-19"
+    },
+    "tweet2": {
+      "content": "Newmont Publishes 2019 Sustainability Report"
+    },
+    "tweet3": {
+      "content": "Not All Cyclical Stocks Are Created Equal. These 7 Are Resilient."
+    }
+  },
+  "day357": {
+    "tweet1": {
+      "content": "‘There is an increased level of political risk,’ which could weigh on markets: BMO Portfolio Manager"
+    }
+  },
+  "day358": {
+    "tweet1": {
+      "content": "Top Performers in the S&P 500 This Year"
+    },
+    "tweet2": {
+      "content": "Newmont's (COMPANY_X) Shares Rise 15% in 3 Months: Here's Why"
+    },
+    "tweet3": {
+      "content": "Wednesday Morning Market Highlights"
+    },
+    "tweet4": {
+      "content": "Ingevity to Lower Costs in Response to Coronavirus Outbreak"
+    },
+    "tweet5": {
+      "content": "Dow and Johnson Matthey License Process Technology to QXTD"
+    }
+  },
+  "day359": {
+    "tweet1": {
+      "content": "Newmont Corporation (COMPANY_X) Stock Moves -0.21%: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Newmont (COMPANY_X) Down 10.3% Since Last Earnings Report: Can It Rebound?"
+    }
+  },
+  "day360": {
+    "tweet1": {
+      "content": "A Golden Opportunity For Two Small-Cap Miners"
+    },
+    "tweet2": {
+      "content": "Friday Morning Market Highlights"
+    }
+  },
+  "day361": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day362": {
+    "tweet1": {
+      "content": "Connection Honored by Intel With U.S. Partner of the Year for Excellence in Accelerating Innovation Award"
+    },
+    "tweet2": {
+      "content": "Tuesday Morning Market Highlights"
+    },
+    "tweet3": {
+      "content": "The Dow Is Tumbling. It’s Time to Talk About Stock Market Bubbles."
+    }
+  },
+  "day363": {
+    "tweet1": {
+      "content": "Wednesday Morning Market Highlights"
+    },
+    "tweet2": {
+      "content": "Gold Mining Stocks Dig in at Support"
+    }
+  },
+  "day364": {
+    "tweet1": {
+      "content": "Thursday Morning Market Highlights"
+    }
+  },
+  "day365": {
+    "tweet1": {
+      "content": "Newmont Corporation (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    }
+  },
+  "day366": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day367": {
+    "tweet1": {
+      "content": "Mining for Gold on Newmont's Charts"
+    },
+    "tweet2": {
+      "content": "Mining for Gold on Newmont's Charts"
+    }
+  },
+  "day368": {
+    "tweet1": {
+      "content": "Desert Hawk Gold Corporation to Host Webinar June 24 – The Case for Gold in an Era of Unprecedented Money Printing"
+    }
+  },
+  "day369": {
+    "tweet1": {
+      "content": "Newmont Corporation (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Newmont Ranked Top Miner in 100 Best Corporate Citizens List"
+    }
+  },
+  "day370": {
+    "tweet1": {
+      "content": "Is Newmont (COMPANY_X) Outperforming Other Basic Materials Stocks This Year?"
+    }
+  },
+  "day371": {
+    "tweet1": {
+      "content": "Gold’s Rally Still Has Legs. Here’s Why, According to One Analyst."
+    },
+    "tweet2": {
+      "content": "Monday Morning Market Highlights"
+    }
+  },
+  "day372": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day373": {
+    "tweet1": {
+      "content": "5 Metals and Mining Stocks With High Financial Strength"
+    },
+    "tweet2": {
+      "content": "Top Materials Stocks for July 2020"
+    },
+    "tweet3": {
+      "content": "Gold Poised to Challenge $1,800 as Virus Resurgence Fans Demand"
+    },
+    "tweet4": {
+      "content": "Gold nears eight-year high as investors seek havens"
+    }
+  },
+  "day374": {
+    "tweet1": {
+      "content": "Axalta (AXTA) Unveils Imron Industrial Wood Product Line"
+    },
+    "tweet2": {
+      "content": "Celanese (CE) Extends Long-Term Feedstock Contract In China"
+    }
+  },
+  "day375": {
+    "tweet1": {
+      "content": "Lower Oilfield Activities Hurt Hi-Crush's (HCR) Q1 Earnings"
+    }
+  },
+  "day376": {
+    "tweet1": {
+      "content": "Top Gold Stocks for July 2020"
+    },
+    "tweet2": {
+      "content": "Why Higher Gold Prices Will Benefit Newmont and Barrick Gold the Most"
+    },
+    "tweet3": {
+      "content": "Scotts Miracle-Gro (SMG) Introduces Venture Capital Fund"
+    }
+  },
+  "day377": {
+    "tweet1": {
+      "content": "Tuesday Morning Market Highlights"
+    },
+    "tweet2": {
+      "content": "Newmont Looks Like a Golden Opportunity"
+    }
+  },
+  "day378": {
+    "tweet1": {
+      "content": "Newmont Corporation (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    }
+  },
+  "day379": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day380": {
+    "tweet1": {
+      "content": "Top Analyst Reports for Novartis, Equinix & Newmont"
+    },
+    "tweet2": {
+      "content": "Newmont Announces Second Quarter 2020 Earnings Call"
+    }
+  },
+  "day381": {
+    "tweet1": {
+      "content": "Were Hedge Funds Right About Warming Up To Newmont Corporation (COMPANY_X)?"
+    },
+    "tweet2": {
+      "content": "The Zacks Analyst Blog Highlights: Novartis, Equinix, Newmont, Enterprise Products Partners and Franco-Nevada"
+    }
+  },
+  "day382": {
+    "tweet1": {
+      "content": "Do Hedge Funds Love PC Connection, Inc. (CNXN)?"
+    }
+  },
+  "day383": {
+    "tweet1": {
+      "content": "If You Like EPS Growth Then Check Out PC Connection (NASDAQ:CNXN) Before It's Too Late"
+    },
+    "tweet2": {
+      "content": "Newmont's (COMPANY_X) Shares Up 46% YTD: What's Driving the Rally?"
+    }
+  },
+  "day384": {
+    "tweet1": {
+      "content": "Newmont Corporation (COMPANY_X) Stock Sinks As Market Gains: What You Should Know"
+    }
+  },
+  "day385": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day386": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day387": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day388": {
+    "tweet1": {
+      "content": "Newmont Corporation (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    }
+  },
+  "day389": {
+    "tweet1": {
+      "content": "Newmont Corporation Files Early Warning Report"
+    }
+  },
+  "day390": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day391": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day392": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day393": {
+    "tweet1": {
+      "content": "Newmont Corporation (COMPANY_X) Gains As Market Dips: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Newmont Corporation (COMPANY_X) Earnings Expected to Grow: What to Know Ahead of Next Week's Release"
+    },
+    "tweet3": {
+      "content": "Newmont Declares Quarterly Dividend of $0.25 Per Share"
+    }
+  },
+  "day394": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day395": {
+    "tweet1": {
+      "content": "Gold Is Rallying. The Mining Stocks Are the Best Way to Play It."
+    }
+  },
+  "day396": {
+    "tweet1": {
+      "content": "PC Connection, Inc. (CNXN) To Release Second Quarter Results For 2020"
+    },
+    "tweet2": {
+      "content": "Unusually Large Newmont Option Trades Suggest Gold Prices Could Be Headed Even Higher"
+    },
+    "tweet3": {
+      "content": "3 Charts That Suggest Gold Prices Are Heading Higher"
+    },
+    "tweet4": {
+      "content": "5 Winning Stocks That Will Continue to Thrive in 2020"
+    },
+    "tweet5": {
+      "content": "Newmont (COMPANY_X) to Report Q2 Earnings: What's in the Cards?"
+    }
+  },
+  "day397": {
+    "tweet1": {
+      "content": "Top Gold Stocks for August 2020"
+    },
+    "tweet2": {
+      "content": "Gold Stocks Investing: Will Coronavirus Surge Push Gold Price Above $2,000?"
+    },
+    "tweet3": {
+      "content": "Mining Stock Q2 Earnings Due on Jul 30: COMPANY_X, KL, CLF & EGO"
+    },
+    "tweet4": {
+      "content": "Gold Miners Get a Shot at Redemption"
+    }
+  },
+  "day398": {
+    "tweet1": {
+      "content": "Newmont's (COMPANY_X) Earnings and Sales Miss Estimates in Q2"
+    },
+    "tweet2": {
+      "content": "Rising Price of Gold Brings Miner Newmont’s Earnings in Right on Target"
+    },
+    "tweet3": {
+      "content": "Newmont Corporation (COMPANY_X) Lags Q2 Earnings and Revenue Estimates"
+    },
+    "tweet4": {
+      "content": "Newmont: Q2 Earnings Insights"
+    },
+    "tweet5": {
+      "content": "Newmont adjusted profit nearly triples on gold surge"
+    },
+    "tweet6": {
+      "content": "Newmont Announces Solid Second Quarter 2020 Results"
+    }
+  },
+  "day399": {
+    "tweet1": {
+      "content": "Registration - Sidoti's 2020 Fall Virtual Investor Conference is Open Now."
+    }
+  }
+}

@@ -1,0 +1,574 @@
+{
+  "day1": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day2": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day3": {
+    "tweet1": {
+      "content": "Caterpillar Finds Opportunity in a Weak Oil Market"
+    },
+    "tweet2": {
+      "content": "Dealmaking, Trump's health update boost European stocks"
+    },
+    "tweet3": {
+      "content": "FTSE 100 gains as oil stocks jump; Cineworld slumps"
+    },
+    "tweet4": {
+      "content": "Weir Group to sell oil & gas division to Caterpillar for $405 million"
+    },
+    "tweet5": {
+      "content": "Caterpillar To Buy Weir Oil & Gas For $405 Mln "
+    }
+  },
+  "day4": {
+    "tweet1": {
+      "content": "Weir Group Sells Entire Oil Division"
+    },
+    "tweet2": {
+      "content": "Here's Why CalAmp Stock Tanked in September"
+    }
+  },
+  "day5": {
+    "tweet1": {
+      "content": "Dow Jones Rallies 400 Points On Trump Tweet After Tuesday's Market Meltdown"
+    }
+  },
+  "day6": {
+    "tweet1": {
+      "content": "Market Recap: Thursday, October 8"
+    }
+  },
+  "day7": {
+    "tweet1": {
+      "content": "Caterpillar (COMPANY_X) Outpaces Stock Market Gains: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Top Analyst Reports for Mastercard, JPMorgan & Eli Lilly"
+    },
+    "tweet3": {
+      "content": "Unusual Options Activity Insight: Caterpillar"
+    }
+  },
+  "day8": {
+    "tweet1": {
+      "content": "Caterpillar Agrees to Acquire Weir Oil & Gas: What it Means for Investors"
+    },
+    "tweet2": {
+      "content": "5 Stocks That Drove Dow ETF Last Week"
+    },
+    "tweet3": {
+      "content": "The Zacks Analyst Blog Highlights: Mastercard, JPMorgan, Eli Lilly, Caterpillar and Anthem"
+    },
+    "tweet4": {
+      "content": "Caterpillar bets on self-driving machines impervious to pandemics"
+    },
+    "tweet5": {
+      "content": "FOCUS-Caterpillar bets on self-driving machines impervious to pandemics"
+    }
+  },
+  "day9": {
+    "tweet1": {
+      "content": "Caterpillar Inc. to Announce Third-Quarter 2020 Financial Results on October 27"
+    },
+    "tweet2": {
+      "content": "Caterpillar (COMPANY_X) Hits 52-Week High: What's Driving the Stock?"
+    }
+  },
+  "day10": {
+    "tweet1": {
+      "content": "Caterpillar Inc. Maintains Dividend"
+    }
+  },
+  "day11": {
+    "tweet1": {
+      "content": "Shareholders Of Caterpillar (NYSE:COMPANY_X) Must Be Happy With Their 167% Total Return"
+    }
+  },
+  "day12": {
+    "tweet1": {
+      "content": "Dow Jones Leads As These Stocks Break Out; Strong Retail Sales Figures Fail To Do This"
+    },
+    "tweet2": {
+      "content": "Dow Jones Leads As Stock Market Rallies On Retail Sales, Coronavirus News"
+    },
+    "tweet3": {
+      "content": "Wells Fargo Upgrades Caterpillar On Upside In Key Markets"
+    },
+    "tweet4": {
+      "content": "Dow Jones Today Climbs As Boeing, Pfizer News Boosts Stocks; Caterpillar Netflix Jump On Target Hikes"
+    },
+    "tweet5": {
+      "content": "Benzinga's Top Upgrades, Downgrades For October 16, 2020"
+    }
+  },
+  "day13": {
+    "tweet1": {
+      "content": "Caterpillar (COMPANY_X) Stock Moves -0.72%: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Dow Jones Today, Stocks Rise On Stimulus Hope, China Data; Conoco To Buy Concho; Getting A Handle On Apple's Base"
+    }
+  },
+  "day14": {
+    "tweet1": {
+      "content": "Caterpillar Inc. Announces Officer Retirements and Changes to its Executive Office"
+    },
+    "tweet2": {
+      "content": "Caterpillar Target Up on Infrastructure Stimulus Potential"
+    },
+    "tweet3": {
+      "content": "Caterpillar stock jumps toward a record after UBS analyst boosts target by 38%"
+    },
+    "tweet4": {
+      "content": "'Shark Tank' star Kevin O'Leary: Joe Biden will be a 'benign' president who won't hurry to hike taxes"
+    },
+    "tweet5": {
+      "content": "Caterpillar (COMPANY_X) Expected to Beat Earnings Estimates: Can the Stock Move Higher?"
+    },
+    "tweet6": {
+      "content": "Is COMPANY_X Stock A Buy Right Now? Here's What Caterpillar Earnings, Charts Show"
+    },
+    "tweet7": {
+      "content": "Morning Bell With Jim Cramer: Buy COVID-19 Index Stocks"
+    }
+  },
+  "day15": {
+    "tweet1": {
+      "content": "Caterpillar (COMPANY_X) to Report Q3 Earnings: What's in Store?"
+    }
+  },
+  "day16": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day17": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day18": {
+    "tweet1": {
+      "content": "Caterpillar’s Stock Is on Fire. Here’s What to Expect From Its Earnings."
+    }
+  },
+  "day19": {
+    "tweet1": {
+      "content": "Caterpillar Offers Little Insight Into Global Recovery"
+    },
+    "tweet2": {
+      "content": "Dow Jones Slips Again As Bulls Battle Bears; These Breakouts Flourish"
+    },
+    "tweet3": {
+      "content": "Caterpillar Earnings Beat Q3 Views As Global Economy Rebounded, But Still No Guidance"
+    },
+    "tweet4": {
+      "content": "Dow Jones Dips While Nasdaq Leads Market Higher; Tinder Parent Match Group Breaks Out"
+    },
+    "tweet5": {
+      "content": "Dow Jones Doesn't Get Lift From Merck, Caterpillar, and 3M Earnings Beats"
+    },
+    "tweet6": {
+      "content": "Dow Jones Doesn't Get Lift From Merck, Caterpillar, and 3M Earnings Beats"
+    },
+    "tweet7": {
+      "content": "US STOCKS-S&P 500, Dow slip on earnings worries, stimulus uncertainty"
+    },
+    "tweet8": {
+      "content": "Dow Jones Slips, Nasdaq Rises After Monday's Market Rout; Microsoft Earnings Ahead"
+    },
+    "tweet9": {
+      "content": "Key Takeaways from Caterpillar's Latest Results"
+    },
+    "tweet10": {
+      "content": "US STOCKS-S&P 500, Dow slip on earnings worries, stimulus uncertainty"
+    },
+    "tweet11": {
+      "content": "COMPANY_X earnings show slow in demand, 3M sees strong earnings on safety equipment sales"
+    },
+    "tweet12": {
+      "content": "Caterpillar earnings dive as economy woes deter equipment purchases"
+    },
+    "tweet13": {
+      "content": "Caterpillar, Pfizer, 3M Earnings Come In Better Than Expected, With Microsoft Straight Ahead"
+    },
+    "tweet14": {
+      "content": "E-mini Dow Jones Industrial Average (YM) Futures Technical Analysis – Weak Under 27339, Strong Over 27729"
+    },
+    "tweet15": {
+      "content": "Markets Buoy on Durable Goods, Q3 Earnings: MRK, COMPANY_X, MMM, AMD"
+    },
+    "tweet16": {
+      "content": "Caterpillar (COMPANY_X) Q3 Earnings and Revenues Beat Estimates"
+    },
+    "tweet17": {
+      "content": "Caterpillar (COMPANY_X) Q3 Earnings & Revenues Surpass Estimates"
+    },
+    "tweet18": {
+      "content": "3M, Caterpillar, JetBlue post Q3 earnings"
+    },
+    "tweet19": {
+      "content": "Caterpillar Beats Q3 Earnings Forecast Despite Demand Slump"
+    },
+    "tweet20": {
+      "content": "Caterpillar (COMPANY_X) Q3 Earnings, Revenue Top Estimates"
+    },
+    "tweet21": {
+      "content": "Caterpillar and 3M Just Reported Earnings. What They Say About Monday’s Selloff."
+    },
+    "tweet22": {
+      "content": "Recap: Caterpillar Q3 Earnings"
+    },
+    "tweet23": {
+      "content": "Caterpillar earnings dive as economy woes deter equipment purchases"
+    },
+    "tweet24": {
+      "content": "Caterpillar reports lower Q3 earnings"
+    },
+    "tweet25": {
+      "content": "COMPANY_X Financial Announces Third-Quarter 2020 Results"
+    },
+    "tweet26": {
+      "content": "COMPANY_X Financial Announces Third-Quarter 2020 Results"
+    },
+    "tweet27": {
+      "content": "Dow Futures Up 104 Pts; Earnings Deluge in Focus"
+    }
+  },
+  "day20": {
+    "tweet1": {
+      "content": "BofA Cuts Caterpillar Target, Earnings Estimates"
+    },
+    "tweet2": {
+      "content": "Morning Bell With Jim Cramer: Buy Eli Lilly"
+    },
+    "tweet3": {
+      "content": "Analyst Report: Caterpillar Inc."
+    },
+    "tweet4": {
+      "content": "Market Update: COMPANY_X, ECL, MKTX, SWK, TSCO, MA, QSR"
+    },
+    "tweet5": {
+      "content": "Caterpillar Falls As Dismal Q3 Earnings Reflect Weak Demand"
+    },
+    "tweet6": {
+      "content": "Caterpillar (COMPANY_X) Q3 2020 Earnings Call Transcript"
+    },
+    "tweet7": {
+      "content": "Analyst Report: Caterpillar Inc."
+    }
+  },
+  "day21": {
+    "tweet1": {
+      "content": "Caterpillar Inc. (NYSE:COMPANY_X) Just Reported Third-Quarter Earnings: Have Analysts Changed Their Mind On The Stock?"
+    }
+  },
+  "day22": {
+    "tweet1": {
+      "content": "3 Industrial Stocks to Watch if the U.S. Recovery Mimics China"
+    },
+    "tweet2": {
+      "content": "7 Industrial Stocks to Reconstruct Your Portfolio for 2021"
+    }
+  },
+  "day23": {
+    "tweet1": {
+      "content": "Dow Jones Jumps 400 Points As Biden Lead Narrows; Software Stocks Lag, Amazon Hit Again"
+    },
+    "tweet2": {
+      "content": "Is Caterpillar Stock Safe for Dividend Investors?"
+    },
+    "tweet3": {
+      "content": "Cramer On Estee Lauder As A Mask Play, Stocks With China Exposure"
+    }
+  },
+  "day24": {
+    "tweet1": {
+      "content": "Were These Hedge Funds Right About Buying Caterpillar Inc. (COMPANY_X)?"
+    }
+  },
+  "day25": {
+    "tweet1": {
+      "content": "Dow Jones Surges 750 Points After Election; UnitedHealth and Tech Giants Rally; Caterpillar Stock Sinks"
+    },
+    "tweet2": {
+      "content": "Top Stock Reports for Alibaba, Honeywell & Caterpillar"
+    },
+    "tweet3": {
+      "content": "Analyzing Caterpillar's Unusual Options Activity"
+    }
+  },
+  "day26": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: Alibaba, Honeywell, Caterpillar, CSX Corp and Norfolk Southern Corp"
+    }
+  },
+  "day27": {
+    "tweet1": {
+      "content": "Dow Jones Today, Stocks Slip — Set To Snap 4-Day Rally; Home Depot, Salesforce.com Get New Buy Points"
+    },
+    "tweet2": {
+      "content": "Dow Jones Today, Futures Pare Losses On Hiring Surprise; Home Depot, Salesforce.com Get New Buy Points"
+    },
+    "tweet3": {
+      "content": "Dow Jones Today, Stocks Hunker Down Ahead Of Payrolls Data; Home Depot, Salesforce.com Get New Buy Points"
+    }
+  },
+  "day28": {
+    "tweet1": {
+      "content": "What Does Pfizer Coronavirus Vaccine News Mean For Economy, Stock Market Outlook?"
+    },
+    "tweet2": {
+      "content": "Analyzing Caterpillar's Unusual Options Activity"
+    }
+  },
+  "day29": {
+    "tweet1": {
+      "content": "A Blue Wave Could Still Happen. Why That Would Be a Positive for Value Stocks."
+    }
+  },
+  "day30": {
+    "tweet1": {
+      "content": "Nasdaq Recoups Losses, Growth Stocks Rebound; Time To Sell These Dow Stocks?"
+    },
+    "tweet2": {
+      "content": "Election Results 2020: Parsing The Best Stocks To Buy After A Chaotic, Photo-Finish Race"
+    }
+  },
+  "day31": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day32": {
+    "tweet1": {
+      "content": "Recovery is in ‘early innings:’ Investment strategist"
+    },
+    "tweet2": {
+      "content": "These are the 14 value stocks that top-performing investment newsletters like the most"
+    },
+    "tweet3": {
+      "content": "These are the value stocks that top-performing investment newsletters like the most"
+    },
+    "tweet4": {
+      "content": "The 3 Safest Industrial Dividends Right Now"
+    },
+    "tweet5": {
+      "content": "Why a Coronavirus Vaccine Could Send Shares of Caterpillar to a New All-Time High"
+    }
+  },
+  "day33": {
+    "tweet1": {
+      "content": "Caterpillar's October Retail Sales Down 17% on Weak Demand"
+    }
+  },
+  "day34": {
+    "tweet1": {
+      "content": "Cabot Continues Brand Expansion with Cabot Revelstoke in British Columbia"
+    }
+  },
+  "day35": {
+    "tweet1": {
+      "content": "Exclusive: U.S. investigators were told to take 'no further action' on Caterpillar, ex-client of Barr"
+    }
+  },
+  "day36": {
+    "tweet1": {
+      "content": "Exclusive: U.S. investigators were told to take 'no further action' on Caterpillar, ex-client of Barr"
+    }
+  },
+  "day37": {
+    "tweet1": {
+      "content": "Caterpillar Again Named to Dow Jones Sustainability Indices"
+    }
+  },
+  "day38": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day39": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day40": {
+    "tweet1": {
+      "content": "China construction machinery industry cheers strong 2020 sales but outlook uncertain"
+    }
+  },
+  "day41": {
+    "tweet1": {
+      "content": "3 Top Dividend Aristocrat Stocks to Buy Now"
+    }
+  },
+  "day42": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day43": {
+    "tweet1": {
+      "content": "Is Caterpillar Stock a Buy?"
+    },
+    "tweet2": {
+      "content": "Unusual Options Activity Insight: Caterpillar"
+    }
+  },
+  "day44": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day45": {
+    "tweet1": {
+      "content": "Tom Siebel’s AI Software Firm Is About to List Via IPO. Approach With Caution."
+    },
+    "tweet2": {
+      "content": "Industrial Stocks Are Expensive. It Could Be Time to Load Up."
+    },
+    "tweet3": {
+      "content": "The Economic Recovery Is Weakening. The Good News: Companies Still Want to Invest."
+    },
+    "tweet4": {
+      "content": "Why Shares in Caterpillar Soared in November"
+    }
+  },
+  "day46": {
+    "tweet1": {
+      "content": "Stock Market Today: What Lousy Job Numbers? Major Indices Shoot to New Highs"
+    },
+    "tweet2": {
+      "content": "Dow Jones, S&P 500, Nasdaq Score Fresh Highs; Small Caps Surge, Snowflake Rips Higher, DocuSign Fades"
+    },
+    "tweet3": {
+      "content": "Dow Jones Runs Higher As Pelosi Sees Covid Stimulus Momentum; This Leader Passes Buy"
+    },
+    "tweet4": {
+      "content": "Dow Jones Jumps 200 Points Despite Weak Jobs Data; Pelosi Sees 'Momentum' For Stimulus Deal"
+    }
+  },
+  "day47": {
+    "tweet1": {
+      "content": "Caterpillar (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet2": {
+      "content": "Top Stock Reports for NextEra Energy, Caterpillar & Micron Technology"
+    }
+  },
+  "day48": {
+    "tweet1": {
+      "content": "The Zacks Analyst Blog Highlights: NextEra Energy, Caterpillar, Micron Technology, Dominion Energy and Emerson Electric"
+    }
+  },
+  "day49": {
+    "tweet1": {
+      "content": "Caterpillar Inc. Maintains Dividend"
+    }
+  },
+  "day50": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day51": {
+    "tweet1": {
+      "content": "8 Infrastructure Stocks That Will Shine In The 2021 Spotlight"
+    }
+  },
+  "day52": {
+    "tweet1": {
+      "content": "Caterpillar (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    }
+  },
+  "day53": {
+    "tweet1": {
+      "content": "Is COMPANY_X A Good Stock To Buy Now?"
+    },
+    "tweet2": {
+      "content": "Caterpillar's (COMPANY_X) Retail Sales Decline 11% in November"
+    }
+  },
+  "day54": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day55": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day56": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day57": {
+    "tweet1": {
+      "content": "Caterpillar (COMPANY_X) Dips More Than Broader Markets: What You Should Know"
+    },
+    "tweet2": {
+      "content": "3 Surprising Value Stocks That Reached All-Time Highs in 2020"
+    },
+    "tweet3": {
+      "content": "5 Stocks to Benefit From Continued Weakening of US Dollar"
+    }
+  },
+  "day58": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day59": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day60": {
+    "tweet1": {
+      "content": "Caterpillar Inc. (NYSE:COMPANY_X) Shares Could Be 28% Above Their Intrinsic Value Estimate"
+    }
+  },
+  "day61": {
+    "tweet1": {
+      "content": "Is Caterpillar Stock Worth Buying for 2021?"
+    },
+    "tweet2": {
+      "content": "Top 5 Dow Stocks That Helped the Index Gain in 2020"
+    }
+  },
+  "day62": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  },
+  "day63": {
+    "tweet1": {
+      "content": "Dow Jones Rises as Caterpillar Stock Is Boosted, Nike Stock Slumps"
+    },
+    "tweet2": {
+      "content": "Dow Climbs on Gains in Energy, Industrials"
+    },
+    "tweet3": {
+      "content": "Return On Capital Employed Overview: Caterpillar"
+    },
+    "tweet4": {
+      "content": "Why Caterpillar Stock Can Outperform in 2021"
+    },
+    "tweet5": {
+      "content": "Dow Jones Today, Stocks Climb As Stimulus Checks Roll Out; Intel Faces Shakeup; Alibaba Extends Rebound"
+    }
+  },
+  "day64": {
+    "tweet1": {
+      "content": "No relevant news on this day"
+    }
+  }
+}
