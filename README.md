@@ -118,14 +118,6 @@ Evaluate predictions:
 python evaluation/evaluate_predictions.py
 ```
 
-## Results
-
-| Dataset | Accuracy | F1 | MCC |
-|---------|----------|-----|-----|
-| CMIN-CN | 58.3% | 0.576 | 0.167 |
-| CMIN-US | 56.7% | 0.552 | 0.134 |
-| StockNet | 54.8% | 0.541 | 0.096 |
-
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
