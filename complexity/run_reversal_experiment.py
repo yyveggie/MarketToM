@@ -15,8 +15,8 @@ project_root = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, project_root)
 
 import openai
-from core.stance_classifier import StanceClassifier, add_stances_to_inference_log
-from analysis.reversal_analyzer import ReversalAnalyzer
+from complexity.stance_classifier import StanceClassifier, add_stances_to_inference_log
+from complexity.reversal_analyzer import ReversalAnalyzer
 
 logging.basicConfig(
     level=logging.INFO,

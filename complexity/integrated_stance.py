@@ -10,7 +10,7 @@ import sys
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, project_root)
 
-from core.stance_classifier import StanceClassifier, add_stances_to_inference_log
+from complexity.stance_classifier import StanceClassifier, add_stances_to_inference_log
 import logging
 
 logger = logging.getLogger('MarketToM.Integration')
