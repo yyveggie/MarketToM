@@ -101,23 +101,6 @@ Each stock folder contains:
 - **Log-Confidence Weighting**: Robust probability calculation
 - **CEP (Cognitive Enhancement Plugin)**: Adaptive strategy database
 
-## Advanced Usage
-
-Generate semantic perturbations for robustness testing:
-```bash
-python data/generate_semantic_perturbations.py
-```
-
-Text masking for generalization experiments:
-```bash
-python generalization/stock_text_masking.py
-```
-
-Evaluate predictions:
-```bash
-python evaluation/evaluate_predictions.py
-```
-
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
