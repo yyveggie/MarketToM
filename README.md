@@ -1,9 +1,9 @@
-# MarketToM: Stock Trend Prediction via Theory of Mind
+# MarketToM: Stock Trend Prediction via Theory-of-Mind
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
-> This repository contains the implementation code for our paper *"Mining Latent Mental States from Market Data: A Theory-of-Mind Approach to Stock Trend Prediction"* (under review).
+> This repository contains the implementation code for our paper *"MarketToM: A Theory-of-Mind Framework for Modeling Latent Mental States in Stock Trend Prediction"* (under review).
 
 ## Overview
 
