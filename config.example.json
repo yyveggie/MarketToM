@@ -3,52 +3,154 @@
     "active_llm_provider": "openai",
     "providers": {
       "openai": {
-        "api_key": "YOUR_API_KEY_HERE",
+        "api_key": "YOUR_OPENAI_API_KEY_HERE",
         "base_url": "https://api.openai.com/v1",
-        "llm_model_default": "gpt-4o",
-        "llm_temperature": 0.7
+        "llm_model_default": "gpt-4o-2024-11-20"
+      },
+      "grok": {
+        "api_key": "YOUR_GROK_API_KEY_HERE",
+        "base_url": "https://api.x.ai/v1",
+        "llm_model_default": "grok-3-beta"
       }
     }
   },
-  "data_params": {
-    "dataset_name": "StockNet",
-    "split": "Test",
-    "stock_name": "AAPL",
-    "default_window_size": 5,
-    "skip_backward_inference": false,
-    "default_stocks": ["AAPL", "FB", "T", "GOOG", "AMZN"]
-  },
   "directories": {
-    "data_base_dir": "./data",
-    "strategy_database": "./storage/strategy_database",
     "inference_logs": "./storage/inference_logs",
-    "backward_inference_logs": "./storage/backward_inference_logs"
+    "strategy_database": "./storage/strategy_database",
+    "data_base_dir": "./data",
+    "prediction_log_path": "./prediction_results.json"
+  },
+  "data_params": {
+    "default_window_size": 5,
+    "default_stocks": ["AAPL", "FB", "T", "GOOG", "AMZN"],
+    "skip_backward_inference": false,
+    "dataset_name": "StockNet",
+    "dataset_split": "Test"
   },
   "templates": {
     "forward_inference": "./templates/forward_prompt_template.xml",
     "backward_inference": "./templates/backward_prompt_template.xml",
     "expert_action_probability": "./templates/expert_action_prob_template.xml"
   },
+  "agent_params": {
+    "agent_roles": ["Retail", "Institutional", "Arbitrageur"],
+    "alpha": 1.0,
+    "gamma": 1.0,
+    "aggregation_temperature": 1.0,
+    "ema_decay": 0.9
+  },
+  "ablation": {
+    "experiment_name": "MarketToM-2nd",
+    "mode": "full",
+    "tom_order": 2,
+    "cep_enabled": true,
+    "backward_enabled": true,
+    "num_action_samples": 10,
+    "_dimensions": {
+      "mode":   ["full", "llm_only", "no_cep"],
+      "tom_order": [1, 2],
+      "T (temperature)": [0, 0.7, 1.5],
+      "n (num_action_samples)": [1, 10, 20],
+      "k (cep_top_k)": [1, 3, 5]
+    },
+    "presets": {
+      "LLM-only": {
+        "_description": "Raw LLM zero-shot prediction, no CCN / CEP / ToM",
+        "ablation": { "mode": "llm_only", "cep_enabled": false, "backward_enabled": false, "num_action_samples": 1 },
+        "forward_inference_params": { "llm_temperature": 0.7 },
+        "cep_retrieval": { "default_top_k": 1 }
+      },
+      "MarketToM-NoCEP": {
+        "_description": "CCN + ToM reasoning, but no CEP retrieval or backward learning",
+        "ablation": { "mode": "no_cep", "cep_enabled": false, "backward_enabled": false, "num_action_samples": 10 },
+        "forward_inference_params": { "llm_temperature": 0.7 },
+        "cep_retrieval": { "default_top_k": 1 }
+      },
+      "MarketToM-1st": {
+        "_description": "First-order ToM + CEP (second-order reasoning disabled)",
+        "ablation": { "mode": "full", "tom_order": 1, "num_action_samples": 10 },
+        "forward_inference_params": { "llm_temperature": 0.7 },
+        "cep_retrieval": { "default_top_k": 1 }
+      },
+      "MarketToM-2nd": {
+        "_description": "Full MarketToM (second-order ToM + CEP) — default",
+        "ablation": { "mode": "full", "tom_order": 2, "num_action_samples": 10 },
+        "forward_inference_params": { "llm_temperature": 0.7 },
+        "cep_retrieval": { "default_top_k": 1 }
+      },
+      "MarketToM-T0-n1-k1": {
+        "_description": "Temperature sensitivity: T=0, n=1, k=1",
+        "ablation": { "num_action_samples": 1 },
+        "forward_inference_params": { "llm_temperature": 0 },
+        "cep_retrieval": { "default_top_k": 1 }
+      },
+      "MarketToM-T0-n10-k1": {
+        "_description": "Temperature sensitivity: T=0, n=10, k=1",
+        "ablation": { "num_action_samples": 10 },
+        "forward_inference_params": { "llm_temperature": 0 },
+        "cep_retrieval": { "default_top_k": 1 }
+      },
+      "MarketToM-T0.7-n1-k1": {
+        "_description": "Sample count sensitivity: T=0.7, n=1, k=1",
+        "ablation": { "num_action_samples": 1 },
+        "forward_inference_params": { "llm_temperature": 0.7 },
+        "cep_retrieval": { "default_top_k": 1 }
+      },
+      "MarketToM-T0.7-n10-k1": {
+        "_description": "Optimal combination: T=0.7, n=10, k=1 (= MarketToM-2nd)",
+        "ablation": { "num_action_samples": 10 },
+        "forward_inference_params": { "llm_temperature": 0.7 },
+        "cep_retrieval": { "default_top_k": 1 }
+      },
+      "MarketToM-T0.7-n20-k1": {
+        "_description": "Sample count sensitivity: T=0.7, n=20, k=1",
+        "ablation": { "num_action_samples": 20 },
+        "forward_inference_params": { "llm_temperature": 0.7 },
+        "cep_retrieval": { "default_top_k": 1 }
+      },
+      "MarketToM-T1.5-n10-k1": {
+        "_description": "Temperature sensitivity: T=1.5, n=10, k=1",
+        "ablation": { "num_action_samples": 10 },
+        "forward_inference_params": { "llm_temperature": 1.5 },
+        "cep_retrieval": { "default_top_k": 1 }
+      },
+      "MarketToM-T0.7-n10-k3": {
+        "_description": "CEP retrieval depth: T=0.7, n=10, k=3",
+        "ablation": { "num_action_samples": 10 },
+        "forward_inference_params": { "llm_temperature": 0.7 },
+        "cep_retrieval": { "default_top_k": 3 }
+      },
+      "MarketToM-T0.7-n10-k5": {
+        "_description": "CEP retrieval depth: T=0.7, n=10, k=5",
+        "ablation": { "num_action_samples": 10 },
+        "forward_inference_params": { "llm_temperature": 0.7 },
+        "cep_retrieval": { "default_top_k": 5 }
+      }
+    }
+  },
   "cep_retrieval": {
     "default_top_k": 1,
     "similarity_threshold": 0.1,
-    "belief_similarity_threshold": 0.1,
-    "intent_similarity_threshold": 0.1,
-    "emotion_similarity_threshold": 0.1
+    "action_prob_top_k": 1,
+    "emotion_similarity_threshold": 0.5,
+    "belief_similarity_threshold": 0.5,
+    "intent_similarity_threshold": 0.5
   },
   "forward_inference_params": {
-    "llm_temperature": 0.7,
     "max_retries": 5,
-    "base_delay_seconds": 1
+    "base_delay_seconds": 1,
+    "llm_temperature": 0.7
   },
   "action_probability_params": {
-    "num_probabilities_to_generate": 10,
+    "max_retries_list": 5,
+    "base_delay_list_seconds": 1.0,
     "llm_temperature": 0.7
   },
   "backward_inference_params": {
+    "max_retries": 5,
+    "base_delay_seconds": 2,
     "llm_temperature": 0.7,
-    "llm_max_tokens": 5000,
-    "max_retries": 5
+    "llm_max_tokens": 5000
   },
   "stance_classification": {
     "enabled": true,

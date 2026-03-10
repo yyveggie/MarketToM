@@ -1,4 +1,13 @@
 # -*- coding: utf-8 -*-
+"""
+Multi-Agent Forward Inference with Theory of Mind.
+
+Three heterogeneous agents (Retail, Institutional, Arbitrageur) each
+independently traverse the CCN:
+    ES → Belief → Intention
+    ES + Belief → Emotion
+Each step uses first- and second-order ToM about the other two agents.
+"""
 import os
 import json
 import time
@@ -6,10 +15,9 @@ import random
 import traceback
 import logging
 from typing import Dict, List, Optional, Tuple
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import datetime, timedelta
 
-import pandas as pd
 import openai
 from pydantic import BaseModel, Field
 
@@ -17,35 +25,26 @@ from core.cep import CognitiveEnhancementPlugin
 
 try:
     import tqdm as tqdm_module
-    
+
     class NoOpTqdm:
         def __init__(self, *args, **kwargs):
             self.iterable = args[0] if args else kwargs.get('iterable', None)
             if self.iterable is None and 'total' in kwargs:
                 self.iterable = range(kwargs['total'])
-        
         def __iter__(self):
             return iter(self.iterable)
-        
-        def update(self, *args, **kwargs):
-            pass
-            
-        def close(self, *args, **kwargs):
-            pass
-            
-        def set_description(self, *args, **kwargs):
-            pass
-    
+        def update(self, *a, **kw): pass
+        def close(self, *a, **kw): pass
+        def set_description(self, *a, **kw): pass
+
     tqdm_module.tqdm = NoOpTqdm
-    
     if hasattr(tqdm_module, 'notebook'):
         tqdm_module.notebook.tqdm = NoOpTqdm
-    
     tqdm = NoOpTqdm
-    
 except ImportError:
     def tqdm(*args, **kwargs):
         return args[0] if args else kwargs.get('iterable', range(kwargs.get('total', 0)))
+
 
 logging.basicConfig(
     level=logging.INFO,
@@ -55,116 +54,133 @@ logging.basicConfig(
 )
 logger = logging.getLogger('MarketToM.Inference')
 
-COLOR_TITLE = "\033[1;36m"     # Cyan bold (titles)
-COLOR_SUCCESS = "\033[1;32m"   # Green bold (success)
-COLOR_WARNING = "\033[1;33m"   # Yellow bold (warnings)
-COLOR_ERROR = "\033[1;31m"     # Red bold (errors)
-COLOR_INFO = "\033[0;34m"      # Blue (info)
-COLOR_VALUE = "\033[1;35m"     # Magenta bold (values)
-COLOR_DEBUG = "\033[0;90m"     # Gray (debug)
-COLOR_PHASE = "\033[1;94m"     # Light blue bold (phases)
-COLOR_RESET = "\033[0m"        # Reset color
+COLOR_TITLE = "\033[1;36m"
+COLOR_SUCCESS = "\033[1;32m"
+COLOR_WARNING = "\033[1;33m"
+COLOR_ERROR = "\033[1;31m"
+COLOR_INFO = "\033[0;34m"
+COLOR_VALUE = "\033[1;35m"
+COLOR_DEBUG = "\033[0;90m"
+COLOR_PHASE = "\033[1;94m"
+COLOR_RESET = "\033[0m"
+
+DEFAULT_AGENT_ROLES = ["Retail", "Institutional", "Arbitrageur"]
 
 last_api_request_time = datetime.now() - timedelta(seconds=10)
 MIN_REQUEST_INTERVAL = 20.
-DEFAULT_COOLDOWN = 20.0 
+DEFAULT_COOLDOWN = 20.0
 MAX_JITTER = 1.0
 
 
-class MentalStateResponse(BaseModel):
-    """Pydantic model for validating and parsing LLM responses"""
-    mental_state_description: str = Field(..., description="Detailed description of the inferred market mental state")
-
-    model_config = {
-        "json_schema_extra": {
-            "examples": [
-                {
-                    "mental_state_description": "The market is showing optimistic sentiment, with investors believing in positive short-term changes."
-                }
-            ]
-        }
-    }
+# ---------- Pydantic response model ----------
+class AgentMentalStateResponse(BaseModel):
+    """Expected JSON output from the forward inference prompt."""
+    agent_role: str = Field(...)
+    state_type: str = Field(...)
+    description: str = Field(..., description="Inferred mental state description")
 
 
+# ---------- Rate limiter ----------
 def rate_limit_api_call(func):
-    """Decorator: Controls API call frequency to prevent rate limiting."""
     def wrapper(*args, **kwargs):
         global last_api_request_time
-        
         now = datetime.now()
-        time_since_last_request = (now - last_api_request_time).total_seconds()
-        
-        if time_since_last_request < MIN_REQUEST_INTERVAL:
-            wait_time = MIN_REQUEST_INTERVAL - time_since_last_request + random.uniform(0, MAX_JITTER)
-            logger.info(f"Rate limiting: Waiting {wait_time:.2f}s before next API call")
-            time.sleep(wait_time)
-        
+        elapsed = (now - last_api_request_time).total_seconds()
+        if elapsed < MIN_REQUEST_INTERVAL:
+            wait = MIN_REQUEST_INTERVAL - elapsed + random.uniform(0, MAX_JITTER)
+            time.sleep(wait)
         last_api_request_time = datetime.now()
-        
         result = func(*args, **kwargs)
-        
         cooldown = DEFAULT_COOLDOWN + random.uniform(0, MAX_JITTER)
-        logger.info(f"API call completed. Cooling down for {cooldown:.2f}s")
         time.sleep(cooldown)
-        
         return result
     return wrapper
 
+
+# ---------- Data logger ----------
 class DataLogger:
-    """Data logger class."""
+    """Saves multi-agent inference logs to disk."""
+
     def __init__(self, log_dir_abs_path: str):
-        """Initialize DataLogger with an absolute path to the log directory."""
         self.log_dir = log_dir_abs_path
-        logger.info(f"DataLogger initialized with directory: {self.log_dir}")
         os.makedirs(self.log_dir, exist_ok=True)
-        
-    def save_inference(self, timestamp: datetime, 
-                           env_state: str, 
-                           mental_states: Dict[str, str],
-                           strategies_used: Dict[str, List[str]]) -> None:
-        """Save inference records."""
+        logger.info(f"DataLogger: {self.log_dir}")
+
+    def save_inference(self, timestamp: datetime,
+                       env_state: str,
+                       agent_results: Dict[str, Dict[str, str]],
+                       strategies_used: Dict[str, Dict[str, List[str]]],
+                       # Legacy compat
+                       mental_states: Dict[str, str] = None) -> str:
+        """Save multi-agent inference result. Returns filename."""
         log_entry = {
             "timestamp": timestamp.isoformat(),
             "environmental_state": env_state,
-            "mental_states": mental_states,
-            "strategies_used": strategies_used
+            "agent_results": agent_results,
+            "strategies_used": strategies_used,
         }
-        
+        # Keep legacy field for backward compat
+        if mental_states:
+            log_entry["mental_states"] = mental_states
+
         filename = f"inference_{timestamp.strftime('%Y%m%d_%H%M%S')}.json"
         filepath = os.path.join(self.log_dir, filename)
-        
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(log_entry, f, ensure_ascii=False, indent=2)
-        
-        logger.info(f"Saved inference log to: {filepath}")
+        logger.info(f"Saved inference log: {filepath}")
+        return filename
 
 
+# ---------- Agent trace dataclass ----------
 @dataclass
-class EnvironmentalState:
-    """Environmental state class."""
-    quotes: pd.DataFrame
-    texts: List[str]
-    timestamp: datetime
+class AgentTrace:
+    agent_role: str
+    belief: str = ""
+    intent: str = ""
+    emotion: str = ""
+    belief_strategy_ids: List[str] = field(default_factory=list)
+    intent_strategy_ids: List[str] = field(default_factory=list)
+    emotion_strategy_ids: List[str] = field(default_factory=list)
+
+    def to_dict(self) -> Dict[str, str]:
+        return {
+            "belief": self.belief,
+            "intent": self.intent,
+            "emotion": self.emotion
+        }
+
+    def strategies_dict(self) -> Dict[str, List[str]]:
+        return {
+            "belief": self.belief_strategy_ids,
+            "intent": self.intent_strategy_ids,
+            "emotion": self.emotion_strategy_ids
+        }
 
 
+# ---------- Main inference class ----------
 class MentalStateInference:
-    """Mental state inference class."""
-    def __init__(self, 
-                    cep: CognitiveEnhancementPlugin,
-                    logger: DataLogger,
-                    llm_client: openai.OpenAI,
-                    llm_model: str,
-                    forward_template_abs_path: str,
-                    cep_default_top_k: int,
-                    cep_similarity_threshold: float,
-                    fwd_inf_max_retries: int,
-                    fwd_inf_base_delay: int,
-                    emotion_similarity_threshold: float = 0.1,
-                    belief_similarity_threshold: float = 0.1,
-                    intent_similarity_threshold: float = 0.1,
-                    llm_temperature: float = 0.7):
+    """Multi-agent CCN forward inference with ToM."""
+
+    def __init__(self,
+                 cep: CognitiveEnhancementPlugin,
+                 logger: DataLogger,
+                 llm_client: openai.OpenAI,
+                 llm_model: str,
+                 forward_template_abs_path: str,
+                 cep_default_top_k: int = 1,
+                 cep_similarity_threshold: float = 0.1,
+                 fwd_inf_max_retries: int = 5,
+                 fwd_inf_base_delay: int = 1,
+                 emotion_similarity_threshold: float = 0.1,
+                 belief_similarity_threshold: float = 0.1,
+                 intent_similarity_threshold: float = 0.1,
+                 llm_temperature: float = 0.7,
+                 agent_roles: List[str] = None,
+                 tom_order: int = 2,
+                 cep_enabled: bool = True):
+
         self.cep = cep
-        self.logger = logger
+        self.data_logger = logger
         self.llm_client = llm_client
         self.llm_model = llm_model
         self.template_file_abs_path = forward_template_abs_path
@@ -172,331 +188,172 @@ class MentalStateInference:
         self.similarity_threshold = cep_similarity_threshold
         self.max_retries = fwd_inf_max_retries
         self.base_delay = fwd_inf_base_delay
-        self.emotion_similarity_threshold = emotion_similarity_threshold
-        self.belief_similarity_threshold = belief_similarity_threshold
-        self.intent_similarity_threshold = intent_similarity_threshold
         self.llm_temperature = llm_temperature
+        self.agent_roles = agent_roles or DEFAULT_AGENT_ROLES
+        self.tom_order = tom_order
+        self.cep_enabled = cep_enabled
 
-    def _retrieve_strategies(self, state_type: str,
-                               env_desc: str = None,
-                               belief_desc: str = None,
-                               top_k: int = None,
-                               threshold_override: Optional[float] = None) -> List[Dict]:
-        """Retrieve the most relevant strategies for the given state type."""
-        if top_k is None:
-            top_k = self.default_top_k
+        self.threshold_map = {
+            "belief": belief_similarity_threshold,
+            "intent": intent_similarity_threshold,
+            "emotion": emotion_similarity_threshold,
+        }
 
-        threshold = threshold_override if threshold_override is not None else self.similarity_threshold
-        
-        query_dict = {}
-        if env_desc is not None:
-            query_dict['environmental'] = env_desc
-        if belief_desc is not None:
-            query_dict['belief'] = belief_desc
-            
-        logger.info(f"Retrieving {state_type} strategies (threshold:{threshold:.2f})")
-        retrieved_strategies = self.cep.retrieve_strategies(
+    # ----- helpers -----
+    def _load_template(self) -> str:
+        with open(self.template_file_abs_path, 'r', encoding='utf-8') as f:
+            return f.read()
+
+    def _get_other_roles(self, agent_role: str) -> Tuple[str, str]:
+        others = [r for r in self.agent_roles if r != agent_role]
+        return (others[0], others[1]) if len(others) >= 2 else (others[0] if others else "Other", "Other")
+
+    def _retrieve_strategies(self, state_type: str, query_scenario: Dict[str, str],
+                             agent_role: str) -> Tuple[str, List[str]]:
+        """Retrieve CEP strategies for a specific agent and state type."""
+        if not self.cep_enabled:
+            return "No strategy (CEP disabled).", []
+        threshold = self.threshold_map.get(state_type, self.similarity_threshold)
+        results = self.cep.retrieve_strategies(
             level=state_type,
-            scenarios=query_dict,
-            top_k=top_k,
+            query_scenario=query_scenario,
+            agent_role=agent_role,
+            top_k=self.default_top_k,
             similarity_threshold=threshold
         )
-        
-        if not retrieved_strategies:
-            logger.warning(f"No {state_type} strategies retrieved")
-        else:
-            ids = [s['item'].get('id', 'unknown') for s in retrieved_strategies]
-            logger.info(f"Retrieved {len(retrieved_strategies)} {state_type} strategies: {ids}")
-            
-        return retrieved_strategies
+        if results:
+            best = results[0]
+            strategy_text = best.get("strategy", "No strategy available.")
+            strategy_id = best.get("id", "")
+            return strategy_text, [strategy_id] if strategy_id else []
+        return "No relevant strategy found.", []
 
-    def infer_market_belief(self, env_state: str,
-                            top_k: int = None) -> Tuple[str, List[str]]:
-        """Infer market belief state."""
-        retrieved_strategy_objects = self._retrieve_strategies("belief", env_desc=env_state, top_k=top_k)
-        
-        strategy_text_parts = []
-        if retrieved_strategy_objects:
-            for i, strat_obj in enumerate(retrieved_strategy_objects):
-                try:
-                    strategy_content = strat_obj.get('item', {}).get('strategy')
-                    if strategy_content:
-                        strategy_text_parts.append(f"{i + 1}. {strategy_content}")
-                    else:
-                        strategy_text_parts.append(f"{i + 1}. [Strategy content not found in expected item.strategy structure]")
-                except Exception as e:
-                    strategy_text_parts.append(f"{i + 1}. [Error processing strategy object: {str(e)}]")
+    def _build_prompt(self, agent_role: str, state_type: str,
+                      env_state: str, belief_state: str,
+                      strategy_id: str, strategy_content: str) -> str:
+        """Build the forward inference prompt from the template."""
+        template = self._load_template()
+        role2, role3 = self._get_other_roles(agent_role)
 
-        if not strategy_text_parts:
-            strategies_for_prompt = "Retrieved Strategies:\nNo specific strategies were retrieved or applicable to the current situation."
-        else:
-            strategies_for_prompt = "Retrieved Strategies:\n" + "\n".join(strategy_text_parts)
-            
-        user_prompt_text = "Please perform the market belief inference based on the system instructions and the data provided therein. Focus on identifying the most likely belief state."
-        
-        response = self._get_llm_response(user_prompt_text, "belief", env_state, strategies_for_prompt)
-        
-        strategy_ids = []
-        if retrieved_strategy_objects:
-            for s_obj in retrieved_strategy_objects:
-                if s_obj and isinstance(s_obj.get('item'), dict) and 'id' in s_obj['item']:
-                    strategy_ids.append(s_obj['item']['id'])
-        return response, strategy_ids
+        prompt = template
+        prompt = prompt.replace('[AGENT_ROLE]', agent_role)
+        prompt = prompt.replace('[AGENT_ROLE_2]', role2)
+        prompt = prompt.replace('[AGENT_ROLE_3]', role3)
+        prompt = prompt.replace('[STATE_TYPE]', state_type.capitalize())
+        prompt = prompt.replace('[ENVIRONMENTAL_STATE]', env_state)
+        prompt = prompt.replace('[BELIEF_STATE]', belief_state or "N/A")
+        prompt = prompt.replace('[STRATEGY_ID]', strategy_id or "None")
+        prompt = prompt.replace('[STRATEGY_CONTENT]', strategy_content or "No strategy.")
 
-    def infer_market_intent(self, belief: str,
-                            top_k: int = None) -> Tuple[str, List[str]]:
-        """Infer market intent state."""
-        retrieved_strategy_objects = self._retrieve_strategies("intent", belief_desc=belief, top_k=top_k)
-        
-        strategy_text_parts = []
-        if retrieved_strategy_objects:
-            for i, strat_obj in enumerate(retrieved_strategy_objects):
-                try:
-                    strategy_content = strat_obj.get('item', {}).get('strategy')
-                    if strategy_content:
-                        strategy_text_parts.append(f"{i + 1}. {strategy_content}")
-                    else:
-                        strategy_text_parts.append(f"{i + 1}. [Strategy content not found in expected item.strategy structure]")
-                except Exception as e:
-                    strategy_text_parts.append(f"{i + 1}. [Error processing strategy object: {str(e)}]")
+        # --- ToM order control for ablation ---
+        if self.tom_order < 2:
+            # Downgrade to first-order only: remove second-order reasoning instructions
+            prompt = prompt.replace(
+                f"2. Consider second-order ToM: what would {role2} and {role3} "
+                f"believe about each other's (and your) relevant states?",
+                f"2. (Second-order ToM disabled in this ablation configuration.)"
+            )
 
-        if not strategy_text_parts:
-            strategies_for_prompt = "Retrieved Strategies:\nNo specific strategies were retrieved or applicable to the current situation."
-        else:
-            strategies_for_prompt = "Retrieved Strategies:\n" + "\n".join(strategy_text_parts)
-            
-        user_prompt_text = "Please perform the market intent inference based on the system instructions and the data provided therein. Focus on identifying the most likely intent state given the belief."
-        
-        response = self._get_llm_response(user_prompt_text, "intent", belief, strategies_for_prompt)
-        
-        strategy_ids = []
-        if retrieved_strategy_objects:
-            for s_obj in retrieved_strategy_objects:
-                if s_obj and isinstance(s_obj.get('item'), dict) and 'id' in s_obj['item']:
-                    strategy_ids.append(s_obj['item']['id'])
-        return response, strategy_ids
+        return prompt
 
-    def infer_market_emotion(self, belief: str,
-                             env_state: str,
-                             top_k: int = None) -> Tuple[str, List[str]]:
-        """Infer market emotion state."""
-        emotion_threshold = self.emotion_similarity_threshold  
-        retrieved_strategy_objects = self._retrieve_strategies("emotion",
-                                               env_desc=env_state,
-                                               belief_desc=belief,
-                                               top_k=top_k,
-                                               threshold_override=emotion_threshold)
-        
-        strategy_text_parts = []
-        if retrieved_strategy_objects:
-            for i, strat_obj in enumerate(retrieved_strategy_objects):
-                try:
-                    strategy_content = strat_obj.get('item', {}).get('strategy')
-                    if strategy_content:
-                        strategy_text_parts.append(f"{i + 1}. {strategy_content}")
-                    else:
-                        strategy_text_parts.append(f"{i + 1}. [Strategy content not found in expected item.strategy structure]")
-                except Exception as e:
-                    strategy_text_parts.append(f"{i + 1}. [Error processing strategy object: {str(e)}]")
-
-        if not strategy_text_parts:
-            strategies_for_prompt = "Retrieved Strategies:\nNo specific strategies were retrieved or applicable to the current situation."
-        else:
-            strategies_for_prompt = "Retrieved Strategies:\n" + "\n".join(strategy_text_parts)
-
-        preceding_data_for_emotion = (
-            f"Current Market Belief:\\n{belief}\\n\\n"
-            f"Current Environmental State:\\n{env_state}"
-        )
-        
-        user_prompt_text = "Please perform the market emotion inference based on the system instructions and the data provided therein. Consider all relevant preceding states as per the CBN model for emotion."
-        
-        response = self._get_llm_response(user_prompt_text, "emotion", preceding_data_for_emotion, strategies_for_prompt)
-
-        strategy_ids = []
-        if retrieved_strategy_objects:
-            for s_obj in retrieved_strategy_objects:
-                if s_obj and isinstance(s_obj.get('item'), dict) and 'id' in s_obj['item']:
-                    strategy_ids.append(s_obj['item']['id'])
-        return response, strategy_ids
-
-    def _get_llm_response(self, user_prompt: str, state_type: str, preceding_state: str, strategies: str) -> str:
-        """Get LLM response with Pydantic validation, returns mental state description"""
-        try:
-            template = self._load_prompt_template()
-        except Exception as e:
-            logger.error(f"Error loading template: {e}")
-            template = "You are an expert market analyst who specializes in [STATE_TYPE] inference. Analyze the data and provide your best inference."
-
-        try:
-            system_content = template
-            system_content = system_content.replace('[STRATEGIES]', strategies)
-            system_content = system_content.replace('[PRECEDING_STATE]', preceding_state)
-            system_content = system_content.replace('[STATE_TYPE]', state_type.upper())
-
-        except Exception as e:
-            logger.error(f"Error processing template: {str(e)}")
-            logger.error(f"Full traceback: {traceback.format_exc()}")
-            logger.warning(f"Using fallback system prompt for state_type: {state_type}")
-            system_content = f"You are a helpful assistant specializing in market {state_type}."
-
-        max_retries = self.max_retries
-        base_delay = self.base_delay
-
-        for attempt in range(max_retries):
+    @rate_limit_api_call
+    def _infer_state(self, prompt: str, state_type: str,
+                     agent_role: str) -> Optional[str]:
+        """Call LLM to infer a mental state."""
+        for attempt in range(self.max_retries):
             try:
-                logger.info(f"Sending request to LLM (attempt {attempt+1}/{max_retries})...")
                 response = self.llm_client.chat.completions.create(
                     model=self.llm_model,
-                    messages=[
-                        {"role": "system", "content": system_content},
-                        {"role": "user", "content": user_prompt}
-                    ],
+                    messages=[{"role": "system", "content": prompt}],
                     temperature=self.llm_temperature,
                     response_format={"type": "json_object"}
                 )
-                
-                llm_content = response.choices[0].message.content.strip()
-                logger.info(f"Successfully received LLM response ({len(llm_content)} characters)")
-                
-                try:
-                    response_json = json.loads(llm_content)
-                except json.JSONDecodeError as json_err:
-                    print(f"{COLOR_ERROR}LLM {state_type} raw response (non-JSON):{COLOR_RESET} {llm_content}")
-                    logger.error(f"Could not parse LLM response as JSON: {json_err}")
-                    raise
-                
-                # Validate with Pydantic
-                try:
-                    validated_response = MentalStateResponse.model_validate(response_json)
-                    description = validated_response.mental_state_description
-                    print(f"{COLOR_INFO}LLM {state_type} mental state:{COLOR_RESET} {COLOR_VALUE}{description}{COLOR_RESET}")
-                    return description
-                except Exception as e:
-                    logger.warning(f"Pydantic validation failed: {str(e)[:100]}")
-                    # Fallback: try both possible key names
-                    if "mental_state_description" in response_json:
-                        description = response_json["mental_state_description"]
-                        print(f"{COLOR_INFO}LLM {state_type} mental state:{COLOR_RESET} {COLOR_VALUE}{description}{COLOR_RESET}")
-                        return description
-                    elif "mental state description" in response_json:
-                        description = response_json["mental state description"]
-                        print(f"{COLOR_INFO}LLM {state_type} mental state:{COLOR_RESET} {COLOR_VALUE}{description}{COLOR_RESET}")
-                        return description
-                    else:
-                        print(f"{COLOR_ERROR}LLM {state_type} raw response (missing description field):{COLOR_RESET} {response_json}")
-                        logger.error(f"No description field found in response: {list(response_json.keys())}")
-                        raise ValueError(f"Invalid response format: missing description field")
-
-            except openai.RateLimitError as e:
-                wait_time = base_delay * (2 ** attempt) + random.uniform(0, 1)
-                logger.warning(f"Rate limit reached. Waiting {wait_time:.2f}s...")
-                time.sleep(wait_time)
+                raw = response.choices[0].message.content.strip()
+                data = json.loads(raw)
+                parsed = AgentMentalStateResponse.model_validate(data)
+                return parsed.description
+            except json.JSONDecodeError as e:
+                logger.warning(f"JSON parse error ({agent_role}/{state_type}, attempt {attempt+1}): {e}")
             except Exception as e:
-                logger.error(f"API error (attempt {attempt+1}/{max_retries}): {e}")
-                if attempt == max_retries - 1:
-                    raise
-                wait_time = base_delay * (2 ** attempt) + random.uniform(0, 1)
-                time.sleep(wait_time)
+                logger.warning(f"LLM error ({agent_role}/{state_type}, attempt {attempt+1}): {e}")
+                delay = self.base_delay * (2 ** attempt) + random.uniform(0, 0.5)
+                time.sleep(delay)
+        return None
 
-        raise Exception("LLM call failed after multiple retries")
+    def infer_agent_trace(self, agent_role: str, env_state: str) -> AgentTrace:
+        """Run full CCN for one agent: ES→Belief→Intention, ES+Belief→Emotion."""
+        trace = AgentTrace(agent_role=agent_role)
 
-    def _load_prompt_template(self) -> str:
-        """Load forward inference prompt template from absolute path."""
-        logger.info(f"Loading forward template from: {self.template_file_abs_path}")
-        try:
-            with open(self.template_file_abs_path, 'r', encoding='utf-8') as f:
-                template_content = f.read()
-                
-                has_json_format = "JSON" in template_content and "mental_state_description" in template_content
-                
-                if has_json_format:
-                    logger.info("Template includes JSON output format guidelines")
-                else:
-                    logger.warning("Template may be missing JSON output format guidelines")
-                
-                return template_content
-        except FileNotFoundError:
-            logger.error(f"Error: Prompt template file not found: {self.template_file_abs_path}")
-            raise
-        except Exception as e:
-            logger.error(f"Error reading prompt template file {self.template_file_abs_path}: {str(e)}")
-            raise
-
-    def forward_inference(self, env_state: str) -> Tuple[Dict, str]:
-        """Execute the full forward inference process."""
-        print(f"\n{COLOR_TITLE}=== ANALYZING Market mental state ===={COLOR_RESET}")
-        
-        logger.info("Checking strategy database counts")
-        for level in ["belief", "intent", "emotion"]:
-            strategies = self.cep.get_strategies_by_level(level)
-            logger.info(f"{level.capitalize()} strategies count: {len(strategies)}")
-        
-        # Step 1: Market Belief Analysis
-        print(f"\n{COLOR_PHASE}STEP 1: Analyzing market beliefs...{COLOR_RESET}")
-        belief_desc, belief_ids = self.infer_market_belief(env_state)
-        if belief_ids:
-            logger.info(f"Belief strategy IDs: {belief_ids}")
-            print(f"{COLOR_SUCCESS}✓ Found relevant market belief patterns{COLOR_RESET}")
+        # --- Belief ---
+        print(f"  {COLOR_PHASE}[{agent_role}]{COLOR_RESET} Inferring belief...")
+        query_scenario = {"environmental": env_state}
+        strat_text, strat_ids = self._retrieve_strategies("belief", query_scenario, agent_role)
+        prompt = self._build_prompt(agent_role, "Belief", env_state, "N/A",
+                                    strat_ids[0] if strat_ids else "None", strat_text)
+        belief = self._infer_state(prompt, "belief", agent_role)
+        if belief:
+            trace.belief = belief
+            trace.belief_strategy_ids = strat_ids
+            print(f"  {COLOR_SUCCESS}✓ {agent_role} belief inferred{COLOR_RESET}")
         else:
-            logger.warning("No belief strategies retrieved")
-        
-        print(f"{COLOR_VALUE}Market Belief:{COLOR_RESET}")
-        print(f"{COLOR_INFO}{belief_desc}{COLOR_RESET}")
-        if belief_ids:
-            print(f"{COLOR_VALUE}Belief Strategies: {COLOR_RESET}{COLOR_DEBUG}{', '.join(belief_ids)}{COLOR_RESET}")
-        print()
-        
-        # Step 2: Market Intent Analysis  
-        print(f"\n{COLOR_PHASE}STEP 2: Analyzing market intentions...{COLOR_RESET}")
-        intent_desc, intent_ids = self.infer_market_intent(belief_desc)
-        if intent_ids:
-            logger.info(f"Intent strategy IDs: {intent_ids}")
-            print(f"{COLOR_SUCCESS}✓ Identified market intentions{COLOR_RESET}")
-        else:
-            logger.warning("No intent strategies retrieved")
-        
-        print(f"{COLOR_VALUE}Market Intent:{COLOR_RESET}")
-        print(f"{COLOR_INFO}{intent_desc}{COLOR_RESET}")
-        if intent_ids:
-            print(f"{COLOR_VALUE}Intent Strategies: {COLOR_RESET}{COLOR_DEBUG}{', '.join(intent_ids)}{COLOR_RESET}")
-        print()
-        
-        # Step 3: Market Emotion Analysis
-        print(f"\n{COLOR_PHASE}STEP 3: Analyzing market emotion...{COLOR_RESET}")
-        emotion_desc, emotion_ids = self.infer_market_emotion(belief_desc, env_state)
-        if emotion_ids:
-            logger.info(f"Emotion strategy IDs: {emotion_ids}")
-            print(f"{COLOR_SUCCESS}✓ Determined market emotion{COLOR_RESET}")
-        else:
-            logger.warning("No emotion strategies retrieved")
-        
-        print(f"{COLOR_VALUE}Market Emotion:{COLOR_RESET}")
-        print(f"{COLOR_INFO}{emotion_desc}{COLOR_RESET}")
-        if emotion_ids:
-            print(f"{COLOR_VALUE}Emotion Strategies: {COLOR_RESET}{COLOR_DEBUG}{', '.join(emotion_ids)}{COLOR_RESET}")
-        print()
-        
-        mental_states = {
-            'belief': belief_desc,
-            'intent': intent_desc,
-            'emotion': emotion_desc
-        }
-        
-        strategies_used = {
-            'belief': belief_ids,
-            'intent': intent_ids,
-            'emotion': emotion_ids
-        }
+            print(f"  {COLOR_ERROR}✗ {agent_role} belief failed{COLOR_RESET}")
 
+        # --- Intention ---
+        print(f"  {COLOR_PHASE}[{agent_role}]{COLOR_RESET} Inferring intention...")
+        query_scenario = {"belief": trace.belief}
+        strat_text, strat_ids = self._retrieve_strategies("intent", query_scenario, agent_role)
+        prompt = self._build_prompt(agent_role, "Intention", env_state, trace.belief,
+                                    strat_ids[0] if strat_ids else "None", strat_text)
+        intent = self._infer_state(prompt, "intent", agent_role)
+        if intent:
+            trace.intent = intent
+            trace.intent_strategy_ids = strat_ids
+            print(f"  {COLOR_SUCCESS}✓ {agent_role} intention inferred{COLOR_RESET}")
+        else:
+            print(f"  {COLOR_ERROR}✗ {agent_role} intention failed{COLOR_RESET}")
+
+        # --- Emotion ---
+        print(f"  {COLOR_PHASE}[{agent_role}]{COLOR_RESET} Inferring emotion...")
+        query_scenario = {"belief": trace.belief, "environmental": env_state}
+        strat_text, strat_ids = self._retrieve_strategies("emotion", query_scenario, agent_role)
+        prompt = self._build_prompt(agent_role, "Emotion", env_state, trace.belief,
+                                    strat_ids[0] if strat_ids else "None", strat_text)
+        emotion = self._infer_state(prompt, "emotion", agent_role)
+        if emotion:
+            trace.emotion = emotion
+            trace.emotion_strategy_ids = strat_ids
+            print(f"  {COLOR_SUCCESS}✓ {agent_role} emotion inferred{COLOR_RESET}")
+        else:
+            print(f"  {COLOR_ERROR}✗ {agent_role} emotion failed{COLOR_RESET}")
+
+        return trace
+
+    def forward_inference(self, env_state: str) -> Tuple[Dict[str, Dict], str]:
+        """Run multi-agent forward inference.
+        
+        Returns:
+            (agent_results, filename)
+            agent_results = {role: {belief, intent, emotion}}
+        """
+        print(f"\n{COLOR_TITLE}=== MULTI-AGENT FORWARD INFERENCE ==={COLOR_RESET}")
         timestamp = datetime.now()
-        filename = f"inference_{timestamp.strftime('%Y%m%d_%H%M%S')}.json"
-        
-        self.logger.save_inference(
+
+        agent_results: Dict[str, Dict[str, str]] = {}
+        strategies_used: Dict[str, Dict[str, List[str]]] = {}
+
+        for role in self.agent_roles:
+            print(f"\n{COLOR_INFO}--- Agent: {role} ---{COLOR_RESET}")
+            trace = self.infer_agent_trace(role, env_state)
+            agent_results[role] = trace.to_dict()
+            strategies_used[role] = trace.strategies_dict()
+
+        # Save log
+        filename = self.data_logger.save_inference(
             timestamp=timestamp,
             env_state=env_state,
-            mental_states=mental_states,
+            agent_results=agent_results,
             strategies_used=strategies_used
         )
-        
-        return mental_states, filename
+
+        print(f"\n{COLOR_SUCCESS}✅ Forward inference complete for {len(self.agent_roles)} agents{COLOR_RESET}")
+        return agent_results, filename

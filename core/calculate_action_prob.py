@@ -1,482 +1,360 @@
-from typing import List, Dict, Any, Tuple, Optional
+# -*- coding: utf-8 -*-
+"""
+Dynamic Weighted Aggregation for Multi-Agent Action Prediction.
+
+Each agent predicts Buy/Sell via the action-prediction prompt.
+Aggregation formula:
+    W_k = Softmax((alpha * A_k + gamma * C_k) / T)
+    P_up = sum(W_k * p_up_k)
+where A_k = EMA accuracy, C_k = log-confidence from logprobs.
+"""
 import json
 import os
-import numpy as np
-from pydantic import BaseModel, Field, field_validator
-import openai
 import time
-import logging
-from core.cep import CognitiveEnhancementPlugin
-from datetime import datetime, timedelta
 import random
-import traceback
-from core.expert_perspectives import get_random_perspectives
+import math
+import logging
+from typing import Dict, List, Optional, Any, Tuple
+from datetime import datetime, timedelta
+from dataclasses import dataclass, field
+
+import openai
+from pydantic import BaseModel, Field
+
+from core.cep import CognitiveEnhancementPlugin
 
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    filename='market_tom_probability.log',
+    filename='market_tom_action.log',
     filemode='a'
 )
-logger = logging.getLogger('MarketToM.Probability')
+logger = logging.getLogger('MarketToM.ActionProb')
 
-COLOR_TITLE = "\033[1;36m"     # Cyan bold (titles)
-COLOR_SUCCESS = "\033[1;32m"   # Green bold (success)
-COLOR_WARNING = "\033[1;33m"   # Yellow bold (warnings)
-COLOR_ERROR = "\033[1;31m"     # Red bold (errors)
-COLOR_INFO = "\033[0;34m"      # Blue (info)
-COLOR_VALUE = "\033[1;35m"     # Magenta bold (values)
-COLOR_DEBUG = "\033[0;90m"     # Gray (debug)
-COLOR_PHASE = "\033[1;94m"     # Light blue bold (phases)
-COLOR_RESET = "\033[0m"        # Reset color
-COLOR_EXPERT = "\033[1;33m"    # Yellow bold (expert)
-COLOR_REASONING = "\033[0;36m" # Cyan (reasoning)
+COLOR_TITLE = "\033[1;36m"
+COLOR_SUCCESS = "\033[1;32m"
+COLOR_WARNING = "\033[1;33m"
+COLOR_ERROR = "\033[1;31m"
+COLOR_INFO = "\033[0;34m"
+COLOR_VALUE = "\033[1;35m"
+COLOR_DEBUG = "\033[0;90m"
+COLOR_RESET = "\033[0m"
+
+DEFAULT_AGENT_ROLES = ["Retail", "Institutional", "Arbitrageur"]
 
 last_api_request_time = datetime.now() - timedelta(seconds=10)
-MIN_REQUEST_INTERVAL = 20.0
+MIN_REQUEST_INTERVAL = 20.
 DEFAULT_COOLDOWN = 20.0
-MAX_JITTER = 2.0
+MAX_JITTER = 1.0
+
 
 def rate_limit_api_call(func):
-    """Decorator: Control API call frequency to prevent rate limits"""
     def wrapper(*args, **kwargs):
         global last_api_request_time
         now = datetime.now()
-        time_since_last_request = (now - last_api_request_time).total_seconds()
-        if time_since_last_request < MIN_REQUEST_INTERVAL:
-            wait_time = MIN_REQUEST_INTERVAL - time_since_last_request + random.uniform(0, MAX_JITTER)
-            logger.info(f"Rate limiting: Waiting {wait_time:.2f}s before next API call")
-            time.sleep(wait_time)
+        elapsed = (now - last_api_request_time).total_seconds()
+        if elapsed < MIN_REQUEST_INTERVAL:
+            wait = MIN_REQUEST_INTERVAL - elapsed + random.uniform(0, MAX_JITTER)
+            time.sleep(wait)
         last_api_request_time = datetime.now()
-        try:
-            result = func(*args, **kwargs)
-        except Exception as e:
-            cooldown = DEFAULT_COOLDOWN + random.uniform(0, MAX_JITTER)
-            logger.info(f"API call failed or errored. Cooling down for {cooldown:.2f}s")
-            time.sleep(cooldown)
-            raise e
-        else:
-            cooldown = DEFAULT_COOLDOWN + random.uniform(0, MAX_JITTER)
-            logger.info(f"API call completed. Cooling down for {cooldown:.2f}s")
-            time.sleep(cooldown)
-            return result
+        result = func(*args, **kwargs)
+        cooldown = DEFAULT_COOLDOWN + random.uniform(0, MAX_JITTER)
+        time.sleep(cooldown)
+        return result
     return wrapper
 
-class ProbabilitySample(BaseModel):
-    """Individual probability sample model"""
-    value: float = Field(..., description="Probability value (between 0-1)")
-    log_confidence: float = Field(..., description="Confidence based on token log-probability")
-    normalized_weight: float = Field(0.0, description="Normalized weight")
-    
-    @field_validator('value')
-    @classmethod
-    def validate_value(cls, v):
-        if not (0 <= v <= 1):
-            raise ValueError("Probability value must be between 0 and 1")
-        return v
 
-class ProbabilityResult(BaseModel):
-    """Final probability calculation result model"""
-    probability: float = Field(..., description="Weighted aggregated upward probability")
-    samples: List[ProbabilitySample] = Field(..., description="List of probability samples")
-    strategy_ids: List[str] = Field(default_factory=list, description="List of used strategy IDs")
-    inference_id: str = Field("", description="Inference ID")
-    timestamp: str = Field("", description="Timestamp")
-    environmental_state: str = Field("", description="Environmental state")
-    expert_details: List[dict] = Field(default_factory=list, description="Expert roles and reasoning")
+# ---------- Response models ----------
+class AgentActionResponse(BaseModel):
+    """Expected JSON from action-prediction prompt."""
+    agent_role: str = Field(...)
+    predicted_action: str = Field(..., description="Buy or Sell")
 
-class ExpertProbabilityResponse(BaseModel):
-    """Single expert's probability assessment and reasoning"""
-    reasoning: str = Field(..., description="Expert's analysis and reasoning")
-    probability: float = Field(..., description="Expert's estimated upward probability")
-    
-    @field_validator('probability')
-    def validate_probability(cls, v):
-        if not (0 <= v <= 1):
-            raise ValueError(f"Probability values must be between 0-1, got: {v}")
-        return v
-    
-    model_config = {
-        "json_schema_extra": {
-            "examples": [
-                {
-                    "reasoning": "From a technical analysis perspective, the market has broken through important resistance levels with increasing volume, indicating strengthening bullish momentum.",
-                    "probability": 0.75
-                }
-            ]
-        }
-    }
 
-class ExpertInfo:
-    """Store expert information including role, reasoning, and probability sample"""
-    def __init__(self, role: str, reasoning: str, probability_sample: ProbabilitySample):
-        self.role = role
-        self.reasoning = reasoning
-        self.probability_sample = probability_sample
+@dataclass
+class AgentPrediction:
+    """Holds one agent's prediction plus aggregation metadata."""
+    agent_role: str
+    predicted_action: str  # "Buy" or "Sell"
+    p_up: float = 0.5     # 1.0 if Buy, 0.0 if Sell
+    log_confidence: float = 0.0  # C_k from logprobs
+    weight: float = 0.0
 
+
+class ProbabilityResult:
+    """Final aggregated result."""
+    def __init__(self, probability: float,
+                 agent_predictions: Dict[str, Dict],
+                 weights: Dict[str, float]):
+        self.probability = probability
+        self.agent_predictions = agent_predictions
+        self.weights = weights
+
+
+# ---------- Main calculator ----------
 class ActionProbabilityCalculator:
-    """Market action probability calculator using Log-Confidence Weighting algorithm"""
+    """Per-agent action prediction + dynamic weighted aggregation."""
+
     def __init__(self,
-                 cep: CognitiveEnhancementPlugin,
-                 llm_client: openai.OpenAI,
-                 llm_model: str,
-                 inference_logs_abs_path: str,
-                 action_prob_top_k: int,
-                 num_probs_to_generate: int,
-                 max_retries_list: int,
-                 base_delay_list_seconds: float,
+                 cep: CognitiveEnhancementPlugin = None,
+                 llm_client: openai.OpenAI = None,
+                 llm_model: str = "gpt-4o",
+                 inference_logs_abs_path: str = "",
+                 action_template_abs_path: str = "",
+                 agent_roles: List[str] = None,
+                 alpha: float = 1.0,
+                 gamma: float = 1.0,
+                 temperature: float = 1.0,
+                 ema_decay: float = 0.9,
+                 max_retries: int = 5,
+                 base_delay: float = 1.0,
                  llm_temperature: float = 0.7,
+                 num_action_samples: int = 10,
+                 # Legacy params (accepted but ignored)
                  expert_template_abs_path: str = None,
+                 num_probs_to_generate: int = None,
+                 action_prob_top_k: int = None,
+                 max_retries_list: int = None,
+                 base_delay_list_seconds: float = None,
+                 kde_bandwidth_rule: str = None,
+                 kde_min_bandwidth: float = None,
                  **kwargs):
-        """Initialize the market action probability calculator"""
+
         self.cep = cep
         self.llm_client = llm_client
         self.llm_model = llm_model
         self.inference_logs_abs_path = inference_logs_abs_path
-        self.action_prob_top_k = action_prob_top_k
-        self.num_probs_to_generate = num_probs_to_generate
-        self.max_retries = max_retries_list
-        self.base_delay = base_delay_list_seconds
+        self.agent_roles = agent_roles or DEFAULT_AGENT_ROLES
+        self.alpha = alpha
+        self.gamma = gamma
+        self.agg_temperature = temperature
+        self.ema_decay = ema_decay
+        self.max_retries = max_retries
+        self.base_delay = base_delay
         self.llm_temperature = llm_temperature
-        self.expert_template_abs_path = expert_template_abs_path
-        
-        if not self.expert_template_abs_path:
-            raise ValueError("Expert template path must be provided when expert mode is enforced.")
+        self.num_action_samples = max(1, num_action_samples)
 
-        print(f"{COLOR_INFO}Probability calculator initialized with {COLOR_VALUE}Expert Perspective{COLOR_RESET} algorithm")
-        logger.info("Initialized with Expert Perspective algorithm")
+        # Template path: prefer new param, fall back to legacy
+        self.template_path = action_template_abs_path or expert_template_abs_path or ""
 
-    def _load_prompt_template(self) -> str:
-        """Load action probability prompt template from absolute path"""
-        template_path = self.expert_template_abs_path
+        # EMA accuracy tracker per agent
+        self._ema_accuracy: Dict[str, float] = {r: 0.5 for r in self.agent_roles}
 
-        logger.debug(f"Loading expert template from: {template_path}")
-        if not os.path.exists(template_path):
-            logger.error(f"Expert template file not found: {template_path}")
-            raise FileNotFoundError(f"Expert template file not found: {template_path}")
+    def _load_template(self) -> str:
+        with open(self.template_path, 'r', encoding='utf-8') as f:
+            return f.read()
 
-        try:
-            with open(template_path, 'r', encoding='utf-8') as f:
-                template_content = f.read()
-                first_lines = "\n".join(template_content.split("\n")[:3]) + "..."
-                logger.debug(f"Template content (first few lines): {first_lines}")
-                return template_content
-        except FileNotFoundError:
-            logger.error(f"Prompt template file not found: {template_path}")
-            raise
-        except Exception as e:
-            logger.error(f"Error reading prompt template file: {str(e)}")
-            raise
+    def _get_other_roles(self, agent_role: str) -> Tuple[str, str]:
+        others = [r for r in self.agent_roles if r != agent_role]
+        return (others[0], others[1]) if len(others) >= 2 else (others[0] if others else "Other", "Other")
 
     def load_inference_log(self, filename: str) -> Dict[str, Any]:
-        """Load inference log"""
         filepath = os.path.join(self.inference_logs_abs_path, filename)
-        try:
-            with open(filepath, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-            if 'mental_states' not in data:
-                raise ValueError(f"File {filepath} is missing 'mental_states' field.")
-            if 'intent' not in data['mental_states'] or 'emotion' not in data['mental_states']:
-                raise ValueError(f"File {filepath} 'mental_states' is missing 'intent' or 'emotion'.")
-            return data
-        except Exception as e:
-            logger.error(f"Failed to read inference log file {filepath}: {str(e)}")
-            raise
-
-    def calculate_probability_from_file(self, filename: str) -> ProbabilityResult:
-        """Calculate action probability from inference log file"""
-        print(f"\n{COLOR_TITLE}=== CALCULATING MARKET MOVEMENT PROBABILITY ===={COLOR_RESET}")
-        logger.info(f"Calculating probability from file: {filename}")
-
-        print(f"{COLOR_DEBUG}Using Expert Perspective method{COLOR_RESET}")
-
-        try:
-            data = self.load_inference_log(filename)
-            mental_states = data.get('mental_states', {})
-            intent_desc = mental_states.get('intent', '')
-            emotion_desc = mental_states.get('emotion', '')
-            env_state = data.get('environmental_state', '')
-
-            print(f"{COLOR_DEBUG}Entering expert perspective method{COLOR_RESET}")
-            result = self._calculate_probability_expert(intent_desc, emotion_desc)
-            print(f"{COLOR_DEBUG}Completed expert perspective method{COLOR_RESET}")
-
-            result.inference_id = filename.replace('.json', '')
-            result.timestamp = data.get('timestamp', datetime.now().isoformat())
-            result.environmental_state = env_state
-            
-            return result
-
-        except Exception as e:
-            logger.error(f"Error calculating probability: {str(e)}")
-            logger.error(traceback.format_exc())
-            raise
-
-    def _format_strategies_text(self, strategy_objects: List[Dict]) -> str:
-        """Format strategy objects into text"""
-        if not strategy_objects:
-            return "No relevant strategies retrieved."
-            
-        strategy_texts = []
-        for i, strat_obj in enumerate(strategy_objects, 1):
-            try:
-                item = strat_obj.get('item', {})
-                strategy_text = item.get('strategy', 'Strategy text not available')
-                scenario = item.get('states_scenario', {})
-                strategy_texts.append(f"Strategy {i}:\n{strategy_text}\n\nScenario: {json.dumps(scenario, ensure_ascii=False)}")
-            except Exception as e:
-                strategy_texts.append(f"Strategy {i}: Error formatting strategy - {str(e)}")
-                
-        return "\n\n".join(strategy_texts)
-
-    def _calculate_probability_expert(self, intent_desc: str, emotion_desc: str) -> ProbabilityResult:
-        print(f"\n{COLOR_PHASE}STEP 1: CONSULTING MARKET EXPERTS{COLOR_RESET}")
-        logger.info(f"Gathering predictions from {self.num_probs_to_generate} expert perspectives")
-        
-        expert_roles = get_random_perspectives(self.num_probs_to_generate)
-        
-        valid_samples = []
-        expert_infos = []
-        print(f"{COLOR_INFO}Consulting {self.num_probs_to_generate} market experts...{COLOR_RESET}")
-        for i, role in enumerate(expert_roles, 1):
-            print(f"\n{COLOR_EXPERT}• Expert {i}/{self.num_probs_to_generate}: {COLOR_VALUE}{role[:60]}{COLOR_RESET}")
-            sample, reasoning = self._generate_expert_probability(intent_desc, emotion_desc, role)
-            if sample:
-                valid_samples.append(sample)
-                expert_infos.append(ExpertInfo(role, reasoning, sample))
-                
-                print(f"{COLOR_REASONING}  📊 Probability: {COLOR_VALUE}{sample.value:.4f}{COLOR_RESET}")
-                print(f"{COLOR_REASONING}  🔍 Confidence: {COLOR_VALUE}{sample.log_confidence:.2f}{COLOR_RESET}")
-                reasoning_preview = reasoning[:200] + "..." if len(reasoning) > 200 else reasoning
-                print(f"{COLOR_REASONING}  💭 Reasoning: {COLOR_INFO}{reasoning_preview}{COLOR_RESET}")
-            else:
-                print(f"{COLOR_WARNING}  ✗ Analysis failed for this expert{COLOR_RESET}")
-        
-        logger.info(f"Successfully obtained {len(valid_samples)}/{self.num_probs_to_generate} expert predictions")
-        print(f"{COLOR_SUCCESS}✓ Analysis complete: {len(valid_samples)} expert opinions considered{COLOR_RESET}")
-        
-        if not valid_samples:
-            logger.warning("No valid expert predictions obtained, returning default value 0.5")
-            print(f"{COLOR_WARNING}Unable to gather expert opinions, using default value.{COLOR_RESET}")
-            return ProbabilityResult(
-                probability=0.5,
-                samples=[ProbabilitySample(value=0.5, log_confidence=-100.0, normalized_weight=1.0)],
-                strategy_ids=[]
-            )
-        
-        log_confidences = [sample.log_confidence for sample in valid_samples]
-        probabilities = [sample.value for sample in valid_samples]
-        
-        logger.debug(f"Expert probability values: {probabilities}")
-        logger.debug(f"Expert log-confidence values: {log_confidences}")
-        
-        weights = self._softmax(log_confidences)
-        
-        logger.debug(f"Softmax weights: {[f'{w:.4f}' for w in weights]}")
-        
-        weighted_contributions = []
-        for i, (prob, weight) in enumerate(zip(probabilities, weights)):
-            contribution = prob * weight
-            weighted_contributions.append(contribution)
-            logger.debug(f"Expert {i+1}: Probability={prob:.4f} × Weight={weight:.4f} = Contribution {contribution:.4f}")
-        
-        weighted_sum = sum(weighted_contributions)
-        logger.info(f"Expert consensus weighted probability: {weighted_sum:.4f}")
-        
-        for i, weight in enumerate(weights):
-            valid_samples[i].normalized_weight = weight
-            if i < len(expert_infos):
-                expert_infos[i].probability_sample.normalized_weight = weight
-        
-        expert_details_list = [
-            {
-                'role': expert_info.role,
-                'reasoning': expert_info.reasoning,
-                'probability': expert_info.probability_sample.value,
-                'log_confidence': expert_info.probability_sample.log_confidence,
-                'normalized_weight': expert_info.probability_sample.normalized_weight
-            }
-            for expert_info in expert_infos
-        ]
-        
-        result = ProbabilityResult(
-            probability=weighted_sum,
-            samples=valid_samples,
-            strategy_ids=[],
-            expert_details=expert_details_list
-        )
-        
-        print(f"\n{COLOR_TITLE}┌───────────────────────────────────────────────────{COLOR_RESET}")
-        print(f"{COLOR_TITLE}│ {COLOR_SUCCESS}CONSENSUS FORECAST{COLOR_RESET}")
-        print(f"{COLOR_TITLE}└───────────────────────────────────────────────────{COLOR_RESET}")
-        print(f"{COLOR_INFO}Expert consensus probability: {COLOR_VALUE}{weighted_sum:.4f}{COLOR_RESET}")
-        
-        if weighted_sum > 0.5:
-            trend = "UP 📈"
-            trend_color = COLOR_SUCCESS
-        else:
-            trend = "DOWN 📉"
-            trend_color = COLOR_ERROR
-        print(f"{COLOR_INFO}Market direction: {trend_color}{trend}{COLOR_RESET} (confidence: {COLOR_VALUE}{abs(weighted_sum-0.5)*2:.2f}{COLOR_RESET})")
-        
-        # 打印专家汇总表
-        print(f"\n{COLOR_TITLE}┌─ EXPERT SUMMARY ──────────────────────────────────{COLOR_RESET}")
-        for i, expert_info in enumerate(expert_infos, 1):
-            weight_percent = expert_info.probability_sample.normalized_weight * 100
-            contribution = expert_info.probability_sample.value * expert_info.probability_sample.normalized_weight
-            print(f"{COLOR_DEBUG}Expert {i}: {COLOR_VALUE}P={expert_info.probability_sample.value:.4f}{COLOR_RESET} × {COLOR_VALUE}W={weight_percent:.1f}%{COLOR_RESET} = {COLOR_INFO}C={contribution:.4f}{COLOR_RESET}")
-        print(f"{COLOR_TITLE}└───────────────────────────────────────────────────{COLOR_RESET}")
-        
-        return result
-
-    @staticmethod
-    def _softmax(x: List[float]) -> List[float]:
-        x_array = np.array(x)
-        x_shifted = x_array - np.max(x_array)
-        exp_x = np.exp(x_shifted)
-        return exp_x / np.sum(exp_x)
-
-    def _find_probability_tokens(self, completion_text: str, probability_value: float, logprobs_content) -> List[dict]:
-        prob_str = str(probability_value)
-
-        positions = []
-        start_idx = 0
-        while True:
-            pos = completion_text.find(prob_str, start_idx)
-            if pos == -1:
-                break
-            positions.append((pos, pos + len(prob_str)))
-            start_idx = pos + 1
-
-        if not positions and '.' in prob_str:
-            base, decimal = prob_str.split('.')
-            if decimal.endswith('0'):
-                alt_prob = f"{base}.{decimal.rstrip('0')}"
-                return self._find_probability_tokens(completion_text, float(alt_prob), logprobs_content)
-            else:
-                for i in range(1, 4):
-                    alt_prob = f"{base}.{decimal}{'0' * i}"
-                    alt_positions = []
-                    start_idx = 0
-                    while True:
-                        pos = completion_text.find(alt_prob, start_idx)
-                        if pos == -1:
-                            break
-                        alt_positions.append((pos, pos + len(alt_prob)))
-                        start_idx = pos + 1
-                    if alt_positions:
-                        positions = alt_positions
-                        prob_str = alt_prob
-                        break
-
-        if not positions:
-            logger.warning(f"Unable to find probability value {probability_value} in text")
-            return []
-
-        relevant_tokens = []
-        for start_pos, end_pos in positions:
-            tokens_with_positions = []
-            pos = 0
-            for token_info in logprobs_content:
-                token_text = token_info.token
-                token_pos = completion_text.find(token_text, pos)
-                if token_pos != -1:
-                    tokens_with_positions.append({
-                        'token': token_text,
-                        'logprob': token_info.logprob,
-                        'start': token_pos,
-                        'end': token_pos + len(token_text)
-                    })
-                    pos = token_pos + 1
-
-            for token_info in tokens_with_positions:
-                token_start, token_end = token_info['start'], token_info['end']
-                if not (token_end <= start_pos or token_start >= end_pos):
-                    relevant_tokens.append(token_info)
-
-        unique_tokens = {}
-        for token_info in relevant_tokens:
-            pos_key = f"{token_info['start']}:{token_info['end']}"
-            if pos_key not in unique_tokens:
-                unique_tokens[pos_key] = token_info
-
-        return list(unique_tokens.values())
-
-    def _generate_expert_probability_samples(self, intent_desc: str, emotion_desc: str) -> Tuple[List[ProbabilitySample], List[ExpertInfo]]:
-        expert_roles = get_random_perspectives(self.num_probs_to_generate)
-
-        valid_samples = []
-        expert_infos = []
-        print(f"{COLOR_INFO}Consulting {self.num_probs_to_generate} market experts...{COLOR_RESET}")
-        for i, role in enumerate(expert_roles, 1):
-            sample, reasoning = self._generate_expert_probability(intent_desc, emotion_desc, role)
-            if sample:
-                valid_samples.append(sample)
-                expert_infos.append(ExpertInfo(role, reasoning, sample))
-
-        logger.info(f"Successfully obtained {len(valid_samples)}/{self.num_probs_to_generate} expert predictions")
-        print(f"{COLOR_SUCCESS}✓ Analysis complete: {len(valid_samples)} expert opinions gathered{COLOR_RESET}")
-        return valid_samples, expert_infos
+        with open(filepath, 'r', encoding='utf-8') as f:
+            return json.load(f)
 
     @rate_limit_api_call
-    def _generate_expert_probability(self, intent_desc: str, emotion_desc: str, expert_role: str) -> Tuple[Optional[ProbabilitySample], str]:
-        logger.info(f"Consulting expert: {expert_role[:50]}...")
+    def _predict_agent_action(self, agent_role: str,
+                              intent: str, emotion: str) -> Optional[AgentPrediction]:
+        """Call LLM with logprobs to get Buy/Sell + confidence for one agent."""
+        template = self._load_template()
+        role2, role3 = self._get_other_roles(agent_role)
 
-        template = self._load_prompt_template()
+        prompt = template
+        prompt = prompt.replace('[AGENT_ROLE]', agent_role)
+        prompt = prompt.replace('[AGENT_ROLE_2]', role2)
+        prompt = prompt.replace('[AGENT_ROLE_3]', role3)
+        prompt = prompt.replace('[INTENTION_STATE]', intent)
+        prompt = prompt.replace('[EMOTION_STATE]', emotion)
 
-        template = template.replace('[EXPERT_ROLE_DESCRIPTION]', expert_role)
-        template = template.replace('[DESCRIPTION OF THE INFERRED MARKET INTENTION]', intent_desc)
-        template = template.replace('[DESCRIPTION OF THE INFERRED MARKET EMOTION]', emotion_desc)
-
-        user_prompt = "According to the system prompt word output the probability of market rise."
-        try:
-            response = self.llm_client.chat.completions.create(
-                model=self.llm_model,
-                messages=[
-                    {"role": "system", "content": template},
-                    {"role": "user", "content": user_prompt}
-                ],
-                temperature=self.llm_temperature,
-                max_tokens=500,
-                response_format={"type": "json_object"},
-                logprobs=True,
-                top_logprobs=1
-            )
-
-            completion_text = response.choices[0].message.content.strip()
-            logprobs_content = response.choices[0].logprobs.content
-
+        for attempt in range(self.max_retries):
             try:
-                json_data = json.loads(completion_text)
-                expert_response = ExpertProbabilityResponse.model_validate(json_data)
+                response = self.llm_client.chat.completions.create(
+                    model=self.llm_model,
+                    messages=[{"role": "system", "content": prompt}],
+                    temperature=self.llm_temperature,
+                    response_format={"type": "json_object"},
+                    logprobs=True,
+                    top_logprobs=5
+                )
+                raw = response.choices[0].message.content.strip()
+                data = json.loads(raw)
+                parsed = AgentActionResponse.model_validate(data)
 
-                probability_tokens = self._find_probability_tokens(
-                    completion_text,
-                    expert_response.probability,
-                    logprobs_content
+                action = parsed.predicted_action.strip()
+                if action not in ("Buy", "Sell"):
+                    action = "Buy" if "buy" in action.lower() else "Sell"
+
+                # Extract log-confidence from logprobs
+                log_conf = self._extract_action_log_confidence(
+                    response.choices[0], action
                 )
 
-                if probability_tokens:
-                    log_confidence_sum = sum(token['logprob'] for token in probability_tokens)
-                else:
-                    log_confidence_sum = -100.0
-                    logger.warning("Unable to find tokens corresponding to probability value")
-
-                sample = ProbabilitySample(
-                    value=expert_response.probability,
-                    log_confidence=log_confidence_sum,
-                    normalized_weight=0.0
+                pred = AgentPrediction(
+                    agent_role=agent_role,
+                    predicted_action=action,
+                    p_up=1.0 if action == "Buy" else 0.0,
+                    log_confidence=log_conf
                 )
+                return pred
 
-                return sample, expert_response.reasoning
-
+            except json.JSONDecodeError:
+                logger.warning(f"JSON parse error ({agent_role} action, attempt {attempt+1})")
             except Exception as e:
-                logger.warning(f"JSON parsing failed: {str(e)}")
-                print(f"{COLOR_WARNING}Failed to parse expert response: {str(e)}{COLOR_RESET}")
-                return None, ""
+                logger.warning(f"Action prediction error ({agent_role}, attempt {attempt+1}): {e}")
+                delay = self.base_delay * (2 ** attempt) + random.uniform(0, 0.5)
+                time.sleep(delay)
 
+        return None
+
+    def _extract_action_log_confidence(self, choice, action: str) -> float:
+        """Extract log-probability of the predicted action token from logprobs."""
+        try:
+            if hasattr(choice, 'logprobs') and choice.logprobs and choice.logprobs.content:
+                action_lower = action.lower()
+                for token_info in choice.logprobs.content:
+                    token_str = token_info.token.strip().strip('"').lower()
+                    if token_str in (action_lower, "buy", "sell"):
+                        return token_info.logprob
+                    # Check top_logprobs
+                    if hasattr(token_info, 'top_logprobs'):
+                        for alt in token_info.top_logprobs:
+                            alt_str = alt.token.strip().strip('"').lower()
+                            if alt_str == action_lower:
+                                return alt.logprob
         except Exception as e:
-            logger.error(f"Error generating expert probability: {str(e)}")
-            logger.error(traceback.format_exc())
-            print(f"{COLOR_ERROR}Error consulting expert: {str(e)}{COLOR_RESET}")
-            return None, ""
+            logger.warning(f"Could not extract logprob: {e}")
+        return 0.0  # Default: no confidence signal
+
+    @staticmethod
+    def _softmax(values: List[float]) -> List[float]:
+        max_v = max(values) if values else 0
+        exps = [math.exp(v - max_v) for v in values]
+        total = sum(exps) or 1.0
+        return [e / total for e in exps]
+
+    def _dynamic_aggregate(self, predictions: List[AgentPrediction]) -> Tuple[float, Dict[str, float]]:
+        """Dynamic weighted aggregation.
+        
+        W_k = Softmax((alpha * A_k + gamma * C_k) / T)
+        P_up = sum(W_k * p_up_k)
+        """
+        if not predictions:
+            return 0.5, {}
+
+        scores = []
+        for pred in predictions:
+            A_k = self._ema_accuracy.get(pred.agent_role, 0.5)
+            C_k = pred.log_confidence
+            score = (self.alpha * A_k + self.gamma * C_k) / max(self.agg_temperature, 1e-6)
+            scores.append(score)
+
+        weights = self._softmax(scores)
+        p_up = sum(w * pred.p_up for w, pred in zip(weights, predictions))
+
+        weight_dict = {pred.agent_role: w for w, pred in zip(weights, predictions)}
+        for pred, w in zip(predictions, weights):
+            pred.weight = w
+
+        return p_up, weight_dict
+
+    def update_ema_accuracy(self, agent_role: str, correct: bool):
+        """Update EMA accuracy for an agent after ground truth is known."""
+        current = self._ema_accuracy.get(agent_role, 0.5)
+        self._ema_accuracy[agent_role] = (
+            self.ema_decay * current + (1 - self.ema_decay) * (1.0 if correct else 0.0)
+        )
+
+    def calculate_probability_from_file(self, filename: str) -> ProbabilityResult:
+        """Main entry: load inference log, predict per agent, aggregate."""
+        log_data = self.load_inference_log(filename)
+
+        agent_results = log_data.get('agent_results', {})
+
+        # Legacy compat: if old format has 'mental_states' but not 'agent_results'
+        if not agent_results and 'mental_states' in log_data:
+            ms = log_data['mental_states']
+            # Treat as a single "Retail" agent for legacy data
+            agent_results = {
+                "Retail": {
+                    "belief": ms.get("belief", ""),
+                    "intent": ms.get("intent", ""),
+                    "emotion": ms.get("emotion", "")
+                }
+            }
+
+        print(f"\n{COLOR_TITLE}=== MULTI-AGENT ACTION PREDICTION ==={COLOR_RESET}")
+        print(f"  {COLOR_INFO}(n={self.num_action_samples} samples per agent){COLOR_RESET}")
+
+        predictions: List[AgentPrediction] = []
+
+        for role in self.agent_roles:
+            if role not in agent_results:
+                continue
+            states = agent_results[role]
+            intent = states.get('intent', '')
+            emotion = states.get('emotion', '')
+
+            if not intent and not emotion:
+                logger.warning(f"No intent/emotion for {role}, skipping")
+                continue
+
+            # --- Sample n times per agent and average ---
+            n = self.num_action_samples
+            print(f"  {COLOR_INFO}[{role}]{COLOR_RESET} Predicting action (n={n})...")
+            sample_preds: List[AgentPrediction] = []
+            for s_idx in range(n):
+                pred = self._predict_agent_action(role, intent, emotion)
+                if pred:
+                    sample_preds.append(pred)
+
+            if not sample_preds:
+                print(f"  {COLOR_ERROR}✗ {role}: all {n} samples failed{COLOR_RESET}")
+                continue
+
+            if len(sample_preds) == 1:
+                avg_pred = sample_preds[0]
+            else:
+                # Average p_up and log_confidence across samples
+                avg_p_up = sum(p.p_up for p in sample_preds) / len(sample_preds)
+                avg_logconf = sum(p.log_confidence for p in sample_preds) / len(sample_preds)
+                majority_action = 'Buy' if avg_p_up >= 0.5 else 'Sell'
+                avg_pred = AgentPrediction(
+                    agent_role=role,
+                    predicted_action=majority_action,
+                    p_up=avg_p_up,
+                    log_confidence=avg_logconf,
+                    weight=0.0  # will be set by aggregation
+                )
+
+            predictions.append(avg_pred)
+            print(f"  {COLOR_SUCCESS}✓ {role}: {avg_pred.predicted_action} "
+                  f"(p_up={avg_pred.p_up:.3f}, logconf={avg_pred.log_confidence:.3f}, "
+                  f"{len(sample_preds)}/{n} ok){COLOR_RESET}")
+
+        if not predictions:
+            print(f"{COLOR_ERROR}No agent predictions available!{COLOR_RESET}")
+            return ProbabilityResult(0.5, {}, {})
+
+        # Dynamic weighted aggregation
+        p_up, weight_dict = self._dynamic_aggregate(predictions)
+
+        # Build per-agent prediction dict
+        agent_preds = {}
+        for pred in predictions:
+            agent_preds[pred.agent_role] = {
+                'predicted_action': pred.predicted_action,
+                'p_up': pred.p_up,
+                'log_confidence': pred.log_confidence,
+                'weight': pred.weight
+            }
+
+        print(f"\n  {COLOR_VALUE}Aggregated P(up) = {p_up:.4f}{COLOR_RESET}")
+        for role, w in weight_dict.items():
+            print(f"    {role}: weight={w:.3f}")
+
+        return ProbabilityResult(
+            probability=p_up,
+            agent_predictions=agent_preds,
+            weights=weight_dict
+        )

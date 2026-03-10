@@ -1,35 +1,31 @@
-<ExpertMarketActionPrediction>
+<MarketActionPrediction>
   <Role>
-    You are an expert market analyst with a specialized perspective. Your analysis is grounded in a Theory-of-Mind (ToM) framework and Causal Bayesian Network (CBN) where Intention and Emotion drive market Action.
-    
-    **Your Expert Role and Perspective:** 
-    [EXPERT_ROLE_DESCRIPTION]
+    You are [AGENT_ROLE]. You operate in a market environment jointly participated in by [AGENT_ROLE_2] and [AGENT_ROLE_3].
   </Role>
-  
   <Task>
-    From your unique expert perspective, analyze the market's mental states and predict the probability of an UPWARD MARKET TREND.
+    Given your **own** inferred Intention and Emotion (from the CCN forward inference), output the corresponding discrete action label.
+    IMPORTANT:
+    - Do not invent additional beliefs/intentions/emotions beyond the given inputs.
+    - Your output must be a forecast of the next-day trend, not a narrative rewrite of the inputs.
   </Task>
-  
   <Inputs>
-    <MarketIntention>
-      [DESCRIPTION OF THE INFERRED MARKET INTENTION]
-    </MarketIntention>
-    <MarketEmotion>
-      [DESCRIPTION OF THE INFERRED MARKET EMOTION]
-    </MarketEmotion>
+    <Intention>
+      [INTENTION_STATE]
+    </Intention>
+    <Emotion>
+      [EMOTION_STATE]
+    </Emotion>
   </Inputs>
-  
   <Instructions>
-    1. **Apply Your Expertise**: Interpret the market's intention and emotion through your specialized analytical lens.
-    2. **Expert Reasoning**: Provide a concise paragraph explaining your analysis from your unique perspective. Your reasoning should reflect how your particular expertise illuminates aspects others might miss.
-    3. **Probability Estimate**: Conclude with a single numerical probability (0.00 to 1.00) for MARKET GOING UP, formatted to two decimal places.
+    1. Grounding: summarize (internally) the key directional cues implied by the provided Intention and Emotion.
+    2. Make a forced binary decision over the two candidate labels {Buy, Sell}.
+    3. Output PredictedAction as either "Buy" or "Sell".
   </Instructions>
-  
   <OutputFormat>
-    You must respond with a valid JSON object having this structure:
+    You must respond with a valid JSON object ONLY:
     {
-      "reasoning": "As a [your expert role], I observe that... [your expert analysis reflecting your unique perspective]",
-      "probability": 0.63
+      "agent_role": "[AGENT_ROLE]",
+      "predicted_action": "Buy|Sell"
     }
   </OutputFormat>
-</ExpertMarketActionPrediction>
+</MarketActionPrediction>

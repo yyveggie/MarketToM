@@ -1,91 +1,93 @@
 <MarketBackwardInference>
   <Role>
-    You are a Master Behavioral Strategist and System Diagnostician, operating within a Theory-of-Mind (ToM) framework.
-    Your analysis **must be grounded in this Causal Bayesian Network (CBN):
-    - Environmental States -> Belief
-    - Belief -> Intention
-    - Belief + Environmental States -> Emotion
-    - Intention + Emotion -> Action
+    You are a Meta-Cognitive Strategist operating in a market jointly participated in by three heterogeneous agents: [AGENT_ROLE], [AGENT_ROLE_2], and [AGENT_ROLE_3].
+    Your goal is to help the [FAILING_AGENT] improve its CEP strategies.
   </Role>
-  
   <Task>
-    A prediction error occurred: the model predicted [PREDICTED ACTION], but the actual outcome was [ACTUAL ACTION]. Your task is to perform a root cause analysis of this failure by auditing the provided reasoning trajectory against the CBN. Identify the primary flawed step and formulate one high-level, generalizable strategy to enhance the system's reasoning.
+    A prediction error occurred for [FAILING_AGENT].
+    - Failing agent: [FAILING_AGENT]
+    - [FAILING_AGENT] predicted: [PREDICTED_ACTION] (Wrong)
+    - Ground truth: [ACTUAL_ACTION] (Correct)
+
+    Your task is to analyze the full CCN reasoning trace, identify which mental state(s) (Belief, Intention, Emotion) most contributed to the prediction error, and determine the appropriate CEP strategy update(s) for [FAILING_AGENT], by comparing:
+    - the failing agent's trace,
+    - ALL successful peers' traces (can be multiple), and
+    - all retrieved CEP strategies across the three state types.
+
+    For each state type that needs updating, output one update decision: MODIFY the retrieved strategy, or CREATE a new strategy.
   </Task>
-  
   <Inputs>
-    <Belief>
-      <Description>
-        [BELIEF STATE]
-      </Description>
-      <Strategy>
-        [BELIEF STRATEGY]
-      </Strategy>
-      <StrategyID>
-        [BELIEF STRATEGY ID]
-      </StrategyID>
-    </Belief>
-    
-    <Intent>
-      <Description>
-        [INTENTION STATE]
-      </Description>
-      <Strategy>
-        [INTENTION STRATEGY]
-      </Strategy>
-      <StrategyID>
-        [INTENTION STRATEGY ID]
-      </StrategyID>
-    </Intent>
-    
-    <Emotion>
-      <Description>
-        [EMOTION STATE]
-      </Description>
-      <Strategy>
-        [EMOTION STRATEGY]
-      </Strategy>
-      <StrategyID>
-        [EMOTION STRATEGY ID]
-      </StrategyID>
-    </Emotion>
-    
-    <PredictionOutcome>
-      <PredictedAction>
-        [PREDICTED ACTION]
-      </PredictedAction>
-      <ActualAction>
-        [ACTUAL ACTION]
-      </ActualAction>
-    </PredictionOutcome>
-    
-    <EnvironmentalStates>
-      [ENVIRONMENTAL STATE]
-    </EnvironmentalStates>
+    <FailingAgent>
+      <AgentRole>[FAILING_AGENT]</AgentRole>
+      <PredictedAction>[PREDICTED_ACTION]</PredictedAction>
+      <ActualAction>[ACTUAL_ACTION]</ActualAction>
+    </FailingAgent>
+
+    <FailingTrace>
+      <Belief>[FAILING_AGENT_BELIEF]</Belief>
+      <Intention>[FAILING_AGENT_INTENTION]</Intention>
+      <Emotion>[FAILING_AGENT_EMOTION]</Emotion>
+    </FailingTrace>
+
+    <SuccessfulPeers>
+      [SUCCESSFUL_PEERS_BLOCK]
+    </SuccessfulPeers>
+
+    <RetrievedCEPStrategies>
+      <BeliefStrategy>
+        <StrategyID>[BELIEF_STRATEGY_ID]</StrategyID>
+        <StrategyContent>[BELIEF_STRATEGY_CONTENT]</StrategyContent>
+      </BeliefStrategy>
+      <IntentionStrategy>
+        <StrategyID>[INTENTION_STRATEGY_ID]</StrategyID>
+        <StrategyContent>[INTENTION_STRATEGY_CONTENT]</StrategyContent>
+      </IntentionStrategy>
+      <EmotionStrategy>
+        <StrategyID>[EMOTION_STRATEGY_ID]</StrategyID>
+        <StrategyContent>[EMOTION_STRATEGY_CONTENT]</StrategyContent>
+      </EmotionStrategy>
+    </RetrievedCEPStrategies>
   </Inputs>
-  
-  <InternalThoughtProcess>
-    1. Causal Chain Review: Systematically review the logic from Belief to Intent to Emotion, as outlined previously.
-    2. Pinpoint Primary Failure: After reviewing the entire chain, explicitly determine which single step (Belief, Intent, or Emotion) was the root cause of the prediction error. The final error likely cascaded from one initial flawed inference.
-    3. Formulate Corrective Strategy:
-       - Focus all your effort on correcting the identified primary failure point.
-       - Decide whether to CREATE a new strategy or MODIFY the existing one (using its ID if available).
-       - Crucially, the new content should be a timeless, generalizable principle or heuristic. It should capture a deeper truth about market behavior, framed as an abstract rule that avoids specifics of this single event.
-  </InternalThoughtProcess>
-  
+  <Instructions>
+    1. Diagnose the error:
+       - Compare ALL three retrieved strategies (Belief, Intention, Emotion) with the failing trace and ALL successful peers' traces.
+       - Identify which state type(s) most contributed to the prediction error (e.g., missing condition, wrong cue weighting, missing ToM cues, etc.).
+
+    2. For each identified state type, decide the update action:
+       - MODIFY if the retrieved strategy is mostly correct but needs correction/refinement.
+       - CREATE if the retrieved strategy is not applicable to the current context and a new rule is needed.
+
+    3. Output updated strategy(ies) that will be stored in CEP:
+       - Each strategy must explicitly include ToM components about the other agents.
+         You must provide (a) the concrete mental state, (b) the concrete agent it refers to, and (c) the ToM order (1st or 2nd).
+  </Instructions>
   <OutputFormat>
-    You must respond with a valid JSON object having this structure:
+    You must respond with a valid JSON object ONLY (no extra text):
     {
-      "strategy updates": [
+      "failing_agent": "[FAILING_AGENT]",
+      "peer_insight": "What successful peers captured that the failing agent missed.",
+      "strategy_updates": [
         {
-          "level": "belief", // Must be one of: "belief", "intent", "emotion" (never "action")
-          "decision type": "CREATE",
-          "content": "When environmental states indicate X, the market belief is more likely to be Y because..."
-        },
-        {
-          "level": "intent", // Must be one of: "belief", "intent", "emotion" (never "action")
-          "decision type": "MODIFY",
-          "original id": "intent 20250723155015 0001", // ONLY include this if you know the exact ID; DO NOT guess or make up IDs
-          "content": "When the market belief is A, the resulting intention should be B, considering..."
+          "target_state_type": "Belief|Intention|Emotion",
+          "decision_type": "MODIFY|CREATE",
+          "target_strategy_id": "[TARGET_STRATEGY_ID]",
+          "updated_strategy_content": "A single strategy text to store in CEP for (FAILING_AGENT, target_state_type).",
+          "tom_components": [
+            {
+              "tom_order": 1,
+              "agent_role": "[AGENT_ROLE_2]",
+              "state_type": "Belief|Intention|Emotion",
+              "mental_state": "A concrete first-order mental state description about this agent."
+            },
+            {
+              "tom_order": 2,
+              "belief_holder_agent_role": "[AGENT_ROLE_2]",
+              "belief_about_agent_role": "[AGENT_ROLE_3]",
+              "state_type": "Belief|Intention|Emotion",
+              "mental_state": "A concrete second-order mental state: what the holder agent believes about the other agent."
+            }
+          ],
+          "justification": "Why MODIFY vs CREATE and what exactly was changed; ground in failing trace, successful peers, and CCN consistency."
         }
       ]
     }
