@@ -63,7 +63,7 @@ logger = logging.getLogger('MarketToM')
 def parse_args():
     parser = argparse.ArgumentParser(description='MarketToM — Multi-Agent Market Theory of Mind')
     parser.add_argument('--preset', type=str, default=None,
-                        help='Ablation preset name (e.g. LLM-only, MarketToM-1st, MarketToM-T0.7-n10-k1)')
+                        help='Ablation preset name (e.g. LLM-only, MarketToM-1st, MarketToM-T0)')
     parser.add_argument('--list-presets', action='store_true',
                         help='List all available ablation presets and exit')
     return parser.parse_args()
@@ -160,10 +160,8 @@ def main():
                 # Fall back to top-level ablation defaults for display
                 mode = ab.get('mode', top_ablation.get('mode', 'full'))
                 tom = ab.get('tom_order', top_ablation.get('tom_order', 2))
-                n = ab.get('num_action_samples', top_ablation.get('num_action_samples', 10))
                 T = p.get('forward_inference_params', {}).get('llm_temperature', '—')
-                k = p.get('cep_retrieval', {}).get('default_top_k', '—')
-                print(f"  {name:30s}  mode={mode}, tom={tom}, T={T}, n={n}, k={k}")
+                print(f"  {name:30s}  mode={mode}, tom={tom}, T={T}")
                 if desc:
                     print(f"    {'':30s}  {desc}")
             print()

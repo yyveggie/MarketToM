@@ -49,82 +49,40 @@
     "_dimensions": {
       "mode":   ["full", "llm_only", "no_cep"],
       "tom_order": [1, 2],
-      "T (temperature)": [0, 0.7, 1.5],
-      "n (num_action_samples)": [1, 10, 20],
-      "k (cep_top_k)": [1, 3, 5]
+      "T (temperature)": [0, 0.7, 1.5]
     },
     "presets": {
       "LLM-only": {
         "_description": "Raw LLM zero-shot prediction, no CCN / CEP / ToM",
-        "ablation": { "mode": "llm_only", "cep_enabled": false, "backward_enabled": false, "num_action_samples": 1 },
-        "forward_inference_params": { "llm_temperature": 0.7 },
-        "cep_retrieval": { "default_top_k": 1 }
+        "ablation": { "mode": "llm_only", "cep_enabled": false, "backward_enabled": false },
+        "forward_inference_params": { "llm_temperature": 0.7 }
       },
       "MarketToM-NoCEP": {
         "_description": "CCN + ToM reasoning, but no CEP retrieval or backward learning",
-        "ablation": { "mode": "no_cep", "cep_enabled": false, "backward_enabled": false, "num_action_samples": 10 },
-        "forward_inference_params": { "llm_temperature": 0.7 },
-        "cep_retrieval": { "default_top_k": 1 }
+        "ablation": { "mode": "no_cep", "cep_enabled": false, "backward_enabled": false },
+        "forward_inference_params": { "llm_temperature": 0.7 }
       },
       "MarketToM-1st": {
         "_description": "First-order ToM + CEP (second-order reasoning disabled)",
-        "ablation": { "mode": "full", "tom_order": 1, "num_action_samples": 10 },
-        "forward_inference_params": { "llm_temperature": 0.7 },
-        "cep_retrieval": { "default_top_k": 1 }
+        "ablation": { "mode": "full", "tom_order": 1 },
+        "forward_inference_params": { "llm_temperature": 0.7 }
       },
       "MarketToM-2nd": {
         "_description": "Full MarketToM (second-order ToM + CEP) — default",
-        "ablation": { "mode": "full", "tom_order": 2, "num_action_samples": 10 },
-        "forward_inference_params": { "llm_temperature": 0.7 },
-        "cep_retrieval": { "default_top_k": 1 }
+        "ablation": { "mode": "full", "tom_order": 2 },
+        "forward_inference_params": { "llm_temperature": 0.7 }
       },
-      "MarketToM-T0-n1-k1": {
-        "_description": "Temperature sensitivity: T=0, n=1, k=1",
-        "ablation": { "num_action_samples": 1 },
-        "forward_inference_params": { "llm_temperature": 0 },
-        "cep_retrieval": { "default_top_k": 1 }
+      "MarketToM-T0": {
+        "_description": "Temperature sensitivity: T=0 (deterministic reasoning)",
+        "forward_inference_params": { "llm_temperature": 0 }
       },
-      "MarketToM-T0-n10-k1": {
-        "_description": "Temperature sensitivity: T=0, n=10, k=1",
-        "ablation": { "num_action_samples": 10 },
-        "forward_inference_params": { "llm_temperature": 0 },
-        "cep_retrieval": { "default_top_k": 1 }
+      "MarketToM-T0.7": {
+        "_description": "Temperature sensitivity: T=0.7 (optimal, same as default)",
+        "forward_inference_params": { "llm_temperature": 0.7 }
       },
-      "MarketToM-T0.7-n1-k1": {
-        "_description": "Sample count sensitivity: T=0.7, n=1, k=1",
-        "ablation": { "num_action_samples": 1 },
-        "forward_inference_params": { "llm_temperature": 0.7 },
-        "cep_retrieval": { "default_top_k": 1 }
-      },
-      "MarketToM-T0.7-n10-k1": {
-        "_description": "Optimal combination: T=0.7, n=10, k=1 (= MarketToM-2nd)",
-        "ablation": { "num_action_samples": 10 },
-        "forward_inference_params": { "llm_temperature": 0.7 },
-        "cep_retrieval": { "default_top_k": 1 }
-      },
-      "MarketToM-T0.7-n20-k1": {
-        "_description": "Sample count sensitivity: T=0.7, n=20, k=1",
-        "ablation": { "num_action_samples": 20 },
-        "forward_inference_params": { "llm_temperature": 0.7 },
-        "cep_retrieval": { "default_top_k": 1 }
-      },
-      "MarketToM-T1.5-n10-k1": {
-        "_description": "Temperature sensitivity: T=1.5, n=10, k=1",
-        "ablation": { "num_action_samples": 10 },
-        "forward_inference_params": { "llm_temperature": 1.5 },
-        "cep_retrieval": { "default_top_k": 1 }
-      },
-      "MarketToM-T0.7-n10-k3": {
-        "_description": "CEP retrieval depth: T=0.7, n=10, k=3",
-        "ablation": { "num_action_samples": 10 },
-        "forward_inference_params": { "llm_temperature": 0.7 },
-        "cep_retrieval": { "default_top_k": 3 }
-      },
-      "MarketToM-T0.7-n10-k5": {
-        "_description": "CEP retrieval depth: T=0.7, n=10, k=5",
-        "ablation": { "num_action_samples": 10 },
-        "forward_inference_params": { "llm_temperature": 0.7 },
-        "cep_retrieval": { "default_top_k": 5 }
+      "MarketToM-T1.5": {
+        "_description": "Temperature sensitivity: T=1.5 (high randomness)",
+        "forward_inference_params": { "llm_temperature": 1.5 }
       }
     }
   },

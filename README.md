@@ -1,9 +1,9 @@
-# MarketToM: Heterogeneous Multi-Agent Market Theory of Mind
+# MarketToM: A Theory of Mind Framework for Modeling Latent Mental States in Stock Trend Prediction
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
-> Implementation of *"MarketToM: Mining Latent Market Mental States via Heterogeneous Multi-Agent Theory of Mind for Stock Trend Prediction"* (under review).
+> Implementation of *"MarketToM: A Theory of Mind Framework for Modeling Latent Mental States in Stock Trend Prediction"* (under review).
 
 ## Overview
 
@@ -78,7 +78,7 @@ cd web && python app.py
 
 ### Ablation Presets
 
-All 12 ablation variants from the paper are built into `config.json`. Use `--preset` to switch:
+All 7 ablation variants from the paper are built into `config.json`. Use `--preset` to switch:
 
 ```bash
 # List all available presets
@@ -94,20 +94,15 @@ python run.py --list-presets
 | `MarketToM-1st` | First-order ToM + CEP | `python run.py --preset MarketToM-1st` |
 | `MarketToM-2nd` | **Full system** (2nd-order ToM + CEP) | `python run.py --preset MarketToM-2nd` |
 
-**Part 2 — Sensitivity Analysis** (Table 4 in paper):
+**Part 2 — Temperature Sensitivity** (Figure 6 in paper):
 
-| Preset | T | n | k | Command |
-|--------|---|---|---|---------|
-| `MarketToM-T0-n1-k1` | 0 | 1 | 1 | `python run.py --preset MarketToM-T0-n1-k1` |
-| `MarketToM-T0-n10-k1` | 0 | 10 | 1 | `python run.py --preset MarketToM-T0-n10-k1` |
-| `MarketToM-T0.7-n1-k1` | 0.7 | 1 | 1 | `python run.py --preset MarketToM-T0.7-n1-k1` |
-| `MarketToM-T0.7-n10-k1` | 0.7 | 10 | 1 | `python run.py --preset MarketToM-T0.7-n10-k1` |
-| `MarketToM-T0.7-n20-k1` | 0.7 | 20 | 1 | `python run.py --preset MarketToM-T0.7-n20-k1` |
-| `MarketToM-T1.5-n10-k1` | 1.5 | 10 | 1 | `python run.py --preset MarketToM-T1.5-n10-k1` |
-| `MarketToM-T0.7-n10-k3` | 0.7 | 10 | 3 | `python run.py --preset MarketToM-T0.7-n10-k3` |
-| `MarketToM-T0.7-n10-k5` | 0.7 | 10 | 5 | `python run.py --preset MarketToM-T0.7-n10-k5` |
+| Preset | T | Description | Command |
+|--------|---|-------------|---------|
+| `MarketToM-T0` | 0 | Deterministic reasoning | `python run.py --preset MarketToM-T0` |
+| `MarketToM-T0.7` | 0.7 | Optimal (= default) | `python run.py --preset MarketToM-T0.7` |
+| `MarketToM-T1.5` | 1.5 | High randomness | `python run.py --preset MarketToM-T1.5` |
 
-Where **T** = LLM temperature, **n** = action samples per agent, **k** = CEP top-k retrieval depth.
+Where **T** = LLM generation temperature.
 
 ### Switching Datasets
 
@@ -127,9 +122,7 @@ Available datasets: `StockNet`, `CMIN_US`, `CMIN_CN`.
 
 ```bash
 for preset in LLM-only MarketToM-NoCEP MarketToM-1st MarketToM-2nd \
-              MarketToM-T0-n1-k1 MarketToM-T0-n10-k1 \
-              MarketToM-T0.7-n1-k1 MarketToM-T0.7-n10-k1 MarketToM-T0.7-n20-k1 \
-              MarketToM-T1.5-n10-k1 MarketToM-T0.7-n10-k3 MarketToM-T0.7-n10-k5; do
+              MarketToM-T0 MarketToM-T0.7 MarketToM-T1.5; do
     echo "===== Running $preset ====="
     python run.py --preset "$preset"
 done
@@ -147,14 +140,12 @@ Alternatively, edit the `ablation` block in `config.json` directly:
     "mode": "full",           // full | llm_only | no_cep
     "tom_order": 2,           // 1 = first-order, 2 = second-order
     "cep_enabled": true,
-    "backward_enabled": true,
-    "num_action_samples": 10  // n: samples per agent
+    "backward_enabled": true
 }
 ```
 
-And adjust related sections as needed:
+And adjust temperature as needed:
 - `forward_inference_params.llm_temperature` → T
-- `cep_retrieval.default_top_k` → k
 
 ## Web Interface
 
@@ -191,7 +182,7 @@ Output saved to `storage/visualizations/`.
 ```
 MarketToM/
 ├── run.py                       # Main entry (Algorithm 2), --preset support
-├── config.json                  # All config + 12 ablation presets
+├── config.json                  # All config + 7 ablation presets
 ├── core/
 │   ├── forward_inference.py     # Multi-agent CCN + 2nd-order ToM
 │   ├── calculate_action_prob.py # Per-agent prediction + dynamic aggregation
@@ -230,7 +221,6 @@ Each stock folder contains:
 - **Dynamic Weighted Aggregation**: $W_k = \text{Softmax}\left(\frac{\alpha A_k + \gamma C_k}{T}\right)$
 - **Per-Agent CEP**: Adaptive strategy database with similarity-based retrieval
 - **Inter-Agent Backward Learning**: Error-driven strategy refinement across agents
-- **n-Sample Action Prediction**: Repeated LLM sampling per agent for robust probability estimates
 
 ## License
 
