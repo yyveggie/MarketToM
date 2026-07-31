@@ -1,12 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Cognitive Enhancement Plugin (CEP) — Per-Agent Strategy Database.
-
-Each heterogeneous agent (Retail, Institutional, Arbitrageur) maintains
-its own strategy library  D_{s,k} keyed by (agent_role, state_type).
-The plugin handles strategy CRUD (insert, update, retrieve, get_by_id)
-and stores/loads strategies to disk per agent.
-"""
 import json
 import os
 import logging
@@ -40,7 +32,6 @@ DEFAULT_AGENT_ROLES = ["Retail", "Institutional", "Arbitrageur"]
 
 @dataclass
 class StrategyData:
-    """Strategy data structure with agent role affiliation."""
     level: str
     states_scenario: Dict[str, str]
     strategy: str
@@ -102,16 +93,6 @@ class StrategyData:
 
 
 class CognitiveEnhancementPlugin:
-    """Per-agent CEP strategy database.
-    
-    Storage layout:
-        strategy_db[agent_role][level] = [strategy_dict, ...]
-    
-    On disk:
-        storage_path/<agent_role>/<level>_strategies.json
-    
-    Falls back to _global when agent_role is None.
-    """
 
     VALID_LEVELS = {"belief", "intent", "emotion"}
 
@@ -161,7 +142,6 @@ class CognitiveEnhancementPlugin:
         return os.path.join(role_dir, f"{level}_strategies.json")
 
     def _load_strategies(self):
-        """Load strategies from disk for all agent roles."""
         # Load per-agent strategies
         for role in self.agent_roles + ["_global"]:
             for level in self.VALID_LEVELS:
@@ -199,7 +179,6 @@ class CognitiveEnhancementPlugin:
                     logger.error(f"Error loading legacy {legacy_path}: {e}")
 
     def _save_strategies(self, level: str, agent_role: str = None):
-        """Save strategies to disk for a specific agent/level."""
         role = self._resolve_role(agent_role)
         filepath = self._get_storage_path(level, role)
         strategies = self.strategy_db.get(role, {}).get(level, [])
@@ -218,7 +197,6 @@ class CognitiveEnhancementPlugin:
 
     def get_strategy_by_id(self, level: str, strategy_id: str,
                            agent_role: str = None) -> Optional[dict]:
-        """Retrieve a strategy by its ID."""
         if not strategy_id:
             return None
 
@@ -244,7 +222,6 @@ class CognitiveEnhancementPlugin:
 
     def insert_strategy(self, level: str, states_scenario: Dict[str, str],
                         strategy_content: str, agent_role: str = None) -> Optional[str]:
-        """Insert a new strategy for a specific agent and level."""
         if level not in self.VALID_LEVELS:
             logger.error(f"Invalid level: {level}")
             return None
@@ -271,7 +248,6 @@ class CognitiveEnhancementPlugin:
 
     def update_strategy(self, level: str, strategy_id: str,
                         new_content: str, agent_role: str = None) -> Optional[str]:
-        """Update an existing strategy's content."""
         role = self._resolve_role(agent_role)
         strategies = self.strategy_db.get(role, {}).get(level, [])
 
@@ -301,7 +277,6 @@ class CognitiveEnhancementPlugin:
                             agent_role: str = None,
                             top_k: int = 1,
                             similarity_threshold: float = 0.1) -> List[dict]:
-        """Retrieve top-K most relevant strategies by semantic similarity."""
         if level not in self.VALID_LEVELS:
             return []
 

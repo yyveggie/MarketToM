@@ -1,13 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Multi-Agent Forward Inference with Theory of Mind.
-
-Three heterogeneous agents (Retail, Institutional, Arbitrageur) each
-independently traverse the CCN:
-    ES → Belief → Intention
-    ES + Belief → Emotion
-Each step uses first- and second-order ToM about the other two agents.
-"""
 import os
 import json
 import time
@@ -74,7 +65,6 @@ MAX_JITTER = 1.0
 
 # ---------- Pydantic response model ----------
 class AgentMentalStateResponse(BaseModel):
-    """Expected JSON output from the forward inference prompt."""
     agent_role: str = Field(...)
     state_type: str = Field(...)
     description: str = Field(..., description="Inferred mental state description")
@@ -99,7 +89,6 @@ def rate_limit_api_call(func):
 
 # ---------- Data logger ----------
 class DataLogger:
-    """Saves multi-agent inference logs to disk."""
 
     def __init__(self, log_dir_abs_path: str):
         self.log_dir = log_dir_abs_path
@@ -111,14 +100,19 @@ class DataLogger:
                        agent_results: Dict[str, Dict[str, str]],
                        strategies_used: Dict[str, Dict[str, List[str]]],
                        # Legacy compat
-                       mental_states: Dict[str, str] = None) -> str:
-        """Save multi-agent inference result. Returns filename."""
+                       mental_states: Dict[str, str] = None,
+                       run_metadata: Dict[str, object] = None) -> str:
         log_entry = {
             "timestamp": timestamp.isoformat(),
             "environmental_state": env_state,
             "agent_results": agent_results,
             "strategies_used": strategies_used,
         }
+        # Records which backbone and configuration produced this trace, so that
+        # downstream analyses (e.g. cross-LLM consistency) can verify provenance
+        # instead of assuming the config has not changed since the run.
+        if run_metadata:
+            log_entry["run_metadata"] = run_metadata
         # Keep legacy field for backward compat
         if mental_states:
             log_entry["mental_states"] = mental_states
@@ -159,7 +153,6 @@ class AgentTrace:
 
 # ---------- Main inference class ----------
 class MentalStateInference:
-    """Multi-agent CCN forward inference with ToM."""
 
     def __init__(self,
                  cep: CognitiveEnhancementPlugin,
@@ -177,7 +170,9 @@ class MentalStateInference:
                  llm_temperature: float = 0.7,
                  agent_roles: List[str] = None,
                  tom_order: int = 2,
-                 cep_enabled: bool = True):
+                 cep_enabled: bool = True,
+                 ccn_dependency_variant: str = "full",
+                 llm_extra_body: Optional[dict] = None):
 
         self.cep = cep
         self.data_logger = logger
@@ -192,6 +187,8 @@ class MentalStateInference:
         self.agent_roles = agent_roles or DEFAULT_AGENT_ROLES
         self.tom_order = tom_order
         self.cep_enabled = cep_enabled
+        self.ccn_dependency_variant = ccn_dependency_variant
+        self.llm_extra_body = llm_extra_body
 
         self.threshold_map = {
             "belief": belief_similarity_threshold,
@@ -200,6 +197,19 @@ class MentalStateInference:
         }
 
     # ----- helpers -----
+    def run_metadata(self) -> Dict[str, object]:
+        """Configuration provenance stored alongside every inference log."""
+        return {
+            "llm_model": self.llm_model,
+            "llm_temperature": self.llm_temperature,
+            "agent_roles": list(self.agent_roles),
+            "tom_order": self.tom_order,
+            "cep_enabled": self.cep_enabled,
+            "cep_top_k": self.default_top_k,
+            "ccn_dependency_variant": self.ccn_dependency_variant,
+            "forward_template": os.path.basename(self.template_file_abs_path),
+        }
+
     def _load_template(self) -> str:
         with open(self.template_file_abs_path, 'r', encoding='utf-8') as f:
             return f.read()
@@ -210,7 +220,6 @@ class MentalStateInference:
 
     def _retrieve_strategies(self, state_type: str, query_scenario: Dict[str, str],
                              agent_role: str) -> Tuple[str, List[str]]:
-        """Retrieve CEP strategies for a specific agent and state type."""
         if not self.cep_enabled:
             return "No strategy (CEP disabled).", []
         threshold = self.threshold_map.get(state_type, self.similarity_threshold)
@@ -231,7 +240,6 @@ class MentalStateInference:
     def _build_prompt(self, agent_role: str, state_type: str,
                       env_state: str, belief_state: str,
                       strategy_id: str, strategy_content: str) -> str:
-        """Build the forward inference prompt from the template."""
         template = self._load_template()
         role2, role3 = self._get_other_roles(agent_role)
 
@@ -245,13 +253,19 @@ class MentalStateInference:
         prompt = prompt.replace('[STRATEGY_ID]', strategy_id or "None")
         prompt = prompt.replace('[STRATEGY_CONTENT]', strategy_content or "No strategy.")
 
-        # --- ToM order control for ablation ---
         if self.tom_order < 2:
-            # Downgrade to first-order only: remove second-order reasoning instructions
+            prompt = prompt.replace(
+                "IMPORTANT: You MUST explicitly consider both first-order and second-order ToM about other groups (internally).",
+                "IMPORTANT: You MUST explicitly consider first-order ToM about other groups (internally)."
+            )
+            prompt = prompt.replace(
+                f"Based on first- and second-order Theory-of-Mind reasoning regarding {role2} and {role3},",
+                f"Based on first-order Theory-of-Mind reasoning regarding {role2} and {role3},"
+            )
             prompt = prompt.replace(
                 f"2. Consider second-order ToM: what would {role2} and {role3} "
                 f"believe about each other's (and your) relevant states?",
-                f"2. (Second-order ToM disabled in this ablation configuration.)"
+                f"2. (Higher-order peer-belief reasoning is not used in this configuration.)"
             )
 
         return prompt
@@ -259,15 +273,17 @@ class MentalStateInference:
     @rate_limit_api_call
     def _infer_state(self, prompt: str, state_type: str,
                      agent_role: str) -> Optional[str]:
-        """Call LLM to infer a mental state."""
         for attempt in range(self.max_retries):
             try:
-                response = self.llm_client.chat.completions.create(
-                    model=self.llm_model,
-                    messages=[{"role": "system", "content": prompt}],
-                    temperature=self.llm_temperature,
-                    response_format={"type": "json_object"}
-                )
+                request_kwargs = {
+                    "model": self.llm_model,
+                    "messages": [{"role": "system", "content": prompt}],
+                    "temperature": self.llm_temperature,
+                    "response_format": {"type": "json_object"},
+                }
+                if self.llm_extra_body:
+                    request_kwargs["extra_body"] = self.llm_extra_body
+                response = self.llm_client.chat.completions.create(**request_kwargs)
                 raw = response.choices[0].message.content.strip()
                 data = json.loads(raw)
                 parsed = AgentMentalStateResponse.model_validate(data)
@@ -280,15 +296,16 @@ class MentalStateInference:
                 time.sleep(delay)
         return None
 
-    def infer_agent_trace(self, agent_role: str, env_state: str) -> AgentTrace:
-        """Run full CCN for one agent: ES→Belief→Intention, ES+Belief→Emotion."""
+    def infer_agent_trace(self, agent_role: str, env_state: str, belief_env_state: str = None) -> AgentTrace:
         trace = AgentTrace(agent_role=agent_role)
+        if belief_env_state is None:
+            belief_env_state = env_state
 
         # --- Belief ---
         print(f"  {COLOR_PHASE}[{agent_role}]{COLOR_RESET} Inferring belief...")
-        query_scenario = {"environmental": env_state}
+        query_scenario = {"environmental": belief_env_state}
         strat_text, strat_ids = self._retrieve_strategies("belief", query_scenario, agent_role)
-        prompt = self._build_prompt(agent_role, "Belief", env_state, "N/A",
+        prompt = self._build_prompt(agent_role, "Belief", belief_env_state, "N/A",
                                     strat_ids[0] if strat_ids else "None", strat_text)
         belief = self._infer_state(prompt, "belief", agent_role)
         if belief:
@@ -300,9 +317,10 @@ class MentalStateInference:
 
         # --- Intention ---
         print(f"  {COLOR_PHASE}[{agent_role}]{COLOR_RESET} Inferring intention...")
-        query_scenario = {"belief": trace.belief}
+        intent_parent_belief = "N/A" if self.ccn_dependency_variant == "no_belief_to_intent" else trace.belief
+        query_scenario = {"belief": intent_parent_belief}
         strat_text, strat_ids = self._retrieve_strategies("intent", query_scenario, agent_role)
-        prompt = self._build_prompt(agent_role, "Intention", env_state, trace.belief,
+        prompt = self._build_prompt(agent_role, "Intention", env_state, intent_parent_belief,
                                     strat_ids[0] if strat_ids else "None", strat_text)
         intent = self._infer_state(prompt, "intent", agent_role)
         if intent:
@@ -314,9 +332,10 @@ class MentalStateInference:
 
         # --- Emotion ---
         print(f"  {COLOR_PHASE}[{agent_role}]{COLOR_RESET} Inferring emotion...")
-        query_scenario = {"belief": trace.belief, "environmental": env_state}
+        emotion_parent_belief = "N/A" if self.ccn_dependency_variant == "no_belief_to_emotion" else trace.belief
+        query_scenario = {"belief": emotion_parent_belief, "environmental": env_state}
         strat_text, strat_ids = self._retrieve_strategies("emotion", query_scenario, agent_role)
-        prompt = self._build_prompt(agent_role, "Emotion", env_state, trace.belief,
+        prompt = self._build_prompt(agent_role, "Emotion", env_state, emotion_parent_belief,
                                     strat_ids[0] if strat_ids else "None", strat_text)
         emotion = self._infer_state(prompt, "emotion", agent_role)
         if emotion:
@@ -328,13 +347,7 @@ class MentalStateInference:
 
         return trace
 
-    def forward_inference(self, env_state: str) -> Tuple[Dict[str, Dict], str]:
-        """Run multi-agent forward inference.
-        
-        Returns:
-            (agent_results, filename)
-            agent_results = {role: {belief, intent, emotion}}
-        """
+    def forward_inference(self, env_state: str, belief_env_state: str = None) -> Tuple[Dict[str, Dict], str]:
         print(f"\n{COLOR_TITLE}=== MULTI-AGENT FORWARD INFERENCE ==={COLOR_RESET}")
         timestamp = datetime.now()
 
@@ -343,7 +356,7 @@ class MentalStateInference:
 
         for role in self.agent_roles:
             print(f"\n{COLOR_INFO}--- Agent: {role} ---{COLOR_RESET}")
-            trace = self.infer_agent_trace(role, env_state)
+            trace = self.infer_agent_trace(role, env_state, belief_env_state)
             agent_results[role] = trace.to_dict()
             strategies_used[role] = trace.strategies_dict()
 
@@ -352,7 +365,8 @@ class MentalStateInference:
             timestamp=timestamp,
             env_state=env_state,
             agent_results=agent_results,
-            strategies_used=strategies_used
+            strategies_used=strategies_used,
+            run_metadata=self.run_metadata()
         )
 
         print(f"\n{COLOR_SUCCESS}✅ Forward inference complete for {len(self.agent_roles)} agents{COLOR_RESET}")

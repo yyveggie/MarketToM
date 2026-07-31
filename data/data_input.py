@@ -7,13 +7,11 @@ import logging
 import re
 
 def normalize_text(text: str) -> str:
-    """Normalize text by replacing newlines and multiple spaces with single space"""
     text = text.replace('\n', ' ')
     text = ' '.join(text.split())
     return text.strip()
 
 def process_tweets(tweets: Dict) -> Dict:
-    """Process tweets while maintaining the original structure"""
     processed_tweets = {}
     for tweet_id, tweet_data in tweets.items():
         content = tweet_data.get('content', '')
@@ -25,7 +23,6 @@ def process_tweets(tweets: Dict) -> Dict:
     return processed_tweets
 
 def read_json_file(file_path: str, logger) -> Dict:
-    """Read and parse a JSON file"""
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             return json.load(f)
@@ -34,13 +31,11 @@ def read_json_file(file_path: str, logger) -> Dict:
         raise
 
 def format_day_number(day_str: str) -> str:
-    """Format day number with leading zeros"""
     number = re.search(r'\d+', day_str).group()
     formatted_number = number.zfill(3)
     return f"day{formatted_number}"
 
 def validate_days_match(text_days: set, price_days: set, label_days: set, stock: str, logger):
-    """Validate that all three files have matching days"""
     if not (text_days == price_days == label_days):
         logger.error(f"Days don't match for stock {stock}")
         logger.error(f"Text days: {text_days}")
@@ -49,7 +44,6 @@ def validate_days_match(text_days: set, price_days: set, label_days: set, stock:
         raise ValueError(f"Days don't match for stock {stock}")
 
 def process_stock_data(stock_dir: str, logger) -> Tuple[Dict, np.ndarray, np.ndarray]:
-    """Process data for a single stock directory"""
     text_path = os.path.join(stock_dir, 'text_data.json')
     price_path = os.path.join(stock_dir, 'price_data.json')
     labels_path = os.path.join(stock_dir, 'labels.json')
@@ -97,19 +91,6 @@ def process_stock_data(stock_dir: str, logger) -> Tuple[Dict, np.ndarray, np.nda
     return formatted_text_data, price_array, labels_array
 
 def load_stock_data(base_dir: str, stock_folders: list) -> Tuple[Dict[str, Dict], np.ndarray, np.ndarray]:
-    """
-    Load and process stock data from specified directory and stock folders.
-    
-    Args:
-        base_dir (str): Base directory containing the stock data
-        stock_folders (list): List of stock folder names to process
-    
-    Returns:
-        Tuple containing:
-        - Dict: Text data with tweets
-        - np.ndarray: Price data array
-        - np.ndarray: Labels array
-    """
     logging.basicConfig(level=logging.INFO,
                        format='%(asctime)s - %(levelname)s - %(message)s')
     logger = logging.getLogger(__name__)
@@ -153,7 +134,6 @@ def load_stock_data(base_dir: str, stock_folders: list) -> Tuple[Dict[str, Dict]
     return all_text_data, combined_price_data, combined_labels
 
 def debug_days_match(base_dir: str, stock: str):
-    """Debug function to check day matching across text, price, and label data."""
     import os
     import json
 

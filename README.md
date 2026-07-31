@@ -177,30 +177,6 @@ python visualization/visualize_latest_inference.py
 
 Output saved to `storage/visualizations/`.
 
-## Project Structure
-
-```
-MarketToM/
-├── run.py                       # Main entry (Algorithm 2), --preset support
-├── config.json                  # All config + 7 ablation presets
-├── core/
-│   ├── forward_inference.py     # Multi-agent CCN + 2nd-order ToM
-│   ├── calculate_action_prob.py # Per-agent prediction + dynamic aggregation
-│   ├── backward_inference.py    # Inter-agent backward learning
-│   └── cep.py                   # Per-agent Cognitive Enhancement Plugin
-├── data/                        # StockNet, CMIN-US, CMIN-CN datasets
-├── templates/                   # XML prompt templates (forward/backward/action)
-├── visualization/               # Multi-agent Graphviz visualiser
-├── web/                         # Web interface
-├── generalization/              # Text masking & cross-market tools
-├── evaluation/                  # Evaluation metrics
-└── storage/
-    ├── inference_logs/          # Per-sample forward inference logs
-    ├── backward_inference_logs/ # Backward learning logs
-    ├── strategy_database/       # Per-agent CEP strategy stores
-    └── visualizations/          # Generated graph images
-```
-
 ## Datasets
 
 | Dataset | Market | Period | Stocks | Instances |

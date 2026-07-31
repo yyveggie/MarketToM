@@ -245,6 +245,19 @@ function extractMentalStateDescription(state) {
     return state;
 }
 
+function escapeHtml(value) {
+    return String(value ?? '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
+}
+
+function formatTextWithLineBreaks(value) {
+    return escapeHtml(value).replace(/\n/g, '<br>');
+}
+
 // Display results
 function displayResults(results) {
     console.log('Results:', results);
@@ -281,9 +294,12 @@ function displayResults(results) {
     document.getElementById('confidence-score').textContent = confidence + '%';
     
     // Mental states - extract description from JSON if needed
-    document.getElementById('belief-content').textContent = extractMentalStateDescription(results.mental_states.belief);
-    document.getElementById('intent-content').textContent = extractMentalStateDescription(results.mental_states.intent);
-    document.getElementById('emotion-content').textContent = extractMentalStateDescription(results.mental_states.emotion);
+    document.getElementById('belief-content').innerHTML =
+        formatTextWithLineBreaks(extractMentalStateDescription(results.mental_states.belief));
+    document.getElementById('intent-content').innerHTML =
+        formatTextWithLineBreaks(extractMentalStateDescription(results.mental_states.intent));
+    document.getElementById('emotion-content').innerHTML =
+        formatTextWithLineBreaks(extractMentalStateDescription(results.mental_states.emotion));
     
     // Retrieved strategies
     if (results.retrieved_strategies && Object.keys(results.retrieved_strategies).length > 0) {
@@ -331,22 +347,67 @@ function displayStrategies(strategies) {
 // Display backward inference results
 function displayBackwardInference(backward) {
     const container = document.getElementById('backward-content');
-    container.innerHTML = '';
-    
-    if (backward.updates) {
-        backward.updates.forEach((update, index) => {
-            const div = document.createElement('div');
-            div.className = 'backward-action';
-            div.innerHTML = `
-                <h5>Update #${index + 1}: ${update.action || 'N/A'}</h5>
-                <p><strong>Type:</strong> ${update.state_type || 'N/A'}</p>
-                <p><strong>Content:</strong> ${update.content || update.strategy || 'N/A'}</p>
-            `;
-            container.appendChild(div);
-        });
-    } else {
-        container.innerHTML = '<p>No strategy updates</p>';
+    container.innerHTML = renderBackwardResult(backward);
+}
+
+function renderBackwardResult(backward) {
+    if (!backward) {
+        return '<p>No strategy updates</p>';
     }
+
+    if (typeof backward === 'string') {
+        return `<p style="color: #1e293b; line-height: 1.6; padding: 12px;">${formatTextWithLineBreaks(backward)}</p>`;
+    }
+
+    if (backward.updates && Array.isArray(backward.updates)) {
+        return backward.updates.map((update, index) => `
+            <div class="backward-action">
+                <h5>Update #${index + 1}: ${escapeHtml(update.action || 'N/A')}</h5>
+                <p><strong>Type:</strong> ${escapeHtml(update.state_type || 'N/A')}</p>
+                <p><strong>Content:</strong> ${escapeHtml(update.content || update.strategy || 'N/A')}</p>
+            </div>
+        `).join('');
+    }
+
+    const roleEntries = backward.strategy_updates
+        ? [['Strategy Updates', backward]]
+        : Object.entries(backward);
+
+    let html = '';
+    roleEntries.forEach(([role, roleResult]) => {
+        if (!roleResult || typeof roleResult !== 'object') return;
+        const updates = roleResult.strategy_updates || {};
+        const analysis = roleResult.analysis || '';
+        html += `
+            <div style="margin-bottom: 18px; padding: 12px; background: rgba(15, 23, 42, 0.04); border-left: 3px solid #0f172a; border-radius: 4px;">
+                <h4 style="margin: 0 0 10px 0; color: #0f172a; font-size: 1rem;">${escapeHtml(role)}</h4>
+                ${analysis ? `<p style="color: #334155; line-height: 1.5; margin-bottom: 12px;">${formatTextWithLineBreaks(String(analysis).slice(0, 1200))}</p>` : ''}
+        `;
+
+        Object.entries(updates).forEach(([level, strategies]) => {
+            if (!Array.isArray(strategies) || strategies.length === 0) return;
+            html += `
+                <div style="margin-bottom: 12px; padding: 12px; background: rgba(59, 130, 246, 0.05); border-left: 3px solid #3b82f6; border-radius: 4px;">
+                    <h5 style="margin: 0 0 10px 0; color: #1e40af; font-size: 0.95rem;">${escapeHtml(level.toUpperCase())}</h5>
+            `;
+            strategies.forEach((strategy) => {
+                const typeText = strategy.type || 'UPDATE';
+                html += `
+                    <div style="margin-bottom: 10px; padding: 10px; background: white; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
+                            <span style="color: #0f766e; font-weight: 600; font-size: 0.9rem;">${escapeHtml(typeText)}</span>
+                            <span style="color: #94a3b8; font-size: 0.85rem; font-family: monospace;">${escapeHtml(strategy.id || 'N/A')}</span>
+                        </div>
+                        <div style="color: #1e293b; line-height: 1.5; font-size: 0.9rem;">${formatTextWithLineBreaks(strategy.content || strategy.strategy || 'No content')}</div>
+                    </div>
+                `;
+            });
+            html += '</div>';
+        });
+        html += '</div>';
+    });
+
+    return html || '<p style="color: #64748b; padding: 12px;">Strategy database not updated.</p>';
 }
 
 // Display environment data
@@ -583,7 +644,7 @@ function displayIntermediateResults(intermediate) {
         beliefEl.innerHTML = `
             <strong style="color: #10b981;">✓ Completed</strong>
             <small style="color: #64748b;"> (backend: ${backendTime}, frontend received: ${now})</small>
-            <br>${beliefText}
+            <br>${formatTextWithLineBreaks(beliefText)}
         `;
         
         // Update hint text
@@ -602,7 +663,7 @@ function displayIntermediateResults(intermediate) {
         intentEl.innerHTML = `
             <strong style="color: #10b981;">✓ Completed</strong>
             <small style="color: #64748b;"> (backend: ${backendTime}, frontend received: ${now})</small>
-            <br>${intentText}
+            <br>${formatTextWithLineBreaks(intentText)}
         `;
         
         // Update hint text
@@ -621,7 +682,7 @@ function displayIntermediateResults(intermediate) {
         emotionEl.innerHTML = `
             <strong style="color: #10b981;">✓ Completed</strong>
             <small style="color: #64748b;"> (backend: ${backendTime}, frontend received: ${now})</small>
-            <br>${emotionText}
+            <br>${formatTextWithLineBreaks(emotionText)}
         `;
     }
     
@@ -649,11 +710,14 @@ function displayIntermediateResults(intermediate) {
             expertContent.innerHTML = '';
             
             intermediate.expert_samples.forEach((sample, idx) => {
-                console.log(`  Expert ${sample.index} (${sample.role ? sample.role.substring(0, 30) : 'unknown'}): up probability ${(sample.probability * 100).toFixed(1)}%`);
+                const probability = Number(sample.probability ?? 0.5);
+                const logConfidence = Number(sample.log_confidence ?? 0);
+                const normalizedWeight = Number(sample.normalized_weight ?? sample.weight ?? 0);
+                console.log(`  Expert ${sample.index} (${sample.role ? sample.role.substring(0, 30) : 'unknown'}): up probability ${(probability * 100).toFixed(1)}%`);
                 
                 // Create expert judgment card
-                const probPercent = (sample.probability * 100).toFixed(1);
-                const isHigh = sample.probability > 0.5;
+                const probPercent = (probability * 100).toFixed(1);
+                const isHigh = probability > 0.5;
                 
                 // Extract expert role name (first sentence or first 50 chars)
                 let roleName = 'Expert ' + sample.index;
@@ -679,10 +743,10 @@ function displayIntermediateResults(intermediate) {
                     ` : ''}
                     <div class="expert-meta">
                         <div class="expert-meta-item">
-                            <strong>Confidence:</strong> ${sample.log_confidence.toFixed(3)}
+                            <strong>Confidence:</strong> ${logConfidence.toFixed(3)}
                         </div>
                         <div class="expert-meta-item">
-                            <strong>Weight:</strong> ${(sample.normalized_weight * 100).toFixed(1)}%
+                            <strong>Weight:</strong> ${(normalizedWeight * 100).toFixed(1)}%
                         </div>
                     </div>
                 `;
@@ -710,73 +774,10 @@ function displayIntermediateResults(intermediate) {
     
     if (intermediate.backward_result) {
         console.log('✅ Updating backward inference results:', intermediate.backward_result);
-        console.log('📊 Type:', typeof intermediate.backward_result);
-        console.log('📊 Keys:', Object.keys(intermediate.backward_result));
-        
         const backwardCard = document.getElementById('backward-card');
         const backwardContent = document.getElementById('backward-content');
         backwardCard.style.display = 'block';
-        
-        // Parse backward inference results
-        let resultHTML = '';
-        
-        if (typeof intermediate.backward_result === 'object') {
-            // If it's an object, display strategy database updates
-            const updates = intermediate.backward_result['strategy_updates'] || intermediate.backward_result || {};
-            
-            console.log('📋 Strategy database update content:', updates);
-            console.log('📋 Update keys:', Object.keys(updates));
-            console.log('📋 Update entries:', Object.entries(updates));
-            
-            if (Object.keys(updates).length > 0) {
-                resultHTML += '<div style="margin-top: 12px;">';
-                
-                // Level name mapping
-                const levelNames = {
-                    'belief': 'Belief Strategy',
-                    'intent': 'Intent Strategy',
-                    'emotion': 'Emotion Strategy'
-                };
-                
-                for (const [level, strategies] of Object.entries(updates)) {
-                    const levelName = levelNames[level] || level;
-                    resultHTML += `
-                        <div style="margin-bottom: 16px; padding: 12px; background: rgba(59, 130, 246, 0.05); border-left: 3px solid #3b82f6; border-radius: 4px;">
-                            <h4 style="margin: 0 0 12px 0; color: #1e40af; font-size: 1rem;">📚 ${levelName}</h4>
-                    `;
-                    
-                    if (Array.isArray(strategies)) {
-                        strategies.forEach((strategy, idx) => {
-                            const typeColor = strategy.type === 'CREATE' || strategy.type === 'create' ? '#10b981' : '#f59e0b';
-                            const typeIcon = strategy.type === 'CREATE' || strategy.type === 'create' ? '✨' : '🔄';
-                            const typeText = strategy.type === 'CREATE' || strategy.type === 'create' ? 'CREATE' : strategy.type === 'MODIFY' || strategy.type === 'modify' ? 'MODIFY' : strategy.type;
-                            
-                            resultHTML += `
-                                <div style="margin-bottom: 12px; padding: 10px; background: white; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
-                                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
-                                        <span style="color: ${typeColor}; font-weight: 600; font-size: 0.9rem;">${typeIcon} ${typeText}</span>
-                                        <span style="color: #94a3b8; font-size: 0.85rem; font-family: monospace;">${strategy.id || 'N/A'}</span>
-                                    </div>
-                                    <div style="color: #1e293b; line-height: 1.5; font-size: 0.9rem;">
-                                        ${strategy.content || 'No content'}
-                                    </div>
-                                </div>
-                            `;
-                        });
-                    }
-                    
-                    resultHTML += '</div>';
-                }
-                resultHTML += '</div>';
-            } else {
-                resultHTML = '<p style="color: #64748b; padding: 12px;">✓ Strategy database not updated (prediction may be correct or no adjustment needed)</p>';
-            }
-        } else {
-            // If it's a string, display directly
-            resultHTML = `<p style="color: #1e293b; line-height: 1.6; padding: 12px;">${intermediate.backward_result}</p>`;
-        }
-        
-        backwardContent.innerHTML = resultHTML;
+        backwardContent.innerHTML = renderBackwardResult(intermediate.backward_result);
     }
     
     // Display visualization if available

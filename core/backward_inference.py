@@ -1,15 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Inter-Agent Learning via Backward Inference.
-
-When a prediction is wrong, identifies which agents predicted correctly
-(successful peers) and which failed. For each failing agent, the backward
-inference compares the failing trace with all successful peers' traces,
-then updates the failing agent's CEP strategies.
-
-Update rule:
-    Pi_A^updates = LLM_Learn(Context, Pi_A^retrieved, {M_t^k}_{k in S_t}, actual_action)
-"""
 import json
 import os
 import time
@@ -70,7 +59,6 @@ def rate_limit_api_call(func):
 
 
 class StrategyUpdateItem(BaseModel):
-    """One strategy update from backward inference."""
     target_state_type: str = Field(..., description="Belief, Intention, or Emotion")
     decision_type: str = Field(..., description="MODIFY or CREATE")
     target_strategy_id: Optional[str] = Field(None)
@@ -96,14 +84,12 @@ class StrategyUpdateItem(BaseModel):
 
 
 class BackwardInferenceResponse(BaseModel):
-    """Complete backward inference response."""
     failing_agent: str = Field(...)
     peer_insight: str = Field("")
     strategy_updates: List[StrategyUpdateItem] = Field(default_factory=list)
 
 
 class BackwardInference:
-    """Inter-Agent Learning: failed agents learn from successful peers."""
 
     def __init__(self,
                  cep: CognitiveEnhancementPlugin,
@@ -115,7 +101,8 @@ class BackwardInference:
                  max_retries: int = 5,
                  base_delay_seconds: float = 2,
                  llm_temperature: float = 0.7,
-                 llm_max_tokens: int = 5000):
+                 llm_max_tokens: int = 5000,
+                 llm_extra_body: Optional[dict] = None):
 
         self.cep = cep
         self.llm_client = llm_client
@@ -127,6 +114,7 @@ class BackwardInference:
         self.base_delay = base_delay_seconds
         self.llm_temperature = llm_temperature
         self.llm_max_tokens = llm_max_tokens
+        self.llm_extra_body = llm_extra_body
 
         self.backward_logs_dir = os.path.join(
             os.path.dirname(inference_logs_abs_path), "backward_inference_logs"
@@ -160,7 +148,6 @@ class BackwardInference:
         return f"Strategy not found: {strategy_id}"
 
     def _build_successful_peers_block(self, successful_agents: Dict[str, Dict]) -> str:
-        """Build XML block for successful peers' traces."""
         blocks = []
         for role, trace in successful_agents.items():
             block = f"""      <Peer>
@@ -200,13 +187,16 @@ class BackwardInference:
     def _call_backward_llm(self, prompt: str) -> Optional[str]:
         for attempt in range(self.max_retries):
             try:
-                response = self.llm_client.chat.completions.create(
-                    model=self.llm_model,
-                    messages=[{"role": "system", "content": prompt}],
-                    temperature=self.llm_temperature,
-                    max_tokens=self.llm_max_tokens,
-                    response_format={"type": "json_object"}
-                )
+                request_kwargs = {
+                    "model": self.llm_model,
+                    "messages": [{"role": "system", "content": prompt}],
+                    "temperature": self.llm_temperature,
+                    "max_tokens": self.llm_max_tokens,
+                    "response_format": {"type": "json_object"},
+                }
+                if self.llm_extra_body:
+                    request_kwargs["extra_body"] = self.llm_extra_body
+                response = self.llm_client.chat.completions.create(**request_kwargs)
                 return response.choices[0].message.content.strip()
             except Exception as e:
                 delay = self.base_delay * (2 ** attempt) + random.uniform(0, 0.5)
@@ -216,7 +206,6 @@ class BackwardInference:
 
     def _rebuild_states_scenario(self, level: str, agent_trace: Dict,
                                  env_state: str) -> Dict[str, str]:
-        """Rebuild state scenario for strategy insertion."""
         scenario = {}
         if level == "belief":
             scenario["environmental"] = env_state
@@ -230,7 +219,6 @@ class BackwardInference:
     def _process_updates(self, llm_response: str, failing_agent: str,
                          agent_trace: Dict, env_state: str,
                          strategies_used: Dict[str, List[str]]) -> Dict:
-        """Process LLM backward response and apply strategy updates."""
         try:
             data = json.loads(llm_response)
         except json.JSONDecodeError:
@@ -316,17 +304,6 @@ class BackwardInference:
                                    actual_action: str = "",
                                    # Legacy params
                                    predicted_action: str = None) -> Optional[Dict]:
-        """Perform inter-agent backward inference.
-        
-        Args:
-            filename: Inference log filename
-            agent_predictions: {agent_role: {predicted_action, p_up, ...}}
-            actual_action: Ground truth action (Buy or Sell)
-            predicted_action: Legacy param (single prediction)
-            
-        Returns:
-            Dict with analysis results per failing agent, or legacy format
-        """
         try:
             print(f"\n{COLOR_TITLE}=== INTER-AGENT BACKWARD INFERENCE ==={COLOR_RESET}")
 
@@ -397,7 +374,7 @@ class BackwardInference:
                 pred_action = agent_predictions[failing_role].get('predicted_action', 'Unknown')
 
                 prompt = template
-                prompt = prompt.replace('[AGENT_ROLE]', self.agent_roles[0] if self.agent_roles else failing_role)
+                prompt = prompt.replace('[AGENT_ROLE]', failing_role)
                 prompt = prompt.replace('[AGENT_ROLE_2]', role2)
                 prompt = prompt.replace('[AGENT_ROLE_3]', role3)
                 prompt = prompt.replace('[FAILING_AGENT]', failing_role)

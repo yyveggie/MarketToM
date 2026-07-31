@@ -1,13 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Dynamic Weighted Aggregation for Multi-Agent Action Prediction.
-
-Each agent predicts Buy/Sell via the action-prediction prompt.
-Aggregation formula:
-    W_k = Softmax((alpha * A_k + gamma * C_k) / T)
-    P_up = sum(W_k * p_up_k)
-where A_k = EMA accuracy, C_k = log-confidence from logprobs.
-"""
 import json
 import os
 import time
@@ -66,14 +57,12 @@ def rate_limit_api_call(func):
 
 # ---------- Response models ----------
 class AgentActionResponse(BaseModel):
-    """Expected JSON from action-prediction prompt."""
     agent_role: str = Field(...)
     predicted_action: str = Field(..., description="Buy or Sell")
 
 
 @dataclass
 class AgentPrediction:
-    """Holds one agent's prediction plus aggregation metadata."""
     agent_role: str
     predicted_action: str  # "Buy" or "Sell"
     p_up: float = 0.5     # 1.0 if Buy, 0.0 if Sell
@@ -82,7 +71,6 @@ class AgentPrediction:
 
 
 class ProbabilityResult:
-    """Final aggregated result."""
     def __init__(self, probability: float,
                  agent_predictions: Dict[str, Dict],
                  weights: Dict[str, float]):
@@ -93,7 +81,6 @@ class ProbabilityResult:
 
 # ---------- Main calculator ----------
 class ActionProbabilityCalculator:
-    """Per-agent action prediction + dynamic weighted aggregation."""
 
     def __init__(self,
                  cep: CognitiveEnhancementPlugin = None,
@@ -109,7 +96,9 @@ class ActionProbabilityCalculator:
                  max_retries: int = 5,
                  base_delay: float = 1.0,
                  llm_temperature: float = 0.7,
-                 num_action_samples: int = 10,
+                 ccn_dependency_variant: str = "full",
+                 llm_extra_body: dict = None,
+                 role_shuffle: bool = False,
                  # Legacy params (accepted but ignored)
                  expert_template_abs_path: str = None,
                  num_probs_to_generate: int = None,
@@ -132,7 +121,9 @@ class ActionProbabilityCalculator:
         self.max_retries = max_retries
         self.base_delay = base_delay
         self.llm_temperature = llm_temperature
-        self.num_action_samples = max(1, num_action_samples)
+        self.ccn_dependency_variant = ccn_dependency_variant
+        self.llm_extra_body = llm_extra_body
+        self.role_shuffle = role_shuffle
 
         # Template path: prefer new param, fall back to legacy
         self.template_path = action_template_abs_path or expert_template_abs_path or ""
@@ -156,7 +147,6 @@ class ActionProbabilityCalculator:
     @rate_limit_api_call
     def _predict_agent_action(self, agent_role: str,
                               intent: str, emotion: str) -> Optional[AgentPrediction]:
-        """Call LLM with logprobs to get Buy/Sell + confidence for one agent."""
         template = self._load_template()
         role2, role3 = self._get_other_roles(agent_role)
 
@@ -169,14 +159,24 @@ class ActionProbabilityCalculator:
 
         for attempt in range(self.max_retries):
             try:
-                response = self.llm_client.chat.completions.create(
-                    model=self.llm_model,
-                    messages=[{"role": "system", "content": prompt}],
-                    temperature=self.llm_temperature,
-                    response_format={"type": "json_object"},
-                    logprobs=True,
-                    top_logprobs=5
-                )
+                request_kwargs = {
+                    "model": self.llm_model,
+                    "messages": [{"role": "system", "content": prompt}],
+                    "temperature": self.llm_temperature,
+                    "response_format": {"type": "json_object"},
+                    "logprobs": True,
+                    "top_logprobs": 5,
+                }
+                if self.llm_extra_body:
+                    request_kwargs["extra_body"] = self.llm_extra_body
+                try:
+                    response = self.llm_client.chat.completions.create(**request_kwargs)
+                except Exception as e:
+                    if "logprobs" not in str(e).lower() and "top_logprobs" not in str(e).lower():
+                        raise
+                    request_kwargs.pop("logprobs", None)
+                    request_kwargs.pop("top_logprobs", None)
+                    response = self.llm_client.chat.completions.create(**request_kwargs)
                 raw = response.choices[0].message.content.strip()
                 data = json.loads(raw)
                 parsed = AgentActionResponse.model_validate(data)
@@ -208,7 +208,6 @@ class ActionProbabilityCalculator:
         return None
 
     def _extract_action_log_confidence(self, choice, action: str) -> float:
-        """Extract log-probability of the predicted action token from logprobs."""
         try:
             if hasattr(choice, 'logprobs') and choice.logprobs and choice.logprobs.content:
                 action_lower = action.lower()
@@ -224,7 +223,7 @@ class ActionProbabilityCalculator:
                                 return alt.logprob
         except Exception as e:
             logger.warning(f"Could not extract logprob: {e}")
-        return 0.0  # Default: no confidence signal
+        return math.log(0.5)
 
     @staticmethod
     def _softmax(values: List[float]) -> List[float]:
@@ -234,11 +233,6 @@ class ActionProbabilityCalculator:
         return [e / total for e in exps]
 
     def _dynamic_aggregate(self, predictions: List[AgentPrediction]) -> Tuple[float, Dict[str, float]]:
-        """Dynamic weighted aggregation.
-        
-        W_k = Softmax((alpha * A_k + gamma * C_k) / T)
-        P_up = sum(W_k * p_up_k)
-        """
         if not predictions:
             return 0.5, {}
 
@@ -259,14 +253,23 @@ class ActionProbabilityCalculator:
         return p_up, weight_dict
 
     def update_ema_accuracy(self, agent_role: str, correct: bool):
-        """Update EMA accuracy for an agent after ground truth is known."""
         current = self._ema_accuracy.get(agent_role, 0.5)
         self._ema_accuracy[agent_role] = (
             self.ema_decay * current + (1 - self.ema_decay) * (1.0 if correct else 0.0)
         )
 
+    def _shuffle_agent_roles(self, agent_results: Dict[str, Any]) -> Dict[str, Any]:
+        present = [role for role in self.agent_roles if role in agent_results]
+        if len(present) < 2:
+            return agent_results
+        sources = present[:]
+        random.shuffle(sources)
+        shuffled = dict(agent_results)
+        for role, source in zip(present, sources):
+            shuffled[role] = agent_results[source]
+        return shuffled
+
     def calculate_probability_from_file(self, filename: str) -> ProbabilityResult:
-        """Main entry: load inference log, predict per agent, aggregate."""
         log_data = self.load_inference_log(filename)
 
         agent_results = log_data.get('agent_results', {})
@@ -283,8 +286,10 @@ class ActionProbabilityCalculator:
                 }
             }
 
+        if self.role_shuffle:
+            agent_results = self._shuffle_agent_roles(agent_results)
+
         print(f"\n{COLOR_TITLE}=== MULTI-AGENT ACTION PREDICTION ==={COLOR_RESET}")
-        print(f"  {COLOR_INFO}(n={self.num_action_samples} samples per agent){COLOR_RESET}")
 
         predictions: List[AgentPrediction] = []
 
@@ -294,43 +299,23 @@ class ActionProbabilityCalculator:
             states = agent_results[role]
             intent = states.get('intent', '')
             emotion = states.get('emotion', '')
+            if self.ccn_dependency_variant == "no_intent_emotion_to_action":
+                intent = "N/A"
+                emotion = "N/A"
 
             if not intent and not emotion:
                 logger.warning(f"No intent/emotion for {role}, skipping")
                 continue
 
-            # --- Sample n times per agent and average ---
-            n = self.num_action_samples
-            print(f"  {COLOR_INFO}[{role}]{COLOR_RESET} Predicting action (n={n})...")
-            sample_preds: List[AgentPrediction] = []
-            for s_idx in range(n):
-                pred = self._predict_agent_action(role, intent, emotion)
-                if pred:
-                    sample_preds.append(pred)
-
-            if not sample_preds:
-                print(f"  {COLOR_ERROR}✗ {role}: all {n} samples failed{COLOR_RESET}")
+            print(f"  {COLOR_INFO}[{role}]{COLOR_RESET} Predicting action...")
+            pred = self._predict_agent_action(role, intent, emotion)
+            if not pred:
+                print(f"  {COLOR_ERROR}✗ {role}: action prediction failed{COLOR_RESET}")
                 continue
 
-            if len(sample_preds) == 1:
-                avg_pred = sample_preds[0]
-            else:
-                # Average p_up and log_confidence across samples
-                avg_p_up = sum(p.p_up for p in sample_preds) / len(sample_preds)
-                avg_logconf = sum(p.log_confidence for p in sample_preds) / len(sample_preds)
-                majority_action = 'Buy' if avg_p_up >= 0.5 else 'Sell'
-                avg_pred = AgentPrediction(
-                    agent_role=role,
-                    predicted_action=majority_action,
-                    p_up=avg_p_up,
-                    log_confidence=avg_logconf,
-                    weight=0.0  # will be set by aggregation
-                )
-
-            predictions.append(avg_pred)
-            print(f"  {COLOR_SUCCESS}✓ {role}: {avg_pred.predicted_action} "
-                  f"(p_up={avg_pred.p_up:.3f}, logconf={avg_pred.log_confidence:.3f}, "
-                  f"{len(sample_preds)}/{n} ok){COLOR_RESET}")
+            predictions.append(pred)
+            print(f"  {COLOR_SUCCESS}✓ {role}: {pred.predicted_action} "
+                  f"(p_up={pred.p_up:.3f}, logconf={pred.log_confidence:.3f}){COLOR_RESET}")
 
         if not predictions:
             print(f"{COLOR_ERROR}No agent predictions available!{COLOR_RESET}")

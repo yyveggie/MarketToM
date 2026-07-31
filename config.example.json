@@ -3,37 +3,100 @@
     "active_llm_provider": "openai",
     "providers": {
       "openai": {
-        "api_key": "YOUR_OPENAI_API_KEY_HERE",
+        "api_key_env": "OPENAI_API_KEY",
         "base_url": "https://api.openai.com/v1",
         "llm_model_default": "gpt-4o-2024-11-20"
       },
+      "moonshot": {
+        "api_key_env": "MOONSHOT_API_KEY",
+        "base_url": "https://api.moonshot.cn/v1",
+        "llm_model_default": "kimi-k2.5",
+        "timeout": 60,
+        "extra_body": {
+          "thinking": {
+            "type": "disabled"
+          }
+        }
+      },
       "grok": {
-        "api_key": "YOUR_GROK_API_KEY_HERE",
+        "api_key_env": "XAI_API_KEY",
         "base_url": "https://api.x.ai/v1",
         "llm_model_default": "grok-3-beta"
+      },
+      "anthropic": {
+        "_description": "Native Messages API, not OpenAI-compatible. Independent evaluator for the cross-LLM consistency analysis. Set base_url only if routing through a relay.",
+        "type": "anthropic",
+        "api_key_env": "ANTHROPIC_API_KEY",
+        "llm_model_default": "claude-opus-4-7"
       }
     }
   },
+  "api_rate_limit": {
+    "min_request_interval": 20.0,
+    "default_cooldown": 20.0,
+    "max_jitter": 1.0
+  },
   "directories": {
-    "inference_logs": "./storage/inference_logs",
-    "strategy_database": "./storage/strategy_database",
+    "inference_logs": "./runtime_storage/inference_logs",
+    "strategy_database": "./runtime_storage/strategy_database",
     "data_base_dir": "./data",
-    "prediction_log_path": "./prediction_results.json"
+    "prediction_log_path": "./outputs/metrics/prediction_results.json"
   },
   "data_params": {
-    "default_window_size": 5,
-    "default_stocks": ["AAPL", "FB", "T", "GOOG", "AMZN"],
-    "skip_backward_inference": false,
     "dataset_name": "StockNet",
-    "dataset_split": "Test"
+    "dataset_split": "Test",
+    "default_stocks": [
+      "AAPL",
+      "FB",
+      "T",
+      "GOOG",
+      "AMZN"
+    ],
+    "default_window_size": 5,
+    "max_samples": null,
+    "skip_backward_inference": false,
+    "cep_update_mode": "benchmark"
   },
   "templates": {
-    "forward_inference": "./templates/forward_prompt_template.xml",
-    "backward_inference": "./templates/backward_prompt_template.xml",
-    "expert_action_probability": "./templates/expert_action_prob_template.xml"
+    "forward_inference": "./prompt_templates/forward_prompt_template.xml",
+    "backward_inference": "./prompt_templates/backward_prompt_template.xml",
+    "expert_action_probability": "./prompt_templates/expert_action_prob_template.xml"
+  },
+  "model_params": {
+    "forward": {
+      "max_retries": 5,
+      "base_delay_seconds": 1,
+      "llm_temperature": 0.7
+    },
+    "action_probability": {
+      "max_retries": 5,
+      "base_delay_seconds": 1.0,
+      "llm_temperature": 0.7
+    },
+    "backward": {
+      "max_retries": 5,
+      "base_delay_seconds": 2,
+      "llm_temperature": 0.7,
+      "llm_max_tokens": 5000
+    },
+    "evaluation": {
+      "llm_temperature": 0.3
+    },
+    "case_study": {
+      "llm_temperature": 0.6
+    },
+    "semantic_perturbation": {
+      "max_retries": 5,
+      "base_delay_seconds": 2.0,
+      "llm_temperature": 0.3
+    }
   },
   "agent_params": {
-    "agent_roles": ["Retail", "Institutional", "Arbitrageur"],
+    "agent_roles": [
+      "Retail",
+      "Institutional",
+      "Arbitrageur"
+    ],
     "alpha": 1.0,
     "gamma": 1.0,
     "aggregation_temperature": 1.0,
@@ -45,91 +108,355 @@
     "tom_order": 2,
     "cep_enabled": true,
     "backward_enabled": true,
-    "num_action_samples": 10,
-    "_dimensions": {
-      "mode":   ["full", "llm_only", "no_cep"],
-      "tom_order": [1, 2],
-      "T (temperature)": [0, 0.7, 1.5]
-    },
+    "ccn_dependency_variant": "full",
     "presets": {
       "LLM-only": {
-        "_description": "Raw LLM zero-shot prediction, no CCN / CEP / ToM",
-        "ablation": { "mode": "llm_only", "cep_enabled": false, "backward_enabled": false },
-        "forward_inference_params": { "llm_temperature": 0.7 }
+        "_description": "Raw LLM zero-shot prediction, no CCN, CEP, or ToM.",
+        "ablation": {
+          "mode": "llm_only",
+          "cep_enabled": false,
+          "backward_enabled": false
+        },
+        "model_params": {
+          "forward": {
+            "llm_temperature": 0.7
+          }
+        }
       },
       "MarketToM-NoCEP": {
-        "_description": "CCN + ToM reasoning, but no CEP retrieval or backward learning",
-        "ablation": { "mode": "no_cep", "cep_enabled": false, "backward_enabled": false },
-        "forward_inference_params": { "llm_temperature": 0.7 }
+        "_description": "CCN and ToM reasoning without CEP retrieval or backward learning.",
+        "ablation": {
+          "mode": "no_cep",
+          "cep_enabled": false,
+          "backward_enabled": false
+        },
+        "model_params": {
+          "forward": {
+            "llm_temperature": 0.7
+          }
+        }
       },
       "MarketToM-1st": {
-        "_description": "First-order ToM + CEP (second-order reasoning disabled)",
-        "ablation": { "mode": "full", "tom_order": 1 },
-        "forward_inference_params": { "llm_temperature": 0.7 }
+        "_description": "First-order ToM with CEP.",
+        "ablation": {
+          "mode": "full",
+          "tom_order": 1
+        },
+        "model_params": {
+          "forward": {
+            "llm_temperature": 0.7
+          }
+        }
       },
       "MarketToM-2nd": {
-        "_description": "Full MarketToM (second-order ToM + CEP) — default",
-        "ablation": { "mode": "full", "tom_order": 2 },
-        "forward_inference_params": { "llm_temperature": 0.7 }
+        "_description": "Full MarketToM with second-order ToM and CEP.",
+        "ablation": {
+          "mode": "full",
+          "tom_order": 2
+        },
+        "model_params": {
+          "forward": {
+            "llm_temperature": 0.7
+          }
+        }
       },
       "MarketToM-T0": {
-        "_description": "Temperature sensitivity: T=0 (deterministic reasoning)",
-        "forward_inference_params": { "llm_temperature": 0 }
+        "_description": "Temperature sensitivity: T=0.",
+        "model_params": {
+          "forward": {
+            "llm_temperature": 0
+          }
+        }
       },
       "MarketToM-T0.7": {
-        "_description": "Temperature sensitivity: T=0.7 (optimal, same as default)",
-        "forward_inference_params": { "llm_temperature": 0.7 }
+        "_description": "Temperature sensitivity: T=0.7.",
+        "model_params": {
+          "forward": {
+            "llm_temperature": 0.7
+          }
+        }
       },
       "MarketToM-T1.5": {
-        "_description": "Temperature sensitivity: T=1.5 (high randomness)",
-        "forward_inference_params": { "llm_temperature": 1.5 }
+        "_description": "Temperature sensitivity: T=1.5.",
+        "model_params": {
+          "forward": {
+            "llm_temperature": 1.5
+          }
+        }
+      },
+      "MarketToM-RoleShuffled": {
+        "_description": "ToM counterfactual: shuffle role mental-state triples before action prediction.",
+        "ablation": {
+          "mode": "full",
+          "tom_order": 2,
+          "tom_role_shuffle": true
+        },
+        "model_params": {
+          "forward": {
+            "llm_temperature": 0.7
+          }
+        }
       }
     }
   },
   "cep_retrieval": {
     "default_top_k": 1,
     "similarity_threshold": 0.1,
-    "action_prob_top_k": 1,
     "emotion_similarity_threshold": 0.5,
     "belief_similarity_threshold": 0.5,
     "intent_similarity_threshold": 0.5
   },
-  "forward_inference_params": {
+  "external_consistency": {
+    "_description": "Same-input cross-LLM consistency check on the inferred mental states. The evaluator must differ from the inference backbone, otherwise the run measures same-model self-agreement.",
+    "evaluator_provider": "anthropic",
+    "evaluator_model": null,
+    "evaluator_temperature": 0.0,
+    "evaluator_max_tokens": 2048,
+    "allow_same_model": false,
     "max_retries": 5,
-    "base_delay_seconds": 1,
-    "llm_temperature": 0.7
+    "retry_base_delay_seconds": 2.0,
+    "sleep_between_instances": 0.5,
+    "sample_size": 200,
+    "sampling": "random",
+    "random_seed": 20260730,
+    "rubric": {
+      "belief": [
+        "bullish",
+        "neutral",
+        "bearish"
+      ],
+      "intention": [
+        "buy",
+        "hold",
+        "sell"
+      ],
+      "emotion": [
+        "positive",
+        "neutral",
+        "negative"
+      ]
+    }
   },
-  "action_probability_params": {
-    "max_retries_list": 5,
-    "base_delay_list_seconds": 1.0,
-    "llm_temperature": 0.7
-  },
-  "backward_inference_params": {
-    "max_retries": 5,
-    "base_delay_seconds": 2,
-    "llm_temperature": 0.7,
-    "llm_max_tokens": 5000
-  },
-  "stance_classification": {
-    "enabled": true,
-    "temperature": 0.3,
-    "max_retries": 3,
-    "min_confidence_threshold": 0.5,
-    "auto_classify_on_inference": false,
-    "save_reasoning": true
-  },
-  "reversal_analysis": {
-    "enabled": true,
-    "min_samples_for_pattern": 5,
-    "coherence_threshold": 0.8,
-    "export_format": ["json", "csv"],
-    "generate_plots": true
-  },
-  "experiment_settings": {
-    "baseline_comparison": true,
-    "e2_prime_validation": true,
-    "pattern_analysis_depth": "detailed",
-    "confidence_weighting": true
+  "experiment_tasks": {
+    "main": {
+      "datasets": [
+        "ACL18",
+        "CMIN-US",
+        "CMIN-CN"
+      ],
+      "splits": [
+        "Test"
+      ],
+      "presets": [
+        "MarketToM-2nd"
+      ],
+      "models": [
+        "gpt4o",
+        "qwen2.5-72b"
+      ],
+      "ccn_dependency_variants": [
+        "full"
+      ],
+      "prompt_formats": [
+        "xml"
+      ],
+      "train_first": true
+    },
+    "ablation": {
+      "datasets": [
+        "ACL18",
+        "CMIN-US",
+        "CMIN-CN"
+      ],
+      "splits": [
+        "Test"
+      ],
+      "presets": [
+        "LLM-only",
+        "MarketToM-NoCEP",
+        "MarketToM-1st",
+        "MarketToM-2nd"
+      ],
+      "models": [
+        "qwen2.5-72b"
+      ],
+      "ccn_dependency_variants": [
+        "full"
+      ],
+      "prompt_formats": [
+        "xml"
+      ],
+      "train_first": true
+    },
+    "tom_counterfactual": {
+      "datasets": [
+        "ACL18",
+        "CMIN-US",
+        "CMIN-CN"
+      ],
+      "splits": [
+        "Test"
+      ],
+      "presets": [
+        "MarketToM-2nd",
+        "MarketToM-1st",
+        "MarketToM-RoleShuffled"
+      ],
+      "models": [
+        "qwen2.5-72b"
+      ],
+      "ccn_dependency_variants": [
+        "full"
+      ],
+      "prompt_formats": [
+        "xml"
+      ],
+      "train_first": true
+    },
+    "ccn_dependency_ablation": {
+      "datasets": [
+        "ACL18",
+        "CMIN-US",
+        "CMIN-CN"
+      ],
+      "splits": [
+        "Test"
+      ],
+      "presets": [
+        "MarketToM-2nd"
+      ],
+      "models": [
+        "qwen2.5-72b"
+      ],
+      "ccn_dependency_variants": [
+        "full",
+        "no_belief_to_intent",
+        "no_belief_to_emotion",
+        "no_intent_emotion_to_action",
+        "shuffled_belief_parents"
+      ],
+      "prompt_formats": [
+        "xml"
+      ],
+      "train_first": true
+    },
+    "prompt_format_sensitivity": {
+      "datasets": [
+        "ACL18",
+        "CMIN-US",
+        "CMIN-CN"
+      ],
+      "splits": [
+        "Test"
+      ],
+      "presets": [
+        "MarketToM-2nd"
+      ],
+      "models": [
+        "qwen2.5-72b"
+      ],
+      "ccn_dependency_variants": [
+        "full"
+      ],
+      "prompt_formats": [
+        "xml",
+        "markdown",
+        "plain"
+      ],
+      "train_first": false
+    },
+    "robustness": {
+      "datasets": [
+        "StockNet-EntityMasked",
+        "StockNet-SemPerturb"
+      ],
+      "splits": [
+        "Train"
+      ],
+      "presets": [
+        "MarketToM-2nd"
+      ],
+      "models": [
+        "qwen2.5-72b"
+      ],
+      "ccn_dependency_variants": [
+        "full"
+      ],
+      "prompt_formats": [
+        "xml"
+      ],
+      "train_first": false
+    },
+    "entity_masking": {
+      "datasets": [
+        "StockNet",
+        "StockNet-EntityMasked",
+        "CMIN-US",
+        "CMIN-US-EntityMasked",
+        "CMIN-CN",
+        "CMIN-CN-EntityMasked"
+      ],
+      "splits": [
+        "Test"
+      ],
+      "presets": [
+        "MarketToM-2nd"
+      ],
+      "models": [
+        "qwen2.5-72b"
+      ],
+      "ccn_dependency_variants": [
+        "full"
+      ],
+      "prompt_formats": [
+        "xml"
+      ],
+      "train_first": true
+    },
+    "semantic_perturbation": {
+      "datasets": [
+        "StockNet",
+        "StockNet-SemPerturb"
+      ],
+      "splits": [
+        "Train"
+      ],
+      "presets": [
+        "MarketToM-2nd"
+      ],
+      "models": [
+        "qwen2.5-72b"
+      ],
+      "ccn_dependency_variants": [
+        "full"
+      ],
+      "prompt_formats": [
+        "xml"
+      ],
+      "train_first": false
+    },
+    "temporal_holdout": {
+      "datasets": [
+        "Holdout2025"
+      ],
+      "splits": [
+        ""
+      ],
+      "presets": [
+        "MarketToM-2nd"
+      ],
+      "models": [
+        "gpt4o",
+        "qwen2.5-72b"
+      ],
+      "ccn_dependency_variants": [
+        "full"
+      ],
+      "prompt_formats": [
+        "xml"
+      ],
+      "cep_update_mode": "online",
+      "train_first": false
+    }
   }
 }
-

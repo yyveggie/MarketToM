@@ -1,15 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-MarketToM — Multi-Agent Mental State Visualizer.
-
-Generates Graphviz-based flowcharts for:
-  - Multi-agent CCN inference (3 heterogeneous agents)
-  - Per-agent strategy retrieval (CEP)
-  - Dynamic weighted aggregation
-  - Inter-agent backward learning
-
-Supports BOTH legacy single-agent logs and new multi-agent logs.
-"""
 
 import json
 import re
@@ -46,7 +35,6 @@ STATE_COLORS = {
 # ── Data classes ──
 @dataclass
 class AgentMentalState:
-    """Mental states for a single agent."""
     agent_role: str
     belief: str = ""
     intent: str = ""
@@ -55,7 +43,6 @@ class AgentMentalState:
 
 @dataclass
 class InferenceStep:
-    """One forward-inference sample (supports multi-agent format)."""
     timestamp: str
     environmental_state: str
     agents: List[AgentMentalState] = field(default_factory=list)
@@ -66,7 +53,6 @@ class InferenceStep:
 
 @dataclass
 class BackwardUpdate:
-    """A single backward-inference strategy update."""
     failing_agent: str
     level: str           # belief / intent / emotion
     decision_type: str   # CREATE / MODIFY
@@ -76,7 +62,6 @@ class BackwardUpdate:
 
 # ── Main Visualizer ──
 class MentalStateVisualizer:
-    """Multi-agent mental state visualiser (Graphviz)."""
 
     def __init__(self, storage_dir: str = "./storage"):
         self.storage_dir = storage_dir
@@ -93,7 +78,6 @@ class MentalStateVisualizer:
     # ────────────────────────────────────────────
 
     def load_inference_log(self, log_file: str) -> Optional[InferenceStep]:
-        """Load a single inference log (handles both old & new formats)."""
         try:
             with open(log_file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
@@ -141,7 +125,6 @@ class MentalStateVisualizer:
             return None
 
     def load_all_inference_logs(self) -> List[InferenceStep]:
-        """Load and sort all inference logs by timestamp."""
         steps: List[InferenceStep] = []
         if not os.path.exists(self.inference_logs_dir):
             return steps
@@ -154,7 +137,6 @@ class MentalStateVisualizer:
         return steps
 
     def load_strategy_database(self) -> Dict[str, List[Dict]]:
-        """Load strategy database (per-agent or legacy flat)."""
         strategies: Dict[str, List[Dict]] = {"belief": [], "emotion": [], "intent": []}
         for stype in strategies:
             spath = os.path.join(self.strategy_database_dir, f"{stype}_strategies.json")
@@ -171,7 +153,6 @@ class MentalStateVisualizer:
         return strategies
 
     def _load_prediction_result(self, timestamp: str) -> Optional[Dict]:
-        """Load prediction result closest to the given timestamp."""
         pred_file = os.path.join(self.storage_dir, "..", "prediction_results.json")
         if not os.path.exists(pred_file):
             return None
@@ -190,7 +171,6 @@ class MentalStateVisualizer:
             return None
 
     def _load_backward_updates(self, timestamp: str) -> List[BackwardUpdate]:
-        """Load backward inference updates matching a given inference timestamp."""
         if not os.path.exists(self.backward_logs_dir):
             return []
         target = datetime.fromisoformat(timestamp.replace('Z', '+00:00'))
@@ -247,7 +227,6 @@ class MentalStateVisualizer:
 
     @staticmethod
     def _extract_desc(text: str) -> str:
-        """Extract 'mental state description' from JSON if applicable."""
         try:
             if isinstance(text, str) and text.strip().startswith('{'):
                 data = json.loads(text)
@@ -259,7 +238,6 @@ class MentalStateVisualizer:
 
     @staticmethod
     def format_full_text(text: str, max_length: int = 500, line_width: int = 50) -> str:
-        """Truncate + line-wrap text for Graphviz labels."""
         if not text:
             return ""
         text = re.sub(r'\s+', ' ', text.strip())
@@ -306,7 +284,6 @@ class MentalStateVisualizer:
     # ────────────────────────────────────────────
 
     def create_causal_network_graph(self) -> Optional[str]:
-        """Create multi-agent CCN (Causal Cognitive Network) architecture diagram."""
         if not GRAPHVIZ_AVAILABLE:
             return None
 
@@ -376,7 +353,6 @@ class MentalStateVisualizer:
     # ────────────────────────────────────────────
 
     def create_latest_complete_inference_graph(self) -> Optional[str]:
-        """Create a detailed flowchart of the latest inference (multi-agent)."""
         if not GRAPHVIZ_AVAILABLE:
             return None
 
@@ -518,7 +494,6 @@ class MentalStateVisualizer:
     # ────────────────────────────────────────────
 
     def create_mental_state_graph(self, step: InferenceStep) -> Optional[str]:
-        """Create a mental-state graph for a single inference step."""
         if not GRAPHVIZ_AVAILABLE:
             return None
 
@@ -703,7 +678,6 @@ Visualisation files → {self.output_dir}/
     # ────────────────────────────────────────────
 
     def visualize_all(self, max_individual_graphs: int = 5) -> Dict[str, Any]:
-        """Generate all visualisation outputs."""
         logger.info("Starting multi-agent visualisation...")
 
         steps = self.load_all_inference_logs()

@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Generate visualisation of the latest MarketToM multi-agent inference."""
 
 import sys
 from pathlib import Path
