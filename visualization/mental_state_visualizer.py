@@ -63,7 +63,7 @@ class BackwardUpdate:
 # ── Main Visualizer ──
 class MentalStateVisualizer:
 
-    def __init__(self, storage_dir: str = "./storage"):
+    def __init__(self, storage_dir: str = "./runtime_storage"):
         self.storage_dir = storage_dir
         self.inference_logs_dir = os.path.join(storage_dir, "inference_logs")
         self.backward_logs_dir = os.path.join(storage_dir, "backward_inference_logs")
@@ -153,7 +153,7 @@ class MentalStateVisualizer:
         return strategies
 
     def _load_prediction_result(self, timestamp: str) -> Optional[Dict]:
-        pred_file = os.path.join(self.storage_dir, "..", "prediction_results.json")
+        pred_file = os.path.join(self.storage_dir, "..", "outputs", "metrics", "prediction_results.json")
         if not os.path.exists(pred_file):
             return None
         try:

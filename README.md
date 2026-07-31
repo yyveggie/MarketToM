@@ -1,6 +1,5 @@
 # MarketToM: A Theory of Mind Framework for Modeling Latent Mental States in Stock Trend Prediction
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
 > Implementation of *"MarketToM: A Theory of Mind Framework for Modeling Latent Mental States in Stock Trend Prediction"* (under review).
@@ -46,7 +45,14 @@ cd MarketToM
 pip install -r requirements.txt
 ```
 
-Configure `config.json`:
+Create `config.json` from the shipped template (`config.json` is git-ignored, so your keys stay local):
+
+```bash
+cp config.example.json config.json
+export OPENAI_API_KEY="your-api-key-here"
+```
+
+The template resolves credentials from environment variables:
 
 ```json
 {
@@ -54,9 +60,9 @@ Configure `config.json`:
     "active_llm_provider": "openai",
     "providers": {
       "openai": {
-        "api_key": "your-api-key-here",
+        "api_key_env": "OPENAI_API_KEY",
         "base_url": "https://api.openai.com/v1",
-        "llm_model_default": "gpt-4o"
+        "llm_model_default": "gpt-4o-2024-11-20"
       }
     }
   }
@@ -78,14 +84,14 @@ cd web && python app.py
 
 ### Ablation Presets
 
-All 7 ablation variants from the paper are built into `config.json`. Use `--preset` to switch:
+All 8 ablation variants from the paper are built into `config.json`. Use `--preset` to switch:
 
 ```bash
 # List all available presets
 python run.py --list-presets
 ```
 
-**Part 1 — Component Ablation** (Table 3 in paper):
+**Part 1 — Component Ablation** (Figures 6–7 in paper):
 
 | Preset | Description | Command |
 |--------|-------------|---------|
@@ -93,6 +99,7 @@ python run.py --list-presets
 | `MarketToM-NoCEP` | CCN + ToM, but no CEP or backward learning | `python run.py --preset MarketToM-NoCEP` |
 | `MarketToM-1st` | First-order ToM + CEP | `python run.py --preset MarketToM-1st` |
 | `MarketToM-2nd` | **Full system** (2nd-order ToM + CEP) | `python run.py --preset MarketToM-2nd` |
+| `MarketToM-RoleShuffled` | Role-shuffled ToM counterfactual | `python run.py --preset MarketToM-RoleShuffled` |
 
 **Part 2 — Temperature Sensitivity** (Figure 6 in paper):
 
@@ -122,13 +129,13 @@ Available datasets: `StockNet`, `CMIN_US`, `CMIN_CN`.
 
 ```bash
 for preset in LLM-only MarketToM-NoCEP MarketToM-1st MarketToM-2nd \
-              MarketToM-T0 MarketToM-T0.7 MarketToM-T1.5; do
+              MarketToM-T0 MarketToM-T0.7 MarketToM-T1.5 MarketToM-RoleShuffled; do
     echo "===== Running $preset ====="
     python run.py --preset "$preset"
 done
 ```
 
-Prediction results are saved to `prediction_results.json` with an `"experiment"` field tagging each preset.
+Prediction results are saved to `outputs/metrics/prediction_results.json` with an `"experiment"` field tagging each preset.
 
 ### Manual Configuration
 
@@ -145,7 +152,8 @@ Alternatively, edit the `ablation` block in `config.json` directly:
 ```
 
 And adjust temperature as needed:
-- `forward_inference_params.llm_temperature` → T
+
+- `model_params.forward.llm_temperature` → T
 
 ## Web Interface
 
@@ -175,17 +183,20 @@ pip install graphviz
 python visualization/visualize_latest_inference.py
 ```
 
-Output saved to `storage/visualizations/`.
+Output saved to `runtime_storage/visualizations/`.
 
 ## Datasets
 
 | Dataset | Market | Period | Stocks | Instances |
 |---------|--------|--------|--------|-----------|
-| StockNet (ACL18) | US | 2014–2016 | 87 | ~30K |
-| CMIN-US | US | 2020–2023 | 115 | ~45K |
-| CMIN-CN | China | 2020–2023 | 772 | ~150K |
+| StockNet (ACL18) | US | 2014–2016 | 92 | ~42K |
+| CMIN-US | US | 2020–2023 | 115 | ~53K |
+| CMIN-CN | China | 2020–2023 | 300 | ~123K |
+
+Counts are for the full folders shipped here; the paper evaluates on repeated five-stock subsets drawn from the text-coverage-filtered pool of each dataset.
 
 Each stock folder contains:
+
 - `text_data.json` — Social media texts
 - `price_data.json` — OHLCV price data
 - `labels.json` — Binary labels (1 = Up, 0 = Down)
@@ -200,7 +211,7 @@ Each stock folder contains:
 
 ## License
 
-MIT License. See [LICENSE](LICENSE) for details.
+MIT License.
 
 ## Citation
 
